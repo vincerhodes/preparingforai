@@ -1,26 +1,20 @@
-# Podcast Site
+# Preparing for AI — Podcast Site
 
-Website for the podcast by Jimmy & Matt: episodes pulled from the Buzzsprout
-RSS feed, markdown articles, and a community forum powered by Giscus (GitHub
-Discussions). Built with Next.js 16 (App Router), React 19, TypeScript, and
-Tailwind CSS v4.
+Website for **Preparing for AI: The AI Podcast for Everybody** by Matt Cartwright &
+Jimmy Rhodes: episodes pulled from the Buzzsprout RSS feed, markdown articles,
+and a community forum powered by Giscus (GitHub Discussions). Built with
+Next.js 16 (App Router), React 19, TypeScript, and Tailwind CSS v4.
 
-All content gaps live in ONE file: **`site.config.ts`** at the repo root.
-Fill it in and the whole site lights up — no code changes needed.
+All content lives in ONE file: **`site.config.ts`** at the repo root.
 
 ## Fill-in-gaps checklist
 
-Edit `site.config.ts` (every placeholder is marked with a `TODO(podcast):` comment):
+Still to fill in `site.config.ts` (marked with `TODO(podcast):` comments):
 
-- [ ] `name` — the real podcast name
-- [ ] `tagline` — short one-liner
-- [ ] `description` — used for SEO metadata and JSON-LD
 - [ ] `url` — production domain (e.g. `https://yourpodcast.com`), drives
       `metadataBase`, sitemap, and JSON-LD
-- [ ] `rssFeedUrl` — the Buzzsprout RSS feed URL. Until this is set, the
-      homepage and `/episodes` show a styled "coming soon" placeholder.
-- [ ] `listenLinks` — Buzzsprout, Apple Podcasts, Spotify show URLs (the RSS
-      entry auto-fills from `rssFeedUrl`)
+- [ ] `listenLinks` — Apple Podcasts and Spotify show URLs (Buzzsprout and RSS
+      are already wired up)
 - [ ] `giscus` — see "Enabling the forum" below
 
 ## Adding an article

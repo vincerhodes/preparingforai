@@ -1,4 +1,6 @@
+import Image from "next/image";
 import Link from "next/link";
+import BuzzsproutPlayer from "@/components/BuzzsproutPlayer";
 import EpisodeCard from "@/components/EpisodeCard";
 import PlaceholderNotice from "@/components/PlaceholderNotice";
 import { getAllArticles } from "@/lib/articles";
@@ -37,6 +39,14 @@ export default async function Home() {
       />
 
       <section className="text-center">
+        <Image
+          src="/cover.jpg"
+          alt={`${site.name} cover art`}
+          width={160}
+          height={160}
+          priority
+          className="mx-auto mb-6 rounded-2xl border border-border"
+        />
         <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
           {site.name}
         </h1>
@@ -59,6 +69,9 @@ export default async function Home() {
             ))}
           </div>
         )}
+        <div className="mx-auto mt-8 max-w-xl">
+          <BuzzsproutPlayer />
+        </div>
       </section>
 
       <section aria-labelledby="latest-episodes">

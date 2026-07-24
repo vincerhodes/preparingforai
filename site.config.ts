@@ -19,6 +19,8 @@ export interface SiteConfig {
   tagline: string;
   description: string;
   url: string;
+  /** Buzzsprout podcast ID (from the embed code / feed URL). */
+  buzzsproutId: string;
   rssFeedUrl: string;
   listenLinks: ListenLink[];
   hosts: Host[];
@@ -26,20 +28,16 @@ export interface SiteConfig {
 }
 
 export const site: SiteConfig = {
-  // TODO(podcast): replace with the real podcast name
-  name: "The Podcast",
-  // TODO(podcast): replace with the real tagline
-  tagline: "Conversations worth your commute",
-  // TODO(podcast): replace with the real show description (used for SEO metadata)
+  name: "Preparing for AI",
+  tagline: "The AI podcast for everybody",
   description:
-    "A podcast by Jimmy & Matt. Three years in, entering season four — new episodes, articles, and a community forum.",
+    "Matt Cartwright and Jimmy Rhodes explore the human and social impacts of AI — from politics and religion to economics and health. Three seasons in, entering season four.",
   // TODO(podcast): replace with the production domain (drives metadataBase, sitemap, JSON-LD)
   url: "https://example.com",
-  // TODO(podcast): paste the Buzzsprout RSS feed URL here to enable episodes
-  rssFeedUrl: "",
+  buzzsproutId: "2320704",
+  rssFeedUrl: "https://feeds.buzzsprout.com/2320704.rss",
   listenLinks: [
-    // TODO(podcast): paste the Buzzsprout show page URL
-    { label: "Buzzsprout", href: "" },
+    { label: "Buzzsprout", href: "https://www.buzzsprout.com/2320704" },
     // TODO(podcast): paste the Apple Podcasts show URL
     { label: "Apple Podcasts", href: "" },
     // TODO(podcast): paste the Spotify show URL
@@ -47,7 +45,7 @@ export const site: SiteConfig = {
     // RSS links directly to the feed once rssFeedUrl is set
     { label: "RSS", href: "" },
   ],
-  hosts: [{ name: "Jimmy" }, { name: "Matt" }],
+  hosts: [{ name: "Jimmy Rhodes" }, { name: "Matt Cartwright" }],
   giscus: {
     // TODO(podcast): fill in from https://giscus.app after enabling GitHub Discussions
     repo: "",

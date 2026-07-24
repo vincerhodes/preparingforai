@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import BuzzsproutPlayer from "@/components/BuzzsproutPlayer";
 import EpisodeCard from "@/components/EpisodeCard";
 import PlaceholderNotice from "@/components/PlaceholderNotice";
 import { getEpisodes } from "@/lib/episodes";
@@ -22,6 +23,10 @@ export default async function EpisodesPage() {
         Every episode, newest first. Press play right here or follow the show
         in your favourite podcast app.
       </p>
+
+      <div className="mt-6">
+        <BuzzsproutPlayer />
+      </div>
 
       <div className="mt-8 flex flex-col gap-4">
         {episodes.length > 0 ? (
