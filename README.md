@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Podcast Site
 
-## Getting Started
+Website for the podcast by Jimmy & Matt: episodes pulled from the Buzzsprout
+RSS feed, markdown articles, and a community forum powered by Giscus (GitHub
+Discussions). Built with Next.js 16 (App Router), React 19, TypeScript, and
+Tailwind CSS v4.
 
-First, run the development server:
+All content gaps live in ONE file: **`site.config.ts`** at the repo root.
+Fill it in and the whole site lights up — no code changes needed.
+
+## Fill-in-gaps checklist
+
+Edit `site.config.ts` (every placeholder is marked with a `TODO(podcast):` comment):
+
+- [ ] `name` — the real podcast name
+- [ ] `tagline` — short one-liner
+- [ ] `description` — used for SEO metadata and JSON-LD
+- [ ] `url` — production domain (e.g. `https://yourpodcast.com`), drives
+      `metadataBase`, sitemap, and JSON-LD
+- [ ] `rssFeedUrl` — the Buzzsprout RSS feed URL. Until this is set, the
+      homepage and `/episodes` show a styled "coming soon" placeholder.
+- [ ] `listenLinks` — Buzzsprout, Apple Podcasts, Spotify show URLs (the RSS
+      entry auto-fills from `rssFeedUrl`)
+- [ ] `giscus` — see "Enabling the forum" below
+
+## Adding an article
+
+1. Create a `.md` file in `content/articles/` (the filename becomes the URL
+   slug, e.g. `my-post.md` → `/articles/my-post`).
+2. Add frontmatter (copy from `content/articles/season-4-kickoff.md`):
+
+   ```yaml
+   ---
+   title: "My Post"
+   date: 2026-07-24        # YYYY-MM-DD
+   author: Jimmy           # Jimmy | Matt
+   description: "One-sentence summary for SEO and the index page."
+   tags:                   # optional
+     - some-tag
+   ---
+   ```
+
+3. Write markdown below the frontmatter.
+4. Commit and push — the article appears at `/articles/<slug>` and in the
+   sitemap on the next deploy.
+
+## Enabling the forum
+
+The forum uses [Giscus](https://giscus.app) (GitHub Discussions). Until
+configured, `/forum` shows a placeholder notice.
+
+1. Make the GitHub repo **public**.
+2. Enable **Discussions** on the repo (Settings → Features).
+3. Install the [giscus GitHub App](https://github.com/apps/giscus) on the repo.
+4. Go to https://giscus.app, enter the repo, choose mapping
+   **"Discussion title contains page pathname"**, and pick a category
+   (e.g. "General").
+5. Copy the `repo`, `repo-id`, `category`, and `category-id` values it
+   generates into the `giscus` block of `site.config.ts`.
+6. Commit and push — the comment widget replaces the placeholder.
+
+## Deploy to Vercel
+
+Zero configuration required:
+
+1. Push this repo to GitHub.
+2. In Vercel: **Add New → Project**, import the repo.
+3. Vercel auto-detects Next.js — click **Deploy**.
+
+Every push to `main` redeploys automatically.
+
+## Custom domain
+
+1. Vercel dashboard → your project → **Settings → Domains** → add the domain.
+2. At your DNS provider, point the domain at Vercel:
+   - `www` (or any subdomain): `CNAME` → `cname.vercel-dns.com`
+   - apex/root: `A` → `76.76.21.21` (or `ALIAS`/`ANAME` → `cname.vercel-dns.com`
+     if your provider supports it)
+3. If you use **Cloudflare** for DNS, the record MUST be **DNS only**
+   (`proxied: false` / grey cloud). The orange-cloud proxy breaks Vercel's TLS.
+4. Once live, update `url` in `site.config.ts` to the production domain and
+   redeploy (this fixes `metadataBase`, sitemap, and JSON-LD URLs).
+
+## Local development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open http://localhost:3000. Useful checks before shipping:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm run lint
+npm run build
+```
