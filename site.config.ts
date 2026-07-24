@@ -32,8 +32,7 @@ export const site: SiteConfig = {
   tagline: "The AI podcast for everybody",
   description:
     "Matt Cartwright and Jimmy Rhodes explore the human and social impacts of AI — from politics and religion to economics and health. Three seasons in, entering season four.",
-  // TODO(podcast): replace with the production domain (drives metadataBase, sitemap, JSON-LD)
-  url: "https://example.com",
+  url: "https://preparingforai.net",
   buzzsproutId: "2320704",
   rssFeedUrl: "https://feeds.buzzsprout.com/2320704.rss",
   listenLinks: [

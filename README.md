@@ -11,8 +11,6 @@ All content lives in ONE file: **`site.config.ts`** at the repo root.
 
 Still to fill in `site.config.ts` (marked with `TODO(podcast):` comments):
 
-- [ ] `url` — production domain (e.g. `https://yourpodcast.com`), drives
-      `metadataBase`, sitemap, and JSON-LD
 - [ ] `listenLinks` — Apple Podcasts and Spotify show URLs (Buzzsprout and RSS
       are already wired up)
 - [ ] `giscus` — see "Enabling the forum" below
