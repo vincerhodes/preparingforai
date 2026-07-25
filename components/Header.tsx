@@ -1,4 +1,5 @@
 import Link from "next/link";
+import NavLink from "@/components/NavLink";
 import { site } from "@/site.config";
 
 const navItems = [
@@ -6,6 +7,7 @@ const navItems = [
   { label: "Episodes", href: "/episodes" },
   { label: "Articles", href: "/articles" },
   { label: "Forum", href: "/forum" },
+  { label: "About", href: "/about" },
 ];
 
 export default function Header() {
@@ -22,12 +24,7 @@ export default function Header() {
           <ul className="flex items-center gap-5 text-sm">
             {navItems.map((item) => (
               <li key={item.href}>
-                <Link
-                  href={item.href}
-                  className="text-muted transition-colors hover:text-accent"
-                >
-                  {item.label}
-                </Link>
+                <NavLink href={item.href} label={item.label} />
               </li>
             ))}
           </ul>
