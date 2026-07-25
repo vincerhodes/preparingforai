@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import GiscusEmbed from "@/components/Giscus";
+import { site } from "@/site.config";
 
 export const metadata: Metadata = {
   title: "Forum",
@@ -8,6 +9,8 @@ export const metadata: Metadata = {
 };
 
 export default function ForumPage() {
+  const hosts = site.hosts.map((host) => host.name).join(" & ");
+
   return (
     <div>
       <h1 className="text-3xl font-bold tracking-tight text-foreground">
@@ -15,8 +18,8 @@ export default function ForumPage() {
       </h1>
       <p className="mt-2 leading-relaxed text-muted">
         This is the community corner of the show. Talk about the latest
-        episode, ask Jimmy &amp; Matt a question, or pitch a topic for a
-        future one. Sign in with a GitHub account to join the conversation.
+        episode, ask {hosts} a question, or pitch a topic for a future one.
+        Sign in with a GitHub account to join the conversation.
       </p>
 
       <div className="mt-8">

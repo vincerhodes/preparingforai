@@ -8,9 +8,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/episodes",
     "/articles",
     "/forum",
+    "/about",
   ].map((route) => ({
     url: `${site.url}${route}`,
-    lastModified: new Date(),
   }));
 
   const articleRoutes: MetadataRoute.Sitemap = getAllArticles().map(
