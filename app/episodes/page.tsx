@@ -34,11 +34,10 @@ export default async function EpisodesPage() {
             <EpisodeCard key={episode.id} episode={episode} />
           ))
         ) : (
-          <PlaceholderNotice title="Episodes coming soon">
-            The episode feed is not connected yet. Once the Buzzsprout RSS
-            URL is added to{" "}
-            <code className="rounded bg-background px-1 py-0.5">site.config.ts</code>,
-            all episodes will be listed here automatically.
+          <PlaceholderNotice title="Episodes temporarily unavailable">
+            The episode feed couldn&apos;t be loaded just now. Please check
+            back soon — or listen in your favourite podcast app in the
+            meantime.
           </PlaceholderNotice>
         )}
       </div>

@@ -25,11 +25,6 @@ export default function EpisodeCard({ episode }: { episode: Episode }) {
           {episode.description}
         </p>
       )}
-      {episode.audioUrl && (
-        <audio controls preload="none" src={episode.audioUrl} className="mt-4 w-full">
-          Your browser does not support the audio element.
-        </audio>
-      )}
     </article>
   );
 }

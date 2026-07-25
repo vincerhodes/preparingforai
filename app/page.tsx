@@ -31,12 +31,47 @@ export default async function Home() {
     })),
   };
 
+  const episodesJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    itemListElement: episodes.map((episode, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      item: {
+        "@type": "PodcastEpisode",
+        name: episode.title,
+        ...(episode.description ? { description: episode.description } : {}),
+        ...(episode.date ? { datePublished: episode.date } : {}),
+        url: episode.link,
+        ...(episode.audioUrl
+          ? {
+              associatedMedia: {
+                "@type": "MediaObject",
+                contentUrl: episode.audioUrl,
+              },
+            }
+          : {}),
+        partOfSeries: {
+          "@type": "PodcastSeries",
+          name: site.name,
+          url: site.url,
+        },
+      },
+    })),
+  };
+
   return (
     <div className="flex flex-col gap-14">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(podcastSeriesJsonLd) }}
       />
+      {episodes.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(episodesJsonLd) }}
+        />
+      )}
 
       <section className="text-center">
         <Image
@@ -93,11 +128,10 @@ export default async function Home() {
             ))}
           </div>
         ) : (
-          <PlaceholderNotice title="Episodes coming soon">
-            The episode feed is not connected yet. Once the Buzzsprout RSS
-            URL is added to{" "}
-            <code className="rounded bg-background px-1 py-0.5">site.config.ts</code>,
-            the latest episodes will appear here automatically.
+          <PlaceholderNotice title="Episodes temporarily unavailable">
+            The episode feed couldn&apos;t be loaded just now. Please check
+            back soon — or listen in your favourite podcast app in the
+            meantime.
           </PlaceholderNotice>
         )}
       </section>

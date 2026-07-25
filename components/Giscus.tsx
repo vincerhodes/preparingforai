@@ -7,12 +7,9 @@ import PlaceholderNotice from "./PlaceholderNotice";
 export default function GiscusEmbed() {
   if (!hasGiscus()) {
     return (
-      <PlaceholderNotice title="Forum not configured yet">
-        The community forum runs on GitHub Discussions via Giscus. Once the
-        repository is public with Discussions enabled, fill in the{" "}
-        <code className="rounded bg-background px-1 py-0.5">giscus</code>{" "}
-        values in <code className="rounded bg-background px-1 py-0.5">site.config.ts</code>{" "}
-        and the comment widget will appear here automatically.
+      <PlaceholderNotice title="Comments coming soon">
+        The community forum isn&apos;t open just yet. Check back soon to join
+        the conversation.
       </PlaceholderNotice>
     );
   }

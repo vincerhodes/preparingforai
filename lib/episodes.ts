@@ -1,3 +1,4 @@
+import { cache } from "react";
 import Parser from "rss-parser";
 import { site } from "@/site.config";
 
@@ -12,12 +13,23 @@ export interface Episode {
 
 const parser = new Parser();
 
+const DESCRIPTION_MAX_LENGTH = 200;
+
+/** Truncate a description to ~200 chars on a word boundary, with an ellipsis. */
+function truncateDescription(text: string): string {
+  if (text.length <= DESCRIPTION_MAX_LENGTH) return text;
+  const truncated = text.slice(0, DESCRIPTION_MAX_LENGTH);
+  const lastSpace = truncated.lastIndexOf(" ");
+  return `${truncated.slice(0, lastSpace > 0 ? lastSpace : DESCRIPTION_MAX_LENGTH)}…`;
+}
+
 /**
  * Fetch and parse all episodes from the configured RSS feed.
- * Returns an empty list when rssFeedUrl is not configured yet or the
- * feed cannot be fetched, so pages can render a placeholder notice.
+ * Returns an empty list when the feed cannot be fetched, so pages can
+ * render a fallback notice. Wrapped in React cache() to dedupe calls
+ * within a single render pass.
  */
-export async function getEpisodes(): Promise<Episode[]> {
+export const getEpisodes = cache(async (): Promise<Episode[]> => {
   if (!site.rssFeedUrl) return [];
 
   try {
@@ -27,7 +39,7 @@ export async function getEpisodes(): Promise<Episode[]> {
         id: item.guid ?? item.link ?? `episode-${index}`,
         title: item.title ?? "Untitled episode",
         date: item.isoDate ?? item.pubDate ?? "",
-        description: item.contentSnippet ?? "",
+        description: truncateDescription(item.contentSnippet ?? ""),
         audioUrl: item.enclosure?.url ?? "",
         link: item.link ?? site.url,
       }))
@@ -36,4 +48,4 @@ export async function getEpisodes(): Promise<Episode[]> {
     console.error("Failed to fetch podcast RSS feed:", error);
     return [];
   }
-}
+});
