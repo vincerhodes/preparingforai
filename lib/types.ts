@@ -48,7 +48,10 @@ export type PredictionStatus =
   | "unresolved";
 export type PredictionCategory = "dated" | "open-ended";
 export type PredictionConfidence = "high" | "medium" | "low";
-export type ReviewStatus = "approved" | "pending_review" | "rejected";
+export type Voter = "jimmy" | "matt";
+export type HostVote = "approve" | "reject";
+export type ReviewVotes = { jimmy?: HostVote; matt?: HostVote };
+export type ReviewStatus = "approved" | "pending_review" | "disputed" | "rejected";
 
 export type PolymarketMatch = {
   slug: string;
@@ -87,6 +90,7 @@ export type Prediction = {
   confidenceScore?: number;
   confidenceReason?: string;
   reviewStatus?: ReviewStatus;
+  reviewVotes?: ReviewVotes;
 };
 
 export type BenchmarkSide = "bear" | "bull";

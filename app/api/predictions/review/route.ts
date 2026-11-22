@@ -4,19 +4,18 @@ import { ADMIN_COOKIE_NAME, verifyAdminToken } from "@/lib/admin-auth";
 import { getPredictions } from "@/lib/catalog";
 import {
   applyReviewsToPredictions,
+  castPredictionVote,
   getReviewMap,
-  setPredictionReview,
+  resolveDispute,
 } from "@/lib/reviews";
-import type { ReviewStatus } from "@/lib/types";
+import type { HostVote, ReviewStatus, Voter } from "@/lib/types";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-const REVIEW_STATUSES: ReviewStatus[] = [
-  "approved",
-  "pending_review",
-  "rejected",
-];
+const VOTERS: Voter[] = ["jimmy", "matt"];
+const HOST_VOTES: HostVote[] = ["approve", "reject"];
+const DISPUTE_RESOLUTIONS: ReviewStatus[] = ["approved", "rejected"];
 
 async function isAdmin(): Promise<boolean> {
   const cookieStore = await cookies();
@@ -51,20 +50,52 @@ export async function POST(request: Request): Promise<NextResponse> {
     return NextResponse.json({ error: "Invalid review" }, { status: 400 });
   }
   const id = "id" in payload ? payload.id : undefined;
-  const reviewStatus =
-    "reviewStatus" in payload ? payload.reviewStatus : undefined;
+  if (typeof id !== "string" || !id.trim()) {
+    return NextResponse.json({ error: "Invalid review" }, { status: 400 });
+  }
+
+  const resolve =
+    "resolve" in payload ? payload.resolve : undefined;
+  if (resolve !== undefined) {
+    if (
+      typeof resolve !== "string" ||
+      !DISPUTE_RESOLUTIONS.includes(resolve as ReviewStatus)
+    ) {
+      return NextResponse.json({ error: "Invalid review" }, { status: 400 });
+    }
+    const entry = resolveDispute(id, resolve as "approved" | "rejected");
+    return NextResponse.json({
+      ok: true,
+      id,
+      reviewStatus: entry.reviewStatus,
+      reviewVotes: entry.votes ?? {},
+      updatedAt: entry.updatedAt,
+    });
+  }
+
+  const voter = "voter" in payload ? payload.voter : undefined;
+  const vote = "vote" in payload ? payload.vote : undefined;
   if (
-    typeof id !== "string" ||
-    !id.trim() ||
-    typeof reviewStatus !== "string" ||
-    !REVIEW_STATUSES.includes(reviewStatus as ReviewStatus)
+    typeof voter !== "string" ||
+    !VOTERS.includes(voter as Voter) ||
+    (vote !== null &&
+      (vote === undefined ||
+        typeof vote !== "string" ||
+        !HOST_VOTES.includes(vote as HostVote)))
   ) {
     return NextResponse.json({ error: "Invalid review" }, { status: 400 });
   }
 
-  const { updatedAt } = setPredictionReview(
+  const entry = castPredictionVote(
     id,
-    reviewStatus as ReviewStatus,
+    voter as Voter,
+    (vote ?? null) as HostVote | null,
   );
-  return NextResponse.json({ ok: true, id, reviewStatus, updatedAt });
+  return NextResponse.json({
+    ok: true,
+    id,
+    reviewStatus: entry.reviewStatus,
+    reviewVotes: entry.votes ?? {},
+    updatedAt: entry.updatedAt,
+  });
 }

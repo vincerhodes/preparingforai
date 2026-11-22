@@ -6,12 +6,15 @@ import Link from "next/link";
 import type {
   BenchmarkPrediction,
   BenchmarkSide,
+  HostVote,
   LivePolymarketOdds,
   Prediction,
   PredictionCategory,
   PredictionConfidence,
   PredictionStatus,
   ReviewStatus,
+  ReviewVotes,
+  Voter,
 } from "@/lib/types";
 
 type HydratedPrediction = Prediction & { livePolymarket?: LivePolymarketOdds };
@@ -29,12 +32,20 @@ type HostFilter =
   | "Sam Altman"
   | "All + Benchmarks";
 type StatusFilter = "All" | PredictionStatus;
-type ReviewFilter = "All" | "Needs Review" | "Approved" | "Rejected";
+type ReviewFilter =
+  | "All"
+  | "Needs My Vote"
+  | "Disputed"
+  | "Waiting on Other"
+  | "Approved"
+  | "Rejected";
 type ConfidenceFilter = "All Confidence" | "Low" | "Medium" | "High";
 
 const REVIEW_FILTERS: ReviewFilter[] = [
   "All",
-  "Needs Review",
+  "Needs My Vote",
+  "Disputed",
+  "Waiting on Other",
   "Approved",
   "Rejected",
 ];
@@ -93,6 +104,70 @@ function benchmarkBadgeClass(side: BenchmarkSide): string {
   return side === "bear"
     ? "border-rose-400 text-rose-400"
     : "border-emerald-400 text-emerald-400";
+}
+
+const OTHER_VOTER: Record<Voter, Voter> = { jimmy: "matt", matt: "jimmy" };
+
+function voterLabel(voter: Voter): string {
+  return voter === "jimmy" ? "Jimmy" : "Matt";
+}
+
+function computeStatusFromVotes(votes: ReviewVotes): ReviewStatus {
+  const jimmy = votes.jimmy;
+  const matt = votes.matt;
+  if (jimmy === "approve" && matt === "approve") return "approved";
+  if (jimmy === "reject" && matt === "reject") return "rejected";
+  if (
+    (jimmy === "approve" && matt === "reject") ||
+    (jimmy === "reject" && matt === "approve")
+  ) {
+    return "disputed";
+  }
+  return "pending_review";
+}
+
+function ConsensusBadge({
+  reviewStatus,
+  votes,
+}: {
+  reviewStatus?: ReviewStatus;
+  votes?: ReviewVotes;
+}) {
+  const status = reviewStatus ?? "pending_review";
+  if (status === "approved") {
+    return (
+      <span className="inline-flex items-center rounded-full border border-emerald-400/40 bg-emerald-400/10 px-2.5 py-0.5 text-xs font-semibold text-emerald-400">
+        ✓ Approved
+      </span>
+    );
+  }
+  if (status === "rejected") {
+    return (
+      <span className="inline-flex items-center rounded-full border border-rose-400/40 bg-rose-400/10 px-2.5 py-0.5 text-xs font-semibold text-rose-400">
+        ✕ Rejected
+      </span>
+    );
+  }
+  if (status === "disputed") {
+    return (
+      <span className="inline-flex items-center rounded-full border border-amber-400/40 bg-amber-400/10 px-2.5 py-0.5 text-xs font-semibold text-amber-400">
+        ⚡ Disputed
+      </span>
+    );
+  }
+  const waitingOn = !votes?.jimmy
+    ? "jimmy"
+    : !votes?.matt
+      ? "matt"
+      : null;
+  if (waitingOn) {
+    return (
+      <span className="inline-flex items-center rounded-full border border-sky-400/40 bg-sky-400/10 px-2.5 py-0.5 text-xs font-semibold text-sky-400">
+        ⏳ Waiting on {voterLabel(waitingOn)}
+      </span>
+    );
+  }
+  return null;
 }
 
 function statusBadgeClass(status: PredictionStatus): string {
@@ -463,19 +538,22 @@ function ConfidenceBadge({
 function PredictionCard({
   prediction,
   isAdmin,
+  activeVoter,
   reviewing,
-  onReview,
+  onVote,
+  onResolve,
 }: {
   prediction: HydratedPrediction;
   isAdmin: boolean;
+  activeVoter: Voter;
   reviewing: boolean;
-  onReview: (id: string, reviewStatus: ReviewStatus) => void;
+  onVote: (id: string, vote: HostVote | null) => void;
+  onResolve: (id: string, resolution: "approved" | "rejected") => void;
 }) {
   const cardId = `pred-${prediction.id}`;
   const { flash, setFlash } = useHashFlash(cardId);
-  const reviewed =
-    prediction.reviewStatus === "approved" ||
-    prediction.reviewStatus === "rejected";
+  const votes = prediction.reviewVotes ?? {};
+  const myVote = votes[activeVoter];
 
   return (
     <article
@@ -501,10 +579,17 @@ function PredictionCard({
         >
           {STATUS_LABELS[prediction.status]}
         </span>
-        {prediction.reviewStatus === "approved" && (
-          <span className="inline-flex items-center rounded-full border border-emerald-400/40 px-2.5 py-0.5 text-xs text-emerald-400">
-            ✓ Host Verified
-          </span>
+        {isAdmin ? (
+          <ConsensusBadge
+            reviewStatus={prediction.reviewStatus}
+            votes={votes}
+          />
+        ) : (
+          prediction.reviewStatus === "approved" && (
+            <span className="inline-flex items-center rounded-full border border-emerald-400/40 px-2.5 py-0.5 text-xs text-emerald-400">
+              ✓ Host Verified
+            </span>
+          )
         )}
         {!isAdmin && prediction.confidence && (
           <ConfidenceBadge
@@ -517,6 +602,26 @@ function PredictionCard({
 
       {isAdmin && (
         <div className="mb-3">
+          <div className="flex flex-wrap items-center gap-2">
+            {(["jimmy", "matt"] as Voter[]).map((voter) => {
+              const vote = votes[voter];
+              return (
+                <span
+                  key={voter}
+                  className={`inline-flex items-center whitespace-nowrap rounded-full border px-2.5 py-0.5 text-xs font-semibold ${
+                    vote === "approve"
+                      ? "border-emerald-400/40 bg-emerald-400/10 text-emerald-400"
+                      : vote === "reject"
+                        ? "border-rose-400/40 bg-rose-400/10 text-rose-400"
+                        : "border-border text-muted"
+                  }`}
+                >
+                  {voterLabel(voter)}:{" "}
+                  {vote === "approve" ? "✓" : vote === "reject" ? "✕" : "—"}
+                </span>
+              );
+            })}
+          </div>
           {prediction.confidence ? (
             <ConfidenceBadge
               confidence={prediction.confidence}
@@ -524,7 +629,7 @@ function PredictionCard({
               prominent
             />
           ) : (
-            <span className="inline-flex rounded-full border border-border px-2.5 py-0.5 text-sm font-semibold text-muted">
+            <span className="mt-2 inline-flex rounded-full border border-border px-2.5 py-0.5 text-sm font-semibold text-muted">
               Confidence unrated
             </span>
           )}
@@ -569,32 +674,55 @@ function PredictionCard({
       )}
 
       {isAdmin && (
-        <div className="mt-4 flex flex-wrap gap-2 border-t border-border pt-4">
+        <div className="mt-4 flex flex-wrap items-center gap-2 border-t border-border pt-4">
           <button
             type="button"
             disabled={reviewing}
-            onClick={() => onReview(prediction.id, "approved")}
-            className="rounded-lg border border-emerald-400/60 bg-emerald-400/10 px-3 py-1.5 text-sm font-semibold text-emerald-400 transition-colors hover:bg-emerald-400/20 disabled:cursor-wait disabled:opacity-50"
+            onClick={() =>
+              onVote(prediction.id, myVote === "approve" ? null : "approve")
+            }
+            className={`rounded-lg border px-3 py-1.5 text-sm font-semibold transition-colors disabled:cursor-wait disabled:opacity-50 ${
+              myVote === "approve"
+                ? "border-emerald-400 bg-emerald-400 font-bold text-background hover:bg-emerald-400/90"
+                : "border-emerald-400/60 bg-emerald-400/10 text-emerald-400 hover:bg-emerald-400/20"
+            }`}
           >
-            Approve ✓
+            Approve{myVote === "approve" ? " ✓" : ""}
           </button>
           <button
             type="button"
             disabled={reviewing}
-            onClick={() => onReview(prediction.id, "rejected")}
-            className="rounded-lg border border-rose-400/60 bg-rose-400/10 px-3 py-1.5 text-sm font-semibold text-rose-400 transition-colors hover:bg-rose-400/20 disabled:cursor-wait disabled:opacity-50"
+            onClick={() =>
+              onVote(prediction.id, myVote === "reject" ? null : "reject")
+            }
+            className={`rounded-lg border px-3 py-1.5 text-sm font-semibold transition-colors disabled:cursor-wait disabled:opacity-50 ${
+              myVote === "reject"
+                ? "border-rose-400 bg-rose-400 font-bold text-background hover:bg-rose-400/90"
+                : "border-rose-400/60 bg-rose-400/10 text-rose-400 hover:bg-rose-400/20"
+            }`}
           >
-            Reject ✕
+            Reject{myVote === "reject" ? " ✕" : ""}
           </button>
-          {reviewed && (
-            <button
-              type="button"
-              disabled={reviewing}
-              onClick={() => onReview(prediction.id, "pending_review")}
-              className="rounded-lg border border-border px-3 py-1.5 text-sm font-semibold text-muted transition-colors hover:border-accent hover:text-foreground disabled:cursor-wait disabled:opacity-50"
-            >
-              Undo
-            </button>
+          {prediction.reviewStatus === "disputed" && (
+            <>
+              <span className="mx-1 text-xs text-muted">Settle:</span>
+              <button
+                type="button"
+                disabled={reviewing}
+                onClick={() => onResolve(prediction.id, "approved")}
+                className="rounded-lg border border-emerald-400/60 px-3 py-1.5 text-xs font-semibold text-emerald-400 transition-colors hover:bg-emerald-400/20 disabled:cursor-wait disabled:opacity-50"
+              >
+                Approve Both
+              </button>
+              <button
+                type="button"
+                disabled={reviewing}
+                onClick={() => onResolve(prediction.id, "rejected")}
+                className="rounded-lg border border-rose-400/60 px-3 py-1.5 text-xs font-semibold text-rose-400 transition-colors hover:bg-rose-400/20 disabled:cursor-wait disabled:opacity-50"
+              >
+                Reject Both
+              </button>
+            </>
           )}
         </div>
       )}
@@ -705,7 +833,25 @@ export default function PredictionsBoard({
   const [loginPending, setLoginPending] = useState(false);
   const [loginError, setLoginError] = useState("");
   const [adminError, setAdminError] = useState("");
+  const [activeVoter, setActiveVoter] = useState<Voter>(() => {
+    if (typeof window === "undefined") return "jimmy";
+    try {
+      const saved = window.localStorage.getItem("p4ai_voter");
+      return saved === "jimmy" || saved === "matt" ? saved : "jimmy";
+    } catch {
+      return "jimmy";
+    }
+  });
   const feedRef = useRef<HTMLDivElement>(null);
+
+  const selectVoter = (voter: Voter) => {
+    setActiveVoter(voter);
+    try {
+      window.localStorage.setItem("p4ai_voter", voter);
+    } catch {
+      // localStorage unavailable; voter still switches for this session.
+    }
+  };
 
   useEffect(() => {
     if (!showLogin) return;
@@ -722,16 +868,26 @@ export default function PredictionsBoard({
     return () => window.clearTimeout(timer);
   }, [adminError]);
 
-  const reviewCounts = useMemo(
-    () => ({
-      approved: predictions.filter((p) => p.reviewStatus === "approved").length,
-      pending: predictions.filter(
-        (p) => (p.reviewStatus ?? "pending_review") === "pending_review",
-      ).length,
-      rejected: predictions.filter((p) => p.reviewStatus === "rejected").length,
-    }),
-    [predictions],
-  );
+  const reviewCounts = useMemo(() => {
+    let needsMyVote = 0;
+    let disputed = 0;
+    let approved = 0;
+    let rejected = 0;
+    for (const prediction of predictions) {
+      const status = prediction.reviewStatus ?? "pending_review";
+      if (status === "approved") {
+        approved += 1;
+        continue;
+      }
+      if (status === "rejected") {
+        rejected += 1;
+        continue;
+      }
+      if (status === "disputed") disputed += 1;
+      if (!prediction.reviewVotes?.[activeVoter]) needsMyVote += 1;
+    }
+    return { needsMyVote, disputed, approved, rejected };
+  }, [predictions, activeVoter]);
 
   const filtered = useMemo(() => {
     const query = search.trim().toLowerCase();
@@ -750,13 +906,23 @@ export default function PredictionsBoard({
           const currentReview = prediction.reviewStatus ?? "pending_review";
           if (!isAdmin && currentReview === "rejected") return false;
           if (isAdmin && reviewFilter !== "All") {
-            const expectedReview: ReviewStatus =
+            const votes = prediction.reviewVotes ?? {};
+            const otherVoter = OTHER_VOTER[activeVoter];
+            const matches =
               reviewFilter === "Approved"
-                ? "approved"
+                ? currentReview === "approved"
                 : reviewFilter === "Rejected"
-                  ? "rejected"
-                  : "pending_review";
-            if (currentReview !== expectedReview) return false;
+                  ? currentReview === "rejected"
+                  : reviewFilter === "Disputed"
+                    ? currentReview === "disputed"
+                    : reviewFilter === "Needs My Vote"
+                      ? currentReview !== "approved" &&
+                        currentReview !== "rejected" &&
+                        !votes[activeVoter]
+                      : reviewFilter === "Waiting on Other"
+                        ? Boolean(votes[activeVoter]) && !votes[otherVoter]
+                        : false;
+            if (!matches) return false;
           }
           if (
             isAdmin &&
@@ -800,6 +966,7 @@ export default function PredictionsBoard({
     search,
     isAdmin,
     reviewFilter,
+    activeVoter,
     confidenceFilter,
     lowestConfidenceFirst,
   ]);
@@ -902,36 +1069,93 @@ export default function PredictionsBoard({
     }
   };
 
-  const handleReview = async (id: string, reviewStatus: ReviewStatus) => {
-    const previousStatus =
-      predictions.find((prediction) => prediction.id === id)?.reviewStatus ??
-      "pending_review";
-    setAdminError("");
-    setReviewingIds((current) => new Set(current).add(id));
+  const applyVoteLocally = (
+    id: string,
+    updater: (prediction: HydratedPrediction) => HydratedPrediction,
+  ) => {
     setPredictions((current) =>
       current.map((prediction) =>
-        prediction.id === id ? { ...prediction, reviewStatus } : prediction,
+        prediction.id === id ? updater(prediction) : prediction,
       ),
     );
+  };
+
+  const handleVote = async (id: string, vote: HostVote | null) => {
+    const previous = predictions.find((prediction) => prediction.id === id);
+    setAdminError("");
+    setReviewingIds((current) => new Set(current).add(id));
+    applyVoteLocally(id, (prediction) => {
+      const votes: ReviewVotes = { ...(prediction.reviewVotes ?? {}) };
+      if (vote === null) {
+        delete votes[activeVoter];
+      } else {
+        votes[activeVoter] = vote;
+      }
+      return { ...prediction, reviewVotes: votes, reviewStatus: computeStatusFromVotes(votes) };
+    });
     try {
       const response = await fetch("/api/predictions/review", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ id, reviewStatus }),
+        body: JSON.stringify({ id, voter: activeVoter, vote }),
       });
       if (!response.ok) {
-        throw new Error(await responseError(response, "Could not save review"));
+        throw new Error(await responseError(response, "Could not save vote"));
       }
     } catch (error) {
-      setPredictions((current) =>
-        current.map((prediction) =>
-          prediction.id === id
-            ? { ...prediction, reviewStatus: previousStatus }
-            : prediction,
-        ),
-      );
+      if (previous) {
+        setPredictions((current) =>
+          current.map((prediction) =>
+            prediction.id === id ? previous : prediction,
+          ),
+        );
+      }
       setAdminError(
-        `${error instanceof Error ? error.message : "Could not save review"}. The change was reverted.`,
+        `${error instanceof Error ? error.message : "Could not save vote"}. The change was reverted.`,
+      );
+    } finally {
+      setReviewingIds((current) => {
+        const updated = new Set(current);
+        updated.delete(id);
+        return updated;
+      });
+    }
+  };
+
+  const handleResolve = async (
+    id: string,
+    resolution: "approved" | "rejected",
+  ) => {
+    const previous = predictions.find((prediction) => prediction.id === id);
+    const settledVote: HostVote = resolution === "approved" ? "approve" : "reject";
+    setAdminError("");
+    setReviewingIds((current) => new Set(current).add(id));
+    applyVoteLocally(id, (prediction) => ({
+      ...prediction,
+      reviewVotes: { jimmy: settledVote, matt: settledVote },
+      reviewStatus: resolution,
+    }));
+    try {
+      const response = await fetch("/api/predictions/review", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id, resolve: resolution }),
+      });
+      if (!response.ok) {
+        throw new Error(
+          await responseError(response, "Could not settle dispute"),
+        );
+      }
+    } catch (error) {
+      if (previous) {
+        setPredictions((current) =>
+          current.map((prediction) =>
+            prediction.id === id ? previous : prediction,
+          ),
+        );
+      }
+      setAdminError(
+        `${error instanceof Error ? error.message : "Could not settle dispute"}. The change was reverted.`,
       );
     } finally {
       setReviewingIds((current) => {
@@ -1057,10 +1281,38 @@ export default function PredictionsBoard({
         <section className="mt-4 rounded-xl border border-accent/40 bg-accent/5 p-4">
           <div className="flex flex-wrap items-center justify-between gap-3">
             <h2 className="text-sm font-bold text-foreground">Admin Review</h2>
-            <p className="text-xs text-muted">
-              Approved: {reviewCounts.approved} · Needs Review: {reviewCounts.pending} · Rejected: {reviewCounts.rejected}
-            </p>
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="mr-1 text-xs font-semibold text-foreground">
+                Voting as:
+              </span>
+              {(["jimmy", "matt"] as Voter[]).map((voter) => (
+                <button
+                  key={voter}
+                  type="button"
+                  aria-pressed={activeVoter === voter}
+                  onClick={() => selectVoter(voter)}
+                  className={`rounded-full border px-3 py-1 text-xs font-semibold transition-colors ${
+                    activeVoter === voter
+                      ? voter === "jimmy"
+                        ? "border-accent bg-accent font-bold text-background"
+                        : "border-sky-400 bg-sky-400 font-bold text-background"
+                      : "border-border bg-surface text-muted hover:border-accent hover:text-foreground"
+                  }`}
+                >
+                  {voterLabel(voter)}
+                </button>
+              ))}
+            </div>
           </div>
+          <p className="mt-3 text-xs text-muted">
+            Needs My Vote:{" "}
+            <b className="text-foreground">{reviewCounts.needsMyVote}</b> ·
+            Disputed:{" "}
+            <b className="text-amber-400">{reviewCounts.disputed}</b> ·
+            Approved:{" "}
+            <b className="text-emerald-400">{reviewCounts.approved}</b> ·
+            Rejected: <b className="text-rose-400">{reviewCounts.rejected}</b>
+          </p>
           <div className="mt-3 flex flex-wrap items-center gap-2">
             <span className="mr-1 text-xs text-muted">Review</span>
             {REVIEW_FILTERS.map((filter) => (
@@ -1211,8 +1463,10 @@ export default function PredictionsBoard({
                 key={prediction.id}
                 prediction={prediction}
                 isAdmin={isAdmin}
+                activeVoter={activeVoter}
                 reviewing={reviewingIds.has(prediction.id)}
-                onReview={handleReview}
+                onVote={handleVote}
+                onResolve={handleResolve}
               />
             ) : (
               <BenchmarkCard key={prediction.id} prediction={prediction} />
@@ -1251,7 +1505,30 @@ export default function PredictionsBoard({
               Enter the shared admin password to review predictions.
             </p>
             <form onSubmit={handleLogin} className="mt-5">
-              <label htmlFor="admin-password" className="text-xs font-semibold text-muted">
+              <span className="text-xs font-semibold text-muted">Voting as</span>
+              <div className="mt-1 flex gap-2">
+                {(["jimmy", "matt"] as Voter[]).map((voter) => (
+                  <button
+                    key={voter}
+                    type="button"
+                    aria-pressed={activeVoter === voter}
+                    onClick={() => selectVoter(voter)}
+                    className={`flex-1 rounded-lg border px-3 py-1.5 text-sm font-semibold transition-colors ${
+                      activeVoter === voter
+                        ? voter === "jimmy"
+                          ? "border-accent bg-accent font-bold text-background"
+                          : "border-sky-400 bg-sky-400 font-bold text-background"
+                        : "border-border bg-background text-muted hover:border-accent hover:text-foreground"
+                    }`}
+                  >
+                    {voterLabel(voter)}
+                  </button>
+                ))}
+              </div>
+              <label
+                htmlFor="admin-password"
+                className="mt-4 block text-xs font-semibold text-muted"
+              >
                 Password
               </label>
               <input
