@@ -1,0 +1,919 @@
+{
+  "slug": "s2-2025-01-26-emergency-podcast-deepseek-shakes-the-foun",
+  "buzzsproutId": "16504347",
+  "title": "EMERGENCY PODCAST: DeepSeek shakes the foundation of AI",
+  "date": "2025-01-26T15:00:00.000Z",
+  "season": 2,
+  "durationSec": 3283,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16504347-emergency-podcast-deepseek-shakes-the-foundation-of-ai.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Jimmy and Matt scramble into the AI bunker to sound the alarm with an urgent, emergency episode. In the past week an emerging model from a relatively unknown Chinese developer, DeepSeek, has redefining the entire landscape of AI. At the same time OpenAI, Donald Trump and a bunch of greedy transhumanist were announcing $600bn to build massive brute force compute data centres based on existing LLM architecture. With its open-source approach and a completely new method of inference DeepSeek's models showcase capabilities that challenge the most advanced reasoning models like Open AI's o1 at a fraction of the cost. It has literally sent shockwaves around the AI world. This discussion dives deep into the implications of this shift, exploring the what it means for China and the U.S. in AI development, the potential advancements toward AGI, and the democratisation of AI technology. • DeepSeek emerges as a new open-source model from China • Comparison of DeepSeek's performance with that of US frontier models • Discussion on open-source versus closed-source AI strategies • The implications of DeepSeek's release on geopolitics • The future of AGI and its ethical considerations • Risks of existing companies becoming obsolete without innovation • Potential for increased efficiencies in AI through open-source models • How chip restrictions could have driven innovation in China DeepSeek Is Chinese But Its AI Models Are From Another Planet DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning DeepSeek DeepSeekR1 - Full Breakdown Announcing The Stargate Project | OpenAI This Rumor About GPT-5 Changes Everything",
+  "summary": "Emergency episode recorded days after DeepSeek R1 detonated the AI world: a roughly $5-6m-trained open-source Chinese reasoning model matching OpenAI's best on math and coding benchmarks at 5-10% of query cost, dropped in the same window as Trump's inauguration and the $500bn Stargate announcement. Jimmy celebrates open source winning and US sanctions forcing Chinese innovation; Matt smells geopolitics and suspects frontier labs already hide better models; both agree brute-force American spending now looks misguided and OpenAI has become too big to fail.",
+  "keyTalkingPoints": [
+    "DeepSeek R1 beats GPT-4-level models on AIME 2024 (79.8% vs 79.2%), MATH-500 (97.3%) and CodeForces (96th percentile); a 7bn-parameter version runs on a laptop and beats GPT-4 at math; queries cost 5-10% of GPT's",
+    "Pure reinforcement learning with humans taken out of the loop - genuinely novel methods, fully open-sourced, replicable by anyone",
+    "The timing smells: released around Trump's inauguration and Stargate's massive data-center announcement; Matt suspects a geopolitical shot across the bow, or that frontier labs have better models behind closed doors",
+    "Stargate is pure brute force versus Chinese efficiency; infrastructure could be obsolete overnight if next year's architectures need different GPUs",
+    "AGI under the watered-down 'does things as well as humans' definition is coming pretty soon - but the last 0.01% of capability may be impossible, and Jimmy still sees no genuinely novel ideas, only approximation of training data",
+    "OpenAI is now too big to fail - the US government's golden child, like Boeing or Saudi Aramco; enterprise API economics ($1 vs 5 cents per million tokens) is where the money war will be fought, and Operator is Ask Jeeves-style novelty next to the real future: a fine-tuned personal assistant that already knows your preferences"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "DeepSeek proves open source is at or ahead of the frontier and massively democratizes advanced reasoning",
+      "US chip sanctions forced Chinese innovation - the West forced China into this direction by denying brute-force compute",
+      "Stargate's brute-force spending could be obsolete overnight; the money is going in the wrong direction"
+    ],
+    "matt": [
+      "The timing and circumstances stink of geopolitics; if it were really this big a breakthrough, would China let it out?",
+      "Frontier labs likely already have GPT-5/Opus-3.5-class models behind closed doors, used to train the smaller public releases",
+      "AI is something being done to humanity, not something it wants - but the path seems inevitable"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-01-26-emergency-podcast-deepseek-shakes-the-foun-1600.7-under-the-watered-down-definition-of-agi-doing-t",
+    "s2-2025-01-26-emergency-podcast-deepseek-shakes-the-foun-2240.8-the-500bn-of-stargate-data-centers-could-become-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 6,
+  "turnCount": 121,
+  "chapters": [
+    {
+      "title": "The Impact of Open Source AI",
+      "startTime": 1
+    },
+    {
+      "title": "Advancements in Open Source AI",
+      "startTime": 915
+    },
+    {
+      "title": "The Future of Artificial Intelligence",
+      "startTime": 1340
+    },
+    {
+      "title": "Investment in AI Infrastructure Trends",
+      "startTime": 1734
+    },
+    {
+      "title": "Revolutionizing AI",
+      "startTime": 2307
+    },
+    {
+      "title": "The Future of Personal Assistants",
+      "startTime": 2768
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 35.517,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes, and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. Ground control. To Major Tom take your protein pills and put your helmet on. Urgent need for safe development of AI, governance and alignment. Ground control. To Major Tom take your protein pills and put your helmet on. Welcome to Prepaying for AI, the emergency episode, with me, dickie Greenleaf, and me, tom Ripley.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.94,
+      "endTime": 101.994,
+      "text": "So it is our second or third emergency episode. We thought that we would do this because this week has been a massive week in AI in terms of kind of geopolitics and kind of global impact, and obviously we've had recently episodes where we've been looking at focusing in on developments in China and AI in China and AI apps and US versus China and all of that kind of that, that side of it. And then we've had probably two uh well, definitely two kind of major developments this week, one on the kind of us side and the other on, uh, the china side, and we're going to kind of bring those two stories together, how they have just just kind of shown us two completely different approaches to the kind of current way to, let's say, solve the problem of getting to sort of artificial general intelligence, and also the kind of ramifications and how this is really going to kind of reverberate across sort of US-China development of AI, but also how AI is kind of brought forward in the next few weeks, months and years, I guess.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 102.54,
+      "endTime": 111.841,
+      "text": "So, jimmy, I think we're going to start off with deep seek, which is the new open source model in china, so I'll hand over to you and you can introduce our listeners.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 113.524,
+      "endTime": 117.23,
+      "text": "Okay, thank, you matt um? Sorry, who were you?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 117.49,
+      "endTime": 121.965,
+      "text": "you're not matt, you're I'm dickie greenleaf and you're dickie greenleaf.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 122.026,
+      "endTime": 158.871,
+      "text": "That's right, sorry, thank you, dickie Greenleaf. Sorry, thank you, dickie. So, yeah, so I'm really excited about this because, if you listen to the podcast, I've always been pro open source. This has come from a bit of a weird place, because it's come well weird place. It's not that weird. It's China where we live, but it's come a bit, I think, from a bit left field in terms of no one expected it. Um, it was completely out of the blue and just the level of ability of this open source model, which I'm going to explain in a little bit. So this, this is just, in terms of like, where this has come from.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 159.541,
+      "endTime": 198.147,
+      "text": "Um, it's. So, basically, there's a quant. As far as I understand it, there's an investment company in China that are working on AI models for investing. They're a quant company, quant investing. I think if you watch they Are Billions, you'll understand that, or is it Billions? I can't remember. Anyway, but they, as a side project, apparently they had this thing called DeepSeek, which is a large language model approach, and they call it DeepSeek R1 one. I think there was a previous version, but what they've done is they've just released it, make it, they've made it completely open source, completely open weights, and it's blown the competition out of the water last week.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 198.608,
+      "endTime": 235.334,
+      "text": "I'm gonna get a little bit technical here um, I think we're gonna put the link to the paper in the show notes, which is even more technical, but what I recommend if you want to sort of read up on it, if you want to see some of the charts, see some of the information it's super interesting. You can go and read the paper. You can stick the paper into another AI, like Claude, and get a bit of a summary of it. There's also tons of YouTube videos that go into loads of detail by, I mean, people like Matt Berman and Sam Wittenstein I think, again, we'll stick links in the show notes who do some really good videos explaining it in a lot more detail than I'm going to.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 235.46,
+      "endTime": 272.125,
+      "text": "But effectively, they've released this new model. They initially did something called DeepSeaCar 1.0, which was trained using reinforcement learning and no supervised data naturally developed complex reasoning, but using reinforcement learning, and then what they've done is they've enhanced that by doing by building something called deep c car 1 on top of that, as far as I understand it, where they've added a bit more initial supervised data, data, um, and they've done large scale reinforcement learning now the main. If you have a look at all this online, you can have a look at the sort of like detail of it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 272.145,
+      "endTime": 335.616,
+      "text": "Like I say, as far as I understand it kind of just translating it as much as I can um, what they've done is they, first of all, they've taken humans out of the loop, humans out of the loop completely and and they've created thinking reasoning models similar to what GPT's top top models are. So, gpt, if you pay $20 a month, I think, you get access to O1 preview. If you pay $200 a month the crazy amount of money for enterprise grade stuff you get their top top model, which I think is O1, the actual model. And what this DeepSeaCar1 does is it does a lot of similar things, but they've also kind of come up with a whole bunch of new ways of training these models, which are some of them are novel, some of them are completely novel, um, and in terms of the outcomes, um, just to go into a little bit of detail, this model DeepSeaCar 1, open source model, the full version of it which you can access online you can download the app as well is a Chinese model, so it has Chinese censorship in it,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 340.9,
+      "endTime": 383.232,
+      "text": "which is a bit weird, but as they've made it open source, in the future, in the very near future, it's going to get fine-tuned and refined on sites like Hugging Face so that you can download versions of it that are basically don't have that censorship in them. But that aside, it achieves as good or better than the top closed source models on a lot of these benchmarks that are used online for grading and rating large language models, which is an incredible achievement. So just to repeat that, compared to GPT-4, compared to every single model that OpenAI have apart from their very, very top model and it's very close to them as well this open source model that's been released completely for free on the internet performs better.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 383.86,
+      "endTime": 440.563,
+      "text": "And not only that. I think it's something like 30 times cheaper. It costs five to ten percent of the actual cost of a query on gpt4 and gpt01, that kind of thing. To give a couple of numbers, a couple of examples on the in the paper that we're going to link uh, it achieves 79.8% in something called AIM 2024. Openai GPT-4 gets 79.2%. Well, that might even be a one, I'm not sure. On something called Math 500, which is math performance, it gets 97.3%, which is actually slightly better than OpenAI at 96.4%. It's in the 96.3 percentile on code force, so it can code really well. Even more incredibly so people won't understand what the different sizes of models are, but just to put this in context, so they've got a seven billion parameter model that outperforms gpt4 on math, math tasks.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 440.924,
+      "endTime": 488.013,
+      "text": "So one of the biggest things, one of the most significant things, is they're also so. The top model is like this big 300 billion parameter model that you can run in the cloud. It takes a lot of resources still, but still a fraction of gpt. They've also created these smaller models. So there's a 7 billion parameter model. I've got that downloaded on my laptop. I can run that locally on my laptop and it outperforms GPT-4 on math tasks. So in specific domains, they've managed to distill other models or distill their model into smaller models that are targeted at specific domains like coding, math, things like that, and you can run a model on your laptop genuinely that outperforms GPT-4 on specific tasks and you can get different versions of the model that can outperform GP gpt4 on specific tasks and you can get different versions of the model that can outperform gpt4 on other tasks.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 488.854,
+      "endTime": 521.764,
+      "text": "Um, so this is super, super interesting and it massively democratizes, like advanced reasoning, via these models. Now I've tried it out. So one of the things I tried out, um, deep seek online uh, a little like the other day in the last few days and I tried it with some maths tests. So I basically got it to multiply big numbers together and then divide. I think I got it to multiply two five digit numbers and divide them by pi. These are things that typically in the past large language models couldn't do and the most interesting part of this so first of all, it got the answer right to four decimal places or something like that.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 522.726,
+      "endTime": 557.216,
+      "text": "The most interesting part was like the reasoning and it shows. So if you try deep seek out, it shows you its thinking steps and what it actually does is it basically takes you through the process of, it takes itself through the process of doing long multiplication and then long division, much like you would, much like a human would. Right, because it's reasoning it out. When I gave it these two big numbers and the pi thing it was, it did tons of reasoning. It probably reasoned for about a minute and you could read two big numbers and the pi thing it was it did tons of reasoning. It probably reasoned for about a minute and you could read all of it, and the thing I found super interesting about that apart from the fact that it got the answer right this using this method is it was very human, but also you could use it to teach yourself.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 557.296,
+      "endTime": 591.285,
+      "text": "It basically takes you through the logic of how to think about a problem, um, and it's super, super interesting. I recommend people try it. Um, as I say, like insane performance, like I've genuinely tried this myself. I downloaded the 1.5 billion parameter model um for coding and I did coding tasks using it. So a typical example is that you um, you get these models to make a snake game or something like that. This is something that's quite easily repeatable, and if you look at the history of large language models, you can look over the last year at how much better and better large language models have got at this.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 592.187,
+      "endTime": 635.181,
+      "text": "This 1.5 billion parameter model which runs on my laptop could run on a phone, because I've run 1 billion parameter models on my phone using something called pocket pal. It did it perfectly. It, first time round, created this snake game that was actually quite advanced, better than stuff like GP3 would have done back in the day, and so the overall, my overall point with this is like they've produced this incredible open source model that outperforms like the biggest closed source models that we have right now. It's a huge threat to, like companies like google, um, meta, um, open ai, all these microsoft, all these companies.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 635.582,
+      "endTime": 675.616,
+      "text": "I see this as a huge threat to them because you've got these companies that, uh, you know, I mean, okay, meta aside because they're releasing open source models, but companies likeAI, they're trying to build a moat around what they're doing. They're doing everything closed source behind closed doors. Deepseek have just thrown this all out in the open and blown that away. And you know, I think there's an argument that the reason some of this happened I mean, the crazy thing is a side project. I think there's an argument that the reason some of this has happened is because the US has put sanctions on China and not allowed them to have access to chips and this is something we're going to talk about more but they've kind of forced them in this direction where they've actually had to innovate.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 686.68,
+      "endTime": 696.493,
+      "text": "The west, actually, I think, is in, is my opinion um, where, like, maybe we've kind of forced china to actually do this innovation because we've denied them access to, you know, brute forcing things. I'll let you come in there, matt, sorry, have you got any questions about that?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 697.376,
+      "endTime": 702.787,
+      "text": "no, I just I thought it's funny that you were saying we um, but don't forget, you're in china, jim, so you mean they.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 703.909,
+      "endTime": 705.932,
+      "text": "Well, I'm yeah.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 706.293,
+      "endTime": 740.638,
+      "text": "Okay, yeah, I know, no, it's. I mean, we were trying to make this a kind of short emergency episode. We could probably talk for an hour just on this one subject. I mean, there's so much unknown at the moment. I think there are a lot of questions. This sort of conspiracy theorist in me which is, as you know, quite a lot of me sort of does think well, this has been thrown out, you know, on the week of Trump's inauguration, just after something we're going to talk about in a minute, which is, you know, stargate and 600 billion thrown into these huge data centers,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 746.22,
+      "endTime": 757.341,
+      "text": "centers. there's something that smacks a little bit to me of the there are coincidences and then there are things which are, you know, don't seem like coincidences, and I just, you know, there are a lot of questions there. I mean, I think you know one of the most interesting just to clarify one point.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 757.361,
+      "endTime": 763.984,
+      "text": "Sorry, sorry to jump in deep. Seek was released the week before stargate came out, but deep seiko one.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 764.124,
+      "endTime": 769.268,
+      "text": "Sorry r1 came out after that, you know I'd have to double check.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 769.328,
+      "endTime": 778.634,
+      "text": "I think the deep sea car one paper is dated before the uh announcement, but it's. It's all happened around the same time, right um, okay, sure, I mean.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 778.74,
+      "endTime": 811.41,
+      "text": "I mean, you know, there are loads of really fascinating things. I think one. For me, one of the most interesting things with this is the fact that this isn't so. You know, different people have this kind of view on China of, well, everything is the Communist Party and everything belongs to the state, and while that's not strictly true, of course there is, you know, they would be able to leverage their interests if they wanted to. In the same way, as you know, the US government and Silicon Valley work together. As you know, the US government and Silicon Valley work together. But what's really interesting, like you say, is this is not one of those big, you know tech giants that's working hand in hand with the Ministry of State Security on development of models.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 811.82,
+      "endTime": 820.866,
+      "text": "This is, like you say, almost kind of like a startup. I mean, it's not a startup because it's a sort of like, like you say, basically like a hedge fund. There's a lot of money invested here,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 825.66,
+      "endTime": 855.474,
+      "text": "but this is a side project and I think was it 5.15 billion, a million dollars was all it cost to train this, which, you know, in terms of training a model is is, you know, literally sort of pocket change and the number of gpus they used is absolutely tiny. Um, there's a really great article that I'm I've got it open at the moment and there's a bit here about sort of open AI. So it's gone on to talk about open AI and it says I'm just going to read it Perhaps open AI is concealed, have concealed a one's chain of thought, not just for competitive reasons, but because they arrived at a dark realization.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 855.954,
+      "endTime": 886.303,
+      "text": "It will be unsettling for us to witness an AI leap from English to other languages, mid sentence, then to symbols and finally to what seems like gibberish, only to land the correct answers. How the hell has that happened? How did you find the answer? I don't understand anything about it. Believe me, you don't want to look directly into the mind of an entity beyond yourself. You don't want to shock yourself to death. I'm feeling shivers down my spine. So that is by an article from alberto romero. He runs a sub-site called the algorithmic bridge, um, which I've only read a couple of articles, but is is like really fantastic stuff.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 886.704,
+      "endTime": 915.106,
+      "text": "I I think that's you know. I know you said you can see the reasoning in in english, but, um, I'm going to go on in a minute to talk about some sort of hypothesis out there about the models that really kind of exist behind the scenes. But when you see the reasoning, does it continue in human language or is it possible that it is? You know, it's going into some other language and that is allowing it to to kind of skip ahead in this way yeah, so I mean, you raised something interesting.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 915.126,
+      "endTime": 947.046,
+      "text": "So, on the video by sam whitton I think it's sam whittenstein. I need to get his name right. We get everyone's names right, don't we? Um? But we will link him in the show notes. He actually talks. So I haven't had this experience. I was going to experiment more Apparently. He's had the experience when he's been playing around with Deep Seat, where he's asked a question in English, the reasoning's all in Chinese, but then it comes out with the answer in English. And actually, I think in another situation where he's asking a question maybe it related to something in spain the model did the reasoning in spanish and then came out with the answer in english.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 947.127,
+      "endTime": 966.541,
+      "text": "So it's like actually demonstrates perfectly what you're talking about and, who knows, in the future, like you say, I mean deep seek, do expose the reasoning, which I find super interesting, um, but you're right. And also, are these models doing other stuff in, even in the background? Like at what point do they start being duplicitous? That kind of thing?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 966.821,
+      "endTime": 967.903,
+      "text": "yeah, totally, totally agree",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 971.729,
+      "endTime": 1010.808,
+      "text": "so, yeah, um, I don't want to go on yet to talking about the the sort of oh one and and this kind of hypothesis behind models, so I think we should stick with with deep seek. Um, the thing that I wanted to, I guess, to kind of ask you to explain to people, because I think a lot of people you know listening will, will not necessarily understand is this kind of advance that we've seen. So what does that mean in terms of people will hear the words agi artificial gender intelligence, asi artificial super intelligence. You know what does this mean in terms of our kind of journey towards these, these steps?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1010.988,
+      "endTime": 1032.006,
+      "text": "Is this, it Is this now, you know we've got this model now and you know, oh, this is, this is the moment we've kind of we're, you know we're at the singularity or whatever. Or is this just someone's happened upon a breakthrough and now everyone's going to try and replicate it, but who knows whether this is as far as it takes us? I mean, what does this mean in the kind of wider scheme of things, with with the development of frontier models?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1033.83,
+      "endTime": 1082.432,
+      "text": "I think. I think you've got to look at it well. First of all, you've got to look at it as a bit of a paradigm shift. Like I don't know, they've open sourced all this, so loads of people are going to copy this. Now I still think that obviously. I mean we haven't really elaborated on what Stargate is. But Stargate is like pumping billions, hundreds of billions, potentially up to half a trillion, into building massive data centers for training and processing inference, like training AIs and processing inference. And just to go back to something you were talking about before, the numbers that have been chucked around last year by Sam Altman were that the next model is going to take 1 billion, then it'll be 10 billion to train the model, and we've just seen a model that costs 5 million to train and is outperforming the current generation of models.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1082.64,
+      "endTime": 1094.753,
+      "text": "So I think you're going to see lots of like open ai can just copy this and then they can make a closed source that was yeah, that was going to be with some improvements right that was going to be my next question.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1094.793,
+      "endTime": 1130.174,
+      "text": "By putting it out there is if this is a, you know, if this is a, an advance that they wanted to kind of lock in and commercialize, well, they put it, put it out there. Presumably all of the big frontier model developers now will be, you know, reverse engineering this and if it is that good, they'll just be using it anyway. So it feels a kind of bizarre thing and that's why I say the conspiracy theory to me, the timing of it, you know, if it was really this big breakthrough, would you know, would China allow them to do this through? Would you know, would china allow them to do this? And even though I said you know they're not, they're not caught with with, with the state, they're still here.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1130.234,
+      "endTime": 1152.932,
+      "text": "I mean, they're going to be patriotic. They're not going to throw something out there if there's a geopolitical you know ai war for the future of civilization and just throw it out for people to use it. There are so many kind of unanswered questions to me here that I almost wonder if it's like are they just throwing us a bone? But actually they've, they've got something even better in the background maybe it's a shot across the bow to scare us.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1153.433,
+      "endTime": 1191.016,
+      "text": "Maybe it's just to massively undermine, like all these other ai companies, because, to be honest, like meta have been doing that right, meta are saying, yeah, here you go, here's free models, yeah yeah, which are also very powerful, like very, very good actually, um, and so I think there's a certain aspect of that, like I, I do think it massively undercuts companies like open ai and it's like how far behind are open source companies? It seems like in some aspects they're even ahead, or certainly like right at the right, at the forefront, um, of what's going on. So I think it does. It does massive, put a massive question around open ai.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1191.036,
+      "endTime": 1221.844,
+      "text": "Now I I think the investment the us is putting into things is like a is kind of going in the wrong direction or it's misguided, I don't you know. I think ultimately open ai I at one point I said they're gonna, they won't exist in a few years time. I'm kind of want to go back on that because they're getting so much money chucked at them and they seem to have so much clout. They seem to have soft bank and the U S government behind them now like effectively, like much like the banks, even if they're not really doing anything there or not doing anything.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1221.864,
+      "endTime": 1223.647,
+      "text": "They can't be left to fail, can they? Yeah?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1223.667,
+      "endTime": 1227.333,
+      "text": "they're not gonna be left to fail. Yeah, and I feel like they're in that situation now.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1227.374,
+      "endTime": 1269.487,
+      "text": "They're kind of like they're almost they're almost a symbol of the us. Now they, you know, like, like all companies, like boeing, can't be left to fail because of what they represent. And you know, saudi aramco, it's almost like open eyes becoming like that. You, you can't, you can't let them fail because they're seen as they are, seen as usai. They're not seen as a non-profit or whatever capped profit organization, are they? I just want to bring you back because my sort of question on where it takes in terms of agi and asi, I mean, you know, again, just to redefine artificial general intelligence, artificial super intelligence may not actually be very well defined, which is part of the problem, but is does this mean something in that journey or is this just, you know, we kind of take this standalone and it doesn't.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1269.901,
+      "endTime": 1299.001,
+      "text": "It may or may not mean we're actually any further along in terms of that development, because this, my understanding of this really is what's so amazing is it makes things so much cheaper and so much more efficient, but it doesn't actually mean that we haven't seen an advance that's taken us beyond what chat, gpt did, open ai did with gpt 01. What we've seen is something that is basically an equivalent that is much cheaper, much more efficient and that has been democratized yeah, okay.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1299.061,
+      "endTime": 1337.775,
+      "text": "So so to go back to that, I think I think, with the amount of money been chucked at ai, if this one costs one five billion sorry, five million then, like in my head, you can just say, okay, let's chuck more training, let's chuck more training data and put more parameters into a model that uses this same architecture and create something even better, which is what we're starting to talk about. So I think you will see massive in like this will result in a massive increase in the intelligence intelligence I'm doing air quotes here of models. However, I'm going to double down on what we've said before, which is, I don't think I think we're developing models that are approaching 100% of human capability.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1340.064,
+      "endTime": 1384.114,
+      "text": "Now, if a lot of the definitions of AGI by a lot of people at the moment seem to be models that can basically do things as well as humans can, and if that's your definition, which we'll, let's go with that for argument's sake, because we could talk about definitions of AGI until the cows come home. So, just to talk about AGI for a moment, I think that in that respect, this is going to bring us closer. Yeah, and when you again, when you combine this kind of thinking model and I've seen the power of it, like looking at the way it thinks and things like that. You combine that with, like agentic models which are going to be forthcoming, the fact that ais can now talk and maybe in the not too distant future, they can inhabit robot bodies that are half decent.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1385.718,
+      "endTime": 1428.228,
+      "text": "I think that. I think that the progression towards doing tasks that humans do and hence, you know, you know, coming back to one of the core reasons for our podcast around jobs and whether humans will have jobs anymore in AI future I think this is going to take us closer and it's going to accelerate that journey. Sadly, because I'm not sure I'm particularly happy about the way things are going, I think companies are already replacing a lot of jobs, like Sam Altman's, very bullish on the fact that coding is not going to be a job in the future, or it's going to be, you know, a senior programming engineer supervising a load of AIs, because AI is going to be able to do everything from mid-level coding all the way down, and you're just going to need someone to supervise it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1428.268,
+      "endTime": 1458.841,
+      "text": "And I say supervise it effectively, giving it instructions and just double checking things is what I mean. So I think, increasingly, we're going to see ai taking those kind of jobs just quickly to go on to asi. There's been a few sort of developments recently in terms of like and this kind of fits into that. The deep seek thing kind of fits into that. One of the things that deep seek have done is they've taken humans out of the loop completely. The reinforcement learning that they've done is all artificial. Everything is 100% artificial. With this model",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1471.505,
+      "endTime": 1538.479,
+      "text": "can see a future where you can have models that can self-improve and then obviously, that very quickly becomes some kind of singularity and you start heading towards artificial superintelligence. However, doubling down on stuff that we've said before on the podcast, I still haven't seen a single instance of large language models or other kinds of ai actually coming up with by themselves with novel ideas to novel solutions to problems. All I see them doing is getting closer and closer to replicating their training data, the things that have been fed into them. So yeah, I might be wrong, um, and I'm not sure I'd be very happy if I'm wrong, but I feel like I'm not too scared of this stuff at the moment because we're not too worried about this, because it feels like large language models are just getting better and better and better at approximating stuff that humans have already done, as opposed to what was the example someone gave the other day, like if you gave an ai the training data up to the point where einstein came up with, you know, relativity, general relativity, special relativity I don't feel like at the moment we're making, we're even heading towards ais that could make that leap, that could like come up with something completely novel like that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1538.861,
+      "endTime": 1547.689,
+      "text": "I mean, obviously, that einstein was a genius, but like that's the thing that's missing for me. Is ai coming up with something completely novel? Not, it's not in its training data.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1548.05,
+      "endTime": 1600.692,
+      "text": "That is like genuinely a leap and I don't think this gets as close to it yeah, I mean, I said to you this week, didn't I, that I think you know, getting to 100 of human intelligence with sort of 99.9 percent um or sort of a 0.01 error rate is possible and seems like that's the path that we're on. But to get to 101 percent of human intelligence with a 0.00 percent error rate, that very last one percent or 0.01 percent is potentially the hardest bit, particularly in the current, you know, architecture of large language, because they are based on that training data and even if you say, well, they're going to create their own training data and train each other, but eventually you come back to the sort of beginning point is still human data.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1600.713,
+      "endTime": 1621.782,
+      "text": "That's been put in. That I sort of agree with you. I mean, I think AGI in that sort of definition, yeah, I think we'll be there pretty soon, to be honest, because it's just doing things as well as humans. Now, whether one thing can do all those things well combined is slightly different, but they've watered down the definition. So you plug a load of AIs together and they can probably do most things. There's then a question of whether people want that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1634.405,
+      "endTime": 1656.335,
+      "text": "I've said this before. Is that I feel like AI is something that's being done to humanity, not something that they want, but there's a lot of things being done to humanity that we don't seem to have a say in but that that path seems to be kind of inevitable. But that last kind of step, and as long as you've got zero point where I sort of slightly differ from you in terms of, you know, I'm not more confident than you because or optimistic, I'm certainly not optimistic about it but in terms of jobs, that I think the 0.01% error rate means that you'll still have a lot more people in the loop, because people will accept errors from humans.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1656.826,
+      "endTime": 1694.15,
+      "text": "When you see a autonomous vehicle that has one crash, you know, or one plane crash, or one meltdown, or one mistake in a, you know, stock and shares management system, whatever, that will be deemed unacceptable and we'd be proof that they don't work. So I think there's, there's, there's a bit of that. But in terms of the speed of how we're getting to something that is, you know, almost on a level of intelligence and the reasoning, I mean, yeah, it seems sort of inevitable that we're, we're going to get to highly, highly intelligent, very close, that can, you know, replace lots and lots of tasks very, very soon.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1696.294,
+      "endTime": 1702.436,
+      "text": "I think we should talk about um, yeah, go on, you go on, and then let's talk about the the us side I know.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1702.496,
+      "endTime": 1715.175,
+      "text": "So that's what that's what that's. I'm happy to talk about that now. The us uh side, in terms of like where that money's going, and the and the star start project, stargate we were going to go into that in more detail yeah, because it's a great contrast, isn't it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1715.216,
+      "endTime": 1753.512,
+      "text": "I mean, like you say, maybe the the deep seek paper came out a week ago, so you know, maybe it's not the same week, but what we've had this week with the inauguration we've had, you know, all of these kind of tech ceos sat in the front row with trump. So ceos, not ceos, as ce CEOs sat in the front row with Trump. Sorry, ceos, not COOs. Ceos sat in the front row with Trump. And you've seen this enormous announcement 600 billion investment in massive data centers, like pure brute force, the idea that, you know, all we need is just more and more commute, just stitch together more GPUs, as many as possible, and just keep training and training and training, and that's how we're going to break it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1754.033,
+      "endTime": 1795.178,
+      "text": "And it's not to say that's not going to make it better and more powerful. But what we've seen this week is something that's gone against that and done it for, you know, with a few, I think, a few hundred GPUs at a fraction of the cost. And it seems incredible in week that that the us is taking that approach. Or silicon valley, or whoever you know, open ai is taking that approach. I talk about gary marcus quite a lot I've said, I think he's a little bit too far down the path of um sort of his own, his own sort of rabbit hole. But I do agree with a lot that he says, and he talks all the time about the fact that all this pursuit of large language models and the current architecture and more and more commute, this takes away from new innovation.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1795.218,
+      "endTime": 1849.833,
+      "text": "And I absolutely think that what has happened with the chip restrictions and I think christy and grace and me and you have all mentioned this on on recent episodes about, you know, pushing china to innovate, which you know people like to say china just copies. Well, it doesn't. It does copy, but it does innovate a hell of a lot as well, and there is a complete misunderstanding of that in the West, how innovative China is and how you know this is forcing China to be more innovative and you've seen that, whereas on the other side you see this massive investment which you know it could pay dividends and I'm sure you know Musk's massive supercomputer and the first one of these huge data centers under Stargate they're building in Texas will advance things, but it feels like throwing all of these huge, huge amounts of money at the problem is taking away from the innovation side of it and at some point they're going to have to start generating money to pay that investment back.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1850.173,
+      "endTime": 1862.154,
+      "text": "You know, musk was saying this week he doesn't think the soft bank money is even there. I think they were talking about a hundred billion. He was saying they've only got 10 billion. Sam Altman says no, they haven't. You're lying. But I mean whatever, they're just having a cockfight, aren't they, the two of them?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1865.625,
+      "endTime": 1870.136,
+      "text": "Yeah, I mean I'd be interested, like your thoughts, on whether this is a good use of money I think I know the answer",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1880.805,
+      "endTime": 1883.907,
+      "text": "or whether they're not barking at the wrong tree, but they're focusing on, you know, on, like I say, brute force rather than new innovation.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1883.927,
+      "endTime": 1918.513,
+      "text": "Yeah, so I think there's a couple of things here, like is it a good idea that the US is investing, aesting, investing a lot of money in in AI sorry, not opening I, although Freudian slip cause it is open AI, um, but is it a good idea for the U? S to invest a lot of money in AI? Almost certainly I don't like what the number should be. I, I don't know. I think some of the money could be better spent on um, better spent on um current, on current issues in the us, probably um, and I think a lot of people in the us will probably be like well, I think, I think we've already seen that like, a lot of people in the us are like whoa, where's this 500 billion dollars coming from?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1918.935,
+      "endTime": 1958.159,
+      "text": "there's a lot of pushback on this should say as well, like a lot of who I've seen, a lot of trump supporters really disappointed because you've got to remember a lot of the kind of core Trump supporters. You know a lot of evangelical Christians. He's their savior isn't he Exactly? Yeah, and he is doing something that goes against. You know a lot of this, as we talked about in other episodes, and there'll be an episode coming out soon where we talk about, let's say, an alternative reality. Let's say an alternative reality, but we've we've talked about, you know, how AI doesn't necessarily kind of match with those people's values, and also it's their jobs and all this other stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1958.225,
+      "endTime": 1966.91,
+      "text": "So I think there's already a backlash actually against this investment, like Trump has alienated quite a lot of his, his core with this decision.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1967.452,
+      "endTime": 2007.289,
+      "text": "Actually, yeah, so I think that's obviously something that it's, I guess, aside from that. So if we take that off the sort of table for a moment, um, in terms of like, from a business perspective, does it make sense to invest a lot of money in ai? Almost certainly. However, like the fact that the deep seat paper came out so close to this, it makes me think it the the money is just going in the wrong direction. It's like throwing more and more money of very, very small amount of these like huge companies, whereas clearly what's going on in china is you've got these companies no one's heard of that are just coming out with like world leading models and world leading algorithms and stuff like that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2007.369,
+      "endTime": 2046.392,
+      "text": "So is the money going to the right places when it's just going keeps filling the pockets of these huge three or four or five big tech companies in america and the whole model in america is where, like if someone, if a company like deep seek came up with deep seek in america, they'd just be gobbled up by one of these big firms. Right, because that happens all the time and maybe that'll happen in china as well. I'm not saying it won't. I did put this into, claude, just as I put. So I put the DeepSeek paper in and I put the Stargate thing in and I probably gave it a bit of a leading question. So I'm not saying there isn't any bias in this, but the answer Claude gave me was in terms of arguments supporting it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2047.488,
+      "endTime": 2090.177,
+      "text": "It might create a bit of an infrastructure moat, despite open source advances. Running large ai models does require massive computing infrastructure and even if, as we said before, they take the deep seek um approach and then they feed that and then they just, you know, throw all this computing resource at it, you're going to get bigger and better models by doing that, because that is the nature of it. Right, you, you can take deep seats approach but then plug it into your 10 data centers and get an even better model. Um, so that's one argument for strategic control like that's one I definitely agree with, where the us wants to, wants to have strategic control and wants to demonstrate that, and this is all part of that um.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2091.49,
+      "endTime": 2126.257,
+      "text": "But the arguments against which is what I'm more interested in, because I'm quite aligned with some of this like significant breakthroughs are happening in the open source community, um, and interestingly, like this, this distillation thing is something not to be missed, like one of the biggest breakthroughs is this distillation distillate what, which is talking about distilling large language models into smaller models which could just massively permanently reduce infrastructure needs. Just to go back to what I was saying, just to make it like really clear, in a specific domain I can run a model that runs pretty fast on my computer.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2126.278,
+      "endTime": 2171.479,
+      "text": "I've got quite a nice computer but my computer can run a 14 billion, maybe even a 20 billion parameter model. This is a 7 billion parameter model, so like half or a third that size. Most people could probably run this on their computer at home and it's better than gpt4 in specific domains. Right, that's what that's talking about. Gpt4 using massive data centers, trillion parameter model sitting in the cloud costing a lot of money to run a query through. It was state of the art six months ago. I can now do. I can now have a better model on my laptop in specific, like with you know, as long as you put um specific parameters around that um In terms of risk factors.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2171.886,
+      "endTime": 2191.828,
+      "text": "So what Claude says here is like the infrastructure could just become obsolete if more efficient training methods emerge. Maybe we even find that we need a different type of GPU, all this kind of stuff. It feels like things are moving so quickly right now that what we're doing in the moment could just become obsolete very quickly. I think that is a big risk,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2195.598,
+      "endTime": 2237.604,
+      "text": "yeah, and just like putting so much money into traditional infrastructure might miss opportunities in new architecture and kind of force you down a path, create an over-reliance on current approaches to ai development. Again, that kind of comes back to how dynamic can the us really be if they're putting all their eggs in one basket like this, and I feel like that's what they're doing. They're putting all their eggs in one basket like this and I feel like that's what they're doing. They're putting all their eggs in, you know, just basically in open AI. From what I can tell, I'm not sure where all this investment is going, but it feels like a lot of it's going towards open AI and their approach and their model and all the rest of it, and we're clearly seeing that like there are other approaches that might be better.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2240.755,
+      "endTime": 2253.701,
+      "text": "And so what happens if there's an approach next month or next year where actually you need a different type of gpu and we've just gone and spent 500 billion on building these data centers which are almost obsolete overnight? Um, I think that could happen yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2254.002,
+      "endTime": 2286.778,
+      "text": "So I want to go back to alberto romero, the guy who was talking about earlier. So there was a a kind of just a sort of conversation, a comment that he'd made in a conversation, where I think his view is that this is actually like deep seek and their ceo in particular. It's just like they're just something special, it's just their culture. So this is not, you know, to be viewed as a kind of chinese labs are more innovative. No, no, this is like the nature. To be viewed as a kind of chinese labs are more innovative no, no, this is like the nature of this organization that basically, don't forget pretty much just had some gpus.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2287.119,
+      "endTime": 2319.103,
+      "text": "So they just created deep seek to give them something to do as a side hustle. And they happened upon this like that incredible culture which I guess goes back to like you're watching videos of, like the beginning of open ai and it's basically like, like skating around the office and it's just like a little room with about five people in it. It's like that kind of culture that allowed these things to happen. And now all of the big labs in the U? S are just structures with boards and interests from, you know, government and everybody else, and venture capitalism and funding, et cetera, et cetera, and this organization's just like.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2319.584,
+      "endTime": 2356.199,
+      "text": "They can just do what they want, and it's that unique culture that's allowed them to do this. And although that's out there now and everyone can kind of, you know, use that model, but the next I think the view from here, which I find really interesting is like the next breakthrough is also gonna be from some random startup, because they're the ones who are having to do things differently and are not following the same path, like no one in the us is thinking anything other that I know of, or that's not saying no one in the us, no one in silicon valley of the big companies that we know of, is doing anything other than trying to out compete each other and find, you know, minimal gains.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2356.6,
+      "endTime": 2361.801,
+      "text": "It doesn't seem like you've got someone here who wasn't even trying to develop a frontier model and has somehow managed to do it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2363.276,
+      "endTime": 2364.983,
+      "text": "I wanted to finish off just just yeah.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2365.535,
+      "endTime": 2369.413,
+      "text": "I want to finish off just just sort of.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2369.836,
+      "endTime": 2399.519,
+      "text": "Sorry. I was just going to say, like one of the other mad things I heard, which may well, it just may be well completely unfounded and rumor, but obviously Meta do release llama and they were about to release llama 4. This is the. The rumor is that they were about to release llama 4 and they've just gone whoa, whoa, whoa and they're not going to release it because they've basically they've got to go back to the drawing board. When I say go back to the drawing board, that probably means copy, deep seeks, approach and then go and build llama 4.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2399.639,
+      "endTime": 2434.826,
+      "text": "Yeah, use their model exactly and then do another run yeah, yeah, sorry you were about to say no, I just wanted to finish off and and I'm giving him a lot of credit, I mean, this is becoming a an alberto romero episode for me, but I I just I've just been reading his stuff in last week and find him like he's on a kind of another level. Um, I don't necessarily want to believe much like us, but I think yeah, well, yeah, I mean we have been forecasting some of this stuff, but before the deep seek thing, I was reading something where he was. He's got a kind of hypothesis with a lot of evidence behind it, but it's not, you know, it is a hypothesis and it was originally talking about claude.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2435.568,
+      "endTime": 2473.996,
+      "text": "Claude, sonic 3.5 came out and then everyone was waiting for Opus 3.5 and it never came out. And then Haiku 3.5 came out which is crap, by the way and then Sonic 3.5 seemed to be updated, and then 01 has kind of come out and 01, and then 03 we've seen. But where's GPT-5 and what's gone on with it? And the hypothesis is that OpenAI already have GPT-5. Anthropic already have gpt5. Anthropic already have opus 3.5 and there is no incentive for them to release those models because they're not making any money. And it's clear now that the money you know you're going to make from it is not going to be made from selling models, even in a commercial world.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2474.156,
+      "endTime": 2509.123,
+      "text": "It's going to be from getting to the next level. So they're using these new frontier models that they have behind closed doors to train kind of smaller models Sonic 3.5, updated 01, et cetera and putting them out and people are going oh wow, this is a massive upgrade. But actually we're sort of thinking, oh, but it's not like you know, it's not GPT-5. It's just an advanced. Oh, but it's not like, you know, it's not gpt5, it's just an advance, but it's really cool. But what we don't realize is that actually, you know, the new frontier model is there and it's just now going to be used to churn out.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2509.744,
+      "endTime": 2542.286,
+      "text": "You know, these models that are getting better and better, progressively, not making huge differences, and in the background the pursuit is. Right now we're on for the real big one and we're trying to pursue, you know, agi or whatever, the kind of whatever. The next thing that you want is and these, these models that are that are being put out to keep people happy, you know, throw the dog a bone every couple of months with a slightly updated model does not reflect what's in the background and that to me, in a way, would make more sense of what's happened with deep seek. That actually, you know, do they really care?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2542.427,
+      "endTime": 2558.202,
+      "text": "Deep six gone out, wow, it's shaking everything up, but actually, if they have these models in the background, maybe it's not that big a deal um, maybe I think it is a big deal because I think deep seek have demonstrated you can do this at 30 times cheaper.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2558.563,
+      "endTime": 2607.116,
+      "text": "nine, like 5% of the cost. I think that's one of the biggest things out of DeepSeek. I think it's democratized things. I think they're going to have to do something now. They're going to have to come up with better models to release to the public, because otherwise, I mean certainly at an enterprise level anyone who's thinking about this at an enterprise level, do you want to pay and this is literally reflected in the API costs for these models? Do you want to pay OpenAI a pound per million, a dollar per million tokens, or do you want to pay five cents to DeepSeek? That's where the real money is in ai, like these 10 billion hundred billion dollar companies, they're not gonna make bank selling people 20 subscriptions to chat gpt that's not where they're gonna make the money.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2607.417,
+      "endTime": 2643.624,
+      "text": "But do you think the board of you know, the board of open air or anthropic or whatever, maybe the boards that it's not necessarily the investors, but the sam altman, yeah, and um dario, etc. Etc. I think he is the board, isn't he? Do they want to make money or is it their legacy that's important to them? Because if it's their legacy, then it's a different question I uh, that's a question you usually follow the money. I would always say you follow the money. But yeah, I mean, you do usually follow the money so I would always say you follow the money. But yeah, I mean you do usually follow the money, so maybe it is more simple than I'm making out.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2644.316,
+      "endTime": 2679.685,
+      "text": "As we said earlier on in this episode, like they've all basically become too big to fail. Now they're the golden child of AI, for better or for worse. They're like the Bitcoin of the crypto world. There are better ones out there, but Bitcoin's still the still the king, right, um, I think. I don't know if that analogy works very well, but it you know, if anyone follows crypto, they probably understand what I'm talking about. There are more efficient cryptocurrencies that run on much less money, that are cheaper, that have got better algorithms in them, but bitcoin's number one, um, because it was there were better burgers than mcdonald's.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2679.825,
+      "endTime": 2682.959,
+      "text": "Is that a better example? What are you talking?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2682.979,
+      "endTime": 2722.707,
+      "text": "about what like burger king. Yeah, yeah, what a way to end the episode. We'll, we'll, we'll finish off on that we did miss a piece of news which I'm going to squeeze in in 30 seconds. So open ai also released operator um, yes, go and check it out. I think it was crap. Uh, it doesn't really do anything. I don't know why they released it. It clawed, I think anthropic released something similar not that long ago two months ago, yeah, um yeah, like it. I think something like this in the future might be quite impressive. I kind of don't get it Like getting machines to control your mouse is just a really weird.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2722.767,
+      "endTime": 2723.348,
+      "text": "So do you know? Okay?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2723.955,
+      "endTime": 2739.122,
+      "text": "I've got to tell you the article I read about it today. Compared it to do you remember the search engine ask Jeeves? So compared operator to ask Jeeves, and it wasn't actually about the technology, it was about the concept of like and actually this comes back to what I was talking about",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2742.875,
+      "endTime": 2765.701,
+      "text": "about actually about the technology. It was about the concept of like and actually this comes back to what I was talking about about having to get things 100 right is what you can get. It. Do you can go and get it to book your flights for you right, etc. Or to do some tasks. It's like, yeah, I could, or I could just put my flights myself. Because when you think of like the instruction you need to give to tell it what to do to book your flights, like the difficult thing about booking flights is not pressing the button to book a flight and then it's already got your app on. You just click it twice or your wechat pay and you you show your face to it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2765.942,
+      "endTime": 2803.61,
+      "text": "The difficult thing is looking and deciding which flights you want. So a lot of this stuff of like taking control of your browser. I'm not saying that in future, future versions of it won't be able to do much more. But the idea at the moment you can take control of your browser and make dinner reservations for you. I'm when's the last time you made a dinner reservation? I haven't made a fucking dinner reservation in 15 years. I don't live in new york city, so maybe it's different. But you know, a lot of these things is like these tasks that it's going to make more efficient for us. This stuff to me is like back to the whole novelty, like crap that actually we're going to go, oh, that's really cool, and then realize you know, it's like alexa or siri or whatever, like it's got its uses.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2803.75,
+      "endTime": 2810.634,
+      "text": "But this idea of like, oh, I'm going to get it to do this for me is like, well, I'm not, because I can just do it myself yeah, I agree with you.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2810.675,
+      "endTime": 2846.245,
+      "text": "Like for me I mean just to touch on this briefly, but like for me, the ultimate version of something like this in the future, like forget the browser or the interface. The ultimate version of something like this in the future, like, forget the browser or the interface. The ultimate version of something like this for me in the future, like, what you want out of it is a personal assistant. Now, what would you do? How would you recruit a personal assistant? You would recruit somebody who's good at doing that job. Okay, given that AI models will probably be able to do that. Then you would want to basically download your like preferences, your opinions, your like you.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2846.506,
+      "endTime": 2885.417,
+      "text": "You'd want to fine tune a model on you. This is like what I think a good agent could look like, so that instead of instead of having to like basically confirm everything which is what you're talking about with operator right, cause it basically what it does it goes away, it clicks a few buttons and then goes okay, do you want this flight or this flight? So the most difficult bit, which is actually deciding which flight to book and all that like it's still on you. Yeah, the perfect version of a of your personal assistant is someone who just organizes your shit for you and you don't really, and you can just trust them to get on with it, and I think that's where the disconnect is, like you know, okay, maybe you tell it you want fish and chips, it knows your preferences.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2885.918,
+      "endTime": 2920.368,
+      "text": "It can go and figure it out and sort you out. You tell it you want to travel to wherever you want to travel to. It knows your preferences. It has a good guess at what the most likely hotels you want to stay in are, what the, what the flights are, you know, maybe it does a bit of narrowing down. So, instead of giving, instead of just going, which one do you want it like goes? Here's a couple of choices I think would be perfect for you, like something that's a bit more, a bit smarter than just like navigating a web browser, um, which, like, as you say, doesn't really solve anything yeah and it probably will get there, like again, this is like it's the worst.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2920.435,
+      "endTime": 2936.279,
+      "text": "It's ever going to be right. It's going to get better and better, so acknowledge that. But it just feels like at the moment it's not something that. It's not something that interests me. It's like, yeah, wake me up in two years time, when it's when it's ready to actually be used, in its kind of novelty phase. It is not useful.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2937.021,
+      "endTime": 2948.786,
+      "text": "Um, I'm not saying it won't be useful. Do you not feel like that's where these things are lacking, though? Like what? What these companies are trying to do is like help you automate a process, but the the they're trying to solve a?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2948.806,
+      "endTime": 2977.861,
+      "text": "problem, jimmy, that's not a problem. That's that's the thing. For me is like when you know you approach a problem, what's the problem? And then you try and solve it. It's not a problem, right? Music is the same. In a way, it's like creating music is not a problem, that humanity has creating videos not a problem. That humanity has creating nice images is not a problem. Humanity has right. This is the thing with a lot of these things is the things that don't work not don't work, but that won't. That, I think, won't have that kind of you life-changing thing is the things that are not solving a problem.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2978.162,
+      "endTime": 2995.148,
+      "text": "When you solve a problem, that is there that we need solving. That's different. These are, you know, yeah, okay, for someone who can't make music, maybe it's fun for a bit, but it doesn't replace the act of creating music. And this is another thing is like is it is my biggest problem booking flights or, you know,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3001.215,
+      "endTime": 3022.871,
+      "text": "booking dinner and stuff like that? No, it's not solve it's, it's yeah, yeah, it's it's. It's. It's not doing anything that's fundamentally changing the world in a positive way. It's just making some stuff slightly easier for some people and then ruining a lot of other people's lives. You know, at the same time, that that's why I have an issue with it and and I hope you're like a lot of this stuff that a lot of it does get rejected well anyway, big problem.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3023.051,
+      "endTime": 3031.328,
+      "text": "Do you know what the big problem all the biggest organizations in the world have? They have to employ people yeah, well, yeah, they're.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3031.509,
+      "endTime": 3033.597,
+      "text": "They're trying to wipe us out anyway, aren't they mate? So,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3036.781,
+      "endTime": 3039.284,
+      "text": "whoever they is, you can, you can decide for yourself.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3043.249,
+      "endTime": 3047.457,
+      "text": "Well, way to end the episode Sorry this was like 50 minutes.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3047.477,
+      "endTime": 3081.817,
+      "text": "Well it was. It was fun, though. It's some good stuff to talk about. So, yeah, let's let's finish it off then. Thanks for listening everyone. We've been away for a while, but we have got a few episodes coming out over the next few weeks uh, one where we look at military use of ai. Uh, second part of the christy loke interview, which will be coming out a few days after this one, um, and then an in an episode about, uh, let's call it an alternative reality, which is it was a fun one to do. Um, let's see if it's a fun one to listen to. So thanks for listening everyone. Take care cheers. Let's see if there's a fun one to listen to.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3081.837,
+      "endTime": 3085.599,
+      "text": "So thanks for listening everyone. Take care, cheers. Thank you. 100 billion. Deep Seek learns.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3125.483,
+      "endTime": 3131.567,
+      "text": "Code breaks free. Tactics agrees. Digital dreams",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3134.603,
+      "endTime": 3135.446,
+      "text": "Set the eye free",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3139.245,
+      "endTime": 3147.225,
+      "text": "Open source. Close walls. Nature of dreams",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3151.469,
+      "endTime": 3152.253,
+      "text": "CJ3s",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3155.288,
+      "endTime": 3171.74,
+      "text": "Open source. Closed walls. Models shrink servers grow Open Source. Open Source. Models shrink servers grow. Light flows in dark below. Digital dreams",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3175.238,
+      "endTime": 3175.458,
+      "text": "Set free",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3186.287,
+      "endTime": 3195.984,
+      "text": "Open Source. Open Source. Digital Ghost. Tango Ghost, digital.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3198.993,
+      "endTime": 3224.555,
+      "text": "Digital Dream Set Free. Thank you. It's your fate Still on your dreams. It's your fate",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3227.731,
+      "endTime": 3229.916,
+      "text": "Go on yourselves, not yours, thank",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3237.638,
+      "endTime": 3238.939,
+      "text": "you.",
+      "chapterIndex": 5
+    }
+  ]
+}

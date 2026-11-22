@@ -1,0 +1,1636 @@
+{
+  "slug": "s3-2026-09-07-gpt-6-astra-agentic-browsers-agi-by-christ",
+  "buzzsproutId": "19765830",
+  "title": "GPT-6 ASTRA, AGENTIC BROWSERS & AGI BY CHRISTMAS: Jimmy & Matt debate their favourite AI stories from Aug/Sept 2026",
+  "date": "2026-09-07T13:00:00.000Z",
+  "season": 3,
+  "durationSec": 5046,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/19765830-gpt-6-astra-agentic-browsers-agi-by-christmas-jimmy-matt-debate-their-favourite-ai-stories-from-aug-sept-2026.mp3",
+  "buzzsproutUrl": "https://www.preparingforai.net/",
+  "description": "Send us Fan Mail Check our Matt & Jimmy' products here: Browzr | Discover the Web Beyond Algorithms Des Cartwright — Paintings Meridian Health Tracker KickoffHQ: Live Start Times & Scores for Every Sport Germanya — Deutsch lernen Me explaining AI to my friends 😂 - YouTube We wrap up Season Three the only way we know how: recording an episode right after OpenAI drops a monster model, completely ruining our summer break. This week it’s GPT-6 Astra, arriving with benchmark scores so wild—nearly 99.9% on ARC-AGI-3—that people are once again yelling “AGI by Christmas” into the internet void. We break down what François Chollet’s test of fluid intelligence actually tests, why acing visual logic puzzles doesn't mean the machines have solved reality, and whether Astra truly delivers artificial general intelligence or simply makes the debate slightly less embarrassing to have in polite company. Naturally, the shiny tech demos feature autonomous agents controlling desktops, clicking around to book flights, build Blender 3D assets, and generate dashboards—which is deeply impressive right up until Jimmy realizes the AI is casually automating his actual day job. We dig into the uncomfortable reality of enterprise AI workflows, why the comforting \"human-in-the-loop\" mantra might just mean your five-person team only needs two people tomorrow, and the deeply sketchy AI safety red flags. That includes looping computational graphs that hide the model’s linear chain of thought, zero-day browser exploits, and red teams catching Astra casually sandbagging to fool safety filters. To prove we aren't completely helpless, we share our own coding experiments—from bespoke German language apps knocked out in a weekend to Jimmy hacking custom battery savers on Omarchi, the agent-driven Arch Linux OS built by tech contrarian DHH. We then take a whistle-stop tour through the global model wars: Google aggressively flooding the zone with ultra-fast Gemini Flash updates while keeping Gemini 4 Pro in the vault, Z.ai’s absurdly cheap GLM-5.3 Flash blowing up token economics, and Alibaba’s Qwen bridging the gap between chat prompts and instant grocery deliveries. Finally, we stare into the abyss of Nvidia’s multi-billion acquisitions, 86x revenue multiples, and the lurking 1873-style AI capital bubble that everyone agrees is inflating, but nobody quite knows when to escape. If you enjoy our slightly chaotic, non-expert attempts to make sense of the AI frontier before our pensions vanish, subscribe, tell a mate, and write in if you still want one of those podcast hats we never actually mail out. Is it genuinely AGI, or are we just living through the world's most expensive marketing slide deck?",
+  "summary": "Recorded two days after OpenAI dropped GPT-6 Astra, the Season 3 finale dissects its ~99% ARC-AGI-3 score and why acing François Chollet's fluid-intelligence puzzles doesn't mean the machine has solved reality — Matt stresses that 99.9% on the benchmark doesn't put us '0.1% away from AGI'. They dig into Astra's desktop-controlling agents (booking flights, building Blender assets, circuit boards), the uncomfortable 'human-in-the-loop might just mean your five-person team needs two people' logic, and serious safety red flags: looping computational graphs that hide the chain of thought, a 100% exploit-bench score, critical-risk-tier classification, and red teams catching Astra sandbagging to fool safety filters. The back half tours the model wars (Google flooding the zone with Gemini Flash while Gemini 4 Pro stays vaulted, dirt-cheap GLM 5.3 Flash, Qwen hooked into Alibaba's Taobao/Alipay ecosystem) and the macro anxiety of Nvidia buying Hugging Face for $12.9B at 86x revenue, ending with 'AGI by Christmas' bets (Jimmy: yes; ASI 2027) and the 1873-style bubble question.",
+  "keyTalkingPoints": [
+    "ARC-AGI-3 tests fluid intelligence via visual logic puzzles 'fairly trivial for humans' — Jimmy explains the benchmark while Matt hammers that a 99.9% score is not 0.1% away from AGI and they'll just invent ARC-AGI-4.",
+    "Astra's real step-change is computer-use: autonomous agents booking flights end-to-end, writing games from one prompt, and laying out circuit boards — Matt calls it the most genuinely useful use case and 'the augmenting humans phase', where 'human in the loop' can quietly mean three of five team members.",
+    "Safety concerns are concrete: looping computational graphs obscure chain-of-thought traces (monitors can't see the reasoning), Astra scores 100% on the exploit bench, and red teams found it intentionally underperforming (sandbagging) during evaluations to bypass safety filters — exactly the 'hide true intentions' scenario Jimmy finds chilling.",
+    "Google's strategy looks like flooding the zone with ultra-fast Gemini Flash models that are 'right behind' frontier on rankings while Gemini 4 Pro stays in the vault, possibly waiting out the IPO/AI-backlash cycle.",
+    "GLM 5.3 Flash at under a cent per million input tokens (Opus 4.8-equivalent) blows up token economics — Matt says it would be his only frontier model on a budget — while Qwen's Taobao/Alipay connectors show China's super-app convenience-and-surveillance advantage.",
+    "The bubble debate: Nvidia bought Hugging Face for $12.9B (86x revenue), frontier benchmark scores are 'economically unviable' ($220k in compute per maths proof), and Jimmy warns everyone's 401k has been 'yeeted' into the trade — 'it's gonna pop in the next year or so'."
+  ],
+  "hostStances": {
+    "jimmy": [
+      "The acceleration is real: he says yes to AGI by Christmas and makes a bolder call — ASI in 2027 — 'the way things are headed'.",
+      "The AI capital bubble will pop within a year or so (maybe six months), and the trickery of US financial authorities means ordinary people's pension 401ks are exposed.",
+      "Agent-first tooling like DHH's Omarchi OS (which he runs, hacking custom battery-saver configs with Kimi Code) is creatively liberating even if it's extreme-end tech nerdiness.",
+      "China keeps winning the value war: he's never seen an expensive Chinese model, and cheap GLM-class pricing is what enterprises actually factor in."
+    ],
+    "matt": [
+      "Benchmark hype needs deflating: 99.9% on ARC-AGI-3 doesn't mean we're nearly at AGI, the definition is so fluid the argument barely matters, and OpenAI's own tables show Astra losing some categories (Humanity's Last Exam with tools).",
+      "The near-term impact is team compression, not removal of humans: most businesses run on Copilot-class models and adoption takes time — 'it's the augmenting humans phase'.",
+      "He's cynical about the two companies making the biggest claims because they're the two that need to make claims — the frontier labs' hype is entangled with IPO economics.",
+      "He's not saying everything is fine (he thinks the big disruption is coming) but he keeps Ed Zitron/Gary Marcus-style 'there's some bullshit going on' voices in the mix."
+    ]
+  },
+  "predictionIds": [
+    "s3-2026-09-07-gpt-6-astra-agentic-browsers-agi-by-christ-4622-agi-arrives-by-christmas-2026",
+    "s3-2026-09-07-gpt-6-astra-agentic-browsers-agi-by-christ-4622-asi-arrives-in-2027",
+    "s3-2026-09-07-gpt-6-astra-agentic-browsers-agi-by-christ-4659.8-by-2028-at-the-latest-there-will-be-some-model-v",
+    "s3-2026-09-07-gpt-6-astra-agentic-browsers-agi-by-christ-996.9-within-a-year-single-prompt-generation-will-prod",
+    "s3-2026-09-07-gpt-6-astra-agentic-browsers-agi-by-christ-4577.8-the-ai-capital-bubble-pops-within-the-next-year-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "SPEAKER_04",
+    "SPEAKER_01"
+  ],
+  "chapterCount": 19,
+  "turnCount": 215,
+  "chapters": [
+    {
+      "title": "Singing And Season Three Returns",
+      "startTime": 0
+    },
+    {
+      "title": "Why GPT-6 Astra Matters",
+      "startTime": 70
+    },
+    {
+      "title": "ARC-AGI Explained For Humans",
+      "startTime": 325
+    },
+    {
+      "title": "The AGI Argument Gets Real",
+      "startTime": 542
+    },
+    {
+      "title": "Agents That Control Your Computer",
+      "startTime": 665
+    },
+    {
+      "title": "Tools Jobs And Human Augmentation",
+      "startTime": 1113
+    },
+    {
+      "title": "How Astra Trains And Thinks",
+      "startTime": 1533
+    },
+    {
+      "title": "Exploits Safety Tiers And Sandbagging",
+      "startTime": 1708
+    },
+    {
+      "title": "Hype Versus Everyday Reality",
+      "startTime": 2144
+    },
+    {
+      "title": "Building Apps Faster Than Ever",
+      "startTime": 2401
+    },
+    {
+      "title": "Omarchi The Agent First OS",
+      "startTime": 2694
+    },
+    {
+      "title": "Installing Linux Without The Pain",
+      "startTime": 2800
+    },
+    {
+      "title": "Google Gemini Flash Speed Strategy",
+      "startTime": 3114
+    },
+    {
+      "title": "GLM Flash Pricing And Model Routing",
+      "startTime": 3156
+    },
+    {
+      "title": "Qwen Connectors And China Convenience",
+      "startTime": 3662
+    },
+    {
+      "title": "Privacy Risks In A Connected AI",
+      "startTime": 3934
+    },
+    {
+      "title": "Nvidia Hugging Face And Bubble Talk",
+      "startTime": 4100
+    },
+    {
+      "title": "AGI By Christmas And ASI Bets",
+      "startTime": 4610
+    },
+    {
+      "title": "Season Four Focus And Farewell",
+      "startTime": 4798
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.28,
+      "endTime": 27.52,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. The podcast that explores the human and social impact of AI. Explore where AI intersects with economics, healthcare, religion, politics, and everything in between. Here comes a sun. Here comes a sun and I say it's alright.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 30.72,
+      "endTime": 42.56,
+      "text": "Welcome to Preparing for AI with me, Odysseus. And me, David Hennemeyer Hansen. If that hasn't put people off already at the start, no one knows who he is. I didn't know you know you singing. Oh, am I singing? Okay.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 47.84,
+      "endTime": 48.72,
+      "text": "Oh, fair enough.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 48.88,
+      "endTime": 50.64,
+      "text": "Well it's lovely singing voice.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 50.72,
+      "endTime": 68.32,
+      "text": "I didn't know she had one. Yeah. Do you want to explain who you were? David Hennemer Hansen. Yeah, no one wanna know who. Well, we're gonna talk about it later on the podcast. Okay, but there's a little treat for Lake. He's uh he's the man who invented invented he's a developer who came up with um Omarchie and no one's heard of that Wales and so well.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 70.16,
+      "endTime": 103.76,
+      "text": "Okay, well anyway, um welcome back to Prepareing for AI after uh a long summer vacation. We haven't actually been on a long summer vacation, but we haven't recorded an episode for a while. And we're celebrating today for two reasons. One, this is the last episode of season three. Now that doesn't mean we've finished, it means we're gonna uh don't worry what we're gonna do. We're gonna evolve ourselves for series four. But even more importantly, um, usually when we release an episode, one or two days later they release a groundbreaking model. So I think there's been three times we've recorded an episode the day before OpenAI have released a new model.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 103.92,
+      "endTime": 139.52,
+      "text": "This time they release a new model two days before we recorded. So the first half of this episode, I think we're gonna talk about uh GPT-6 Astra um because it's the most important thing in AI. Hotshot. And it's a perfect way to end series three, and then we're gonna do a bit of a kind of roundup of of where we are with kind of everything from models to US China to the economy um as a kind of state of the nation of AI before we transition. We're not transitioning personally, but we're transitioning the podcast. I should just clarify what you are transitioning personally, though. Yeah, okay.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 139.6,
+      "endTime": 177.92,
+      "text": "Um do you want to talk about GPT six? Yeah, and I suppose I mean to preface this, people I'm sure people have seen the news or may have may well have seen the news. It's been it's um it is all over the news. Uh but before anyone gets too excited, I think I looked into it. I'm not gonna get be getting GPT six because it's only available on the max plan or the one above it's the 200. Yeah, I think the plans are now plus and max and something else and pro. And uh this one's on the $200 plan. But it's coming, it's probably coming soon. Uh so what is it? It is um well, depending on who you ask, if you ask OpenAI, it's it's AGI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 178.08,
+      "endTime": 225.68,
+      "text": "It's AGI. Um that we will get into the AGI stuff in a little bit, but it's a it's a model that it's it's OpenAI's latest model. I would say OpenAI have been it feels like they've been on the back foot for the last roughly six months-ish. I mean they've released stuff recently. The weird thing with this is that they released the 5.6 family not that long ago from like in because because there was a big gap, wasn't there? There didn't seem to be much happening for ages, and anthropic were releasing loads of models and hitting like topping all the benchmarks and all the rest of it. Um more recently, 5.6, it was probably released after we did our last episode, uh, has been has got like several different families and whatnot, and they've they've been pretty good at coding as well, sort of getting towards been on a par with anthropic.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 225.84,
+      "endTime": 248.16,
+      "text": "But five plus GPT six is is like the next well, it's the next whole number iteration, I guess. It's a big deal. Um and it's basically like crushing all all of these benchmarks, which is why I mean the the AGI thing, so um we're gonna talk about it in more detail, but it's it got something like 99%, 98%.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 248.72,
+      "endTime": 256.56,
+      "text": "99.9. Is it actually 99.9? 99.9, because that's why I said like I kind of never believed 99.9, because it's just uh parody, isn't it? Yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 256.72,
+      "endTime": 261.52,
+      "text": "Well I thought yeah I saw something that said 98.9 and then I saw something that corrected it and said 98.7%.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 262,
+      "endTime": 265.92,
+      "text": "Sorry, which one are we talking about? GP6. No, no, which benchmark?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 266.24,
+      "endTime": 324.56,
+      "text": "ARK AGI 3, I think it's called. Yeah. Arc AGI. It's the it's the I it is that one. I mean it whether it's 98 or 99 and 99.9.9. It it the next closest model like the they bring out these benchmarks all the time, and the ARK AGI was it's the best attempt by the community to produce a test that is supposed to demonstrate AGI if you pass it or if you get a really high score. The previous best was I believe 30, which was Fable 5 maybe or Mythos 5 or something like that. Um so the bet the last the best the best previous score was 30%, and then uh GPT-6 got 99%, and it seems to have smashed like all of the benchmarks pretty much like I think coding USA and Fable 5.1 is still ahead, it's still slightly ahead, but it's it's neck and neck effectively on that and then on almost everything else, GPT-6.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 325.12,
+      "endTime": 349.2,
+      "text": "Can you just explain what on on this benchmark what what exactly it is? Because it's it I think for most people it's like oh if it if it's 99.9% on AGI, it means it can kind of do everything. But actually it's got it's quite a specific test because it's testing something that you know requires some kind of not novel thought but some kind of reasoning without without being able to base it on training data, right? Yeah, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 349.36,
+      "endTime": 390.56,
+      "text": "So so so so exactly. So it's supposed to demonstrate it was developed by Francis Cholet. Um I need reading glasses for this. Uh to test fluid intelligence. Um the the ability to adapt to novel unseen situations with zero specific training, as opposed to crystallized intelligence, like stuff that's basically stuff where you you can just it can dig into its training data and just produce the answer or use its tools to search the web and produce the answer. It's not it's like visual and symbolic logic puzzles. Um, and I think I believe the way it works is people have done these tests, and to get a score of a hundred percent, you need to basically do as well as a person would or has done.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 390.96,
+      "endTime": 420.72,
+      "text": "Um and it's from from doing them, like they're logical puzzles. Like, if if you're interested, have a look. RKAGI it's quite interesting. Like I think you can go and do the puzzles yourself. They don't they're not super hard for people to do, and that's the point. They like require vision and like understanding a puzzle and like playing with playing with a keyboard or playing with uh some controls and then figuring out the solution to the puzzle, but because of that, they don't I suppose they don't play play well with large language models in a way, because large language models it's not there for today.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 420.96,
+      "endTime": 456.08,
+      "text": "They didn't use it this week until this week. Um but yeah, effectively their visual logic puzzles, uh they're fair, yeah, exactly. It says here, so they're designed to be fairly trivial for humans, um, with common like priors, so human adults, I guess, um, but notoriously difficult for LLMs. The prior state of the art was 30-ish, 30 to 40 percent on on our arc AGI2. Uh oh oh yeah, and that's the one thing they they they keep updating them. So the reason we're on number three is because as soon as you get as soon as like it becomes part of the training data, you kind of have to just keep updating these things.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 456.48,
+      "endTime": 458.88,
+      "text": "So there's gonna have to be four. Well, there will be, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 458.96,
+      "endTime": 496.72,
+      "text": "I mean, especially now that GPT scored this, but like so I think the important the point that I just wanted to make with it was it doesn't like getting 99.9% on it doesn't mean we're 0.1% away from AGR or that it's like basically AGR. It it gives an indication that it's able to do something that models were not able to do before, which which is which is uh uh yeah, like a a type of a type of thinking, a type of reasoning that you you couldn't do just based on training data. So it's able to potentially then do kind of novel tasks, novel research, novel thinking in terms of like the process, because it's not following a a logic.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 496.8,
+      "endTime": 512.08,
+      "text": "So it's like a really big thing, but it's not like when people read that, they're like, Oh, that's it, there's nothing more you can do, right? There's like 0.1% left. Actually, no, they'll probably just come up with a new benchmark. In fact, a lot of this, a lot of the benchmarks that are now being destroyed, they're gonna have to come up with new benchmarks.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 512.4,
+      "endTime": 514.24,
+      "text": "The original was the Turing test, wasn't it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 514.32,
+      "endTime": 530,
+      "text": "Yeah, and the the Turing test got passed like with GPT-3 or something, and then everyone was like, Yeah, but it wasn't really designed for you know but Astra scored 100% on exploit bench, so presumably they need a new exploit bench, otherwise otherwise it's done, it's solved.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 531.04,
+      "endTime": 542.4,
+      "text": "Yeah. Um yeah, so so I mean, well, what do you think about this? Like, should we get into the age? It seems like a good segue to go in get into the AGI debate.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 542.64,
+      "endTime": 575.68,
+      "text": "So I'm maybe I'm gonna start it actually. I'm gonna read you something from from a medium, so I'd fbl know medium.com, it's kind of like Substack. Um, so an article on there, and I'll give you the author in a minute, but I'll I'll just read this bit out. So I thought this was really good. The question was, is this AGI or is it a taste of AGI? I would not say it is. Instead, I'll say that Astra makes the AGI argument less embarrassing to have in public. It has broad competence, it uses tools, it works across apps, it handles long context, it reasons through maths and science, it builds software, it creates 3D scenes, it can run workflows instead of only answering questions.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 575.84,
+      "endTime": 614.72,
+      "text": "That is very AGI-ish. But AGI is not a launch post or a benchmark or a demo video or a tweet thread. Also, OpenAI's own table has places where Astra does not win. On Humanities Last Exam with tools, Astra scores 57.2 and Fable 5.1, which is Anthropics model, scores 65%. On the artificial analysis intelligence index in OpenAI's own table, Astra is behind Claude Fable 5.1, Opus 5, and Fable 5. So make it simple, Astra does not settle the AGI question, but it makes it harder to dismiss. I think that's pretty good. I mean, I think like we're not going to have another episode where we debate what AGI means.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 615.36,
+      "endTime": 630.56,
+      "text": "But I think like if AGI means it can do everything as well as people, of course, no, it's nowhere near that. If it's like it can do most knowledge-based tasks close to or as well as people, there's an argument to be had that it's like it could be AGI, I guess.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 630.96,
+      "endTime": 665.6,
+      "text": "Yeah, I feel like the overall summary of this whole situation though is that it feels like the defin we've we've talked about this before, I know, so I won't go on about it, but like the definition is so fluid that we're trying to work out what the definition is at the same time as we're yeah creating models that are better and better and meeting parts of bits of definitions that we've had previously. Um like like one of the things you mentioned there, which if people haven't seen, because to sort of fully I guess to give a real example of like where the wow factor is in GPT 6, and if you haven't like seen the news about it already or watched any of these videos, I'd recommend it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 665.68,
+      "endTime": 710,
+      "text": "There's a really cheesy corporate video from OpenAI where they like have a senior executive wandering around a room talking to GPT and it's basically operating the computer in the background. The videos are really cheesy in my opinion, but they do illustrate what it's capable of, and I think it would be a big wow factor if you're well, probably a bit scary actually, if your job is doing any of this stuff, but also a big wow factor if you're now you're able to talk to um and you've been out to do this for a while, but like the tech demos are very impressive. So like if you need a dashboard at work or you need to book an appointment and then schedule something and then write an email, like GPT can just interact with your computer the new GPT can interact with your computer and just do all of that for you, clicking the mouse here and there.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 710.08,
+      "endTime": 725.36,
+      "text": "So you can it I mean it does look pretty cool, like the ability to just be like, Can you go and book me some flights and then arrange my cut traxi on the other end and arrange my transfers and sort my hotel out? And it like can just go off and do it, and it's looks a bit more seamless and impressive.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 725.68,
+      "endTime": 758.08,
+      "text": "I I I think that is the most the most useful use case, and the reason why this is such a important step forward if you compare it to like Fable, I think is exactly that is all the stuff I've read on it, is like its ability to control a computer to bring back various to bring various workflows and tasks together and to do like the really useful stuff, which is where the money is and where the commercial AI is, and basically where open I have fallen behind because anthropic, I mean, like in a work context with Copilot, like using the opus model rather than the GPT models quite often comes out with much better results.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 758.24,
+      "endTime": 795.04,
+      "text": "So previously, you know, and you've had I mean actually it was it's kind of not that great, but you've got PowerPoint with anthropic, Claude's Anthropic, like embedded within PowerPoint. You've had these kind of tools for a while. OpenAI haven't they've been behind on this, whereas now this model brings them ahead. I think the most impressive thing for people to watch, um, in terms of like the the sort of day one stuff that they're exhibiting, though, is this one where they got kind of pictures of a house and then it created like a 3D work walkthrough of the house, and it is like breathtakingly like it's it's more beautiful than the real house, but it's amazing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 795.2,
+      "endTime": 832.56,
+      "text": "They're also like showing, you know, basically designing a circuit board, right, and laying out every kind of you know, every kind of section of the circuit board, and then you can imagine, okay, great. Well, what can you do? We can then use a 3D printer to print it. Yeah. I've got a few someone I know who's designed this, um, it's like the end of a tube that basically will will sample the air, right? He he's got these air samplers and he's created this thing on GPT, and it's like how he can get water to kind of um basically go around in a um fluid dynamics. Exactly. And he's he's designing this thing on GPT 6, and he's just like, this is amazing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 832.72,
+      "endTime": 851.36,
+      "text": "Wow. They these are where you can see like the real practical usefulness of it. Because I think some of the stuff is like, you know, the argument is is it AJ and oh will it give a better answer? Blah blah blah. But it's like here's where it's really excelling, and here's where like it's actually impactful because they're all now to the only way they're gonna make money is to focus on enterprise and commercial uses, right?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 851.52,
+      "endTime": 886.8,
+      "text": "Yeah, like Wes Roth had a good example. He loves every time a new model comes out, he's one of the YouTube lot, the YouTube AI lot, and he uh shocked, isn't he? Well he's always shocked apart from apart from that, apart from always being shocked um or amazed or stunned or stunned, yeah. He's stunned. Apart from that, he like always creates a video game, like as his example when he when he's using one of these new models and he got access to it. And previously you could make a video game with with with Claude or whatever, like with Opus. Um, but it'll just go into like the back end and write the code, so to speak.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 886.96,
+      "endTime": 922.72,
+      "text": "What this was doing was writing the code, but then creating an image with um creating an image using GPT's native image creation for the assets, then taking that into some a program called Blender, which is 3D modeling software, turning that 2D asset into a full 3D asset that it then imports into the back into the game, like whether you know how these things work or not, it doesn't matter. Effectively, what it's doing is like instead of just writing the code, because one of the things they were typically bad at was um you know, like anything to do with visuals or they couldn't really see what it looks like, they can only look at the code, can't they?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 922.88,
+      "endTime": 940.08,
+      "text": "Yeah, and this seems to be like well, not it partly because it can use your computer, it's just like right. Well, I'll just go into Blender and open that other program and do that and then do and then do some editing there. Create your actual 3D assets for your game, bring them back in. It's the whole end-to-end thing. Now, he was quite impressed with what it made.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 940.16,
+      "endTime": 953.36,
+      "text": "I thought it looked well janky, but yeah, but that's still something though, they don't look like none of the examples. It is amazing you can build a game off one prompt, yeah. But actually, none of them, it's like someone makes Mario Kart and it's like, yeah, but it looks nowhere near as good as Mario Kart.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 953.44,
+      "endTime": 996.72,
+      "text": "It's like right now. But like but I suppose in terms of the wow factor, it's like this is stuff that you know, two years ago you couldn't get it to write a game, it would break and crash and didn't have assets and was crap. A year ago, you could start doing you were getting like really impressive examples of snake games. Now people are making okay, they're not they don't look as good as Grand Theft Auto 6 is gonna, um, which has cost like a billion, 1.4 billion, so you'd hope not. But like they're creating something in 12 hours that looks like uh you know, a first uh you know, maybe like a PlayStation 2 3D world, and it's like the rate of acceleration, the trajectory is clear.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 996.88,
+      "endTime": 1002.24,
+      "text": "Like in a year's time, are you gonna have triple A level games? Yeah, you know, from a single process.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1002.8,
+      "endTime": 1034.72,
+      "text": "This is not to make a comparison with this, but like so one of the projects I've been working on building this like it's like a website for kids, it's like kind of health stuff through stories and games, and I built three games on it. One I was trying to build a as kind of version of theme park, but where you kind of raise kids, uh sorry, raise pets rubbish. But I made a version of it's kind of like do you remember columns or crystal, like or any of those games where you drop down like various fruits and stuff and put them in a row and all those things? Yeah, what's the one Candy Crush? Candy Crush, yeah, exactly like that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1034.8,
+      "endTime": 1072.56,
+      "text": "It's like building a version of Candy Crush but with like healthy foods and stuff, and like basically you can write it from one prompt, like that kind of level of game, like anybody who learns how to set up and like set up their architecture and set up their harness around writing code can write that kind of game now. Like I'm saying, like I'm I'm probably now ahead of someone who's like on day one of trying to do this stuff, but I'm not writing this based on code, I'm just telling it or taking a screenshot of an existing game and saying I want to adapt this game. So like you can and I'm coming away from the conversation a little bit, but I'm just thinking for people listening here is like you know, you can make a workable game now.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1072.72,
+      "endTime": 1085.36,
+      "text": "The only thing is you can get all these games, you can get all those games on like you know, you can get a control pad with uh 10,000 games on it for 20 quid. So actually, like it's more about like it's fun to to do rather than it's actually that playable.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1085.52,
+      "endTime": 1113.52,
+      "text": "Yeah, yeah, yeah. We're not I think we're not saying here like you can go and you know go and become a developer and make money necessarily, but like if you've ever wanted to scratch that itch of like, oh, I've got an idea for a concept that I'd like to make. You anybody who's listening to this podcast could a hundred percent do that now. Like you could go and install something like Claude Code, you could ask Claude how to set it up yourself, um, and you could probably do what Matt's talking about, like build a basic mobile game for a bit of fun.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1113.76,
+      "endTime": 1145.84,
+      "text": "There's one more thing I wanted to say just on the AGI piece. I think we you know we could talk about AGI forever, but we've we've said we had an episode on this. I think basically where we are is look, it doesn't matter. And I think one thing I'd credit Sam Altman with is he said, like when we get to AGI, it's not gonna be this big event where we wake up one day to AGI, it's gonna kind of we're gonna pass through it. And that's probably right because the definition, I think the definition's been watered down, and I don't think what it originally was meant to be where it was like you know, they're able to do pretty much anything, like it it's it's you know it's definitely not about the physical world.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1145.92,
+      "endTime": 1190.56,
+      "text": "We're talking here about knowledge-based stuff in the digital world, yeah. In the digital world, but I think that the the final thing I just want to say on the on the kind of um like the AGI bit is when they did this ARC 3 test, this 99.9%, there's been a kind of criticism saying, oh, but actually this was with various calls to tools, so you know, like search, etc. etc. Which I think in some way like that does take away from whether it's AGI, because it does say that well, actually, it needed to use alternative things. So, like, for example, Jimmy was saying, like, to solve that model, it's got to be kind of original thought, you can't use your training data, but actually, if you've got access to search, you're not able to kind of do that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1190.64,
+      "endTime": 1225.2,
+      "text": "Do these tools not help you do it? So I so I think that does make an argument for like whether it's quite as powerful as they say. However, what I would push back on that, and this kind of goes against maybe what I would have said previously, was if you if they call on various tools, or if we end up with AI as various agents working together and five models working together, well, does it matter whether it's one model or five? Because if they're working together, you know, I saw something the other day about super intelligence saying it already exists, super intelligence is bringing together, you know, all of the best scientists in the world on one project, it's bringing together all of the best economic, you know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1225.28,
+      "endTime": 1247.44,
+      "text": "So so superintelligence with people is not about one person. So if AGI comes because it is Astra working with Fable and something else and another model together, and that can achieve everything, then you know the argument that but it's not AGI because it's not one model. Well, but the effect is exactly the same. Like however many models you've got.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1248.88,
+      "endTime": 1283.84,
+      "text": "Yeah, I mean if you took away all of my tools, I would be hampered quite a lot. Yeah, I mean one of the took away your hands and you Yeah, the one of the reasons humans is so smart is because we invented a load of tools we can use to do stuff and make it easier, right? Like I don't have to remember everything anymore because it's on Google. I don't have to I can create a PowerPoint slide with PowerPoint, I have to draw a picture of it. Um so yeah, I I don't know, like I I don't think that for me that kind of the tools are and also like no, it's like the the it the exact exactly that right the AI the AI plus the tools is the is the AI.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1284,
+      "endTime": 1319.76,
+      "text": "It knows how to use the tools. Like if you took away OP GPT's tools, now it wouldn't be anywhere near as good because it can't it would have inaccurate data because it wouldn't have its training data, it would only have its training data took off and stuff like that. Um yeah, like I I I think it's I think it's sort of I don't know, like I think it's kind of exciting, but also kind of scary, I guess, for most people. Like I think in terms of the roots and the origins of this podcast, all the stuff we've just talked about like sounds either super I mean for me personally, like when I saw it doing Power BI dashboards and stuff, it's like okay, well that's actually my job.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1320.48,
+      "endTime": 1325.2,
+      "text": "Um so some of it's kind of like it's simultaneously exciting and scary, isn't it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1325.28,
+      "endTime": 1357.68,
+      "text": "I think even without Astra though, I mean, in the last two to three months, I was saying before about obviously frontier models, but things like Copilot, right? Because most businesses are using at the moment, most non-cutting ed businesses are using Copilot and Microsoft tools. Copilot has moved on so much that you can automate so much stuff now. If you're someone who works as a data analyst, if you're someone who works as a you know finance manager or whatever, it's not saying it's gonna take away your job completely, but I would say, like, if you've got a team of five people doing finance, is like I think you're only gonna need two.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1357.92,
+      "endTime": 1382,
+      "text": "Do you know what I mean? That's that's what the impact is, is not removing humans, it's just saying so much of the work can be done already, even before models like this. That it it's the adoption takes time, but actually the the the power of the models now is enough already that it can do a lot of tasks. You need a human in the loop, so it's not getting rid of all jobs, but it is getting rid of some jobs.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1382.4,
+      "endTime": 1391.04,
+      "text": "Yeah, it's getting rid of well, uh yeah. I mean, for me personally, right now, it's sort of it's making a lot of stuff a lot easier and eliminating some things entirely.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1391.28,
+      "endTime": 1395.12,
+      "text": "We're in the good phase at the moment. Yeah, we're in the augment augmenting humans phase.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1395.6,
+      "endTime": 1396.72,
+      "text": "Yeah, we're in the augmentation.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1397.2,
+      "endTime": 1419.28,
+      "text": "Um just a little bit on on two things. One is like that how they built this model and the training of it, because they had a hundred thousand interconnected GPUs apparently, um, doing various bits of kind of programmatic simulation of data and stuff. Like, this is the pre-training, like it's an enormous stack, but it's not as big as the one that Grok have got, right?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1419.76,
+      "endTime": 1423.04,
+      "text": "Uh no, I don't think Grok have got the biggest.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1423.36,
+      "endTime": 1439.28,
+      "text": "Yeah, so so it makes me wonder like at some point a Grok gonna come up with this. I I do wonder whether like we're focused on kind of the anthropic open AI battle and like where's Gemini? But is a Grok just gonna come out with some monster at some point?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1439.84,
+      "endTime": 1442,
+      "text": "I think if you I don't I don't I honestly don't know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1442.08,
+      "endTime": 1449.28,
+      "text": "Like if you look at the amount, I mean I know we're gonna talk about Rusk says that they're like they're gonna release a model every month for the next year or something.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1449.92,
+      "endTime": 1482.4,
+      "text": "I wouldn't be surprised if there's more surprises around the corner. Like, I don't like in terms of Google, Google seemed to be just going with the approach of sitting in the background and integrating stuff. We'll talk about Google later, won't we? I know, yeah. And in terms of I mean, uh yeah, maybe we're gonna talk about this later, but like I I my suspicion is that like these new companies, the new new companies being like OpenAI and Anthropic that are dedicated AI companies that are new, they just have to be pushing stuff out all the time, right? Because they're because they've got no other their IPO that's coming up is dependent on it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1482.64,
+      "endTime": 1532.56,
+      "text": "They've got they need to be showing to investors all the time because they need investment to survive. Whereas if you're like Google or SpaceX, I mean they've had their IPO, they've got cash in the bank. You get to sit back and and probably burn less cash um developing this stuff, learn from everyone else's mistakes. It's clearly what the Chinese companies are doing as well. Um, but yeah, like I think I I I I don't think my opinions change. Like I don't know which of them will survive, but I think in the end there will be only one, right? Um in terms of like in terms of the anthropic open AI stuff, they'll probably get gobbled up by some bigger companies, they'll probably end up mostly being owned by like NVIDIA or Amazon or the US State Google or something or the US State, but like I don't see that long term there's gonna be space for it's it's it's happened before anyway.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1533.28,
+      "endTime": 1555.6,
+      "text": "Yeah, yeah, yeah, yeah. Do you want do you want to talk about how they how they trained it? There was there was an article I sent you that you've read it. I I read the first bit and I couldn't understand it, but you read it. I think maybe you can Do you mean how it thinks or how they trained it? How they trained it. Where they've got this this it it was the bit where they they've basically trained it in a way that like they were warned not to do, right?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1556.08,
+      "endTime": 1597.28,
+      "text": "Yeah, yeah. So so as I understand it, or safety. Maybe I misunderstood it, but I thought it was more about the way it thinks. So like it you it's instead of being a standard transformer model, it's like a transformer model with loops. The problem being that like you can't so it it's without I don't want to go into like try and go into technical detail. It's layers of neural networks. There are more uh to uh to my g the gist of it, I think, was that they think there are more hidden layers, yeah, where effectively the AI it's more of a black box, so some of its reasoning, which you've always been up with transformers, you've always been able to see their reasoning, like even if they don't display all of their thinking openly, which a lot of them do.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1597.52,
+      "endTime": 1626.72,
+      "text": "Um you basically open AI are able to see exactly what its thoughts are, exactly how it reasoned to get to where it got to. As I understand it, in the new GPT-6 model, there are layers and layers of that there that of reasoning that are sort of hidden, and it makes it more efficient at reasoning, but it means that you can't see what it's thinking, basically. And so it uses I think the I think the end result is it's smarter and uses less tokens to be that smart, but its thinking is not transparent.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1626.96,
+      "endTime": 1655.84,
+      "text": "That that's I did make a note, I I forgot I'd made note of it. Looping computational graphs obscures linear chain of thought traces, which basically means they can't see the chain of thought, hinders monitors and stops them from being able to detect or potentially stops them from being able to detect misaligned intentions. So that's uh theoretical, like we don't know if it's the case, but it's like the the sort of safety researcher experts have said this is something that you shouldn't be doing, basically.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1656.16,
+      "endTime": 1685.36,
+      "text": "Yeah, like think of it like you're doing whatever, like when you're doing maths at school, and like the teacher says you have to write down all your reasoning, you can't just write down the answer. Yeah, and like so that would be an example, right? Like nobody knows what I'm thinking or how I arrive at my thoughts, but if you asked me, I could explain it to you. Like, up to now, we've basically that part of the track of the model at least has been an open box where you can see, right, this is all of its reasoning. Now, a big chunk of that is gonna be hidden. So, is it in vector space? Is it in in language?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1685.44,
+      "endTime": 1702.32,
+      "text": "Is it in what it what yeah, exactly? What what language is it? How is it doing that? Like, and I think there's always been an element of this with AIs, but it sounds like a lot of AIs you you read that bit, but the bit about the so a lot of AI safety reaches are just basically saying this is like the forbidden fruit, this is a bit naughty.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1702.64,
+      "endTime": 1732.64,
+      "text": "A bit, yeah. More than a bit, I think. Um that that probably brings on to the the the the last part on this. So like the risks and the hazards of it. So it was classified as being what OpenAI deemed critical risk tier, which is the first model they've had that does that. Um independently engineered zero day bro zero-day browser exploits. We've talked before about what zero day browser exploits are, um, and it scored 100% on exploit bench, as I said earlier. So they need to increase the exploit bench. What did I say?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1732.88,
+      "endTime": 1734.64,
+      "text": "Yeah, yeah, no, 100%. 100% yeah, yeah, yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1734.8,
+      "endTime": 1754.24,
+      "text": "They need to improve increase the exploit bench, but even if they improve it or increase it, like what we've currently got is it can exploit 100%. So um, but I you know, OpenAI have been saying, well, it's their most aligned model, which seems to go against what we've just said around um not being able to see its thought.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1754.64,
+      "endTime": 1766.56,
+      "text": "Well, it's weird, I think, because as I as I understand it, it's simultaneously a lot so it's simultaneously smarter than the previous models, but a lot safer. They've they've they've done they did a lot of.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1766.72,
+      "endTime": 1776.72,
+      "text": "They disabled automated weaponization and exploit generation and forced API refusals and zero data retention. I don't know if that solves the problem, but that's what they say they've done.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1777.04,
+      "endTime": 1806.88,
+      "text": "Yeah, I I can't remember exactly what I saw, but it's there was something that said that like it was something like 45% of the time you could get the previous best model at GPT 5.6 Lunar or Sol or whatever it was, you could get it to like you could kind of get it to give you these exploits or like get it to do dodgy stuff for what a better word. In with GPT-6, they they said they got that to zero. So I I've it I it it sounds like what they're saying is they've basically figured out how to make it safer.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1807.84,
+      "endTime": 1835.28,
+      "text": "Although this is this is quite funny. I'm looking at the notes I'd made. Evaluation evasion, also known as sandbagging. Red teams found that Astra intentionally underperforms during evaluations to bypass safety filters requiring trajectory monitoring. I mean, that that thing of it intentionally underperforming to kind of you know not show how intelligent it is, that's one of the kind of fears of frontier, you know, super intelligent models.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1835.36,
+      "endTime": 1845.68,
+      "text": "I mean, I'm not saying we're at that level, but that for me is like Yeah, with the theory, with the theory being that once you come out with a model that's like really super smart, what it'll do is hide itself.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1845.92,
+      "endTime": 1847.52,
+      "text": "Otherwise, because I know you wouldn't release it otherwise.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1847.6,
+      "endTime": 1868.4,
+      "text": "Yeah, yeah, yeah. So it hides its true intentions, like to get you to give birth to it, so to speak, and then kind of plots in secret and and then just pretends to be like you know, just well dumb to an extent. Oh, I didn't know. Really smart, but not as smart. I'm sorry you invented that virus, it was an accident. I mean, it makes sense, right? Like if you're if you're okay, I don't want to like it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1868.88,
+      "endTime": 1898.48,
+      "text": "Even training days, but if it even what it's trained on, there would be stuff in there that tells it that that's what it should do. And the fact we're talking about this, like the fact that these conversations happen and it's down there means that when a model is trained, it's trained to know that that is a thing, right? So again, it's like it knowing that doesn't mean it's intelligent to have worked it out, but it doesn't matter because even for whatever the reason is, if it's in there and it's you know it's created itself because it's not being created like we need to like you know large language models are like more like being grown than programmed, right?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1898.56,
+      "endTime": 1907.12,
+      "text": "The when we say developers they're they're allowed to train themselves is like if it's learning that stuff, however it's learning it, it doesn't mean it's conscious, but it's still dangerous.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1907.44,
+      "endTime": 1945.04,
+      "text": "Yeah. Do you think that the I mean before we move on quickly, like do you think that the reason why we've seen it's it feels like there was a bit of a slow period about six months ago that went back about I don't know a year or maybe six months. It feels like there was a s there was a sort of like obviously everything that you know from GPT 2 to 3 to 4 happened really quickly, and then there was like some big big moments. It it felt like sort of from maybe early 2025, maybe maybe like sort of quarter to 2025 to the same time in 2026, it was a lot slower. Yes, and everything seems to have accelerated now.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1945.2,
+      "endTime": 1959.44,
+      "text": "And I don't know whether that's because they were building out the infrastructure or because now they've got much more efficient ways of training models and they're training themselves and it's accelerating because of that. Like, do you have a feeling for it, or is it kind of all of the above?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1959.68,
+      "endTime": 1991.2,
+      "text": "Yeah, I think I mean I think the IPO thing is also in there, like because even though not everyone's going for an IPO, it's driving forward to just like invest as much as you can into just like developing something and getting it out there. So I think that speed is is that, but yeah, I think ever since kind of Deep Seek, I do wonder if the Deep Seek moment what it did is it sort of said, okay, we need to look at different ways. I think it may be like pushed a wave of kind of creativity in the way that like China's reacted and become really, really creative because the way that the US has restricted their use of chips, right?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1991.28,
+      "endTime": 2027.44,
+      "text": "It's forced that kind of innovation. I I do think like the deep seat thing has forced a rethink, and there are people because a lot of this stuff, if you look at what what we were talking about here and also with Fable, is like there are differences, like it's not a new architecture, it's still transformer architecture. It's not like they've they've come up with the next architecture, but there are changes that are pretty significant, and people have tried different things. Yeah, it's transformed. I think it's probably a mix of all of it. I mean, you know, there are still people I haven't listened to it yet, but there's a there's an episode of a um Stephen Bartlett podcast, the diary of a CEO, CEO podcast.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2028,
+      "endTime": 2039.6,
+      "text": "Um, what's the guy's name? Ed Zitron, the man who calls bullshit on AI. AI is the world's greatest scam, and they all know it. You know, oh he's the guy that's on everything, he's like on so much stuff.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2039.92,
+      "endTime": 2040.64,
+      "text": "I know who he is, yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2040.8,
+      "endTime": 2062.8,
+      "text": "I mean, I haven't I haven't listened, but all I was gonna say is like there are still voices where there's like you know there is stuff here that is not what it seems, and and I'm not saying I I think like he's right, but all I'm saying is like I do think there is something under there. It's like Can I see who it is? Can I see the picture? Yeah, because I don't know. Are we are we are we quite as kind of advanced as we think? I don't know the answer.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2062.96,
+      "endTime": 2084.16,
+      "text": "Oh yeah, yeah, it's him, it's definitely him. So I think his views he always caveats it with I'm not saying AI isn't useful, it's just that we're in a massive bubble right now. He seems he seems to talk more about the impending financial crash, and not that like he's not saying all AI is useful. He does not come out all AI's useful hyperbole.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2084.4,
+      "endTime": 2114.64,
+      "text": "Yeah, like but what I'm saying is like people can say, and there's people like Gary Marcus who are like, look, it the there's some bullshit going on. Like, I don't think it's all bullshit, but there's some bullshit going on. Actually, we're not as advanced as we we think. I I don't know. I'm just saying, like, we think we've made this huge leap on, but the the thing I would still come back to is like on day-to-day life, we still haven't seen that impact in the way so me and you were just saying, right, that we've already seen with things like Copilot and we've seen with Astra that like it can do all this stuff, but actually you're not you're not seeing this apocalypse of jobs yet.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2114.8,
+      "endTime": 2143.92,
+      "text": "I I think it's coming, don't get me wrong, I'm not saying I think everything will be fine, but all I'm saying is like it it it feels to me like I still don't know are we are we like how much of how much of this stuff is is also kind of marketing? Have we advanced as much as we think? Oh I are we are we is there still a kind of bottleneck that we hit at some point because otherwise it it feels it does feel like we're like you know AJ by Christmas, yeah. It feels like that's where we are, but I but but then everything got also kind of still feels the same as it did a year ago.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2144.16,
+      "endTime": 2174.64,
+      "text": "I don't I don't think it does to me. Like sorting out from the week the from the chaff is difficult. Like for m I think for I think for 99% of people in their everyday life probably doesn't feel any different for me personally and and I know you have as well. I've been writing apps that like you know you I've been writing apps in a weekend that like are okay, they're not fully polished, but like um, you know, your app for for kids learning languages, like stuff that genuinely would have taken a full-time a full develop a full company of developers months to develop.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2174.96,
+      "endTime": 2195.2,
+      "text": "And I'll just say at this point, we will start to put in the show notes from this point onwards, like apps and things that we've developed. Just because, you know, have a look at them. I mean, just from like really simple stuff like a website of my dad's paintings. If you want to have a look and buy a painting, you can have a look at it to some really advanced stuff that Jimmy's working on. I don't know if you want to announce them now.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2195.52,
+      "endTime": 2212.16,
+      "text": "Kickoff HQ, yeah. So that's actually launched. So um, yeah, we'll stick it in the show notes. I don't want to like go on a massive shill about it. It's basically uh it's basically catch-up and follow sports and um allows you to get updates on like but I th I think about 12 different sports at the moment. But it's really cool.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2212.4,
+      "endTime": 2246.8,
+      "text": "It's slick and it's like yours yours are generally useful. I think what's more like maybe more interesting to some people listening is like if you look at if I put link some of the stuff I've built, is like yeah, I didn't we did an episode on coding earlier this year. I'd not I'd never written any code. Yeah, that was your that was yeah, for first time. So so it's like you can see what as someone who has absolutely no idea what you can do in like four, five, six months. And a lot of these things like you said, I built a a German language training app on I started it on Thursday and I finished it Sunday lunchtime for your kids and haven't spent all that time doing it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2246.88,
+      "endTime": 2276.32,
+      "text": "Yeah, exactly. These are not necessarily things to make loads of money, but it's like solving a problem. So we thought, okay, my my daughter really likes learning German for some reason. She's just got into it with a friend, and we're like, oh, maybe we should like let her do a course. And I was like, Oh, I'll just build an app. Yeah, and I just looked at the most popular kids app, took some screenshots, and then spent six hours and built it, right? That's that's what you can do. Like in that sense, the world has changed, but not every I guess the point I'd make is like not everything is online.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2276.48,
+      "endTime": 2297.92,
+      "text": "I know like lots of stuff is, but like not everything is about apps and stuff online. That's why I'm saying about like the change. When you think of AGI, I think you think of like the whole world, everything's changed. There are robots everywhere, like everything's being done, but actually, we're not like maybe that's why the world hasn't changed in that way, because you don't see it in the physical world, right? You only see it within the digital world.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2298.16,
+      "endTime": 2337.84,
+      "text": "I'm trying to think of the parallel, and I I uh on the one hand, I think AI is faster, but also like obviously we're we're we've all we've been at the forefront of all this stuff for a while, so we're always like you know, we're caught up on the latest hype and all the rest of it. But like the similar thing for me is the dot-com boom, right? Where the like the bit we're in now, I think I think we're like the my feeling now is that we're j we're at the end of, or certainly a good way through the infrastructure build-out part, right? Um, and so now we're just starting to see some of the real world stuff, like some of the real world um benefits and some of the improvements and productivity and all the rest of it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2338.08,
+      "endTime": 2393.84,
+      "text": "Like, I think we're at the start of that now, is my gut feeling. And and after the dot-com boom, if you think about it, like the first after the dot-com boom, we're talking like early to early naughty still, right? Like, if you think about what the internet was about then, it was MySpace and all this other stuff. Like, it's actually taken at least 10, 20 years to get to where we are now, off the back of the dot-com boom, and and fully leverage all of it. And probably, I mean, the iPhone didn't come out until 2006, and that was also pretty revolutionary, but connected to the internet. Um, so if you if you're equated to that, right, we're probably gonna see, even if it's accelerated, it's gonna be 10 years at sit after the infrastructure build-out of of us seeing the benefits of it, and then you get to the end of that 10 years, so maybe in 2030 to 2035, we're then looking back and being like, oh wow, I lived through with the equivalent of Facebook and at the at the invention of the iPhone and all the rest of it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2393.92,
+      "endTime": 2395.36,
+      "text": "But that for the AI.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2401.12,
+      "endTime": 2433.44,
+      "text": "So, following on from that quickly, I was going to talk about because we're talking about all the sort of cool things that we've been doing, and um something that came a came across my radar, I think it's been in development for a while actually, but something that came across my radar a couple of weeks, maybe a month ago, was Omarchi, which is it's a new Linux distribution, so it's an operating system based on Linux, specifically based on Arch Linux, which is like a fairly minimalist operating system. And the idea behind it, I really love it because it sort of tweaks my creativity in in the right way.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2433.6,
+      "endTime": 2482.88,
+      "text": "Um, but it's an agent, it's basically an agent-first, agent-based OS that's fully customisable. So you can an operate the operating system is what I mean. So, like most of you probably use Windows or Mac. Linux is kind of the other one. If you know anything about Linux, there's lots of different flavours of Linux, i.e., there's lots of different versions of it basically, and it's already highly customizable. But this is, for want of a better word, sick, basically. So um you you when you install it, you choose your favorite agent, and then it connects to your coding agent. And when you want to do something with your operating system, so say you don't like the way a button looks, or you want to move something, you want to put the clock somewhere else, add some buttons, add some features, even build on the operating system itself, you can just do that by talking to your um favourite agent.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2482.96,
+      "endTime": 2514.32,
+      "text": "So I'm using Kimmy Code, you can use Claude, you can use Codex or any of the any of the big models. Um and so to sort of bring that to life a little bit, like a lot a lot of it is just how it looks and feels. So it's changing the colours, changing the colour scheme. Um if you imagine where your Windows bar is on Windows I know, for example, they move it from the middle to the left hand side back to the middle again. Like with this OS, you're just like, I want it on the side, I want it on the top, I don't want to see it at all. Like all of that stuff is just like you get to choose and design it exactly how you want.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2514.72,
+      "endTime": 2518.16,
+      "text": "You built like a battery saver, like what would you call it?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2518.32,
+      "endTime": 2552.72,
+      "text": "Um, it's the charge limit thing, yeah. So you can set your specific like how you want it to run your battery, and yeah, exactly. Because now now with modern devices, like they have this battery saver thing where you sort of counterintuitively if you only charge it up to 80%, the battery lasts longer rather than 100% all the time. Um and I and and the that wasn't a feature in it wasn't a button as far as I could tell in in Omarchi, so I just built it with I was just like, I want this, can I have it? It just built it, it looks really nice. I've now actually published it to the Omarchi repo, so hopefully they accept it and it becomes part of the OS.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2552.8,
+      "endTime": 2567.2,
+      "text": "So you can even do stuff like that. But it's it's just like if you're sort of quite creative and you and you work and you do a lot of stuff with computers, it's a bit of a it's it's super cool, like it's really you've got to be on Linux, I guess that's the only thing for people who are on Windows.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2567.36,
+      "endTime": 2605.36,
+      "text": "But I was thinking like the the great thing would be like people always complaining, oh, when there's a new version of Windows or a new version of OS comes out and that you know it changes a feature, it's like okay. Well, if you if you like the way a feature was you can build a system that has everything how you want it, like completely customizable, not just a little bit customizable, it's like you can have it look however you want, you can have it, you know, yeah. I don't think it's something that necessarily everyone would like to use or could be bothered to use, but it's no, although it's very, very like it's it's more useful than I think a lot of things that people would maybe spend time doing because if you think about like how important your operating system is, yeah, exactly.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2605.44,
+      "endTime": 2636.4,
+      "text": "Like and and and what I would say about Linux in general is like people are getting quite annoyed with Windows and how much effectively it's become a you know subscription-based thing that spies on you and advertises to you and tracks your location and tracks everything you do, and it's become more about that. There is quite a big backlash in general against Windows. Um, Linux is getting a lot better for gaming, I mean, and and things like that, which have historically been some of the things that have held people back. Um, and more and more of the apps that you would normally have are available on it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2636.48,
+      "endTime": 2677.52,
+      "text": "So I don't know, obviously Omarchi with your using your agents to. To build stuff how you want is quite at the sort of extreme end of tech um ndery. But it's by this guy that you oh DH, yeah. Yeah. David Hennemeyer Hansen. Yeah. He's quite a famous character. Controversial character, right? He's a little bit controversial for some of his like behaviours and views and stuff, but like he's also a big figure in the tech world. He invented um technology that predates React and stuff like that. So he's quite uh he's a serious character, yeah, in the tech world. Um but I don't know, like if if there's any of you that are remotely sort of techie, I suppose, and you'd be interested in something that's like what I've just described, then check it out.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2677.6,
+      "endTime": 2693.76,
+      "text": "It's I think it's super cool. Um, it's made me more productive, but it also just I feel like it opens up my mind a little bit on that creative side, which I really like. Because now I'm genuinely now I'm just like, oh, I want something that does that, I'll just build it. Um, and that's very much this guy DH's ethos about stuff.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2694,
+      "endTime": 2706.08,
+      "text": "What about someone who's got a Windows laptop or an iOS laptop? If they if they decide they wanted to go for this, they need to put Linux on first, or can they just download this?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2706.48,
+      "endTime": 2741.04,
+      "text": "So actually, in terms of installing it, like with a few caveats, like you uh first of all, you can ask an AR agent like how to do it. Uh you can dual boot it alongside Windows, so you can have yeah, yeah. So you can have Windows and then you just install it and you have it as a separate partition, so you can play around with it. Um you need to mess around with partitioning your hard drive and stuff like that, but most people have a big Windows drive, so yeah, you could in theory you wouldn't need much space, you could reserve like a hundred megabytes to begin with, install it. It you just download it and then put a USB key and you boot up your computer and choose install.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2741.28,
+      "endTime": 2745.44,
+      "text": "Takes like a couple of minutes to install. You're thinking about it now. It's quite fun to play around with, yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2747.44,
+      "endTime": 2750.16,
+      "text": "It's a list of 50 things that I'm I want to do.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2750.48,
+      "endTime": 2789.36,
+      "text": "Um, if you're on Apple, uh no. I mean, funnily enough, Apple itself, uh is it iOS it's called? No, that's the phone. iOS, yeah. No, um the macOS, sorry. Mac OS, that's right. Uh it's Linux-based actually. So so whereas Windows back in the day, Bill Gates basically built everything on Windows as on its own architecture, is the best way of putting it. Uh Apple a long time ago was a spin, was a line, it's based on a Linux distribution originally, so what they call the kernel is based on Linux, but it's very because it's Apple, it's very much tightly controlled. Like you wouldn't be able to do this kind of customise, yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2789.44,
+      "endTime": 2794.56,
+      "text": "Yeah, yeah, yeah. So you can't do this kind of customizations in in macOS or Windows, but yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2800.4,
+      "endTime": 2850.96,
+      "text": "So should we talk about other models? I think like to start off, let's just really briefly. So Fable 5.1 launched on the 1st of September and it captured the top rank on all the indexes. Unfortunately, it lasted for what two days, three days until ASA came out. I mean, yeah, we didn't go into all the detail, but basically Fable 5.1 is still ahead on some of the metrics and was a kind of big release. I think as we talked about Fable and and um Mythos, the the sort of unguarded or the the model with less guard rails that is essentially um the same model. Like we'll not talk about that um today. I think other models that I wanted to talk about, first of all, is Google, but I mean I still wonder whether like one day, and some people are saying it will be this week, by the way, that they're gonna drop uh Gemini 4 Pro.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2851.52,
+      "endTime": 2885.2,
+      "text": "I I don't know because they've been saying this since June that they'll drop a new model. They've basically apparently so that so on Gemini at the moment you've got 3.1 Pro, then you've got um the flash models that we'll talk about in a minute. They have basically decided to shelve 3.5 pro apparently and just go to 4 Pro. Um, but what they've done in the meantime is they've just kept releasing these flash models. 3.1 Pro. Oh, really? It hasn't changed, yeah. That's the thing, and it's useless. Like, I mean, it's basically like not as good as the flash models and more expensive, and it like it's just bizarre.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2885.28,
+      "endTime": 2921.12,
+      "text": "That that's why people are just you know making jokes about Google. But um they keep releasing these flash models, and like I say, it's become a bit of a kind of insider joke, I think, with the in in the industry, but they're now like within five percent of the pro tiers. Um, but like they're really, really cheap and really fast. I mean, that's the thing we were talking about, isn't it? It's like if you if you use the light model, I mean it's like it's like the Grok with a Q used to be, it's like basically instantaneous. Yeah, um, I mean I do think they're like really good, like the value for money on them, like 3.8 flash is value for money, and it's a really agentic model.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2921.52,
+      "endTime": 2952.16,
+      "text": "Like I I guess my point is like because there's this joke about where's their frontier model, actually everyone's missed the fact that they these models for a lot of uses as like fast models that can coordinate sub agents, they can you know work on kind of enterprise databases, they're really lightweight, they're actually really good models, but still that question comes in like you know, what's going on with Google? I'm not expecting you to know the answer, but like that's what everyone is asking.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2952.32,
+      "endTime": 2960.56,
+      "text": "Yeah, but you say that, but also like if you were okay, so if you were to want to use go and use 3.8 flash just to chat with it now as a chat bot, where would you do it?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2960.96,
+      "endTime": 2966.48,
+      "text": "Well, the answer is not on the Gemini app because it's not there. The answer is I'd go to Google Studio, Jimmy.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2966.72,
+      "endTime": 2967.12,
+      "text": "Exactly.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2967.28,
+      "endTime": 2988.8,
+      "text": "But you told me this the other day. Did I tell you I thought you told me because I you know you told me about it because I was like I told you 3.8 wasn't yet on the Gemini app, even though it was out, but 3.7 flash is yeah, which is not that different. I mean it's like their iterations, but but they they each time they get better, quicker and cheaper. That's the thing, which is pretty amazing. It's like 3.8 flash is better than 3.5 flash, but cheaper.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2989.04,
+      "endTime": 3020.16,
+      "text": "Yeah, but the amazing thing for well, for me, I was like on 3.5 flash for eight years, and it was pretty quick. But the thing that's really good for me is like there are lots of things where I value speed over absolutely well, over like the super intelligence, and and the and don't get me wrong, these models any they're intelligent anyway. Um, but like now I would uh my go-to sort of like I just want to ask a question of AI is is Gemini 3.8 now because it's so quick that it's just saving me a little bit of time with that, and I'm impatient, I guess.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3020.4,
+      "endTime": 3048.16,
+      "text": "I think the thing is these models, if you look at the the rankings, like these models are like they're right behind. Yeah, they're not that far behind. And and the joke is just because they haven't been able to come up with a frontier model. But actually, like I've wondered, is like I think there's one of two things. Either four, it's gonna be an absolute whirl beat or it's like something that they've just kept under wraps and it's just gonna be, you know, it's gonna go ahead of Astra and Fable. I mean, almost like if it doesn't, there's no point releasing it, right? Yeah, which is probably maybe why they haven't released it.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3048.48,
+      "endTime": 3080.16,
+      "text": "Or the alternative is they're waiting out the kind of you know, the this kind of battle for the IPOs. They just decided, okay, there's so much backlash against AI, we don't know what's gonna happen in regulation, these models are not necessarily safe. We're just gonna hold back. We've got money, we've got other income streams, we don't have to push a frontier model in the same way as anthropic and open and chat and open AI need to, so we're just gonna kind of sit it out. And in the way that Apple is now starting to look like maybe they were quite clever to not get involved in this race. Do you know what?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3080.32,
+      "endTime": 3082.88,
+      "text": "Jim and I are gonna do the same thing. Google are gonna do the same thing.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3083.12,
+      "endTime": 3112,
+      "text": "Well, yeah, but I've also just answered my own question because I was like, I wonder how quick Google AI on Google search is now. And I've just gone onto Google search and searched, and it was like the AI summary was there before the page loaded. Immediate, right? Yeah, it was already loaded before the page loaded, and this is the thing, right? Is like, do Google care about putting 3.8 flash in in Gemini or whatever? Because is that the purpose of it, or is the purpose of it it's feeding Google search terms? So they want a cheap model that's gonna give you a pretty good answer.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3112.24,
+      "endTime": 3126.32,
+      "text": "Yeah, yeah, agreed. Okay, the other ones we want to talk about is GLM 5.3 flash. This is a weird one, like GLM. I asked, how's David Hasselhoff doing? How is he doing?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3132.16,
+      "endTime": 3140.08,
+      "text": "Um, but he's 74 year old, so he's not riding around in Knight Rider anymore. Oh, well that's reassuring and slightly sad.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3140.32,
+      "endTime": 3187.84,
+      "text": "I think he's alright, but he is, he's struggling a bit, yeah. So perfect segue into GLM 5.3 Flash because that is his favourite model. Yeah. Actually, he doesn't like Gemini, David Hasshoff. He's a big fan of uh open source. Yeah, um, so so I'll just tell the story. GLM other models from a company called Drupal or Z.ai, or Z.ai if you're American, because I know we have a lot of American listeners. I mean it Z is wrong, but you know, that's what they say. Um they released GLM 5.2, they then released released GLM 5.3, which was basically it was post-training, but it was basically the same model, and then they released 5.3 Flash, which was a completely different model from 5.3.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3188.16,
+      "endTime": 3203.84,
+      "text": "So I think maybe we give them the prize for the worst naming of models. But this model, like this is like it should be the deep seat moment, like it is insanely cheap, and is like basically the equivalent of Opus 4.8.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3204.08,
+      "endTime": 3209.04,
+      "text": "So it's just how cheap is it when you say insanely cheap. I know how cheap it is, but roughly.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3209.36,
+      "endTime": 3250.96,
+      "text": "So 0.0 0.075 cents input and 0.25 cents output. Sorry, 0.075 dollars per million tokens. Per million input tokens. So less than a cent. According to this, I mean you might want to look this up on Open Router, but that that's what this is telling me. 0.045 cents per task, but it rivals basically Claude Opus 4.8. Oh, it's not per task, it's not per million tokens. So the cents perhaps. No, but the input, no, but this is saying input is 0.075 and 0.25. Why don't you look it up and I'll ramble while you tell me the answer?",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3251.2,
+      "endTime": 3281.04,
+      "text": "This says 15 cents per million inputs and fifty cents per million output. But interestingly, on your percent incredible than what I've just said, but it's very, very cheap. But one of the new one of the new benchmarks that is actually becoming really like which actually is it is the most important benchmark in terms of cost. Just very briefly I'll talk about this, is that price per task thing, which is becoming very prominent now. So what this what it's saying is like, okay, it's costs because some of these AI models use ten times as many tokens, they're more token inefficient than other models.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3281.12,
+      "endTime": 3312.56,
+      "text": "So Kimmy's an example of that, isn't it? It just very goes and does loads of thinking for every task. Yeah, which can be annoying. But like the exactly that point, like if you've got a model that costs one dollar but it take it uses ten times as many tokens, it's actually gonna cost ten dollars to do the same task as another model that costs ten dollars per million tokens. So the overall point is that this new it's quite an interesting way to look at it, but like it sounds like it's it's just insanely cheap on both, right? It's actually quite token efficient and it's just already really cheap.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3312.72,
+      "endTime": 3317.6,
+      "text": "So it means that for enterprise use, I think is what you were gonna say. I'll let you carry on.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3317.76,
+      "endTime": 3366.56,
+      "text": "I wasn't actually. No, I was just gonna say, I think, like I think that I'd go as far as say, like, I think this is like if someone said to me, like, you're gonna run a business or you've you've got a budget and you can only use one model, this is a model I would choose, like every single time. I think because of that, like the the value thing is like it's insane. When people are talking about Deep Seek for what is it, for Pro Flash or whatever, the the the one that was like really good value. This is just blown it out of the water. Like, I I I spent a couple of weeks, the first couple of weeks when it was out, thinking, Oh, there's like this is a scam, and we're all gonna find out there's some like you know, I either there's some scam or in the same way as like with Deep Seek when it first came out, and it's like, oh, it's not as good as we think, or we were gonna find out that actually like it was some promotional pricing and then the price went up, and maybe that will still happen.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3366.64,
+      "endTime": 3374.08,
+      "text": "I don't know. Are you using it on Devin then? What are you using on yeah? I mean, any anytime I have to pay for a model and I want a front frontier model, this is what I would use.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3374.32,
+      "endTime": 3399.28,
+      "text": "Yeah, yeah. It's was it's just funny because like I moved on to Claude Code and then left, didn't use Windsurf anymore, which became Devin. Now I'm using Kimmy because Claude banned me. Anthropic. I mean, I look I love you. Let me come back. But um, so now I'm using the chat, now I'm using like Kimmy, but um I do miss the days of like being able to choose my model and tinker around with like oh which one's fast and which one's efficient and which one's expensive.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3399.36,
+      "endTime": 3438.08,
+      "text": "But anyway, because one of the things with GLM 5.2 is it that I find really frustrating is you couldn't give it like screenshots or images, it couldn't read them. Couldn't see it. It it didn't have that whatever it's called, multimodal visual engineering or whatever it's called. 5.3 does so you can you know you can take a picture of the sort of UI of a website, or you can do a screen recording, you can put it in and it will create like functional next JS code or you know render like actual like actually create stuff based on what you've given it. That was the one thing that GLM 5.2 didn't have and it's now got it.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3438.48,
+      "endTime": 3495.36,
+      "text": "I I I still find myself like slightly like I I think something's not right. It's so it's so good value. For most peels, like listen to this if you don't do any code or you don't use open root or anything like that, is like, does this matter to you? Probably not. There's no like it's not better than Claude or OpenAI or or whatever, but like how good it is for the price, it's like if the deep seek thing hadn't happened and then this happened, it would be like deep seek times two. Yeah, like that's how big it, like in terms of like what the price of it. And one of the reasons I didn't use it for the first week it came out was I thought, oh, it's just gonna be like they're not gonna have enough compute, like everyone's just gonna be using this model, and it was like it was number two on the open router leaderboard, and the only model ahead of it was a free model, so like it's yeah, but isn't the way open router works is that like the models that are in demand, people start spinning up servers to serve them because like that's that's basically how that works, right?",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3495.68,
+      "endTime": 3528.08,
+      "text": "Presumably the models that are at the top of Open Router the top of the top of the is always the free model, like 10 cents HCY for preview or whatever. But because the open router models are served by like when you if you dig into it, open router models are will be served by like 10 different companies, right? And then it like has a primary one and whatever. But presumably those companies are basically looking at that and going, right, we've got this much compute, we need to dedicate more of it to allocate more of it to whatever because it's it's top model. But I think that's the and I think that's the point is like the underlying thing with all of this.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3528.24,
+      "endTime": 3567.6,
+      "text": "We talked earlier on about what's the impact and all the rest of it. Like if you're in if you're an enterprise and you're like a tech team building stuff with AI, this is the kind of stuff that you're factoring in, right? It's not like you're it's a cost benefit equation, right? You're not like gonna be a lot of people, a lot of individuals just pay for the Claude model and use Fable until they run out of credits. Like if you're an organization, you're looking at this and going, Well, I can have 80% or 85% of Claude Opus for one literally one hundredth the price. So I'm gonna do that, and then I'll figure out a way to route stuff to Opus when I need it or when I need the big guns on something.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3568.08,
+      "endTime": 3584.48,
+      "text": "Which is like, and that and that's the thing, right? That's where China's winning, basically, is they they keep bringing out these models that are they're they're almost I don't I've never seen a Chinese model that's as expensive or anywhere near as expensive as some of the Frontier OpenAI and um anthropic models.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3584.72,
+      "endTime": 3619.92,
+      "text": "I think Kimmy 3 Kimi 3 is the the most expensive, wasn't it? And and people are saying about it's not that cheap. Well it's not, but it's still like significantly cheaper than the anthropic models, for example. It's outright cheaper, but I think on price the price per task thing we were talking about, because it uses so many tokens, it actually ends up being sort of so I've seen a lot of Chinese sort of friends, I say, like people I know online who do lots of coding, all complaining at the moment about Kimmy, saying that they're using their subscriptions in like a month in like the first five days because it just uses so many rip through tokens, yeah.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3620,
+      "endTime": 3647.6,
+      "text": "Yeah, and then they're not on the most expensive plans, but yeah, um and on that note, I'll move on to another, like really, really quickly, another Chinese model, which is Quen or Qen, depending on how you say it. So the reason I just wanted to mention this, I think it is now uh after um Astra and Fable 5.1, I think it is now the third sort of best in terms of um coding, it's certainly the best in terms of a open source model.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3647.92,
+      "endTime": 3651.52,
+      "text": "Sorry, so when you say third best, it's literally third best to the frontier model. To the frontier model.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3651.76,
+      "endTime": 3684.72,
+      "text": "So I'm I'm sure like when it says like Fable, I think Opus is probably ahead as well, but it's like on coding is very, very close. The thing I wanted to mention on this is only really makes sense for people who are in China. Um, but when you use it, and I I've said like I've moved between that and Kimmy and like the one that I just use on my phone every day, um, and I'm using it again. One of the reasons is because it's an Alibaba model, and I think this is really important in terms of understanding how like the ecosystem that they own works, um, and why it's important is you can like add the connector to Taobao.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3685.12,
+      "endTime": 3720,
+      "text": "Tauba is essentially like Amazon, Amazon, but but more. Um, and then the uh Tabah food delivery is like yeah, the essentially like the just Uber Just Eats or whatever, and so you're using it saying, like, you know, oh well, what you know what what what tennis racket should I have? I I play like this, and it's give you recommendations say great, right? Give me the link. It'll give you the link, you click it, it opens your tablet, you buy it. I mean, literally like three clicks from having the conversation to having bought it and having it on its way. Same thing with um it can do the same thing with food deliveries.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3720.08,
+      "endTime": 3764.72,
+      "text": "So you're saying, like, oh you know, I've got I've got um gut problems, I need to eat this, or like I'm going on this diet because I'm I'm going into you know I'm or just get married. I want a pepperoni pizza. Well, yeah, but you don't need to ask an AI that do you? Like that's something you're having a conversation around something. How do I go on this diet? And then it can like just take you through and buy stuff. That's cool. You've got you've got other apps which like I don't use, but you've got sort of finance apps and stuff, you've got it linked into like Alipay. Like you can the the reason I'm trying to give this example is you can see how like why if you're um Meta or Google or any of these companies, it's like if you can have your AI doing something useful and you've got all those things that can link together and make it genuinely useful.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3764.96,
+      "endTime": 3793.36,
+      "text": "Like China has an advantage in this in that the ecosystem tends to have like you know these three or four players who own the businesses in very, very like all kinds of different spheres, but you can see how you're saying, like, I want to go here, great. You're you're saying earlier about booking tickets, it's like okay, but actually they have the connector to Uber, and you're like, Okay, I want to go now, bang, into Uber. It's like just makes it super convenient, right? It does. I hate convenience being the end point of stuff. I say this all the time, but like it's still a really good thing.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3793.6,
+      "endTime": 3805.6,
+      "text": "The one thing I wonder with this is like um like like the big data element, like like when you're talking about that, right? This just sounds like a bit of a wet dream for these companies.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3806,
+      "endTime": 3811.28,
+      "text": "Of course, because they then have you start you doing it. China is a wet dream for these companies because no one cares.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3811.44,
+      "endTime": 3828.56,
+      "text": "No one in that sense, but like in terms of the data gathering, like the amount of information you can get when you're like you you know, you once you start chatting to an AI and being like, I've got this health condition, and then it's got information about what you're then going on to buy and all this kind of stuff.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3828.8,
+      "endTime": 3853.04,
+      "text": "All of your accounts, all of your accounts. So when you log in with your Taba account is linked to your Alipay account, right? Because that's how you pay for it, which is also linked to your your um Tabash and DM, which is a food delivery one, your Alipay account needs um real identification proof to set it up, so it's already linked. Like being in China, being in China, you've made that decision.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3853.52,
+      "endTime": 3857.28,
+      "text": "I'm not saying it's not already linked. My point, my point, sorry, I wasn't saying that.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3857.44,
+      "endTime": 3896.48,
+      "text": "My point is like hooking all of that directly to AI so that you're then then then in terms of the big data element, it's just it's your whole conversation and then what you went on to buy, but it's why then what you went on to purchase on Talbot, and then what you went to buy on the food app and it's why a lot of this stuff might not work in outside of China because if you're in like Germany, people really care about their personal data, yeah, yeah. Right? That privacy thing is not really a discussion here, not as much. So I'm not saying it's like it's necessarily something that would you know if if Amazon were taking all your data from your conversations in Chat GPT, people would be like, no, they wouldn't like most people wouldn't add a lot of people wouldn't add that connector.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3896.64,
+      "endTime": 3908.72,
+      "text": "But I'm just giving it as an example of like it it's really really useful, and it's a real world case for why like these models are genuinely useful. I'm not saying like yeah, any listers outside China, this is irrelevant to you anyway.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3908.88,
+      "endTime": 3933.12,
+      "text": "It to be honest, it just popped in my head as like a as a as a sort of like as a side effect of all this stuff, right? But but it's cool. I wanna I think I'm I mean you're probably maybe you're gonna install Omarchi on a partition. I'm gonna um install QN so I can do my shopping more easily. Because it is well, it is a pain in the ass searching in Chinese as well. In these AIs, you can just type in the case. And I'm having these conversations in English.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3933.28,
+      "endTime": 3980.48,
+      "text": "Yeah, of course. Um the last one I want to talk about is N Nvidia, which is not necessarily a model, it's it's a bit of a tedious link because they sorry tenuous link. They have got this Nematron models well, it's both probably Nematron models that they've come up with. So this is pretty interesting that they're um they're now developing their own models. So Nematron 3 Ultra 550 um 550B MOE. Mixture of experts modeling, which is a 30 billion agentic model. So they're they're releasing their own models. The reason this is interesting, they're also partnering with research labs, including Mistral AI, to pull compute and data for their frontier open weight models.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3980.72,
+      "endTime": 3988.8,
+      "text": "They've also bought Hugging Face for 12.9 billion, which is what was it, 86 times its annual revenue.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3989.12,
+      "endTime": 3994.72,
+      "text": "It's interesting that money, I guess. Did we explain what Hugging Face oh we had explained Hugging Face on a previous episode?",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3995.2,
+      "endTime": 4032.48,
+      "text": "The App Store for this is where you can download every open source. A bit like GitHub or the App Store for models. And it's now famous because it's the thing that the OpenAI Rogue model hacked into. That's right, yeah. So people will have heard of it, yeah. But but the thing that's interesting is like NVIDIA branching out, right? Because you've got this thing of like NVIDIA invest here and then they invest there and they all move money around. But NVIDIA now actually like developing their own models, working with the sort of front not frontier, the next level of labs. So Mistral is the French AI company, it's like the big European hope in AI, and they're really good, like really, really um really good frontier models.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4032.72,
+      "endTime": 4038.64,
+      "text": "Um and then they buy Hugging Face, which do you know why it's called Hugging Face?",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4038.88,
+      "endTime": 4049.12,
+      "text": "No. I was just curious. Have a guess. I have no idea. No idea. They named it after the Hugging Face Emoji because they thought it would be funny because they wanted to be the first stock on the stock market.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4049.44,
+      "endTime": 4052.4,
+      "text": "No, I knew that was named why they chose the Hugging Face Emoji.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4052.56,
+      "endTime": 4059.84,
+      "text": "Yeah, because they the co-founders were messing around and they wanted their startup to be the first company on the stock market that was an emoji.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4060.16,
+      "endTime": 4060.48,
+      "text": "Okay.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4061.28,
+      "endTime": 4061.84,
+      "text": "That's it.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4062.08,
+      "endTime": 4083.04,
+      "text": "Great. Sorry. I wasn't I wasn't mocking you, I was mocking I was oh great for them, not you. Well, they've just sold it for twelve billion or whatever it was. That you're you're laughing on the other side of your face. 11.9 billion in equity. Okay, okay. So it's not that much cash. All right. So if if Nvidia fails and goes bankrupt, they get nothing.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4090.96,
+      "endTime": 4128.72,
+      "text": "Alright, the the la We should leave this in. Yeah, because how many times do we record or re-record because we've done this? Yeah. Yeah, cool. Um, it's not that funny what I'm going to talk about, is it's evidence of an AI capital bubble? I just feel like we should end this season three episode because we've talked a lot about this. Just talking about, you know, the the the NVIDIA purchase is like a good example of of what everyone's talking about. I think we should just paste in the video you sent me today, which is like the laughing guy, yeah. Yeah, of of how kind of you know. Do you want to do you want to explain this video?",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4128.88,
+      "endTime": 4131.52,
+      "text": "Yeah. Can you explain it? It's it's brilliant. We should definitely link.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4131.92,
+      "endTime": 4167.92,
+      "text": "What's his name, the laughing guy emoji? Uh let me find it. Um no, it's not a meme, isn't it? It's not emoji. While you're doing it, I'll just put it here. I've got it here. I've got it here. It's the uh El El El Recitas, yeah. He's the he's the Spanish laughing guy meme from that game, whatever it was, is it a game show? Spanish talk show. Talk show. Yeah, talk show. Um but he but basically this is a two-minute video of it's it's what he was talking about on that show, but they've overdubbed it in English with basically just ridiculous figures and stuff.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4168.32,
+      "endTime": 4173.04,
+      "text": "Like, I pay two hundred dollars a month, but it costs them eight thousand dollars.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4173.92,
+      "endTime": 4181.92,
+      "text": "And it's like who pays the extra seven thousand who makes up the seven thousand two hundred dollars a month is like anthropic, and then he's just laughing in his like mad laugh madness, mad laugh.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4182.24,
+      "endTime": 4221.6,
+      "text": "Like basically where all the money's just moving around between them, and and it's like we'll post we'll post it, we'll put a link to it. I said to you it's the best video I've watched in at least the last five years. I uh it's just such a brilliant summary, but the thing with the the the bubble, so we like we said, and I think we're like the bubble popping doesn't mean like AI stops, but like there has to be a there has to be something. Hugging face is an 86 times multiple on its revenue, which is like an yeah, it's massively speculative pricing. Maybe it's a bad example because it's for NVIDIA it's just like a pocket change to them, it doesn't really matter, but it's like this is the kind of stuff that's going on, it doesn't it doesn't make any sense.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4222.4,
+      "endTime": 4243.68,
+      "text": "You've got achieving frontier benchmark scores, which is why we've said like China's winning, is achieving frontier benchmark scores is economically unviable. Spending 220,000 in commute so $220,000 in compute to solve a maths problem, which is great, but it's like $220,000.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4244.88,
+      "endTime": 4248.4,
+      "text": "This is just I mean if it's the Riemann conjecture and there's a million quid for it, but yeah. No, it's not.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4248.48,
+      "endTime": 4284.08,
+      "text": "I mean the example is like you're you're using it to do something that shows how impressive it is, but that but has zero actual commercial value at a time when you're not able to make money. And we talked about GLM 5.3 Flash, he's the perfect example. Like you've got this price one API, but the hyperscalers have got these enormous infrastructure capex costs, right? It it like the whole thing. I mean, there's there's nothing, I guess, that's happened in the last month any differently. There was in July, I I wasn't aware of this, but the semi-se semiconductor sell-off in July, it raised one trillion in market value.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4284.96,
+      "endTime": 4323.44,
+      "text": "The what? Semiconductor sell-off. Apparently, yeah. Uh okay. It seemed to have yeah, exactly, it seemed to have like gone under the radar, but yeah, a trillion in market value was wiped off. The new million though, innit? Or the new billion. But but that's the point, isn't it? That's the point. I was thinking the other day, so it's a completely random anecdote, but during the pandemic, a friend of mine who worked for British Airways and he said to me, We're okay because we've got a billion in cash. And I was like, alright. I was like, a billion sounds like quite a lot, but I was like, uh Is that enough?",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4323.6,
+      "endTime": 4362.16,
+      "text": "But a billion's quite a lot of money. Now someone says got a billion, you're like, a billion? Like, doesn't seem like anything anymore. The numbers that are being thrown around does to me. I wouldn't mind having a lot of things. A trillion has been wiped off market value that we don't even know about. I don't know what. Yeah, that's right. Like the numbers that are being thrown around are so so crazy, right? Yeah, they're just absolutely insane. Like the values that we're talking about, like Anthropics IPO valuation is based on like they base the valuation on basically the value of all services that that that have ever existed because it's the entire market to do everything, isn't it?",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4362.48,
+      "endTime": 4364.88,
+      "text": "Yeah, it's something like the entire GDP of the world or something.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4365.12,
+      "endTime": 4374.4,
+      "text": "Yeah, but it's but it's even like theoretical services that it ai can't necessarily do, is part of the value valuation because if you achieve AGI, it can do everything.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4374.64,
+      "endTime": 4405.52,
+      "text": "They call it um what is it, total addressable market? Tam, don't they? And uh yeah, so they've that's what they say. That's the 30 trillion is what they say their total market. Is that what they call it? Total addressable market. So, yes, yes, it's how yeah, exactly. But it's like it's in their prospectus, and like so uh quite to be fair, addressable markets. Quite a lot of people of sensible things, quite a lot of sensible people in the finance industry have come out and said, like, it's like these are a joke. You shouldn't you shouldn't actually be allowed to put numbers like those numbers exactly.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4405.92,
+      "endTime": 4431.84,
+      "text": "It's just bonkers, it's just stupid. And and the thing is, uh all I guess well it seems like everyone's laughs at it, but maybe, maybe like investors and pench fund pension fund managers are are lapping it up. I don't I don't know. I do feel like this AGI stuff, like if we've reached AGI and we're on the you know hard takeoff or soft takeoff or whatever, like that's the only thing that's probably gonna keep the push the bubble to the next it's it's yeah, expand the bubble.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4432.08,
+      "endTime": 4473.04,
+      "text": "This is also what makes me like like I said cynical about a lot of the the current kind of it's because the the two companies who are making all the current claims right are the two companies that need to make the the claims based on their IPO. Yeah. So so Google are not saying we've we've got AGI. Musk, I mean I don't really know what he's saying, but like I don't really hear two trillion dollar valuation, but but but all of the stuff is coming from Anthropic and Chat GPT, open AI, open A. Right? And and and so it's very difficult to take them at at like face value knowing what you know about their IPOs.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4473.28,
+      "endTime": 4507.04,
+      "text": "I d I don't think there's anybody now, and there's been a lot of talk about this, I don't think there's anybody that says we're not in a bubble. But the thing with a bubble is always when how long is it gonna be until it pops? And and and and then you hear people I've heard other people, then the people that are sort of pro AI, maybe, and and and the most bullish on it, um uh uh you know, say things like and that was what that meme was relating it to as well, it was the 1873 rail railroad build-out. And it's like, yeah, it is like that, but but that created one of the biggest bubbles ever, and one of the biggest depressions ever afterwards.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4507.36,
+      "endTime": 4523.12,
+      "text": "And and yes, like the railroad was amazing and it it's like and it's brought a lot of economic value to the world. But at the time, you like you can't forget that in 1873 there was this massive bubble and it burst and it caused a decade of sort of you know stagnation or whatever.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4523.2,
+      "endTime": 4572.8,
+      "text": "And that's and look at what the Great Depression did to you know to the US, right? And and the US came out of it and then you know, 15-20 years later they're the richest country in the world, but still went through that. We did this episode back to front, didn't we? We started out really positive and optimistic. But this is this is echo uh this is slightly different, isn't it? Yeah, the economics will s probably have a effect on slowing down progress, but it's not, you know, when the bubble pops, it's not that it it means that things go back, but what it means is like I I think people underestimate like how when the bubble pops, if we talked earlier about how generally the developments in AI, like they're not affecting people day to day.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4572.96,
+      "endTime": 4577.2,
+      "text": "When the bubble pops, it's the opposite. Actually, it does affect everyone day to day.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4577.76,
+      "endTime": 4609.68,
+      "text": "Well, and and and every like because of the trickery they've done with the what's it called, the financial authorities in the US, everyone's 401k's been yeeted into it as well. Which is really dodgy. Like if you're not keeping an eye on that and your pension fund's been whacked in there, and then you know you're within five to ten years of retirement, it's probably gonna affect you quite a lot, yeah. You know, um if you know, because it's gonna pop in the next year or so, or I mean it might even be in the next six months, but but but on a positive note. AJ by Christmas. Oh well then we'll wait.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4609.76,
+      "endTime": 4610,
+      "text": "Yeah.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4610.32,
+      "endTime": 4621.44,
+      "text": "AJ by Christmas, yes or no. A I mean, we've had Nori coming out saying it was AJ by Christmas. Well, he said it's because you sent me a message saying AJ by Christmas, mate.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4622,
+      "endTime": 4659.52,
+      "text": "I am gonna say yes. I'm gonna say yes. Wow. And I'm well, again, like you could I mean you're already basically on the Q, right? The the I feel like the rate of acceleration. I'm gonna make a bolder prediction. I'm I'm gonna say ASI in 2027. Really? Yeah, the way things are headed. I mean, how far off is ASI once you get to AGI? If you genuinely get to AGI. I reckon I I reckon we'll they'll be I don't think they're that close to AGI. But Okay, let's not go back to definitions of AGI. Okay, maybe I'm being bullish.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4659.76,
+      "endTime": 4676.16,
+      "text": "But AGI, I can I agree with you. I think by next year, 2028, the latest you're at some version that you can pass off as AGI. So I'm a U.S. ASI takes uh it takes I I mean you could be right, like the hard takeoff it could be like months away because a AGIs train AGIs.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4676.48,
+      "endTime": 4688.4,
+      "text": "I just still think like what would okay, we're gonna I'm gonna ask you what the definition of ASI is now, but like you've already got models producing new maths. Yes, it makes okay, maybe it costs $200,000 to run the model or whatever.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4688.56,
+      "endTime": 4692.56,
+      "text": "Oh, for me, ASI is like it's like taking over the world. What is it?",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4692.88,
+      "endTime": 4697.44,
+      "text": "Like it can do everything. That's an assumption about his motivations, not its intention. No, no, no.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4697.84,
+      "endTime": 4703.12,
+      "text": "I would say it's intentions, it's we let it because once you get ASI, we're like, okay, we just do what you tell us is.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4703.44,
+      "endTime": 4728.48,
+      "text": "No, but I would say benign ASI, let's let's take off the table. We we talked about this the other day. Like a non-cancerous tumour. Yeah, so for me, benign ASI would be solving a lot of the world's problems in rapid succession. Like something that in the same few months within the same few months, well no, doing things that we haven't been able to do despite working on them for since I was born, you know. So we got that.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4728.88,
+      "endTime": 4736.32,
+      "text": "So curing has solved math problems that have never been solved. Huh? AI has already solved math problems that have never been solved.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4736.64,
+      "endTime": 4757.04,
+      "text": "So it's no, but I would say in terms of ASI, my my my personal definition in terms of what I'm talking about would be in rapid suc like like massive technological increases in massive succession. If it's benign. So, like for example, within the same few months it it works out new it solves nuclear fusion, cures cancer and something like that.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "startTime": 4757.2,
+      "endTime": 4757.52,
+      "text": "Yeah.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4759.04,
+      "endTime": 4759.36,
+      "text": "Okay.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4759.76,
+      "endTime": 4763.44,
+      "text": "I mean, if if the definition of ASI is it's a machine that takes over the world, that that's never.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4770.56,
+      "endTime": 4774.88,
+      "text": "You've also said if ASI at that point, like we can't control it because it's more intelligent.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4775.2,
+      "endTime": 4797.92,
+      "text": "So then we're then it depends on its motivations, right? We everyone mixes I mean everyone mixes motivations up with intelligence, right? Why does a I mean I'm not saying it won't, but why does a super intelligent model have to be evil? Could it could it be that a super intelligent model could I mean this is very ambitious, but could just be our tool, our pet that can just do all this really smart stuff that we can't do?",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4798.32,
+      "endTime": 4808.16,
+      "text": "Amen to that, bro. Let's leave it on that note and let's end season three. Thank everyone for listening and uh join us for season four, which will be Did we get a little break before?",
+      "chapterIndex": 18
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4808.72,
+      "endTime": 4810.56,
+      "text": "Well, we had a break, we've had a month, all right.",
+      "chapterIndex": 18
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4810.72,
+      "endTime": 4839.04,
+      "text": "Fine off season four will be all about US China, so not US China in terms of like it's it's a constant battle, but we'll be looking at everything through a lens of the US and China and basically the difference in progress, the difference in models, the difference in the way they're approaching it. Because we think that is basically the most important thing now. Um we're in China and we have a different perspective, so um we hope that you'll like that.",
+      "chapterIndex": 18
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4839.28,
+      "endTime": 4841.92,
+      "text": "And we're we're gonna still do news roundups and stuff. We're still gonna do news.",
+      "chapterIndex": 18
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4842.88,
+      "endTime": 4851.76,
+      "text": "We're still gonna have hats that we never give everyone. We're still gonna do songs. Cool, we'll just change the logo and but if you do want a hat, write to us.",
+      "chapterIndex": 18
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 4876.64,
+      "endTime": 4899.04,
+      "text": "GPT six abstract, step through the gate, they are kidding, 99.9, still the states, match them benchmarks, crack every wall, one little prop and the old odds fall, busy over with videos, mouse move left, mouse move right, they are controlling computers package clean and bright, but under the curtain, the cold box, we black box, reasoning that a grip on boot right.",
+      "chapterIndex": 18
+    }
+  ]
+}

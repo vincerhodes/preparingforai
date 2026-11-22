@@ -1,0 +1,924 @@
+{
+  "slug": "s2-2024-10-05-shocking-ai-incidents-from-wrongful-convic",
+  "buzzsproutId": "15862728",
+  "title": "SHOCKING AI INCIDENTS: From wrongful convictions to self-driving accidents",
+  "date": "2024-10-05T02:00:00.000Z",
+  "season": 2,
+  "durationSec": 2805,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15862728-shocking-ai-incidents-from-wrongful-convictions-to-self-driving-accidents.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Discover the unsettling truth behind artificial intelligence and its real-world implications with hosts Jimmy Rhodes and Matt Cartwright. What if AI-driven vehicles aren't as safe as we've been led to believe? Through harrowing examples like the Uber self-driving car fatality and the Tesla crash involving a police officer, we unravel the complex challenges of integrating AI with human drivers. We also spotlight the pitfalls of automated decision-making in sensitive areas, exemplified by a UK welfare algorithm's costly errors. As AI technology continues to evolve, so do the threats it poses. We confront the dark side of AI-powered disinformation with a deepfake video that could have worsened international tensions. Is our ability to discern truth in the digital age in jeopardy? We tackle the urgent need for ethical standards to address AI's misuse, especially when it leads to disturbing creations like synthetic child pornography. Our conversation highlights the delicate balance between technological advancement and public safety. The final segment of our discussion pivots to the necessity of human oversight in various sectors. From a wrongful conviction in Chicago based on flawed audio analysis to a hazardous rerouting by navigation apps, the risks of overly relying on algorithms are stark. Military applications aren't immune either, with tragic outcomes resulting from AI errors. As we explore the nuances of AI in content curation and the spread of misinformation, we emphasize the importance of maintaining credibility in an increasingly AI-driven world. Join us as we navigate these pressing issues with thoughtful analysis and a call for responsible AI integration. Welcome to the Artificial Intelligence Incident Database",
+  "summary": "Jimmy and Matt tour the AI Incident Database, reading real-world harms from Tesla crashes and a wrongful Chicago murder arrest driven by ShotSpotter audio to Grok's fake Iran headline and a 2003 Patriot missile fratricide. The through-line: trust in algorithms is being destroyed by deployed-but-imperfect systems, and the hosts are not sure the damage can be repaired.",
+  "keyTalkingPoints": [
+    "A UK DWP algorithm wrongly flagged over 200,000 housing-benefit claims as high risk — two-thirds were legitimate, creating work rather than saving it",
+    "A NewsGuard audit found leading chatbots repeated Russian disinformation narratives in a third of responses because the disinformation is in the training data",
+    "ShotSpotter audio helped convict an innocent Black man in Chicago who spent nearly a year in jail before prosecutors dismissed the evidence",
+    "Meta's chatbots began posting uninvited in Facebook support groups, and Grok with a K invented an Iran-strikes-Tel Aviv headline that trended on X",
+    "Jimmy expects a headline reading 'AI made a decision to wipe out a town' within his lifetime, as militaries automate targeting"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Self-driving cars are trapped in a dangerous interim period where AI must handle unpredictable humans",
+      "It will not be long before an AI makes a military decision that kills people at scale — he hopes it does not come to pass",
+      "Deepfake misinformation in video, audio and text will only become more frequent and there is no known long-term solution",
+      "Algorithms in human domains like benefits need human decisions at the end, or they create injustice at scale"
+    ],
+    "matt": [
+      "The Incident Database proves AI harms are here now, not hypothetical existential risks",
+      "Disinformation is baked into models because it exists on the internet — if it exists, it is probably in a model somewhere",
+      "Once trust in a model is destroyed, rebuilding it takes a very long time",
+      "The default assumption should become that any picture is fake — a better world than the alternative for sextortion victims"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-10-05-shocking-ai-incidents-from-wrongful-convic-1673.755-within-his-lifetime-news-will-break-of-an-ai-mak",
+    "s2-2024-10-05-shocking-ai-incidents-from-wrongful-convic-1275.906-the-default-assumption-will-become-that-any-pict",
+    "s2-2024-10-05-shocking-ai-incidents-from-wrongful-convic-2196.971-ai-generated-misinformation-in-video-audio-and-t"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "PavaorottAI"
+  ],
+  "chapterCount": 17,
+  "turnCount": 115,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Introducing the AI Incident Database",
+      "startTime": 42
+    },
+    {
+      "title": "Incidents 4 & 707",
+      "startTime": 106
+    },
+    {
+      "title": "Incident 738",
+      "startTime": 363
+    },
+    {
+      "title": "Incident 734",
+      "startTime": 661
+    },
+    {
+      "title": "Incident 702",
+      "startTime": 835
+    },
+    {
+      "title": "Incident 700",
+      "startTime": 914
+    },
+    {
+      "title": "Incident 604",
+      "startTime": 1114
+    },
+    {
+      "title": "Incident 235",
+      "startTime": 1297
+    },
+    {
+      "title": "Incident 234",
+      "startTime": 1390
+    },
+    {
+      "title": "Incident 444",
+      "startTime": 1586
+    },
+    {
+      "title": "Incident 724",
+      "startTime": 1700
+    },
+    {
+      "title": "Incident 708",
+      "startTime": 1850
+    },
+    {
+      "title": "Incident 676",
+      "startTime": 2073
+    },
+    {
+      "title": "Incident 719",
+      "startTime": 2155
+    },
+    {
+      "title": "Incident 672",
+      "startTime": 2430
+    },
+    {
+      "title": "The AI Database Opera (Outro Track)",
+      "startTime": 2574
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 28.46,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment urgent need for safe development of AI governance and alignment.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 31.06,
+      "endTime": 39.803,
+      "text": "Our freedom's just alone run by machines and drones. They've got us locked into their sites. Soon they'll control what's left inside. Welcome to Preparing for AI with me, Jimmy Rhodes and me.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.504,
+      "endTime": 41.325,
+      "text": "Matt Cartwright.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 42.186,
+      "endTime": 73.495,
+      "text": "Today we're going to take a look at the AI Incident Database. It's a site that's dedicated to indexing the collective history of harms, or near harms, realized in the real world by the deployment of artificial intelligence systems. Like similar databases in aviation and computer security, the AI Incident Database aims to learn from experience so we can prevent or mitigate bad outcomes. And with that, I'll hand over to Matt to discuss the first topic.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 74.577,
+      "endTime": 130.013,
+      "text": "Thanks, jimmy. So, yeah, I thought this would be a really interesting way to look at some of the ways in which, you know, ai is already causing harms in the world and, in line with our kind of expanded mission of the podcast to kind of raise awareness, this is something that I think is really useful, but it's also really interesting because some of these examples are things that we kind of know about, but I guess to actually see or hear real world examples of how it's happening is equally kind of scary but also thought-provoking. So I'm going to start off. These are incidents four and 707. So an uber autonomous vehicle in autonomous mode struck and killed a pedestrian in tempe, arizona, in 2018, and a tesla, reportedly in self-driving mode, crashed into a parked patrol vehicle in fullerton, california, while the officer was responding to a fatal dui crash.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 130.715,
+      "endTime": 137.941,
+      "text": "The officer narrowly escaped injury. The driver reports having been distracted by a cell phone and having relayed on the tesla's ai.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 138.442,
+      "endTime": 186.493,
+      "text": "The earlier crash involved a suspected dui driver who killed a motorcyclist stopped at a red light my immediate question with all this and I'm not and I'm not like trying to be AI optimist here but how much more likely is a, is an AI car likely to cause an accident than a human could be less exactly this is. This is kind of how I feel about this subject. It's like as soon as there's a crash with a tesla and all the rest of it, like a or an ai, ai powered car, it's in the media immediately and and usually it's a pretty catastrophic crash, which is part of the problem. Um, but you know how much more dangerous are these things than people?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 188,
+      "endTime": 218.867,
+      "text": "Yeah. I think the point here, though, is that surely the marketing of self-driving cars, one of the ways in which it's marketed, is that it's going to be safer, and I'm not saying that's the only thing I mean. It also means you can get in the car while you're pissed at your face and you don't have to worry about. You know, if you don't like driving I mean, I personally I'm I'm okay with driving, but I'd rather never have to drive. I'm not, I don't particularly enjoy driving, so I'd be quite happy, in theory, for a car to drive for me, but I wouldn't trust it, so I probably wouldn't let it happen.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 218.927,
+      "endTime": 250.774,
+      "text": "But I think, for me, like part of the idea is that they're supposed to be safer, and if you look at the reports, you know insurance premiums are going up. There were more and more accidents in the US last year, or in California last year, accidents increased by 19% above 2022. So whatever the reason for that is maybe we don't go into that now, but whatever the reason for that is, there's apparently a need to make driving safer, so isn't that one of the reasons why automated vehicles are supposed to be being developed?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 252.038,
+      "endTime": 300.64,
+      "text": "yeah, totally. I mean, it feels like an area where, okay, there's a lot of skepticism and there's a lot of distrust, but ultimately, you know, if, ultimately, the ultimate version of the self driving car is something that does like, basically does not cause accidents, and there's a huge amount of complications in that, and, and part of that is that self-driving cars have to, you know, have to learn to drive on roads that also involve humans, and so it becomes infinitely more complex, like, like, if you could just switch over to self-driving cars where every car is driven by a um, an AI or a, you know, a computer, then it would probably be much more straightforward.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 300.981,
+      "endTime": 338.367,
+      "text": "But there's this kind of like weird interim period where you have to have ai cars that are interacting with humans and humans are unpredictable and therefore ai has to learn how to drive in unpredictable circumstances, and so it feels a little bit like that to me where, like, ultimate, the ultimate version of this is is self-driving cars that are much safer than where every car is driven by a um. A self-driving car is, you know it, this? This happened in um. What was the? The film, the with will smith.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 339.009,
+      "endTime": 354.406,
+      "text": "artificial intelligence film with will smith I am legend no men in black noodle mouth. You're winding me up now. Film with Will Smith I Am Legend no Men in Black it wasn't Men in Black Noodle Mouth. You're winding me up now Wall-E Terminator 2?.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 354.627,
+      "endTime": 355.869,
+      "text": "I've lost the plot Terminator 3?.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 355.95,
+      "endTime": 357.513,
+      "text": "I've lost the plot. Shall we move on?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 363.253,
+      "endTime": 363.454,
+      "text": "Yes,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 371.54,
+      "endTime": 399.549,
+      "text": "so second up is Incident 738. So a department for work and pensions this is in the uk algorithm wrongly flagged over 200 000 uk housing benefit claims as high risk, resulting in unnecessary investigations. Two-thirds of these flag claims were legitimate, causing wasted public funds and stress for claimants. Despite initial success in pilot, the algorithm's real world performance fell short. This incident highlights the risk of over-reliance on automated systems in welfare. Well, I would argue in any administration, and that was from this year 2024.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 402.001,
+      "endTime": 408.25,
+      "text": "So, in that situation, where's the benefit of having ai involved?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 409.933,
+      "endTime": 433.436,
+      "text": "I mean, I, I kind of think you know, this is one of those where, yeah, okay, but it doesn't mean it's always going to be like that and and as we talk about often, you know, things are not, things are not at the end point yet. So, just because the algorithm didn't work right at this point, well, okay, so we tweak it and make it better next time.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 437.78,
+      "endTime": 465.629,
+      "text": "I think where I would be almost more concerned here is if the algorithm is wrongly flagging it rather than saving work, it's not only created the problem, but it's created a load more work, so it's not saved anything. Um, you know, eventually, I mean, yes, okay, there's a lot of stress on those claimants, but eventually it probably gets sorted out. But I think where there's a problem here is the massive waste of public funds, because the algorithm has not only failed to do its job, but it's now created a load of mess for people to clear up.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 466.852,
+      "endTime": 484.649,
+      "text": "And I'll be honest, I feel like this is an area where algorithms like when you're talking about things on a human level, like where, like, you need a human decision at the end of it, so like, where are these algorithms really helping in this kind of situation?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 484.669,
+      "endTime": 504.931,
+      "text": "Yeah, I mean in this kind of situation yeah, I mean in this one. They're not. But, like I say, I'm I'm sort of taking the optimistic view here. I think that the algorithm should be able to, you know, flag them as high risk, and the fact that there's been this incident is not a reason to not use it, it's just a reason to tweak it and make it better.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 508.38,
+      "endTime": 551.095,
+      "text": "Yeah, yeah, I mean, I, I see what you're saying, I think, I think, I think the problem for me is that when you're dealing with like human situations and human problems, where there's like that that you know well, ultimately like it's a very human outcome. For me it's kind of, maybe AI can do a level of, can perform a level of triaging and all the rest of it, but there's always going to be a human in the loop. There's always going to be a human in the loop, and so why shouldn't a human always just review every single case and every single incidence? Because I don't know, I'm, I'm. I just feel like an AI here is kind of like an extra step in the process that doesn't need to be there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 552.26,
+      "endTime": 588.073,
+      "text": "Yeah, but isn't it in this example? And you know, I chose this example not because I think it's a particularly shocking incident, but because I think it shows how algorithms are, not, you know? Then, like I say, they're not at the point yet where they can completely be trusted, but I think, in this example, the algorithm should make things more efficient and should make them better. We should be in a situation, really, where where we can use the algorithm to reduce the number of, like you're saying, a person needs to look at everyone, but isn't what we're trying to get here to reduce, because that's not particularly interesting work.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 588.165,
+      "endTime": 601.855,
+      "text": "You know, having to look through all those claims we're looking at, being able to flag what's high risk, what's low risk red, amber, green, yeah and then be able to spend more time on the things that need to be spent time on and be able to streamline some of the other work.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 602.556,
+      "endTime": 642.395,
+      "text": "Yeah, and algorithms have a lot of benefit there, but there's also a lot of dangers, and this is where it's really tricky, because when you put your trust in these algorithms, unless they're perfect, then you run the risk of, you know, putting someone in that red category where actually they should never have been in that category and and and I think this is the this is the problem is like it's a, it's a really nuanced thing and and um, you know, I mean, typically insurance companies do this, like insurance companies have done this for years. It's not, it's not a new thing, it's not like something that's been driven by AI Insurance companies.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 643.178,
+      "endTime": 659.57,
+      "text": "You know, they just put you in a pot, basically based on where you live, what postcode you're in, all sorts of different stuff, and that's probably not fair in a lot of situations. So it's it's kind of like how do you want to balance that scale, scale?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 661.332,
+      "endTime": 668.501,
+      "text": "Incident 734. An audit by NewsGuard revealed that leading chatbots, including ChatGPT4,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 674.665,
+      "endTime": 718.73,
+      "text": "ucom's smart assistant and others, repeated Russian disinformation narratives in one third of their responses. These narratives originated from a network of fake news sites created by John Mark Dugan. The audit tested 570 prompts across 10 AI chatbots, showing that AI remains a tool for spreading disinformation, despite efforts to prevent misuse. I mean, this is not really news, but I thought it was a good example because it's something that we've talked about on the last uh, or in the last few weeks when we talked about the election interference yeah, and and and this is a massive potential looming problem with ai crap in, crap out um is is like the simplest way to put it these open.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 718.831,
+      "endTime": 734.473,
+      "text": "We talked about it a little bit earlier on, uh, on the previous podcast. Um, I feel like the way that data is curated, that goes into these a, these ai models that you know for example, chat, gpt we don't know what it's been trained on.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 734.794,
+      "endTime": 756.398,
+      "text": "It could have been trained on all of 4chan, all of reddit, all of this stuff that has tons of disinformation built into it I mean we know that grok, the other grok, is being trained on all the data in twitter, x, everything, and I think reddit data is being used for one of the models. So yeah, like it is literal, crap is going in right?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 756.565,
+      "endTime": 773.066,
+      "text": "yeah, absolutely like the. The stuff that goes into large language models is kind of frightening, and we don't even know what's going in there, and so is it a surprise that it's spitting out russian disinformation. Well, if russian disinformation was built into the model, into the training.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 773.187,
+      "endTime": 784.61,
+      "text": "I think it's almost. If russian disinformation exists, then it's been built in a model in the same way. As you know it. It's not just Russia, any disinformation anything. If it exists, it's probably built into a model somewhere.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 784.93,
+      "endTime": 802.663,
+      "text": "Yeah, and if the you know, I mean to in a broader sense like if the, if information on the internet in general is slightly left-leaning, because more people that are left-leaning put information on the internet like they're more willing to express their views and their viewpoints,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 807.305,
+      "endTime": 825.654,
+      "text": "then all of the models that we're talking about are going to be more left-leaning. And I use that as an example because the feeling is that actually these models are slightly left-leaning, which is a different problem with society and all the rest of it, but we don't know what's going into these models, and that is a challenge.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 826.525,
+      "endTime": 831.331,
+      "text": "And we don't know how they're working when it goes in as well, which is another challenge.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 835.425,
+      "endTime": 877.75,
+      "text": "Incident 702. A deepfake video of State Department spokesman Matthew Miller falsely suggested that Belgorod was a legitimate target for Ukrainian strikes. This disinformation spread on Telegram and Russian media, misleading the public and inciting tensions. Us officials condemned the deepfake. This is an example of the threat of ai powered disinformation and hybrid attacks similar to the last example. I know um, but this is a very, very specific example um relating to the um to the war in ukraine, so I thought it was a good example to to bring this one up yeah, and so I mean what I would cite with this is has anyone seen?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 878.071,
+      "endTime": 907.997,
+      "text": "if anyone hasn't seen, I think it was bbc's production. The capture which actually has been is, I think it's in its second or third season. Now, like this is a fantastic illustration of of kind of like how this stuff's going to go in the future. Like we're not far away from being able to deep fake everything, absolutely everything, and so how do you trust information that you find online, like whether it's video, audio, images, text, whatever?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 913.151,
+      "endTime": 944.173,
+      "text": "incident, 700 meta's ai chatbots have reportedly begun entering online communities on Facebook, providing responses that mimic human interaction. These chatbots, often uninvited, disrupt the human connection critical for support groups by giving misleading or false information and pretending to share lived experiences. Wow, I think this is a really cool one. I knew about this already, but it's been pretty widely reported in media. But I think this is a really interesting one.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 945.987,
+      "endTime": 955.609,
+      "text": "I think it's really interesting, but I also feel like Facebook and Twitter and things like that. They already feel like that to me anyway, even without AI.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 956.965,
+      "endTime": 991.607,
+      "text": "Yeah, it's kind of like we've said you should take everything with more than a pinch of salt and almost presume that everything is false and less proven otherwise. But it's, it's this idea of the bit that got me actually was the idea that they were kind of entering the community uninvited. I mean, you know, sometimes these descriptions they make you, they make it out, oh, it must be sentient to have entered that chat room. I mean, that's not how it's, that's not how it works. You know, it's entered the chat room because that's it's. It's probably meant to be doing that. It's meant to be, you know, going in and out and offering an option.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 991.647,
+      "endTime": 1031.51,
+      "text": "I mean, I saw some stuff where it had commented as well. Um, it met as chatbot had commented on some posts on facebook which it had not been asked to do. So it responded. Maybe it was around bullying or something like that. It responded to a post, but I think that is around how it's been trained and that's what it's been told to do. So the issue is not necessarily that the AI has suddenly, you know, gone rogue and gone and entered those chat rooms, but that they haven't programmed it very well in the kind of not the training data, but in the I'm not I'm not sure how to put it in the kind of the second part where you do the reinforcement learning.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1032.932,
+      "endTime": 1037.49,
+      "text": "Oh, yeah, yeah, yeah, exactly Reinforcement learning Like the kind of.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1038.569,
+      "endTime": 1039.132,
+      "text": "I think it's called.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1045.985,
+      "endTime": 1073.475,
+      "text": "I think it's like the kind of the person I think it's called. I think it's alignment. It's part, yes, part of the alignment, yeah, part of the alignment. But how do we know? I mean, these are, these are facebook chatbots that are produced by meta, presume, presumably, and presumably are labeled as ai, but how do you know that the comments that you're reading on Facebook that aren't labeled AI are not AI? Like that's? My bigger worry with this is that is that how much of the stuff that you read online and comments and all the rest of it could be generated by AI that you don't even know about, that you don't even know there's AI.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1074.197,
+      "endTime": 1080.732,
+      "text": "Well, a hundred percent. And I've talked quite a lot about my own battles with, with trying to work out what's real and what's not,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1085.925,
+      "endTime": 1102.788,
+      "text": "and I have moved to a point where I'm, if not assuming, at least questioning that any, any comment, any, you know, even even not just comments, but actually even if you're looking at written media, is that article even being written by a person? Not necessarily you know whether it's ai, but whether it's a bot, whether it's being created as misinformation.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1102.848,
+      "endTime": 1107.396,
+      "text": "so or ai assisted or ai assisted.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1107.436,
+      "endTime": 1109.38,
+      "text": "Yeah, yeah, yeah, exactly you know,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1115.332,
+      "endTime": 1137.699,
+      "text": "incident 604. This is a. This is a really worrying one. This is from 2023. So a Quebec man was sentenced to over three years in prison for using AI, deepfake technology, to produce synthetic child pornography. He created videos by superimposing children's faces onto other bodies, adding to the challenge of policing digital sexual exploitation",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1142.345,
+      "endTime": 1156.466,
+      "text": "sexual exploitation. This case marks a disturbing use of ai and criminal activities, raising concerns about digital safety and the vulnerability of children's images online wow yeah, I mean it's. I almost think maybe we just leave that one there rather than trying to comment on it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1156.507,
+      "endTime": 1229.038,
+      "text": "I think it kind of speaks for itself, um it's a super complicated and tricky area which I almost don't want to get into, um, but it's something that we have to face, which is that, with the proliferation of ai and ai image generation and, at the end of the day, like whether, whether closed source models like um, dali and and, and some of the big models like mid journey, they'll refuse to generate these kinds of images, but there are open source models that will allow you to produce this kind of imagery and I, you, you know, I don't know what the solution is there, like it's a. It's a really tricky subject area where you know, like you say, we almost don't want to get into it, but it needs addressing and I, I, you know this is kind of one for lawmakers, I think, where it's like okay is is is ai generate generated images in this respect kind of worse than the real thing?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1229.178,
+      "endTime": 1275.505,
+      "text": "like I don't know, it's complicated I just want to finish this one off on a. This is from uh zvi moshevitz's Don't Worry About the Vase or Don't Forget the Vase. One of those two, me and Jimmy, have serious brain problems From his. I think it was last week actually not this week, but last week's Substack so this was a quote not from him, from someone called John Arnold. My theory is that deepfake nudes, while deeply harmful today, will soon end sextortion and the embarrassment of having compromised real nude pics online. Historically, most pics circulated without consent were real, so the assumption upon seeing one was that AR tools have made it so easy to create deepfakes that soon there will be a flood.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1275.906,
+      "endTime": 1292.406,
+      "text": "The default assumption will be that a picture is fake, thus greatly lowering any shame or even the real ones. People can ignore sextortion attempts of real photos because actually audiences will believe everything is fake. Hopefully that's where we end up. It's not an ideal world, but it's better than the. The alternative",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1297.652,
+      "endTime": 1333.636,
+      "text": "incident 255 shot spotter audios were previously admitted to convict an innocent black man in a murder case in Chicago, resulting in his nearly one year long arrest before being dismissed by prosecutors as insufficient evidence. I'm not actually sure why it needs to quote that it was a black man, because the issue is that they were using audio to correct to convict an innocent man in a murder case. But I read it out as it's in the uh, as it's in the database, written like that well, I think it's obviously due to like.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1333.656,
+      "endTime": 1344.02,
+      "text": "In my view, it's due to racial tensions in the us and the fact that, like, there's a lot of complications around the fact that black people are far more likely to get incarcerated, and all the rest of like, there's a lot of complications around the fact that black people are far more likely to get incarcerated, and all the rest of it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1344.04,
+      "endTime": 1357.63,
+      "text": "There's a there's a lot, there's a lot to unpack there, but this is a 2020 um incident as well, so you, you bang on with that because that was right in the heart of black lives matter exactly, and it's a.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1357.71,
+      "endTime": 1371.985,
+      "text": "it's notoriously been a historic problem in the US, but I think, irrespective of the skin colour of the person involved, this is something that potentially could increasingly become a problem.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1374.75,
+      "endTime": 1385.334,
+      "text": "I mentioned it a couple of minutes ago, but the Capture a really really good bbc drama that literally delves quite deep into this kind of area",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1390.39,
+      "endTime": 1417.472,
+      "text": "incident 234, the ways app that's w-a-z-e was blamed by los gatos town residents for contributing to high wildfire hazard risks via allegedly routing or routing, depending on whether you're British or American weekend beach-going drivers through their neighbourhoods, effectively choking off the single escape route in the event of a medical emergency or wildfire, and that's from 2019.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1419.227,
+      "endTime": 1420.451,
+      "text": "So sorry, I didn't.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1421.706,
+      "endTime": 1429.232,
+      "text": "Yeah, so basically the app, the artificial intelligence on the app Waze app, I imagine, is some kind of.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1430.575,
+      "endTime": 1431.017,
+      "text": "Navigation.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1431.185,
+      "endTime": 1485.134,
+      "text": "Navigation system. So at a time of high wildfire hazard risks, it had rooted people through the town and basically created a choking off of of the town at a time when people may need to escape because of wildfires. So I think this example you know it's not when I first read this I actually thought that it was saying that it was sending people on a route through wildfires, but I think that the risk there is the same, that the artificial intelligence algorithm is not going to be able to. To understand understand the nuance of those kind of things and that's why I think this was a really interesting example is, you know, you would need a person to even think about the fact that sending them through the town would be an issue only a human would think about, and not any old human, a particular human with a particular set of knowledge would think about the fact that.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1485.174,
+      "endTime": 1516.089,
+      "text": "Well, hang on, we need to keep that exit clear because this time is a particularly, you know, risky time for wildfires. So it it's a good example, because it's where an algorithm perhaps is not able to and I don't say we always say let's not say ever, but in its current format algorithms are not able to and I don't say we always say let's not say ever, but in its current format algorithms are not able to have that kind of nuance, and it could have created a, you know, a major and major issue and I and I feel like this definitely applies to ai, but I don't think it is ai as in as in.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1516.329,
+      "endTime": 1534.551,
+      "text": "What I mean by that is like these algorithms exist in apps already and they're not. They're not really AI. What we're talking about is a GPS app that sees that there isn't any traffic going through this town and then and then it diverts people through this town because it thinks it's a it sort of is. Ai.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1535.091,
+      "endTime": 1547.817,
+      "text": "Well, it kind of is, In a form it's not. It's not AI in the context of what we usually talk about, but it is it is artificial intelligence because it's not a, it's not AI in the context of what we usually talk about, but it is artificial intelligence because it's not a human that's making, it's an algorithm. That's not a human.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1547.837,
+      "endTime": 1584.985,
+      "text": "So it's a kind of AI. Yeah, it's more of an algorithm, but you know, and that's a limitation of not enough information, because if it had the additional information to say, don't go through this town because it's, you know, on fire, basically then it wouldn't do that. But this is exactly the alignment problem that we've talked about a little bit previously, which is that how do you perfectly align an AI or one of these algorithms? Because it's not perfect and it doesn't have all the information available to it and it doesn't really understand what we're looking for and doesn't have all the information available to it and it doesn't really understand what we're looking for and doesn't have that human touch.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1586.647,
+      "endTime": 1600.132,
+      "text": "Incident 444. This goes right back to 2003. Acting on the recommendation of their Patriot missile system, american Air Force mistakenly launched the missile at an Allied UK Tornado fighter jet, which killed two crew members on board.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1600.966,
+      "endTime": 1624.339,
+      "text": "Yeah, I mean, mean this is way more scary. This is like this is, you know, and the last example you gave was kind of scary, but this is way more scary, like as if the military start introducing and implementing ai in their systems, then at what point does that go wrong? And this example is kind of illustrative of the potential dangers there.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1624.98,
+      "endTime": 1661.492,
+      "text": "Yeah, I mean it speaks for itself. I think it's not one that we need to to go into much detail on, but just to say, you know, as we become more advanced, the algorithms and the AI systems become more advanced and in one sense, there is you know potentially well, they will be more safe. On the other hand, as they become more advanced, there is far more likelihood of them to, you know, make a decision, and then being empowered to make that decision means the counter argument is it's more likely for them to, you know, do something similar and on a larger scale. I mean this is tragic. It killed two members, but it's a one-off.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1662.106,
+      "endTime": 1673.595,
+      "text": "We could potentially be looking at with automated systems, you know, mass launch of swarm drones or missiles, with almost unthinkable consequences yeah, and I I don't.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1673.755,
+      "endTime": 1696.317,
+      "text": "I mean I it sounds horrendous and I I hope it doesn't come to pass. But I don't think it'll be that long before we see this kind of news article or something like this in the news, where it's like AI made a decision to wipe out a town, or something like that, and I hope that doesn't come to pass, but my feeling is that it won't be that far down the road.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1700.205,
+      "endTime": 1729.353,
+      "text": "Incident 724, three reportedly fake journals published by the adult and academic publishers manipulated scopus ratings by extensively cross-citing each other and using ai generated papers filled with buzzwords. These journals, placed in the top 10 of scopus's 2023 site score philosophy list, featured fake authors, affiliations and grant numbers. This manipulation pushed legitimate journals to lower tiers, affecting academic evaluations and awards.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1731.186,
+      "endTime": 1747.911,
+      "text": "Affecting academic evaluations and awards. You said at the end there so this is, you know. I mean again, this is not necessarily something that's just born out of AI. There are scientific papers that have been influenced by",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1751.195,
+      "endTime": 1759.317,
+      "text": "dubious kind of results and dubious academia in the past. But I think AI definitely magnifies the possibilities here.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1760.125,
+      "endTime": 1802.909,
+      "text": "Yeah, I mean in this example because we don't know, I guess, what the journals are about. It's maybe not a huge issue in terms of the consequences of it are not huge. But if that was a article about, I don't know, a military article, a medical article, you know, you can think of examples where the cross-siting each other and pushing themselves up a list of charts and getting themselves increased grants and you know the manipulation, just creating essentially more and more, not just not. Yeah, exactly not not necessarily that it's more risky, but just creating more and more, not just not yeah, exactly, not not necessarily that it's more risky, but just creating more and more hype around it.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1803.33,
+      "endTime": 1820.612,
+      "text": "And then you know, we talked, I think, a couple of weeks ago, about this idea of you know, a large language model that pulls all its data from from scientific articles and journal articles, and how well you know it's completely trustworthy. Well, this shows that already it's not completely trustworthy, and that happened this year.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1820.992,
+      "endTime": 1845.756,
+      "text": "So you know, this is a a topical one yeah, and I mean like just quickly on that, I think this is not necessarily a problem that's been created by ai. There's previously been problems with scientific and like with journals and scientific journals and even scientific publications and so, but I think AI magnifies the problem.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1845.937,
+      "endTime": 1846.117,
+      "text": "Yeah,",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1850.086,
+      "endTime": 1891.01,
+      "text": "Incident 708. An AI transcription software error in a Genoa bribery investigation incorrectly recorded illicit financing instead of licit financing, which could have significantly impacted the case. This mistake, discovered during a review, is an example of the risks of relying on ai in judicial settings. I chose this one because the translation episode that we did with chris. He talked about how when he was translating Japanese legal documents using party A, party B and getting those mixed up could completely change the whole document and have huge implications and I thought this was a really good example that fitted in with that.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1891.091,
+      "endTime": 1893.575,
+      "text": "Where it's two letters, it's an I and an L.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1893.775,
+      "endTime": 1944.256,
+      "text": "At the beginning is the difference, but in this example it actually I think it was discovered, so it did not affect the case, but potentially you could see something being thrown out of court for that yeah, and again, like, if you start, this comes back to, I think, the episode with eddie, really, where he was saying you know, you, you ultimately like and it wasn't just eddie, but like previous episodes where taking the human out of the loop completely but like you start to look at generating massive problems because ai just doesn't even the most sophisticated ai is capable of making mistakes and doesn't unfortunately doesn't have that human kind of like.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1944.897,
+      "endTime": 1961.358,
+      "text": "Oh, I just need to double check that, I just need to actually just give it another once over. And yeah, what am I trying to say here? It's like, it's like that kind of like human intuition that says hang on, there's something not quite right with this.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1961.378,
+      "endTime": 1999.337,
+      "text": "It's the gut. It's the kind of gut check. I remember my dad saying this about how, when you've made a decision, you do that kind of like one final check in your gut and it something sometimes doesn't feel right. It's that, it's that something doesn't quite feel right about this. I just noticed something, and then when you go back you pick it up because you're just so used to it maybe. Maybe you know algorithms will pick that up in time and maybe this is a again an example of one that you know, as they become better, it will, this will be less of a problem, but it is a concern and and we said, I think, in the legal episode about how it only takes one incident like that to completely destroy trust.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1999.659,
+      "endTime": 2007.368,
+      "text": "Yeah, and once you've destroyed trust, then whoever's creating that model or creating any of the models, you know it's going to take a long, long time to rebuild that.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2007.729,
+      "endTime": 2016.437,
+      "text": "Yeah, and and and, just to allow like to, to sort of like continue that a little bit like. This is something I've experienced and everyone's experienced at work where, like,",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2020.005,
+      "endTime": 2049.271,
+      "text": "you're so entrenched in what you're doing like with a lot of the stuff that I do I work with data and you're so entrenched in what you're doing that you don't notice the simplest mistake and then you present it to your boss and they're like hang on, and they just notice something that's not quite right submerged in it yeah, and I feel like that. Like that's the thing with like these ais is like they do, they make that same mistake where they're like they don't, they don't pick up on something nuanced, and then you show it to somebody and they're like well, hang on a minute, this is clearly isn't right and so it's a human thing as well.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2049.371,
+      "endTime": 2068.535,
+      "text": "I guess is what I'm saying. Um, but yeah, like there is a danger where you just say okay, we trust the ai, and then it's going to make huge, like potentially huge mistakes that have huge ramifications, and it's just down to, like that, what you said like an I and an n versus an n and I",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2073.01,
+      "endTime": 2074.691,
+      "text": "incident 676.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2074.952,
+      "endTime": 2121.32,
+      "text": "A deepfake video falsely depicted president fererdinand Marcos Jr of the Philippines ordering an attack on China, exacerbating tensions in the West Philippine Sea. The video, designed to mislead, was promptly debunked by the Presidential Communications Office. Now I think this is one of those where most people, most people, would probably see that this was a deepfake and I think you would hope that certainly people in any positions of importance where this could have an effect, would see it as a deepfake. But some people would see that and you know whether it's debunked or not. Maybe they never see that debunking and it sticks with them, right, you know whether it's debunked or not, maybe they never see that debunking.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2121.34,
+      "endTime": 2150.285,
+      "text": "Well, it sticks with them, right? Yeah, and this I mean literally episode on election interference. It talks about this exactly and the problem is okay, some of the stuff in that episode was fairly simplistic and not that sophisticated, but at what point does it you you know? At what point do we not know? At what point do we not understand or know that it's a deep fake and that's quite frightening?",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2154.433,
+      "endTime": 2196.169,
+      "text": "incident 719. On april, the 4th 2024, x, formerly known as Twitter. Ai chatbot Grok with a K generated a false headline claiming Iran strikes Tel Aviv with heavy missiles, which was then prompted on X's trending news section. This misinformation, fuelled by user spamming of fake news, falsely indicated a serious international conflict. The incident highlighted a significant risk associated with relying on ai for content curation and demonstrated the potential for widespread dissemination of harmful misinformation yeah, and we uh I mean similar to my last comment this is gonna become an increasing problem.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2196.971,
+      "endTime": 2214.622,
+      "text": "Um, it's going to become more and more frequent. It's going to be in video, audio text form. You know, this is something that I don't know what the solution is and what the answer is long term, but it's going to become a increasing problem is it?",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2214.682,
+      "endTime": 2259.055,
+      "text": "there's a theme to a lot of these and and it might seem like we're kind of going over the same thing. The reason I thought this one was interesting was because the way it had been picked up by the trending news section. So you've got, you know, the chatbot creating the false headline, but then you've got the algorithm picking that up and you've got a kind of cycle, then user spamming of fake news, and then that pushes up the chain even further, and so, without again a human in the loop to kind of pick this stuff up, or maybe a different ai that's picking it up. It's pushed up really quickly and I think when you see something that is at the top of the news section, I would probably think that that may result was creditable.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2258.991,
+      "endTime": 2259.988,
+      "text": "Yeah, I think you're credible sorry.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2259.924,
+      "endTime": 2276.916,
+      "text": "I think that that meant it was credible. Yeah, I think it was credible, sorry. I think that would make me think it was credible. And maybe not now, because maybe I'm changing my mind, but a few weeks ago anyway I probably would have said it was credible. I should say I don't use Twitter or X anymore because it's hell on earth.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2277.606,
+      "endTime": 2313.653,
+      "text": "The level of cynicism you have to have nowadays and and and, to be honest, like this is where, like again going back a few episodes, we've talked about how you can't believe mainstream media, but but actually, for me, I'm turning more towards mainstream media because I their principles and the way they do journalism, at least it's like you feel like it's a bit more trustworthy well, also, I kind of feel like maybe I'd just rather take the blue pill, because you take the red pill you go down such a rabbit hole.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2314.715,
+      "endTime": 2335.614,
+      "text": "at least with mainstream media you're you're being shielded from some of the stuff that could be true or could be absolute crap and you don't know. And so at least with mainstream media it kind of feels like once you've picked your poison, at least you're being given stuff that is within a kind of set of boundaries. Yeah.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2336.175,
+      "endTime": 2353.839,
+      "text": "Yeah, yeah. So. So so you you know if you're okay, like if you're, if you're reading left wing, right wing media, whatever, you have to sort of be aware that it's got that slant, but like there is a place for like genuine, like journalism that you can trust you keep.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2353.939,
+      "endTime": 2383.189,
+      "text": "You see this stuff out there a lot on social media about you know, oh, this person's awake, they've woken up. They know the truth. Fuck off, fuck off. Like none of us know the truth. That's the reality. None of us know the truth, like we all believe some spam, some bullshit, and we all believe something that you know, maybe it is true, maybe it isn't true, but we're all biased yeah, so of course we are yeah it's just this idea that some of us, you know, we know the truth. No, you don't.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2383.309,
+      "endTime": 2390.975,
+      "text": "You don't fucking know anything I agree, I agree like yeah, unless you work for the department of defense or the cia or mi6.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2391.275,
+      "endTime": 2392.566,
+      "text": "You don't know anything that's going on.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2392.746,
+      "endTime": 2426.317,
+      "text": "So you know, don't be so proud of yourself yeah, and that's the best way to think in general, especially in uh, you know, in a world that we're about to enter into, where anything can be fabricated is I don't know anything and start from that point of view and then try and figure out be humble try and yeah be humble, be humble and try and build a ladder, try and build some kind of like worldview. That is, at best you know, 70, 80 percent",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2430.312,
+      "endTime": 2433.558,
+      "text": "we're going to finish on incident 662.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2434.159,
+      "endTime": 2480.365,
+      "text": "This is my personal favorite one no, this is my personal favorite we didn't land on the moon. Uh well, like we just said, take everything with a pinch of salt, be cynical about everything. Don't get my dad started on it. He's um, he's definitely sure that we landed on the moon. So when china lands on the moon next year, we'll we'll be able to say um, we were there first well, they were not us, because we didn't go I didn't, and we're not american either I actually went, you went yeah, when the chinese go, they can see if the footprints are still there. So back to incident 662. An ai powered website of the washington state lottery inadvertently produced a soft core pornographic image of a user, leading to the site's immediate shutdown out of caution.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2480.946,
+      "endTime": 2498.473,
+      "text": "There's no more context to this example than that. I don't know how it, how it created this image of the user, how it knew what the user looked like, but it did, and so my prize for my favorite incident goes to the was state lottery. Well done.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2499.576,
+      "endTime": 2501.648,
+      "text": "Yeah, I have nothing more to say.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2504.336,
+      "endTime": 2545.665,
+      "text": "So yeah, so I guess that's it. This is a shorter episode than usual. We'll maybe revisit this in a few months time or a year's time, when there's some more stuff out there. I mean, there's only about 800 entries, so this obviously doesn't cover everything and it relies on people to put their entries in there, but it's a really interesting read. You can have a look. Ai Instant Database. It's got some funny things in there. It's got some really troubling things in there. It obviously doesn't cover everything, but I think these are some good examples and the thing is they fit with the themes of things that we talk about on the podcast every week, the one that we talked about disinformation and election interference.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2545.966,
+      "endTime": 2573.688,
+      "text": "I think that one really kind of sums up the things that are here and now. So forget the existential threats for a minute. These are the kind of things that are affecting you know, the world and affecting people's lives on a day to day basis. So check it out if you're interested. If you're not, then we will check it out again for you in maybe six months'time. So thanks everyone for listening. This will be an interesting song today, so enjoy this one and we will see you next week.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "PavaorottAI",
+      "startTime": 2583.618,
+      "endTime": 2615.015,
+      "text": "Binary whispers, silicon dreams, ai's growing faster than it seems. Incidents locked a digital trail, stories of triumph, stories of fail. Archiving the future one glitch at a time. Learning from errors. The machine's paradigm, every bug, every flaw, every line of code Guiding us forward down this digital road.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "PavaorottAI",
+      "startTime": 2625.325,
+      "endTime": 2650.813,
+      "text": "Facial recognition gone astray, chatbots learning the wrong things to say, autonomous cars in a moment of doubt. The database catches what we can't figure out. Archiving the future one glitch at a time. Learning from errors. The machine's paradigm, every bug, every flaw, every line of code Guiding us forward down this digital road.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "PavaorottAI",
+      "startTime": 2658.545,
+      "endTime": 2687.87,
+      "text": "Facial recognition gone astray, chatbots learning the wrong things to say, autonomous cars in a moment of doubt. The database captures what we can't figure out. Archiving the future one glitch at a time. Learning from errors. The machine's paradigm. Every bug, every flaw, every line of code guiding us forward down this digital load.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "PavaorottAI",
+      "startTime": 2694.796,
+      "endTime": 2767.998,
+      "text": "Biased, unintended harm, false positives setting off the alarm, privacy breaches, data exposed. The incidents pile up, but nobody knows. Archiving the future one glitch at a time. Learning from errors. The machine's paradigm. Every block, every flaw, every line of code Guiding us forward down the digital road. In the static, between zeros and ones, lies the wisdom of a thousand suns. Every failure, every success Teaches us how to progress From deep mind streams to GPT's pros. The database watches as AI grows. Accountability in the age of machines, transparency in the code unseen. Archiving the future one glitch at a time, learning from errors, the machine's paradigm, every bug, every flaw, every line of code guiding us forward down this digital road",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "PavaorottAI",
+      "startTime": 2771.625,
+      "endTime": 2775.488,
+      "text": "NI Incident Database Learning, evolving. Protecting",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "PavaorottAI",
+      "startTime": 2798.112,
+      "endTime": 2802.06,
+      "text": "Every failure. Everything's a amateur. Protecting, protecting.",
+      "chapterIndex": 16
+    }
+  ]
+}

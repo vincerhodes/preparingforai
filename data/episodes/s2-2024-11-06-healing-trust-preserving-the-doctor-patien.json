@@ -1,0 +1,1149 @@
+{
+  "slug": "s2-2024-11-06-healing-trust-preserving-the-doctor-patien",
+  "buzzsproutId": "16058390",
+  "title": "HEALING TRUST: Preserving the Doctor-Patient Bond in a Digital World with Dr. Gilbert Xie",
+  "date": "2024-11-06T14:00:00.000Z",
+  "season": 2,
+  "durationSec": 4350,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16058390-healing-trust-preserving-the-doctor-patient-bond-in-a-digital-world-with-dr-gilbert-xie.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail This episode is the first of many looking at AI and healthcare but it turned into much more than that as we touched on medical ethics, the role of a doctor, the broken delivery of ‘western’ medicine and the erosion of trust in healthcare. Our guest this week is Dr. Gilbert Xie, a trailblazer in blending AI with Western and Chinese medicine to create personalised patient care. Most importantly Dr. Xie is a doctor who truly cares about doing what is best for his patients. We tackle critical issues such as the erosion of trust in healthcare, the ethical implications of AI in diagnostics, and the need for regulatory oversight in a rapidly evolving landscape. Dr. Xie's unique perspective, rooted in British general practice and traditional Chinese medicine, offers fresh insights into meeting local healthcare needs and his own embracing AI as an ally rather than a threat. As we dissect the complexities of the healthcare industry, we examine the intricate relationships between insurance companies, pharmaceutical firms, and the potential misuse of advanced diagnostic tools. Highlighting Assim Malhotra's eye-opening documentary \"Do No Pharm,\" we question whether profit is prioritized over patient care. Dr. Xie sheds light on how integrating Western and Chinese practices can enhance preventive care, while addressing the looming challenges posed by an aging population and declining birth rates. The conversation emphasizes the necessity of maintaining trust in the doctor-patient relationship, especially in an era of increasing patient knowledge and AI integration. The journey doesn't stop there; we explore the growing interest in alternative medicine, spurred by a desire for holistic approaches that go beyond symptom management. Traditional Chinese medicine, dietary changes, and holistic strategies are gaining traction as patients seek more personalized and preventive care. Dr. Xie's reflections, coupled with insights from Dr. Scheer, reinforce the invaluable role of dedicated doctors who prioritize patient-centered care. This episode will leave you pondering the future of healthcare, urging you to challenge conventional practices and embrace a comprehensive approach that blends modern science with traditional wisdom. Dr Gilbert Xie Doctor with a cure[1]- Chinadaily.com.cn",
+  "summary": "The first episode in the healthcare series features Dr Gilbert Xie, a Beijing GP trained in the NHS, who uses AI for bite-sized clinical updates and real-time voice translation with patients. He argues the doctor's role is shifting from omniscient authority to health partner, warns that protocol-driven, AI-like medicine breeds patient dissatisfaction, and defends integrating Western and Chinese medicine pragmatically at the individual level.",
+  "keyTalkingPoints": [
+    "Dr Xie uses AI two ways in clinic: concise summaries to refresh clinical knowledge in one or two minutes, and live translation so patients can express anxiety more fully",
+    "Patients now often know as much as their doctor; trust, not information, is why they still come — the doctor becomes a health partner, not an authority on an altar",
+    "Bureaucratic protocols are already making doctors behave like AI; further AI-like automation will only increase patient dissatisfaction",
+    "AI will help with cancer-slide diagnosis, genetic treatment planning and robotic surgery, but primary care's hidden agendas and rapport need humans",
+    "Half of symptoms that reach a doctor cannot be solved by Western medicine alone — Xie works down the evidence pyramid to what actually helps the individual patient"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Healthcare is one of the few areas where AI and robots can genuinely help, given aging populations and shrinking workforces",
+      "Distrust of medicine is a current problem of profit incentives, not an AI problem",
+      "Doctors should see AI as a resource that makes their lives easier, not something to fear"
+    ],
+    "matt": [
+      "He used to see healthcare as the number one AI opportunity, but now worries diagnostics will be abused by big pharma and insurers for profit",
+      "The way Western medicine is delivered is broken — protocol-following doctors are already indistinguishable from an AI",
+      "He has come to buy into Chinese medicine after a decade in China and studies it most nights"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-11-06-healing-trust-preserving-the-doctor-patien-1594.836-ai-robots-assisting-with-surgery-are-coming-and-",
+    "s2-2024-11-06-healing-trust-preserving-the-doctor-patien-2882.284-as-doctors-roles-become-more-ai-like-under-burea",
+    "s2-2024-11-06-healing-trust-preserving-the-doctor-patien-206.627-healthcare-systems-will-come-under-increasing-pr"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Dr. Gilbert Xie",
+    "Anya Cartwright"
+  ],
+  "chapterCount": 7,
+  "turnCount": 153,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Introduction to AI & Healthcare series",
+      "startTime": 42
+    },
+    {
+      "title": "Guest Interview- Dr. Gilbert Xie",
+      "startTime": 758
+    },
+    {
+      "title": "Integrating Western and Chinese Medicine",
+      "startTime": 3078
+    },
+    {
+      "title": "Navigating Evidence-Based Medicine and Patient Care",
+      "startTime": 3388
+    },
+    {
+      "title": "Closing thoughts",
+      "startTime": 4075
+    },
+    {
+      "title": "Medic....Go!!!! (Outro Track)",
+      "startTime": 4149
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 40.432,
+      "text": "Welcome to Preparing for AI the AI podcast for everybody. With your hosts, jimmy Rhodes, and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI, governance and alignment. Urgent need for safe development of AI, governance and alignment. Doctor, doctor, give me the news. I've got a bad case of loving you. No pill's going to cure my ill. I've got a bad case of loving you. Welcome to Prepaying for AI the AI podcast for everybody, with me, matt Cartwright, and me, doctor Rhodes.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 41.641,
+      "endTime": 111.241,
+      "text": "Well, this week we finally have started our kind of mini healthcare series. We've been talking about this for a long, long time, I think, as my kind of views on the way that AI and healthcare would kind of go together and as kind of the healthcare industry has become more of a focus of certain areas of the internet. This has become one that I've been more and more interested in doing, and we are today interviewing a doctor who I've known for a very long time, dr Gilbert Xie. We've been trying to get this interview for quite a long time. I think it is incredibly interesting. Genuinely, I think it's the best interview that I've ever done, not from the point of view of necessarily being the funniest interview or being the funniest interview or being the most radical, but I think it is an interview in which we touched on topics that moved a little bit away from AI, but we talked about kind of medical ethics, about the medical system, about how you can sort of utilize AI, western medicine, chinese medicine together, but the big thing that came out on it was the importance of a good doctor that you have trust in, and trust has been something we've talked about a lot.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 111.301,
+      "endTime": 142.804,
+      "text": "So I really hope people enjoy the interview. I thought it was fascinating, but it's, for me, was quite moving because we interviewed someone who really cares about their profession but who is trying to still offer, um, you know, kind of tailored care, but do it in a way that adopts different kinds of medicine and is already kind of using ai. So it'll be really cool. But before we get onto that, we'll just have a bit of a chat, I think myself and jimmy, about um, sort of healthcare and ai and this kind of, like I said, mini series of of episodes that we're hoping to do over the next few months.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 143.627,
+      "endTime": 174.29,
+      "text": "Yeah, and I haven't heard the interview yet, but from hearing some snippets and stuff, I feel like this dovetails pretty well with some of the stuff we've said in the past about AI and medicine, which is that we're living in a world now where people are having less and less kids. People are talking about a population crisis where actually population is going to start to decline quite rapidly. Kids there's a, you know, people are talking about a population crisis where actually population is going to start to decline quite rapidly in the near future in a lot of the Western world, in countries like China, and actually there's going to be a low.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 174.31,
+      "endTime": 206.547,
+      "text": "There's going to be less and less people to work, there's going to be a smaller workforce and an aging population. So one of the few areas where AI potentially robots when they get their act together and these kind of technologies can actually really help in this industry, because it's an industry that's going to get put under more and more pressure. It's already under a lot of pressure. If you look at the UK, if you look at the US, many other countries, the healthcare systems are becoming Japan as well. Healthcare systems are becoming increasingly under pressure and in the future that trend is going to continue.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 206.627,
+      "endTime": 227.118,
+      "text": "Healthcare systems are becoming Japan as well. Healthcare systems are becoming increasingly under pressure and in the future that trend is going to continue because, as I said, we've had the baby boomer years. That generation is now aging and obviously they were called the baby boomers for a reason. So it feels like AI is something that needs to be adopted relatively rapidly in this field, something that needs to be adopted relatively rapidly in this field, and so I'll be honest,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 230.34,
+      "endTime": 253.255,
+      "text": "I hope some, you know, I hope quite a few doctors are listening, because it's this is something that can actually help you. It's not something to necessarily be scared of. It's something that you can use as a resource. It's something that people can use as a resource as well nowadays to like understand their own body, understand their own ailments, that kind of thing. And I think you know, I think there isments that kind of thing, and I think you know, I think there is a maybe in some areas in the industry there is a bit of a reluctance to adopt these kinds of technologies, um, as there is in other industries as well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 253.275,
+      "endTime": 265.184,
+      "text": "That's not just medicine, um, but I think it's. You know, we need to get over that fear and we need to start thinking about these tools as things that can help us and assist us and actually make our lives easier.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 266.347,
+      "endTime": 305.266,
+      "text": "Yeah, I think yeah, if you, if you, if you asked me when we started doing this podcast, I would have said that this was probably the number one area where I thought you could just foresee. You know massive positives in terms of the way that ai could make an impact and because you know what you're saying about the demographics. But also you're overburdened. That is an industry that's overburdened. If we take most countries, I can't think of many that I know of where healthcare systems are not overburdened and, like you say, because of aging population, because of chronic illnesses, also because of COVID, one of the things and I think we're going to do an episode where we'll really delve into this stuff.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 305.326,
+      "endTime": 336.925,
+      "text": "But one thing that you cannot deny if you look at the statistics, is the number of people who are now coming out of the workforce on long-term sick, whether that's because of vaccine injuries or because of the effects of COVID infections. That's particularly pronounced in the healthcare industry. So at some point you reach a point that you have all of those factors coming together. You have people coming out of that industry and then, for the same reasons, it's a less attractive industry to work in. You have the demographic issues, you have chronic illnesses. You just get that kind of overload.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 336.965,
+      "endTime": 369.622,
+      "text": "So you need it, you need AI to take some of that burden. But where my thinking has really changed is where I was really optimistic and I still believe that it will. You know, in terms of drug discovery, I think absolutely will be there. In terms of diagnostic tools, yeah, absolutely. In terms of finding, you know, potentially antimicrobials, screening for cancer, you know heart attacks is already kind of stuff. Even the NHS in the UK is already using it to screen for the, the probability of heart attacks. But who's going to own the algorithms and who's going to own the data and who's going to own those diagnostics?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 369.662,
+      "endTime": 432.163,
+      "text": "And when that diagnostic tool tells you you need a stent in your heart or you need statins or you need antidepressants, who benefits from that? You know, and I bang on about this and big pharma, I know, but to me the big danger here is, you know, maybe it's less of a of a risk where you have a country with a kind of social health care model, less of a risk. I don't say it's not a risk, but less of a risk. But in countries where it's an insurance-based model or where you have when actually this is most countries, you know pharmaceutical companies that are dominating it. They are potentially going to have even more control in this way, because you take the doctor out the loop, you take the last kind of step that is protecting and and has a kind of hopefully, some form of morals and some form of of kind of, you know, want to do things the right way, and it just really does worry me that I think there is a potential for this to be massively, massively abused, something that is a real opportunity for a, like a huge improvement through ai.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 432.303,
+      "endTime": 443.386,
+      "text": "I I do really worry that it will be. It will be abused because it will be controlled for the wrong reasons, for for profit yeah, I mean, I, I think that's definitely a danger.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 443.866,
+      "endTime": 457.918,
+      "text": "I suppose what I was talking about is how, you know, this can already be adopted, and there's a lot of examples of AI medicine. You've talked about a lot of them already, like diagnostic tools, that kind of thing",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 466.82,
+      "endTime": 502.491,
+      "text": "not just going to be a sort of a really powerful assistant for doctors, rather than something that's going to be controlled by you know, I don't know like the wrong parties. I I kind of get where you're coming from there, because there's where there's money involved. Um, however, I don't know like I can. I can kind of for me, I can only kind of see upside in this, but I suppose I see what you're saying. So what you're talking about there is, like it can be for want of a better word, I guess trained but programmed like slash, trained a certain way. So it's like you know, you've almost got an AI that's trying out some kind of dogma.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 502.511,
+      "endTime": 550.625,
+      "text": "That's not necessarily the best advice for you, yeah, and I think also there's a risk of kind of lining up big pharma insurance companies, you know, so that you, you have, through these diagnostics, a profile on an individual that gives them also more power to be like. You know they work together and then, um, the insurance provider doesn't insure people for xxx, because the diagnostic tool has identified something which makes them more of a risk, and the pharmaceutical company can then use that to step in and, you know, apply a treatment which is a medication they need to take for the rest of their lives, which they then bill, which the insurance company pays, but they raise their, their, their, you know rates, and so I use I think it's kind of got two, two, two ways.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 550.765,
+      "endTime": 582.307,
+      "text": "One one is one is the kind of pharmaceutical companies being able to push people in the direction of of medications, which already happens, and so you know it's maybe not a big change, but on the other hand, in terms of with the insurance companies, it's like it's the other side of it is also improvements in diagnostics Also, you know, those diagnostics, the more people that are able to then get those checks and those diagnostics, it's also identifying early on factors, which is helpful to them, but it's also helpful to insurance companies to be able to say, well, I'm not going to insure that person, so there are a lot of risks involved.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 582.727,
+      "endTime": 591.716,
+      "text": "I naturally approach things from this point if you're looking at the risk. I think that's always been my way of doing it. But, um, but yeah, I think I think you're talking. I do see the upsides.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 591.856,
+      "endTime": 600.968,
+      "text": "I do see the upside I think not as much as I did. The stuff that you're talking about for me is a current problem rather than an ai problem, though I think we've had this kind of.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 600.988,
+      "endTime": 620.149,
+      "text": "But it gets worse because at the at the moment, let's say, 10%, 20%, 30% of doctors do have those kinds of morals. That is a sort of check and balance that's in place by having the AI without the person in there, like, it's much easier to manipulate. It's already been manipulated, so if you accept that, it's even easier to manipulate.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 622.833,
+      "endTime": 651.821,
+      "text": "Yeah, I totally agree and I think this is a problem that sort of. On the one hand, it's outside of ai, it's not really related to ai, um, and it's about sort of regulation and keeping these companies in check and actually making sure that we're all aligned and they're they're doing the you know pharma companies are aligned with actually, you know, doing the best thing for humans, um, which I don't think they are doing yeah right for humanity rather, I suppose, um which I don't think they are.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 651.861,
+      "endTime": 661.783,
+      "text": "I think we can say aren't, rather than I don't think well, no, in general not not all pharmaceutical companies, but in general, I think we can safely say they're not doing the right thing well, there's a profit incentive, isn't there?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 661.903,
+      "endTime": 678.519,
+      "text": "so, like this is we'll not get into the whole debate now because we could spend half an hour on this whole episode on it but at the end of the day, there's a profit incentive for these companies and so they're driven by profit and that's pretty much that's it for me. Like they are, you know, fundamentally not driven by ethics.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 678.559,
+      "endTime": 702.706,
+      "text": "They're driven by profit, and ethics are a sort of distant second place yeah, I just want, before we, before we start the episode, I just want to shout out there's a film that you need to pay to download at the moment. It's by Asim Malhotra. He's a he was quite a famous doctor in the UK, actually he used to be on TV and he's not anymore because he has a slightly more alternative view which I'm very much aligned with.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 708.965,
+      "endTime": 736.043,
+      "text": "But he's produced a film, a documentary called Do no Farm P-H-A-R-M Fascinating film, very close to the kind of Big Pharma book and film or documentary that was done. I guess it's probably like 15 years ago now. But I just want to give a plug to that because if anyone is interested in medical ethics and the way that the system is working at the moment, have a watch of that film. It's a, it's a really good watch, but you need to pay a few, a few pounds dollars, whatever, to download it because it's, um, it was made independently and, as you can imagine, probably a lot of pressure to not make that film.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 736.845,
+      "endTime": 749.655,
+      "text": "So, anyway, should we move on to, uh, to the interview? Um, like I say, I think this is really fascinating. I hope, hope, people really enjoy it. But, um, it's the first in what I think will be probably three parts on pharma.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 750.061,
+      "endTime": 751.968,
+      "text": "Oh, yeah, yeah, I think at least.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 752.44,
+      "endTime": 756.041,
+      "text": "So, um. So yeah, this is the first part. I hope you enjoy this. I'm looking forward to it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 766.853,
+      "endTime": 769.496,
+      "text": "Okay, so this week we have a very special interview.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 772.92,
+      "endTime": 783.869,
+      "text": "This is one that I've been trying to line up for a long, long time. So, Dr Gilbert Xie. He's based in Beijing, but trained in the UK. So I'm going to ask him first of all to introduce himself, and then we're going to get on to looking at AI and healthcare.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 784.07,
+      "endTime": 801.074,
+      "text": "So, Dr Xie Hello, I'm Gilbert Xie. I was trained as a general practitioner in the UK and been working within the NHS for over 10 years before I moved back to Beijing. I'm ethically Chinese,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 809.76,
+      "endTime": 868.155,
+      "text": "ethically Chinese. I came back to China in 2006 with the intention of developing primary care and general practice in China, which is also what the government wanted to do. Now I run a clinic in Beijing, trying to extend the British-style general practice in China. My second interest is in Chinese medicine, which I started when I was still a medical student and then gradually I tried to integrate that into my practice in England and now in my clinic in Beijing I also have some Chinese doctors helping me, giving me, giving the patients rather, giving the patients Chinese treatments if needed. So I'm very much into trying to extend the British style general practice in Beijing, but with a special edition of Chinese medicine really to suit the local need.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 869.741,
+      "endTime": 904.606,
+      "text": "And I should say it's a pretty unique setup. I think Certainly in Beijing I mean, there may be more of this kind of thing in Shanghai, but this kind of practice that offers, like you say, a kind of primary care experience but is tailored to individuals I think we'll talk a bit more about that later, but it's a pretty unique. So I'm thinking of people who are listening in beijing, um, who are not aware there is an option for them with the the kind of family doctor primary care setup that you would be used to in the uk but, like you say, with a difference because you also embrace chinese medicine as well, and so a more kind of preventative look at health care yes, that's right.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 905.107,
+      "endTime": 946.111,
+      "text": "I think now what my interest is really to find a better way to care for patients. Western medicine has its red scientific, is very good and it does help an awful lot. But there are a lot of situations and it's not a a small percentage that doctors find difficult to meet the need of the patient, and that's the reason why I started to be interested in Chinese medicine. And now, with the AI coming in then, I've been exploring how AI can help me or help my patient to get better care.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 947.574,
+      "endTime": 961.346,
+      "text": "That is a perfect segue, actually, into my first question, which is a very sort of general question around your current experience of AI. So is it something I think you've just answered this that you're using in work already, or is it just something that you use in your personal life?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 961.807,
+      "endTime": 999.284,
+      "text": "I've certainly started using it in my personal life for my children, but I'm also trying to use it in my clinical setting and I can tell you that I've been exploring the AI in two ways. The first one is to use it as a tool inform me of the current situation on certain treatments, certain disease. Give me background information on certain treatments, certain disease. Give me background information on certain new medication. So it's very much like in old days I would use Google to search for this data, using the nice guidelines to search for such data, use Cochrane database to search for such information.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 999.645,
+      "endTime": 1004.178,
+      "text": "Now it's moving on to AI. Ai has the advantage that it gives you a Moving on to AI.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1008.42,
+      "endTime": 1055.248,
+      "text": "Ai has the advantage that it gives you a concise summary in bite-sized pieces that if you only have one minute to two minutes to update or to refresh your knowledge, it will be an ideal way to do it. The second way that I've been using it is for simultaneous translation. In Beijing there are a lot of expats and I can remember last week there's an Arab person who live in Beijing who speak no English and no Chinese and he came in because he had a liver problem and he had a lot of investigations done back home in Saudi Arabia. So I used my AI to help me to do a simultaneous translation between English and Arabic, and he's been coming in several times now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1055.701,
+      "endTime": 1085.795,
+      "text": "So this translation allows me to get a firsthand knowledge on actually what happened to him and what his concerns are, and through the translation he's able to express himself more fully what he's anxious about and I'm able to respond in a way that what kind of steps and plan I'm going to put in for him to meet his need but that's so interesting.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1085.855,
+      "endTime": 1131.144,
+      "text": "I mean it's not what I expected you to say. Actually, it wasn't one of the examples, I mean, when we talked a long time ago, um, about doing this episode, and I think it wasn't a use you had at that time. But I mean that that is the kind of use that translates across. It's not, it's not really a health care use. It can be used anywhere. But you so you're finding that you're finding that simultaneous translation or interpretation, it's quick enough now for you to do that and be comfortable with it. I mean, that was one thing we've talked about, you know, over the last few months was at some point in the very near or the near future, there's going to be devices that will and these will be probably not even with an internet connection that will translate almost in real time and will allow you to have a conversation with with you know very, very small gaps.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1132.026,
+      "endTime": 1145.532,
+      "text": "But now you're using those tools. Is that you know? Are you just using kind of general apps? Is it? Is there still quite a delay on it, or have you found a way that you can do it almost? Because you say simultaneous, that's's very, very quick and makes it almost quite natural.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1146.441,
+      "endTime": 1181.76,
+      "text": "It's not fully natural yet. No, we haven't come to that stage yet and it's certainly not as advertised by Chachi BTS how smooth it was, at least for me. I think there's still a lot of evolution, of training that needs to be done to make it smooth enough. But, as Matt, as you say in the past, we already have translation tools that you can input text or voice message and then you would output as a text that you read. That has been around for a little while, but I found there's still a barrier in terms of communication. If you're reading each other's text, there's not a voice, it's very unnatural, isn't it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1182.222,
+      "endTime": 1203.286,
+      "text": "Now there's a voice, it seems to be closer. It's a spoken language rather than a voice. It's very unnatural, isn't it? Now there's a voice, it seems to be closer, it's a spoken language rather than a text. That, I find, brings the relationship between patient and doctor a bit closer. The gap is a bit less using a voice translation rather than a text translation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1205.284,
+      "endTime": 1238.44,
+      "text": "Yeah, I've talked about this so much with people and on the podcast, but one of the benefits, I think, in this kind of short term, of large language models and the current AI sort of architecture, is we're going to be able to move away from screens and we're going to be able to reduce screen time Because, like you say, text is not a natural way of communicating. You know it's the way we've been forced to do it, but actually language better takes place talking to people and so the kind of things you're talking about at the moment. If we're doing text, you're still having to type in and look at the screen or listen to the response, but you're having to look at the screen.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1238.861,
+      "endTime": 1255.551,
+      "text": "What you're talking about is being able to have those conversations. Like I say, at some point you just clip on the device. You talk to me, we look at each other, we don't need to look at the device and it takes away from you know some of the hundreds of hours of screen time that people have every week, every well, every day, not hundreds of hours a day.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1255.82,
+      "endTime": 1285.152,
+      "text": "There aren't hundreds of hours in a day. Yes, and also talk. I think I found even I'm talking to my iPhone. I can express it in more emotion. You can say more emotion, more sentences, more reassuring words in the verbal form than the text form. In the text form it becomes a bit formal. You cannot say don't worry, I know what your worry is.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1288.185,
+      "endTime": 1300.728,
+      "text": "This seems to be not necessary in the text, but if you do use a voice translation, it comes as part of a natural conversation and that is also being translated.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1301.18,
+      "endTime": 1330.867,
+      "text": "And the patient can not only get the knowledge, know the plan, get the feeling too we're going to move on to trust and trust in the medical profession later, and I think you know here is here is a way that you know, having a face-to-face interaction, that that helps build trust, so it can only be a positive. I want to ask you this is quite a quite a brutal question, but is is ai a threat or an opportunity for the healthcare industry when you first mentioned that I was thinking.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1331.641,
+      "endTime": 1374.166,
+      "text": "I myself do not see it that way. You know Chinese, and Chinese has the term Wei Ji. Wei means the threat, Ji means opportunity. So that's exactly how I see it. I say AI is going to come, whether you like it or not. You can treat it as a threat and try to run away from it, you can try to defend it, but it will come. So my attitude is maybe my interest is trying to find out newer ways that I can do my job better. So I thought AI is now a new tool for me, how I can use it to suit my need, to help me, to help my patient, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1374.186,
+      "endTime": 1384.469,
+      "text": "So you embrace it? Yes. So whether it's a threat or opportunity is yeah. I mean, I think you're kind of right. Whether it's a threat or opportunity, maybe the answer is it depends on what we do.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anya Cartwright",
+      "startTime": 1384.92,
+      "endTime": 1386.444,
+      "text": "Yes, and how we manage it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1386.484,
+      "endTime": 1429.01,
+      "text": "I mean I, I definitely look, I think for, for from my own point of view, when we started this podcast, I would have said that I thought that health care was the number one opportunity and the number one thing in which I thought, you know, I could, could, just I mean I hate that the one of cure cancer, because I think you can never cure cancer because your body is committing the act to yourself, but finding solutions to big problems like antimicrobial resistance, etc. Finding new medications. And then I moved to. Well, actually the issue is the healthcare industry and the way in which it could be weaponized, and it's a threat because it can be controlled and therefore people's health care can be controlled, and I think you're right.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1429.48,
+      "endTime": 1444.506,
+      "text": "Whichever way, I think like that, it will depend on what we do as a society, whether we can find positive uses or whether it ends up as a threat, I mean from a patient's point of view in its current guise.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1452.72,
+      "endTime": 1460.626,
+      "text": "I mean it sounds to me like you're talking about at the moment. It's giving you already a better way to serve patients, but longer term you want to how AI can help us in longer terms or more in immediate terms?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1461.426,
+      "endTime": 1476.798,
+      "text": "I think both. I mean it sounds like because you've given examples actually immediately of what's happening now, but if there are things that you think in the next, in the coming months, I think in AI even a year is a long time in the coming months.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1481.32,
+      "endTime": 1529.791,
+      "text": "But yeah, I guess long-term. Are there any particular things that you're excited about? I think AI is going to be used extensively in healthcare. Maybe I answer your question this way is how is it going to affect doctors and how is it going to affect patient illness behavior? If you're talking about the doctor side, I would further divide it into more hospital medicine, which is more technology-based medicine, and primary care, which is got more humanity involved in this. You can broadly divide into these two emphasis. In terms of hospital medicine, I think AI has already started to be shown to be a useful tool to help clinicians to make diagnosis, especially in the screening, as a way of screening for pathology.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1531.282,
+      "endTime": 1585.57,
+      "text": "There are already reports coming out, say, for a specimen that was obtained from a patient for cancer diagnosis. If you can put the histologist's slides onto the big database, then it could give you an accurate diagnosis of what is the risk of these tissue changes being a malignant cancer, and the reliability is as good as an experienced pathologist. So you can speed up the process and you can also make this service to be used in a much wider setting in places where it's away from national cancer centers, in countries where such expertise is not really available, so this is already happening. This is just an example on the diagnostic side.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1586.171,
+      "endTime": 1590.347,
+      "text": "On the treatment side, of course, you can now integrate more the genetic information,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1594.836,
+      "endTime": 1626.03,
+      "text": "all the drug trials, and try to figure out what's the best treatment plan for patients. In terms of surgery, now there's AI robots that can help to have surgeons to do surgeries. I can see that's going to come and they will come Okay. So, in terms of the technical improvement, ai will help an awful lot in terms of that. Now we've come on to the more community medicine, primary care medicine, where doctors in the communities like me, we are not seeing serious pathology, so to speak.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1629.283,
+      "endTime": 1686.731,
+      "text": "We are not treating serious pathology, so to speak, but we need to manage a lot of the common illnesses effectively. Ai can help us in terms of a lot of primary care screening similar to hospital medicine In the screening process. It can help us in terms of a lot of primary care screening similar to hospital medicine In the screening process. It can help us like cervical smear test is an example of how AI can help us to screen out the suspicious ones. But what AI cannot do for us, or at least in my opinion, is to be able to integrate the patient's concern, anxiety, into the management plan. Ai can, based on the genetics, the DNAs, the past medical history and all the current evidence-based medicine, to give the patient a credible treatment plan, but it does not address what the patient is most concerned about.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1686.971,
+      "endTime": 1700.26,
+      "text": "As a primary care doctor, we always see that people come with a problem. But why do they come now? What is there? What is the main concern? What drives them to come now and not earlier?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1703.468,
+      "endTime": 1726.988,
+      "text": "And so let me think how to express it better. For example, a patient come with a cough or a sudden loss of breath, then we can, as a doctor, we can approach it in a very organically, very medically mechanical way, to go through the textbook what's the cause of cough and sudden loss of breath is? But often patients see their symptoms",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1730.811,
+      "endTime": 1771.167,
+      "text": "only as a way of expressing their symptoms, other concerns, and we have to find out what the hidden agenda of that patient is, so as to give them a more holistic healthcare plan, a healthcare plan that they will accept, and because only if they can accept it they will follow your advice. To do Otherwise, you can give the plan, but if it's not received or agreed by the patient, it will not be carried out and so the clinical outcome will not be improved. I don't know whether I make myself clear on this.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1771.24,
+      "endTime": 1809.647,
+      "text": "Yeah, so you are, and I think this is exactly. I mean, I wanted to kind of cover it later and I think we sort of might move into it a bit earlier, but I think this is where that bringing together Western medicine and Chinese medicine comes into it. Because what you're talking about here is, rather than you know, an AI could prescribe a drug based on the most likely you know scenario. But you know, you just go and you type in the symptoms, it works out the most likely scenario and prescribes a drug and then you go away and AI can replace that. What you're talking about is bringing together an approach that identifies okay, why has this person come in?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1810.14,
+      "endTime": 1842.124,
+      "text": "What are the longer term risks? How can we prevent this happening again? How can we help to treat it now and put together an entire program? And you need the person in the loop because you need I mean, first of all, you need the trust, you need that interface, you need the, the interaction. But, like you say, you need to understand. Why are they here? What are their concerns about? I think, for example, someone's had a cough for for four months. Why have they just come in? Maybe because they've read about long covid? Maybe because they're worried about, um, lung cancer. They've had the cough for four months but they haven't come in because of that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1842.205,
+      "endTime": 1853.482,
+      "text": "So you need to think about not just treating the cough but you need to think about what is the real reason they're there and what is it that they're worried about long-term, and what are the long-term possible effects, et cetera, et cetera. Am I understanding this right?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1854.163,
+      "endTime": 1919.887,
+      "text": "Yes, and I think I would like to add that we now treat AI as a very exciting development, but I see AI as a continuation of an information tool that developed over the last decades. In the past, we would rely on written reports, newspaper reports, to find out what happened. And then there's television, and then the internet comes in, and then we have the Google. We can search for such information, so an ordinary person can access medical information more and more easily. Now there's no barrier in a person who wants to find such information that they cannot find. What I think with AI development as a tool is to make all such information much more accessible, much more easily digestible or, as I said earlier, more in concise, bite-sized pieces that people can now just type in a few keywords and all everything will come up, instead of having to chase up link after link after link to find all the information they need.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 1920.6,
+      "endTime": 1961.734,
+      "text": "Now, when I was working as a GP in Oxford and you know, in Oxford there are a lot of dons, people are very academically at the top tier and so they are no stranger to internet and when I was a GP in Oxford, I have such people coming in with computer printouts of what is the latest what they found on the internet about their symptoms. They already such information already at hand in those days. Without AI and as a role of a GP or as a doctor, you no longer has this elevated authority above them that you know something that they do not know. Those things are gone.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1962.64,
+      "endTime": 2003.461,
+      "text": "This is so, so interesting. I'm 100% bought into what you're saying. I mean, like I say, I think the script we've got for this we're kind of throwing it out the window, which is fine, because I think we're getting on to other things that I want to talk about. I mean, I feel the same. I mean to sort of you know, for full disclosure. You know, we've known each other in a personal context, but you've been my doctor for many, many years and I think one of the things that I've always liked is that you're open to me coming in and saying you know, I've thought about this and I've read this and I've researched this and I think this, and rather than saying oh, no, no, no, you know you'll listen to my concerns, or you listen to my ideas and ask me about what do I want to do?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2003.521,
+      "endTime": 2035.748,
+      "text": "Do you want to try this? Do you want to try that? I don't think you need to do this, but if you want to do it, you can do it. I don't think you need to test for this. I mean, are you comfortable as a doctor, that people because, like you say, it's more and more easy to do it, and I find it actually one of the few things. One of the few positive things in the last couple of years that I find really, really empowering is that I do now feel like I'm able to get information. If I don't believe the mainstream media and the NHS and the CDC, whatever, I can go to alternative sources and I can find that information for myself.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2036.362,
+      "endTime": 2071.051,
+      "text": "I don't have to be dictated to. But then are you, as a doctor, comfortable with me using AI to almost self it's not self-prescribed, but almost a self-diagnose and then to come in with my opinion? Now, sometimes you might have to say, well, no, this is just incorrect or we can't just assume this. But I think that's what you're going to find is that people are more empowered to come in and, rather than coming in and asking you what's wrong with me, they're going to tell you what they think is wrong with them. And so how? How are you comfortable with that? Do you think that's a good thing or is that, uh, is that a concern?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2071.091,
+      "endTime": 2075.688,
+      "text": "because you know it takes away the like you say, it takes away the power from the doctor.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2076.249,
+      "endTime": 2147.606,
+      "text": "No power away from the doctor. No, I think it's the. As a professional person, I never see myself as this godlike halo around me that I have to talk down to my patient because I know more and the patient suddenly find it. And if I suddenly find the patient know a bit more than I do, I feel a bit embarrassed and it became dispensive. This is very old fashioned. Well, it still exists. When I was a medical student I saw that in some of the older generation of consultants, that some of them, some of them behave this way. Now I can see the role of a doctor, role in front of the patient, is shifting In the old days indeed talking about 50, 60, 70 years ago indeed where information are difficult to get and so it's only the privileged, the doctors, who go to medical school, have access to these medical books, understand these medical terms, understand these medical terms, medical jargons, and so they have information that why the public do not know, and they are using those knowledge to help the patients.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2148.248,
+      "endTime": 2212.392,
+      "text": "Now things have changed. Patients know as much, if not more, than you do. What I see my role is is to help. First of all, I am now more at the same level as my patient. I'm no longer high up in the altar. I am on the same level as my patient and they come to me with a health issue and my role is to walk with them through the maze to find the best path for them to resolve their health issue. Now they might have already done a lot of the groundwork preparations, research, spoken to friends, searched on the internet, go into AI, read about the short video. They have done all that. My role is to try to shift through all this information and find out what is the best for that person and then explain why I think that way and then discuss with them to see where they are receptive to such information.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2212.941,
+      "endTime": 2250.726,
+      "text": "As you know each other for years now, if you have those information you find it on the internet you could have just gone away and do it yourself without coming to me. Now why you come to me is because you have this trust in me. I think this is the thing that we have to cherish and we have to really maintain. This is the most important thing between doctor and patient is the trust. If there's no trust, whatever magic pills you prescribe, the patient will not take it. So that trust- takes time If there's no trust whatever magic pills you prescribe, the patient will not take it. Yeah, so that trust takes time to accumulate and this is the most valuable asset between doctor and patient that we have to keep.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2250.981,
+      "endTime": 2277.252,
+      "text": "The important point is how I can make you feel get better. So I see my role as a doctor now is a patient's health partner who has the best experience and the knowledge and the passion to help them to get the best information and how.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2277.432,
+      "endTime": 2324.746,
+      "text": "the best information that helped them and and how to execute those such information in a way that can give them real benefits I mean this, this podcast is not it's not designed to be a, you know, an advert for your practice, but I think, if anyone is listening to this in beijing, um, you should be changing your doctor, um, and coming and using doctors. Yeah, because I think, on the base of what you've just said, like I genuinely I'm quite moved at the last part of the conversation we've had, because I think, as I look at the medical profession and it pains me to see what is happening in across the world particularly, I'm thinking, the uk, because it's where my family are People do not have doctors like this and they do not have this trust.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2325.122,
+      "endTime": 2344.275,
+      "text": "And I want to go back to a point that you were making there about other people knowing more than you do, and I think you've absolutely hit the nail on the head. That, would you admit. You know, as a doctor, you did your training X number of years ago and, of course, you keep up to date on certain things. But if you take, for example, the obvious one, covid",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2347.72,
+      "endTime": 2379.275,
+      "text": "you cannot spend all of your time keeping up to date on every single latest thing about COVID. So there are individuals who will know more Now. They may be wrong or they may be right, but they will have more of an opinion. They will have read more scientific papers and had more opinions on this than you. And if they come to you and say I've researched this, I've not just read something on the internet or watched a video, I've researched this and I've read these papers and I think this and I want this that you have to be humble and accept that they know more because you did your training. You still keep up to date, date, but you cannot read every medical paper on everything every day.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2379.295,
+      "endTime": 2385.578,
+      "text": "You're not an ai, and that's where I will potentially help you because you can summarize the most important stuff. But you're not a machine. You're a human being.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2385.898,
+      "endTime": 2411.331,
+      "text": "that's right. So the ai can help me in terms of, um, as I said earlier, refreshing what I've, what I've learned before, but because not used for long, uh, so for some time, so that I need some to update me, but it also covers my blind spots. As you say, a doctor cannot be no doctors can keep up with all the medical developments, and so AI can help us to fill those gaps.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2414.985,
+      "endTime": 2450.212,
+      "text": "So, essentially, nowadays one cannot say doctors know best. I should rephrase that Doctors always know more than the patient. We cannot say that anymore. I think doctors with their experience in seeing many, many different patients with different illnesses can use the experience to help this particular person in front of them. And let's go back to what you mentioned earlier. Some of the patients come in with a prescription. They only want me to be a clerk to write down those drugs and dispense to them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2450.642,
+      "endTime": 2455,
+      "text": "Yeah, they just want to be fixed. They don't want to know why they just want to give me the medicine.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2456.265,
+      "endTime": 2503.552,
+      "text": "My friend told me this is good, can you prescribe this? And I see this a lot in Beijing. I work in the primary care in the government clinic for field and a lot of the local residents they are the in their 50s, 60s they come in and they just want their doctors to prescribe what they want and the doctor is there only to dictate, like a secretary, what they want. They want this drug and then the second one. Oh, you want these two. Okay, anything else, no, okay. Then they print the prescription. It's very much like taking an order as a waiter, that kind of a relationship",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2506.841,
+      "endTime": 2507.903,
+      "text": "when I was working there.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2512.489,
+      "endTime": 2525.574,
+      "text": "The way that I deal with that is it's fair. You want this medicine. Okay, do you mind telling me why you want this medicine? Who tell you to take this medicine? Have you tried this medicine before?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2528.804,
+      "endTime": 2568.367,
+      "text": "Essentially, you're working backward from the whole medical consultation process. What do I mean? Normally in a medical consultation patient coming with a symptom, you take the history, you do the examination, you make the diagnosis and then you prescribe the medicine. So the prescribing is the last step in this consultation process. What I was doing there was we arrived at the so-called conclusion decision and then I have to walk back to find out what was happening in the beginning so that I can build up the whole picture and the whole process. There are a lot of interaction between your doctor and your patients to discuss what's been going on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2570.224,
+      "endTime": 2600.948,
+      "text": "Once they start talking, then you can start to spread out and talk about why take this, why not that. Once the rapport is set up, then, if you're talking sensibly, patients will start to develop trust in you. This time you might still be prescribing drug ABC, as they require, but second time, when it comes wrong, then you may start to talk to them. Do you really need A, b and C? Why not? A and B would be enough. So gradually you are able to turn the patient's",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2604.574,
+      "endTime": 2623.032,
+      "text": "line of thinking into more aligned with your line, the doctor's line of thinking. But it takes time and that is based on trust. Because the patient trusts you, they do not need to clutch on their drug A, b and C and they let go and trust you to describe what you think is fit.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2623.48,
+      "endTime": 2664.507,
+      "text": "Carrying on on trust or distrust. So I want to expand on this stuff. So I said to you before you know there's so much distrust now in allopathic Western medicine and, let's be honest, largely as a result of the covid pandemic. I think these issues were there before but what's brought them out is the pandemic and you know things like vaccine mandates, the lack of doctors speaking out. You know at the time and now afterwards about some of the frankly awful early treatment protocols, for example in healthcare, um in in um care homes, the current situation we've got chronic illness, excess deaths, people are not willing to talk about potential vaccine harms.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2664.58,
+      "endTime": 2699.962,
+      "text": "I think all these things have damaged that trust. But the main thing I think you know in terms of the system is that people feel that most doctors are not allowed to practice the way they want to. So actually some of the blame is not on doctors. They maybe want to practice differently. I think we can say should they have spoken out about certain things and should people push the system? But most people are working within a system. They're dictated by the protocols set by national health bodies. I mean I compare coming to see you to going into a hospital here to see a doctor, maybe have to see a specialist, and then we'll sit at a screen.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2700.002,
+      "endTime": 2718.713,
+      "text": "I will see them typing in, you know, various bits of information and at the end they'll just print out something and tell me to go and take that medication. How is that different from having an ai doctor? Now, you know, I think you can answer this because I'm saying you're very different from an ai doctor, but we've already moved to that point I when most healthcare situations where the interaction",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2724.68,
+      "endTime": 2734.077,
+      "text": "there's a person pressing a button but they're actually being dictated to by the protocol on a computer screen. So what's the difference between an AI doctor and that individual? Does AI just accelerate that progression or does it lead to more or less trust?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2737.625,
+      "endTime": 2786.762,
+      "text": "from what you described about the latest situation in the NHS in Britain. The same happens in China. There are more and more bureaucratic administrative requirements set by the government that all doctors have to follow. It is sad to see it goes that way and eventually, if they carry on that way, I can see that much of their work can be replaced by AI. Because from what you say and from what I observed is more and more of the doctor's work is become a technical, become a technician rather than a profession. Yes, become a technician. You adjust key information and then press the return key. If it goes.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2786.822,
+      "endTime": 2807.72,
+      "text": "Continue to go in that direction, I can see that AI will be able to do more and more. And now, would that satisfy the patients? No, it will not, because patients go to see a doctor, a live doctor. It's because they found something that they cannot get from AI. Come back to the previous examples People already",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2811.147,
+      "endTime": 2854.69,
+      "text": "who have the desire to get medical information can already get it. Why do they still want to go to see a doctor? I've seen cases in China and I'm sure this happened in Britain as well. Is a person go to hospital, done all these investigations? Have this MRI scan filmed? A pile of hospital investigations and then they take all these results back to see their own GP and ask them to say what should I do, doctor? And you will wonder well, they have seen the hospital specialist. Why do they come back to the community to see a generalist? And I think the reason is the hospital gives them the data but not the care, but not the answer that they want.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2855.261,
+      "endTime": 2876.316,
+      "text": "They want someone, a live person, who is able to help them. They want someone, a live person, who is able to help them. What they want is more than just getting the results. They want someone to tell them what is best for them. I don't think currently, ai is able to do that,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2882.284,
+      "endTime": 2895.026,
+      "text": "and that's why I say doctor's role may become more and more AI-like and that will only generate more dissatisfaction from the patient side. Because they do not want an advanced AI. They want a live doctor to help them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2895.66,
+      "endTime": 2928.508,
+      "text": "Yeah, I sort of hope. So I hope that we drive that rebellion because I think actually almost like adopting it too early can cause some of that rebellion and cause people you know to move away from, from this style of medicine. So I, you know, as someone with a background in western and chinese medicine, you, you, obviously you talked at the beginning about how you kind of combine those, those two things I think more and more people i't know the numbers, it may just be the circles I kind of frequent and they may not represent the majority but I think there are more people who are interested in alternative.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2928.748,
+      "endTime": 2967.231,
+      "text": "It may not be Chinese medicine, but alternative ways of doing things, whether it's focusing on diet, whether it's supplementation, whether it's, you know, acupuncture, moxibustion, whatever different ways, whether it's focusing on diet, on the microbiome. But people have realized, I think the box has been opened. People have realized that going in and just getting something to fix you and being put on statins or antidepressants for the next 20 years is not the answer. So if people are interested in this, how do people get into and I'm thinking a lot of our viewers are in the UK, the US, countries like that how do they get into or investigate other forms of medicine.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2967.78,
+      "endTime": 2986.672,
+      "text": "It's obviously not as easy to find someone like you who combines those two ways. But how do people who want to look at ways to prevent illness rather than just waiting to get sick and be fixed, how do they go about finding a kind of doctor who can help with that? Or do they need to move to beijing and and come to medico first of?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 2987.9,
+      "endTime": 3001.602,
+      "text": "all is this uh, is is what you're saying is uh, trans medicine is more into the preventive medicine sector. Is doing better that way? And then western medicine is more into the therapeutic sector. Do you do do?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3001.903,
+      "endTime": 3038.006,
+      "text": "you do? Is that? Yeah, I think, I mean, I think what? What I'm trying to ask here is if we we work on this hypothesis that there are a lot of people out there who, because of what we've just talked about okay, ai is not fully integrated, but we're already talking about a western medicine system. It's not the western medicine system. It's not the Western medicine system. It's the way the Western medicine system has become. It's now a system where they go to see somebody and they look at a screen and follow a protocol, and that has opened the box to people to realizing, actually, this is not what medicine should be and we don't have family doctors in the way that you know, almost like you operate,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3044.7,
+      "endTime": 3075.753,
+      "text": "or we don't have many of them, unless you're mega, mega rich in countries like the uk, the us, that you know most of western europe. So what I'm saying is for people who've realized that they need a more sort of complementary approach. They want to look at ways to prevent illness rather than just fixing it when it happens. How do you suggest that they get started? Is that you? How do you suggest that they get started? Do you suggest that they look at Western medicine, sorry, chinese medicine theory. Do you suggest that they look at diet? Is there a way that you would suggest for people who want to get into a more alternative approach to their health?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3078.262,
+      "endTime": 3118.645,
+      "text": "Matt. First of all, I do not see Western medicine is lacking in any sort of preventative methods. I think there's. Take an example diabetes. We know the risk factor for diabetes, we know that people should lose weight, we know people should adjust their lifestyle, we know people should be careful with their diet. So this is what we call primary prevention. This is well established in Western medicine. When it's delivered at the point of care, it's a matter of matter. But this information is there, the philosophy is there, strategy is there, the method is there and so on. And expertise is there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3118.68,
+      "endTime": 3159.602,
+      "text": "We have the nutritionists and so on. And expertise is there, we have the nutritionists, and so on. So and this all, of course, a second, what we call a secondary prevention A patient who have the diabetes, how we can prevent heart disease, how we can prevent kidney failure, and so there's this regular monitoring strategies that the NHS has put in to help to reduce the chance of complications. So in Western medicine I think in any form of medicine in general, including Western medicine there's already preventative care, therapeutic care and then the convalescent care. All these three stages are covered Now in theory.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3160.403,
+      "endTime": 3174.443,
+      "text": "Whether it can be delivered is another matter. Now, in the delivery, ai can come in at a certain point and give you such advice. It doesn't give you a continuation of what's happening. It doesn't monitor you what's happening.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3174.664,
+      "endTime": 3198.168,
+      "text": "It can reduce some of the burden. As a positive thing, it can reduce some of the burden on the profession, because one of the issues in countries like the uk is that the medical system is over. You know, it's overburdened, it doesn't have capacity. So ai potentially there, from what you're saying is can take a part of the work and can take some of that burden away. It can't, it can't solve using each, each part of the journey it can.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3198.268,
+      "endTime": 3238.105,
+      "text": "For example, we already have the NHS Direct. We have also this phone-in system to help to siphon people with minor symptoms away from GP care. That's already there. Ai is maybe an additional tool to the repertoire that we already have. That we already have. Okay Now. But in spite of this now all this stress direct in spite of this, the number of people queuing to see the GP is not reducing, it's increasing. You have to think why is that? We already have two to seven of patients. That's the original intention, but why is it not working? I mean, that's what primary care is for?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3238.125,
+      "endTime": 3242.079,
+      "text": "isn't it Stop people going to just queuing up in hospital like a lot of people? That's right.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3242.32,
+      "endTime": 3257.932,
+      "text": "So there is some, I think the knowledge is there is a delivery, why we are not cutting down on the number of GP consultation or illness that requires GP attention.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3261.84,
+      "endTime": 3306.588,
+      "text": "So you're talking about the Chinese medicine. So Chinese medicine has already also has its own prevention mode, also have therapeutic mode and covalent mode. The way me integrating Chinese medicine and Western medicine is how, at the prevention phase, how I can use Chinese medicine and Western medicine, is how, at the prevention phase, how I can use Chinese medicine and Western medicine together to get the prevention protocol or method better. And how me and my team as a primary care team, how to help patients to execute their plan more effectively. I think a lot of cases this is the execution side, how to bring it into action.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3307.36,
+      "endTime": 3314.888,
+      "text": "That is often the limiting step it's difficult to do Patients who have diabetes. They know what they should do but they're not doing it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3315.701,
+      "endTime": 3337.431,
+      "text": "Yeah, you're probably right. We don't want to blame the patients, but you're probably right. I remember talking to my dad about this and he was saying most people want to go in and and be fixed. They want to get given a pill that will solve the problem. They don't want to get told all the difficult things that they need to do. So you maybe you're right that the, that the theory of western medicine is not the problem. It's it's the way that it's being I think it's delivered which way it's being delivered.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3337.751,
+      "endTime": 3339.034,
+      "text": "It's the way it's delivered, which?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3339.054,
+      "endTime": 3356.587,
+      "text": "is why I say it's broken and I believe that I don't believe, I don't not believe in in in Western medicine, but I believe the way it's been delivered is broken. I also think me personally. So again for full kind of disclosure, when I came to China 10, 11, I kind of laughed at Chinese medicine.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anya Cartwright",
+      "startTime": 3356.627,
+      "endTime": 3357.568,
+      "text": "I thought it was quackery.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3358.429,
+      "endTime": 3364.476,
+      "text": "I now spend most nights half an hour studying Chinese medicine and I absolutely buy into it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3367.66,
+      "endTime": 3388.51,
+      "text": "And I wonder, you know, was there something you would say to people listening to this who don't understand Chinese medicine or do think? Well, it's just rubbing a load of herbs in your foot or drinking a funny tea. There are thousands of years of history of this. It works. Is there a way that you could kind of summarize why Chinese medicine is worth considering?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3388.82,
+      "endTime": 3418.569,
+      "text": "If Western medicine can solve all the problems, then we do not need any other forms of medicine. The answer is we cannot, and there was quite a few years ago people were counting. Half the symptoms come to see a doctor cannot be solved. So there's a lot of room for other approaches that we should consider to help a patient better as a doctor I'm a doctor, not a scientist.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3421.8,
+      "endTime": 3457.282,
+      "text": "Help a patient better as a doctor I'm a doctor, not a scientist. I'm not using my patient's care to prove science is better or any treatment method is better. My role is to how to use the current available treatment means Western, chinese, ayurvedic, homeopathic, whatever that can help my patient to get better with the least chance of getting side effects. That is the primary goal of a doctor. Is that evidence-based medicine? Of course we can use evidence-based. Evidence-based, as you know, come in different tiers. The top one is, of course, the multicenter da-da-da-da Medina trial. Okay, there's the top.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3457.702,
+      "endTime": 3474.15,
+      "text": "But then you come down and even the Cochrane. There are a lot of experience-based medicine. It's coming down to the bottom of this called evidence-based pyramid, yeah, yeah, and of course we started from the top of the pyramid",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3477.265,
+      "endTime": 3492.14,
+      "text": "and then we work our way down, and then we work our way down and we know that even when we use the top of the pyramid, most evidence-based treatment, it does not work for everyone well, I don't want to put you in a difficult situation.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3492.221,
+      "endTime": 3524.738,
+      "text": "I think evidence-based. We have to ask the question of all of the trials, all of the blind trials, all of the peer-reviewed papers, but who has funded the papers? And, like I said, I don't want to put you in the position but it's. It's not. I'm not saying it. I'm not trying to say here that every paper is is false. What I'm trying to say is that it's not always the case that just because there is a paper published that it is, it is factually correct and there are. There are many things here. If we take, for example, vitamin D evidence for and against. You can find evidence saying it's the cure for everything.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3524.758,
+      "endTime": 3527.02,
+      "text": "You can find evidence saying it doesn't do anything. So you have to take it all with a pinch of salt.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3527.14,
+      "endTime": 3541.474,
+      "text": "You're talking about this conspiracy theory. Even if we do not consider this conspiracy, okay, we cannot put all the treatments to the patient at the same time. This got to be what comes first, what comes last, yeah, okay. So what comes first?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3545.9,
+      "endTime": 3558.224,
+      "text": "Now, in order to be able to justify as a doctor, justify, we have to say, okay, what's the currently best known method to treat? And because Western medicine has the advantage that it works quickly, we know the result more quickly.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3569.521,
+      "endTime": 3609.991,
+      "text": "Then we use this first. Now say, if we use this method. And then the most important is does it help this patient? Me as a doctor is not just merely as a dispensing, it's not just merely as a dispensing evidence medicine as the endpoint of my role. I do not see myself okay, I've given you the best evidence-based medicine and my pie is finished. You do not respond. Is you a problem? I do not see that. I will use this most evidenced treatment for you first to see whether you're actually getting benefit from it. If you do not, okay, then we try the second, the third approach, to see what other ways that we can use to make you better.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3610.26,
+      "endTime": 3657.045,
+      "text": "But the oh yes role of a doctor is to how to find the best way to help the patient in front of you. Sometimes patient can be resistant to certain treatment. I have patients here. Oh, I don't like Western medicine. It is all poisonous. It is too strong, da-da-da-da-da-da. Okay. Then I said, well, if you don't want the traditional medicine, what other options are there? So it's as much a to-and-fro process. Find out what they will accept and then sometimes they will suggest something that I know that is unlikely to be useful. Example patients say, oh, I've been on this percussion medicine for too long, I want to stop it really.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3657.36,
+      "endTime": 3675.686,
+      "text": "Or I've been on this statin for too long and my cholesterol has come down. I really want to stop it. I, I want to stop it really. Or I've been on this statin for too long and my cholesterol has come down. I really want to stop it. I don't want to take it for life. And then you say, okay, I can lecture them about all this evidence that you can't stop. You have to take it for life. I know they won't listen, so I say, okay, now, given all the themselves",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3680.38,
+      "endTime": 3684.336,
+      "text": "it's, given all the cells, it may be safe for you to try without for a period of time, but we have to let the blood test to tell us whether we're doing the right thing or not.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3685.34,
+      "endTime": 3686.726,
+      "text": "So you're treating them as an individual.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3687.147,
+      "endTime": 3702.787,
+      "text": "Yes, as a doctor, we have to treat them as an individual. We are not running an experiment. They are not our kidney pigs, they are not our experimental animals, so we have to treat them like individuals. I completely completely agree.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3703.981,
+      "endTime": 3757.905,
+      "text": "I mean, you said earlier on this kind of conspiracy theory On this podcast we like to call them fringe theories, okay, because I mean, certainly my view is some of them are not true, some of them are true and it's difficult now to work out anything. Everyone's positions are so entrenched to one side or the other that there's no ground in the middle to to kind of find a nuance. But I think you know, even if we, even if we accept that there is some level of of sort of corruption and ownership by, by big pharma, I think the risk carries on into ai tools, because if we have diagnostic tools and I remember, I remember very early on, I think, the first or second episode of this podcast I talked about a tool that I use here where they took a photo of my eyes and within three minutes they gave me a report that said about the, the um I can only think of the chinese name, the um the sort of vein that goes from the brain to the heart, and it gave me various things about my eyes, but also about my heart health.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3757.945,
+      "endTime": 3773.397,
+      "text": "I thought, wow, this is incredible. And then I thought, months later, well, who, who's going to own this data? Who owns the algorithm? Who owns the data? And does that diagnostic tool tell me I need to go on statins, um, because that benefits them? Or should it tell me that I need to eat a better diet?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3773.819,
+      "endTime": 3830.648,
+      "text": "that's right, that's right, it's true. Uh, as long as no. We talk about ai as a tool. We talk about this big data behind AI. The big data, first of all. Who decides what data is going to be included? Once the data is included, who decides how to filter out the data? And once the data is filtered, there is bound to be conflicting, contradicting data. Who tells the machine to weigh out how much weight on these contradicting arguments? So, ai as two, like other diagnostic tools, including blood tests that we do, x-rays that we do, we have to note that they are reference information In man, to me at least, is me trying to put together all this information from different sources and then arrive at, I think, is the most appropriate and most suitable decision and action for the patient.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3830.961,
+      "endTime": 3851.81,
+      "text": "I'm going to finish off the podcast with a couple of more general questions around AI, so we can hopefully finish on a positive note, but maybe not. But where do you stand on the kind of AI dystopia versus utopia debate? So do you think we have a chance to make it work for humanity or do you take a more pessimistic view?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3855.688,
+      "endTime": 3884.304,
+      "text": "I take a more pragmatic view Because, like any, I would say, ai is becoming. It's going to be influenced by the country's political system how it evolves. You can already see that AI is developing in China in a certain way, ai in America in a certain way. They are both AIs, but they have different identities. Yeah, so I think it would be like in India, it would be like a more capital, would be like a more capitalistic AI and a more socialistic AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3885.025,
+      "endTime": 3898.623,
+      "text": "Already seeing that and look out for a future episode on China where we're going to discuss exactly those points. But yes, you're right that Chinese AIs are growing in a way that works within the political system and in the US, the same In the US, the same In the US.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3898.683,
+      "endTime": 3918.621,
+      "text": "They're just growing completely unregulated, which is the way that the US is working and we are talking about AI as a tool, but when people are talking about AI development as unconsciousness, that is not how we would like AI to be. It's how AI would like AI to be. Well then, all bets are off, aren't?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3918.641,
+      "endTime": 3955.308,
+      "text": "they I how AI would like AI to be, Well then all bets are off, aren't they? I mean, if we get to that point of super intelligence, well, yeah, I kind of hope. Yeah, hopefully none of us are here, Because I think at that point, like I say, it's not even a coin flip. I think it's unlikely that super intelligent form will perform for us. But you know, maybe we never get there. So is there any advice that you would like to finish giving our listeners, so this can be AI tools to use future, things you think they should look out for in health, or just a way that people can live a healthier life in these challenging times?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 3955.56,
+      "endTime": 4025.225,
+      "text": "I think my advice in general, but it isn't necessarily necessarily to AI or anything. I think one. I advise patients to read, to know more about their own health. The reason is, most of the illnesses that we deal with now are chronic illnesses, and in order to manage a chronic illness well, doctors play 30% of the role, patients play 70% of the role, so the better informed the patient is, the better will be the outcome. So, whether you use AI, whatever method you use, then read more, know yourself better and know yourself more, and that's going to benefit you. And then I would still say that to find and to keep a doctor that you can trust, I think a doctor that you can trust is better than a consultant doctor, specialist consultant doctor, expertise that you do not trust.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Dr. Gilbert Xie",
+      "startTime": 4026.528,
+      "endTime": 4028.794,
+      "text": "That's what I say that's fantastic advice.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4028.814,
+      "endTime": 4062.651,
+      "text": "So you are your own best doctor is the way I've seen it written, which I think is a fantastic way to end this episode. Doctors here, thank you. That was um incredibly interesting but also, like I said to you earlier, kind of quite moving, I think. Hopefully, people listening it gives you some uh inspiration, if you don't have a doctor that you trust, to go out and find one. It's not so easy to do that um in, in in everywhere in the world, but you know it's worth its weight in gold and if you're in beijing, then I think I've already told you two or three times you can, you can find one here in docks this year.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4062.671,
+      "endTime": 4067.931,
+      "text": "So thank you very much and uh, yeah, thank you, thank you for your time, thank you",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4076.391,
+      "endTime": 4113.02,
+      "text": "well. I really hope you enjoyed that. That was really kind of fun to do for me. Those of you who know me or listen to the podcast a lot will know it's something I'm really passionate about. I do think medical ethics and the practice of medicine is kind of really dying at the moment, and I think to meet someone and interview someone like Dr Scheer obviously I know him, but to have the chance to interview him and to hear that from him, I think it's kind of given me a little bit of confidence. It certainly made me feel very privileged that I'm lucky enough to have him as a doctor, but it's also given me a bit of confidence that there are good doctors out there and that there are people still trying to fight the good fight.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4113.14,
+      "endTime": 4117.212,
+      "text": "So, like I said, you know, for those of you in Beijing, then get yourself a new doctor.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4123.36,
+      "endTime": 4150.467,
+      "text": "For those of you that are not in Beijing, then yeah, you want to try and find yourself someone that will respect you and treat you as an individual and, you know, try and look at medicine in the round rather than just trying to fix you. So that's it for this week. We will be back next week, as we always are, and we will have some more healthcare episodes coming up soon. It's going to be controversial subject, I think, but it's one that we really need to touch on, so thanks for listening. I hope you enjoy this one. Really try and pass it on to others to to listen to, because I think it's a really fascinating episode we'll leave you to our song.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anya Cartwright",
+      "startTime": 4150.527,
+      "endTime": 4151.69,
+      "text": "Medic go",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Anya Cartwright",
+      "startTime": 4157.008,
+      "endTime": 4209.167,
+      "text": "breathing rooms and paperwork, another number in the dark. Ten minutes with a stranger's face, lost in this familiar place. Assurance phones pile up so high While healing chances pass us by. But somewhere there's a better way, where ancient wisdom saves the day. They say the system's breaking down, but I found hope in this small town when everyone else turned away. Dr Cher showed me the way. Hey, turn your life around. The answer's finally found. Dr Cher's got the healing touch that this world needs so much. East meets west tonight. Funny getting in and out. The family doctor's back in town Raising spirits when they're down.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Anya Cartwright",
+      "startTime": 4209.762,
+      "endTime": 4254.953,
+      "text": "Yeah, yeah, modern science has its place, but something's missing in this race. Pills for symptoms, quick fixes fail While deeper problems still prevail. Then I heard about this man who takes the time to understand, combines the best of every art, treats the body, heals the heart. They say the system's breaking down, but I found hope in this small town. They say the system's breaking down, but I found hope in this small town. They say the system's breaking down, but I found hope in this small town when everyone else turned away. Dr Cher showed me the way. Hey, turn your life around and your answer's finally found.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Anya Cartwright",
+      "startTime": 4255.14,
+      "endTime": 4312.047,
+      "text": "Dr Cher's got the healing touch that this world needs so much. East meets west tonight. Finding, getting in it right, the family doctor's back in town, raising spirits when they're down. Yeah, yeah, we don't have to choose just one way. No, we don't. When healing comes from everywhere, everywhere, time to open up our minds, the future of care is right there. Hey, hey, turn your life around. The answer's finally found. Dr Shea's got the healing touch that this world needs so much. Peace needs a western eye. Finding, getting in it right, with every doctor's back in town, raising spirits when they're down.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Anya Cartwright",
+      "startTime": 4312.606,
+      "endTime": 4349.921,
+      "text": "Yeah, yeah, let it go, let it go. They're the answer you got to know. Let it go, let it go. They're the answer you got to know. Let it go, let it go. They're the answer you got to know. Let it go, let it go. They're the answer you got to know. Let it go, let it go. They're the answer you got to know. Let it go, let it go. They're the answer you got to know. Let it go, let it go. They're the answer you got to know. Medical, medical. They're the answer you got to know.",
+      "chapterIndex": 6
+    }
+  ]
+}

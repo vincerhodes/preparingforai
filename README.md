@@ -5,17 +5,48 @@ Jimmy Rhodes: episodes pulled from the Buzzsprout RSS feed, markdown articles,
 and a community forum powered by Giscus (GitHub Discussions). Built with
 Next.js 16 (App Router), React 19, TypeScript, and Tailwind CSS v4.
 
-All content lives in ONE file: **`site.config.ts`** at the repo root.
+All site content lives in ONE file: **`site.config.ts`** at the repo root.
 
-## Fill-in-gaps checklist
+## Overview
 
-Still to fill in `site.config.ts` (marked with `TODO(podcast):` comments):
+- **Episodes** — synced from the Buzzsprout RSS feed, with 74+ transcripts,
+  summaries, and tracked predictions (each with status: hit/miss/pending).
+- **Articles** — markdown posts in `content/articles/`.
+- **Hosted public MCP server** at `/api/mcp` (Model Context Protocol) so Matt
+  and listeners can query episodes, predictions, and catalog data from their
+  own AI tools. Setup guide for listeners lives at `/mcp`.
+- **Forum** — Giscus (GitHub Discussions) on episode and article pages.
 
-- [ ] `listenLinks` — Apple Podcasts and Spotify show URLs (Buzzsprout and RSS
-      are already wired up)
-- [ ] `giscus` — see "Enabling the forum" below
+## Ongoing episode & predictions workflow
 
-## Adding an article
+Run from the repo root:
+
+```bash
+npm run sync:episodes       # pull new episodes + transcripts from Buzzsprout
+npm run prediction:add      # add a new prediction to data/predictions.json
+npm run predictions:due     # list predictions due for verification
+npm run match:polymarket    # match pending predictions to live Polymarket contracts
+```
+
+When a new episode lands via `sync:episodes`, distill it: transcript, summary,
+and any predictions Jimmy or Matt make on-air. `match:polymarket` attaches
+high-confidence live Polymarket contracts to pending predictions (supports
+`--dry-run` for review and `--force` to re-match).
+
+## Hosted MCP server
+
+The site exposes a public MCP endpoint at `https://preparingforai.net/api/mcp`.
+Point any MCP-capable client at that URL, or open `/mcp` on the site for a
+step-by-step setup guide (for Matt and listeners).
+
+## Local private studio
+
+The `studio/` folder (gitignored) is Jimmy's private prep space: per-episode
+cue sheets, voice/stance notes, and prep docs. See `studio/prep/README.md`.
+
+## Adding an article & enabling the forum
+
+**Article:**
 
 1. Create a `.md` file in `content/articles/` (the filename becomes the URL
    slug, e.g. `my-post.md` → `/articles/my-post`).
@@ -36,10 +67,7 @@ Still to fill in `site.config.ts` (marked with `TODO(podcast):` comments):
 4. Commit and push — the article appears at `/articles/<slug>` and in the
    sitemap on the next deploy.
 
-## Enabling the forum
-
-The forum uses [Giscus](https://giscus.app) (GitHub Discussions). Until
-configured, `/forum` shows a placeholder notice.
+**Forum (Giscus):**
 
 1. Make the GitHub repo **public**.
 2. Enable **Discussions** on the repo (Settings → Features).
@@ -51,27 +79,39 @@ configured, `/forum` shows a placeholder notice.
    generates into the `giscus` block of `site.config.ts`.
 6. Commit and push — the comment widget replaces the placeholder.
 
-## Deploy to Vercel
+## Deploying to Hetzner `apps-1`
 
-Zero configuration required:
+The site runs as a standalone Next.js output on the Hetzner `apps-1` box,
+served on port `3003` behind Caddy.
 
-1. Push this repo to GitHub.
-2. In Vercel: **Add New → Project**, import the repo.
-3. Vercel auto-detects Next.js — click **Deploy**.
+1. Build locally:
 
-Every push to `main` redeploys automatically.
+   ```bash
+   npm run build
+   ```
 
-## Custom domain
+2. Assemble the standalone bundle (Next `output: "standalone"`):
 
-1. Vercel dashboard → your project → **Settings → Domains** → add the domain.
-2. At your DNS provider, point the domain at Vercel:
-   - `www` (or any subdomain): `CNAME` → `cname.vercel-dns.com`
-   - apex/root: `A` → `76.76.21.21` (or `ALIAS`/`ANAME` → `cname.vercel-dns.com`
-     if your provider supports it)
-3. If you use **Cloudflare** for DNS, the record MUST be **DNS only**
-   (`proxied: false` / grey cloud). The orange-cloud proxy breaks Vercel's TLS.
-4. Once live, update `url` in `site.config.ts` to the production domain and
-   redeploy (this fixes `metadataBase`, sitemap, and JSON-LD URLs).
+   ```bash
+   cp -r .next/static .next/standalone/.next/static
+   cp -r public .next/standalone/public
+   cp -r data .next/standalone/data
+   ```
+
+3. Rsync it to the server (the `apps-1` compose service mounts
+   `./preparingforai:/app` and runs `node server.js` on port `3003`):
+
+   ```bash
+   rsync -az --delete .next/standalone/ apps-1:./preparingforai/
+   ```
+
+4. Restart the container on `apps-1`:
+
+   ```bash
+   ssh apps-1 'cd ~/server && docker compose up -d --force-recreate preparingforai'
+   ```
+
+Caddy routes `https://preparingforai.net` to the container on port `3003`.
 
 ## Local development
 

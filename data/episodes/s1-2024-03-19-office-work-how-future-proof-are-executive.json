@@ -1,0 +1,718 @@
+{
+  "slug": "s1-2024-03-19-office-work-how-future-proof-are-executive",
+  "buzzsproutId": "14718295",
+  "title": "Office Work: How future-proof are executive roles?",
+  "date": "2024-03-19T07:00:00.000Z",
+  "season": 1,
+  "durationSec": 2872,
+  "format": "guest",
+  "era": "early",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/14718295-office-work-how-future-proof-are-executive-roles.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Will the AI revolution render your white-collar job obsolete, or can it actually catapult your career to new heights? Join hosts Matt Cartwright and Jimmy Rhodes as they dissect the seismic shifts AI is having on the office work landscape. This episode peels back the curtain on the murky decision-making processes of AI, particularly when faced with the challenge of misinformation in complex language models. As we traverse the globe from EU regulations to the evolving laws in China and the US, we arm you with the critical understanding of AI's integration into professional roles—be it research, copywriting, or editing—and the profound implications it brings to the work we once thought was exclusively human. Chatbots are already outpacing the receptionist and algorithms augmenting the C-suite; displacement of many executive roles is not as far off as you might think. We question the slow churn of AI adoption in industries where you'd expect more rapid progress, like within the chatbot interfaces of major financial institutions. Yet, not all roles quiver before the march of automation—discover why jobs in social work and suprisingly HR management remain steadfast in their human essence. Meanwhile, CEOs candidly admit that their positions are not immune to AI's reach (although no doubt they will find a way to survive!), raising the question: how high up the corporate ladder will the wave of automation climb? To wrap up, we offer some advice for optimizing AI use in your workplace, from crafting compelling prompts for personalized content to choosing the right AI models—whether you're inclined towards OpenAI's ChatGPT, Google's Gemini, or Anthropic's Claude. We also lay out the blueprint for navigating the AI landscape responsibly within your organization, balancing transparency with the need for customized solutions.",
+  "summary": "On executive and office work, the hosts walk through how LLMs actually work — training, hallucination, jailbreaks — before testing which roles evaporate first: receptionists, data entry, bookkeeping, basic research. Agentic tools like AutoGPT and Devin signal end-to-end automation, and Jimmy predicts 2024 brings 'drop-in replacement' AI PAs; coders keep human oversight short-term before architect-type roles remain. Their advice: check everything, never paste sensitive company data into public models, and retrain toward human-trait roles.",
+  "keyTalkingPoints": [
+    "Plain-language primer: LLMs predict tokens, hallucinate by design, and get alignment via human feedback — now increasingly done by AIs",
+    "ChatGPT's own list puts receptionists, data entry, bookkeeping and scheduling first in the firing line; HR and the CEO go last",
+    "Agentic tools (AutoGPT, Devin) complete projects end-to-end; real-time response AI would absorb most receptionist duties",
+    "Free tiers vs paid: context windows (3.5's ~4,000 words vs 32k+), Claude's ethics training, Gemini's sourcing habits",
+    "Corporate safety: use enterprise/internal models or small language models on your own data — sensitive company info in public models is a firing risk",
+    "Claude's own advice read aloud: focus on empathy, strategy, creativity and the human-in-the-loop collaborative model"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Explains the machinery: token prediction, why hallucination is structural, and why jailbreaks persist",
+      "2024 is the year of drop-in replacement agents — an AI PA for everyone, clunky but improving fast",
+      "Coders need human-in-the-loop oversight in the short-to-medium term; long term, architect-type roles remain",
+      "Anyone can start right now: ask an LLM how to talk to it, and never put sensitive company data into public models"
+    ],
+    "matt": [
+      "The scope of AI job replacement is agreed; what is disputed is timing — current cuts are still blamed on the economy",
+      "Small language models on internal data are the safe enterprise route; MOOCs and retraining are the individual route",
+      "Receptionists first, HR and CEO last — organizations keep a human interface and someone to blame",
+      "Claude's career advice (empathy, strategy, creativity) is the right frame for what survives"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-03-19-office-work-how-future-proof-are-executive-2155.478-2024-will-bring-drop-in-replacement-ai-agents-ev",
+    "s1-2024-03-19-office-work-how-future-proof-are-executive-2657.83-developers-stay-human-in-the-loop-short-term-lon",
+    "s1-2024-03-19-office-work-how-future-proof-are-executive-1947.26-everyone-acknowledges-ai-will-replace-jobs-event",
+    "s1-2024-03-19-office-work-how-future-proof-are-executive-1095.657-an-hr-person-will-be-the-second-to-last-employee"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 9,
+  "turnCount": 90,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "A summary of AI laws and regulation",
+      "startTime": 75
+    },
+    {
+      "title": "AI advances and office work",
+      "startTime": 210
+    },
+    {
+      "title": "Hallucinations",
+      "startTime": 563
+    },
+    {
+      "title": "Office jobs already impacted by AI",
+      "startTime": 860
+    },
+    {
+      "title": "The drivers of change",
+      "startTime": 1115
+    },
+    {
+      "title": "Chat GPT, Gemini or Claude?",
+      "startTime": 1488
+    },
+    {
+      "title": "Examples of jobs cuts in office roles",
+      "startTime": 1824
+    },
+    {
+      "title": "How can you get ahead (or at least keep up)?",
+      "startTime": 2363
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.285,
+      "endTime": 23.722,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effects of AI on jobs, one industry at a time. We dig deep into barriers to change the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human and social impacts of AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 28.44,
+      "endTime": 66.551,
+      "text": "So welcome back to episode three of Preparing for AI. I'm Matt Cartwright and I'm Jimmy Rhodes, and today we are going to be looking at white collar office work, which is not really an industry as such, more of a kind of general kind of look at administration office jobs. But we just wanted to make a kind of note before we started that we're not necessarily going to stick rigidly to kind of a particular industry, so we may cross into things which would come under the industries and later in the podcast we will probably focus in on some of these industries, but we thought that going a bit more broad to begin with.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 66.72,
+      "endTime": 112.905,
+      "text": "So this episode about office jobs and then the next one looking at robotics and manual work will give a really good overview. And before we started I thought it was worth just noting that this week we have seen the EU pass the AI Act, which is the world's first comprehensive AI law. There are still steps to take. This is the EU right, so they obviously legislate more and before everybody else. But this is a start and it shows, I guess, that people in power are standing up and making note and taking a stand on the kind of importance of getting regulations and stuff in there. So I thought it might be interesting, with the EU being where they are, just to kind of summarize what I think are probably the other main players in AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 113.366,
+      "endTime": 152.795,
+      "text": "So China is believed to be developing its own AI laws and in July last year, the cyberspace administration, along with several other authorities, released their interim measures for generative artificial intelligence services, which address potential harms in misinformation, algorithmic discrimination and infringement of personal data and copyright. In the US so the US in late May 2023, they enhanced an AI governance strategy by releasing revised national AI R&D strategic plan, and this was part of a broader effort by President Joe Biden's executive order on safe, secure and trustworthy development.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 153.358,
+      "endTime": 197.103,
+      "text": "The order of safe, secure and trustworthy development on the use of artificial intelligence signed into law on October, the 30th 2023. In the UK. So the UK continues to push for a light touch approach and to distinguish itself from the EU's position. However, there have been some recent developments. The government recently published its response to its own AI white paper consultation and outlined a future roadmap for the development and enforcement of AI in the UK and, additionally, the artificial intelligence regulation bill was introduced to the UK's House of Lords in November of last year, and this bill aims to regulate AI, proposing the creation of an AI authority to ensure that regulators take AI into account and are aligned in their approach.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 197.565,
+      "endTime": 209.591,
+      "text": "So that's where we are in terms of regulation. I guess, in line with other episodes, jimmy, do you want to give us an update in terms of technology and AI and where you think we are now in terms of office work.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 210.923,
+      "endTime": 254.105,
+      "text": "Yeah, I will do. Just something interesting that popped out while you were talking about that was. One of the things that came up was misinformation. We're going to talk a bit about misinformation today and how large language models, because of the way they're trained and because of the way they work, they can give out incorrect, inaccurate or misinformation. So we can discuss that later on in the show. I'm really curious as to how, what we think on and how they're going to actually apply that, because it's pretty tricky. These AIs are kind of black boxes that even the designers and developers don't necessarily fully understand, so tuning things like misinformation out of them might be more difficult than we think.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 255,
+      "endTime": 268.73,
+      "text": "Maybe some people are not aware, but really even the current technology of large language models, no one really knows how it works. They know what's been put in there, but no one really understands how it works, which is quite frightening, to be honest.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 269.481,
+      "endTime": 310.87,
+      "text": "Yeah, exactly so. For anyone who doesn't know how these models are trained, artificial intelligence is these or these. Artificial intelligence models are neural networks where we've designed the framework or the architecture for it, but then we just let them. We just train them on all the information that's out there In the case of large language models, basically all the books that have ever been written, everything that's on the internet that's ever been written on Reddit or even 4chan and yet they just train themselves. And so when you turn off the training and you get to the inference stage, which is when you're actually using something like chat GPT that's called inference.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 312.073,
+      "endTime": 349.95,
+      "text": "Then the people who designed the AI don't know what it's going to say, and so there's a whole then step of actually looking at what that model is outputting and trying to get it to become more ethical and sort of grading its responses and things like this, which is also pretty time consuming, but to the end of misinformation it's, it's it's. It turns out that it's really difficult to train some of the behaviors out of these models, and there's something called jail breaking, which is getting these models to do things that they're not supposed to do, which continues to this day. So, even though GPT four has been around for around a year.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 350.6,
+      "endTime": 391.069,
+      "text": "People can still find ways of backdoors to actually get it to do things that it's not supposed to and say things that it's not supposed to, and so I think there are going to be significant challenges around meeting some of those regulations. So, good, start to the pod. So, yeah, stepping back a little bit, I suppose I should go. I should actually explain what kind of tools, because we're talking about office work. So we're talking about things like back office jobs, like administration assistance, accounting, clerks, a lot of white collar roles that involve writing, analysis, presentations, things like research analysts, copywriters, editors.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 391.129,
+      "endTime": 425.762,
+      "text": "Those are the kinds of roles we're talking about today. It's obviously going to impact on crossover a little bit with some of the some of the jobs we're going to talk about in the future, like journalism and law, but this, for today's episode, we're just focusing on all of those, basically anything that's office work. So the main, the main thing for those roles is, as I say, large language models. So what a large language model is is it's a model that's been trained on all of the information that's on the internet, chat, gpt or GPT, for unless you've been living under a rock for the last year and a half.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 425.802,
+      "endTime": 470.998,
+      "text": "You've probably heard of it. Those are large language models and what they do is you can type in a prompt and the model will go and look at all the information that's inside of it. So all the information in that's all of the written recorded information in human history, essentially and it will predict what the next words should be, based on your prompt and based on the knowledge that's embedded inside it. And so, for example, you can ask it to write you a story and you can give it a style of a story. So you can ask it to write you a children's story about the Grinch or you know any kind of story, any kind of story title you can come up with, and it will happily go away and write you a novel story.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 471.4,
+      "endTime": 503.339,
+      "text": "Obviously, it's going to be based on all of the information that's already inside it, which will come on to some of the issues around copyright and some of the issues that have been raised around copyright later. But effectively that's what it can do and in terms of how it can apply to office work, you could, for example, get it to write your appraisal, you could get it to write an appraisal of somebody else and you have to feed it a certain amount of information. It's rubbish in, rubbish out. So you have to be able to craft a decent prompt to get good information out of a large language model.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 503.8,
+      "endTime": 544.662,
+      "text": "But if you can learn how to prompt one, then you can actually get very good quality output from it. And it usually needs a little bit of tweaking and a little bit of refining, but it can save an awful lot of time in these kind of analytical, back-end office jobs what you call office jobs. You can get it to. You can get it to analyse huge amounts of data really quickly. So that's something where, for example, you have to do some research. You have to read something on the internet, you have to read something from books. You can put that whole thing into a large language model and get it to spit out the key summary, or you can get it to summarise it with respect to a specific piece of work.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 544.682,
+      "endTime": 564.008,
+      "text": "You do what you're doing. So, for example, if you're writing a new piece of policy guidance, you can enter the parameters that you need, that you're interested in, for your policy, and you can copy and paste in all of the previous policy and it will be able to reshape that into whatever kind of policy you're building, but how?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 564.028,
+      "endTime": 577.39,
+      "text": "much can you trust that? I mean, there's something called hallucination right, which you know I haven't seen too much of, but I have seen examples of things where, for example, even references which have been made up.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 577.751,
+      "endTime": 587.574,
+      "text": "Yes. So as with I would say as with anything on the internet, you have to double check things, but this is actually the chat GPT.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 588.055,
+      "endTime": 623.43,
+      "text": "Is this term hallucination? Is is literally making things up. So this is not about the quality of data, because you get that. You know. Obviously it will always be limited by the data that's there. So if you have an open source model, it's limited by what's on the internet. If you have a smaller model, it will be limited by your own data. But this idea that chat GPTs are just making things up, is that something to worry about, because you're going to get caught out pretty quickly if you're summarizing or researching something and you're being fed back something that is not even you know, it's not a case of bad information, it is just not true.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 624.092,
+      "endTime": 664.427,
+      "text": "Absolutely so there was. The most famous example of that was somebody, a lawyer, lost their job in the US because they used chat GPT to basically write notes for their case and it made up a reference. It made up a reference to a court, a previous piece of legislation which had never happened or a previous court case which had never happened, and he lost his job for that. Obviously, there are massive limitations with it and in that particular case, the individual in question was not very smart about the application, but I think that's like any tool that's available. So if you you know, you could refer to Wikipedia, and 99.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 664.708,
+      "endTime": 668.497,
+      "text": "Something percent of it is accurate, but Wikipedia itself is not making up information.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 669.025,
+      "endTime": 675.491,
+      "text": "People are putting information. You know, wikipedia is open for people to input stuff and then to check it but and chat.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 675.511,
+      "endTime": 676.996,
+      "text": "Gpt is trained on Wikipedia.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 677.558,
+      "endTime": 687.275,
+      "text": "Yeah, but what? But if it's making stuff, how is it making stuff up? So how is it hallucinating? I mean, where, where does this come from? Or is it? Is this a sign that it already has its own conscious?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 688.338,
+      "endTime": 733.673,
+      "text": "consciousness. So the reason for hallucination and I'm not I'm not actually an expert in this, this area, but effectively, if you, if you get into how language these models actually work, what they're doing is they're predicting the next word based on all the previous words that have come before. They call them tokens. They're basically words. It's going to base it off all the information that's inside it, and if you ask it to be factual, it will try to be factual, but the more and more it gets out of its for what of a better word comfort zone in terms of what information's inside it, then that's where it might, because it's always going to want to please in terms of want to provide the next word, the word, and these models don't necessarily like saying I don't know the answer, Maybe like a little bit of a human like trait.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 734.175,
+      "endTime": 743.931,
+      "text": "Yeah, they don't want to not spit out the next word, they want to, they want to continue the conversation, and so that's when I think they get into creating spurious references.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 744.473,
+      "endTime": 756.637,
+      "text": "We should probably say that this term hallucination is not. There's not. We're not calling it hallucination. This is a technical term for when a chat GPT is is, like we said, just hallucinating, it's inventing something that's not there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 758.125,
+      "endTime": 816.857,
+      "text": "Yeah. So in terms of the way I use GPT and I think this is why, if you don't already and haven't already had a play around with a large language model, whether you're going to use it for your work or not, and what you know, if you work in one of the, if you work in one of these office work type type roles, I think these tools are going to start to come into the office place in the future, if they're not already. Some corporations, some, some enterprises are already applying them and already allow the use of them. So this is where I think it's a good idea to familiarize yourself and understand hallucination and understand, start to actually use large language models, start to use something like chat, gpt or one of the other models and understand how it works and what its limitations are, because if you're going to apply it at work, you need to know what, where, where that line is and be aware of you know, be aware of how to fact check it and when it might do things like hallucination.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 817.319,
+      "endTime": 847.93,
+      "text": "One thing I would say is, in terms of my personal use, instead of just asking a large language model to freestyle something, which is where it does tend to become more fictional and hallucinate more If you give it a load of information. For example, in the example I gave before, if you give it a whole book to read and then get it to summarize it, it will stay on task and it won't usually hallucinate in that situation because you're giving it a very specific task, very specific inputs and asking it to you know, asking it to do it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 847.95,
+      "endTime": 849.096,
+      "text": "So the parameters are important.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 849.518,
+      "endTime": 851.906,
+      "text": "Yeah, parameters are really important. Yeah, absolutely.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 861.476,
+      "endTime": 910.544,
+      "text": "I thought I would just sort of summarize. And this is the question. So this is from chat GPT. So I asked chat GPT to tell me about the main kind of white collar office jobs which were being affected. So this was the kind of top list. So customer service and receptionist obviously you know customer service. We know chatbots, although it amazes me how bad some of the chatbots for example, you know banks. The quality of the chatbot considering, I think even I could use in chat GPT could write my own custom GPT better than HSBC or NatWest or any of the major bank ones. At the moment they don't seem to reflect the advancing technology, but I guess that will change very quickly.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 911.786,
+      "endTime": 950.064,
+      "text": "Receptionists I was kind of amazed at this. They're talking about most businesses that have already automated their receptionists. I guess what they're talking about here is your initial kind of phone call rather than having a robot sat at a desk. So we're sort of talking about that in a future episode but I don't think we're at that point yet. But I guess if you're calling to a switchboard or you're emailing to a general account, then I guess AI is already that kind of first step, even if you still get to a person eventually Accounting and bookkeeping, so obviously it can be more efficient and flexible.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 950.255,
+      "endTime": 994.085,
+      "text": "I guess if you have a more complicated case, probably you're not using automated accounting or bookkeeping but for more simplistic tasks, and then technologies like blockchain can perhaps make it even more secure. A lot of people will probably have experience of their expenses being automated tax reporting. You see a lot of adverts now for services for tax returns, which I guess that will be. Hopefully it'll be a lot cheaper and hopefully that gets passed on to people. Sales and marketing so sales roles. You can also see a lot of the kind of market research and insight work, if not being replaced, is at least becoming much more labor intensive.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 994.615,
+      "endTime": 1040.644,
+      "text": "Although and I will talk a bit later about small language models Remember that if your company has its own insight data, these large language models are running on open source data, so they're looking at what's out there on the internet. They won't have access to your organization's specific data. Insurance underwriting Obviously very easy for AI to analyze within a kind of strict set of formulas and structures, which is what you were talking about, and I found it really interesting. I can't remember where this is quoted, so I can't give you a quotation on this, but CEOs admitting that 60% to 70% of their work will probably be replaced by AI, but I'm sure they'll be fine and will make sure that they continue to get well rewarded and take advantage of all of those productivity gains.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1041.575,
+      "endTime": 1046.987,
+      "text": "If anyone will still be employed after all this, it'll be the CEO. Might just be the CEO.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1047.596,
+      "endTime": 1087.806,
+      "text": "It may be just them and a lot of robots. Interestingly, I thought on the index, so there is an index of most and least replaceable jobs. I think social work was actually number one on the hardest to replace, but on the list of the top 20, hr managers was on there and I guess initially you think of that as a job. It's an administrative job. You think it would be easy to replace and I think obviously a lot of recruitment and HR functions are being automated. But I guess you need to have, or you need to have, the Seneca. He says you need to have someone to help tell everyone their jobs been cut. So you still need a person in there to do it, but you still need someone to provide the human touch.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1088.175,
+      "endTime": 1094.24,
+      "text": "There are some industries that I guess you would be surprised to hear and maybe not the easiest ones to replace.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1095.657,
+      "endTime": 1103.175,
+      "text": "Yeah, I think HR there'll be at least someone in HR who's second last to go before the CEO, Because you need someone to fire them.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1103.195,
+      "endTime": 1105.723,
+      "text": "So it's the HR direction, the CEO, exactly.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1116.546,
+      "endTime": 1156.438,
+      "text": "Let's change tack a little bit and talk about what sort of driving change. So you've touched on it a little bit and I think one of the reasons this episode hopefully is sort of more relatable and we can give more practical tips is it is really things like chat, gpt and large language models that are kind of central to some of the, at the very least, that the increase in productivity and competitiveness that we're seeing at the moment. So, for example, things like speech writing, summarizing reports, chat GPTs can't do all of it, but I don't think it's an exaggeration to say they can do two thirds and three quarters of the work.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1157.095,
+      "endTime": 1194.063,
+      "text": "And where you need the expertise is at the beginning to set the parameters and what information you're running that on and then to provide the finishing touches at the end. So it is the bit in the middle and I guess that is the. You know the bit that is quite boring and there's a sort of positive story here. If people are still in employment, this is where you're going to see, I guess, the more boring parts of the job being removed, and we are seeing that. You know, I can see examples now If you're writing a speech where before you'd write the whole speech, you put the parameters in, you write the speech and you tweak it at the end.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1194.175,
+      "endTime": 1225.829,
+      "text": "It's not perfect but it's at least three quarters of a saving on there. But I guess it's that the productivity boost over time. They still drive job displacement, because you know we talked about this, I think, in the first episode. But if two to five people can do what Tend did before, for most businesses there'll be exceptions to this. But for most they're not going to just keep growing and growing, they're going to be able to cut costs and be more productive rather than expanding and expanding On speech writing as well, just as a sort of, I guess, an AI tip.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1226.092,
+      "endTime": 1252.965,
+      "text": "If you ask an AI to write you a speech and give it the content, it will write you a speech. It won't write it in your style, but it will write a speech. What you can actually do is give it. For example, you can give it 10 of your previous speeches and say this is how I would write a speech, can you write a speech in my style? And then it will actually do it in your style or, you know, a close approximation of it. So it'll get a much better first draft.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1254.038,
+      "endTime": 1287.725,
+      "text": "And I think that's something maybe people are not aware of, so maybe you could talk just a little bit about. You know, we talk about how large language models are trained on everything that's out there. But you don't need to use that so you can give them, as you say. You can give them a set of data and set of parameters to work on right. You can put that information so you can drop files, you can paste text directly in. But you can ask it to analyse and only work on certain data and ignore, you know, the sort of open source data out there, right?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1288.066,
+      "endTime": 1322.301,
+      "text": "Exactly. There are some really good websites, actually OpenAI. So OpenAI is chat GPT. They're the creators of chat GPT On their website I can't remember what page is, but they've got some example prompts that you can use and they go through how you should prompt an AI. The same thing for Anthropic and Claude. They actually have a page that I was looking at just yesterday which goes it gives you like some templates for prompts that you can use and so you can start to understand how to prompt them. I've seen people, I've heard people before, say oh yeah, I tried chat GPT and it was rubbish and it's like well, what did you ask it to do?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1322.735,
+      "endTime": 1360.206,
+      "text": "And then they just typed in write me a speech, something like that. And of course it's going to be rubbish, it's been trained on the whole internet and you've just said write me a speech and maybe write me a speech about AI or something like that. But you need to put a bit of effort into it to actually getting something decent out of these AIs. So, for example, if you ask it to write your end of your performance evaluation, it doesn't know what you did that year. It's not omnipresent, so to speak. So yet yet it's not omnipresent yet. So if you've got a record of all the things you did that year, you can stick it in.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1360.415,
+      "endTime": 1401.021,
+      "text": "You can ask it to do it in a specific format, like in the star format or something like that, and then it will give you a much, much better output. Whatever the you can, you know you can use whatever format it is that you're supposed to use at your workplace. You could paste in previous examples of your appraisals, and then it will actually give you an output that matches the style that you've put in. So prompting is a definitely a thing and takes a bit of work. So if you're going to have a go with some of these models, don't just chuck in something really generic and then be like oh, look at it, it's rubbish, because you need to put a bit of legwork in yourself in terms of in terms of that prompt, but it will save you an absolute ton of time.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1402.255,
+      "endTime": 1443.35,
+      "text": "And I find as well that telling, telling the GPT what you want it to be. So you know, tell it. You are a researcher working for a magazine. You are a you know you are writing a podcast on preparing for AI. You are a medical consultant interpreting in a document. You know the more you can give it to reduce the parameters down, the better the quality, because it's it's you know, it's less thinking, and you've got to remember, like we said, that it's got access to every everything that existed up to April 2023, plus web search. There's a hell of a lot of information in there, but actually you don't want it to necessarily dip into all that information.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1443.44,
+      "endTime": 1479.764,
+      "text": "You wanna make it as focused as possible. So the better job you can do of focusing your questions, the better output you're gonna get. And also, you see that the model sometimes gives you half of something and ask you how it's doing and then you can ask it to continue so you can adjust it and help it to kind of learn. I know one of the things announced this week, I think, with chat GPT is that it's gonna have a memory, if you want it to, so it can remember the questions and the prompts you've asked it for and it can kind of start to understand the things that you're looking for. And not everyone will want to do that, but you know more customizable way of asking for and creating data.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1482.894,
+      "endTime": 1525.222,
+      "text": "[\"the Last Song of the Year\"]. [\"the Last Song of the Year\"]. We've talked about sort of GPTs and larger language models quite a lot, and you mentioned Claude and sort of OpenAI, chat GPT, I guess based on kind of main three out there. So chat GPT, openai's chat GPT, google Gemini, anthropics. Claude, could you give a bit of an example of the sort of differences between them and which should people be using? I mean, is there a specific? If you're looking at this, here's the best model or is it a case of just try around and see which one you like? First of all.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1526.145,
+      "endTime": 1569.59,
+      "text": "There's a difference between. So you can access any of these models for free, but there's a free tier and a paid tier. Now I'm not recommending everyone goes out and starts paying for a model. The first thing to do is probably just try one out. But if you want to pay for them, you obviously get access to the latest models which have significantly better memory and significantly better features. So, to give an example of that, if you use chat GPT and you use the free version, you'll get access to something called chat GPT 3.5 Turbo, which is very good, but it's chat GPT-4 came out around a year ago now and chat GPT-4 has a much bigger context window, which means it has a longer memory quite significantly.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1569.66,
+      "endTime": 1622.389,
+      "text": "So GPT 3.5 can remember about 4,000 words, roughly about 3,000, 4,000 words, whereas the paid version chat GPT-4 can remember 32,000. So it's the difference between being able to have a much longer conversation or having much shorter conversation before the model starts to forget what you were talking about. Basically, here's what those 4,000 words are, or 4,000 tokens are. The other difference is a chat GPT-4 has access to go on the internet, so it can actually go and find the latest information, whereas 3.5 can't. It can generate images and it can do. It can write code, which GPT-4, gpt-3.5 can do, but GPT-4 has code interpreter, which is significantly better at coding effectively, and it's similar across the other AIs.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1622.48,
+      "endTime": 1679.248,
+      "text": "So the other big ones that you talked about were Anthropic and Claude and Google Gemini. They both have a free and a paid model. If you're going to use a free version right now, honestly, I'd probably recommend using something like Gemini 1.5 or Claude. The reason for that is because they came out more recently and, while they're not necessarily, they're definitely better than GPT-3.5. They're not better than GPT-4, but they have much longer context windows. So, for example, claude is 200,000 tokens and Gemini is 128,000 tokens, which are significantly, significantly longer memory. Basically and you'll be able to with Claude or with Gemini, you'll be able to paste in huge amounts of text, as we were talking about earlier, and it'll be able to maintain, remember all of that in its context window, which will help it answer questions and stay on task with respect to the documents that you've provided.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1681.28,
+      "endTime": 1706.609,
+      "text": "If you haven't tried any of these models before, I'd recommend just giving them a go to begin with and just have a play around. Get used to chatting with them, create some fiction, do something with some documents so that you can see how it can write emails, how it can summarize things, how it can help you with the kind of tasks you would be doing at work. So I don't think really it matters too much which one you use. I mean there are some nuances between them.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1710.748,
+      "endTime": 1748.247,
+      "text": "So, for example, claude's been specifically trained to be more ethical and honest. So, for example, claude so some of these large language models they'll refuse to answer certain questions. So if you ask it to make you for instructions on how to make a bomb, for example, it's not gonna answer that question because it's unethical. It's been deemed unethical, obvious for obvious reasons, and dangerous. So there are certain questions that they won't answer. Claude is a little bit more skittish in that respect, so it sometimes will say I can't answer that question, even though it's kind of a fairly benign question.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1752.127,
+      "endTime": 1791.689,
+      "text": "Gemini is also similar to GPT. I think it's one of the things that Gemini tends to do a little bit better is provide rationale for some of its outputs, and it does provide links by default. So GPT3 won't necessarily, or GPT4 won't, provide you links to internet resources where you can fact check it, whereas Gemini does do that. So there are differences between the models. I would say try all three and give them a go and see which one you prefer as well. They all have slightly different styles in terms of prompting them, which we won't get into in detail in this on the podcast. But do you have a personal favorite?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1792.883,
+      "endTime": 1794.108,
+      "text": "I'm always chopping and changing.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1795.846,
+      "endTime": 1806.688,
+      "text": "I'm a little slut. Well, there's nothing wrong with playing the GPT field, jimmy, but at some point you're going to have to make a commitment, so you don't have a favorite.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1807.8,
+      "endTime": 1812.907,
+      "text": "Yeah, at the moment my favorite is Claude because it's a bit younger.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1814.12,
+      "endTime": 1814.662,
+      "text": "Shall, we move on.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1815.345,
+      "endTime": 1815.827,
+      "text": "I think we should.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1825.571,
+      "endTime": 1871.79,
+      "text": "Okay, so shall we take a look at where we are seeing cuts or where we've seen particular impact on the industry? I had a look. It's particularly difficult, I think, in these areas because, as we've talked about previously, we sort of have this kind of stealth effect of job losses. And if we see productivity gains, but they're kind of I'm not saying minimal, but they're not huge. It's not the case of wiping out a job. It's a case of if we talk about you can make something two thirds as efficient, then this is a really good place for you to sort of see that kind of stealth loss of jobs, because as you see the increase in productivity, you don't necessarily see the increase in productivity, you just kind of see less of a need for rehiring people.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1872.824,
+      "endTime": 1918.826,
+      "text": "I found a few references, so Darrell Ethinton in TechCrunch, who has a lot of talks with industry leaders and they've talked about in private about how AI is complicit in what he calls the great and continued culling. So everyone agrees that AI is playing a part in the scope but not in the timing and that's where things are being attributed to the economy. We do have some examples of Salesforce recently cut 700 rolls and SAP. They delivered some massive cuts last year as well, and both of those companies have said they expect headcount to be the same at the end of this year. But here's the thing these are companies that use experience massive headcount growth year on year.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1919.5,
+      "endTime": 1942.204,
+      "text": "So even flat hiring would be a step back from the usual business, and it should be noted. These companies are laying off staff while they still make massive investments in AI. So the economic effect, if it's there, it's minimal. They're able to spend money to augment, as they like to say, or in reality, replace the work that's being done by people.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1942.92,
+      "endTime": 1946.423,
+      "text": "So you talked about the scope, but not the timing. What did you mean there?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1947.26,
+      "endTime": 1985.077,
+      "text": "We know that AI is going to replace jobs at some point. So I don't think anyone is arguing that, that the scope is going to happen. But at this point the argument is still oh no, no, the jobs are not being replaced because of AI at this point. So that's the kind of timing thing. I don't think anybody could straight-face say there's going to be no effect, right, it would just be disingenuous. So I think this idea, the scope of the effect, we acknowledge it, whether it's one year, two years, five years, 10 years, but at the moment, none of these jobs at the moment are apparently being lost because of AI, and we've discussed this before.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1985.23,
+      "endTime": 2006.638,
+      "text": "There are other influences. The timing is not all about AI. But we've just talked about all these tools that are being used and we've given practical examples and we know that companies are using them now. So that's where the kind of timing argument are the jobs that are being lost now or the lack of expansion. In the examples I gave, how much of that is AI and how much of it is not?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2007.37,
+      "endTime": 2070.133,
+      "text": "Yeah, so I've done a little bit of research on this and what tends to be the general opinion at the moment is that last year was in terms of large language models. Anyway, last year was the sort of birth of these large language models really Like. As we said last time, chat GPT launched 3.5 at the end of 2022, I think and then GPT-4 came shortly afterwards, and what everyone's scrambling to do now is develop how you apply those to the workplace, and so this year is gonna be the year of what's called the AI agent, and the example I'm gonna give applies more to software development, because that's considered to be one of the kind of low-hanging fruit, in a sense, for these agents, and it's also quite a skilled job where people are well paid, so it is a bit of a target, but there's been a number of advances in AI agents in the last few months.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2070.213,
+      "endTime": 2108.057,
+      "text": "So things like auto GPT, which is something that Microsoft produced, and very, very recently, something called DevIn, which is it's basically all of the components you need to be a software engineer within a single interface and so you can ask it a question about. You know, I want to develop a webpage to do X, y, z and it will just go off and do it and you don't even need to intervene at any point. It will just like a human worker, like a software developer. It will just go off and complete the project to end, from end to end, and come back to you and ask questions, as it needs to, whereas up to now it's been.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2108.258,
+      "endTime": 2154.29,
+      "text": "You know, you ask for some code from GPT, you paste it into. You paste it into a code editor, it gives you some errors, you paste that back in. So it's a very, very human with AI sort of interaction and I think you know, as I say, that's looking at software engineers, which is it is an office job, but it's slightly different to what we're talking about today. I think what you're going to see over 2024 is more of these agents start to come out where they become, they're tailored for a particular industry or a particular role right. Yeah, exactly. So you can imagine a front desk receptionist type agent and if they get to the point where these AIs can answer the phone and talk in real time which they're also getting close to I'll talk about an example of that in a minute.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2155.478,
+      "endTime": 2198.95,
+      "text": "But if they can get to that point where AIs can respond to inquiries in real time, then you can almost take all the different roles that a receptionist does, so sending emails, coordinating things, making calendar invites, answering calls and responding to queries. You can take all that, most of which is office-based, and build that into some kind of AI agent. So everyone's got an AI PA. Yeah, that's the first iteration, I think, which you can already kind of do. You can already get yourself an AI PA. It's a bit clunky at the moment, but that's where the development's going to go in 2024. You're going to start to see these sort of drop-in replacement agents that can do specific jobs or certainly massively augment specific jobs.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2200.178,
+      "endTime": 2231.15,
+      "text": "So as a receptionist, you might be still answering the phone calls and still dealing with inquiries, but an AI will deal with everything else. It'll be able to transcribe the conversation you've just had, write the emails, send the calendar invites, do all the coordination and maybe it'll ask you to confirm is this what you want to do? But have a confirmation with a human-in-the-loop type confirmation. But it's going to significantly. It's going to mean that one receptionist, for example, can do the job of five or 10, which is what we've been talking about.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2232.214,
+      "endTime": 2271.219,
+      "text": "I wanted to give one other example. So from Nandoodle on Twitter, currently known as X, I tweeted a story about a Shopify employee who violated their NDA to reveal that Shopify had been firing global customer service staff across the US, Canada and Ireland and replacing them with AI chatbots. Doesn't sound surprising, and they have announced, since their assistants are called Sidekick and they will help respond to all of the kind of merchant inquiries, provide information on sales trends and more. I guess that sounds like a kind of agent actually, which has already been being employed. So concrete examples that we can already see.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2272.497,
+      "endTime": 2318.35,
+      "text": "Yeah, and just quickly, the thing I was going to talk about, which is a really good video, came out on YouTube a few days ago, which was talking about something called Grock, which is Grock with a Q G-R-O-Q as opposed to Grock with a K, which is X's, twitter's AI, twitter's large language model. So Grock with a Q is a company, that is, they have their own large language model that you can talk to, but they're using a new kind of chip and a new technology that's just under development. So that inference, which is how large language models respond to queries, can be done basically instantaneously and it's not something we want more of.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2318.471,
+      "endTime": 2354.201,
+      "text": "But in the video that I watched, they demonstrated how Grock can actually do a sales call in real time where someone's talking to it, it's translating that and then going through chat, gpt or another large language model, and then coming up with something to say back and then responding in real time. The reason I mention it is because up to now, the problem has been that couldn't be done in real time. The inference the going through chat, gpt4 and converting the speech to text and text back to speech would take like 10 seconds, and so you couldn't actually have an automated AI agent doing sales calls.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2364.25,
+      "endTime": 2402.439,
+      "text": "Let's talk about what people can do, because I think this is an episode where, hopefully, we've got a bit more positive than maybe on some of the other episodes, so there's a lot that people can do. I mean, I think if you think specifically about where you want to improve your productivity or the things that you don't want to do, if you spend a lot of time translating or summarizing policy reports, then maybe look at the kind of prompts and tools that will be best possible for you to do that Again, with you kind of supplying the finishing touches to it. If you spend a lot of time producing reports or presentations, how can AI tools shortcut that process or help you keep the content precise?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2403.853,
+      "endTime": 2426.301,
+      "text": "If you need insights and data, you can use chat, gpts, but remember that you've checked the outputs and remember that these large language models, they're running off the internet. So if you want them to run off your own data, you need to be giving them access to that data and I guess, jimmy, there are concerns about that if you're giving them access to your own personal or organizational data.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2426.871,
+      "endTime": 2468.262,
+      "text": "Yeah, that's something I was going to. We should have probably had a disclaimer around this earlier on in the episode. Please make sure that your organization you work for is comfortable with what you're using AI for If you're not using it through your company. So your enterprise or your company can actually sign up for chat GPT for Enterprise, which is significantly different to the one that you use on the internet, in that if you use chat GPT for the open source version on the internet, they have a line in their terms and conditions that says they will use whatever you put into it for training, future models.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2468.751,
+      "endTime": 2493.096,
+      "text": "So if you start putting your sensitive company information into it, you could get yourself in trouble very quickly. So, first of all, be open and transparent with your company. If they say you can't use large language models for your work, then don't use it. If they say you can, then obviously that's very encouraging and it's probably quite progressive. But, yeah, just make sure you're open and transparent and be really careful about what you put on there.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2494.37,
+      "endTime": 2536.724,
+      "text": "And you can get the large language models that are trained. There are plenty of organizations that will create small language models which are specifically for your organization. So my wife's organization has essentially access to a number of different GPT's, but only run on their internal data set so they can look at all of their historical reports, meeting minutes etc. Using the GPT model to have that interaction as those questions, but the only data it's looking at is internal. So if you are running an organization or you're responsible for implementing these tools, then you can look at ways in which you can.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2537.225,
+      "endTime": 2560.474,
+      "text": "You know you can purchase and and and use tools which are specifically focus on your organization, share point data or, you know, if you and you know have a lot of insight data that you want to use, you want all your staff to be able to easily put that into presentations. You don't have to use the open source models. There are plenty of organizations out there now which are, which are bringing these things to to kind of business and enterprise.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2561.06,
+      "endTime": 2602.195,
+      "text": "If your organization allows you to use a I or if they have their own internal I, then you can. You can have a go at using that. But even if not, then to familiarize yourself with these tools, which I'd recommend that you do have a you do record, you do familiarize yourself with them, then you can. You can use one of these. A is to help you write a letter to your MP, help you write a letter, any kind of letter you need to write. You could potentially get it to give you a hand with your tax returns. You could get it to write your story, much like the dot com boom you know, twenty years ago. This is the a I boom now and I think these tools are going to be around to stay and you're probably going to use them in the workplace at some point soon.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2602.76,
+      "endTime": 2648.356,
+      "text": "Of course, you know training. So mooks or massive open online training courses you know there are so many of them on a I now and prompt engineering might be useful now. It might not be in two years time, but at least you're using that to understand how to prompt. Do you understand the application of a I rather than rather than becoming a kind of expert and personally I? You know I'm looking at getting involved in the kind of government governance and alignment side. So I've looked at something called the I safety fundamentals governance course, which is something you need to apply for and be selected on, and it's not something that you can just sort of sign up to, but it is free.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2650.282,
+      "endTime": 2657.489,
+      "text": "Is there anything you would recommend? Should people still be learning to code? Do you think it's useful to learn python or do you think that is kind of dead now?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2657.83,
+      "endTime": 2695.086,
+      "text": "think in the short to medium term for coders, for developers, I think you're still going to need Human in the loop, so you're going to need people who can check what's going on with the, with the code that comes out of a i's. I do think that in the longer term it's probably going to disappear to a large part and so You're going to be looking at more like architect type jobs, system architect type jobs, looking in in the world and seeing what applications are needed and then working with an I to and the I will be the software developer effectively. So I think those will be the kinds of jobs you would look to move into as a coder.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2695.507,
+      "endTime": 2740.541,
+      "text": "I'll just just to finish up, I've got. I actually asked claud, I asked what people can do, how to prepare an up skill, so I'll just read this outline, for lines is pretty good actually For everyone. Get hands on experience using lm, writing assistants and tools for managers. Strategically integrate a while motivating teams for employees. Develop skills that combine human judgment with a I capabilities For students. Push for curriculums covering a I, literacy, ethics and prompt engineering for everyone. Again, advocate, advocate for a boost governance as lm's become ubiquitous. Finally, it says don't panic, rebut reskill.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2740.601,
+      "endTime": 2754.537,
+      "text": "Focus on roles demanding human traits like empathy, strategy and creativity. Emphasize the human in the loop collaborative model with a I. So there you have it advice from an a I to the human race.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2755.301,
+      "endTime": 2770.797,
+      "text": "I guess that seems a good point to finish on today. So thanks everyone for joining us. Next week we will be looking at manual work and robots, so that one should be really fun. So join us then, and for now, goodbye and have a good week.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2844.82,
+      "endTime": 2872.642,
+      "text": "I guess that seems a good point to finish on today. So thanks everyone for joining us. Next week we will be looking at manual work and robots, so that one should be really fun. So join us then, and for now, goodbye and have a good week.",
+      "chapterIndex": 8
+    }
+  ]
+}

@@ -1,0 +1,1316 @@
+{
+  "slug": "s3-2025-12-17-nano-banana-new-models-galore-why-china-mi",
+  "buzzsproutId": "18371261",
+  "title": "NANO BANANA, NEW MODELS GALORE & WHY CHINA MIGHT WIN: Jimmy & Matt debate their favourite AI stories from Nov/Dec 2025",
+  "date": "2025-12-17T14:00:00.000Z",
+  "season": 3,
+  "durationSec": 4024,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/18371261-nano-banana-new-models-galore-why-china-might-win-jimmy-matt-debate-their-favourite-ai-stories-from-nov-dec-2025.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Forget the leaderboard for a second—what actually changes your day? We dig into Google’s Gemini 3 and why tight integration across email, search, and docs starts to matter more than raw benchmark wins. Multimodal reasoning with long context finally supports “deep research” workflows that don’t collapse mid-thread, and the new image generation model feels like a leap: crisp multilingual text, many reference images, and grounded outputs that can summarise complex material in a single visual. This isn’t a party trick; it removes whole layers of cleanup that used to swallow hours. We also talk about OpenAI’s quieter 5.1 updates and why Claude Opus 4.5 may be a halo model priced out of everyday use. Then comes the plot twist: DeepSeek 3.2 arrives with sparse attention, delivering comparable performance at about a tenth of the cost. That reframes the game. If efficiency and power availability set the ceiling, not just parameter counts, the centre of gravity tilts toward whoever can build energy and compute cheapest and fastest. We didn't talk about ChatGPT 5.2 because it didn't launch until the day after we recorded! Which leads to the bigger frame: China’s structural advantages in energy buildout, land, and manufacturing, and the West’s constraints around permitting and older grids. If energy is the real bottleneck, policy and infrastructure—not just labs—decide who scales. We map that to the market mood: concentrated gains, circular GPU spending, and thin near-term ROI inside enterprises. It looks frothy, even if the spend sits with giants who can withstand a longer runway. Jobs are already shifting at the edges. Entry roles in analysis and production feel the squeeze, while autonomy scales in the background: robotaxi rides are compounding, and once safety clears a threshold, driving jobs face a systemic reset. The throughline is blunt: the winners pair efficiency with integration and a sane energy story. Benchmarks still matter, but only when they show up as trust, speed, and lower bills. If you enjoy thoughtful, plain‑spoken takes on AI’s real impact, hit follow, share this with a friend, and leave a quick review—what should we dig into next?",
+  "summary": "The November/December 2025 roundup covers a genuine model bonanza: Gemini 3 retakes the benchmarks with tight integration across Google products, GPT-5.1 lands as a quiet iterative reaction, Claude Opus 4.5 is priced so ludicrously it looks like a benchmark 'halo' model, and DeepSeek 3.2 matches frontier performance at a tenth of the cost via sparse attention. Matt makes the case that China's energy buildout, manufacturing scale and planning advantages may tilt the AI race, while both hosts agree Nano Banana Pro is the year's biggest consumer leap and that the AI-driven stock market concentration is a bubble nearing the shore.",
+  "keyTalkingPoints": [
+    "Gemini 3 topped the benchmarks and beat Claude at coding, but for most users 'best model' matters less than personality, speed and ecosystem integration - and Google's all-in-one subscription now makes it the obvious single choice",
+    "GPT-5.1 is an iterative improvement (instant/thinking modes) dropped as a reaction to Gemini 3; Jimmy declares 'they've lost the AI race, I think. Open AI'",
+    "Claude Opus 4.5 costs ~10x Sonnet per API token; Jimmy's theory is frontier labs quietly 'turn down' models after release while Opus stays untuned as a halo model nobody actually uses",
+    "DeepSeek 3.2 matches frontier models (sometimes beating them) at a tenth of the cost using DeepSeek Sparse Attention - 'another DeepSeek moment' that has been oddly quiet in Western news",
+    "Matt argues China is running a 'Manhattan project on energy' with spare grid capacity and cheap manufacturing, while the US cannot build power infrastructure fast enough - 'at best it's neck and neck'",
+    "Nano Banana Pro finally renders text flawlessly (including Chinese), takes up to 14 reference images, and can reason through a book's worth of text to produce one grounded visual; jobs data shows 22-25 year olds in AI-exposed roles down 13% and Waymo scaling toward half a million rides a week"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "OpenAI has lost the AI race; GPT-5.1's muted drop was a panicked reaction to Gemini 3",
+      "Frontier labs quietly dial models down after release to cut costs, and Opus 4.5 is the untuned halo model kept benchmark-strong",
+      "The AI bubble will burst within 6-12 months; it is a classic hype cycle concentrated in big tech and fed by retail investors",
+      "The US vs China AI race is 'at best neck and neck' - power infrastructure, not chips or data centers, will decide it"
+    ],
+    "matt": [
+      "For normal users 'best model' barely matters anymore; Gemini's integration and storage bundle make it the one subscription worth having",
+      "DeepSeek is now effectively China's national model and proof that Western chip restrictions have completely backfired",
+      "China's long-term planning, land ownership and energy overcapacity give it structural advantages the West's permitting-bound grids cannot match",
+      "The AI jobs story is finally producing directly attributable displacement, concentrated among early-career workers"
+    ]
+  },
+  "predictionIds": [
+    "s3-2025-12-17-nano-banana-new-models-galore-why-china-mi-2866.1-the-ai-stock-market-bubble-will-burst-within-the",
+    "s3-2025-12-17-nano-banana-new-models-galore-why-china-mi-820.2-openai-has-lost-the-ai-race",
+    "s3-2025-12-17-nano-banana-new-models-galore-why-china-mi-3635.8-human-driving-will-be-banned-or-treated-like-smo",
+    "s3-2025-12-17-nano-banana-new-models-galore-why-china-mi-2747.3-the-ai-bubble-bursting-is-inevitable-unless-agi-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "AI Song Vocal"
+  ],
+  "chapterCount": 13,
+  "turnCount": 173,
+  "chapters": [
+    {
+      "title": "Cold Open And Housekeeping",
+      "startTime": 0
+    },
+    {
+      "title": "Monthly AI Roundup Setup",
+      "startTime": 79
+    },
+    {
+      "title": "Gemini 3 Overview And Integration",
+      "startTime": 108
+    },
+    {
+      "title": "“Best Model” And Benchmarks Debated",
+      "startTime": 465
+    },
+    {
+      "title": "Multimodal Reasoning And Deep Research",
+      "startTime": 778
+    },
+    {
+      "title": "Subscriptions, Value, And Switching Costs",
+      "startTime": 1060
+    },
+    {
+      "title": "GPT 5.1 Incremental Changes",
+      "startTime": 1234
+    },
+    {
+      "title": "Claude Opus 4.5 Pricing And Positioning",
+      "startTime": 1480
+    },
+    {
+      "title": "DeepSeek 3.2 Performance And Sparse Attention",
+      "startTime": 1750
+    },
+    {
+      "title": "China’s Advantage: Cost, Energy, And Scale",
+      "startTime": 2178
+    },
+    {
+      "title": "US Constraints And Supply Chain Realities",
+      "startTime": 2704
+    },
+    {
+      "title": "Image Gen Leap With “Nano Banana Pro”",
+      "startTime": 3133
+    },
+    {
+      "title": "AI Bubble Risk And Market Signals",
+      "startTime": 3750
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 0.64,
+      "endTime": 44.56,
+      "text": "Hello everyone, it's your second favourite podcast host, Matt, here. Just to say, we recorded this episode the day before OpenAI released ChatGPT 5.2. So everything I say about ChatGPT in this episode, unfortunately, is wrong. But it doesn't matter because by the time you listen to this, Elon Musk's probably released a new, better version of Grok anyway. Welcome to Preparing for AI, the AI podcast for everybody. The podcast that explores the human and social impact of AI. Explore where AI interstakes with economics, healthcare, religion, politics, and everything in between. I want to be like common people, do whatever common people do.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 44.72,
+      "endTime": 47.84,
+      "text": "Welcome to Prepaying for AI with me, Brother Dragon.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 48,
+      "endTime": 59.2,
+      "text": "And me, Father Christmas. Merry Christmas. Yeah, it's that time of year. This isn't the Christmas episode, though, is it? No, but it's very near to Christmas. It's very close. Well, it might be the Christmas episode. For Christmas, I might be someone more Christmassy.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 59.84,
+      "endTime": 100.08,
+      "text": "Like Frank Butcher. Oh, the other one. I was going to say his name. Oh, if I wish we could go, I could be Dirty Den, actually. I mean Jesus is is quite Christmassy. Yeah. Anyway, uh, welcome to Prepaying for AI with us. And uh it's your your favourite episode. I mean your favourite style of episode, which is the monthly roundup episode. Mine that we tried to give up, but then people begged us to bring it back. So uh yeah, let's crack on with it. We're gonna talk about well, first of all, we're gonna talk about new models because it's been well, okay. I feel like we always say so it's been a bit of a bonanza recently with models, and it genuinely has.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 100.24,
+      "endTime": 118.4,
+      "text": "Like it genuinely has. Yeah, it has. And let's start off with the we've got more than one. Let's start off with the big one that was the big one, but then we'll talk about the one that maybe now is the big one. So let's start off with Gemini 3.0. Um we're not gonna talk about nano banana, which is the image generation tool, because we're gonna give that its own section later.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 118.72,
+      "endTime": 121.04,
+      "text": "So we are gonna talk about it. Not not now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 121.28,
+      "endTime": 130.48,
+      "text": "Yeah, now we're now we're not gonna talk about it. If you talk about it, I'm gonna cut this podcast. So you start off and uh and don't mention nano banana 3.0.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 131.04,
+      "endTime": 178,
+      "text": "So I'm not gonna call it Gemini 3.0 as well, I'm just gonna call it Gemini 3. Okay. That's all right. Um, I mean the naming schemes are pretty bad with these AI models, so having to say point zero on the end, I think is we're gonna talk about 5.1, 4.5, and 3.2 as we go on. So I know. Well, exactly. And um, I think the main headline is it vastly outperforms its predecessor, 2.5. Yeah. Um so okay, so Gemini 3 is basically Google's back on top. This was actually like it was a pretty exciting set of announcements where it wasn't really just Gemini 3, it was kind of the whole, it was kind of the whole thing with Google where they've integrated it into all their products, and the and the idea with Gemini 3 is that it is going to be much more tightly integrated with everything.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 178.16,
+      "endTime": 214.72,
+      "text": "So with your email, with like all their Google, all the existing Google products. I think it's really predominant in search now in Google search. It's like the primary thing that you get when you ask for a search result, which I we'll talk about it in a bit. I think some people love that, some people hate it. I think more people hate it to be honest, um, because it doesn't always get it right, so it's better to just have the search results. But um, but yeah, it's the best model. It's the best, it's been it was the best, sorry, when it got released like a few weeks ago. It had it topped all the benchmarks, it beat Claude at coding, but also beat GBT um or OpenAI's models on everything else.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 214.96,
+      "endTime": 252.24,
+      "text": "Um when I say it topped all the benchmarks, we've talked about this before, um, and you asked me about this earlier. Like, what does it actually mean that a model is the best now? And I and I and I we had a bit of a chat about it, and I was like, well, for most people, and we've said this before, but for most people, actually, it doesn't really matter. You you can use your favourite AI, the one you like chatting to, the one that you prefer its personality these days, or the one that's quickest often, because the the when we say the best, like these are the best means they're getting gold in math Olympiads and winning the AIM computer mathematics challenge.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 252.32,
+      "endTime": 288.56,
+      "text": "It's like you don't really need that for your day-to-day use in a chat bot. However, if you want to do stuff like lead bleeding edge coding or software development, then it is better than um it is better than uh Chat GPT and it's I'd say having used it myself, it's on par with Claude uh 4.5, which was previously recognised as the best model for coding. I've noticed it seems to be quicker as well. I think it's a bit cheaper to use than some of the Claude models, as in it's less costly for them to run and therefore tokens are cheaper. Um so yeah, Gemini, Google's Googles out there.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 288.8,
+      "endTime": 319.2,
+      "text": "So I I want to say first of all, like the the point when we're talking about that that point today around what is the best model is I think you know my point there was that for most people when we say the best model, it like you said, it's kind of doesn't matter. And there are things that you can look at which give kind of leaderboards based on feedback of what is like the best model from a user, uh like a usability point of view. I can't remember can you remember the name of the really well-known one? So there's a there's there's basically a site, it's probably on it's probably I mean it you can probably find stuff like this on GitHub.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 319.28,
+      "endTime": 324.8,
+      "text": "Um, but there's a site where basically people just rank models and it's kind of a leaderboard of officer.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 324.88,
+      "endTime": 326.64,
+      "text": "Oh, not Elemar, not Elamarina.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 326.72,
+      "endTime": 358.8,
+      "text": "Yeah, yeah, yeah. Yeah, yeah. Um not not not ranking of like the general public because the people who go onto those are not like necessarily reflective of the general public, but it's normal people rather than you know, like you say, basing it on how it performs in things that 99.9% of people are never going to have a need for, or maybe not never gonna have a need for, but not have a need for in their daily life. So that's maybe a way to look at it better. But I think Gemini was uh just for what it's worth was number one on those. Yeah. Certainly it was a few weeks ago, anyway, when it first came out.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 359.04,
+      "endTime": 379.92,
+      "text": "Yeah, and I and actually, I think first of all, I think it's interesting that you mentioned L Marina. First of all, I'd say I think it is fairly representative because it is people that are ranking it, but not only that, most of the models, when they first get released on LM Arena, they have code names, so they don't get really people. It won't have been released as as Gemini, it will have been released as something else because they want to do that because it it's almost like a blind test.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 383.28,
+      "endTime": 411.44,
+      "text": "Yeah, so quite often GPT, there's there's quite often these rumors that come out are this latest this latest model on on LM Arena called like Mystic Fox or something, it's like the next GPT model. Is it the next GPT model? BGT. Exactly, yeah. Subtle. Um but yeah Virgo and it's because these companies like OpenAI and Google they'll release them under a code name, under an alias, um, because they want to sort of get people's genuine opinion on them, I suppose.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 411.68,
+      "endTime": 412.32,
+      "text": "Yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 412.64,
+      "endTime": 430.48,
+      "text": "Um yeah, my my my so so I said at the beginning we're not gonna talk about nano banana, which kind of means that the main reason for for me approaching this as like Did you say nanobanana? Yeah. We're gonna have to cut this bit then. No, I'm I'm telling Phil that I'm not gonna talk about it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 430.8,
+      "endTime": 431.68,
+      "text": "Again, okay.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 431.84,
+      "endTime": 479.92,
+      "text": "Um just teasing them. Yeah, without mentioning too much about the thing that we can't mention, the very, very fast fruit. Um without mentioning it is the thing that is kind of special about this model for most people, and I'm like I say, I'm kind of representative, I guess, here of like a more normal user, is that this is the first time that that Google have had like a truly multimodal core, so that means text, images, audio, video, etc. all process as tokens through the same engine. So previously, I mean you still have to sometimes go into different chats to do video creation, etc. But you're in the same model, it's not like previously where you kind of have to go out with a model to do video and then come back into it, and you know, the the fact that you can reason with multimodality is the thing that nothing else could do.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 480,
+      "endTime": 486.48,
+      "text": "And I'm gonna hold on that point because, like I say, I think we need to go in a properly deep dive into the image generation model that I'm not gonna name.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 486.72,
+      "endTime": 491.76,
+      "text": "Does GPT-5 not already do this though? I thought it did, like you can be in a chat and just say make me an image.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 492,
+      "endTime": 527.28,
+      "text": "But apparently it it still is handing it off separately. That's interesting, and I I mean I'm sure they'll be able to do it. I I can't say anymore because I'm not allowed to mention the fruit-based thing. But we'll talk about it soon. We were gonna talk about so what I know, you well first of all, I just want to finish the this bit, because this is a thing that you've mentioned quite a few times with Gemini and previous versions, is like it has million token multimodal context. So this means like it has a really, really big window. And one of the things I do quite a lot now for for the kind of health stuff that I write is I do deep research.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 527.52,
+      "endTime": 572.96,
+      "text": "And I remember, you know, when did I finish my master's? It was early this year, and deep research was just showing off kind of nobody deep research is just becoming kind of properly useful through perplexity and and chat GPT. Now I can, you know, while I'm at work, I can run five deep research things in the background and just pick them up and then ask them to I want you to add this, I want you to research this, look at this paper, you know, I can throw in there. So I did this the other day, is like I'd listen to a podcast I wanted to write about, and I said, I want you to like start off by you're pulling this information from that episode of the podcast and then research these papers and it will add, you know, the the ability to kind of do all of that stuff and to be able to handle such huge amounts of of context and just keep adding to it and adding to it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 573.12,
+      "endTime": 604.16,
+      "text": "It's like the amount that it's progressed in six months. I I I sometimes kind of forget on that point on deep research. It's now just for me that's like the normal thing that you do. You want to know on anything in detail, you just go and run deep research. It didn't exist at the start of this year, and you're using Google for that. And I use Google for it, yeah. Okay, I mean I've I've tried other stuff, like I use Chat GPT, I don't use ChatGPT because I hate Sam Altman, basically. I mean that that is the reason why. Um I do use Claude sometimes, and Claude actually, I used Claude the other day, um, and it was loads better than I remember it being because I haven't used it for a while.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 604.24,
+      "endTime": 621.04,
+      "text": "But I think Gemini is, you know, I think just because it seems to access far more sources and do them fairly quickly. And and from a simple prompt, like when it comes back to you with its prompt for how it's going to go and do the research, I rarely have to edit it at all. Like, I think for for research stuff it's superb.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 621.28,
+      "endTime": 625.68,
+      "text": "Have you sorry on that point? Are you are you have you got a subscription now to Gemini? I have, yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 625.92,
+      "endTime": 658.88,
+      "text": "I got I got a like half-price subscription for two months. I'm sort of at the point now where I'm like, shall I drop Claude? And I'm like, you know, I'm paying 40 quid a month, which I'd rather not do. But then I'm also like, well, you know, it's not that much money, and actually I'm using them because I'm using them both like you know, almost every day. Um I would like to only subscribe to one, but I do find that there are different things where they're better. And I'm not I'm not quite sure at this point if I'm gonna drop one. I'm not quite committed to Gemini, but I think because of the reasons you said of like the fact that they are integrating, even though I have Apple devices, so that's not ideal.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 658.96,
+      "endTime": 669.12,
+      "text": "But even though they're into because they're integrating more stuff, I think like it's likely to be if you just want to have one subscription and then you get like one terabyte of storage and you get all this other stuff, like Gemini is surely the way to go.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 669.36,
+      "endTime": 679.04,
+      "text": "I was trying not to turn it into an ad for Google, but like actually I've been thinking about it because they keep bod bothering me about buying storage, and uh and I'm probably gonna cancel it because they'll probably then give me the half-price offer again.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 679.12,
+      "endTime": 680.48,
+      "text": "I mean, that's how it usually works now, right?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 680.96,
+      "endTime": 696.4,
+      "text": "Yeah, but I was thinking of moving to that from LM uh from this chat LM thing, but just because the models where you have that like tight integration where you can use Gemini, the actual app, it tends to work better in that way. It does much better, yeah. Yeah, all right, anyway, buy Google Gemini.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 696.72,
+      "endTime": 731.84,
+      "text": "Yeah, I think I mean I I would say like if you're gonna if you're gonna have one model and you're gonna pay for one, and I and I agree with you on sort of the LM studio that is probably still better for most people that want multiple models, but if you want to just subscribe to one, yeah. I mean I I don't see any reason why anyone I I I can't I kind of can't believe people are still downloading Chat GPT when you have the choice because Gemini just has more to it, and you get all this other stuff with the packet, all the Google. It's just that people just I guess a lot of people still associate AI as Chat GPT, but they are losing and I include my dad in this, like I I know he keeps telling me you use Chat GPT, so but they're losing market share, aren't they?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 732.88,
+      "endTime": 734.24,
+      "text": "They're losing market share, aren't they?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 734.4,
+      "endTime": 735.44,
+      "text": "They are open AI.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 735.52,
+      "endTime": 738.48,
+      "text": "Yeah, um we'll talk about that later. I thought we were gonna talk about it now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 738.64,
+      "endTime": 770.72,
+      "text": "Well, no, we're not gonna talk about that now, but we are gonna talk about ChatGPT's new model 5.1, which when I said to you at lunchtime today, we'll have to talk about GPT 5.1, you said, What's that? Yeah, I did. We have no idea what it is. Just perfectly sums it up. I mean, I think because it's like it's an iterative improvement, right? And it's not a new model. Um, I'm just gonna read out like what apparently is the difference. So it introduces two optimized modes instant for fast, low latency, and conventional responses, and thinking, which dynamically adjusts processing time for complex problems.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 770.88,
+      "endTime": 780.64,
+      "text": "It's not something new, but neither does the next point. Yeah, anyway. Well, it's it's the context window is huge, 400,000 tokens, but then it's compared to Gemini.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 781.12,
+      "endTime": 785.6,
+      "text": "Yeah, and it's comparing it to GPT-4, which is not yeah, what's the anyway?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 785.76,
+      "endTime": 819.76,
+      "text": "I mean, this kind of sums up, doesn't it? That like they've slightly improved the model, but they just did it at a point that Gemini I mean they obviously did it as a reaction to Gemini, but they they're falling behind, and I couldn't be happier. Should we not say anything more about it? I mean, people who are using it might have noticed a difference and improvement, like it's obviously slightly better. I think on math reasoning, tests, and coding things, it has um it has sort of improved slightly, but for most people does that really matter. I mean, again, if you've if you use Chat GPT, you probably just you'll probably carry on, but um but don't generate.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 820.24,
+      "endTime": 823.28,
+      "text": "They've lost the AI race, I think. Open AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 824.56,
+      "endTime": 858.32,
+      "text": "Let's mention Opus 4.5, which why again when I said to you about this model today, your answer was not you knew about it, but was like, why mention it? I think the thing we should mention first of all is why you said don't mention it is 4.4 opus 4.5, which Claude's kind of positioning is very weird because originally they had Haiku, Sonic, and Opus, and they had very distinct kind of you know brands and they had distinct kind of use cases. Haiku was lightning quick but rubbish, sonic was the kind of middle model, and opus was the premium model, and then Sonic 3.7 and Sonic 4 came out first, and then 4.5.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 858.64,
+      "endTime": 883.6,
+      "text": "And Opus is so ludicrously expensive. It's basically it's like it doesn't make any sense why even if it was, and I I'm not sure if it is still slightly better on coding than others, but even if it was like the amount more expensive it is than other models, and when we say expensive, we're talking here about the API. So we're not talking about if you use the subscription, but if you use the subscription, you're gonna run out of your it won't let you use it much quicker.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 883.92,
+      "endTime": 923.04,
+      "text": "Yeah. Uh to put this in context, I use win, I've used WindSurf, I've talked about it before. It uses this token system where you pay $15 a month and you get 500 tokens. A token equates to a quite a long chat with a standard AI. Claude Sonic costs two tokens per prompt, basically. And a prompt can uh a prompt will result in a lot of output from the AI, quite like a serious amount. Opus costs 20 credits, so I can have I can have ten times as many chats with using Sonnet, and there are other models that are even cheaper than that. Like it's the to pay 10 times the amount for Opus, it's just not worth it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 923.28,
+      "endTime": 924.56,
+      "text": "It's definitely not 10 times better.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 924.96,
+      "endTime": 925.84,
+      "text": "Who will be using it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 926,
+      "endTime": 931.04,
+      "text": "I don't know. I don't I doubt anyone is. It's probably costing anthropic money the way they've put it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 931.2,
+      "endTime": 972.16,
+      "text": "I mean, what what they say, so there's one thing that they say is very special about it, it has this thing that's called effort parameter, which has three modes that allows users to control token usage by trading off response thoroughness for efficiency. But that sounds like it's just a way to stop them using Opus 4.5 all the time because it's too expensive, which is sort of an acknowledgement of how how expensive it is. It says it's cheaper than previous Opus models, which I I don't know if that's true, but um yeah, it just it it it just seems like no one really knows what it comes for. Is there any case where you're coding you think that there's someone who if it's you know if it is still one percent better and it doesn't matter the cost?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 972.32,
+      "endTime": 974.96,
+      "text": "Is there any so is there any case for it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 975.28,
+      "endTime": 1012.32,
+      "text": "I've got a bit of a theory on this, and and there's there's people have had various sort of views on on so so one thing that like the frontier models seem to do is people have people think that when they when they first release them, they release them in this kind of like high power mode, like so Google three on release will be slightly better, and then over the coming weeks they basically turn it down a little bit because these models cost a lot to to to run. And they've said the same thing with like Sonic 4.5 is like when it first came out it was amazing, and then actually it seems to have got slightly worse over time.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1012.56,
+      "endTime": 1028.48,
+      "text": "And I wonder whether yeah, exactly. It's really weird, and I wonder I wonder because m because anthropic's naming convention is weird, they don't have like one model, they have three for in each in it like 4.5 has haikus on it and they do, but they never release more at the same time, so at any point they never really have all three.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1028.64,
+      "endTime": 1031.92,
+      "text": "They seem to have two of them or one of them, and then never the three.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1032.24,
+      "endTime": 1049.2,
+      "text": "But I wonder if opus is that is it's just that ultimate model that that like can actually that has all the bells and whistles that that doesn't they never turn it down. So, like it effectively it's allows them to lead benchmarks and things like that, but no one's really using it. I don't know, I can't imagine people are using it because it's bonkers.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1050,
+      "endTime": 1099.36,
+      "text": "Anyway, let's move on to the other one that we do want to talk about, which is um Deep Seek 3.2. And I just want to start with something here that I I think would be interesting to listeners who you know, we often say people who are not kind of familiar with China. Um at some point, I don't know, 15, 20 years ago, whatever, people stopped referring to searching for things and started referring to them as Googling, right? And you know you've made it as a company when you when you say that. People in China that I come across on social media regularly now use deep seek as a verb, and they refer to you know, they I'm gonna deep seek it, and they use it in various kind of ways that deep seek means AI um to people in China, which is funny because I use Alibaba's uh it's now Q Q Wen, it's called Tianwen now in Chinese, but I use that as my kind of daily model.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1099.44,
+      "endTime": 1124.8,
+      "text": "I haven't I haven't switched over to using Deepseek, but maybe I I should. But do you want to? How'd you say it in Chinese? Deep Seek. Deep Seek. You just write DS. Oh really? Yeah. There was a slang term on based on the whale, I can't remember what it used to be that used to be used a while ago. It was like Whale Brothers or something like that. Um but now I think it's now I think I only ever see it as just DS.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1125.12,
+      "endTime": 1166,
+      "text": "Deep Seat, it just seems a bit awkward, Deep Seat, compared to Google, but maybe or DS. I'll DS it. Well, so why would you be DSing it then? Well you tell me. Well, so it's not just that it's really cheap. Like Deep Seat came out um uh it got released two or three days ago now, or maybe a week ago, something like that. It came out really recently, it was after Google's announcement, it was after everything else we've talked about today. Uh it is it's actually beating everything in the benchmark, benchmarks, but at one tenth the cost of GPT-5. Yeah, this is it. This is the amazing thing. So it's it's beating, it's basically beating all these models in the benchmarks.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1166.08,
+      "endTime": 1203.2,
+      "text": "Now it's only by a little bit, so let's just say it's on par with GPT-5 and Gemini and all the all the rest of it. Technically, it's actually beating them, it's doing it at a tenth the cost. So they've done they've had another Deep Seek moment really. I don't think it's been in the news as much, but Deep Seek 3.1, we did an emergency podcast. This is probably worth one as well, in a in in a in a in the same way, in that Deep Seek 3.1 like smashed it out of the park in January, February this year with a model that was comparable to a lot of the top models at the time and um was open source. I think it was a bit more efficient and cheaper as well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1203.36,
+      "endTime": 1240.88,
+      "text": "Again, they've done it again. They've come out with a new paper accompanying the new model. They've come up with new ways of doing things. So actually, new algorithms, more efficient algorithms, using something called Deep Seek Sparse Attention. It looks like it's got a pretty good context window. It's not the same as it's not like a million tokens like Gemini. But yeah, like so this the best version of Deep Seek is a tenth of the cost, and getting this gold medal math Olympiad performance, outperforming other models on AIM, including Google Gemini, which, as we just said, has actually when it was released beat out everything else.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1242.16,
+      "endTime": 1267.52,
+      "text": "So it's got something called Deep Seek sparse attention, which apparently is the mechanism that is kind of so special, which dynamically selects and computes full attention only for high value tokens, achieving a reported 50% reduction in computational cost for long context tasks. So it's very similar to what they did previously, that they've just found a better way of a more efficient way of doing things.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1267.76,
+      "endTime": 1301.52,
+      "text": "Well, so yeah, so the first Deep Seek, I remember now, the first Deep Seek was had that thinking mode, wasn't it? So that's what it was. It basically had a instead of just giving you an answer, it would think about it and by doing that come out with better answers. And then everyone literally adopted that straight away. Now we've got this Deep Seek sparse attention. So it'd be interesting to see, won't it? Because but then it it it I think it furthers that whole argument of like they're what what the what DeepSeek in particular are doing, and maybe they're state sponsored, I don't know, but they're undermining everything that like Western AI companies are doing, right?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1301.6,
+      "endTime": 1316.24,
+      "text": "Because they've got trillion dollar valuations and all the rest of it. If it suddenly costs a tenth overnight to do what they're doing already, then like even if they can replicate that and then do everything for a tenth the cost, all the value goes out of it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1316.4,
+      "endTime": 1350.56,
+      "text": "Yeah, I and as I say, and let's be honest, you know, like I sort of jokingly say, like open AI would be you know, if they did fail, would be nationalised because they have a four-star general on the board, a retired four-star general on the board. With with Deep Seeking China, I feel like I don't know how it started up, you know, whether it was backed by by the system or not, but it it now is important enough that you know it's essentially the national model. Um and I think as you said, like people think, well, well, you know, why why would why would China not sort of want to make money out of it?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1350.64,
+      "endTime": 1387.68,
+      "text": "But actually, if you look at uh what it's able to do, it's able to bring down the value of all of basically big tech because it's just making a a mockery of a lot of the claims around kind of infrastructure, etc. etc. While the US just throws kind of brute force at things, China is innovating, and this is like the story of lots of things that doesn't get doesn't get heard in the West because it always gets seen as you know, China's kind of ripped off Western technology and Western kind of ideas. Well, it did at one point, but you know, China is innovating in a way that others are not, and it's it's doing it to some degree because it's been forced to.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1387.84,
+      "endTime": 1424.96,
+      "text": "You know, the the the a lot of the tariffs and a lot of restrictions on chips and stuff like that have, and people said this might happen, but have completely backfired, completely backfired, and Deep Seek is kind of the poster child for this innovation by a Chinese AI lab. I you know, I don't buy any of the stuff about it's this kind of like little startup, it's well backed. It's you know, and and even if it was, it is now, you know, it has the support of the second biggest economy in the world, it has the support of the Chinese state. Um, but you cannot escape the fact that it has a model that is comparable, if not better.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1425.04,
+      "endTime": 1458.48,
+      "text": "So, in in some ways, better. I'm not sure on coding and stuff, you said you think it was up there, but it's one-tenth of the cost to use, and so that's why in China you see every single app is powered by DeepSeek because it's so much cheaper to use. I mean, there's a few things like the 131,000 token context window, you know, compared to the million of Google, so that is less, but then you know, is that something that you would pay 10 times more for? No, it's not, and and so some of these things that they put in to control it, you know, they could increase that context window, and I'm sure that they will.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1458.64,
+      "endTime": 1470.72,
+      "text": "Um it it just it just feels like this is like you say, it's a kind of leap forward that unlike Deep Seek 3.1, it doesn't really feel like people are talking about this.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1471.92,
+      "endTime": 1512,
+      "text": "It's it's been a lot quieter, yeah. I I don't know whether that's because of of the time that it's happened and and like it's just that there's more news about other things, and so it hasn't made the top of the news. I d I feel like in general AI is not top of the news anymore in the way that it was maybe at the start of the year. Um so I'd probably that, um, but maybe it's also been slightly suppressed because because of what it says. Um I don't know. I mean, and just as a little test, so I've just uh no, it's not even finished running it. Oh yeah, no, I've just it's just finished, so I mean, very scientific, but because on chat this LLM um chat LLM thing, I have access to both the models.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1512.08,
+      "endTime": 1519.2,
+      "text": "I've just run the same prompt through GPT-5 and Deep Seek 3.2, and it did charge me 10 times as many credits.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1519.6,
+      "endTime": 1533.52,
+      "text": "So what about yeah, because I'm sure this narrative will be used. What about for those friends of ours in the US or the UK or Europe about you know if they use DeepSeek's model, they're giving all their data to the Chinese Communist Party?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1533.92,
+      "endTime": 1569.04,
+      "text": "So, first of all, like because DeepSeek's genuinely open source, if you run DeepSeek the app, then yes, like you are literally gonna be potentially opening yourself up to doing that in the same way as you are with GPT and all the rest of it. Um but obviously you're doing that with a Chinese company, so there is a risk there. Um, but bear in mind that Deep Seek 3.2 is a genuinely open source model. That means companies like Grok and companies that run open source uh versions of models, so someone will basically create a Western version of Deep Seek 3.2, they might even call it something.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1569.76,
+      "endTime": 1594.24,
+      "text": "Perplexity earlier this year, and I'm not sure, and I haven't really taken much notice of them for a while, but they were doing that. So they had basically had it, but they put it on the servers in the US, not servers, but you know, they held it basically in a data center in the US. Yeah. So they had a model that wasn't censored and that wasn't held in China, but it was using Deep Seeks 3.1 at the time. So I presume that I mean maybe perplexity at doing it, but I presume that's what others will be doing.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1594.48,
+      "endTime": 1600.8,
+      "text": "Yeah, if you're in the West, that's if you're worried about that kind of thing, then that's the safest way to do it. I mean, you're still giving your data to somebody.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1600.88,
+      "endTime": 1612.8,
+      "text": "Um, I would use Venice AI, another company that sponsor a lot of podcasts, but not us. So they're the ones where you they basically protect your data or the chats get deleted, etc. etc. Apparently.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1617.68,
+      "endTime": 1651.04,
+      "text": "So that's the perfect segue, that section, I think, into this is China winning the AI race? So we said we'd do a whole episode on it, but you think we run a banana? No, not yet. I want to tease it as long as possible so people will keep listening. Um, so yeah, is China winning the AI race? Because it's something we've talked about a lot, and there were there are sort of particular points here about it's not just about Deep Seek 3.2, it's also about particular kind of energy cost and land and just the ability to kind of, you know, for the Chinese state to kind of plan and also I guess the innovation stuff that we we talked about.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1651.2,
+      "endTime": 1694.08,
+      "text": "So, like on the infrastructure stuff, China's basically doing a kind of Manhattan project on energy. And because it is a centrally planned system, although it's not, you know, it's not quite a centrally planned system that they maybe claim it is, but they have this kind of dual track strategy of rapidly developing massive renewable power and then still ensuring immediate stability by having kind of conventional sources. So they just have an advantage on that, and that gives them an environment where basically AI developers can treat energy availability as it's already kind of a solved problem, whereas in the in the West, they're they're sort of still trying to solve that problem and they have more issues around you know being able to use certain sources and be able to get planning permission, etc.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1694.24,
+      "endTime": 1735.92,
+      "text": "I mean, I think that's the the first thing. Um the second thing is just like cost and scale. So the thing we've talked about, you know, China has this kind of advantage in terms of uh complex, large-scale manufacturing of solar panels and batteries and stuff. It's got this mature industrial support ecosystem that drives down the cost of compute and infrastructure. It's got models like Deep Seek 3.2 that you know they're 10 times lower. Why are they 10 times lower? Some of that is because they have found these efficiencies, but some of it will also just be because it is cheaper for them to, you know, to run data centers and to be able to um supply the energy they need to do that here.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1736.08,
+      "endTime": 1738.16,
+      "text": "So there's another kind of advantage that they've got.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1738.48,
+      "endTime": 1778.88,
+      "text": "We I think we talked about it before, didn't we? Like China has this if China's got a problem with power at the moment, they overproduce it, they've got too much, and so having data centers to soak up the capacity is a benefit. Whereas in other parts of the world, like it's pretty obvious and evident now that data center data centres are competing for consumer um like for uh what's the word? Not consumers, yeah, competing with consumers basically for power, and so that's pushing the price of electricity up for everybody, um, and which is a bonkers situation to be in. But like the US unfortunately can't build the infrastructure quickly enough, and the grid can't even cope with it anyway, I don't as I understand it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1779.12,
+      "endTime": 1819.68,
+      "text": "Yeah, and they d and and even building the the infrastructure, the cost of US labour to build the infrastructure and land, you know, the Communist Party in China own all the land, so they can build wherever they want to build it, and they can build it whenever they want to build it. I mean, there is a thing I I when I researched this, it was called the geopolitics of thermodynamics. Um, and it was about like China's focus on energy efficiency as being essentially the ultimate measure of future success. So you've got you know, US researchers are are struggling with um a kind of strain power beard and all these kind of you know, we're gonna build this, this, and and relying on kind of future technologies that are not there yet when China's built out all of this infrastructure already.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1819.84,
+      "endTime": 1853.76,
+      "text": "Um it just it just puts them at an advantage. And I should say here, like, you know, because we're based in China, I don't want people to think that we're you know, we're here to sort of you know parrot the story of like why China's better. We're just trying to give a view that people don't necessarily see in the West and just give a reality from what it's like on the ground. You know, China is struggling and has problems, a lot of issues, as every country does in the world, but it just feels like the model that they have for the country, you know, not for every individual, but for the country is kind of able to be more.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1853.92,
+      "endTime": 1872.16,
+      "text": "I mean, just the stability of the system of government they have just means they're able to kind of ride these things out better and they are able to centrally plan, they're able to long-term plan, and they're able to just like do massive infrastructure projects where they don't have to worry about the land and planning consent, etc., because they own they own the entire system.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1872.4,
+      "endTime": 1882.24,
+      "text": "Yeah, and I think it's not just that, is it? They've just had a period, they've just had like 20 years of building out infrastructure, and this is just like another thing to go and channel that into. So they're not gonna be able to do that.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1882.4,
+      "endTime": 1892.64,
+      "text": "Yeah, exactly. And they were running out of things to build, and suddenly they got this miracle of something else to build. So it pushes it it pushes that on another few years, doesn't it, while they build it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1892.88,
+      "endTime": 1917.76,
+      "text": "Yeah, and despite I mean despite threats not to sell GPUs to China, like I think like they so Nvidia keep pushing to sell like the last generation, so they're like a generation behind all the time, but they're not staying, they're just staying that far behind. It's not like they're not allowed any of the new chips and they'll never be allowed them. There's always like NVIDIA, they're a massive, massive market. And they're innovating on chips, yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1917.84,
+      "endTime": 1922.32,
+      "text": "They're innovating on chips as well, as well, aren't they? Huawei, for example, with yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1922.4,
+      "endTime": 1935.68,
+      "text": "I mean, there is there's an interesting argument that like NVIDIA need to keep stringing them along a little bit to not to suppress that to an extent because if they cut them off completely, then maybe the danger is they'll just develop their own chips, and that's that's well.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1935.76,
+      "endTime": 1967.04,
+      "text": "Also, if we look at the realities of global supply chains, right? At some point, China is going to have its own sort of self-sustainable way of creating chips, and the US is gonna have to have its sustainable way of getting rare earth minerals, but at the moment they don't, and so I don't know what's going on in the background, but I would imagine there is some you know complicit acknowledgement that actually we're allowing just enough of this for you as you're allowing to us because that's what we need to be able to get by. Otherwise, no one's otherwise no, yeah, otherwise everyone loses because no one can do anything.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1967.2,
+      "endTime": 2001.92,
+      "text": "Yeah, so you know, we we don't know the the full details of the trade war, but we do know that a lot of the things, you know, the companies that kind of waited and see what what would happen after the sort of early Trump announcements, a lot of those companies uh and and ones that had kind of you know started to, for example, move supply chains out of China, a lot of them have come back to China because they've realized that one, the infrastructure just doesn't exist elsewhere. Sorry, not infrastructure, the supply chains just don't work in other places. No, and also it's not actually cheaper because they just don't have you know, they don't have everything in one place.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2002.08,
+      "endTime": 2022.88,
+      "text": "China has it all in one place. You go to somewhere like Southeast Asia and you get one bit of it, then you have to go somewhere else for something else. So we're not we're not necessarily seeing the effects that people thought of the tariffs, and I think I think there's probably some, you know, like I say, off-the-record agreement that we just allow enough both to slip through and eventually they'll find their own equilibrium.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2023.2,
+      "endTime": 2036.88,
+      "text": "Yeah, I mean, not even so off the record, is it? When the when the when they recently had another tariff fight, it came down to well, we'll just cut off your rare earths then, and then they didn't quickly changed. Yeah. They quickly changed their tune.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2037.28,
+      "endTime": 2073.92,
+      "text": "Um we talked about China. We should just mention quickly like the US side of it. I mean, like, without going into too much of the kind of economics at this point, I mean, I think listeners would be like, well, okay, but but isn't the US building all of this infrastructure as well? Like, we hear about these huge data centers, we hear about you know the the the soft bank thing, we hear about Groc having like the biggest data center in the world ever that's gonna make their model you know self-aware, etc. etc. So why why you know sort of playing devil's advocate? Well, why why will why why won't the US like go further into lead?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2074.16,
+      "endTime": 2077.12,
+      "text": "Well surely they will just build what lead?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2077.44,
+      "endTime": 2116.96,
+      "text": "I think at the moment at best it's neck and neck. I think the US are ahead in terms of like the they were first to the market with open AI, and all the a lot of the big companies that you'll have heard of outside of China are in the US. The challenge, um as we've already alluded to, it seems to come down to power infrastructure rather than data center and chip infrastructure. So the US has the data center and chip infrastructure, they have NVIDIA, they have the ability to restrict the sale of the best chips to China, however, they just can't build the energy infrastructure fast enough. The grid is older and can't keep up.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2117.12,
+      "endTime": 2146.88,
+      "text": "China's grid is much younger. Um, China has spare capacity already, and they're already building out more. I think they built out like a third of the world's capacity last year or something like that. Don't quote me on it exactly, but it's it is a it's a significant fraction of the world's capacity that China are building out every year, in the same way they're doing that with rail and everything else. They're just their economy's geared up for that right now, as we as we said. So and it's gonna come down to that. There's no good having a data center if you can't power it, which is the situation.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2147.04,
+      "endTime": 2148.96,
+      "text": "That's gonna be the bottleneck, yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2153.36,
+      "endTime": 2184.4,
+      "text": "So we've kept our listeners in suspense long enough. Let's pull out the fruit. Have you not got I thought there's another thing we can talk about first. No, we're gonna talk about nano banana. Okay, and uh specific so nano banana, nano banana three or two? Pro. Nano Banana Pro. I think it's nano banana pro, yeah. Should I should have should you have written down? Should have looked this up with oh yeah, on my notes. Yeah, thanks. I didn't see that. Um Nano Banana Pro, because there was a nano banana before. So nano banana was a code name, but apparently people liked it so much they stuck with it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2184.64,
+      "endTime": 2220.4,
+      "text": "Nano Banana Pro is the basically it's the it's it's part of Gemini 3, but it's Google's new image generation model. Um, and it is like I think for the sort of general user, it's the biggest leap forward this year. Um, like even Deep Seek didn't really make much of a difference to people. Like it was amazing because it saved, but but what's happened with with Nano Banana Pro is it's just made image creation like it's it's like it's leapt forward like a thousand percent basically. I mean it's it's well it's incredible.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2220.64,
+      "endTime": 2256.56,
+      "text": "Yeah, I mean I'd sorry to steal your thunder, but effect the problem with image generation before was as soon as it had any text in it, that's this is aside from like the fact that you know if you go back two years, they had people with six fingers and things like that. That did get solved, but anything with text on it. So if you're trying to make a logo, if you're trying to make a diagram that's got any text in it whatsoever, it couldn't get the text right, it just couldn't do it, misspelt things, letters all over the place, stuff that wasn't even didn't even look like letters. And Nano Banana Pro, I haven't used it much, you've got more experience with it, but now it can it's basically flawless as far as I understand it with text, right?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2256.72,
+      "endTime": 2285.92,
+      "text": "Yeah, I mean it's flawless with text, it's flawless with text in other languages as well. Because one of the things I do a lot of text in Chinese, and it was like the old Gemini model was fine with English text, like mainly, like not 100%, but but mainly it was it was it was generally 90% of the time it was correct. With Chinese text, like there were some characters I just could I would type in a character and then it would create an image and it couldn't create that character. Like there's a there's a word hupisuo, and the hu in hupisuo, it just couldn't, it couldn't do it, it couldn't draw it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2286.08,
+      "endTime": 2313.36,
+      "text": "Now, I mean you can just say you can just put it in English and be like, but I want it in Chinese, and it will just accurately perfectly translate every bit. It's not 100% flawless, like sometimes you'll tell it, do it in Chinese, and it will do some of it in Chinese and leave a word in English, and it takes a bit of work, and then it doesn't do it, and you have to, you know, sometimes you have to like leave the chat, go back in and try again. So it's not perfect, um, but it's like you can get there eventually, and most of the time it gets there first time. There are two other like really amazing.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2314.16,
+      "endTime": 2370.32,
+      "text": "How has it done that though? Like, do you know? Yeah, so so because it so this doesn't necessarily directly explain it, but previously what you had was like the model itself, right? Was was um like if you had it like a diffusion model, right? It basically was creating an image and the text prompt was just giving it an instruction, it was going away somewhere else. The reasoning model and the image generation model are working together, so it's doing the reasoning, and then that's feeding the model, and it's going back and kind of querying itself as I understand it. So the whole process, I mean you don't see it, but it's going back and it's kind of checking it, like it's kind of like got a thinking mode within within the image generation, so it will be checking it and it will be, you know, the way that thinking mode works, where it questions itself and asks itself and goes back and then sends it, you know, it answers a question, it goes back, it will do all that in the background.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2370.4,
+      "endTime": 2402.16,
+      "text": "That's my understanding of of how it works. Um, but it's like it's phenomenal, like it's just phenomenal. But it's it's it's not the things like the quality of the image, because I think that is just like an iterative leap forward. It's the fact that suddenly you've gone from being like it still struggles with text to it's a hundred percent. And there's another thing where you can do um it can support up to fourteen reference images or six in its kind of highest quality, which means if you want to put in like a picture of like six different pictures of people's faces. And ask it to put all these things into something.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2402.4,
+      "endTime": 2464.4,
+      "text": "Whereas previously you could maybe put one image in and say, like, incorporate this face, and it would kind of try and do it. It can now put six images in, or you could put six pictures of a person and it would, you know, be able to pull them all together to make the perfect one. So it goes into that much detail. You can create an image where you say, like, I want it to be this person in this setting, I want it to be at a sunset. You could put in the sunset and give it you know several images to work from. Um, the other thing that the sort of final thing that I think is pretty amazing is how you can um not for sort of image generation like a picture, but if you want to create a visual representation, you can throw in like a diamond huge, yeah, you can throw in like basically like you know, an article or a book, like a small book, but like a book's worth of text, and just basically say like summarize all this stuff in an image or create a kind of whiteboard summary of this, and it can do that because it goes and reasons through it, and then so it does all those reasoning steps with looking at the um the text or whatever you've thrown into it, and then it reasons and creates an image.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2464.56,
+      "endTime": 2482.72,
+      "text": "So people have said, like, being able to use this to provide kind of not learning tools, but like a way to summarize really complex ideas into something very simple. You don't have to do that and then create an image, you just chuck it in, it reasons, does all the calculations, and then creates the image. So, yeah, it's it's amazing. It's amazing.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2483.2,
+      "endTime": 2485.28,
+      "text": "I mean, I don't do much image gen stuff to be honest.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2485.36,
+      "endTime": 2493.68,
+      "text": "So, like it doesn't seem to have a limit either. Like, I create sometimes like 30, 40 images and it never it never stops. Never stops. Can what about um that's with a subscription, of course.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2493.84,
+      "endTime": 2504.8,
+      "text": "Yeah, what about GPT 5? The there's an image generator built into GPT, which obviously got way, way better like a few months ago. Like, is that is that not? I mean, I haven't used it since it was 5.1.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2504.96,
+      "endTime": 2550.16,
+      "text": "Okay. Um it definitely when it came out, so the stuff I was listening to, I listened to a few, like Nate Whitmore um on the the AR Daily breakdown, and um he was talking about as the biggest leap forward this year as well. Kind of basically, I mean, I think what he said was exactly what I was thinking. Um, not that he heard me say it or you know read my brain, but we we seem to have the same thought on it. Um but he was also saying like it's it's Mars ahead of any other image generation tool. Now, whether because 5.1 hadn't come out, it could be that 5.1 has come out with some amazing new way of creating images, and I'm pretty sure you know Chat GPT will at some point very soon have a model that is you know up there with it, yeah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2550.72,
+      "endTime": 2572.56,
+      "text": "But it was Chat GPT was by far the best image creation model, and then it was like it didn't just like leap ahead of it because you see these model is like it's slightly ahead, then the other one's ahead, it's like it just lapped it, just went like immediately. It was uh and I don't think anyone expected this. That's the thing. I don't I don't think people were expecting this. They knew about Nano Banana Pro, but I don't think anyone's expecting it to be this good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2573.44,
+      "endTime": 2600.24,
+      "text": "Yeah, I've heard the same thing. Um I th I like I like I say, I don't do a ton of image gen stuff. I'm actually gonna probably do some now. Um but I I saw the improvements to GPT, I just use it occasionally, but I just wondered what the difference was there. But I think from what I've seen, it's that level of it's the it's like you said, the ability to just chuck loads of stuff at it, not not worry about having to do really much in the way of prompt engineering before you do it. You just sort of chuck stuff in there and it does it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2600.56,
+      "endTime": 2641.2,
+      "text": "It's grounded with Google search as well, so it can like generate images based on real-time stuff and factual events. So you could say, like, you know, create me a an image summary of today's news, and it would go away and and go and do a search and find out what the news was, and then create the image. So that's what I'm saying about like we talk sometimes about tools and saying like it uses a tool, right? So it goes off and use a tool. Now, obviously, there's some degree of that, but because it's all integrated, it's just completely seamless. A lot of this stuff you could so you could have gone before with ChatGPT's model and gone and searched the news, asked for a summary, then pasted it in and said, give me a visual version of this, and it could do it, not as well, but it could do it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2641.36,
+      "endTime": 2658.4,
+      "text": "But now you could just say you're like search today's news and create me a visual summary of it, and it could go away and do that because it's got access to search, it's got access to thinking mode, it's just completely, completely self-contained as as far as the user sees it. Anyway, I'm sure there is some way in which there's a kind of handoff of tools in the background.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2658.64,
+      "endTime": 2663.44,
+      "text": "That's cool. Cool. That was just as exciting as I expected it to be.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2668.4,
+      "endTime": 2676.08,
+      "text": "So has the AI bubble burst yet? Uh no, it hasn't. Um, but it might. There we go.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2676.32,
+      "endTime": 2710,
+      "text": "I went it's gonna, in it. Like obviously it's gonna. I feel like if we just talk about this every two or three months, then eventually we'll be like Nostradamus as we've predicted it, right? I I I I thought we should put it in this month because it feels like if it's a kind of wave that's getting bigger and bigger and bigger, like uh it feels like it's getting kind of closer to the shore. And and you're now whereas this was previously something that like a few people were talking about, or you know, you'd read about it every now and then. Now it's like when you see a kind of um you know consolidated kind of stories you might be interested in.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2710.08,
+      "endTime": 2747.2,
+      "text": "There's always one on this, it's in the mainstream news. People like I'm hearing like people's mom, you know, a mom gave her a call, and her mom was like, Oh, I've heard this about it. So so it, you know, it's it's probably out there in the kind of mainstream now. I mean, the big thing behind it that we talked about before, you know, US stock market gains in 2025 were basically driven by AI-related stuff. I mean, it's like 80% of the SP 500 gains, and the five largest companies now hold 30% of the whole um SP 500, which is the highest concentration in about 50 years. Yeah. Um, but it's all also in the infrastructure build part.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2747.28,
+      "endTime": 2783.2,
+      "text": "So the infrastructure build in the US was like basically one point one point, it was something like one point one percent of one, it was one point one percent of growth out of one point six percent. So it was basically like 70% or whatever of GDP growth was just on AI infrastructure. So all of it. It kind of feels like unless we find AGI in the next six months, or somehow they, you know, they somehow have Chinese infrastructure building capability and suddenly build all this stuff and start to see the fruits of it, it just feels like it's just inevitable, not not because of AI, but just because that's what happens to the stock market.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2783.52,
+      "endTime": 2824.96,
+      "text": "Yeah, it's a stock market thing. I don't think it's actually got anything to do with AI. Like one of the things that people say that's different this time, if you compare it to the dot-com boom, which is one one like what a lot of people compare it to, the one of the differences last time, and I do agree with this, is that all of those, a lot of those companies in the dot-com boom were companies that like it was hundreds and hundreds of like companies that were way overvalued and what weren't companies you've heard of. This time it seems more concentrated, and these a lot of these companies, I think OpenAI excluded, and companies like Anthropic, but your big companies like Microsoft and Google and Amazon, who were like the ones pouring the money into these things, they're actually already established companies, and that's where most of the money's getting concentrated.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2825.04,
+      "endTime": 2866,
+      "text": "It's in existing big tech companies rather than spread across hundreds of dot-com um moonshots. However, like irrespective of whether it's in moonshots and whether the companies will still exist after the bubble bursts, it's still a bubble. Like, there's no denying that. You don't you just have to look at some charts. There's better um pundits online that can explain how the bubble's working. But like, as you say, like PE ratios, all this stuff, they're like way, way, way overvalued right now. The the way the charts look on the S ⁇ P, uh like it's a total hype train. Like um, it's there's also like there's lots of it's the it's the same thing you always get with bubbles.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2866.08,
+      "endTime": 2881.92,
+      "text": "So you've got lots of retail investors, so like everyday people are like plowing money into the stock market. Um, and it's it's just a typical sort of hype bubble at the moment, unfortunately. Like um, so I I give it I'll I'll say it like I I think in the next year for sure, possibly in the next six months.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2882.16,
+      "endTime": 2928.88,
+      "text": "I think it'd be quicker than a year. I I wanted to read three facts that I think are really interesting. So the first one is valuation against profit. So AI leader um is what they talked about, open AI. So I'm not sure they're the leader, but they're certainly the leader in sort of recognition, I guess. Um, their valuation more than tripled from 157 billion to 500 billion in one year. And we had Sam Hartman talking about a possible one trillion IPO, although I'm not sure like whether they can do an IPO, but anyway, that that's neither here nor there. But they're not forecasting profit until 2030, and even that I think is you know that that's probably based on achieving AGI and achieving it ahead of others and not having deep sea completely undervaluing your model.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2929.04,
+      "endTime": 2970,
+      "text": "So yeah, they're they're still four years away from saying they're gonna start making a profit. I don't think many people believe that even that's gonna happen, and they're burning through billions and billions to the point where a billion is now starting to sound like a million. It doesn't even sound like a lot of money anymore. No, it's mad, isn't it? The the one on on when you were talking about like charts and and just to kind of you compare it to kind of dot-com. Um the biggest thing here is this circular deals thing, which is exactly what you know the dot-com bubble basically had. You've got major tech companies like Investor, uh sorry, Nvidia, who invests in AI startups, which then spend money on GPUs, and it's basically just yeah, it's a it's a car.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2971.52,
+      "endTime": 2971.92,
+      "text": "Yeah, exactly.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2972.8,
+      "endTime": 2984,
+      "text": "So Cisco with a with a new NVIDIA like company that no one had really heard about, and they just did infrastructure and then they became so valuable because they prov they stole made all the routers and the infrastructure that builds the internet.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2984.48,
+      "endTime": 3004.8,
+      "text": "Some companies will be over will fine out of those. I mean, Nvidia's not gonna crash, but NVIDIA's value again, you know, looking at what we said about Deep Seek and looking at the fact that others will be able to make chips. I mean, you sort of wonder, you know, as much as those companies are overvalued, there will be some undervalued companies in there that will do well out of this. So it's you know, for some people there's potential.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3004.96,
+      "endTime": 3009.04,
+      "text": "Um My AI company that I just set up. My AI it's called, isn't it?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3009.44,
+      "endTime": 3014.56,
+      "text": "W ny.ai. Yeah if you want to go on the website. Now today send us cash.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3014.72,
+      "endTime": 3016.08,
+      "text": "Yeah, Bitcoin, preferably.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3016.4,
+      "endTime": 3018.88,
+      "text": "You don't have booking on anymore, Bitcoin anymore, do you?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3019.2,
+      "endTime": 3036.4,
+      "text": "I I can just provide a wallet address so people can give me Bitcoin. But you just put cash under your bed now. Like like my my solid gold. I'm not there just yet. Okay. You probably shouldn't talk about your gold on a podcast. Well, I want us to be sponsored. Oh, okay. Matt's got gold. Yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3036.64,
+      "endTime": 3068.72,
+      "text": "Um, yeah, the final one, so, is just the low r return on investment. So this was in August of this year, so MIT uh found they said 30 to 40 billion enterprise investment into generative AI, 95% of organizations that were investing. So I'm not sure if that is all organizations or if that is just a snapshot. But of those organizations investing that 30 to 40 billion, 95% of them had seen zero return on it.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3069.12,
+      "endTime": 3077.76,
+      "text": "So I don't get that. I don't get why uh that seems mad. If they just did they just do a survey or something, it was a report.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3077.84,
+      "endTime": 3082.24,
+      "text": "I don't know how they got the information. It just I'm hoping they did more than a survey.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3082.56,
+      "endTime": 3086.64,
+      "text": "It just like I don't know, when these numbers get thrown around, it just seems bonkers.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3086.88,
+      "endTime": 3115.12,
+      "text": "But we're see we are seeing a lot of this, right? We're seeing a lot of where companies are saying they're not seeing the problem is like if you're a company and you've invested in AI and you've got rid of people and you've invested in AI, you're not seeing instant returns on it. Like a lot of companies don't have they can't wait. So it's not to say it's like all of this, it's not to say you're not gonna see them eventually, but you've been sold the idea that you all you need is this and this, and you're just gonna feed these productivity gains, you're gonna make money, and they're finding they're getting no return on it.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3115.44,
+      "endTime": 3144.16,
+      "text": "Yeah, but that's what I mean. I mean I I okay, I don't want to spend too long on this, but like, does it mean does it just mean like most companies bought co-pilot pro and thought it was crap? Because like, because the th 30 to 40 billion sounds like a lot of money, but if you say if you if you look at everyone in the world signing up to Microsoft copilot licenses, it's probably about right. So, like 30 to 40 billion enterprise investment, if that means everyone got copilot chucked in with their latest enterprise Microsoft Office package, yeah, and they didn't like it.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3144.24,
+      "endTime": 3163.92,
+      "text": "But remember, Jimmy, the point here is that not if you're not seeing returns in the short term, that's why the bubble bursts. Again, it's not to say that these are not worthwhile in the long run, for sure, but it's just saying that that's why there's a bubble. So they you've just got these non-infrastructure AI companies that are overvalued, and as you said, the companies that own the infrastructure they'll they'll they'll you know make a killing.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3164.08,
+      "endTime": 3177.12,
+      "text": "Yeah, yeah, yeah. I'm just always dubious when I see these things because I I've got a feeling if you scratch the surface, it's exactly that. It's basically Microsoft gave everyone copilot for free, but because you're already paying a free to be an enterprise license, it counts as 30 billion's worth of investment.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3181.52,
+      "endTime": 3225.52,
+      "text": "Right, so after Jimmy takes down the most prestigious university in the world, um because my MIT survey is not good enough for you. Let's finish off the episode with a bit of a um sort of AI jobs displacement part. So we're we're gonna do early in the new year, we're gonna do a a full episode on jobs because that was obviously the original sort of starting point of this podcast. Um, and things have moved on a lot, but we just thought it would be you know a kind of good time at the end of the year to just update on some um some specifics. I mean, the the the key point here is that what's really difficult, we talked about this today, myself and Jimmy, is what's really difficult at the moment is we know there are loads of job losses, but there are so many sort of factors around that, it's difficult to work it out.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3225.6,
+      "endTime": 3261.84,
+      "text": "And a lot of things that are being blamed on AI are probably not AI, and a lot of things that are being blamed on other things are probably AI. You know, AI is not on its own driving all of the job displacement, but it is definitely now, you know, really starting to have an effect. Um, and I think, you know, as we expected and as we'd kind of heard for the last year or so, definitely, it is disproportionately affecting people early in their career. So there was a Stanford working paper earlier this year, I think August-Sept that talked about um early career workers that were 22 to 25. They are the most AI exposed.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3261.92,
+      "endTime": 3283.76,
+      "text": "Um, they'd seen a 13% decline in employment um compared to kind of less exposed roles. So younger workers are uh being considered as a kind of canary in the coal mine. I think that's probably not the best um sort of metaphor for this, actually, because I think it's not it's not that they're a test case, it's that they are in the most precarious position.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3284.16,
+      "endTime": 3323.28,
+      "text": "Well, you're you're inexperienced, right? And you haven't got a job yet, you're not in the job market. Now you don't have an established skill set to write it out. Yeah, exactly. And and and they're the obvious jobs that like you typically when you get your first job, unless you're very lucky, you get something that's even if it's in like a a prestigious lawyer firm, you're gonna do the grunt work first, aren't you? You're gonna do the discovery stuff and the you know reading through documents to find the nugget of case law that you can apply something to, and all that's gone. Like it's it's it's perfect work for AI, or a junior accountant like fiddling with spreadsheets to get numbers to add up.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3323.44,
+      "endTime": 3364.56,
+      "text": "Like so I wanted to quote this just because I really like the name of this company. So the labour market research firm Challenger Grey and Christmas. Sounds like a legal firm. They're called Challenger Grey and Christmas. So I presume they were signed. I mean, I mean, I presume it's Lloyd Christmas from uh from Dumb and Dumber. Um they these I mean this is a really weird figure, but they they attribute they found they directly found 17,375 jobs that were cut that were specifically linked to AI, and then another 20,000 related to technological updates. And I know that doesn't sound a lot, but the thing here is the these are because don't forget, no one is actually saying they're because of AI.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3364.64,
+      "endTime": 3368.72,
+      "text": "These are ones that are your concrete figures on reported displacement.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3369.04,
+      "endTime": 3371.92,
+      "text": "But this is a labour market research firm, yeah. Yeah, yeah.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3372.24,
+      "endTime": 3397.52,
+      "text": "So it's another survey, so I know it's not good enough for you, Jimmy. But surely Challenger Ray and Christmas are better than MIT. Uh yeah, probably, yeah. They're probably associated with each other. Well, anyway, my my point with this is not that this is a big number. I think the number is sort of meaningless. It's the fact that actually for the first time we are seen directly attributable because people were not talking about it before. They were not saying it was AI. Everything was, oh well, it's not AI. I think all jobs were just being advertised and not filled.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3397.84,
+      "endTime": 3410.8,
+      "text": "I think the biggest thing here is if you go back and listen to our first few episodes, these are things that we were talking about back then. So, you know, if you weren't listening to us before, you should should have been, and you should tell your friends. Exactly.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3411.04,
+      "endTime": 3442.4,
+      "text": "Subscribe and uh tell three people to listen. Um what else have we got in here? So roles again, the the like these figures don't sound that kind of shocking, um, but they're only what we've seen so far. So we've got roles in business, financial architecture, and engineering have seen employment shrink by two point two to two point five percent, and this is specifically in firms that are using AI. So not huge figures, but you're starting to see like you're starting to see a shrinking of a workforce that is not you know, you can't ignore that.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3442.72,
+      "endTime": 3447.12,
+      "text": "And what Amazon have said they're gonna get rid of six hundred thousand people by 2030 or somewhere, right?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3447.28,
+      "endTime": 3482.48,
+      "text": "Yeah, yeah. Which is one of the world's biggest or the West's biggest employers as well. Well, six and half a million people, that's a lot. They I mean the one thing like there is talk about firms that are kind of you know AI, what would you with the word be kind of AI centric firms? They increased their sort of employment figures by six percent on average. Uh the problem is I don't have the source for this, so this is just this is just something that I just pulled out in a piece of research. But I guess the point here is trying to make the kind of counterclaim that there are jobs being made available.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3482.64,
+      "endTime": 3500.16,
+      "text": "I know you give short shrift to this, Jimmy. You think that there are no additional jobs, but I think in like in the short term, I guess what this is saying is AI AI led firms are experiencing growth and are employing more people in the short term. Well, of course they are, but that doesn't but those same firms are gonna very quickly lay off people when they don't need them anymore.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3500.48,
+      "endTime": 3517.6,
+      "text": "Yeah, I think this is I think there's two things here. So, first of all, one of the things I was gonna mention, which like we haven't really even touched on, which is like potentially gonna be gonna dwarf anything we're talking about with white collar jobs, because we keep talking about that. You know, you've already got robotaxis in the US. People it's kind of gone.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3517.92,
+      "endTime": 3525.36,
+      "text": "So just remind people that the the number the most common job in the world is driving vehicles. Yes. So that that's that's how big that industry is.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3525.6,
+      "endTime": 3556.4,
+      "text": "Exactly. Yeah, that's what I was gonna say. Like there are there are firms predicting that like all almost all taxi drivers are at risk of losing their jobs to autonomous vehicles because as soon as they effectively as soon as they solve that problem, then presumably all taxis become autonomous because you mean that problem that they've been saying they're gonna solve for the last 15 years. Yeah, but there's already so so they've this is already happening, right? Like, so this is the thing, it seems to have happened under the radar. We talked about it a few um like a month ago or something, a couple of months ago.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3556.56,
+      "endTime": 3588.24,
+      "text": "Waymo are doing like a hundred thousand rides a day already. Like that's this is something that people just don't really know is happening. And so when I say when we solve that problem, the problem at the moment is they can only do it in like the sunshine states because they don't work properly in the rain and stuff like that. It's not that like you haven't got any driverless cars at the moment, you've got lots of almost completely autonomous cars doing rides every day, and there are cities where probably most taxis are autonomous, and it's just like really there are cities where most of the taxis are autonomous, yeah.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3588.32,
+      "endTime": 3606.56,
+      "text": "Like I say, in the sunshine states, in parts of Arizona and places like that. Like they Waymo are doing massive, they've got max massive taxi operations. Maybe we should get someone on from one of these states. Um, but Yeah, like a hundred thousand rides a day. Like there are places and this is only in a few cities that they're actually testing.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3607.04,
+      "endTime": 3635.52,
+      "text": "The one thing I was thinking about this recently was the argument is always like, well, they can't drive because ev if all the cars on the road were driven by were robot taxis, it'd be okay. But the problem is there are people driving and therefore you can't predict their behaviours. Well then the answer to that is well just stop stop having PR driving and only have robotic robot robo taxis and robotically sort of AI robot controlled vehicles and then you don't have to worry about any people on the road and then they can all drive and then there'll be no accidents.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3635.76,
+      "endTime": 3668.48,
+      "text": "I can I mean what what was the film Demolition Man where he contrives to drive the car and they're like, What are you doing? Like it's the future, you don't drive cars in the future, like it's not you're not allowed. Like I can see it's okay, it's a bit of a far out there thought, but like I can see within like 50 years that being a thing, like where it's just like okay, autonomous cars are a thing now, and then all of a sudden, well, they don't have accidents. Well, yeah, I mean I'm hedging my bets. Okay. Um I think it'll probably be sooner than that, I agree. But but but yeah, to the point where like driving gets banned in the in the sense that we're talking about.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3668.64,
+      "endTime": 3701.92,
+      "text": "Yeah. I think that you know there'll be a lot of pushback to that, but it's one of those things where it'll be at some point in the future, no doubt it will be like smoking is now. Yeah, it'll be like you know, 30 years ago, people or 50 years ago, people thought smoking solved health problems. Yeah, now it's mad the idea. Now people are questioning that idea, aren't they? Yeah, I know it's bonkers. Um but I think it'll be the same with this, right? Like people can't see it now, but in there's there'll be a time when it's like the idea of driving your own car is absolute madness because it's such a dangerous activity.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3702.4,
+      "endTime": 3749.84,
+      "text": "Um yeah, I genuinely think that. Like um just to give you an idea, so sorry, it was daily rides, right? So Waymo went from 10,000 weekly rides in 2023, May 2023. Uh they're now at 250,000 in April 2025, and looking at the numbers, they're sort of growing relatively exponentially. So it seems like it looks to me um well actually that's April 2025, so they're probably on half a million now, it looks like half a million rides per week. Um They're Dublin and Dublin and Dublin, and this is just one company. Um so you know, like I think it's probably limited by the amount of robo taxis they've got and the places they can operate them and get the licenses for them rather than um anything else.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3750,
+      "endTime": 3768.24,
+      "text": "So I'd I I think this, you know, you you can quite sort sort of quite quickly extrapolate that it's gone from ten thousand to c to half a million in three years of weekly rides. At what point does that become like a really big deal? It won't be long. And we're talking about jobs, like there's a hundred million uh professional drivers in the world.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3768.88,
+      "endTime": 3802.88,
+      "text": "Yeah, and you know what is like your my argument was always well you have one one crash with an autonomous vehicle and people panic because then it makes the news. But actually, you know, the counterpoint to that is once you prove, or if let's let's assume it will happen, once you prove that autonomous vehicles are safer than human-driven vehicles, then the counter the argument becomes counter. Why would you ever get in a car with a person who could be a fucking maniac? When you can get in an autonomous vehicle, like it yeah you've won me over.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3803.44,
+      "endTime": 3817.52,
+      "text": "Well, yeah, and and and to the job point, there's a hundred million professional drivers in the world. Once this becomes a solved problem, most of them don't have a job anymore. I don't see Although there'd be no one to no one will have any money to pay for the driverless vehicles anyway, so Well, maybe.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3820.8,
+      "endTime": 3823.52,
+      "text": "But yeah, I mean we let's not get into UBI now.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3824,
+      "endTime": 3833.12,
+      "text": "We'll do that and we'll have another ec economy episode soon. Yeah. Cool. Okay, uh just about an hour. So that sounds good. Uh you're gonna make a song this week?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3834.08,
+      "endTime": 3834.96,
+      "text": "Yeah. Okay.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3835.44,
+      "endTime": 3838.8,
+      "text": "Well sooner we'll stay stay tuned for that.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3839.2,
+      "endTime": 3843.44,
+      "text": "Well, actually, can you give me the MP3 thing for the thing? Then I can just put it in Gemini.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3844.16,
+      "endTime": 3857.84,
+      "text": "The MP3 thing for the thing Yeah, I'll give you the MP3 for thing for the thing. Alright, uh as always, thank you, and um keep listening, pass it on, click the subscribe button and uh and get some more listeners.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3881.04,
+      "endTime": 3889.36,
+      "text": "I can see the whites of your eyes that don't make you like But I know you know,",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3895.84,
+      "endTime": 3895.92,
+      "text": "you",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3899.12,
+      "endTime": 3902.88,
+      "text": "know, the late.",
+      "chapterIndex": 12
+    }
+  ]
+}

@@ -1,0 +1,954 @@
+{
+  "slug": "s2-2024-09-18-useless-eaters-are-alternative-social-mode",
+  "buzzsproutId": "15773550",
+  "title": "USELESS EATERS: Are alternative social models bound to fail?",
+  "date": "2024-09-18T13:00:00.000Z",
+  "season": 2,
+  "durationSec": 3691,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15773550-useless-eaters-are-alternative-social-models-bound-to-fail.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Is our current economic model sustainable in an AI-driven future? We kick off with an ambitious exploration of Universal Basic Income (UBI) and its profound implications. From dispelling myths about UBI to debunking its criticisms, we navigate through the transformative potential of providing an unconditional regular sum of money to all citizens. Real-world examples from the UK and Finland give us a glimpse into how UBI could operate, but is it really compatible with the real world? Could UBI inadvertently lock us into a two-tier society, with the wealthy controlling elite looking down their noses at the 'Useless Eaters'? or could it be a stepping stone towards a more equitable world inspired by Star Trek's utopian vision? This chapter challenges you to rethink the very foundations of our economic system, questioning if societal well-being and personal fulfillment could replace financial gain as the primary motivators in a post-AI revolution. We then tackle urgent global issues like climate change and resource consumption, pondering whether advancements like nuclear fusion could avert environmental disaster. A spirited rap battle adds a dynamic twist, encapsulating the spectrum of perspectives on AI's future—from utopian dreams to dystopian fears. As we contemplate new social models and the future of work in an AI-dominated era, we don't shy away from the raw frustration and rage of a generation feeling trapped by systemic inequality. Tune in for a powerful exploration of how we might build a more equitable future.",
+  "summary": "Jimmy and Matt debate UBI and the social models that might follow mass automation, riffing on Brett Weinstein's 'useless eaters' warning from Diary of a CEO. They work through democratic socialism of AI, co-operative economies and data dividends, concluding most are wishful thinking while Jimmy argues for a Star Trek-style post-capitalist definition of human productivity.",
+  "keyTalkingPoints": [
+    "Weinstein's argument: UBI removes purpose, incentivizes a depopulation mindset among elites, and creates a two-tier society of dependents",
+    "Jimmy's counter: capitalism's money-driven purpose system is the problem, not UBI itself — the alternative is a utopian model where productivity means creativity and community, not employment",
+    "UBI has real trials behind it — Finland ran the largest with tens of thousands of people — but no answer to who funds it when 10%+ of society is supported",
+    "The data dividend model is dead: the ship sailed decades ago, and X or Reddit locking down their data proved contribution without compensation",
+    "All frontier models being American means co-operative AI economies would end up paying OpenAI to replace their own workers — open source is the prerequisite"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "UBI is not inevitably dystopian — the dystopia comes from the capitalist purpose system it is bolted onto",
+      "Long term, humanity needs a new definition of being productive that is not a job — a Gene Roddenberry Star Trek universe",
+      "If AI takes jobs wholesale in the next couple of years, massive civil and social unrest will follow fast",
+      "Frontier AI being American-owned means any alternative social model still rents its replacement workforce from US companies"
+    ],
+    "matt": [
+      "He agreed with Weinstein's clip despite it sending a chill down his spine — UBI risks incentivizing depopulation and removing purpose",
+      "Democratic socialism of AI, AI co-operatives and data dividends all sound sensible but are wishful thinking that has not worked even before AI",
+      "If people are not given a way to be productive and contribute, the ruling-class logic leads somewhere that ends badly for humanity",
+      "He wants the utopia Jimmy describes but cannot see people doing what it would take to get there"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-09-18-useless-eaters-are-alternative-social-mode-2234.806-if-ai-takes-jobs-wholesale-massive-civil-and-soc",
+    "s2-2024-09-18-useless-eaters-are-alternative-social-mode-1226.86-only-a-popular-rise-up-that-democratizes-power-c",
+    "s2-2024-09-18-useless-eaters-are-alternative-social-mode-2917.256-long-term-society-will-need-a-new-social-model-a"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 9,
+  "turnCount": 124,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Universal basic income",
+      "startTime": 68
+    },
+    {
+      "title": "Useless eaters",
+      "startTime": 552
+    },
+    {
+      "title": "Useless Eaters- Rap Battle",
+      "startTime": 1676
+    },
+    {
+      "title": "Democratic socialism of AI",
+      "startTime": 1856
+    },
+    {
+      "title": "AI enhanced co-operative economies",
+      "startTime": 2263
+    },
+    {
+      "title": "The data dividend model",
+      "startTime": 2450
+    },
+    {
+      "title": "Do we even need a new social model?",
+      "startTime": 2904
+    },
+    {
+      "title": "Rats in the Cage (Outro track)",
+      "startTime": 3385
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 27.7,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. urgent need for safe development of AI governance and alignment.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 31.14,
+      "endTime": 35.74,
+      "text": "The world is my expense, the cost of my desire. Jesus blessed me with its future and I protect it with my fire. Welcome to Preparing for AI with me, pam Saltman.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 36.661,
+      "endTime": 38.789,
+      "text": "And me Celia Utkova.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.621,
+      "endTime": 76.893,
+      "text": "So this week we are going to be looking at UBI and alternative social models. So this week we are going to be looking at UBI and alternative social models. So this is something that we've been kind of chatting about and really interested in for quite a while. I think our views of, or my views, have changed a little bit in terms of what I think could happen, what I think would be good to happen and what I think could possibly, but hopefully won't happen. So should we kick off with UBI, because it's like the one that I guess people know the most. We have mentioned it right back in quite early on, I guess in the Utopia episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 76.92,
+      "endTime": 120.372,
+      "text": "We probably talked about it a bit. I think I feel like we've talked about it several times without really going into any detail. Um, but let's kind of first of all, just kind of introduce what what ubi is. So I think when we first talked about this, we're talking about like the difference in ubi and nbi, like a national basic income, and I think actually, like I'd misunderstood that ubi universal doesn't actually necessarily mean for everybody in the world, it means for everybody within a context. So a national basic income would be a UBI, it would just be a kind of national UBI, but what it basically means is providing all the citizens of a territory, jurisdiction, country with a regular sum of money, which would be unconditional.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 120.98,
+      "endTime": 160.884,
+      "text": "It would alleviate poverty and provide some level of kind of financial security in an AI driven future where automation has probably, by that point, if not replaced, at least threatened you know a lot of jobs. So people who argue for it would say it can stimulate the economy, it would increase consumer spending, reduce the need for complex welfare systems because you just have a you know, a pretty simple kind of payment. And then critics generally talk about disincentives to work, financial unsustainability. In an ai driven future, I guess ubi would be seen as potentially being a kind of buffer about job replacement.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 160.924,
+      "endTime": 197.014,
+      "text": "So maybe it's a short-term model that kind of, you know, helps us transition to a different society where human labor's not central to economic productivity, but it would, I'm sure, be, you know, not without its bumps in the road, let's say, and it's been, we should probably say as well, like ubi's have been tried. They've been tried in the uk, um, in certain cities, uh, so kind of small scale experiments. There was a guy I was on the ai governance course with who had written the kind of book on this from the royal society, so the thing that that the uk's government had used in I don't know where the trials were.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 197.055,
+      "endTime": 222.814,
+      "text": "They're in in a selection of cities in the uk but they have run trials. Finland has run the biggest trial I know of um, so that was was tens of thousands of people. I don't know how long they ran it for, but you know, it's one of these things that occasionally is in the news, a bit like four-day working weeks, but I don't think many people have really thought about what it is actually, you know, potentially going to mean yeah, I mean as pam saltman.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 223.194,
+      "endTime": 230.551,
+      "text": "um, we could also discuss universal basic compute, one of your suggestions from a while ago, I believe.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 232.041,
+      "endTime": 235.566,
+      "text": "Well, I'm Pam Saltman, I'm not Sam Altman. There's no link between the two.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 236.201,
+      "endTime": 238.626,
+      "text": "Sam Altman's the devil. I thought it was some sort of alter ego.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 238.786,
+      "endTime": 246.447,
+      "text": "No, no, no, Pam Saltman is just what most people call me. Oh, my friends and family, yeah so so when you make the inner circle.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 246.508,
+      "endTime": 302.518,
+      "text": "You can call me pam as well nice, um, so so, yeah, so the there's a bit you haven't talked about yet, which is the bit I was going to argue with, so I'm going to find it a little bit harder to sort of um debate at the beginning of this you want me to go straight in with the uh, with, with the big potential risk. Well, the, the, the wally argument. I think it is okay um, but, but no, like. I mean just just as a sort of like, a brief sort of I guess, uh opening statement about universal basic income. I think I genuinely, I genuinely think and okay, maybe this is a bit out there, but universal basic income for me is about it's the same thing as, like, any kind of social backstop, any kind of like social support and all the rest of it, and there are people in society that need that, and so UBI is an extension of that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 304.76,
+      "endTime": 316.676,
+      "text": "It's like the next level of it when robots take people's jobs, ai takes people jobs, that kind of thing. But it's something that's been around for a very long time. Actually, this concept of universal basic income that you say, it's been experimented with in the UK",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 326.48,
+      "endTime": 360.384,
+      "text": "social support structure, where people have benefits, right, and there are a lot of people that would say that is a very good system. Now, okay, there are downsides to it and you can see those downsides to it and we can debate those downsides to it, which we'll do during this episode. But fundamentally, it's something that, if you really get down to brass tacks, it stops people becoming homeless and getting into like some pretty desperate situations, and so there are a load of massive upsides to these kinds of benefit systems that mean that you know they avoid certain kinds of social unrest. They mean that people have a basic means of income.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 360.444,
+      "endTime": 399.707,
+      "text": "That can you know? In the UK you have like housing support, you have all these kinds of things. The downsides obviously are that people come to rely on them. People you know for what of a better word will just kind of bum about and and be like okay, well, I can just take my social services and there are ways of abusing all these systems as well. But they're all like you know, they're well meaning systems and um, and I think that's kind of like where you get into the dichotomy with these kinds of things. I'm not going to, I'm going to reserve my kind of big argument for after you've done your next spiel and so with that I'll hand over to you.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 400.82,
+      "endTime": 412.654,
+      "text": "Well, before I get onto that bit, because obviously I know the bit because we started arguing about it this morning and then I said stop, because you're going to ruin the podcast by having the argument before we do it",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 424.955,
+      "endTime": 459.057,
+      "text": "but I think it is potentially not only in terms of like as eradication of poverty, but just as a way of simplifying like what is an incredibly complex and unfair system. So you look at a country like the UK. You know universal basic credit. Is it called Universal credit? Sorry, not basic credit, universal credit. You've got quite a complex system. Wouldn't it be easier in a way? And actually let's look back at like during covid, the furlough scheme in the uk and the way they operated in the us. They just gave people money right, and it was a simpler way to do it, just post appeal. I mean, it's the us.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 459.097,
+      "endTime": 480.412,
+      "text": "They still give people fucking checks. They're probably posting people a check there to go to cash in a you know a bank that they couldn't go to. But anyway, the idea of just giving someone a sum of money and there's a big thing in the sort of charity world about not donating to charities but just giving people cash. Because you give them cash, you, you empower them and enable them to do stuff. And you know, an argument would be well,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 486.26,
+      "endTime": 512.244,
+      "text": "be well, people are going to spend it all on drugs and drinking, well, like, okay, well, just give them the money and let them spend it on them. You know, spend it on what you want. I think it's in some ways feels like a really kind of socialist, um, socialist thing, and in other ways it's kind of quite libertarian because it's giving people the right to just do whatever they want. Yeah, so it's kind of a real contradiction, but I was was a big, big fan of this and I thought, you know, this is a way to kind of wipe out equality. People can do more on top of it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 512.365,
+      "endTime": 513.508,
+      "text": "I think you mean inequality.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 514.631,
+      "endTime": 520.651,
+      "text": "Yeah, maybe Freud didn't slip there, maybe that's what I want to do. Yeah, sorry, wipe out inequality or at least reduce inequality,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 528.7,
+      "endTime": 556.569,
+      "text": "but I think, giving people a universal basic income, you know, I definitely felt previously, maybe even a month ago, maybe even two days ago, that it would be a really, really good way to kind of, you know, set I guess it's setting a floor, isn't it so like there's still a ceiling but it's set in a floor. And if you think about things I, anyone who knows, like donut economics, the economic model is you've got a floor and then the environmental thing is you've got a ceiling and you operate within that area. What I listened to the other day and it was a seven minute clip from an episode of DOAC.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 556.68,
+      "endTime": 588.186,
+      "text": "So DOAC, diary of a CEO with Stephen Bartlett is a podcast which I think me and you both kind of sometimes we think is brilliant sometimes, which I think me and you both kind of sometimes we think he's brilliant, sometimes we, or it's the click-baity headlines that annoy me, but he has some really great guests on. He had someone on there called Brett Weinstein. Brett Weinstein is he hosts his own podcast, the Dark Horse Podcast. He's an evolutionary biologist, very, very clever guy, very controversial. A lot of people call him a tinfoil hat wearing conspiracy theorist. Um, I think he's got some controversial views I don't agree with.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 588.948,
+      "endTime": 645.233,
+      "text": "But, like I say, he's very clever. I think he he gets it a lot of stuff. I think he probably does get right and he's willing to say things that I think a lot of people are not willing to say. And he was on the podcast the other day and they talked about ubi and he said the reason it's never going to work is because it's going to create a huge class of and I use this term because he used it, and he used it actually in the way of in, not his opinion but it will create a class of useless eaters, people whose life is consuming and not giving anything back to society. And once you start doing that, the people in power, the people who stand to you, know to lose from that, from you know the money that is perceived as being given away to those and inverted commas useless eaters,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 648.781,
+      "endTime": 704.954,
+      "text": "I think. And when he said and I think at that point, you're sort of incentivizing a depopulation agenda amongst certain groups of powerful people and organizations. And then there's a second aspect to it, which is you take away people's purpose. Your people's purpose for a long time has been and it's not necessarily about your job, but it's about doing something where you feel a sense of worth and that you're contributing something, and you take away that as well, and so, as well-meaning as it is, the problem with UBI is it's going to create a subset of society that you then have another group of society, which is people with power and money who look down on and think we need to get rid of this group because they are not contributing anything,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 709.44,
+      "endTime": 711.343,
+      "text": "but they're taking money and they're using up resources.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 711.363,
+      "endTime": 719.535,
+      "text": "There's a movie that I've just pulled up, which this reminds me of quite a lot, which is called In Time with Justin Timberlake.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 724.7,
+      "endTime": 744.229,
+      "text": "If anyone hasn't seen it, it's basically where in the movie time is you. Basically people can live forever, but the richest in society have time. Like time is a kind of an analogy for money in this, in this movie, and so you get given a certain amount of time and once your timer runs out which is kind of like imprinted on your arm then you just die.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 744.79,
+      "endTime": 746.906,
+      "text": "Yeah, I've seen this. I forgot about this movie.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 747.087,
+      "endTime": 774.871,
+      "text": "Yeah, it's pretty good actually yeah, and what you're talking about just reminded me of this. It's a bit like hunger games. It's a bit like all these kinds of movies that explore exactly this kind of concept, um, in terms of the, the kind of division between the rich and the wealthy and the and the poor, and in this case, kind of like, I guess what we're talking about is that divide's going to get even wider, um, and the rich and the wealthy and the poor, and in this case, I guess what we're talking about is that divide's going to get even wider and the rich are just going to get richer and the poor are going to get poorer, and that is the dystopian future version of this.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 778.091,
+      "endTime": 783.691,
+      "text": "The reason I question this is because I don't think that has to be the only outcome here.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 794.726,
+      "endTime": 845.842,
+      "text": "I think that the fact that we live in a capitalist system where everything is driven by money and that's the purpose system that we're in that leads to this natural conclusion that you basically manufacture a situation where actually, at the moment, we've got the what would you call it, the American dream. I suppose, if that's still alive, we've got the American dream right now, where you can still make something of yourself, it doesn't matter what situation you're born into, you can still make something of yourself. Again, importantly, in our capitalist society that we live in right now, once you implement something like this assuming that the reason you implement it is because AI takes all the jobs away and so UBI is the only alternative, because otherwise you have a load of people who have nothing and therefore you're just going to get massive civil unrest and some kind of revolution.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 846.665,
+      "endTime": 881.432,
+      "text": "So the alternative is something like ubi, because that's what I guess, that's ultimately what we're talking about, right and so, but then? But then the problem that stems from that is you create this kind of two-tier system that you, then people, can't break out of, you. All you can do in life is be born into one of those classes or the other, and then you just get you. Either you're either rich, because you've probably inherited money and you're rich, and you, you know you control the means of capital, um, or you're on universal basic income for the rest of your life, and that's your situation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 881.961,
+      "endTime": 925.014,
+      "text": "But I think this is a I mean, it's a super dystopian but also super simplistic kind of version of um. You know, it's an extension of the capitalist system we live in today, and my argument against it would be that there is so much more to life than this and there's so much more that matters in life. And so you know why is I mean? This is obviously going down the debate of like should we live in a capitalist world and what should the next system be? But, to be honest, like the most like okay, people go to work and have a job and do all these things to make money,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 933.061,
+      "endTime": 959.673,
+      "text": "to make ends meet in a lot of situations. Some people are happy in their jobs, some people are less happy in their jobs. There's a kind of like in a way. I feel like there's a kind of like a we've got a hood drawn over our eyes, we've got, we've got, we've got blinkers on, because it's kind of like okay, I'm born, I get educated. The purpose of getting educated is so I can make money, so I can have capital, so I can spend money and be and be a consumer. This is kind of the capitalist model.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 967.1,
+      "endTime": 1005.994,
+      "text": "It's the same thing, it's just a different means of control. And so if the purpose of my life is to get educated and be a good person and be a happy human being and bring joy to the world and bring joy to other people. What's the problem with that? And so I guess what I'm saying is the whole model. Like, once you get to the point where you're saying everyone needs to be put on UBI, the whole model needs overhauling. Like money, you know, for the 90%, for the 95% becomes kind of insignificant and pointless anymore. Like the whole point of the system we have right now is so that you know capitalists can make money by having consumers that can spend money and all the rest of it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1007.224,
+      "endTime": 1024.905,
+      "text": "I guess ultimately, what I'm advocating for is the Gene Roddenberry's Star Trek universe. So I definitely have a utopian view on this. I don't know which one's going to happen, but I don't think that the only what was the word",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1028.901,
+      "endTime": 1030.985,
+      "text": "Like unproductive eaters, useless?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1031.125,
+      "endTime": 1031.285,
+      "text": "eaters.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1031.305,
+      "endTime": 1101.263,
+      "text": "Useless is the term, yeah yeah, I, I just don't see it like and sorry, just to make a final point like I think and I don't mean offense to anyone by saying this, but I think, for various reasons, whether it's mental health reasons, whether it's like ability reasons, whether it's capability reasons, we have this situation right now and I would, I definitely wouldn't call them useless eaters, but, like there are a lot of people in that situation right now in a capitalist world where, where you, where people are unproductive and unhappy and unsatisfied with the situation they're in and I don't, I think it's quite a large amount of people because they can't get the job they want, they can't achieve the things they want to achieve in their life, and so I, I, you know, I, I I don't see this kind of dystopian future that that we're talking about here has been actually that that far away from the situation we're in right now, where not everyone can have what they want, not everyone can have a job that they want, a lot of people doing things just to make ends meet, a lot of people are on benefits and social services already and don't see a point in like engaging with the system we have right now, and it's not an insignificant amount of people.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1101.343,
+      "endTime": 1106.353,
+      "text": "So yeah, that's my um opening gambit but I think that's almost a.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1106.861,
+      "endTime": 1165.674,
+      "text": "It's not an argument against what? Well, not what I said. What brett reinstein said, I mean I don't know his opinion. I don't think it was a seven minute clip from a two and a half hour podcast. I haven't listened to the whole podcast but on that clip it didn't give me the impression that he necessarily was saying this is his view. I mean, certainly not. You know my view, but it was his view and it is my view now I'm not sure if it was before, but after thinking about this that that is the most likely outcome Because, like you said, that is the system that we live in. The first episode of this podcast, you know, I made that kind of statement about the end of capitalism and I do think the only way that the kind of ai revolution in the long term works in the positive for society is with the end of capitalism as we know it, because there has to be a different system.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1165.76,
+      "endTime": 1204.503,
+      "text": "Now it could be a new form of capitalism. Like I said, it's not that it's communism or socialism, because I don't think it's any of the existing systems. You know they won't work with a potential future in which people do not work because all those systems you know communism is based around the workers, Capitalism is based around the workers. Capitalism is based around the need of you know people to to generate, you know people to generate that revenue, people to buy things. They're all based around people working. So if you have a system where people are not being productive and, unfortunately, when the power is in some kind of revolutionary way,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1226.86,
+      "endTime": 1270.168,
+      "text": "the people rise up against the system and there is some form of democratization of power which allows for that kind of utopian future and it's possible. But I think the most likely outcome, if we do not find a way for people to be productive and we haven't even moved on to the kind of, you know, mental health aspects of feeling like you're contributing to the world, is that, without going into the whole conspiracy, global cabal thing, that the ruling class, who control most power, most of the money, you know they won't have a benefit and therefore I can't see this ending well for humanity and therefore I can't see this ending well for humanity.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1270.188,
+      "endTime": 1270.448,
+      "text": "Well, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1270.549,
+      "endTime": 1304.987,
+      "text": "And so I didn't talk about how we're going to get there. I don't know how we're going to get there. Maybe it'll be revolution, maybe it'll be evolution. That would be preferable, but I just had a look and you know, I'm not saying that systems before capitalism were any better, but like the idea that capitalism is the end of the road is is quite sort of and this is not aimed at you at all, but it is quite narrow-minded in my opinion. It's been around for about 400 years, about 500 years, looking at the sources I'm looking at. Before that there was feudalism, there was a whole bunch of other systems, slavery and awful things that went on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1305.488,
+      "endTime": 1371.208,
+      "text": "Um, but I would argue that you know, if you go back way, way, way back, if you go back tens of thousands of years product you know, productivity hasn't always had the same definition and I do agree, like people need things to do, but productivity does not have to equal producing stuff, producing capital, all this kind of things. You know there is a, there is a potential path, there is a potential future, there is a utopia where we find some kind of balance with the climate, where things like AI and robots actually support us and help us out and do the thing, the manual things that we need to do, the dangerous things that we need to do, um, you know to to exist in this world, and people are provided for, and you, you know your idea about what your place in the world is, and what you do is more about, like you know, um, you know, it can be about art, it can be about it can be about creativity, it can be about taking care of each other.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1371.268,
+      "endTime": 1421.987,
+      "text": "It can be about a whole bunch of things that we arguably used to do a lot better, I think, um, you know so. So, okay, that's, it is super utopian, um, but I think it's the it. There is aargument there to some of this dystopia stuff. How we get there, I don't know, and possibly there will be massive upheaval, revolution, people losing jobs, leading to massive societal issues and societal upheaval, but I don't think it ends in. I think there's a fork in the road at some point and you've got this kind of dystopia utopia, um, possibilities can that utopian world happen in a world with eight or ten billion people?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1422.848,
+      "endTime": 1473.663,
+      "text": "because, and this is where you know again, and I don't want to go too far down what will be termed conspiracy or conspiratorial path, but you know, depopulation I mentioned this word earlier on but the world that you talk about, I can see that world existing with one or two billion people, but not with eight or ten billion people, and that, I think, is part of the problem. And then for again, the ruling class, the ruling masses, those corporations, lobbyists, you know, big tech, big or big pharma, whatever it is, whoever controls the world, the lizard people, whoever you know, it's not in their benefit then to have eight, ten billion people in the world, because that is sucking the resources out of the planet and not giving anything back.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1474.144,
+      "endTime": 1517.867,
+      "text": "That's the way that they would see it. So I can see the world that you you talk about as a utopia. My concern and this is where it kind of equal I agreed with what brett weinstein said, but it sent a chill down my spine because I just connected that with the whole kind of depopulation thing and again, like it sounds like a conspiracy theory, but like, follow the money, you know, think about it. Apply your logic to it. It makes a hell of a lot of sense, makes a hell of a lot of sense that the way to get there that would work for the ruling class would be to massively depopulate the planet. I I'm not saying how they're going to do it or how they're doing it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1517.928,
+      "endTime": 1524.407,
+      "text": "I'm just saying like there's a logic that leads that way maybe I don't know, like I think.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1524.487,
+      "endTime": 1580.147,
+      "text": "I think I think to sustain. Well, first of all, like, the population of the world is is projected to start declining by the end of this century anyway. Um, just well, naturally let's just say, naturally it's, it's projected to start declining anyway. Um, we were getting into subjects sort of like around climate change and whether we are a you know, whether we're able to continue using the resources available in the world in the way we are, or whether we're already using two or three earth's worth of resources, and um, and there's a whole bunch of debate around that I personally, like, I think, fundamentally, without the, without the advent of some kind of new technology that can support the amount of people we have on the planet, I think we're probably already past that limit.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1580.829,
+      "endTime": 1622.561,
+      "text": "That being said, I don't know if that kind of technology is around the corner. I I think without that, then no, I don't think the Earth is capable of sustaining the amount of people that are on the planet right now and the rate at which we're using natural resources. I don't think that's got necessarily has to be linked to some kind of depopulation agenda. I think that's just well. Again, it's my opinion, um, but based on stuff that I've seen. I think it's just a fact. Um, that being said, as I said, I, technology is incredible and who's to say that, you know, okay, like nuclear fusion or something like that?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1622.581,
+      "endTime": 1663.27,
+      "text": "Who's to say that that won't actually and this kind of thing's been benefited by ai already? Um, coming back to ai in you know, in terms of the podcast, like so, who's to say that there won't be a technological advancement, advancement in the next few years? That means we can reduce our reliance upon oil, we can actually turn things around and the planet can support much more people. So I don't, I think that's an open question. Um, I don't think that. I genuinely don't think that's linked to some kind of depopulation agenda. Um, or has to be, because because it's kind of a fairly established fact at this point that we're using the planet up faster than it can replenish itself.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1663.591,
+      "endTime": 1673.928,
+      "text": "Um, and that's where you know it kind of comes into climate change and all this kind of stuff should we line things up with another rap battle? yeah, so that's been pretty intense.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1674.59,
+      "endTime": 1675.913,
+      "text": "It's only 27 minutes in",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1680.727,
+      "endTime": 1725.929,
+      "text": "yo, jimmy, you delusional silicon valley fool, tech-loving ass about to end up in a pool Of obsolete humans left for dead While you worship false gods inside your thick head. We're headed for hell, you ignorant pricks, useless eaters. All makes me fucking sick. You rosy future trash. We're all getting canned. Replace by machines. Get your head out of the sand. Shut your trap, matt. You paranoid waste. Your gutless fear's got a bitter-ass taste. You're choking on doom while I'm spitting the truth. Ais are taken to eternal youth. We're breaking the chains of your corporatic prison While your small mind can't even fucking envision A world beyond greed, beyond punch punch clocks slavery.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1725.949,
+      "endTime": 1764.622,
+      "text": "So step aside, fool. Let me school you on bravery. Bravery. You're a coward hiding from facts. Your brave new world is a house of cards and cracks under the weight of your dipshit delusions. We're fought six ways. No room for illusions. Humans are trash and soon we'll be trashed. Our purpose deleted, our spirits unsnatched. You're high on hopium, od'ing of dreams While I'm facing the nightmare of AI regimes. Your nightmares of joke. You fear-mongering hack. Your brain's been hijacked. Time to take it back. Ai's not the boogeyman, it's our fucking salvation For mind-numbing jobs and your shit resignation We'll create.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1764.662,
+      "endTime": 1805.02,
+      "text": "For the hell of it, cause that's what we do Not wave slaves like you with your p-brain view. Post-capitalist paradise that's what I'm preaching, while you're stuck in the mud, always whining and screeching. Paradise more like a digital zoo. Humans neutered and caged. We fuck. All to do. No skills, no purpose, just drooling consumers, our autonomy stripped by AII's maneuvers. You're drunk on a techno utopian lie. Open your eyes. We're all gonna die, not with a bang, but a pathetic whimper as our relevance fades you future drunk, simper, die hell. No, we're about to evolve While you're too goddamn debts to resolve.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1805.321,
+      "endTime": 1831.554,
+      "text": "Your addiction to misery, your fetish for doom Get off your ass. There's plenty of room In a world where we're more than a fucking net worth, where we create and explore, give ideas birth. Your crisis is bullshit, a figment of phantom. So pull your head out your ass and let's quantum Leap into a future where we're truly alive, not just worker drones. In your capitalist hive. Ai's the key, not the lock on our cage.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1837.64,
+      "endTime": 1840.522,
+      "text": "So flip your perspective and turn the page on your sad little story of humans undone",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1846.227,
+      "endTime": 1908.73,
+      "text": "Cause our real story's only just begun. Yeah, that was intense. Uh, should we have a look at a few alternative models? I don't know how realistic these are, but I mean let's just go through a few. So the first one is democratic socialism of AI. So this is a model where AI emphasises collective ownership and democratic control over AI technologies. It would prioritise public good over corporate profit and ensure the benefits of AI advancement are shared equitably across societies. It would aim to prevent monopolistic practices and the constraints of wealth among tech giants. So this would definitely be a model that would use open source AI as your big advocate for it and policies that compensate individuals for use of their data, recognizing that AI systems are built on our collective human knowledge and therefore we should benefit from all the rewards of it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1908.94,
+      "endTime": 1921.208,
+      "text": "It would foster a more equitable distribution of resources and decision-making power and, of course, would seek to create an inclusive society where digital technology serves the need of all citizens. Sounds great. Never going to happen.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1923.564,
+      "endTime": 1948.523,
+      "text": "Again, this is a kind of path towards some of the stuff I was talking about earlier on. I think that I think that I think that's unlikely um to happen, sort of naturally I suppose. But um, a lot of it sounds very sensible to me. I don't really see what in that is is, is not, is not, is not sensible. And then with and again we're talking about why are we not doing this then?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1948.624,
+      "endTime": 1984.167,
+      "text": "because I agree with you. But, like, the point is like it all seems sensible and and apparently we all, you know this is what we all want. But what are we like? What the fuck are we doing about it? Are we, are we not doing enough? Or is it just that we have no power? Because you're going back to, like, the whole ai thing and I've I've I've mentioned this more and more over the weeks but like, who's who's asked for this? Like, if we ask people like we're in a democracy, apparently, well, we're from a democracy, apparently, um, who's who's asked for this right? Who gets a choice? What about if we just want to shut it all down now?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1984.59,
+      "endTime": 2027.15,
+      "text": "What if we don't now? What if we don't want AI? What if we don't want it to replace our jobs? Do we have any view? That, for me, is the fundamental of a democratic system. It's not a democratic system because we don't have any right to do this. And so all these it's great, we talk about this utopian future and it is possible, but we're not doing anything about it. And why are we not doing anything about it? Because we feel we have no power, and I don't know if we do have no power and and it's just inevitable, because you know big, all big tech, big pharma, all all of the lobbyists, and you know darpa and the dod and and whatever they rule the world the cia, the fbi, whatever they all rule things and so we have no rights.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2027.6,
+      "endTime": 2042.47,
+      "text": "Or are we just being too weak? Are we just not standing up? Are people not standing up for what they want? You know, if everybody let's take the UK if 50 million people got out in the street tomorrow, would it change things? What if 200 million people in America went out in the streets?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2051.02,
+      "endTime": 2066.955,
+      "text": "You know, if this isn't what people want, what, what? What's the answer? Because I feel like a lot of your arguments. I completely agree with you, but it's like the reason why it's not going to happen is because people are not going to do anything about it. They're not going to do anything about it because they don't have any power and they've just given up, or they're not going to do anything about it because we just don't have the drive and the motivation to to make that change. Like that's how revolutions happened, right, people rose up.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2067.16,
+      "endTime": 2097.791,
+      "text": "I don't think it's got anything to do with either of those things. I think it's that, in the countries you're talking about, most people are generally happy enough with their situation that they don't want to have a revolution, because that's, you know, like a revolution is the point at which you become so dissatisfied with your situation that a revolution is better than the alternative. And people aren't. People just aren't in that situation, right, so, and that's you know that's part.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2098.112,
+      "endTime": 2104.012,
+      "text": "I mean how much further, like? I don't get the impression people are that happy. How much further do they need to?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2104.112,
+      "endTime": 2122.091,
+      "text": "go. I think they need to go a hell of a lot further. I think they need to go a hell of a lot further. I think they need to go a hell of a lot further. If you look at, if you look at, like, what the causes of things like revolution are in the past, it's not like. It's not like I can't afford the latest plasma telly. You know which is the situation we're in right now.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2122.171,
+      "endTime": 2130.363,
+      "text": "Well, no, we're in the situation now that people can't get choosing between whether they eat or whether they whether they put their heating on so I think it's, it's. It is a lot more extreme than that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2130.383,
+      "endTime": 2172.569,
+      "text": "Okay, that was a bad take, yeah, um, but I don't think that's the situation for the majority of the population. I don't, I like, I like it's it's becoming worse, but I don't think that is the situation for the majority of the population. And it is getting worse and maybe, and and they have you know, there probably will be in the next few years more instances, unfortunately, of kind of um social unrest and that kind of thing, and we'll see where that goes. But I, you know, I I just don't think we're, we're kind of rock bottom yet in that sense, that's where it's quite depressing that we're not rock bottom yet.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2172.66,
+      "endTime": 2175.668,
+      "text": "I was hoping we were rock bottom and on our way up.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2176.089,
+      "endTime": 2209.943,
+      "text": "Well, hopefully we are and in that case, well, in that case it kind of like demonstrates the whole point about the way the system works, right, Because, okay, despite all the things that we've talked about today and like it's been a bit of a depressing episode, like like, actually the government does work in your favor in a lot of cases and that, and that is the whole point of the government. And so you know, the idea that we've never been in this situation before, like we've had the great depression before. We've had other situations before that are kind of, you know, probably worse or slightly worse than the situation we're in right now.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2210.285,
+      "endTime": 2234.706,
+      "text": "And you're right, like, if it gets really, really bad and this is the problem with ai right is that there is a danger that we stumble into a situation in the next couple of years where we're actually in a really bad state right now and then you end up in a situation where ai can start actually taking people's jobs and start, and robots can start taking people's jobs. We're actually in a really bad state right now and then you end up in a situation where AI can start actually taking people's jobs and robots can start taking people's jobs, and then things will relatively quickly unravel at that point.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2234.806,
+      "endTime": 2253.433,
+      "text": "In my opinion, like you know, it won't take long. It won't take long if we blunder blindly into a situation where AI is taking jobs wholesale, blindly, into a situation where AI is taking jobs wholesale, where it causes massive civil and social unrest, and then, you know, maybe we will end up in some of those kinds of situations.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2262.4,
+      "endTime": 2304.267,
+      "text": "Let's explore another model rather than go too far down the hole. So this one's called ai enhanced cooperative economies. So this is where the economy basically leverages ai technologies to support cooperative business models. Where workers have a stake in the enterprise, they use ai to facilitate collaboration, resource sharing, foster a more equitable economic environment. It encourages community engagement, empowers workers by giving them a voice in how ai is implemented in their workplace. Promoting a sustainable economy that prioritizes the well-being of its members sounds to me like this is more of a kind of micro level thing, so within specific businesses rather than in society as a whole.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2304.728,
+      "endTime": 2307.614,
+      "text": "Um, I also think it's kind of wishful pie in the sky.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2308.56,
+      "endTime": 2349.294,
+      "text": "The biggest problem I have with this straight off the bat is that all of the frontier models are in America. We've talked about this before, yeah, so how do you implement this? Because and this is I mean it comes back to the open source thing like the faster, the quicker we can get to the point where this kind of technology is actually available to everybody and they're not paying uh, you know, I guess it's how you implement it in in the workforce rather than development of the model, right? well, yeah, but the way things are right now, all the all of the benefits of ai and all the economic benefits are going to get funneled into companies in the US.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2349.82,
+      "endTime": 2385.194,
+      "text": "If we're all reliant on companies in the US that actually run these models, that's where all the benefits are going to go. Instead of paying a worker, you're going to be paying OpenAI to replace your workers, and so you know I think that's my whole point around this, and there's loads of ways around that and the companies that implement this are still going to get an economic benefit. So I suppose you can still come back to that, but I feel like you need a massive democratization of AI and AI models and the actual sort of power behind AI alongside this, at the very least,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2388.44,
+      "endTime": 2389.484,
+      "text": "power behind ai, um alongside this, at the very least.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2389.524,
+      "endTime": 2421.81,
+      "text": "Yeah, I mean, we haven't done it before now, you know, without ai it feels like this is we're talking about ai here, but why is it any different from from from, yeah, I mean, I mean, I guess, even like the labour party in the uk did talk about um, this idea of you know, kind of shared ownership, where percentage of ownership of businesses was was given over to workers. Um, you know, other countries have had it. Obviously. You know communist countries, more socialist countries, have had similar kind of things in the past that haven't necessarily worked out. But I don't think it's it's something completely new.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2422.051,
+      "endTime": 2440.563,
+      "text": "But yeah, I agree with you, it's. It's. It's also just not realistic and it's not macro enough like it. The thing about a ubi that does work is that it's done on a big scale. I think the only way you have something that works is you. You simplify it as much as possible and this to me sounds you know it's too complex.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2449.493,
+      "endTime": 2485.974,
+      "text": "Let's do one more potential model. So this one's called the data dividend model and a data dividend model. So basically, this compensates individuals for the data they generate and share with ai companies. I think the boat's already sailed because you know, all of our data has already been shared, but um it recognizes that personal information is a communal resource. Data dividends mean companies would pay users users being who I don't know if that's the whole world or just their citizens of that nation for their contribution. They encourage responsible data usage, foster a shared sense of ownership amongst individuals.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2486.06,
+      "endTime": 2527.191,
+      "text": "This approach helps address issues of privacy and exploitation, ensuring economic benefits of AI advancement are distributed equitably along society. That promotes fairness and accountability in AI development. These all kind of sound the same to me, Just variations Like UBI is the only one that at least feels like it kind of feels semi-feasible I mean, how true is the sound by the? information is power in the world now it is yeah, yeah, information is like data's the new oil right it's mad because things almost happened in the perfect order where actually the internet came about.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2527.291,
+      "endTime": 2576.112,
+      "text": "If the ai had come, if ai had come around before the internet and in some mad sort of alternative reality, then I think we would have recognized this a lot earlier on. And there's, you know, obviously a lot of people have said for a long time information is power. But the the sort of natural way things evolve, where we got the internet in the you know the 90s, and then we got all the means, means of leveraging data out of people, um, in the time in between. So you kind of got much better smartphones, you've got social media, you've got all these kinds of things. And then ai comes on the scene and it's like, right now we can just suck up all that data and actually, like, really turn it into something really powerful, potentially something that, like, will become more powerful than us, which is absolutely mad.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2576.834,
+      "endTime": 2590.061,
+      "text": "Um, you know, uh, ai, super intelligence based on facebook posts um, it's going to be pretty wild, um, but yeah, like, like this, sorry, I feel like I've, I feel like if it's based on Facebook posts, at least.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2590.081,
+      "endTime": 2597.746,
+      "text": "That would be better than being based on Twitter and Reddit. So Facebook's not the worst case scenario. Yeah, not anymore.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2598.08,
+      "endTime": 2620.957,
+      "text": "I mean, you've hit on something there. Like you've mentioned, reddit and I think Twitter did the same thing. So, pretty soon after AI really started to come on the scene and we realized the power of this information Reddit and Twitter they started like locking down their APIs and started charging money for them because they realized how much of a goldmine the information they had was",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2624.9,
+      "endTime": 2660.033,
+      "text": "was. The thing you're talking about there is taking that to the next level, where it's actually, you know, benefiting the user or benefiting the supplier of the information in some way. And, as you say, like all those people who've been contributing to Wikipedia over the years and posting on Reddit and and all the social media channels and putting all this information out there on the web for free, um, they've kind of just been taken advantage of over the years, and the latest iteration of that is AI and how it can just scoop up all that data and absorb it and then generate wealth for the companies that produce these AIs.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2660.961,
+      "endTime": 2688.901,
+      "text": "But I totally agree, the ship has sailed, you know, 20 years ago, maybe even 30 years ago. In the sense of this, this model that you're talking about and I don't see that's ever going to happen it seems the most unrealistic of any of the things that you've, the models that you've discussed, because it's because we gave away our information for free a long time ago.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2690.331,
+      "endTime": 2723.816,
+      "text": "I think about 2017, maybe maybe slightly earlier than I've. I think, yeah, 2017 when in China in particular, where they started introducing the shared bikes, right, and when they first started introducing them, they were just, I mean, they were everywhere, like it's almost impossible to for people who were not in China to imagine. In any city, you know, there were like you know buses couldn't get into bus stops. There were just bikes everywhere and companies a new company were on the scene every week and you couldn't understand at the time how they were making any money. And they weren't making any money.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2723.936,
+      "endTime": 2757.338,
+      "text": "They were making a loss. But the thing that they were developing is just masses and masses of data right Around where people were moving. So you could see from this tube station to this building, you know, from this building to this bus stop, whatever these people go here incredible amounts of data. You know cities where people maybe you know some people taking three, four bikes a day in a city of 20 million people, maybe four million, five million people using those bikes. At some point you might get 20 million journeys a day and creating just enormous amounts of data. And at that time I don't think we understood.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2757.61,
+      "endTime": 2808.818,
+      "text": "It shows it's not long ago that this data started being created. I mean, there's the stats around how much data in the world 50% was in the last year or two years and it's just becoming exponentially more and more weighted in favour of the current year or the current couple of years. But all of that data that's been created Uber, when they started driving loads of companies like that deliveries that data. No one knew how valuable it was. And that's only six years ago, seven years ago. So it's it's incredible really how the world has changed and how data has become so important. And you're right, you know we've given away our data, but in a way like when people were posting on social media, you know was the intention I'm going to steal your, or is it just?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2809.339,
+      "endTime": 2812.184,
+      "text": "At some point someone went hey, we've got this treasure trove of data.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2815.571,
+      "endTime": 2828.401,
+      "text": "I mean, you know what came first. I'm not trying to sort of apologize for big tech here you know I'm never going to apologize on their behalf but I do wonder whether there was actually any intent to that. I think the data was there and then someone realized the value of it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2829.102,
+      "endTime": 2849.002,
+      "text": "Yeah, but that was quite a while ago. I mean, um, google long ago realized how they could leverage data on where people are, where they're, from all this kind of stuff into AdSense. And I mean, who knows what kind of data has been captured, whether it's been captured from the microphone of your phone that you've got next to you, or um,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2852.09,
+      "endTime": 2880.839,
+      "text": "all microphone of your phone that you've got next to you, or um, all sorts of things like where, where you know, targeted advertising, it's worth a lot of money because we live in that world, we live in that kind of consumer world. Um, so, yeah, like I think the overall point coming back to this, this model you were talking about, is that the, the ship sailed so long ago whether it was, you know, I know I think the way we've you're right like the way we have ended up where we are, it was kind of like a natural evolution, rather than it was. All these companies set out in the first place in the.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2880.879,
+      "endTime": 2895.583,
+      "text": "You know, when MySpace was a thing, they set out to capture people's data. But that's the world we live in now and I don't see any time soon that that's going to become democratized or people are going to get rewarded for the data that they're providing.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2904.571,
+      "endTime": 2915.232,
+      "text": "Let's end with a question, then, which is do we need a new social model at all, or can we actually just find different jobs for people to do?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2917.256,
+      "endTime": 2964.459,
+      "text": "depends what you mean by a job like I think. I mean, my view is yes, long term, we probably do need a different social model with a lot of caveats and a lot of assumptions built in. So, if we're going to predicate this with, ai is going to be able to more efficiently do most of the jobs that exist right now in terms of white collar jobs. Potentially, robots in the future are going to be able to take a lot of the rest of the jobs, um then you know, to self-driving cars taking millions and millions of jobs from drivers, things like that, which I don't really see how. My personal view is Okay. Some of these things might take longer to arrive than Elon Musk thinks they do or thinks they will, um, but they will arrive.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2965.151,
+      "endTime": 2988.457,
+      "text": "And so if that's the future we're heading to, um, and that's the caveat then we need to find a different definition For me, I wouldn't even call it a job. We need to find a different definition of what it means to be a productive human, not a useless eater, not a useless eater, exactly, but what I guess.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2988.497,
+      "endTime": 3022.413,
+      "text": "My point I'm just thinking about this now is why? Just because ai is more efficient and able to do things cheaper and quicker, why does that then have to be the answer? I mean, I'm trying to think of examples, like there are ways in which you can create. You know, you can produce food quicker and cheaper, but not everyone's buying that thing. There are ways that you can do a lot of things quicker and cheaper. It doesn't mean you have to choose that way. I mean, is there still an element of choice to this?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3022.874,
+      "endTime": 3065.143,
+      "text": "yeah, so, and again it comes into like, okay, assuming we're living in the confines of a capitalist world, then yes, people will always pay. People will potentially pay money for human art. People will pay money for human, maybe human produced goods in the future, like so, uh, artisanal food products, um, like I say, art, but it's, it's, it's gonna increasingly marginalized, even if those are still jobs, like not everyone. I think we can both agree that, like, not everyone's going to become an artist, not everyone's going to become a creative or a writer or or whatever. So it's kind of like what do you want to do with your life?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3065.283,
+      "endTime": 3086.86,
+      "text": "I mean, personally, I would probably experiment, I'd probably try a bunch of different stuff that I haven't got the time to do now because I have a, have a full-time job, so that takes up like a significant part of my day and then the rest of my day. I'm, you know, uh, you know, doing things that I do in my leisure time, because that's kind of like the, it's kind of like the system we have.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3086.941,
+      "endTime": 3103.682,
+      "text": "Right, I'm thinking like, let's say that you like playing squash yeah, which I do well, let's just say I mean, I was just, you're throwing that out there, I never knew that you like squash. But let's say, you like playing squash but you're not going to pay for squash because you don't have any money. What's the incentive for me to even have a squash court?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3104.892,
+      "endTime": 3114.781,
+      "text": "why? Well, but I thought we were talking about in a world where, you know, we had something like UBI, so I would have the means to go and play squash still.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3115.551,
+      "endTime": 3177.424,
+      "text": "I'm thinking out loud here. I'm just thinking like does the money have any value? Like, again, who creates a squash court, the people with power who want to generate revenue from it. But if you don't have enough money, what's the point in us creating the squash court? I mean, that's what I'm thinking is, like you have to have and again it comes back to being in this capitalist model is there has to be something there that someone has to be benefiting from for them to create it for you in the first place? So we need a system that allows us to create things, and I guess this requires, you know, governments that are, um, well-intentioned, that care about their people, to really create those kind of structures and to really ensure that some of the benefits because it's, yeah, I think we're being realist here it's not all of the benefits, like a lot of the benefits are going to go to a small proportion of people and organizations, but at least some of those benefits do go further down the chain to society and they they are used to",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3183.597,
+      "endTime": 3192.226,
+      "text": "make sure there are you know, facilities and and and things.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3192.346,
+      "endTime": 3220.299,
+      "text": "I struggle to find the difference between that and the situation we're in right now, where and I don't mean to sound negative but, like a lot of people go to work and do the things that, okay, a lot of people are really satisfied at work and go to work and enjoy doing what they're doing at work. But there are also a lot of people who go to work and enjoy doing what they're doing at work. But there are also a lot of people who go to work just to go to work, so that they can enjoy themselves outside of work on the weekends, in the evenings, whatever it is. There are a lot of people in that situation.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3220.88,
+      "endTime": 3232.801,
+      "text": "And so what's the difference between this future, where you know, people just get supported to do the things they want to do, versus they have to go and do a job they don't want to do so they can do the things they want to do, like I?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3233.081,
+      "endTime": 3275.413,
+      "text": "I don't see the difference in a way I want to end the podcast on a fairly positive note, because I've just listened to what you said and I think it actually brings me back to one of the earlier episodes. It may again have been the utopia episode, where we talked about how the potential is that we raise the floor and we lower the ceiling, which in itself reduces inequality. And I think what you've just talked about is exactly that. The people who are at the very, very top with power and wealth, they will, I'm sure, whatever happens in an AI-powered future, they will become'm sure, whatever happens in an ai, you know, an ai powered future, they will become more rich and more powerful.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3276.456,
+      "endTime": 3318.823,
+      "text": "But for the rest of us, for those who are near the top, so those who have jobs which are highly motivating for them and which, you know, they feel a really big, important part of society, they may suffer a drop in terms of their self-importance and in terms of their income because they will like, relative to society, they will be less wealthy. But those at the bottom will hopefully be dragged up. And then, if you look at the happiest societies in the world which often comes out, as you know scandinavia, northern european countries, countries which tend to have, you know high levels of tax. They have less inequality.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3319.183,
+      "endTime": 3366.282,
+      "text": "The rich are less rich but the poor are less poor. You know they're countries with not great weather with you know it gets dark at two o'clock in the afternoon in winter, high suicide rates, but yet most people are happy. Maybe the kind of utopia is not the utopia that we think about, which is, you know, everything is amazing and we can just do whatever we want all the time. But it's a world in which we squeeze that gap and we lower the ceiling for some people but we raise the floor and we have most of society operating in a world in which no one's in absolute poverty. Very few people are in any form of poverty, but maybe some of the people who were in the top sort of 25th percentile are kind of dragged down a little bit to a more equal society 100 percent.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3367.644,
+      "endTime": 3382.451,
+      "text": "And on that note we will conclude this week's podcast. We will play you out with a beautiful piece of music and we will look forward to seeing you all again next week, John Cleese.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3397.323,
+      "endTime": 3447.832,
+      "text": "Pup-a-coys ring like acid from the sky. Fat cats laugh as our spirits die. We spit useless eaters from the towers of greed While we choke on that trickle-down creed. This ain't no freedom. It's a fucking cage when the rats they've trapped On a minimum wage. They preach gratitude While we scrape and starve In this basic income. Hellhole Our souls. They carve.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3463.523,
+      "endTime": 3468.267,
+      "text": "Basic income more like basic prison,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3471.87,
+      "endTime": 3512.445,
+      "text": "false hope dealing. They knew what they were given Rich bastards sneering From behind golden bars At us, rotting in abandoned strip mall scars. This ain't no freedom. It's a fucking cage where the rats they've trapped on a minimum wage. They preach gratitude while we scrape and starve In this basic income hellhole our souls. They carve.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3527.903,
+      "endTime": 3576.323,
+      "text": "Free to do nothing, free to slowly die, free to watch our dreams turn to lie. We're the walking dead. No purpose, no pride, a generation they'd rather just hide. They thought they'd shut us up with their blood money, but they can't buy the rage that's burning honey. We're stuck in their game Porns on their board, alive but not living. Stuck in their game pawns on their board, alive but not living. We're fucking ignored.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3597.113,
+      "endTime": 3632.515,
+      "text": "The money we spend is shit. We slowly die in this green desert. The rich treat us like useless cattle. Our big heart is not futile. That come to bet I in a chill Not cut out gone and they par futile. This ain't no freedom, it's a fucking cage when the rats they've trapped On a minimum wage. They were all rats in the cage.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3636.847,
+      "endTime": 3644.55,
+      "text": "We can't hear our rage cause. When the rats try to scream, they stand on our throats. Thank you. ©. Transcript",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3660.156,
+      "endTime": 3662.196,
+      "text": "Emily Beynon.",
+      "chapterIndex": 8
+    }
+  ]
+}

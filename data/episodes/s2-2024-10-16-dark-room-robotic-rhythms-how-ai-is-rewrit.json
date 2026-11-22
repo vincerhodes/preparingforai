@@ -1,0 +1,1169 @@
+{
+  "slug": "s2-2024-10-16-dark-room-robotic-rhythms-how-ai-is-rewrit",
+  "buzzsproutId": "15936196",
+  "title": "(DARK ROOM) ROBOTIC RHYTHMS: How AI is Rewriting the Rules of Music Production with Anth Gaskill",
+  "date": "2024-10-16T11:00:00.000Z",
+  "season": 2,
+  "durationSec": 4988,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15936196-dark-room-robotic-rhythms-how-ai-is-rewriting-the-rules-of-music-production-with-anth-gaskill.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Join us on an exciting journey through the dynamic intersection of artificial intelligence and music production with our special guest, Anth Gaskill. As a chartered engineer and seasoned music producer, Anthony offers invaluable insights into how AI tools like Suno and Ditto are making music creation more accessible to artists of all levels. Discover how AI-generated compositions are not just a futuristic fantasy but a present-day reality, shaping the way music is produced and experienced. We'll navigate the potential and pitfalls of these technologies, exploring everything from the catchy tunes AI can create to its limitations in replicating human complexity and nuance. We delve deep into the ethical landscape of AI in music, discussing the fine line between inspiration and imitation. Hear Anth’s thoughts on the role of stem separation tools and platforms like iZotope's RX, and how they bring both opportunities for creativity and challenges in terms of copyright and attribution. We also tackle the ethical concerns about data usage by major tech companies and the global AI race, questioning the balance of power in the ever-evolving AI landscape. As we look to the future, we question what AI means for the authenticity of live music performances and how it's reshaping the music industry. Imagine a world where AI-generated songs populate Spotify, possibly overshadowing human-made music in favor of mood-based playlists. We ponder the impact on creativity, the potential for new music movements, and the enduring power of human ingenuity despite technological advancements. This thought-provoking episode is a must-listen for anyone passionate about music's evolving role in our technologically-driven world. Buy Anth's book! https://www.amazon.co.uk/Complete-Music-Producer-Essential-Success-ebook/dp/B008150TPW Listen to Anth's music: https://darkroomrobot.bandcamp.com/ https://www.youtube.com/@darkroomrobot https://www.bbc.co.uk/programmes/m0022xxd",
+  "summary": "Music producer and chartered engineer Anth Gaskill breaks down how AI is reshaping music production, from Suno's inconsistent but improving output to stem separation tools now bundled free with DJ software. The conversation roams copyright chaos (uncredited James Brown breaks, Blurred Lines lawsuits), Spotify's playlist economics incentivizing AI filler, and whether a model trained on one artist could resurrect Jimi Hendrix.",
+  "keyTalkingPoints": [
+    "Suno produces a distinctive generic male vocal and fails at dance music, but marks a genuine step change since its 2023 viral moment",
+    "Stem separation — isolating vocals, drums and instruments from a master — went from pro restoration tools to free features in DJ software",
+    "Sampling's copyright Pandora's box was never closed: the Amen and Think breaks were used tens of millions of times with no credit",
+    "ABBA's hologram concerts point to a future where artist estates train models on legacy artists to release new AI music",
+    "Spotify's playlist model could quietly pepper 40-50% AI-generated background music into streams because it dehumanizes artists into slots"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Suno is fun but inconsistent — it augments creators who write their own lyrics and structure rather than replacing them",
+      "Cloned voices could mean Taylor Swift never needs to record another album, which raises the question of where new artists come from",
+      "He is increasingly convinced AI will not replace musicians because being human is about live interaction and flow states",
+      "Big tech treats regulatory fines as a cost of doing business"
+    ],
+    "matt": [
+      "AI self-peer-review is a contradiction — an Oxford paper reviewed by six Oxonians would never count as peer review",
+      "Industry insiders know showcased AI demos are curated boardroom showcases, not real products",
+      "Spotify's incentives make the platform a likely vector for flooding music with cheap AI content"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-10-16-dark-room-robotic-rhythms-how-ai-is-rewrit-3693.174-cloned-voices-will-let-stars-like-taylor-swift-s",
+    "s2-2024-10-16-dark-room-robotic-rhythms-how-ai-is-rewrit-3577.247-artist-estates-will-test-niche-ai-models-trained"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Anth Gaskill"
+  ],
+  "chapterCount": 7,
+  "turnCount": 156,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Introducing Anth Gaskill",
+      "startTime": 84
+    },
+    {
+      "title": "AI & the future of music",
+      "startTime": 383
+    },
+    {
+      "title": "AI & music production, the law & regulation",
+      "startTime": 1182
+    },
+    {
+      "title": "Why human generated music is different",
+      "startTime": 2526
+    },
+    {
+      "title": "Anth Gaskill's advice to humanity",
+      "startTime": 4172
+    },
+    {
+      "title": "Hoovering 2 (Outro Track)",
+      "startTime": 4790
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 23.8,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 23.94,
+      "endTime": 66.59,
+      "text": "urgent need for safe development of AI governance and alignment. Let the music in tonight. Just turn on the music. Let the music of your life give life back to music. Welcome to Preparing for AI the AI podcast for everybody With me, bimmy Jodes and me, Vim Yonk. Okay, I'm quite excited about today's episode. We haven't actually had a guest on for a little while. Today we've got an episode about AI and music. We've spoken about AI and music before and Suno and some of those kind of tools, but today we've got a very special guest on a good friend of mine, anthony Gaskill, or Anth as his friends call him, and yeah, I'm going to hand over to Anth almost straight away to do a quick introduction to himself.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 68.562,
+      "endTime": 81.465,
+      "text": "Can I, just before we start Anth, I just want to say, before you start that this I think you're the guest that we have spent the most time trying to secure, so no pressure, but this had better not be shit. Cheers.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 82.167,
+      "endTime": 82.327,
+      "text": "Matt,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 89.561,
+      "endTime": 150.591,
+      "text": "yeah, thanks for having me on guys. I guess I'm probably an interesting straddle of both camps here. I'm a chartered engineer, studied electronic engineering between 2000 and 2004 at Newcastle University and that in that I specialized in control systems, console 3d image processing. So we use sort of machine learning languages and tools back then that were, relative to now, pretty simple. If you use the example of image processing, we were quite crude by the shades of colour in pixels to outline shapes of objects and then compare and come up and identify what were in images. And you compare that to now where your iPhone can identify your friends, sort all your pictures, who they are, put details about them and everything.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 150.611,
+      "endTime": 178.577,
+      "text": "And it's been. It's been quite an incredible journey over 20 years and so I've sort of in an engineering capacity. I've worked in the smart transport, smart city sectors, done a number of world-leading projects, led the development of the world's first smart grid control system, done AI startups with traffic management and the UK's active traffic management system. I was systems engineer on that",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 182.126,
+      "endTime": 208.911,
+      "text": "and again, that's pretty cutting edge and some of those were a chunk of of those been in the last 10 years and really the the change from deterministic algorithms to what is ai now coming out um with chat, gtp and cloud and things is really an exponential growth in complexity and the abilities um. And then on the music production side, which I've been doing from 2003,.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 212.025,
+      "endTime": 223.65,
+      "text": "I've had tracks on major dance shows in the UK Radio 1, bbc Essential Mix and support by A-list DJs across the world and club players in dance music and techno. Really.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 227.64,
+      "endTime": 259.56,
+      "text": "So I've got a pretty reasonable understanding um, I do make money out of music, but it's in the more to the freemium end as opposed to an engineer being in the premium. And probably ai is um an interesting tool in that it straddles that entry to almost give your basic musician access to what is essentially the skills of a premium level musician. You're building on history and so it's. It's quite an exciting arena to be in at the moment.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 262.846,
+      "endTime": 271.556,
+      "text": "I thought you'd. Have you not written a book on music production as well? Anthony, this is the moment to give it a plug. We've got loads of listeners that is exactly true.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 272.098,
+      "endTime": 315.626,
+      "text": "I completely forgot about that. Yeah, yeah, me and a good friend used to write a blog called lost in Music 10,000, 15,000 people a month doing various articles on music production and being an artist, and then we produced a book. Complete Music Producer interviewed people like George Clinton to Darius Sorosian, paul Wolford and Gareth Jones, who produced all the Depeche Mode stuff, sold a few copies, paid for a bit more hardware, and Gareth Jones, who produced all the Depeche Mode stuff, sold a few copies, paid for a bit more hardware and it was pretty good fun and that was about got five-star reviews and stuff like Future Music.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 317.242,
+      "endTime": 322.948,
+      "text": "That was about 2012, 2013. Yeah, jason the Prompt, I forgot about that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 329.86,
+      "endTime": 349.726,
+      "text": "Click the link in the show notes. We'll have a link to buy in the show notes and maybe we'll even the hundredth person to buy it. We'll throw in a few a free preparing for ai hat as well, so who could resist that offer? yeah, let's make sure we get it. Get it in there, I mean. The other thing I would mention is that I think I met Antz. I'm not sure if I met you in a club, antz, I think I did. I think I met you on a night out.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 350.58,
+      "endTime": 358.333,
+      "text": "We definitely met in a beather A beather at a 30th birthday party with a lot of Hard House being played by the pool.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 361.861,
+      "endTime": 362.565,
+      "text": "Hard House.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 362.625,
+      "endTime": 374.028,
+      "text": "I reckon that stuff could be generated pretty well on the current ai. I think we could have, I think we could have done you a playlist jam, uh, yeah oh, we will at the end of the episode.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 374.089,
+      "endTime": 412.623,
+      "text": "I'm sure we can finish with a hard house track this week. That'd suit me down to the ground quality. So, um, I think I think at that point, I mean, that's a really good introduction. Obviously it's like you've got a wealth of kind of knowledge and all the rest of it. So I think I think the thing now to talk about is kind of and we've talked about it a little bit before um, we generate songs with things like suno, ai, um, and I think that I think suno is on version 3.5 right now. Um, there are a ton of other um, you know, kind of AI tools for music production that are coming out. There's things like Ditto and Amper and Ava Musenet.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 412.643,
+      "endTime": 449.948,
+      "text": "There's a whole bunch of different stuff which we'll kind of get into a little bit. Um, but yeah, like, in terms of what I've had the most hands-on experience with, it's been stuff like Suno, which, like it, definitely doesn't produce world-class songs right now, but I would say it produces some pretty impressive stuff, especially with the version 3.5, where you can get full four minute tracks. We've used it to create some songs that we're pretty happy with, to be honest. Um, and so I think maybe we start there. We start with things like suno and kind of like what I guess. I mean, have you listened to some of the AI music anthem.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 449.968,
+      "endTime": 453.749,
+      "text": "I mean, what's your view on it? What's your view on some of the stuff you've heard so far, and where?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 453.769,
+      "endTime": 510.906,
+      "text": "it's going. Yeah, I mean one of the EPs I did last year, high on Hope, that got played on stuff like Rinse FM and Emerald, who've been a BBC radio, put it as a ride or die tune. There was a bit of a step change. This would be about last March 23. So I used a tool called Riff Fusion that you could do prompt words and I thought I'd had a go trying to recreate. This was sort of techno with some rave samples see if I could recreate the music on my EP. And I played around for about a day trying to get ever more detailed in the prompts. At that point there were. It was produced what I would class as fairly generic sounds, I think over the last year, things like Suno.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 512.649,
+      "endTime": 593.807,
+      "text": "I think I did this before Suno. Suno was about June or summer 23,. Wasn't it when they went viral with their recreation of the Mississippi Blues song? They went viral with their recreation of the Mississippi Blues song and I'd say Suno's taken the baton with that and I think with certain styles of music it can create something pretty realistic. It can create some vocals that are cool and it's interesting. I mean, as an artist I guess I would look at them as maybe the karaoke cover songs. I think if I, if I was crude, I would say that's the category I would put it in. And if you want, like elevator music and uh, some of the stuff that is we'll touch on later that are popping up on Spotify, that are potential covers I think that's Suno and they can fit in that bracket and they can do something that is possible and people are listened to in the background and I think they'll hum along and do their day, or if they're in an elevator and and and they probably wouldn't distinguish it as it's advanced over the last year, so it's pretty impressive in that way.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 595.791,
+      "endTime": 595.971,
+      "text": "Yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 597.354,
+      "endTime": 646.9,
+      "text": "I think I think one of the the really interesting things with Suno so far is, I mean it's it's pretty inconsistent in in genres, not just in terms of how good they are, but actually in terms of you know, some of the genres you you put in and it's nothing like it. I mean I was trying to make a song for my daughter the other day and I put she wanted something calm and relaxed and we put like calm, relaxed, fairy something and it came out with like kind of quite an aggressive like. It sort of started off as piano and then it became this kind of quite aggressive rock song and you quite often put things in and you'll get this kind of um, almost like uh, almost like kind of poppy hard rock that it creates with a lot of things, also the vocal.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 647.281,
+      "endTime": 692.212,
+      "text": "So there is this kind of unmistakable suno male vocal which is just it's not only ubiquitous but it's also it doesn't sound very good. I think you know it's inconsistent but weirdly some of the really odd prompts. So I put in once we were, we just messed around and I put in now, but did you redo? And it came up with this three minute. Did you redo solo. That then descended into some kind of um, your hard Irish rock, and it was amazing. And then if anyone listened to I think it's a couple of weeks ago the episode, I made a kind of operatic musical version of an episode and it was brilliant. Like Jimmy said, you know, I could imagine like dancing around with umbrellas and I was actually thinking, should we just create an AI musical?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 692.981,
+      "endTime": 728.734,
+      "text": "But where some of the other stuff that you would think it would be really good at doing it produces pretty inconsistent results. Dance music is. I mean, we've tried a long, long time to make a good dance track. It does stuff instrumental quite well. I managed to make one that was called Kill Switch, which was a kind of you know, poppy trance vocal song with a, with a female vocal, and it was pretty good. I think if it was 10 years ago no, maybe not 10 years, 15 years ago, maybe even 20 years ago like it would be pretty good. It didn't sound, you know, the production's obviously not standard, but it was pretty catchy, but it's just at the moment it's.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 729.156,
+      "endTime": 762.308,
+      "text": "It's inconsistent, like it's fun, but at the moment it's obviously not going to replace sort of high-end music. But that's at the moment and we always say you know, things progress so quickly. Yeah, so I would agree. I mean, having used To for a while, I find that a lot of stuff that comes out is very generic. Like the problem with the electronic music is it's just it's not got any of the subtleties, it's not got any complexity to it. I think Anth was saying a minute ago and the voices as well, like it really does my head in that you can't get it to do different voices. It's like all the voices sound like some sort of generic American.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 763.049,
+      "endTime": 794.022,
+      "text": "You know male, female singer voices sound like some sort of generic american. You know male, female singer. They don't have much range, they don't like there's nothing punchy about it, there's nothing complex about it. So I guess my question is anth like do you think that because when when ai, when I ai images first came out, you had like a lot of people had six fingers and it had it really struggled with like things like hands and fingers? Do you think that's where ai music is now, where it's like it's kind of it kind of sounds all right, but you can tell it's ai music, but in the future it's going to evolve I depth and specificness of the music",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 813.041,
+      "endTime": 815.289,
+      "text": "the tool has been trained on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 816.842,
+      "endTime": 854.519,
+      "text": "So there's another tool called Cynthia, which I had a play yesterday and I'd say that's more focused on electronic music. Um, it's a little bit like sooner, but it doesn't have vocals, um, but what it does do is you can, you can be very specific. You say I want to create a melodic techno track in the style of ben bormer. You can, you can specifically give it artist names and styles, so it comes out with something that's a little bit more replicating. That's very interesting and it also gives you the song in the stems.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 855.203,
+      "endTime": 872.184,
+      "text": "Sorry, ant, so you can give it the names of actual artists and it doesn't. I mean it will do that, because that's one of the big things at the moment with copyright is that most of them just will not accept, accept, you know, even suggesting the name of an artist yeah, it takes names now how close it is like the.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 873.567,
+      "endTime": 927.396,
+      "text": "Uh, it's, it's still, say, a bit of a magnolia view of the artist, if you like, but it is giving it some steer. But I think the interesting part of it is, whereas suno gives you a complete song, whilst cynthia plays a song, it gives you it in stems. So what you can then do is you can then export that as a project into your DAW so you can kind of use it as an idea, idea creation, that you've then got a start and template, and you could then you've got the bass line, the drums, the melody, the chord progression. You could, for the example, with the chords, you could use another tool and create inversions of the chord, which will straight away add complexity and and and, as we've sort of touched on there, it's those complexities and the nuances that give it the human aspect.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 928.781,
+      "endTime": 967.224,
+      "text": "If you take a lot of like, say, some of the classic 70s soul and early disco, a lot of what gives those music the sound were then sampled by hip-hop artists is the nuances and particularly the inversions in the chords and the funky voicings. Uh, quite often some of the notes will be accidentals and not be classic music theory, so it's sort of those nuances that I don't think, um, the ai models at the moment have picked up on, whether that's a training or whether it's like levels of granulation that they can't process. I don't know because it's like levels of granulation that they can't process, I don't know, because it's.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 967.244,
+      "endTime": 1014.772,
+      "text": "They're kind of like big blocks, but they're, I think, the nuances. Like if you take Jay Dilla, that has a lot of props as a hip-hop artist, he often blends swung grooves with very straight grooves and it's this kind of mishmash between the two that often gives him his uniqueness. That's an individual person pulling something out. Now, if you trained an AI on the Jay Diller back catalogue, it could probably impersonate him. But where is that being original or just being a copy, and that's kind of, I think, in a way, what AI does with those generation tools is it gives a current artist access to compiling history.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1018.262,
+      "endTime": 1075.046,
+      "text": "An example would be the Beatles. In a way I think is the popular one that got infamous with the 10 10,000 hour rule. They spent several years in Hamburg. They were playing cover of 50s songs. They were learning the nuance and getting better. The direct feedback is being able to retain the audience and add the excitement that then fed into them, starting to create their own songs based on what they've learned by that repetition of learning that history of music. And AI almost gives you a jump in on that, because, as a music producer, we all try and copy songs of artists. Whether probably a lot of people don't admit it, but many people do, I do copy the artists that were inspired by and you learn some of their nuances and you augment it and adapt it into your own style.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1075.687,
+      "endTime": 1084.548,
+      "text": "I think ai at the moment is a way of giving you a uh, condensing that potentially more quickly and building on it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1085.53,
+      "endTime": 1122.806,
+      "text": "I don't want to make this a kind of Suno episode, so we we, you know, move on from Suno in a minute. But just one thing I wanted to touch on after what you've just said is I think with Suno we kind of obsess about it as a as a tool, but actually, you know, it's a great kind of democratization to individuals to just be able to play around and make music, but it's not a professional music making tool and we kind of I think, when you obsess about Suna and what it does, we probably haven't dug in enough and I think most people probably haven't dug into where AI is actually affecting. And then the example you've given is a good one of you know more professional music making.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1122.826,
+      "endTime": 1156.191,
+      "text": "Because if you think about the way that you prompt Suno, you can put your custom lyrics in. It's very good at reacting. If you put verse, chorus, bridge, it's able to understand what you're saying. With that you can then put in a description of a style, but that's it. You're not steering it. Even in the way that with a large language model, you learn to prompt and to give it more information, you can't really create a very, very detailed prompt. So it is really in its current guise is just a bit of fun, Whereas the you know the tools you're talking about there, which I think are, I think, much more interesting actually, where you're able to help with the creative process.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1156.332,
+      "endTime": 1174.102,
+      "text": "But you're, you know, you're really kind of augmenting the process of someone who's creating music, rather than just sticking it into an ai and just you know. Oh, look, here's the output of ai. I wrote this song, you know. What you're talking about is there is still, I think from what you're saying, a lot more involvement from the producer and still a lot more creativity that's coming from the individual.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1180.088,
+      "endTime": 1248.683,
+      "text": "If you take the last five years that it uses some form of AI processing is what's called stem separation. Now this started out. Really, the first one I'm aware of is Isotope's RX restoration tool, and that used to be it. It's still around a grand it's probably about 12, 1300 pound bit of software and what that could do. That had a function where it could pull out stems so you could pull out the drums. You could pull out the melody of an original song so you could take a beyonce song and you could pull out uh the music parts. You could then use other ai tools to rip the melody notes from that and then you can use that as a starting point and and a lot of dance music and even composers in other areas use that to learn, um, what uh musical notes are in a song, or to take out some harmonies and use them in their own production.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1249.886,
+      "endTime": 1289.412,
+      "text": "Or, or I'd say over the last two or three years, that software or that processing where you can separate music, as has dropped into, initially stuff like record box for free. Now there's things like Akai's MPC, which is a big platform that was £10, and that separates stems to really high quality, and there are other people that do it. La La AI does it and you can use that as a starting point and that I would say is probably at the moment, the big part where AI is used by professional music producers. That's really interesting. Can use that as a starting point and and that I would say, probably at the moment the big part where ai is used by professional music producers that's really interesting.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1289.492,
+      "endTime": 1318.369,
+      "text": "I mean, I wasn't aware of all those tools, but I have heard of some of the stem stuff and I think, um, some of the tools that I've used talk about been at a download stems now of, like, the vocals on the back background track. My question is I think we're going to talk about this in a little bit, but part of this episode is going to be about legal, ethical copyright considerations, like what you just talked about there. So like taking the drums from a beyonce song, something like that. I mean, you might not know the answer and obviously you're not a lawyer or whatever, but like, where do you stand legally with that like is?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1318.589,
+      "endTime": 1326.445,
+      "text": "And like just ripping, like using one of these stem tools to rip out the drums and then use it in a dance track Is that legal?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1329.703,
+      "endTime": 1375.186,
+      "text": "The full legal side is you should be crediting either certainly the drummer as a performer. There's writing co-writing credits if you're using it in the track. The reality is I don't know anyone who credits anyone. I mean some of that, to be honest. There's a company called A-Slice that was trying to democratise the royalty collection for performance and things in the dance music industry and not enough big DJs signed up and it was really disappointing. It showed that they almost didn't care. Signed up and it was really disappointing. It showed that they almost didn't care. But the a lot of the mechanical rights societies it's such an archaic system linking back to people printing records and gramophones.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1375.267,
+      "endTime": 1424.953,
+      "text": "It's. It's actually very hard for a modern music producer to navigate and if, even if you wanted to be ethical and credit the drummer, say on a on a current Beyonce, if you had ripped that and it was written by the drummer and he was a performer, I don't even know where I would find who that drummer is now, because there's nowhere in the digital world artists, sound engineers, are credited and I don't know how you would separate that out. You probably the probably the ethical thing is you would have to give a credit to everyone on that beyonce track because they potentially could have been involved in that creation, um, and then you would assign it and your, when you log it with your um, performing rights society and they would split out the percentage to that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1425.133,
+      "endTime": 1463.872,
+      "text": "That musician, it doesn't happen in reality, yeah yeah, and I think I mean the interesting thing there is, like you were talking about an actual track, where you've ripped it off the track. You then get into the question of, well, the drummer probably didn't come up with that particular you know beat or track or whatever, like it probably came from somebody before him and somebody before him and somebody before him, which is the which is the sort of the complex nuance with copyright, isn't it? As you were saying, like pretty much everyone, since Mozart and Beethoven's, building on what people have done before, same with film, same with books, same with everything like creative right, and so it's like where do you draw the line on who gets attribution and how does copyright work?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1463.892,
+      "endTime": 1473.612,
+      "text": "draw the line on who gets attribution and how does copyright work? Yeah, I mean, a classic reference of that is drum and bass, original music genre that's basically built on the Armand break,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1476.78,
+      "endTime": 1491.056,
+      "text": "the Think break from James Brown. Those drummers never got anything that I'm aware of. And I mean those couple of second breaks in different funk records have been sampled. I've heard someone recommend like estimate 40 or 50 million times",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1497.402,
+      "endTime": 1503.89,
+      "text": "and I mean those breaks are everywhere in dance music and nothing's ever gone back to those and they're definitely not credited as writing",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1506.94,
+      "endTime": 1570.36,
+      "text": "to those and they're definitely not credit as it is writing. Um, yeah, so it's all. Some of sampling opened a bit of a, a bit of a pandora's box which, to be honest, hasn't hasn't really been, uh, answered. I mean an interesting one dilla souls, feet High and Rising, that only recently made it onto the streaming platforms because of the sampling royalty issues and I don't know what was ever. Something was worked out but it was never made public and they had samples from God, an absolute cacophony of artists. They never paid anything on the original record in the 90s, which was a massive hit, but something was agreed for it to then go on to spotify, tide, apple music and everything maybe about a year, two years ago, but it wasn't made public yeah, the reason I asked the question about copyright is because, like, what we're going to talk about next is is is what we think about, or what you think about kind of copyright with the respect to AI?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1570.6,
+      "endTime": 1605.154,
+      "text": "So, like, let's assume. Let's assume for now I know we talked about it before and we're not sure, but let's assume we get to the point where AI generated music is almost indistinguishable from human generated music, but it's AI that's been trained on everything that's come before now. My um, I suppose if I'm being bullish towards ai and saying, like ai is great, let's have ai music well, I would say as well what we've just said about human generated music. All of that applies to ai generated music, right? So you've got people that are building on everything that's come before them. Isn't AI just doing exactly the same thing?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1606.221,
+      "endTime": 1609.391,
+      "text": "Yes and no. Um,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1613.022,
+      "endTime": 1657.37,
+      "text": "I mean, there's been interesting legal cases with Ed Sheeran he trying to think of the guy out of NERD who he got done him and Robin Thicke where they had that massive track and they were saying it was too close to a Marvin Gaye song and he's saying I borrowed the essence of the chord and the feeling but I wrote my own inversions and changes to it and it was a big legal case about feelings and what is copyrightable in music and it it's. It's kind of gone both sides of the line. Ed sheeran got it on the side going with him that he wasn't copying. Um, oh, I'm gonna have to. I'm gonna have to search the guy n-e-r-d.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1657.812,
+      "endTime": 1660.824,
+      "text": "Uh it's on the blurred. Blurred lines is the track, isn't it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1660.864,
+      "endTime": 1708.031,
+      "text": "yeah, yeah, uh, and there was a couple of other like he had his pharrell williams. That's it, yeah, um, and he. He lost a multi-million pound uh lawsuit and for another song of his happy um. I think the difficulty there is whilst they've built on it, they've learned. Where's the difference? They've learned and absorbed and added their human twist on it. Ai is pulling from everything and it's been specifically trained, isn't it on that? Data that people haven't, they've not made any payment for, they've not made any acknowledgement or said that's fine.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1709.161,
+      "endTime": 1711.347,
+      "text": "They've not consented, have they? They've not consented to it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1711.849,
+      "endTime": 1751.726,
+      "text": "In any form. No, I know it's on Bandcamp. There's a lot of artists now saying or SoundCloud, they'll put the music and this is not allowed to be used for AI training, and it's I mean in an ethical way. There should be some almost cooperative percentage given of the company's value shared among artists, because without those artists the model wouldn't develop and it wouldn't have an output. And to not recognize that to me seems pretty unethical. Because they are, they are absolutely standing on the shoulders of giants, because without that they wouldn't be able to train and learn it yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1751.746,
+      "endTime": 1791.81,
+      "text": "So just on on that point about kind of scraping data, or you know where the, where the people can consent to having their music and training data. I think this kind of reminds me of where you see on Facebook, you know people put on their Facebook account, you know you can't scrape my data and if you do, it breaches this law, and then Facebook basically say, well, you can opt out, but you have to close your Facebook account. I just think with a lot of this stuff there are two problems. One is that you know, we know, for example, with youtube, that your youtube, officially, their data hasn't been used for training, but then we're told that actually, you know there's, there's almost you know there's evidence there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1791.89,
+      "endTime": 1826.827,
+      "text": "I think, for maybe that's one of the reasons why, um, why we haven't't seen Sora come out into the public yet there's talk that a lot of stuff was trained using YouTube videos. I think, on the one hand, it's very difficult to stop it because it seems like it's happening anyway. And secondly, I'm just not sure you know, I agree with you, it should be the artists. But if you're talking about putting it on SoundCloud, for example, does it say somewhere in SoundCloud's terms and conditions that by uploading to SoundCloud, you've given us the rights to the data, and then SoundCloud are the ones that sell that data on, rather than the individual.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1827.582,
+      "endTime": 1834.231,
+      "text": "So it's so complicated because you're using platforms, you've got all these kind of layers and then we know that the big companies, who are training their models",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1840.9,
+      "endTime": 1853.128,
+      "text": "frankly I don't think they give a shit because you know if they get sued, well they're, they're confident, they're going to make so many. You know hundreds of billions and trillions in the future that the data is worth so much for them. They don't care about the small individual musician yeah, I mean, the classic is what, what's?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1853.368,
+      "endTime": 1856.772,
+      "text": "uh, me, now the guy who",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1863.982,
+      "endTime": 1882.428,
+      "text": "they basically say you should break it and you should break the regulations. And if you're not breaking stuff the Silicon Valley kind of mantra then you're not moving fast enough. And if you step back to where I was in, the systems engineer for this AI transport startup",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1886.106,
+      "endTime": 1932.253,
+      "text": "to be able to make real-time, the idea of that startup was to have a goal and to flush traffic to big events like an Old Trafford game and we were doing it with Manchester Council an Old Trafford game, a concert at it with Manchester Council, an Old Trafford game, a concert at the Etihad Stadium, this sort of thing and prioritise that over local traffic. So what you need is a lot of real-time data. Now, what a lot of people aren't aware is the 2012 London Olympics was a massive, groundbreaking technology test bed bed and they did a lot of stuff with real-time data where they were moving people around between transport modes and opening and closing gates and access for people using real-time data off mobile phones.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1934.925,
+      "endTime": 1979.675,
+      "text": "So basically, pretty much everyone's got a mobile phone, they've got that live sensor, they can see where they're going, they can pick up where they potentially come from and this sort of stuff. So, um, google maps used to have an api. Um, I meant to check if it, if it's still going to api access and you could get the data for travel journeys. You know how, when you're on a car and it's telling you whether it's green, it's red, it's yellow and everything, and you had to opt into whether you wanted to give your mobile data for that. We were in talks to use some of that data with our AI startup and that would have given us some more real-time data around junctions as people were driving through Manchester.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 1980.28,
+      "endTime": 2014.926,
+      "text": "Mid-through our project, google got slapped with a massive fine by the European Union. It basically turns out, even though most people had opted out the data, google was still pulling the data off everyone's handsets and they'd been found out, and so they then had to stop this commercial service of selling the data, because it'd been most of the data they weren't illegally allowed to have and use, but they were doing it anyway. So I mean it. It goes back to your point there, matt. Can you trust the, the silicon valid companies? History tells you absolutely not. They're going to do what they want.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2014.946,
+      "endTime": 2037.807,
+      "text": "They're going to do what they think will give them market share and give an output, and the fines typically are going to be so small that they'll just ride it. It's all about market share, isn't it? There's a reference to Mark Zuckerberg saying rule is does it grow the company, does it grow the company? And anything that didn't grow the company was exit. It was all the company was exit.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2037.828,
+      "endTime": 2066.526,
+      "text": "It was just a cost of doing business, isn't it? it's just a cost of doing business, yeah yeah, I mean the eu has had some successes. I think an example would be, you know, banning the apple charger, for example, and forcing them to use usbc, which is different to a financial, um, a fine. But like most of the fines I've seen against apple and google and the big tech companies, like you're right, you look at it and you go it's like tens of millions of dollars, but they've made a billion dollars and then they got fined $10 million or something like that. It's completely, it's an absolute nonsense.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2066.586,
+      "endTime": 2097.974,
+      "text": "It's a slap on the wrist. It's something that gets in the paper and then everyone forgets it. Um on the on the? Um, uh, I've. Actually, while you were talking, I was just having a quick look and I found an article saying relating that, relating that motto you were saying. So the unofficial motto of Silicon Valley has long been move fast and break things, relying on the assumption that, in order to create cutting edge technology and to be ahead of competition, companies need to accept things will get damaged. What it's saying in this article is, with the rise of AI, this is completely unacceptable because things are moving so fast.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2098.18,
+      "endTime": 2133.702,
+      "text": "Ai has been used to help students cheat, it's impinging on copyright and some of the sorts of things we're talking about now. It can make things. It can make it much easier to do fraud, and it also talks about looking at their record. On other technology too, and I would. We've talked about this on previous episodes, but social media, as an example, that was supposed to bring us together and instead has ended up threatening democracy, produce armies of trolls and things like that and actually like destabilized countries in terms of places like myanmar as well in terms of facebook. So it is kind of unacceptable to just be like, yeah, let's just, let's just do what we want and break everything and see what happens.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2134.343,
+      "endTime": 2174.544,
+      "text": "Um, because it's like it's completely unethical, and I think it does have a sort of uh, um, a link in with this episode in terms of, you know, in a minute, when we get back to talking about copyright and music and ai it's obviously not a sort of governance episode, but I, you know, I agree with you and I think making the point on the apple charger is actually a really good one, because it's, I think, a really a really good example of where, like you say, the EU and the regulation has had a positive effect. But it feels at the moment, you know, I'm spending not a lot of time but a bit of time looking at the sort of EU legislation and it's obviously ahead of anywhere else in terms of you know what they're doing and what they're regulating.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2174.564,
+      "endTime": 2212.771,
+      "text": "You know what they're doing and what they're regulating. But the downside of that is that you're seeing with you know, with Apple intelligence, you're seeing with meta AI's tools, they're just choosing not to use or not to provide those services in the EU, and I think it's almost a bit of a battleground at the moment that that is. It's not even necessarily an equation of you know, are we better off losing this business from the EU? I think it is a case of saying you know, are we better off losing this business from the EU? I think it is a case of saying you know, this is what we will do if you try to over-regulate us, and this is a case of kind of you know, those big tech firms trying to stand up and bully democratically elected governments and undemocratically elected governments and regulators and stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2212.811,
+      "endTime": 2244.749,
+      "text": "And I think that's why this will be actually really important to watch. Is, you know, if the EU backs down which I'm sure a lot of its citizens will want, because they'll want access to some of these tools what does that say for the future? Because that really kind of you know, gives fuel to open AI and Google and whoever else to say, well, if we don't get what we want, we just push back. And you know, this is obviously not a farmer episode, but you know, it just reminds me of big pharma and big tech, you know very close. But in the way that they just push and get whatever they want, it's, it's really dangerous.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2244.789,
+      "endTime": 2296.822,
+      "text": "I think this yeah, it's a very pertinent point, matt, and I think it's something james and I discussed the other week on about where you've got two sides, haven't you? You've got whatever is being developed internally in China and access to models, and we've got this almost a little bit of a fear publicity side in the West about, oh, we can't let China win the AI race. But in the Western world, the AI race is unequivocally being dominated by American companies and there's even the talk and I listen to stuff like Prof Scott Galloway and he discusses the markets and new companies and kind of the monopoly that Microsoft has this major share in open AI it's bought up some startups.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2296.842,
+      "endTime": 2317.069,
+      "text": "Has this major share in OpenAI it's bought up some startups. It's then pretty much a load of the staff jumped to OpenAI. Some of them have crumbled and it's almost like I think the EU stance is valid, but I think what other countries, particularly if you take DeepMind, originated in the UK. We did a classic example we sold it off for peanuts to America,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2320.84,
+      "endTime": 2365.813,
+      "text": "the Europe and I include UK and Europe I class myself as European. Really we have to develop AI companies to challenge the American companies. There has to be a counterbalance to all this intelligence. A counterbalance to all this intelligence, all this commercial gain being in one country. Because without that counterbalance, you see what America does It'll monopolise and it'll squash everyone. Exactly what it's done with news media outlets, with Facebook and that sort of contrast where it's pitched everything as what gets clicks, isn't it Clickbait? It's either very negative or it's very positive.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2365.9,
+      "endTime": 2379.205,
+      "text": "It's left or it's right. There's no centralist and I think I'm not sure how that plays out in music but we have to have a counterbalance of companies to the American companies. We have to have a counterbalance of companies to the american companies.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2379.245,
+      "endTime": 2417.046,
+      "text": "It's got to be, there's got to be an ai industry in europe, that that we can put our own ethical stance on and take a line and then people have the choice yeah, I totally agree, and we've me and matt have talked about this in previous episodes where, if you look at the history of stuff like you know, for example let's take call centers as an example All that work was outsourced to countries in Asia like India and Asia and places like that over time. That's the kind of stuff that, like you know, large language models, things like that they're the kind of jobs that AI is going to be able to start automating quite soon and it's going to get outsourced to America from everywhere, everywhere in the world.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2417.306,
+      "endTime": 2449.281,
+      "text": "It's going to get outsourced to, like, a large ai companies that have these models and things like that, because at some point they'll be able to they'll be able to provide an ai driven call center cheaper than you can in other parts of the world, and so that outsourcing will go back there. And we haven't got an answer to it. We haven't. All the money is going to flow into America for these AI products. It's a very clever sort of Western media trick, isn't it? I mean, you know it's easy, I guess, for me and Jimmy to be accused of being biased because obviously we're, you know, we're based in China.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2449.481,
+      "endTime": 2481.931,
+      "text": "You know we'll be accused of being apologists or, you know, being brainwashed. But yeah, the reality is. I'm sure you know China has some bad intentions with AI, as I'm sure you know everybody does. But this idea that you know China is pursuing AI for these terrible reasons, so it can take over the world, but America is pursuing them for these, you know, for the betterment of mankind. Now, you know, in an ideal world, who would you like to be the ones who are dominating AI? I think most people in the West. If it was a choice between the UK sorry, between the US and China, they'd probably choose the US.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2482.54,
+      "endTime": 2524.615,
+      "text": "I don't think it's necessarily as clear cut as maybe people think. I think there's, you know there's a lot of distrust of the US as well, but I think there's a really important point here of how you know the US itself can use this this you know the china us battle in terms of an ai thing to bring everybody on board to feel like you know, they're supporting the us to be against china, but what they're actually doing is just, like you say, inflating silicon valley and just creating this, you know, monolith, which has complete domination. And what have we seen in the last? You know well, not just the last few years, but particularly in the last few years, that when you put a lot of power into a small number of people's hands, you don't get.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2524.896,
+      "endTime": 2536.332,
+      "text": "You don't get good results from it. It's, um, yeah, I think it's something that listeners who are, you know, in the UK and and the US and Western countries, is just to, to look at the kind of developments,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2541.56,
+      "endTime": 2560.563,
+      "text": "not just in China but in other countries. And, you know, take some of the stuff with a pinch of salt and try and learn a bit about the development there, because it's also, you know, it's not everything is happening in government. There are also, you know, individuals and companies who are doing groundbreaking stuff in countries outside the US, but they're so far behind Silicon Valley, you know, they're not, they're not going to challenge it unless they have some amazing breakthrough.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2569.535,
+      "endTime": 2609.694,
+      "text": "So I'm just gonna I'm just conscious of time I'm just going to kind of bring it back to the topic of AI and um in music generation, cause obviously we talked about copyright there and it kind of led on to a whole bunch of stuff about regulation, which is like like super, super interesting stuff, um. But what I'd like to come back to, so anth I mean, before we went off on that, you were talking about um, you were talking about some of the copyright issues and I think the last thing you said was about um, about how ai generated music is different from humans just learning on human music, because, because you don't, you're not putting that human touch on it, like when you're humans, they're like taking something, but they're putting a tweak on it and that's their, that's their thing, that's their personal bit of creativity.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2609.915,
+      "endTime": 2639.534,
+      "text": "I feel like this is what you're trying to say, whereas an ai model is literally just copying everything that came before and the creativity isn't really there. So the thing I wanted to move on to was like, first of all, do do you think that ai music is already in like mainstream platforms like spotify and some of these streaming platforms? Do you think ai music is already on there, I've got a view on this, but I want to get your take on it yeah, I mean, I mean it almost.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2639.715,
+      "endTime": 2680.037,
+      "text": "It bridges both the points we've been discussing, isn't it? If you take um, spotify almost classic, you, you? Although it started in sweden, it's owned in america. Now it play it, it has. It comes out with these bs lines about wants to democratise music, get a million musicians to earn a living and this sort of thing, but its actions are very much against musicians. It's undisclosed ownership with record labels and really all they are interested in is rinsing money out of it and really all they are interested in is rinsing money out of it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2684.34,
+      "endTime": 2731.954,
+      "text": "There's a lot of articles on artists or stroke cover bands that have popped up doing music. Was it the Jets and Ginger Ales was one of the ones I know that has come out. A bunch of them that have got like hundreds of thousands and millions of streams of cover songs covering like Fleetwood Mac, red Hot Chili Peppers, and some of them back to Matt's earlier point have got the distinctive suno vocal tweak in it and it's like this sounds. So AI, they're allegedly a band. They've got no footprint anywhere else on the world of the web yet they've appeared. They're in major playlists on Spotify, which I think is the kind of red flag there that Spotify must be aware of it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2732.034,
+      "endTime": 2733.436,
+      "text": "They tweak algorithms.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2740.86,
+      "endTime": 2780.785,
+      "text": "Some of these cover band artists are popping up in these playlists and gaining millions of plays. And if you looked at it from a cynical perspective, the idea of playlists kind of dehumanises artists in a way, because it's a playlist for running, it's a playlist for calm music, playlist for studying. It's not about the artist, it's about feelings and what it may give to the listener. So you're stepping it away from an artist and there'll be so many songs in there. If a listener's listening to a study playlist for three hours, they have zero interest in who they're listening, so it's setting it up.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2780.825,
+      "endTime": 2851.027,
+      "text": "If you're cynical, for slotting in, which is what Spotify seems to be doing AI-generated cover music or even background music that, if that's two minutes, if there's enough of it, you could probably pepper 40% or 50% of music and then stick in some beyonce or taylor swift that people recognize, that keeps them comfortable with, uh, something that they know and and I don't think most listeners would really, uh, really question it and suddenly that you've got people paying 10 pound subscription and 20-30% of the music's original artists. The rest of it is AI that the record labels and Spotify have colluded to put on there and generate and you might have 10 people in a back room generating thousands of hours of content for nothing really pretty much, and I think that's happening conspiracy theorist you're welcome on this podcast then yeah, you're very welcome here in good company I think an interesting.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2852.61,
+      "endTime": 2888.071,
+      "text": "Go on, james I was just to say it does make you wonder as well. I've always wondered this because, like, let's use the example of I think it's Sora, which Matt said hasn't been released yet, but Sora was a video generation tool that was showed off that looked incredible. It didn't have any of the sort of issues that previous tools and all the rest of it. And it makes you wonder, like does Spotify have a better version of Suno that they're using in the background? Have they already got version four? Have they got you know the tool that you mentioned, cynthia? Is there a professional version that you know some of these companies have access to that they're testing out or trialing?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2888.091,
+      "endTime": 2888.492,
+      "text": "I don't know.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2889.873,
+      "endTime": 2897.538,
+      "text": "I would say that's from my industry experience. I would say that's 100% likely. Yeah, yeah, yeah, I mean, when I've worked with industries,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2900.82,
+      "endTime": 2911.753,
+      "text": "you're seeing different tools that are a beta or even lower version and you're looking at and a lot of that will be the connections of the CEOs and directors on the board and things like that. Yeah, go on, matt.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2913.682,
+      "endTime": 2921.573,
+      "text": "So is our hot take and I'm going to quote you here on this Anthe that Spotify is intentionally trying to take down the entire music industry.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2930.411,
+      "endTime": 2966.168,
+      "text": "I want a clip that I can post on social media and then you're gonna have to do it in a job we'll put a disclaimer at the start of the episode. So so you know we can't, we can't be prosecuted because we don't give our right to be prosecuted. But um, here's our hot take. I think I I you know, I've said fully signed up conspiracy theorist here. I think that's absolutely what's happening. I'm not sure it's you know so much as trying to destroy every single artist. But I think, absolutely like you say, trying to drive down revenues, because once you get to a point that you say you know, once it's over 50 is ai produced, then the contract with the actual musician changes because actually we don't need you anymore.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2966.83,
+      "endTime": 2977.493,
+      "text": "Um, I don't think that's cynical at all. I think that's like you say it's that's. Anyone who's worked on the inside of any industry would say that that's exactly how it would be working yeah, business model, isn't it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 2977.861,
+      "endTime": 3023.618,
+      "text": "the ecosystem is definitely set up, uh to to do that, and I think you come back to one of the fundamentals that is, uh, as a musician. A problem in in in that business side is making music is incredibly good, fun as humans. It can affect all these sort of emotional moods. It can take us places when you're a skilled or a competent creator, just like a painter or anything like that. The art of creating is incredibly beneficial for us. I mean, like many people, I've got a smartwatch, so I've got a Garmin square watch.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3028.68,
+      "endTime": 3085.087,
+      "text": "When I'm making music I can see from my heart rate variability and other metrics. I'm in a flow state, so the metrics drop completely down, very calm. When you look at longevity or health, those things are incredible for us. It's like a meditation, a yoga, all these things. So making music is incredibly beneficial. And the problem is all the people that are you know what I mean the big artists or the creators. They just want to do that. So the monetary side is secondary and they often get slammed because they'll happily they want to get paid for the music, but they'll happily put it up for free because they're getting the reward in making it and any breadcrumbs that they get back is almost good enough for them, and so I think through history, musicians have been hammered because of that, because they'd happily just create anyway the monetary secondary.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3085.24,
+      "endTime": 3098.351,
+      "text": "So I think that's where, when you've pit them against a business like Spotify, who? It's a business and they just want market share and they want the lowest operating cost and maximum profit.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3099.061,
+      "endTime": 3116.851,
+      "text": "You've really just hit home for me because I'm, you know, I feel like I'm a little bit creative, but on the kind of like I don't know what's the word Like my job is kind of like designing processes and building stuff at work and I feel like I'm creative in that, and what you've just said, like I'm not really creative in terms of music production.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3120.92,
+      "endTime": 3152.592,
+      "text": "I've never been any good at any of that kind of stuff, as I would say, and I've never been in a flow state doing it. But, like, what you've just said almost is the most poignant thing I've ever heard about the argument between ai I think that's ant sop take about the feeling it gives you in the flow state and the fact you do it just for the pleasure of it, because you love to do it anyway, and that's kind of the really that hits home on how, like the sort of sad thing about ai and not just with music but across all these creative um industries, isn't it is. It's like if you find a way to just manufacture it, how much joy are you taking away from the world?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3154.183,
+      "endTime": 3183.281,
+      "text": "I don't know yeah, I mean, I mean, the utopia was always, um whether it's isaac azimuth, on all those sort of fictional authors about creating a world where, um, you remove the mundanity from life so that humans, humans can create, humans can have fun and we can have pleasure. But I mean there's a flip side on that. You also need the mundanity to enjoy the pleasure. You've got to have the light and dark, haven't you in like a black and white picture",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3186.466,
+      "endTime": 3217.105,
+      "text": "and it's yeah. I don't know how ai fits with that, because it can at the various points, you can duplicate and remove a lot of things. What does it leave for the humans? I think that the tools like mixed in keys, sort of epic, can allow you to augment as an artist and create better stuff and still have the artistic input, and I think that's personally where AI sits.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3220.64,
+      "endTime": 3230.851,
+      "text": "But if you flip back to our earlier conversation, there's a lot of people who are just purely profit or whatever driven. They just see AI replacing something and it's just a lost denominator race.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3232.041,
+      "endTime": 3271.967,
+      "text": "It's not often that I'm the one who comes in with the optimistic take here, but this kind of relates back to the whole reason I wanted to the episode we did a few weeks about whether people really want AI or not, because I think I mean the creative industries and music and art. These are the best examples of. I don't think anybody wants to replace people, and so you know you're right to some degree because it's business and because they will dominate that. You will see. There are some things you know voiceovers, functional music, as we elevate to music, whatever. I think that's gone. Like you know, you can replace it as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3272.22,
+      "endTime": 3315.787,
+      "text": "It will be done cheaper, it will be done cheaper. But the idea that we just end up replacing musicians I'm more and more I just don't see it because I think I just think it's being human is about those interactions. It's about the fact that someone's created that music. The one thing I used to hate, you know, same as you guys, as big dance music fan, and I used to hate going to watch where I would see, you know, someone pretending to be making live music on a stage when it wasn't. You know, you had sort of the fake kind of DJing thing that was. I don't think it's about so much now, but you certainly got it sort of 20 years ago that you would have someone who was yeah, okay, you'd get people like Orbital would actually do a live set, but you'd also get people who were just in some way, were pretending to be making music live when they were not.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3316.268,
+      "endTime": 3355.924,
+      "text": "And so there was always for me, like even as a dance music fan, a difference between electronic music in the way that you know, when someone is producing it live, listening to a recorded version or listening to a live version doesn't it's, it's the being in the live place that has the difference rather than the performance. But there are, you know, forms like classical music. You know to see an orchestra or even to see a, you know, a flamenco guitarist or a pianist reciting, where that is not about what it sounds like, it's about much more than that. You know, and okay, that maybe that's live music and maybe we're moving away from production, but there's just something in music that is so much more.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3357.649,
+      "endTime": 3392.165,
+      "text": "Of course we're not saying that ai is going to replace all music, but I just wonder, is it even going to go that far into it? Is it even going to really replace that much of music. I think maybe we have a phase when it does, but I I don't know. I just think it's, it's. It's more than just that. It's about the human creating the music I agree. I just I. But I do kind of also agree with anth and I think I think the reason why spotify might be fairly successful with this is because it's at the same time as they're like replacing artists and potentially introducing ai music, they're also nudging people.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3392.366,
+      "endTime": 3434.986,
+      "text": "And they're nudging people and it's like answers about playlists. Spotify is now like the world of playlists. You just go on there and it's encouraging you to just be like okay, I'm working, now I'm going to listen to my focus playlist and not really think about it. I mean, I don't know what your take is on that, but I don't feel like it's just. It's just that we've got ai music. I feel like big corporations like spotify are nudging society in a specific direction because it's not to their benefit but that's the algorithm, isn't it? that's back to the algorithm. There's putting people to listen, so, yeah, to listen to certain kinds of music in the way that youtube makes you watch certain videos, but that that doesn't move away from my point is more about the fact that you're not going to replace I may be talking more about live music, but you're not going to replace that interaction.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3435.247,
+      "endTime": 3460.506,
+      "text": "I don't think, because when people want that. But where's the? money in music. Artists don't make their money. Where's 90% of the money in music? 95% it's not in live production, is it? I don't think. Well, most musicians make their money out of live music because Spotify and Apple and people like that have destroyed the profit in making albums and singles anyway. Right, At least that's what I understood, Anth. Maybe you correct me on that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3462.681,
+      "endTime": 3514.15,
+      "text": "It varies on artist. To be honest, it's a little bit of a freemium or premium model. So I mean I forget the artist I was reading the other day. She's got massive streams and she's a British artist, a bit more sort of indie, kind of female charting songs. She's saying she's doing a first American tour and it sounds like she's going to lose about 50 grand on this tour that she's making up off her streaming numbers and it's a real like the cost of doing anything now in the real world because of inflation and devaluation of currencies post-COVID is incredibly hard balance. And then you get the other end of Taylor Swift making a billion and Beyonce would get whatever, and the Rolling Stones who'll go out and charge 280 quid a ticket.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3515.641,
+      "endTime": 3537.764,
+      "text": "And then you've got people that are playing like I go Matt and Fred's in Manchester, a jazz bar, and they'll be like five quid, 10 pound, probably not change the price for 10 years, and I'm guessing if they've got like a brass band they're probably struggling to cover the petrol in the hotel and a bit of money in the change in the pocket and they're doing it because they love it. Yeah,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3542.582,
+      "endTime": 3571.742,
+      "text": "I think one of the things I was thinking with where this could potentially go in a pot and it opens up. It touches on lots of aspects of copyright and everything. If you look at recently, like ABBA did a Holograph concert, didn't they? They sort of revamped themselves and it was playing their music and there's been the Elvis Holograph band, I can see a market and I can see the.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3577.247,
+      "endTime": 3632.174,
+      "text": "What are they like? The, the, the guardian trust or whatever of say, like a jimmy hendrix trust going. Well, if we trained an ai model on jimmy's music, would it then be able to potentially impersonate jimmy hendrix and create new music, maybe absorbing 10% of like modern, and you could maybe dial a tweak of it's like it learns Jimmy, it knows Jimi Hendrix playing style in his guitar and these other things. It could add a creative element and pull some modern music and create something new, an element where legacy artists like that could use an AI model to create music in the style of that their fan base might like or that they put out as an AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3632.214,
+      "endTime": 3650.65,
+      "text": "I don't know what they'd band it as, but it would be an interesting test. And because AI models, it's all about the training data. If it was very niche on that artist, how good of a rep would it get the nuance and would it get some of those things to? To be realistic I'll be.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3650.791,
+      "endTime": 3652.496,
+      "text": "that'd be an interesting project",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3656.012,
+      "endTime": 3692.752,
+      "text": "you bring back the dead as well. I mean, you know, tupac's obviously released more stuff since he died. And the beatles they create a new beatles track every 10 years, don't they? I, I, I think the problem at that point and yeah, we will be there, probably not in the not too distant future. So jimmy, this week had um cloned his voice, uh, and it sounded a bit like him. It sounded like him if he'd been to eton, to be honest, quite like him. But you know, it's not far off. At what point do you have you know? Let's just say you know. Let's say Taylor Swift, cause it's the example we used before. If they can clone Taylor Swift's voice, well enough, well, taylor Swift doesn't need to bother.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3693.174,
+      "endTime": 3729.279,
+      "text": "I know you're saying that, you know, for the musician, that's the thing they love doing, but Taylor Swift doesn't need to record her albums anymore at that point because they just use her cloned voice and she can just go and do her live performances or actually, they can just use a hologram for that. And once you get down that road that you have the cloned voice that you can just use to create the voice you know, and you've done that enough. Where are the new artists coming from. At that point you kind of go, you know it's a kind of loop's a feedback loop, isn't it? That you get to a point that you've, you've cloned everybody, and then you've got those people allowing themselves to be cloned to stop them having to bother going into the studio and record an album.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3729.741,
+      "endTime": 3756.388,
+      "text": "And then how does anybody get famous? Because you know, once you've you, you maybe get a little bit famous and then you just get cloned. And then you know I guess there's a real danger at that point that we really do blur the line and and you know what is then an ai? And then for the music companies or the streaming models or whatever, there's no advantage to having an individual, because once they've got a purely ai, cloned voice, they own all the profits it's.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3756.888,
+      "endTime": 3802.239,
+      "text": "I was trying to think. Fk twigs claims she's trained an AI model on herself and she took some company to court about potentially replicating her and her likeness. And it was along the time, the same time, when the actors in LA were challenging the unions and the studios about AI use. I don't know enough of that case, but it's all those points that you touched on there, matt, about people's own livelihood, what, what happens if you can indefinitely duplicate or do in the style of, or you know, taylor, swift or fk twigs is making a new album and they're feeding it some original stuff, but they're, they're, um, they're letting the AI model replicate themselves.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3802.385,
+      "endTime": 3830.129,
+      "text": "It's a little bit like. It's kind of like Andy Warhol's factory. His idea, you know what I mean had 20 people creating his artwork. It's on steroids, isn't it? Because it's no labour, there's very minimal cost. Well, I guess your server, energy and this sort of stuff. What would be produced? I mean, what would Andy Warhol do? I think he'd be all over this. To be honest, as a your example is andy warhol. My mind was going to be millie vanillie but I think it's the same point",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3833.255,
+      "endTime": 3854.675,
+      "text": "yeah, well, I mean, it's almost millie vanillie is a really good example, because that was a german disco producer using he did several other artists as a front, wasn't it there was? There was one of the like was the village people his, something like that. That was also an early, but he used, like some front people rings a bell it rings a bell. Um, yeah, and I mean he nearly got away with that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3855.077,
+      "endTime": 3898.44,
+      "text": "It certainly I mean millie villini records still get played they did try and sing on one you don't even need. They did, and that's when it all. I think that's when it all crumbled, yeah, when he actually tried to sing. Maybe we find out that taylor swift was an ai all along yeah, I mean I would, I would kind of make an argument yeah yeah, I'm a bit of a fanboy, I quite like her. You would be Coming back to what Matt was saying about, like you know, if you can just have Taylor Swift forever or you can have, you know you can have Jimi Hendrix revival, whatever you want to call it",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3904.185,
+      "endTime": 3930.572,
+      "text": "Like. If AI genuinely can't't, really can't genuinely be creative, then that stuff's only going to appeal to like diehard taylor swift fans. that's not going to last forever, right, because you're always going to have new artists, like it kind of gives me a bit of hope, in a way that you know, there's always going to be creativity, and the creativity is going to come from the human artists, and so you're going to get that next big band, that next great hit, whatever it is yeah, it's a. I was hopeful and I've taught myself out of it that there's.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3930.833,
+      "endTime": 3976.061,
+      "text": "It's a real interesting thing because that's it's been discussed a little bit about in the music press has has social media and the connected world stunted the ability to have a new artist scene, a new movement. If you look back at UK, it's almost typically punched way above its weight. We've created drum and bass, dubstep, hardcore I mean hardhouse All those things really have largely come out of the UK. I mean Hard House all those things really have largely come out of the UK. But how they've? If you take dubstep really the only original major form that's come over the last 20 odd years that developed around a small local scene in Croydon.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 3986.245,
+      "endTime": 4028.96,
+      "text": "It was replicating, it was drawing in other influences and feelings about their life experiences, their living conditions, all these environmental things on top of musical tastes, formulated through a group of people that gradually built up enough mass of local people to then pop on a wider scale across the UK. And the UK probably does well for breeding music scenes, in that we've got radio that stems a country. We're small enough and densely populated enough that you can breed these scenes and then they can ripple across the country, that you can breed these scenes and then they can ripple across the country, whereas a lot of play, like if you take Canada or America, it's so vast the radio barely reaches out.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4031.885,
+      "endTime": 4066.657,
+      "text": "If you're in Chicago you struggle to get the radio out to the ends of the suburbs, or if you're on East Canada you have no idea what goes off on West Canada. How does AI replicate that? Because it's that environment plus tastes that's kind of created the new music and building off the past musical taste. You know what I mean. Like dubstep took drum and bass, it took garage, it took reggae, it took various other parts of dance music and melded it into something new. How does ai do that? And I wonder, you know, I mean if, if,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4069.849,
+      "endTime": 4117.41,
+      "text": "how does it take that individuality and and the past to create something new? And I'm not sure it can. I guess the thing that popped into my head is is if we all ended up with our own AI assistant that kind of learned us as an individual and then communicated with other people's AI assistants, they may create something more original, but we'd still, I guess, have to feed in and drive them taste, I don't know. It sort of blends into some utopia I think you've got to have. I don't think an individual AI could create something original. That is my personal take. Multiple types of AI, whether they are individuals, ai assistants or trained in different ways, might create something original.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4117.63,
+      "endTime": 4153.351,
+      "text": "That is what you'll get. Yeah, I mean you will. That's the thing with AI, isn isn't it that in a way that you can't get everyone together in one room, you could get a thousand neural networks and get them to work on something together, and that's the power, the kind of scalability of it. I'm not sure how it relates to music and whether it's a perfect analogy, because it doesn't explain the creative spark, but that's the advantage that it's got is, if you can create. I mean you're talking about, you've got a, you know, an agent that is then trained to your taste. So if the three of us have got agents trained to our taste, will we then let our three agent ais go away, work together and they put something that reflects the three personalities of us?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4154.053,
+      "endTime": 4163.448,
+      "text": "Yeah, that's yeah. I mean I could see that as a way that it the way that it goes. That's not, that's not the worst outcome. I think that, for me, would be a pretty favorable outcome, to be honest",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4171.677,
+      "endTime": 4203.255,
+      "text": "okay. So I think, um, we're sort of drawing towards the the close of the episode, so, and I just think like I think what we try to do at the end of the episode so, and I just think like I think what we try to do at the end of each episode is like offer a little bit of advice. And in this episode, I think, you know, obviously we're talking about the music industry, we're talking about budding artists, young artists maybe, who are just coming into music production, competing with AI, perhaps in some of the ways we've talked about in the or you know, or perhaps using these AI tools alongside what they do to sort of enhance what they do.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4203.335,
+      "endTime": 4209.021,
+      "text": "So, yeah, what advice would you offer to people in that situation?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4213.391,
+      "endTime": 4215.862,
+      "text": "like existing artists or people coming into the industry.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4223.645,
+      "endTime": 4269.736,
+      "text": "I think my recommendation would be listening to podcasts like this and other stuff on AI and just taking an interest on the development of AI in general, because I think it's not going to go away. So certainly the next generation really of stuff it's going to be individuals augmented by ai, and if you're not augmented by ai, it's almost like, um, the caveman walking versus a caveman with a wheel and or a bike or something. You're just going to be left in the dirt. In terms of producing music, I think there's some interesting YouTube channels Rick Burrito I think that's how he pronounces names and interesting ones, things like Modern Wisdom, hannah Fry.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4269.977,
+      "endTime": 4313.735,
+      "text": "They come at AI from different angles from a creative and from an engineering perspective. I'll be following stuff like that. I think, on an initial front, I would look at using stem separation to break down some of your favorite songs and understand, uh, the composition and the arrangement yourself that you can use in your own productions. Um, I'd look at stuff like the mixed in key. I think they're really good. Uh, I use uh mixed in key original plugin to pull out harmonics and know what when everything's in tune and check stuff or find out key very simply, particularly for complex jazz and things like that samples, but they're there.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4314.076,
+      "endTime": 4370.286,
+      "text": "I think their tool. Um, captain epic is a really good way to use ai to give you good ideas for chord progressions and melodies that you can then tweak yourself and learn in a kinesthetic way about music theory and about what can move your own emotions and incorporate that into your own music and benchmark it against other productions. And then stuff like I use T-Racks but I use the Taupes. Ozone is similar where when you've finished a mix of a song, you can use machine learning to compare the EQ of a production that you're so particularly a dance music, if you want it to be mixed by DJs, it needs to punch and pop in a similar way to get played in a club.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4370.347,
+      "endTime": 4417.186,
+      "text": "Otherwise it's going to fall flat and that will affect the dance music and the people dancing. So I think using those mastering tools to make sure that your song pops correctly for the genre of music you're making and that will allow you in a cost-effective way to get your stuff up to production quality. Some tools are better than others. Like SoundCloud offers mastering for free when you have the artist. Like SoundCloud offers mastering for free when you have the artist. But when I've tried it, to be honest it's pretty poor. It doesn't really tick the box. T-rex's stuff does and I use that. It's not cheap, it's probably about £500 or something.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4417.206,
+      "endTime": 4457.243,
+      "text": "But I think those points at the moment certainly play around with your Suno, your Cynthia, and make ideas and be involved with it. I mean OpenAI have their what is it? I think MuseNet and there's a lot of creative tools on there that people can play around with AI and the models, and I think it's a little bit like from our age when we grew up. Everyone was saying kids needed to be using PCs, they needed to be like they had BBC micros. In school I learned programming on a spectrum and if you weren't involved with it you were falling behind. It's going to happen.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4461.265,
+      "endTime": 4494.736,
+      "text": "Technology is not going away. It's almost's an imprint of being human, isn't it we? We learn to think in the future. We learn to make tools to make our life easier, to create stuff to make things better, and ai is just a tool. I don't think it's fully going to replace humans, but it's that augmenting is essential and if you're not using it, you you are over the coming years will get left behind. So I think they just need to immerse themselves in it yeah, yeah, I think that's a.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4494.877,
+      "endTime": 4527.644,
+      "text": "I mean, I agree like I didn't know what I was going to think at the end of this episode and and it feels like for me, although there's a bunch of nonsense on Spotify possibly, and there's a bunch of stuff out there, if you're really into music and if you're really interested in music, actually it doesn't compete right now and maybe actually the people that you're trying to capture, the audience you're trying to capture as a human artist, is not not somebody who's going to be listening to a focused playlist in the first place, necessarily, and that audience is probably still out there. So it feels like it's a bit of an evolution rather than a revolution.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4527.804,
+      "endTime": 4573.902,
+      "text": "And AI maybe is it might take over certain genres, like you say, elevator music, stuff like that but there's still going to be space for the human artist and there's still going to be space for people to be involved. No, I feel maybe more positive about this episode than with the exception maybe, the utopia episode, because I'm thinking we, you know, should have been positive on that one because it was talking about utopia. But with the exception of that, I think this is maybe, at the end of the episode, the most optimistic I've been. That I really think you know. That point that you made about the pleasure of making music I think is the bit that really got me thinking is why we have music and not just why we listen to music, why we have music and why we listen to music",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4582.785,
+      "endTime": 4625.7,
+      "text": "in school. Some people carry on, some people don't, but there's very few people who don't love music. There's very few people who can't pick up a guitar and strum a few chords or, you know, play a bit of piano, and that. That side of it I don't see being replaced. I think at the business end of it, like with a lot of this stuff, it's a bit more depressing because you can see the consolidation of power in a way that you've already seen. Like you said, you know spotify and apple and things that I've already done. This you know. The music was. There was an article I read it many, many months ago that was talking about this how music was the first industry that actually technology affected in this way, without ai, you know when, when you replaced physical formats of music with with digital music and the way that you know, spotify and apple and itunes and stuff have taken away those kind of physical sales and and now it's happening to music again.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4625.74,
+      "endTime": 4643.259,
+      "text": "But I just I don't see it, I don't see it affecting the kind of grassroots side and the pleasure of music in the same way at the business end maybe. But I think I feel pretty positive about the future actually after this, and that's unusual for me very yeah, I mean, it's a funny double-edged sword, isn't it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4643.545,
+      "endTime": 4683.732,
+      "text": "I mean, if you go back to where you would buy copied CDs and where Napster came in, it does stem to this fundamental that humans, even if it's just a background, we love the emotions from music and so we want it. It's just unfortunate reality. Most people want to pay nothing for it. They don't, they just want it as cheap as possible because from an almost I guess almost a selfish perspective, they just want that I want to listen to this music and I want it now, and they didn't want to pay. Almost the streaming has, um, catered for that inherent audience that don't really care, they just want their own feeling.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4684.125,
+      "endTime": 4742.073,
+      "text": "But there is an ethical maybe it's 10% or 15% that value artists. They respect it, they want to pay and that's what Bandcamp appeals to, isn't it? And they say on Bandcamp that I forget the percentage, but it's quite high that if you, where they've got the pay what you want option, most people a significant majority pay more than what the artist puts the music up for, and so it shows that those people that appreciate art, recognise how it enhances their life and they value it, want to make a significant contribution back to the artist as a token of appreciation, and I think that's a positive side and hopefully, balancing the two, we can find a way forward that works for the artists and the people, without it all just going money to Silicon Valley.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4743.376,
+      "endTime": 4786.586,
+      "text": "Fantastic. I think that's the first time we've ended an episode with all well, in this case, all three of us feeling really positive about a subject, which is awesome. So thank you again, anthe, for joining us for today's episode. I think we're so, as always, you know, like subscribe, tell your friends about us, you know, put out the good word. Um, we're going to put some links in the show notes this week for things we've mentioned through the episode. Throughout the episode, I think it's been a incredibly like, enlightening and thoughtful discussion this week. Um, and as a bit of a throwback to when I met anth, um, please enjoy some hoovers and horns with our hard house ai generated track this week.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4787.066,
+      "endTime": 4789.746,
+      "text": "Thank you tony devite.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4801.888,
+      "endTime": 4852.017,
+      "text": "Thank you.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4865.7,
+      "endTime": 4878.362,
+      "text": "Like",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4892.525,
+      "endTime": 4899.39,
+      "text": "that. I'm not a fool. I bet you what's that do, what's that do, what's that do.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Anth Gaskill",
+      "startTime": 4902.008,
+      "endTime": 4905.59,
+      "text": "What's that? Do what's that. Do what's that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4905.65,
+      "endTime": 4908.83,
+      "text": "Do what's that, do",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4914.528,
+      "endTime": 4922.65,
+      "text": "what's that, do what's that, do what's that, do what's that, do",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4942.124,
+      "endTime": 4944.845,
+      "text": "what's that, do what's that, do what's that to",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4948.121,
+      "endTime": 4948.563,
+      "text": "what's that, to",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4954.043,
+      "endTime": 4988.014,
+      "text": "what's that, to what's that to Do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do what's that to what's that, to what's that to.",
+      "chapterIndex": 6
+    }
+  ]
+}

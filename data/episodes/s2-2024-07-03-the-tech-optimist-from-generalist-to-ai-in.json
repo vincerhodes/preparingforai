@@ -1,0 +1,1217 @@
+{
+  "slug": "s2-2024-07-03-the-tech-optimist-from-generalist-to-ai-in",
+  "buzzsproutId": "15353747",
+  "title": "THE TECH OPTIMIST: From generalist to AI innovator with Ben Cook",
+  "date": "2024-07-03T06:00:00.000Z",
+  "season": 2,
+  "durationSec": 4168,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15353747-the-tech-optimist-from-generalist-to-ai-innovator-with-ben-cook.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Looking for the anitdote to the doomerism of our recent relaunch episode? Well you have come to the right place! What if you could turn a passion for AI into a thriving career without any formal tech or engineering background? Join us as Ben Cook, guides us through his own story of how learning to use generative AI tools help transformed him from a generalist into a master in many fields. Ben’s story is an inspiring testament to the transformative power of AI and how everybody can harnessed it to innovate and streamline everyday work processes with remarkable efficiency. We also tackle the broader implications of AI and automation on society and the future of work. Drawing from pop culture references like \"Terminator 2\" and \"Minority Report,\" we try to present a balanced view on the potential futures AI could bring—from dystopian scenarios to optimistic advancements. We note the absence of hoverboards as a potential marker of our current technological limitations. This conversation provides historical context to modern technological fears and highlights the realistic capabilities and limitations of current AI technology, emphasizing the continuous need for human oversight and the exciting potential for new job creation. Lastly, we explore the practical and creative uses of AI tools in everyday life, from automating tasks in Google Sheets to generating whimsical images with DALL-E. Ben shares how these tools can be immensely useful for generalists, enabling complex problem-solving with minimal coding expertise. We discuss the evolving role of AI in education, advocating for responsible use of tools like Claude Sonnet 3.5 to help students understand complex concepts. We round off by pondering the future of AI and its economic implications. Whether you're an AI newcomer or a seasoned pro, this episode offers valuable insights and practical tips for leveraging AI in your personal and professional life. Keith Teare- That Was The Week https://www.linkedin.com/pulse/accelerating-2027-keith-teare-uy5ic/?trackingId=M5yNo3mLQfyZGl5gAk660g%3D%3D",
+  "summary": "Self-described generalist Ben Cook argues AI is a bottom-up empowerment revolution: from ranking job candidates in minutes to building a call-center QA prototype with no software background. He pushes back on doom with Luddite history and washing-machine analogies, insisting new jobs will come and humans stay in the loop, while conceding there is an investment-driven bubble and that specialists face the greatest risk.",
+  "keyTalkingPoints": [
+    "'Age of the generalist': LLMs brief anyone on any field; specialists whose life work is a narrow task are most exposed",
+    "LLMs shine on repetitive flows needing a touch of creativity; tightly-guarded rails still wobble (prompt injection, 'eyeball soup')",
+    "Regulation: EU over-regulates, US regulates after the fact, China regulates the algorithm — Matt calls China's 'best of the bunch'",
+    "Hype cycle: at the top and driven by investment needs, but there will be '50 hype cycles'; short-term overestimated, long-term underestimated",
+    "Education: LLM-as-patient-teacher beats declaring 'code red'; teach logic and interpretation, not syntax",
+    "Matt predicts social unrest and data-center attacks once robots take manual jobs; Ben counters with no-mass-unemployment history"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Boxed, prescriptive LLM tasks (CV ranking, extraction) barely hallucinate — the use case Ben demos is one of the best",
+      "The hype faded because economic benefits are a slower burn; most people still treat chatbots as toys",
+      "Dismissive coders should get on board now — the models improve exponentially and burying your head in the sand is the worst option",
+      "LLMs are not calculators; judging them on maths misses what they are for"
+    ],
+    "matt": [
+      "Agrees AI empowers generalists but keeps his gaze existential and long-term — short-term hype, underestimated long-term risks",
+      "Quotes Keith Teare: Aschenbrenner overestimates short-term and underestimates long-term impacts; we are at the top of a hype cycle",
+      "China's algorithm-focused regulation is the best of the bunch; the UK is carving out a genuine safety/governance niche",
+      "Predicts some social unrest, attacks on data centers and a public backlash against figures like Sam Altman"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-07-03-the-tech-optimist-from-generalist-to-ai-in-3819.452-within-5-10-years-job-applicants-will-be-expecte",
+    "s2-2024-07-03-the-tech-optimist-from-generalist-to-ai-in-3387.826-at-some-point-people-will-attack-data-centers-an",
+    "s2-2024-07-03-the-tech-optimist-from-generalist-to-ai-in-2871.237-there-is-an-ai-bubble-and-the-hype-has-already-s",
+    "s2-2024-07-03-the-tech-optimist-from-generalist-to-ai-in-3885.626-most-podcasts-will-eventually-be-ai-generated-so"
+  ],
+  "speakers": [
+    "Matt",
+    "Ben Cook",
+    "Jimmy",
+    "Speaker 4"
+  ],
+  "chapterCount": 9,
+  "turnCount": 161,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Introducing Ben Cook",
+      "startTime": 43
+    },
+    {
+      "title": "Why we should be optimistic about AI",
+      "startTime": 177
+    },
+    {
+      "title": "How to start using AI tools (for generalists!)",
+      "startTime": 1328
+    },
+    {
+      "title": "Ben's views on regulation and alignment",
+      "startTime": 2342
+    },
+    {
+      "title": "Are we at the top of a hype cycle?",
+      "startTime": 2866
+    },
+    {
+      "title": "Do we need a future economic model?",
+      "startTime": 3122
+    },
+    {
+      "title": "What should we be excited about?",
+      "startTime": 3708
+    },
+    {
+      "title": "Ben's New World (Outro Track)",
+      "startTime": 3986
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 23.993,
+      "text": "Welcome to Preparing for AI the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 27.52,
+      "endTime": 62.861,
+      "text": "Urgent need for safe development of AI, governance and alignment. You can walk my path, you can wear my shoes, learn to talk with me and be an angel too, but maybe you ain't never going to feel this way. You ain't never going to know me, but I know you, and things can only get better. Welcome to Preparing for AI the AI podcast for everybody. So, after all the doom and gloom last week, we are going to challenge the narrative this week with a guest that we've been looking to secure for some time. So this week, joining me and Jimmy in the studio is Ben Cook. I was introduced to Ben through a mutual friend as someone who has an interest in AI that I might like to connect with.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 63.603,
+      "endTime": 104.967,
+      "text": "He works for a major travel company in China. His job covers many areas of the business, including AI projects and policy. He describes himself as a generalist, but more than anyone I've personally met, ben is someone who has taken it on themselves to learn from scratch how to use AI tools and how to practically apply them in both work and personal life to get ahead. So he doesn't have a background in software engineering or programming, but he's recently been able to build an AI prototype call center quality analyst from scratch. So I thought, for our listeners, ben is a perfect example of how someone can turn themselves from a kind of jack of all trades master of none into a master of many fields by harnessing generative AI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 111.36,
+      "endTime": 141.271,
+      "text": "And perhaps most importantly, at least for this episode, he is a tech optimist. So not one of those quasi-religious effective accelerationists, but potentially the antidote, at least, to the picture of doom and gloom that I warned everyone around in our relaunch episode last week. So we wanted to invite Ben on to challenge our or at least my narrative on how we look at AI and to try and look at AI as a force for good in the world. And, of course, to look at how we might solve some of the issues, like the economic model and how we can harness an AI powered future. So, ben, welcome to the podcast.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 141.591,
+      "endTime": 142.253,
+      "text": "Thanks for having me.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 143.38,
+      "endTime": 176.172,
+      "text": "Jimmy is here, as always. I failed to introduce him. So, jimmy, do you want to say anything before we start? Have you got anything interesting to introduce to this week? No, good, okay, well, not awkward at all, so let's move on to the podcast. So I guess we'll just start off by just asking Ben you, why should we be optimistic and I ask this from a kind of audience podcast point of view, but also as someone who I'm hoping will make me feel better after this conversation today but why should we feel optimistic about AI in the future?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 177.16,
+      "endTime": 218.613,
+      "text": "Okay, again, thanks for having me, and I think introducing me as a generalist I call myself a generalist, kind of is one of the things that drives me towards using AI. What I would say is, as a generalist, I tend to follow a lot of things that I just get excited about. So in the past, learning different skills will go in lots of different directions there's not necessarily a particular pattern and then with AI, it's one of the things recently that I found that I can be genuinely excited about. I am getting new discovery every day and, as someone who's I don't know if you've heard about gamer drivers what drives people to play games?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 219.861,
+      "endTime": 259.094,
+      "text": "I tend to think about life in that way. A lot of people are motivated by either winning or personal achievements, discovery or collaborating with others, and for me personally, I love discovery, and with AI, especially at the moment, we're seeing discoveries all the time, and not just general. It's in the news, there's a discovery, it's companies or it's different tools that are coming out and people saying here you go, here's a new thing to play with right now and you have immediate discovery. You can see immediate results. With things like crypto that came before, people were saying this is exciting, but there wasn't really discovery.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 259.18,
+      "endTime": 297.031,
+      "text": "Things became very repetitive and boring. With AI, you can feel there's a revolution happening because you can literally see it in front of you. The first time you run a chat query in a chat bot and it returns something that makes sense is a wow moment. It was for Bill Gates when he first saw it and said get this out there and you don't believe it when you might read the article and how good this can this be? And then you see it. And then you're constantly looking for new ways to use this. So it's exciting. But you're going to challenge me on why be optimistic about that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 297.051,
+      "endTime": 318.304,
+      "text": "So that sounds scary yeah, but I think I mean, um, before we go into that a little bit, would you mind talking a little bit? Because the interesting thing about you is obviously you've actually found an application for AI and started using it, whereas for most people it's, and most of what we talk about on the podcast it's still kind of esoteric. It's still in the future. So would you mind elaborating on that a little bit, if that's OK?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 319.265,
+      "endTime": 367.367,
+      "text": "Sure, well, if this is where I should pull out my chat, gbt or clawed history, where I look at, say what have I talked to AI about recently? What was I looking at today? So, in terms of data privacy, I was stripping out the names and email addresses of candidates that I might like to hire, giving them all to an AI and saying please evaluate these four candidates, rank them in order, and also saying I gave you six candidates last week. Please produce a ranking of all 10 candidates. Who should I nominate for interview? And so you know. I received these candidates via email at 10 to 11. And by 10 past 11, I'd already decided and I'd also I'm not just going to leave it all up to the AI.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 367.387,
+      "endTime": 381.85,
+      "text": "I'm going to look at the response and say, well, that's an interesting thing. I'll go and have a look at the actual resume and say, okay, this is consistent and this is what I want. And then I can very quickly draft up an email that says I've picked these ones and here's a quick summary of why.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 382.811,
+      "endTime": 397.248,
+      "text": "Yeah, I think I've used ai in similar ways, so what you're talking about there is really just speeding up your workflow and like becoming way more productive, because ai can quickly scan through and and maybe look for some key points that you're interested in and that match with the the job description, for example.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 397.428,
+      "endTime": 443.988,
+      "text": "Yeah, and then, on that side of things, speeding up my workflow as an individual. It's a very different kind of revolution from the industrial revolution, which was generally a top down. A factory owner has a new piece of equipment that speeds up a workflow from you know one person doing a job to 40xing how much work they can get out of it with a machine. Here, with the ai, there might be, yeah, the general manager, the managing director, whoever comes in CEO, says we've got to use AI but we need to protect privacy and so we're going to lock it all down. But the use cases are really going to be found by people who are closer to the bottom, who are inside the workflows, who are using them every day and saying I am repeating myself and this could be automation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 444.008,
+      "endTime": 481.028,
+      "text": "I see this argument all the time. Just in general automation, I'm doing this repetitive activity. Where AI and large language models really come into their own is you've got a repetitive flow, but it needs a little touch of creativity. I could create an Excel Boolean function to do something simple with automation, or I could write some python that does some simple automation, but am I going to get it to generate a kind of human level, kind of conversational text, not really so that's. That's where ai is kind of speeding that up. Um, does that answer your question?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 481.208,
+      "endTime": 499.975,
+      "text": "yeah, it answers my question and I think I mean we've talked about it on the podcast before. But but I think these, the example you've given, is one of the best use cases for generative AI, and what I mean by that is a lot of. There's a lot of stuff in the news about how and in general, about how AIs hallucinate and all these kinds of things,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 505.26,
+      "endTime": 518.615,
+      "text": "but we've talked about it before. When you put them in a box and say, extract information from this text and you're really sort of specific and prescriptive, um, then you actually get really good results. They don't tend to hallucinate when you do that. They tend to hallucinate when you just ask them what's in the news today, that kind of thing yeah, uh, and that's.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 519.017,
+      "endTime": 558.813,
+      "text": "It is one of the dangers that people can get very excited about exposing AI to their customer base, not really realizing how closely guarded the rails have to be. And even when the rails are really, really tight, you can still get little wobbles or even prompt injection and this kind of stuff to get out of those rails. I've seen it with things that I've built where I can get a very consistent response, and then, because the reason I need a consistent response is, I then might do some text analysis with regex functions to pull out certain strings of text, but then the pattern has to be consistent.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 559.16,
+      "endTime": 585.971,
+      "text": "So I'll notice if the pattern is inconsistent because my function will start to fail, and so that's, even with very tightly guarded rails, and then, uh, coming back to customers and thinking about exposing this thing to customers it's this problem with llms are kind of like the eyeball soup in indiana jones I think we've talked about this before where, oh, it's lovely, delicious because I was thinking, someone else has told me this I've had this conversation, but if it was with you, that's reassuring.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 586.765,
+      "endTime": 588.8,
+      "text": "It wasn't that I've had the same conversation with two people.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 589.181,
+      "endTime": 629.191,
+      "text": "When you watch Indiana Jones with your kids all the time, as I do they're delighted by the food scene where all the food is not to a Western palate, let's say Insects and monkey brains and this kind of thing. And can someone just give me some soup? Says one of the characters. And then here comes the soup and it looks delicious. She opens it and then stirs the spoon and the eyeballs all come to the surface, which is kind of how I think about llms. If they're not trained and they're not guarded, if you expose that to your customer base, they're going to think oh lovely, until it starts. Know, selling cars for a dollar or insulting people or using, you know, racist language, this kind of stuff.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 629.8,
+      "endTime": 672.109,
+      "text": "I want to dig into some of this stuff a bit more. But first of all I want to sort of drag you back a little bit to the sort of question around optimism, around AI, because listening to what you've said so far, you know the optimism that I hear is around, you know productivity gains and about, I guess, empowerment in a way that you're you know you're talking about the ability of being a kind of bottom-up process, that it empowers people, and I think you're right. You know, I do think for a lot of people now is the opportunity for people, instead of being scared, is if you, you know, take this opportunity to get ahead and to learn things before others do, there is a real opportunity for you, in a kind of work, productivity sense, but also in your personal life, to be able to do things that you were not able to before.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 673,
+      "endTime": 684.61,
+      "text": "But that's quite, for me, is quite a kind of specific element, and it might be the element of AI that we are currently seeing most of the application in. But when I talk about the kind of doom and gloom side,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 690.08,
+      "endTime": 716.84,
+      "text": "I'm looking more existentially and I'm looking more long term. So I guess your optimism around ai is it purely around gains in productivity and you know uses of of models. Where do you stand in terms of the bigger kind of issue? So yeah, we don't have to go into detail on specifics. We can talk about terminator 2 skynet and you know. To go into detail on specifics, we can talk about terminator 2 skynet and you know robots taking over the world. Or we can talk about disinformation and deep fakes and you know not knowing what is real and what's not. I mean we don't have to necessarily go into that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 716.88,
+      "endTime": 723.886,
+      "text": "But on the bigger issues, I mean, are you an optimist across the board or do you still have concerns in in some areas?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 724.327,
+      "endTime": 766.032,
+      "text": "yes, so my views are not unrelentingly excited and optimistic. There is obviously this kind of future where we all have to go on a butlerian jihad and overthrow the machines, kind of thing. Uh, you know, I'm excited to join the, the jihad, but, um, I yeah, okay, I can envisage a future where that happens. Okay, I can, and so I can understand the safety movement. I can understand concerns and worries, but it to me it's the same thing of like when the luddites were afraid of the machines, taking all the jobs and having to, they wanted to destroy the machines and things. It's didn't come to pass for one thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 766.092,
+      "endTime": 808.267,
+      "text": "So, yes, jobs were destroyed, but new jobs came in their place. People seem to have a lot of worries about the future because they can't envisage the future. They can't envisage future work. I was thinking about this today, where I was thinking about my, my mum. Last summer me and my sister were both working in her house at computers. We're on on the phone, in inverted commas, with people on different parts of the world on video calls, and my mum's like I don't understand how you work like this, what is going on? She was a teacher. She was used to being hands-on with kids and running around the room and doing things physically there, and then here were her two children doing something like out of Star Trek.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 808.307,
+      "endTime": 840.902,
+      "text": "Like you go back to all Star Trek episodes and I put them up on the video phone. Whoa, wow, amazing, and that's, that's the reality. Now I watched the Minority Report movie I don't know if you've watched it recently, but so good, and I've been thinking about it like every day since I watched it two weeks ago and there's people on video phones, as if it's like futuristic, like oh, there's witnesses to witness this on the video phone. That's, that's a reality now. Like there are court cases where people are on video phone. That's not even an ai thing, that's just. You know, the future moves and and things are changing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 841.283,
+      "endTime": 871.141,
+      "text": "And now, if they were to make the minority report now, maybe they wouldn't have it, with kids that were results of drug overdoses and this kind of stuff. Maybe it would be three AIs that were making the decision. You know I'm evaluating texts now and I'm thinking well, I'm evaluating it with this one AI. Should I actually send the text to three AIs and get a kind of cumulative one and then have these funny conversations with sales coming to me and saying where's my minority report on this, uh, on this call that I did?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 871.983,
+      "endTime": 875.05,
+      "text": "you, yeah, and the minority report reports a really good example.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 875.531,
+      "endTime": 889.521,
+      "text": "My frustration is still and I think a lot of people that we never got hoverboards yeah, there's no, no hoverboards in minority report and they all kind of fly around by helicopter but you're not noticed as well, like films now of the future don't have hoverboards either.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 889.561,
+      "endTime": 911.722,
+      "text": "So it's like we've almost given up. We've decided that we can't invent hoverboards, even if we, you know, create a super intelligent form of life that can control and take over the world, but we still can't invent hoverboards. Maybe that, in fact, is indicator of the limitations of technology and we shouldn't worry. The defining factor should be when the hoverboard is invented.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 912.364,
+      "endTime": 950.369,
+      "text": "That is when we go into crisis mode yeah, in all seriousness though, um, like going back to your point about so, like just to sort of drill into that a little bit, we've talked and we, I think we're undecided about we obviously talk a lot about the impact on jobs. Originally, the podcast was just going to be around jobs. We've kind of expanded it out a bit now and there's you know, there's a lot of feeling that the current generation of ai isn't there yet. Like you can't just let it loose and it'll automate things and it'll do everything for you. Um, it's probably you can 10x your productivity, as you talked about earlier on, with your, you know, sifting in, uh, sifting um cvs, for example.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 951.771,
+      "endTime": 971.421,
+      "text": "Do you think we'll ever get to a point? Because because I think that's the concern with ai is that all of the white collar office jobs. Is there going to be a point at which chat gpt can just do those jobs and doesn't need any supervision? Or do you think it's always going to require a human in the loop and there's always going to be these new jobs that you, you know, you talked about?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 971.682,
+      "endTime": 981.741,
+      "text": "it's going to create new jobs and it has created new jobs we should just be liberal, as we always say, with the word always. So I guess, as always, we're talking in the in the sort of foreseeable future, aren't we?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 981.981,
+      "endTime": 983.982,
+      "text": "yeah, what, yeah, what is the time?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 984.022,
+      "endTime": 990.307,
+      "text": "horizon here. Well yeah, okay, so I suppose within the next five to 10 years.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 990.367,
+      "endTime": 992.448,
+      "text": "Okay, not the next 100 to 500 years.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 992.689,
+      "endTime": 995.39,
+      "text": "Not the next 100 to 500 years. I mean by then. Who knows?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 996.091,
+      "endTime": 1037.361,
+      "text": "Yes, so I'm optimistic about new jobs. As I've said, I think there will always be. People will find new things to do. It will lead to productivity increases and people say, oh, if you can produce a lot more stuff but there isn't a demand for it, then that's when jobs are lost. But historically, when there is more supply, it turns out demand comes up to meet it. In fact there was I was reading about, uh, one of the machines that was invented during the industrial revolution and it, as well as creating more supply of a material, it created more demand for other materials that were used with it. So it all kind of came together that way.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1038.322,
+      "endTime": 1073.306,
+      "text": "Um, in terms of humans in the loop, I I would say yes, having worked with automation, there's always got to be someone who is checking, watching, testing, and it can be automated with test classes and this kind of thing. But there's always going to be a certain amount of degradation in software. When you've written code, it goes out of date. Maybe that will be solved as well in 10 years. Maybe code will auto-update, it will automatically be checking itself for the latest updates and running. Maybe we will be fired.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1074.701,
+      "endTime": 1087.409,
+      "text": "I'm not saying we will be, I just kind of want to drill into the argument a little bit. I mean, it's a really specific example, but have you looked at some of these agentic models where you have multiple agents that all work together?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1087.729,
+      "endTime": 1107.765,
+      "text": "Yes, yeah, devin, and Agent AI is one of them. I think they're quite interesting because the things I've been building recently I would much rather say this is exactly what I need to be built. Can you go and build it Instead of me going through it script by script, reviewing every script?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1110.865,
+      "endTime": 1148.893,
+      "text": "The worry really is probably going to be for specialists, because those tasks that people have dedicated their lives to it seems like large language models and AIs. They get really good at them by accumulating all of this knowledge and then they can reproduce this subset of work. Then there's people like me, who are the generalists, who say, oh, I can just come in almost blind to that field and I can call an AI and it's going to brief me if I want to be briefed or build something. Brief me if I want to be briefed or build something. You know, I normally work in Python but I'm not a really high level Python coder.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1149.694,
+      "endTime": 1152.157,
+      "text": "But I'm asking an AI to give me a Python script",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1157.24,
+      "endTime": 1190.535,
+      "text": "and it's writing something that is above my level but I've got enough that I can review it and then I can say, actually, is Python the right language to be doing this in, or should we switch language and it might say Python's fine, or it might say here's another language that I have no background in, but I'll very quickly get up to speed, whereas before it would be you'd have a Python developer, you'd have a C++ developer and lots of different developers who have different specialisms. It's, yeah, maybe it's just exciting for me personally as a generalist, because this is the age of the generalist, where they have a tool that can brief them on any area and bring them up to speed very quickly.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1191.44,
+      "endTime": 1246.744,
+      "text": "Well, I'm a generalist so I'm feeling pretty buzzed, but I do actually agree with you and I've thought about it, since we were exchanging messages a couple of days ago and you put this idea of it being the biggest thing that's happened to generalists in your lifetime. I mean, I think you are, you know, you're, you're, you're playing it down a bit so I think it's the biggest thing to have happened to the world in in you know, at least hundreds of years. But I think your point about it being a great thing for generalists, I think is spot on, and we've talked early on, when we talked about jobs, about the kind of skills that will be useful, and I think it plays into this idea that you're being able to be a leader, being able to problem solve, and by problem solve what I mean is identify what solutions you need, things like soft skills and being able to speak to people and to be able to, you know, gather ideas and stuff, but then to be able to use ai tools to do those specific processes.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1247.245,
+      "endTime": 1264.63,
+      "text": "Um, you know, I'm I'm not a programmer, but I've been working in a r code recently, right, um, and I found, very similarly to you. What I need to understand is what I'm asking, what I'm getting back and the logic behind it, but I don't need to use the code",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1269.46,
+      "endTime": 1314.696,
+      "text": "Now. If I needed to learn the code properly, I learned bits of it, so I had a very, very, very basic understanding. That would take me I don't know months, years to learn to write that code properly. Instead, what it took me was a few hours, maybe days, and now I can definitely use that code to, you know, prepare business analytics data that I can then analyze. Now I still need to learn to analyze it, but the really, really tough part and, like you say, it's quite sad that someone who's committed their life to being able to write that kind of code and be an expert in it, of course they probably can interpret it better and there's still a role for them, but that has been taken away from them, whereas that has empowered people like us, because you can find the solution, spend a few hours or days reading about it and understanding how to apply it and then, bang, you can use it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1315.26,
+      "endTime": 1318.709,
+      "text": "So I think you're right that is a really, really empowering thing for people to do,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1327.702,
+      "endTime": 1367.656,
+      "text": "although this was something we were kind of going to talk about later on, about, you know, the kind of tools and stuff you use. But I think it segues in perfectly here to maybe explain to people how you would advise and obviously it's difficult to advise everyone's working in different jobs but how you'd advise people who are listening to this podcast and are worried about AI and the impact on their jobs and feel, okay, yeah, I'd like to empower myself to to be able to do this. How do they get started, like, what are the things that they should be messing around with? Or what are the things that they should be looking into, not necessarily in order to get to where you are, but in order to be someone who is using tools practically in a way that is more than you know.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1368.118,
+      "endTime": 1387.082,
+      "text": "Let's be honest, a lot of people who are using chat gpt they use it essentially as a search engine. So what can they start to look at that will allow them to really use ar tools practically? And, as we always say, you know, use claude, not chat gpt. Claude don't sponsor us, or Anthropic don't sponsor us, but maybe one day they will.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1389.491,
+      "endTime": 1434.282,
+      "text": "I can speak first of my own journey and where it came from in using AI, and then I can move on to kind of a general idea of if I was coming at it completely fresh, where would I start. So for me it was a really sideways way of doing it. So I came to um. I came to it before the chatbot for chat gpt was released. Um, I can't remember where I stumbled on it, probably twitter or something. Uh, someone was saying I've, I've built a google sheet and this is kind of my thing. I I use a lot of Google Sheets to do automation and I do a lot of web scraping using Google Sheets. It's got a lot of functionality that people don't necessarily realize is really good.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1434.63,
+      "endTime": 1477.854,
+      "text": "But this one, he said, I've built an API or I'm using an API to call this thing called GPT-3 from their servers and into a Google Sheet based on a query. And I had to mess around with that and it involved me signing up for an account and it gave me a free budget to mess around with and I was like, oh, you could build like a Twitter bot that basically tweets nonsense, because that was the output. It was completely insane stuff. And then also early use of of dali to make completely insane pictures of political characters mixed up with animals and all kinds of stuff. But they didn't look like anything, it just looked like nonsense and it was just a bit of fun.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1478.596,
+      "endTime": 1505.012,
+      "text": "Um, and then the chatbot was released and I was immediately found oh, I've already got an account and I can just get kicking away at it straight away. And the revelation of oh, this works, if I was to come at it new. Now, where to start? What am I doing? Because when you're given a new tool and I see this a lot in my company and in lots of areas of life is you give someone a tool and they don't understand it, they're not going to use it. The Ferrari is going to stay parked company. And in lots of areas of life, is you give someone a tool and they don't understand it, they're not going to use it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1505.253,
+      "endTime": 1524.222,
+      "text": "The ferrari is going to stay parked in the garage if you don't know how to drive it. Um, so with chat gpt or claude or whichever chatbot you're using, grok or um llama 3 is llama 3 has got a live chat bot somewhere, I'm sure sure you can run it on Hugging Face.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1524.242,
+      "endTime": 1527.899,
+      "text": "For sure I think you can run it on Grok actually.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1528.18,
+      "endTime": 1528.461,
+      "text": "Oh yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1529.551,
+      "endTime": 1530.494,
+      "text": "The one that's not Twitter.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1530.816,
+      "endTime": 1531.398,
+      "text": "The other Grok.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1533.511,
+      "endTime": 1535.337,
+      "text": "Yeah, there's an option to run that using Llama.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1535.899,
+      "endTime": 1547.383,
+      "text": "Yes, hugging Face is a good place for lots of different models, but if I was coming at it, new I think things like Claude and GPT. They are user-friendly to come in from the outside.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1551.77,
+      "endTime": 1596.412,
+      "text": "You know they work like any other website. You sign up and there's a chat interface and you're saying people are using like Google search, which is a pretty boring use case. The fun stuff that I did has been with my kids and say let's write a story and then let's make some pictures for it. So kids have great imaginations. You know, what do you want to write a story about? Oh, I want to write a story about a girl who's got a pig living at home and there's a dragon in the bathtub and just like completely insane stuff. And it's like okay, okay, claude, write the first chapter of our story and then you give it to an image generator or, if the image generator is inside it, oh, please do a, a picture for this in a style.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1597.133,
+      "endTime": 1641.935,
+      "text": "You've got to pick a genre. I can't pick an artist, um, but I had. I had a lot of fun very early days where you know I was like, was like oh, you could actually write pretty good children's books out of nowhere using an LLM and an image generator and that was a fun use case. But you know you might not be into stories, you might not be into things like that, but you might have things that are difficult at home. What if you've got teenagers and their homework is beyond your level, because you know teenagers homework? is pretty, because it probably all is beyond most parents level exactly right, but you can take a picture of their homework and give it to one of the llms and say explain this problem and give me some ideas.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1646.75,
+      "endTime": 1665.553,
+      "text": "Open AI came out and said oh, this is new functionality and everyone's getting excited about giving homework and getting help on it. I was doing that ages ago. They always had that functionality my daughter's at the French school, so you know. Sometimes there's French homework. It's not necessarily me that needs to explain, but there's other parents that reach out and say what do I do with this piece of homework?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1665.653,
+      "endTime": 1728.92,
+      "text": "and I'm like oh okay, I just put it in chat gpt, or put it in claude and say here's an image of the homework, explain the concept, give some examples and then give it back to the parent we're going to be recording an education episode or several episode education episodes pretty soon, um, and I think we'll, you know, go into more than just the use in the classroom, and I think what you've talked about there actually is a brilliant practical example. I do think, however, one of the issues and I think this is something that the education industry is going to have to really think about very, very quickly is there's still this perception, not just in the industry, but, I think, amongst people, and probably amongst parents as well, that it is in some way cheating, and I think you know, I'm studying a master's part-time at the moment and one thing that really frustrates me is every single module they declare it a code red for generative ai, and you know the reason for that is because, in my opinion, is because they're panicking, because they don't understand and they're not willing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1729.101,
+      "endTime": 1766.843,
+      "text": "You know they're worried about jobs, they're worried about their industry, but what they're not willing to do is actually look at it on a kind of case by case basis and say, actually, if we're educating people properly, we're educating them to use these tools, because they're here and they're never going away, and the example you made on code was a great example is, why would you teach someone to write the code now? You would teach them to understand the logic behind the code. You teach them to understand when to use it, the outputs, how to interpret it, but not to actually write the code. And I think this example with with homework which I think why it's so good if people are listening and thinking, you know you're not telling a large language model to do the homework for you.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1767.264,
+      "endTime": 1804.695,
+      "text": "You're telling it to help you to interpret things. You're telling it to help you, you know, maybe as a parent, to teach them how to do the homework, or maybe as the child, to interpret it themselves. I mean, I don't want to encourage every parent to be, you know, just using a large language model in place of them for parenting and putting everything in, but you can tell a large language model to act as a teacher and treat me as a six year old, treat me as a 10 year old and give the information in a way that is, you know, tailored to that individual. So there are ways. If you can't understand linear regression algebra, I'm thinking of things that I think most parents may be studied.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1804.715,
+      "endTime": 1817.057,
+      "text": "Parents maybe studied but have no concept now of what that is. Tell a large language model to explain that to a 10-year-old, and then get your 10-year-old to listen to it, or get it to tell you as a 10-year-old and then you read it to the child.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1817.23,
+      "endTime": 1858.782,
+      "text": "So it's a great example of a way to use AI, not necessarily just in a working sense, but in a way that improves your life and makes it easier one of the most useful things in education is that teachers are present, so classroom time is incredibly useful because the teachers are there to talk to students about the problems and how to solve them. One of the not so useful things is homework, especially if children are stuck and there's no way out With LLMs. Exactly as you say, you could train an LLM as a teacher, where it's never going to give the answer, but it can answer as many questions as the child has, and the child can ask hundreds of questions that the teacher would never have time for.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1859.111,
+      "endTime": 1863.346,
+      "text": "They can just keep asking. I don't quite understand it. Take it down another level and check your answers as well. Can just keep asking. I don't quite understand it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1863.366,
+      "endTime": 1890.555,
+      "text": "Take it to another down another level and check your answers as well. So not necessarily getting to answer them, but to check your answer or to check your logic like that. That was one thing that I used it for is interpret some data, then paste that data into a large language model and say analyze this and check that your understanding of it is the same as the output. So I think they're you know, because I'm of course, if you just want to cheat and get it to do it for you, actually, well it probably can do that, but we're not, we're not trying to tell you that that is a use that you should be doing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1890.615,
+      "endTime": 1910.662,
+      "text": "What we're saying is that there are ways for you to use it to enhance the learning opportunity, but also, to you know, in the example of parents, probably to save you some embarrassment as well when you're you find out your kid knows something you don't know. You can kind of hide behind the large language model that makes it look like you understand the homework.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1911.908,
+      "endTime": 1961.124,
+      "text": "Sorry, I'm just going to jump in here because it's a really good use case, but I also think, if you, you know, even over the last 10, 15 years, education's already changed because you can find so much information on the internet. Like, if I want to learn without, even without large language models, if I wanted to learn how to write a piece of code, which I often do, you know, previously it was Stack Overflow, now it's LLMs, but Stack Overflow didn't exist if you go back 15, 20 years. And so I mean, I think it'll be really interesting in the education episode. But it's one of those things where education really needs to evolve, I think, and really take on things like large language models and incorporate them into education, because, as you say, there's one teacher to 20 kids if you're lucky, whereas this can massively amplify that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 1962.03,
+      "endTime": 2000.877,
+      "text": "Definitely, and people don't realise that mathematics or they don't think about it. Mathematics has been dealing with this for a much longer time. With the advent of calculators, calculators are out there, you can use them. You don't really need to do any computation yourself. And even more than that, pcs can do huge amounts of computation. Why would we need to teach children to do computation? But we still think it's a valuable thing to teach them. Problem solving is the more valuable task, but we still teach children to compute. I've had this long-running debate with my wife. She speaks Chinese, I speak English and the kids are in the French school.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2001.298,
+      "endTime": 2048.858,
+      "text": "So my argument is more languages the better. This triangulation of languages really builds this kind of muscle in the brain of moving between languages. She doesn't agree with that, based on this idea that LLMs will do away with language and translation and there'll be no need for any of that. But extending that thought process, well, actually a lot of these subjects are not needed and in fact you know we've got forklift trucks and cranes and all kinds of stuff that can do physical labor, but everyone's in the gym working out and doing runs and things to keep themselves healthy. So the brain and the body are both similar in that they need to be trained, they need to be worked, and it it's building towards that problem solving ability.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2049.68,
+      "endTime": 2064.476,
+      "text": "I personally believe that my multilingual kids will have a better problem solving ability because they can triangulate these things in their brain, um, and so that's. That's what I want for them, whether there's llms or not just before we move on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2064.957,
+      "endTime": 2104.671,
+      "text": "Um, like I said, I think that was a great example, but can we maybe think of a sort of use case in a sort of professional sense, in a job sense? So I'm putting you on the spot again here. But a recommendation for somebody who is interested is just starting out on using AI tools or you know, large language models, something that they could learn, so you know. Would you suggest that they, for example, learn how to apply Python code, learn you know how to analyze data? I mean, is the one thing that you would say would would help people to sort of develop ideas, because I think for most people, you don't go out saying, right, I need to be able to do this.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2105.072,
+      "endTime": 2113.581,
+      "text": "You use the tools and then you start to identify a problem and say, oh, hang on, maybe I could solve this with, with ai I think what you're saying there is exactly the point.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2113.881,
+      "endTime": 2140.679,
+      "text": "they need to have the ability in themselves to say how do I do that? And there are ways of getting that answer. Before these chatbots and LLMs were out there, you could still do it with Google, stack Overflow, all the things that we've just talked about. But you need to have the willingness to say how, how do I learn? If you're not willing to learn, then these tools are going to be useless to you. You're not going to take the Ferrari out of the garage, it's just going to stay there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2141.87,
+      "endTime": 2143.036,
+      "text": "And I totally agree with that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2148.39,
+      "endTime": 2207.044,
+      "text": "I totally agree because that's how I learned to code it was. I mean, I did study it a little bit, but it was almost all self taught and and, and that's because I was interested in it and wanted to do it, and so you have to have that drive. I've got something to add here, though, because it's something I've heard a fair bit recently, and it comes back to that specialist and the fact that llms are are potentially favor the generalist and are putting these specialists out of you know, potentially out of a job. I've spoken to a few specialists, people who code, people who do quite high level coding and they're really dismissive of LLMs, and my advice to them would be, you know, to be less dismissive and to actually get on board with them, because they're improving rapidly and they're probably going to affect your job, and I can understand if you're you know you're in that position and you're maybe a little bit scared, a little bit worried, but my advice would be to sort of actually explore it and try using them and try getting something out of them, because, because the worst thing you can do is kind of bury your head in the sand We've definitely had conversations, several people that we've interviewed on the podcast.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2208.151,
+      "endTime": 2245.592,
+      "text": "You in particular, have said to them yeah, but you're talking about now and people are looking at you know the impact of AI now. The perfect example I think that you bring out quite a lot is, well, chat GPT. Oh, it's rubbish, because I asked it this and it couldn't do it. And it's well, it's not. You know, it's not Nostradamus. I mean, I've found quite well-educated friends who've asked oh, you know a lot about AI and have asked me to ask it about whether something is going to happen, specifically about a war actually, and when it's probably going to happen. And I said but it's not predicting.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2245.792,
+      "endTime": 2284.142,
+      "text": "If it could predict the future, then it would already have taken all this stuff. So I think on both senses there's sometimes an overestimation of what AI can do and sometimes an underestimation of what it can do. But I think where you're absolutely right is don't look at how large language models work now, look at how much they've advanced in the last one or two years and then imagine probably that times I don't want to say X10 or X4 or X, whatever, but exponentially more over the next few years and so start to think about the things that you want to solve and start to look at ways to do it now and get ahead.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2284.322,
+      "endTime": 2288.719,
+      "text": "And as the models evolve and get better, it will become easier and easier to start to do that stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2289.663,
+      "endTime": 2322.202,
+      "text": "Yeah, and just finally on that like a really specific example, I'll come back to the calculator. There's a big thing about maths and LLM has not been able to do maths and they're getting a lot better at it. But I feel like that's like an example of this where it's like well, if you want to do maths, use a calculator. Llms are good at telling stories and calculators can't do that, so why would you expect an LLM to necessarily be good at maths? It's a bit of a funny example, but it's something that I see a lot where it's like oh, it can't do. You know, a plus b equals c. But you know, they're not really designed to do that and they're not really trained to do that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2322.382,
+      "endTime": 2329.906,
+      "text": "They're just getting better at it because they've seen a lot of maths so you're telling me not to invent my story telling calculator?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2332.248,
+      "endTime": 2339.395,
+      "text": "that sounds like a good idea",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2343.099,
+      "endTime": 2379.968,
+      "text": "so let's move on a little bit. Uh, I wanted to ask you this. This, I guess, will be a, I think, a fairly short part, but, um, I'd like to ask your views on kind of regulation and whether you think that you're taking this from a a kind of techist viewpoint, whether you think we need to really look at regulation and alignment or whether you think the danger is we go too hard on that and actually, you know, we end up robbing ourselves of some of the benefits that we can see, or at least you know, prolonging the time cycle to get there or at least prolonging the time cycle to get there.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2380.008,
+      "endTime": 2387.858,
+      "text": "Yeah, you've got kind of three major regulatory environments for AI. I mean, you've got the European approach, which is probably over-regulation.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2387.878,
+      "endTime": 2389.379,
+      "text": "Which is the European approach to everything.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2389.74,
+      "endTime": 2397.237,
+      "text": "We don't have any companies that do this, but let's kind of try and stop it anyway, although the French seem to be kind of cutting against the grain on that one.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2401.586,
+      "endTime": 2404.516,
+      "text": "They've got a model. That's what I think no one else has actually. They've got missed or nobody else has got a reasonable ai company.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2404.536,
+      "endTime": 2442.297,
+      "text": "Yeah and they've also got. There's a scene isn't there, so I can understand that, um. And then there's china, who have their own china agenda. You know it was the same with data privacy as well these major economic blocks with their own privacy agenda. Now they've got their own ai agenda and they're somewhat related. But also china's got its unique governmental requirements, um, which, to be honest, might hold it back harder than, uh, the eu holds back ai development. And then you've got the us, which seems to be a lot more lazy, fair let's see what happens and regulate it. After the fact, which was their approach with crypto?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2442.599,
+      "endTime": 2475.052,
+      "text": "To a certain extent, everyone was saying this is a scam and a pyramid scheme, and then, when it turned out to be mostly a scam and a pyramid scheme, then the prosecution started. So that seems to be the US approach. Which one do I feel is the most appropriate. Tough to say, you know who do I want to, but I'm using a lot of tools from the US. I do like the tools coming out of France. Mistral is good, but I actually spend most of my time on a Chinese large language model. I use a lot of Ali's QN.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2476.127,
+      "endTime": 2514.607,
+      "text": "I actually and we'll get into this on on future episodes both around regulation and sort of China specific ones but I actually think China's actually at the moment got, I think, in terms of regulation, the best approach, and I say the best of the bunch. I'm not saying that it's perfect. Like I say, I don't think this is the episode to get into detail. With it, china's focus is on the algorithm. So you know of the kind of three parts of the AI triad, and that makes a lot of sense because if you look at China's experience with things like TikTok, you know the algorithm has been the thing that has powered China's kind of advance over the last few years and therefore they're kind of comfortable in that space.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2515.048,
+      "endTime": 2554.351,
+      "text": "But also, as you said, the very specific model that you have in china. The algorithm allows control. So I think the algorithm that that's maybe the kind of weak point of the chinese approach, but they are regulating more than you know. The us, for example, or the uk, which obviously is a, you know, not one of the big blocks, but yet they're not doing it quite to the level of the eu. So I I kind of think they've got it the best at the moment. There's not to say it's perfect, just on the UK. I mean, you know the UK is not on those blocks, but I think the UK's approach is very interesting because they've actually taken probably the most laissez-faire approach of all, more so than the US in terms.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2554.371,
+      "endTime": 2592.098,
+      "text": "You know, the US has got Joe Biden's's executive order, so they've got actual stuff with teeth. That has been put in place. It's not maybe working quite as it was expected or as it was anticipated to, but it exists. The uk doesn't have anything. But, on the other hand, the uk is probably I think it's fair to say, is probably leading at the moment in terms of this idea of making itself a governance and safety hub for ai. Now, I think the reasons for that are probably not purely altruistic. They're probably, you know, economic. There's an idea that we're already falling behind in terms of models, but if we can make ourselves the center of of ai governance and safety.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2592.841,
+      "endTime": 2635.912,
+      "text": "But that is genuinely something where you know the ai safety, aisi, um safety institute, which is part of of the uk government, they've got some fairly big sort of names that they've recruited from silicon valley that are involved in that. We said on the last episode about how anthropic had put their um 3.5, claw 3.5 through the ais I in terms of doing red teaming and safety work on it. And there's the agreement between the uk and the us that looks like at the moment the US has kind of outsourced from a government level, has kind of outsourced the AI safety stuff to the UK. So I'm going off track a little bit here, but I think it's quite interesting that the UK appears to have found quite a good niche on that which others don't have.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2636.465,
+      "endTime": 2675.561,
+      "text": "So what about alignment, which which others don't have? So what about alignment, which is a term? We talked about this before. Alignment as a term is not that well defined. I guess my question is more about whether you think there is an urgent need for more resource to be put into alignment or whether you think, well, hey, let's not slow things down. Probably at this point and I'm sorry I'm talking a lot, but we talked earlier on about this effective accelerationism, the EACC or EAC movement Probably a lot of people listening don't know what that is, so I just wanted to explain that. So, basically, this is people who advocate for rapid advancement and integration of tech, especially AI, with the idea that will accelerate social progress and address global issues",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2679.425,
+      "endTime": 2707.475,
+      "text": "progress and address global issues, and one of the key points here is that. You know, a lot of people, therefore, in this movement believe that delaying technological progress, including ai, is preventing advancements that could save lives. So some of these really kind of quasi-religious types, you know, they see any delays as literally being well. You are costing people's lives and therefore we must advance with no restriction as much as possible, because it can only make the world a better place. I just wanted to kind of explain that, because we've mentioned it a few times but actually we haven't well defined what it is.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2707.986,
+      "endTime": 2711.736,
+      "text": "So sorry, do you want me to rephrase my question, or can you remember what I originally asked you?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2712.066,
+      "endTime": 2741.885,
+      "text": "you were. You wanted to talk about alignment and actually explain. A part that I think is necessary is what is alignment, but when I was thinking about this and trying to do the reading on, it is the easiest way to understand alignment is what is a misaligned AI? And the examples some of them have already been named earlier in our conversation. Here is the Skynets. Some of them have already been named earlier in our conversation here. The Skynets",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2745.105,
+      "endTime": 2772.919,
+      "text": "Well, I think about the wheel on the spaceship in Wall-E, where the misaligned AI he has intentions, he wants to keep everyone safe, he's not going back to Earth, but now there is a command to go back to Earth and he's trying to stop it, and that's a misaligned AI, basically, and so does there need to be more work on alignments. Personally, it's above my pay grade, or rather it's outside of my area of expertise and I can't offer a good view on it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2777.231,
+      "endTime": 2803.293,
+      "text": "But is alignment going to affect my day-to-day? Probably yeah, if you had a misaligned AI that was responding to queries in a way that was not helpful or outright lies. We saw it with Google Gemini in the Google searches, where it was responding. With how many rocks should I eat a day? You should generally eat two a day. That's a misaligned AI right Because it's feeding on all this material.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2803.905,
+      "endTime": 2813.112,
+      "text": "The pizza one, where it was talking about how you could keep stuff stuck on a pizza by using glue, that one that was mentioned on a podcast a few weeks ago. That's the one that stands out for me, actually.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2814.129,
+      "endTime": 2823.113,
+      "text": "That one is actually not even so bad, as long as it's food glue right. I was like, okay, eating rocks was pretty bad, but that's the one that stuck with me.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2825.386,
+      "endTime": 2857.367,
+      "text": "Yeah, and it's interesting because with large language models, I think alignment means different things. Like Gemini, the Gemini example you're talking about, they tried to align it to what they thought they should align it to and so, for example, with the diversity it was making, you know, famous historical leaders that were from the wrong, um, that were from the wrong culture and stuff like that. So you know, but that was, they were attempting to align it to what they thought was their values. So value diversity more than accuracy. I, in that case.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2865.813,
+      "endTime": 2870.617,
+      "text": "Are we at the top of a hype cycle, and is this or is there an AI bubble?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 2871.237,
+      "endTime": 2911.69,
+      "text": "There is a bubble. There's definitely, I mean, the hype cycle. Has it started to deflate? Yet I feel like things have kind of gone off the boil a bit recently. There's been a bit of a slowdown. Maybe it's because it's summer, Everyone's gone on summer all day and they're not talking about it quite so much, but there's definitely a feeling of like. Six months ago, you know, I was pulled into an office we need to do stuff about AI. And then I produced something more recently with ai and there was much less excitement about it and it's a bit more normal and the hype has kind of died back a bit. A bubble is in terms of the economics of it is still going and we yeah, and I I would agree with that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2911.73,
+      "endTime": 2953.868,
+      "text": "I think I think the reason is like it was in the news. It's been in the news for the last year and a half in a big way in terms of your GPTs and all the rest of it, but to keep that hype cycle going like the economic benefits have been realized in slower time. I feel so like chat, gpt. For most people, things like chat and most people don't even know about them. But for most people, chat, gpt, claude, all these things they're just nice toys. I think people feel like they're just nice toys. Some people use them day to day and use them for productivity gains and this kind of thing. Other people and a smaller, I would say, I would say a smaller minority are using them, are actually applying them, like yourself, and using them to for economic gains and for productivity gains and actually applying them.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2955.149,
+      "endTime": 2968.228,
+      "text": "But I feel like that's a slower burn. I feel like it's a slower burn and maybe that's where the hype cycles died away. I think the hype cycle was like next year no one's going to have any jobs and ai is going to do everything for us, and that hasn't transpired because there was a bit too much hype around it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2968.689,
+      "endTime": 3017.774,
+      "text": "So something I saw this um, you can find him on linkedin, keith tier. He writes a newsletter called the week that was, and he was reviewing the Leopold Aschenbrenner famous 165-page paper and his review of it. He said he's overestimating the short-term impacts and underestimating the long-term impacts and I think that actually, for me, is absolutely spot on. The short-term impacts, the reason I think we're at the top of a hype cycle is, I think more and more that a lot of the pace of development is being pushed because, you know, the big developers need investment. It feels like for me, the hype cycle there is about investment and the stuff that's being pushed is all for investment Long term yeah, this is not the episode to talk about it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3017.885,
+      "endTime": 3044.897,
+      "text": "Long term for me is the existential impacts and and they're being underestimated. But I do think probably in terms of the cycle, I feel we're at the top of. We're at the top of a hype cycle but that's not the end. You know, I think there are, there are going to be 50 hype cycles, aren't there? It's not one, and then ai just kind of drops off. But I feel like, like you said, we're at a point where it doesn't quite feel as intense as a few months ago and maybe, like you say, that's the summer, maybe it's the elections that's getting all of the you know, all of the kind of coverage at the moment, but it definitely feels like.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3045.219,
+      "endTime": 3080.047,
+      "text": "It feels like things have changed a little bit in the last month or so there's also the thing that nowadays back in the industrial revolution it was a lot slower but um no, so like nowadays, people do get over things very, very quickly. You know, back in November last year I was traveling to Japan. I got chat GPT. I said hey, I'm going to go to Japan for eight days. Draw me up a day by day itinerary, here's some suggested spots. So I gave it some suggested spots, wrote me a day by day. I said, okay, add some restaurants in. And then it added restaurants in. I said, oh, okay, they did. What are the budgets?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3080.208,
+      "endTime": 3113.578,
+      "text": "Budgets added and just kind of like iterated, iterated, iterated and went through this whole process until I had a really amazing itinerary and then shared this with a few people and they were like wow. And the thing is, when I told that story for about a month after that people, everyone was like wow, I feel like I tell that story now and people like, oh, yeah, yeah, it does that. And shrug and it's like people know it's there now. Teslas were on the road and everyone's like, wow, I saw a Tesla and that's like there's 500 Teslas outside the window right now. People get over stuff very fast.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3125.705,
+      "endTime": 3150.676,
+      "text": "So, as someone who's optimistic but, you know, accepts that there's going to be big changes, what about future economic models? Because I presume that you know, even though you think that there will be more or there will be new job opportunities, you know well. I guess I should ask you do you, do you agree that there will be less jobs in total and that there will be the need for a change in the economic system? No, basically I'll scrap my question about ubi and economic models.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3150.696,
+      "endTime": 3166.767,
+      "text": "Then yeah, it's welcome your your challenge to that I feel like I've seen less news about and conversation about ubi in the last couple of years, almost coinciding with this ai thing people are now talking about oh, jobs will be lost. But I feel like the ubi debate has kind of gone a bit quieter.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3166.848,
+      "endTime": 3201.133,
+      "text": "Maybe I'm reading, I mean jeffrey hinton, literally a month ago, maybe less than that had a conversation with vishy. There was a weird week in which all of these tech people were all talking to vishy sunak, which I couldn't understand because, one, it wasn't the week of the AI safety summit and, two, they must've already known that he's not going to be the leader for much longer, or maybe it was just his PR. You know we're trying to put out the fact that he was meeting all these people, but Jeffrey Hinton actually said you need to start looking about it now. So maybe what's happening is it's not in the mainstream media so much anymore.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3201.633,
+      "endTime": 3228.612,
+      "text": "Yeah, it's difficult for me to say, oh, what should a future economic model be like? Should there be UBI, this kind of stuff? Because, as I say, I believe there's just going to be new jobs in the future. People find things to do when washing machines were invented and suddenly people had loads more time because they weren't washing their own clothes, they didn't just sit around twiddling their thumbs, they found something else to do and they probably became much more economically active learn how to fix washing machines.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3228.733,
+      "endTime": 3235.187,
+      "text": "Yeah right, exactly, suddenly created washing machine repairman yeah, um, so yeah, I.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3235.687,
+      "endTime": 3250.172,
+      "text": "I don't believe there's going to be mass unemployment. I think people are going to find and evolve and learn. The challenge is going to be getting more people to ask how do I do something? And using these tools.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3252.233,
+      "endTime": 3278.084,
+      "text": "I think you know the things that we've been talking about a lot on the podcast large language models and things of that ilk, you know machine learning type applications. They can potentially make white collar work a lot more productive, and so they're either something that supplements your work or they potentially replace jobs,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3282.585,
+      "endTime": 3314.168,
+      "text": "and there have been examples where jobs have been replaced. It's not necessarily the best example, but very early on, buzzfeed basically replaced all their journalists. It's very low level journalism, but obviously, as these models get better, then you can potentially see that having an impact on other areas of journalism, for example, some of the other things we've talked about. So robots are you are, you know, okay, they're not here yet in terms of, uh, you know, robots that can basically take jobs or do jobs, but amazon are already experimenting with robots. Tesla have like got a couple of their um optimus I think it's called working in their factory.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3314.208,
+      "endTime": 3341.194,
+      "text": "Already you've got figure ai, who are, you know, seem to be rapidly developing robots that can do sort of physical labor as well. So you know, I think I guess where I'm going with this is like if there are going to be new jobs, it'll be interesting to see what they are, but also, then you're going to need to like upskill a lot of people and which you alluded to a second ago, like getting people to think about this, ask questions about it yeah, upskilling.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3341.334,
+      "endTime": 3382.033,
+      "text": "everyone talks about upskilling and they, you know it used to be oh, what was it? Cyber, cyber was the upskilling thing, but now it's ai, uh. Fortunately, ai is much easier to upskill into, uh, because it accepts uh, human, readable, readable speech, right, so it doesn't require specialist knowledge. You can just get cracking straight away and it can return you much more complex things than you put in. So I think it's very quick sorry, much quicker to see the rewards from that kind of upskilling and I would hope that people would be enthusiastic about doing it rather than going and smashing the servers or they'd be interested in what they'd call themselves.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3382.325,
+      "endTime": 3386.997,
+      "text": "Would they be the? Maybe you know the Luddites were named after William Ludd, who was a mystical figure.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3387.826,
+      "endTime": 3439.58,
+      "text": "Yeah, I mean, I do genuinely think at some point there will be, you know, some form of social unrest that may not be mass social unrest of you know huge numbers of people rioting, mass social unrest of you know huge numbers of people rioting, but that there will be at least some level of people that attack data centers and you know people like sam altman will find it difficult to go out in public because there'll be enough of a backlash. Um, I think the thing that's happened now is, to date, obviously large language models. What they are replacing is people in sort of you know, middle management positions, or people who are doing, as you said, kind of specialists, who are doing very specific tasks, where I I can see those people being able to move into different roles, partly because you know the point you made earlier about being kind of generalists and using ai to really kind of augment, augmenting people's work.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3440.226,
+      "endTime": 3480.459,
+      "text": "I think that's absolutely the case. But when you see robots start to replace you know more manual jobs and start to replace you know a whole kind of section of labour, I don't see where those jobs are going to be replaced, like, where does that work go to? And I know we can say, well, that happened before. After the industry you know, agriculture, industrial revolution. There were always jobs there. But I can't see where those jobs come from unless we're talking about people going into a more public facing kind of more, more personal roles, I guess, where people are there to interact. Maybe, you know, in the way that we talked about hospitality, need to have interaction with people.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3481.561,
+      "endTime": 3484.911,
+      "text": "Are those the roles? I just don't know what kind of roles people yeah, those will be great.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3484.931,
+      "endTime": 3491.294,
+      "text": "Those low skill jobs are the ones that are at greatest risk for disruption, and they've just said, sometimes they're not low skilled.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3491.314,
+      "endTime": 3502.232,
+      "text": "I mean, we've said this before some of the manual jobs are actually highly skilled. There are low skills jobs. There are highly skilled jobs as well in there, but they're all replaceable if they are more manual work that's a good point.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3502.292,
+      "endTime": 3524.807,
+      "text": "Yeah, um, is it barrier to entry then? Because those because if we're talking about a, an amazon, um, warehouse worker, would you say it's, it's low, it's low skill work or it's medium skill work. It doesn't seem like the kind of thing that needs probably needs a week of training and then they're good to go. So it's what you would call it's low skilled work yeah, I agree.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3524.887,
+      "endTime": 3544.457,
+      "text": "Yeah, like that as an example. That is low skill work and that's something where amazon are literally building warehouses that they the you know, the future warehouses which are going to be automated effectively. I mean, they may have people working in them still, but it's going to be like a fraction of what they would have now.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3544.746,
+      "endTime": 3578.932,
+      "text": "Yeah, that kind of work is the one that would be the biggest risk of disruption, but it isn't happening right now. The one that's happening right now is the LLM disruption on white-collar jobs, as we're talking about. But white-collar work is always being disrupted. That's the thing. You go back to white collar work in the 1950s and try and figure out like what people are doing. You know there's a room full of women on typewriters and men drinking in glass offices, like it's mad men. That's, it's mad men. So that is what's in my head. But you skip forward 20 years later. You know have computers arrived?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3578.965,
+      "endTime": 3611.463,
+      "text": "No, people are still writing stuff. Maybe there's one computer. Then you skip forward another 20 years and everyone's got a computer. You know Excel came out in the late 1980s, early 90s. You know they were doing adverts for Excel. How much did that disrupt things, you know. Now you look at a job application, you have to have excel skills. Everyone takes it for granted. No one takes you seriously. But even when I entered the workforce 15 years ago how old am I, I don't know forgotten. But whenever I started working in offices it wasn't a prerequisite that you needed to. You know how to use excel.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3611.904,
+      "endTime": 3613.549,
+      "text": "I learned to use excel in the office.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3613.89,
+      "endTime": 3632.666,
+      "text": "I didn't have to come in with that yeah, and I guess I'm finding it hard to see where an argument is there, cause you're right, like calculator, the word calculator was. It came from a job. That was a job description at one point not that long ago, and white collar work as a job didn't exist Not that long ago.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3632.706,
+      "endTime": 3648.081,
+      "text": "Before that it wasn't a thing, white collar work, I suppose you know, maybe, as it wasn't a thing, white-collar work, I suppose, maybe as a category that people talk about white-collar, blue-collar, but it definitely existed. My grandfather was an accountant 100 years ago.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3651.625,
+      "endTime": 3657.117,
+      "text": "Yeah, I guess I'm saying not that long before. I mean most of these jobs have only existed for 100, 150 years.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3657.237,
+      "endTime": 3658.039,
+      "text": "Oh yeah, okay sure.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3658.205,
+      "endTime": 3673.231,
+      "text": "Yeah, before that, pretty much white collar work wasn't even a thing, or certainly a thing that a significant amount of the population were involved in. So I see your point and it's all good anyway, because everyone wants to be an influencer these days.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3674.576,
+      "endTime": 3678.516,
+      "text": "Yeah, once we're all influencers, it'll be fine, or podcasters.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3681.425,
+      "endTime": 3702.345,
+      "text": "This is our desperate attempt to to to find something. I should probably add for this, for context of this podcast, that ben's wearing a white collared shirt and jimmy's wearing a blue collared shirt today, so I don't know if if that was intentional signal, but why jimmy? Takes a takes. I guess my viewpoint on on blue collar solidarity will be more, more difficult. Jimmy takes, I guess, my viewpoint on blue-collar workers, solidarity with blue-collar workers, more difficult.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3707.906,
+      "endTime": 3740.336,
+      "text": "Let's end with a kind of last question. I wonder, as the tech optimist here, whether you can talk about the things that you're excited about either now or, I guess, upcoming in the next. You know months or years in terms of again, let's not look forward too far, because we could be. You know there are things that could happen in five, ten years time that we can't even think about. But you know things that you're expecting in the next six months, year or two years that really excite you about ai and that you think will make a really positive difference to the world.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3741.177,
+      "endTime": 3742.039,
+      "text": "That's a good question.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3743.646,
+      "endTime": 3746.535,
+      "text": "Have we dragged you down to our P-Doom?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3746.865,
+      "endTime": 3782.14,
+      "text": "No, no, because I'm excited to use AI and AI tools every day and I'm constantly looking for new use cases. I mean it's not what gets me out of bed in the morning, but there'll be tasks. I'm constantly looking for new use cases. I mean, it's not what gets me out of bed in the morning, but there'll be tasks I'm doing and I say, well, actually an AI could do this better. You know, I've got to solve a Boolean problem in Excel and it's going to be faster if I give it to the AI. It's going to save me time. But that is very much a now, and when I talk about future jobs, I also can't imagine what those future jobs are and I fully admit I don't know what they're going to be.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3782.16,
+      "endTime": 3819.489,
+      "text": "I don't know what the future is going to look like, but I have an open mind to that. What the future is going to look like. We talked before about hyper productivity, that everyone is going to be expected, in the same way that we've just talked about Excel, but also smartphones. Who would be in the office now without a smartphone? Everyone has a smartphone and it makes you more productive, maybe also distracts you, but generally it makes you more productive in all areas of your life and there's going to be productivity gains in the same way Strangely, maybe not even as many productivity gains with AI as there have been with smartphones.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3819.452,
+      "endTime": 3884.055,
+      "text": "In the same way that maybe not even as much as many productivity gains with ai as they have been with smartphones. In the same way that with smartphones, everything came down into this single device that you know I came here with. I've got a bag. There's nothing in it. This um, I've got my phone and that's all I need. Everything is in it, um, and the productivity gains of everything that is in that thing cameras and calculators all in the same device is a big productivity gain. Ai is going to do the same thing. There's going to be an expectation in 5, 10 years'time that when you are applying for a job, that you have skills in using AI, even if it's AI chatbots You're not going to be expected to write code and do API calls to different backends of AIs, but being able to solve problems using AI is going to be the thing in demand and you're going to be much more productive, possibly even hyper productive, where you've been doing hundreds of tasks in a day because you are setting off different AI tools to go and do those tasks throughout the day what about if you've got a podcast on ai?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3884.135,
+      "endTime": 3884.877,
+      "text": "do you think we're all right?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3885.626,
+      "endTime": 3915.391,
+      "text": "you're going to have to produce 10 podcasts a day, unfortunately I was going to say that there is a school of thought that most podcasts will just be ai generated, so we probably haven't got that long left. It's probably a good point time for us to announce to everyone that in fact, we are actually ais and that the whole premise of this podcast was actually to show people that there are going to be no jobs, because even the podcast talking about ai and jobs is created by generative ai it is a use case.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3915.431,
+      "endTime": 3924.461,
+      "text": "I have considered writing a podcast script and then having my synthesized voice read it out",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3939.745,
+      "endTime": 3940.066,
+      "text": "the transcript.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3940.086,
+      "endTime": 3960.576,
+      "text": "We use ai to generate notes and stuff I have to edit. Apart from the transcript. I have to edit and mess around with everything because the age ai generated stuff which we pay for. You know it's not free um, which we pay for is not up to standard. So it's another example, really, of you can already see the technology in the direction, but it's not at the point yet where it's. It's I'm not gonna say not fit for, but it's not able to do stuff without a significant amount of human intervention. Cool.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3961.097,
+      "endTime": 3975.326,
+      "text": "On that note, I think we're wrapping it up for today. We've we've gone just over an hour, so I just want to say like thank you so much for coming on the podcast, Ben. It's been like super interesting and been like a really interesting conversation, yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Ben Cook",
+      "startTime": 3975.688,
+      "endTime": 3976.673,
+      "text": "Yeah, it's a pleasure to be here.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3977.297,
+      "endTime": 3985.625,
+      "text": "interesting questions okay, so that's it for this week. As usual, we'll play you out with our song and keep following, and we will see you very soon.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 3993.749,
+      "endTime": 4005.415,
+      "text": "There's a change coming. Can you feel it? Ben's got, can't explain. Don't you worry about the future anymore,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 4023.287,
+      "endTime": 4092.718,
+      "text": "cause ben's new world is knocking at your door. Remember how they feared computers. Now we're all digital commuters. It is just the next revolution Bringin'John evolution. Ben's new world. It's a thriller, night and day. New John's comin'In ways we can't explain. Don't you worry About the future anymore, cause Ben's new world Is knockin, knocking at your door. It's not about replacement, no, it's all about creation. We'll dance with the machines in smooth collaboration. So open up your heart now open it. The future's looking so bright, so bright. Ben knows that with some vision, hee, hee, we'll make everything all right.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 4092.758,
+      "endTime": 4165.519,
+      "text": "Ben's new world. It's a thrill of night and and day, new jobs coming In ways we can't explain. Don't you worry About the future anymore, cause Ben's new world Is knocking at your door. Ben's New World it's a thriller, night and day, with new jobs coming In ways we can't explain. Don't you worry About the future anymore, cause Ben's New World is knocking at your door. Ben's New World is dawning. I'm here to stay with me, but humans are still driving. We're creating every day Ben's New World. We're creating every day, every day, some more Ben's New World.",
+      "chapterIndex": 8
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "slug": "s2-2024-06-24-podcast-relaunch-it-s-time-to-urgently-act",
+  "buzzsproutId": "15300353",
+  "title": "PODCAST RELAUNCH: It's time to urgently act on mitigating existential threats of AI",
+  "date": "2024-06-24T06:00:00.000Z",
+  "season": 2,
+  "durationSec": 3206,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15300353-podcast-relaunch-it-s-time-to-urgently-act-on-mitigating-existential-threats-of-ai.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail \"Preparing for AI\" relaunches this week as the AI Podcast for Everybody. We are broadening our mission to raise awareness and to empower listeners to act on helping to stop the existential threat of unmitigated frontier model development. But is AI reallya looming existential threat or an overhyped fantasy? This episode of \"Preparing for AI\" tackles this provocative question, offering insights into safety, governance and alignment issues of AI development. Our discussion spans the dual concerns surrounding an omnipotent AI already influencing powerhouses like OpenAI and the possibility that current advancements are merely overblown projections. We dive into the dire warnings from experts, highlighting estimates that predict up 20%, 50& adn even 99.99% chances of AI threatening humanity. Amidst these fears, we emphasize the critical need for AI development that aligns with societal well-being, especially given unchecked models and the growing military applications of AI technology. We draw urgent parallels between AI governance and immediate global challenges like climate change and public health. Two paths to avert a dystopian future are explored: a catastrophic AI incident sparking global backlash, or a dramatic shift in public sentiment urging swift governmental action. Our goal is to galvanize awareness and activism, urging listeners to influence policymakers. For those eager to dive deeper, we recommend the illuminating content of Robert Miles and Blue Dot’s comprehensive AI courses. This episode underscores the inadequacies in current legislative efforts and calls for more robust regulatory frameworks. The role of corporate influence in shaping AI governance cannot be overstated. We scrutinize Microsoft's massive stake in OpenAI and the shift in OpenAI's board dynamics, leading to the exit of members with ethical concerns. The competitive landscape among tech giants like Google, Meta, and Anthropic is dissected, revealing the intertwining of ethical dilemmas and profit motives. Nvidia's rise due to its pivotal role in the AI boom is also examined. We stress the necessity of government and public intervention given the slim chances of self-regulation by these corporations. Discussing the EU's AI Act and drawing parallels to nuclear oversight, we reflect on the future of AI governance, advocating for transparency, safety, and robust intervention to navigate the ethical challenges and risks posed by advancing AI technologies. Robert Miles- \"AI Ruined My Year\"- https://youtu.be/2ziuPUeewK0?si=LYLzS7Y9ibP8Kt8E Robert Miles- \"There's No Rule That Says We'll Make It\"- https://youtu.be/JD_iA7imAPs?si=gNDoBm--WW9Tupjn BlueDot- AI Safety Fundamentals- https://aisafetyfundamentals.com AISafety.info- Your Guide To AI Safety- https://aisafety.info AISafety.info- Get Involved- https://coda.io/@alignmentdev/ai-safety-info",
+  "summary": "The season-two relaunch is Matt's 'call to arms': with experts putting 20–99.999% odds on AI existential risk (Hinton 50-50 within 5–20 years), only two paths avoid dystopia — a catastrophic 'there goes Tokyo' incident or a mass public-sentiment shift forcing governments to regulate frontier-model development. They argue self-regulation is dead (OpenAI disbanded its safety team; Nadella: 'we are below them, above them, around them'), the EU AI Act governs use not development, and propose nuclear-style embedded inspectors while Jimmy explains alignment and universal jailbreaks.",
+  "keyTalkingPoints": [
+    "P(doom): Hinton puts human vs advanced AI conflict at 50-50 within 5-20 years; Jampolsky ~99.999...%; 20% is the agreed 'floor'",
+    "Two ways out: a catastrophic AI incident sparking global backlash, or massive public sentiment shift — Matt thinks option two is already too late",
+    "AI unlike nuclear: no deterrent (a better AI can disarm yours) and under 10% of spend on safety versus ~90% for nuclear",
+    "EU AI Act is the gold standard but regulates use/application, not frontier model development where the existential risk lives",
+    "OpenAI coup aftermath: safety-minded board members all out; Microsoft is ubiquitous and gets a free pass; Nvidia is the fuel of the AI fire",
+    "Alignment primer: black-box training, RLHF, universal jailbreaks (Pliny has jailbroken every major model); future models will act, not just talk"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Three or four big tech firms self-govern for PR — self-regulation has never worked, so governments and people must act",
+      "Regulating AI resembles fighting tax loopholes: companies can outspend regulators, making it 'almost a non-starter' — but still worth pushing",
+      "Job losses will make AI a real political topic; governments regulate impacts, which is their comfort zone",
+      "AI creeping into power grids and industries is a huge slow danger — massive centralization of power in coming years"
+    ],
+    "matt": [
+      "Relaunch manifesto: dedicate every resource to safe development — 'there is no rule that says we'll make it' (Robert Miles)",
+      "Two ways to avoid dystopia and the sentiment-shift option is already too late, so the podcast must catalyze pressure",
+      "The EU Act does not touch model development, which is what must be governed; nuclear-style inspectorate embedded in labs is the model",
+      "Pause if you cannot prove safety; AI is one of the world's three big issues and could make the others irrelevant"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-06-24-podcast-relaunch-it-s-time-to-urgently-act-2731.357-once-2024-s-elections-settle-ai-governance-will-",
+    "s2-2024-06-24-podcast-relaunch-it-s-time-to-urgently-act-1666.287-rising-visible-job-losses-from-ai-are-when-it-be",
+    "s2-2024-06-24-podcast-relaunch-it-s-time-to-urgently-act-951.377-existential-threats-from-ai-could-arrive-in-thre",
+    "s2-2024-06-24-podcast-relaunch-it-s-time-to-urgently-act-2536.798-ai-enables-a-massive-centralization-of-power-and"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 6,
+  "turnCount": 105,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 0
+    },
+    {
+      "title": "There are only two ways to prevent a dystopian future",
+      "startTime": 69
+    },
+    {
+      "title": "Unpacking safe development of AI",
+      "startTime": 707
+    },
+    {
+      "title": "What is the solution?",
+      "startTime": 1621
+    },
+    {
+      "title": "A note of optimism in an ocean of p(doom)?",
+      "startTime": 2603
+    },
+    {
+      "title": "Altman Schmaltman (Outro Track)",
+      "startTime": 2834
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 0.581,
+      "endTime": 16.529,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability, and safe development of AI, governance and alignment.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 18.401,
+      "endTime": 56.685,
+      "text": "It's the terror of knowing what this world's about watching some good friends screaming. Let me out. Welcome to Preparing for AI, the AI podcast for everybody. We're your hosts, jimmy Rhodes, and I'm Matt Cartwright. A special welcome back, as always, to our Amish listeners. I hope you're listening on an LP. Today's episode is a bit of a relaunch of our podcast. Let's call it season two. Today's episode will be the first of many, exploring governance and alignment. How can governments and society prepare for AI and how can we be sure that AI, as we develop, will align to our goals. And with that I'm going to hand over to Matt for a brief.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 57.005,
+      "endTime": 68.289,
+      "text": "I say that in quotes introduction to this new format. Keep an ear out for his call to action. Oh and subscribe, comment in the show notes and share our podcast if you enjoy it. Over to you, matt.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 68.771,
+      "endTime": 104.427,
+      "text": "Thanks jimmy, uh, this is going to be anything but brief. So, uh, get your dressing gowns on, pour yourself a whiskey and then sit back and I would say, relax. But probably don't relax because, uh, I think what I'm going to say hopefully will make you stand up to attention rather than lie back and think of the queen. So both Jimmy and I find that recently we flip on an almost daily basis between thinking that Sam Altman and OpenAI are already being controlled by an all-powerful artificial super intelligence and, on the other hand, thinking that everything's been massively overhyped and actually this is all about investment.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 104.869,
+      "endTime": 145.894,
+      "text": "We've already run out of data and the whole large language model architecture has probably almost taken things as far as it can. But it almost doesn't matter, because even if at this point we have an AI winter for 10 years and AI winter is basically a long period with little to no progress on AI it's just a matter of timing. There will be an advanced AI, whether it's called artificial general intelligence, artificial super intelligence or just advanced AI. The name is kind of semantics at this point and we can question whether it will be sentient or not and whether it will be in control or be controlled by us, with whoever us is unlikely to be a force with purely altruistic intentions.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 147.218,
+      "endTime": 186.363,
+      "text": "We can question whether it's going to go terminator to skynet on us or whether it will just be more of a mass surveillance tool. I remember reading a comment recently which said I more and more think the only good outcomes with agi involve a oh whoops, there goes tokyo moment to get there. And that's kind of where I am on this, without massive, unprecedented levels of intervention on how we develop advanced ai. That's kind of where we're headed now. Look, I'm not suggesting we don't develop ai. Actually, in my idea world, we'd go back, stick it back in its box, put all of social media in there with it and bury it at the bottom of the Mariana Trench.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 187.064,
+      "endTime": 229.153,
+      "text": "But let's face it, that ain't happening. The box is open, the chicken's been taken out and the egg has already hatched. So all we can do now is commit every possible resource to ensuring that, as much as is possible, we develop AI safely and in a way that does not threaten society and humanity itself. And let's be brutally honest here those working on AI, the real experts, almost all place between a 20% and 99.999% chance on AI posing an existential threat to humanity. Timeframes differ, but Geoffrey Hinton, who's often called the godfather of AI, places the odds of a human versus advanced AI conflict within the next 5 to 20 years at 50-50.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 230.34,
+      "endTime": 257.716,
+      "text": "And Roman Jampolsky puts the odds at a 99.999999, with nines going on forever, with the only doubt being the timeframe. 20% seems to be fairly generally agreed as a flaw of the risk level. 20% seems to be fairly generally agreed as a flaw of the risk level. And are we okay with developing something where there's a one in five chance it wipes out humanity or, I guess, in an even worse case, enslaves us all? Some people might not believe this. They think it's all sci-fi. Ai is just a big computer,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 261.92,
+      "endTime": 305.451,
+      "text": "but it's not Think of it as an inorganic brain. It's much, much less efficient, much bigger, but capable of thinking in a way that and this is the key thing we do not fully understand. Now, of course, there are things that could be barriers to development Data, having enough energy, global geopolitics and supply chains, solar flares. But let's just consider for a moment the current situation. Most of the frontier AI models are black boxes being developed completely unregulated by a small number of Silicon Valley big tech firms and, to a lesser degree, by some Chinese state-backed startups. There is regulation being put in place, but the majority of it is about the use and application of AI tools and models models and less about the development.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 306.66,
+      "endTime": 345.754,
+      "text": "Openai just disbanded their safety and alignment team and they moved further and further from their original goal to develop safe AI that benefits humanity. It's not often I agree with Elon Musk, but I think he's got it right with OpenAI. It's increasingly a race to the bottom, and only Anthropic seem to be actually trying to develop a frontier model in an ethical way. When we add in the addition of a military chief to the open AI board and the increasing likelihood that the military in China and the US have woken up to the fact that it's going to be AI that decides the future balance of military and political power, the situation's getting more, not less, dangerous, and we live in a world run by people in their 70s and 80s who are out of touch,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 351.48,
+      "endTime": 387.912,
+      "text": "quite often mad or suffering from dementia, and likely won't see the most cataclysmic impacts of this technology. Recently we saw the US Senate quiz some of the big AI players. Most, if not all, are over 65 years old. They don't even have a basic understanding of AI and I would happily bet money that 90% plus have never even used generative AI tools. People often compare AI development to nuclear weapons. There are two big differences. Firstly, with nuclear weapons, once you have it, you have the deterrent. Of course, there are always ways to advance it, but you already have the ability to deter because if they strike first, you can strike back.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 389.195,
+      "endTime": 424.532,
+      "text": "But with AI it's not that simple. Having it is not enough, because if you do that but yours is not as advanced as the enemy's, you can't strike back because they can simply disarm and disable your AI tools and weapons. Secondly, and here's the most relevant one here, around 90% of the money spent on nuclear this is more generally so, it's nuclear power as well as weapons is spent on safety and just a little is actually spent on development. But with AI, I can't find any reliable figures on how much is spent on safety, but it's certainly less than 10%. And remember that disbanding of that open AI safety team.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 424.486,
+      "endTime": 455.741,
+      "text": "Find any reliable figures on how much you spent on safety, but it's certainly less than 10%. And remember that, disbanding of that open AI safety team, they were meant to be committing 20% of their compute to safety and alignment, and I presume that now it is much less than that. Well, we've got more urgent problems. I hear you say Costs of living, keeping my job, staying healthy, fighting the suppression and abuses of power, climate, increasing levels of sickness and ill health Absolutely, and it's understandable that this is not the most pressing issue on other people's agendas. But there are two things I want you to consider.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 457.567,
+      "endTime": 491.884,
+      "text": "If we continue to develop AI at the current rate, with the current lack of alignment and governance, we're putting ourselves on an accelerated path to self-destruction Self-destruction. Climate change is already happening. We need to dial back and change behaviours. We're being told to make changes to our lives in massive ways to mitigate, but with AI, we could just pause tomorrow and that's it. This is a problem that hasn't arrived yet and it's a problem potential of our own making, so we can actually choose to act now and mitigate some of the dangers without having to make huge changes to our behaviors.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 493.41,
+      "endTime": 532.252,
+      "text": "I'm going to steal a line from my favorite ai safety researcher, robert miles there is no rule that says that we'll make it. Please don't think that there is someone out there who's going to swoop in and save all of humanity and that humanity has to survive because it always did before. You never died before, but you're still going to die someday. It's us that needs to save us to rise to the occasion and to figure out what to do. The challenges might be too big to solve, but we need to try, and unless we make it the most serious or one of the most serious endeavors of humanity, we will fail. It's only about the time frame.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 534.008,
+      "endTime": 585.473,
+      "text": "I believe there are two ways we can avoid that dystopian future and two ways we can mitigate existential threats by ensuring we dedicate every possible resource to the safe development and alignment of AI. One is the aforementioned whoops. There goes Tokyo, so essentially an accident or an incident caused by AI that is so catastrophic that the majority of the planet starts a backlash that results in there being no choice but to restrict and regulate the development of AI. The second option is that there's enough of a shift in public sentiment on a massive, massive scale that results in pressure, action and activism that causes governments and democracies who are concerned about the effects on their election prospects and in dictatorships who are concerned about legitimacy and social stability, to urgently take action to regulate the development of AI Once it has developed enough that it can be used to control society and democracy.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 586.295,
+      "endTime": 622.579,
+      "text": "I think it's already too late for option two, so that is why we want to use this podcast as a catalyst to get as many of you as possible to share this message and to do our small part in shifting the narrative and putting pressure on those in power to act urgently. Through the next few months, and possibly years, we will explore AI, governance, alignment and safety, with a focus on what you can do. It's not our intention to scare people, but we do want to open your eyes to the reality and the urgency of the challenge in front of us and to empower you to make a difference. Before I hand over to Jimmy, I just want to make a recommendation for those who want to look into this more.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 623.322,
+      "endTime": 663.339,
+      "text": "In the show notes, I'm going to link two videos by the aforementioned hero of mine, robert Miles, and not the one who wrote Children, rip Bobby. One is the aforementioned there's no rule that says we'll make it video and the second is a video titled why ai ruined my year. I will also link ai safetyinfo, which is a great place for loads of two to four minute articles on things like how we might get to agi. Can we stop ai upgrading itself? Why don't we just stop building ai completely. Loads of great and really simple resources and there's information now on how you can get involved with them. And the final thing I will link is Blue Dot's AI, safety Fundamentals, governance and Alignment courses.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 664.326,
+      "endTime": 697.507,
+      "text": "I've recently studied the governance course. It's funded by philanthropic sources. It's been attended by policymakers, technical experts, national security experts and normal people like me. So if you want to do more than just raise awareness, it's a great place to study with like-minded people and, more importantly, to build a network. There's loads of resources out there and we'll explore those in future safety-focused episodes. So after all that, we will take a 10-second break, we will change into our lounge suits and then I will hand back over to Jimmy.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 707.477,
+      "endTime": 716.554,
+      "text": "Okay, thanks for that, Matt. I think there's quite a lot to unpack there. I mean, I hadn't heard that before and I'm going to have to listen to it again myself.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 716.995,
+      "endTime": 717.416,
+      "text": "Did you cry?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 718.886,
+      "endTime": 732.212,
+      "text": "It brought a little tear to my eye, made me, uh, slightly worried, slightly more worried about the potential future, but, as I say, there's quite a lot to unpack there. I think, as I said at the start, we're, we're, we're. We're relaunching the podcast a little bit",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 740.625,
+      "endTime": 761.663,
+      "text": "and one of the things that we really want to focus on is some of the things that Matt talked about there around, like just sort of the big, the bigger ticket item, the sort of helicopter view of what are the bigger problems here. And we feel that that is. We feel that the main things are some of the things Matt talked about there around governance and alignment, and my first point on that would be that around governance and alignment, and my first point on that would be that, as you say, like",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 765.605,
+      "endTime": 769.765,
+      "text": "you know, open AI have been up in front of the Senate in the US, been up in front of a. You know,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 772.805,
+      "endTime": 795.135,
+      "text": "forgive me, but you know a bunch of old duffers that don't really understand anything that was said to them and the questions you know were really lame in terms of the, you know, probing into what's going on with AI, and you know they didn were really lame, um, in terms of the you know, probing into what's going on with AI, and you know they didn't bring up any of the things around alignment or any of that kind of stuff, which are the, you know, the real questions at the heart of it, and I think this is at the core of the problem. Right At the moment. You've got, you know, three or four big tech companies that are self-governing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 795.296,
+      "endTime": 828.266,
+      "text": "They're voluntarily, you know, doing a bit of safety and alignment stuff when it suits them. They're doing it because it probably looks good for PR purposes and that's not going to work long-term. Hence the reason why, you know, ultimately AI have decided to cut their safety team because maybe it didn't align with what they wanted at the time, maybe it didn't suit their needs, maybe it was holding or they felt it was holding them back in terms of making a profit, which I would imagine it would. So so, yeah, I think that gets to the heart of the problem, like, what, how, how can we expect these companies to regulate themselves?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 828.387,
+      "endTime": 856.669,
+      "text": "When has that ever happened? When has that ever been effective? And so what we need is for governments to step up and step in and actually start taking action on this and start regulating at a governmental level and start putting in place guidelines for what ai companies should and shouldn't be able to do, how much power they shouldn't shouldn't hold, and to start thinking about and taking some of these problems seriously, and I believe there's been some steps in that direction in the eu recently there has.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 856.869,
+      "endTime": 901.356,
+      "text": "I mean, you know, we we talked a little bit, uh, one of the early episodes I kind of gave a a bit of a download of at that point where we were in terms of governance in the eu, the uk, the us and china. Um, the eu and china are probably at the forefront. I think the eu is number one. I mean, it is kind of dictated by their approaches. The eu ai act is a massive kind of all-encompassing kind of umbrella piece of legislation, is very much kind of vertical legislation, um, you know, as you'd expect from the eu, I think. The issue, from what I've seen of it, though, is it focuses and this was the thing I was trying to kind of get across in the speech at the beginning.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 901.937,
+      "endTime": 950.997,
+      "text": "It looks at the use of AI, so how tools are used, and you know, an example was your biometrics. It can't be used for any biometric uses that, would you know, include, uh, protected characteristics, so you could use it as a tool at the border, but you couldn't use it to identify, you know, people with a certain skin color or people of a certain religion, etc. Etc. Which is, you know, exactly what you'd expect from the eu. My concern about that is that it's all very well, and I'm not saying that we don't need this. Of course we need, you know, regulation on how tools are applied and I guess at the moment, with the way that AI tools are, you could kind of argue that that is the most important thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 951.377,
+      "endTime": 994.665,
+      "text": "And the existential threats which, like I've said, they're real, they could be 20 years away, 30 years away or three years away. We just don't know the existential threats are only going to be solved by governing and regulating the development of frontier models. So, from what I've seen and I may be wrong and we hopefully will get I'm talking to experts in this area about coming on the podcast in the next few weeks. They will probably know more about the intricacies of this, but my understanding is that it doesn't regulate the development of the models and therefore all the threats that we're talking about, that could potentially be happening in this black box, are not going to be addressed by the current regulation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 995.026,
+      "endTime": 1000.215,
+      "text": "And that, don't forget, we're talking about the eu is the regulation that is the kind of gold standard for regulation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1000.635,
+      "endTime": 1050.714,
+      "text": "It doesn't include the us and all the models are being developed in the us for me, this feels a bit like talking about tax regulation, though regulating financial companies around tax loopholes where basically the the the amount of money that the big corporations can employ to to employ people who can work the financial advisors to get around these tax loopholes is just far greater than governments could ever afford to employ people who employ experts in closing the tax loopholes, and it feels like an area that's quite similar, like, clearly the big tech companies have got almost unlimited funds to spend on top AI researchers and top AI you know even alignment researchers and things like that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1052.108,
+      "endTime": 1055.617,
+      "text": "So for me it seems like an almost a non-starter, in a way.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1058.045,
+      "endTime": 1108.752,
+      "text": "I sort of agree, and you know, sometimes we talked about that you know we wake up and sometimes we flip from one side to the other in terms of you know whether ASI is on our doorstep or it's already here or whether actually it's nonsense. I think you could look at it and say it's a non-starter and yeah, it's just impossible. My counter argument would be okay. But we're talking about a potentially and I don't want to keep over egging this word but existential threat to humanity. So isn't it worth, you know, even if we think it's not going to work, isn't it worth pushing it? Otherwise, the answer is we just give up and then we hope for, you know, option one which I talked about before, which is, you know, there goes a million people.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1109.433,
+      "endTime": 1148.351,
+      "text": "So I kind of see your point. I also think this is where you know we'll get onto, I'm sure, later and in future, episodes about, you know, people starting to act, because it's all about I think it's, it's all about this moment public sentiment and if there's enough of a push, I mean there's been a narrative shift. I think that has. It might be the algorithm that's feeding me this, but there's been a narrative shift, I think, in the last few weeks where safety and alignment and governance is coming up more in, you know, in mainstream media and not just the clickbait headlines, because they've always been there, um, and you could kind of argue that my speech, you know, is clickbaity.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1148.471,
+      "endTime": 1195.816,
+      "text": "I don't think it is. I'm I'm sort of trying to come from a genuine place with this um, but you could sort of say, you know this is we're talking about. You know, existential threats, wow, these are kind of, you know, headline grabbing things. But I think there's been a narrative shift in that you are seeing the talk of the need for governance and the need for regulation and the need for some you know levels of control. I also do think and I'm trying to see the good here I do think you can see from the letter that came out a few weeks ago, where you know a number of employees from the big firms uh, wanted to get, you know, a guarantee that they were able to speak freely and voice their concerns, that there are a lot of people within the industry who want to do the right thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1196.277,
+      "endTime": 1228.379,
+      "text": "You know it's not just anthropically the good guys and everyone's the bad guys. I think there are lots of people. I think what's happened, as you know, always happens in politics and in business is that, you know, even good people get dragged down by the system. And there is this race to the bottom. Yeah, I think OpenAI started out with good intentions. I think they've been dragged to the bottom because there's either this we need to get to AGI first, because we're the only ones who could do it right, we can't trust the other companies or and this is the kind of Leopold Aschenbrenner line of this is a competition between democracies and, you know, dictatorships.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1228.866,
+      "endTime": 1262.859,
+      "text": "I've got a view on that. We'll maybe touch on this later. I think it's oversimplified, but I think a lot of people are convincing themselves of that to, you know, convince themselves that they're, they're sort of trying to do the right thing, and I think that may be the case. It may not be. I don't want to give too much benefit of the doubt at this point, but you know, I do think there are a lot of people in the system who probably do want to do the right thing and actually, you know, a backlash, a change in the narrative might empower those people. To, you know, come forward and to speak out.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1277.785,
+      "endTime": 1288.377,
+      "text": "Still working in the industry, aren't they? And they've come out, and not all of them. There are still some in there who might you know, the people who haven't left, who would like to have to be empowered to speak their mind yeah I'm not talking sam altman here. No, I know I mean.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1288.397,
+      "endTime": 1320.527,
+      "text": "My feeling with this is, if you sort of go back and have a brief history of open ai, it all started when microsoft put a massive investment into open ai. At the end of the day, they put a massive investment into open AI. At the end of the day, they put a massive investment into open, the open AI. A couple of months later, there was a rebellion by the board. They kicked some out and now that's like. That lasted like three days, five days, something like that. Sam Altman was back in. The rest, all the people on the board who disagreed with him. It was all reshuffled. All of the people who were, you know, had the moral position that open AI was going in the wrong direction.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1320.788,
+      "endTime": 1353.222,
+      "text": "They're all out now. Um, and slowly those people are leaving the company and resigning because they either no longer align with the company or the company no longer aligns with them. So I think and this is what this is kind of what I was talking about before with the if you expect these companies and open ai is only one company in the game as well, you know, you've got other, you've got google competing, you've got anthropic, although they, you know, arguably they split from open ai for good reasons and have. I agree, they seem to have a better moral compass right now, the moral compass that maybe open ai used to have.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1353.624,
+      "endTime": 1385.907,
+      "text": "But yeah, you've got google, you've got facebook, you've got meta, um, you've got um. You've got meta um, you've got um. You've got a, a menagerie of big tech firms who are all competing and they're competing, ultimately for cash. So if alignment, if safety gets in the way of what their aims are, which is cash making, cash, then of course it's going to take second seat, second fiddle making cash, then of course, it's going to take second seat, second fiddle, so it's probably a perfect time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1385.927,
+      "endTime": 1418.812,
+      "text": "I happened to get sent this message the other day. It's from a while ago. But Satya Nadella to board members about OpenAI. So, quote, including GPT-4, it is closed source, primarily to serve Microsoft proprietary business interests. And then there is I is, I think you know, a lot of people who are interested. Now I will have remembered this quote from november, which was around the time that the drama you were talking about with open ai unfolded. So again, satya nadela, uh, if open ai disappeared tomorrow, we have all the intellectual property rights in the capacity, we have the people, we have the computing capacity, we have the data, we have everything.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1418.932,
+      "endTime": 1439.905,
+      "text": "We are below them, above them, around them. I mean, yeah, you, you, you're spot on. I, I, I don't know because I that's I think microsoft sort of gets a bit of a free free ride sometimes. I mean you know bill gates doesn't. But since bill gates has left, I mean you know, we obviously know bill gates caused the pandemic 5g and every other theory out there.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1439.985,
+      "endTime": 1480.115,
+      "text": "But Microsoft as an organization seems to get a bit of a free ride, I think they yeah, they relatively yeah, no, I agree, like Microsoft, sort of Microsoft to one of these quiet companies where the you know there seems to be a lot of controversy around Facebook and meta. Similarly, sometimes with google they've been in the news, um, even apple, although apple, you know a lot of it's positive, but they also have have had quite a lot of negative publicity recently. I don't know how microsoft do it, but they sort of seem to quietly tick along um and, and actually I mean let to a lesser extent but nvidia, who have recently become the um, because jensen's a rockstar CEO.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1480.365,
+      "endTime": 1496.156,
+      "text": "I think that's how they get away with it, right. You either love him or you hate him, but he looks like you know, he looks like someone you'd like to be friends with and therefore I genuinely think it's him that gets them that free pass and the fact that they've made a lot of people a lot of dough in the last year.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1496.557,
+      "endTime": 1497.358,
+      "text": "Yeah, absolutely,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1500.525,
+      "endTime": 1513.332,
+      "text": "I a lot of dough in the last year. Yeah, absolutely, I mean um, if anyone hasn't been following the news, um, nvidia are like the largest company in the world, I think, as of last week, by market cap, so, um, but but also also nvidia can kind of stay out of the limelight because they basically they sell their products to businesses.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1513.392,
+      "endTime": 1528.625,
+      "text": "It's business to business boring bits right. It doesn't appeal to the general public. No one cares about what a chip looks like, or a gpu or you know a neural processor, because no one understands it no, but they are. Everyone has a microsoft or an apple product yes, exactly, they have to do marketing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1528.946,
+      "endTime": 1550.237,
+      "text": "They actually have to do marketing. Whereas nvidia, the 90 90 of their business now they do sell gaming, gpus and stuff, but 90 of their business now, because of the ai boom, is selling ai chips to businesses and that's where all of their growth has come from and why they're so, why they're absolutely huge right now, because they are the fuel for the ai fire.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1551.059,
+      "endTime": 1592.852,
+      "text": "I just want to go back, as I'm conscious that we could go off on a tangent, but just I was thinking as, as you said that about microsoft and that quote from satya nadella where he talks about you know being all around open ai, I wonder if the reason they get that free pass is they're all around everything. So if you're the us government or the uk government or, to a lesser degree, you're the chinese system or you are an individual or a business, you're probably using Microsoft kit for pretty much everything you do. I mean, you know the number of security instances have been with Microsoft tech, whether that's you know, software, cloud hardware over the years and yet they haven't been replaced because they're so ubiquitous.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1593.393,
+      "endTime": 1610.789,
+      "text": "I think that's part of the reason they get a pass is, you know they, they control all of the gear that controls most of the world. So you know they have a very big chunk of the pie. I think that's maybe why, maybe why they get a pass. But digress a little bit, I guess, from the point of the podcast",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1621.017,
+      "endTime": 1625.961,
+      "text": "ultimately, regulation is not going to come from within these companies.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1626.121,
+      "endTime": 1665.766,
+      "text": "They have like less and less self-interest to self-regulate, um, and they, why would you, why would we think that self-regulation would work anyway? So you know, I think what's the, what's the solution here? I guess it's, you know, it has to come from, it has to come from governments, but it also has to come from people. And I think, going back to a point you sort of started to make a little while ago, I feel like it has, it is in the headlines more and I think that one of the ways I mean, obviously our podcast is hoping to raise awareness and and um, and hopefully we can get it out there to more people.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1666.287,
+      "endTime": 1706.872,
+      "text": "But I do think that, going back to some of the topics in previous podcasts, like if as as job losses and as real world tangible, sort of impacts start to happen. As we start to see those, as we start to see more and more job losses and AI replacing jobs and robots replacing jobs and all the things we've talked about in previous episodes. I think that's when it will start to become a real topic for discussion, but but I still don't know whether that's going to be more down the line of. You know, we need to look at limiting the impact on jobs and limiting the impact on society, which is what governments are sort of able to do and it's their comfort zone, isn't it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1707.105,
+      "endTime": 1764.555,
+      "text": "Regulating that stuff, which is why the AI, the EU's AI Act I think that's the EU's comfort zone. This, what we're talking about here, is regulating the development. Although I said, nuclear power is not an ideal sorry, nuclear weapons are not an ideal kind of comparison point, I think it is still the best comparison point in terms of how you regulate that form of technology. You know, I I did an exercise as part of the, the ai governance course where we we looked at potential kind of you know ways and I came up with an idea that I actually think is. I think it kind of stinks, because I think it involves trusting an organization which you know we would not want to do, but is almost like a team, that are like the kind of un weapons inspectors that you used to have, that are embedded within these models and are rotated out on a regular basis so they can't become corrupted by it, but they're in there monitoring the kind of development.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1765.045,
+      "endTime": 1802.738,
+      "text": "I think that something along those lines, although I don't know how you would do it in the current geopolitical climate. I don't know how you would have another kind of three-lettered organisation that people would trust. You know, with the lack of trust in the WHO, the WF, etc. I don't know how it would work, but it feels like as a starting point. That's what you need is you need something embedded that is ensuring that this development is happening in a way that it's not even about ethics, it's not even about doing it in an ethical way, it's just about avoiding cataclysmic risks. So you know the letter that was signed in 2023 about the six month pause.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1803.869,
+      "endTime": 1844.665,
+      "text": "I don't think the six-month pause is right because you can't put a timeframe on it, but I think what it's about is, if you cannot prove that this is safe and you do not know how it is working, then you need to pause until you work that out. And I come back a lot to this point about we don't know how large language models work, and I don't think large language models, as I said, are the answer to advanced intelligence. I think there'll need to be a new architecture, but advanced ai at some point is going to develop from something and we need to know how it works to be able to align it yeah, at that point I mean, is it worth me doing like a real sort of quick introduction to alignment?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1845.507,
+      "endTime": 1864.496,
+      "text": "I was gonna say exactly that, that we've covered governance, and governance people understand, even if they don't understand ai. But yeah, alignment. It would be good if, if you could explain what alignment means in a kind of simple way yeah, so, first of all, um, matt referenced robert miles.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1865.037,
+      "endTime": 1888.512,
+      "text": "Um, if, like, the links are in the show notes, uh, robert miles has actually been doing youtube videos explaining and talking about alignment for years and he explains it really well. So if you want more information, you want to get more in depth on it, I would recommend watching some of his older videos that are from a few years ago now. He's a ai safety and alignment researcher I can't remember which university yet he's now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1888.913,
+      "endTime": 1911.118,
+      "text": "So he's now just as an aside, he's now advising the uk government. So he's now advising them on ai safety. So he's actually, you know, he's not just kind of on the alignment part, he's actually advising the uk government on how they deal with ai safety in general. And hopefully the new government, which you know will be in place soon when Nigel Farage is the the new leader.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1912.686,
+      "endTime": 1961.692,
+      "text": "Um, yeah, hopefully, hopefully, nigel listened to uh, robert, Um, I don't think he'll understand what he's on about, to be honest, but, um, but maybe you can have a listen to this podcast and uh, and get up to speed. So the core idea behind AI alignment is basically making sure that AI systems do what humans intend and avoid harmful behaviors. So, in a real simple sense, that is that, like you know, if you've got a vacuum cleaner that's got AI built into it, that it, you know, cleans your carpet, as opposed to, like, choose it up and jumps out the window or something crazy like that. But more seriously, it's, you know, these systems we've talked about it before like AI, is training a black box to do a specific task, to carry out a specific task.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1962.053,
+      "endTime": 1992.637,
+      "text": "And as as those, as the ai models get more and more complicated things like large language models, things like that the black box essentially gets more and more powerful, gets bigger and bigger and we don't understand what's going on inside there. All we can do is say this is your goal. Now we're going to train you, to train the ai, train the model towards that goal. We don't care about what goes on inside the black box. To a certain extent while we're doing the training. But then what we do is we look at the output and we say, okay, does that align to what we want? And we try to reinforce what our.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1993.058,
+      "endTime": 2040.237,
+      "text": "We try to reinforce our requirements. So an example of alignment with things like chat GPT is that if it didn't have any alignment or safeguards or safety rails built in, it would tell you how to do things that are absolutely illegal. It would tell you how to make a bomb, how to um, how to do all like make meth or all manner of illegal things, and so that's a question of alignment. That's. That's chat GPT. Sorry, that's open AI's decision in that case, because it's them. It's them that own the model and they want they don't want their model to tell you how to do illegal things. Now Elon Musk's made an argument against this, and part of the whole thing with Grok, which Twitter released, is that it will tell you whatever you want and there are open source models that will give you whatever information you want.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2041.305,
+      "endTime": 2081.247,
+      "text": "So in that case, we're talking about, you know, quite a specific application of alignment. You could call it like the ethics or the morality of the model. I guess, when it comes to an LLM, we're trying to instill it with some kind of ethics or morality, because it could be very dangerous. It could tell you how to make the next pathogen, something like that, and this is one of the fears, as these models get larger and larger and more complex and more sophisticated and more for want of a better word intelligent. Somebody could use one of these models to, you know, not just make a bomb, which is information you can find on the internet, but they could use one to actually develop a new unseen pathogen which could be hugely, hugely damaging.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2081.447,
+      "endTime": 2115.278,
+      "text": "Or a new cyber attack, a new computer virus which we've never seen before. There are things like this that large language models are sort of getting towards being able to do, and you know just it just within that example, one of the like, the challenges with alignment are enormous and, again, like you can watch robert Miles videos to sort of understand how complex this becomes, especially as models get larger. But as a simple example, you can still, to this day, you can figure out how to you can find on the internet information on how to jailbreak any of the large language models.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2115.618,
+      "endTime": 2121.423,
+      "text": "There are things called I think they're called universal, universal jailbreaks, basically",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2124.985,
+      "endTime": 2152.967,
+      "text": "yeah, universal jailbreaks basically, and they um, and there are images with certain noise in the background that I and I don't, we, I think we talked about before. I have no understanding of how it works, but by putting that, that picture in and uploading it, you can then suddenly just do whatever you want. I mean, it's, it's, it's nuts. I I highly recommend people have a look at this, just because it's fascinating. Even if you don't care about the technology, it's fascinating and it makes absolutely no sense, but it's real exactly, and so there are examples like that where.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2153.308,
+      "endTime": 2191.954,
+      "text": "And then the point with the point with that is that even open ai, with all their resources and all their money and they own the model, so to speak they can't make it impervious to jailbreaks. You can still jailbreak chat, gpt, and so it all demonstrates how little understanding we have of what's actually going on inside that black box and this. The problem only gets larger once you start talking about things like artificial general intelligence, which we may or may not have reached yet. If we have, then it's, you know, it's within open ai and it's not open to the public. Um, and maybe large language models will get there, maybe they won't.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2191.994,
+      "endTime": 2239.928,
+      "text": "There's, you know there's various debates around that, but the point is that eventually, at some point, some of the risks matt was alluding to before, the, the existential risks are because at some point, once you reach artificial general intelligence or beyond that, artificial super intelligence, so general intelligence meaning a model that's generally capable of doing all things that roughly humans can do there's lots of debate about the actual definition, or artificial super intelligence, which is something that's basically more intelligent than humans. Once you get to that point, then you really don't understand what the model's doing and what it's, even what it's potentially what its desires and um wishes are, and something like that you know it would.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2240.148,
+      "endTime": 2274.492,
+      "text": "It would potentially have the you know it would potentially have something to gain by hiding its true nature from you. It would also be very sophisticated and able to do that in a way that you know would be undetectable whilst it's actually acting out on its own aims, its own ambitions. So we're. I mean it starts to sound a little bit sci-fi, but those are the kinds of things we're talking about and that's why Matt says you know, that's to sound a little bit sci-fi, but those are the kinds of things we're talking about and that's why Matt says you know, we don't know whether it's five, 10, three, 20 years away, but those are the things that we're talking about and need really careful consideration, and also why it's so complex.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2275.485,
+      "endTime": 2286.899,
+      "text": "There's someone called them Well, it's not a name, actually, but this is their handle for YouTube and Twitter, which is now known as X, actually, for those of you not aware.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2286.979,
+      "endTime": 2287.64,
+      "text": "I wasn't aware of that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2287.74,
+      "endTime": 2331.748,
+      "text": "Yeah, so Pliny, the Prompter which is at Elder underscore, plinius, there's not actually that much on YouTube. There's four videos, but this is whoever this person is. They do a lot of red team work for the model. So red teaming is basically the kind of you know, testing and hacking to see how models work. But they've jailbroke every one of the major models. So there's ChatGPT 4.0, lama 3, claude. You know, this person has, or machine maybe they're not a person has jailbroken everything. So you know, know, if you're interested, look them up. But it kind of shows how, how easy it is for people with the right skills to be able to jailbreak.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2332.43,
+      "endTime": 2375.007,
+      "text": "I just want to make one point before we we kind of finish this section off on on alignment, and I'm not an expert in this field, but I think the point that you make about you know developing kind of you know, biological weapons or whatever at the moment it is well there's an argument at least that you know. All that you can do is get easier access to information that you could access otherwise. The issue is that in the future, models are not just you know and working on spaces, for example, that they're not large language models. The models are not necessarily just going to tell you stuff. It's not just going to be about having a conversation, giving you information.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2375.328,
+      "endTime": 2414.51,
+      "text": "They're potentially going to be able to work together with other models to actually do things. So if it's a problem at the point that large language models are giving you information to align it, imagine the issue and imagine the potential consequences when, whatever advanced AI looks like, it's not just able to give you information but it's actually able to carry out processes, whether that's working with other models and agents, whether that controlling, you know, weapon systems, power grids, whatever. At that point it is an existential threat, or it's at least a threat to, you know, life and society and health, etc.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2414.53,
+      "endTime": 2425.877,
+      "text": "Etc. So that's why the alignment thing is super important. If we can't even get it right at this point, then how can we advance models to the point that they're actually able to to do things instead of just telling us and giving us information?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2427.368,
+      "endTime": 2461.974,
+      "text": "Yeah, and that actually is a really good point. It comes back to the point that we talk about in previous episodes, where we talk about AI starting to make its way into industries and make its way into companies and jobs and things like that. You know, it's really tantalizing because you can save huge amounts of money by bringing ai into your business. But you start doing that now and then, by the time we get to the you know the notion of asi or these really advanced models, you've then got something that's got its claws into all the businesses in the world potentially, which you don't really fully understand.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2462.575,
+      "endTime": 2516.048,
+      "text": "And so there is a kind of a like a huge creeping danger there where you know ai slowly, slowly, we allow ai into all our industries, like, for example, in the future will it be given a place in controlling our power grids and maybe it'll be benign for quite a long time. But what about in the future? What about the next version? What about the updated model, all that kind of thing. Like you know, it's starting to sound a little bit sci-fi in a way, but I think that's kind of the sorts of scenarios we're talking about, where you let this stuff creep into everything and it's not just replacing jobs, it's pervading industries that are really important potentially yeah, and, like we said, even if the model yeah, sorry, even if the ai itself is not sentient or it's not in control itself, there are still some people, organizations, whatever that are in control, right.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2516.068,
+      "endTime": 2536.338,
+      "text": "So if it's being controlled by the us military or, you know, nato or the chinese military or whatever, is that better or worse than it being controlled by, you know, the the ai itself? Maybe it's better, maybe it's not.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2536.798,
+      "endTime": 2560.295,
+      "text": "The issue is that somebody or some organization or some entity is going to have control of absolutely everything potentially yeah, there's huge potential for a massive kind of centralization of power resource whatever you want to call it over the like coming years there's only one answer the aimish.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2561.056,
+      "endTime": 2586.299,
+      "text": "It is what I always keep coming back to. Now join me and jimmy's aimish community. Make a donation in bitcoin three bitcoins transferred to jimmy's account and, uh, if we ever started up, you can come and join us on the aimish community and you can listen to the podcast on lps or wax discs or something like that, and help us to change horseshoes.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2587.605,
+      "endTime": 2589.192,
+      "text": "Man, I dream of three Bitcoin.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2590.506,
+      "endTime": 2593.876,
+      "text": "I dream of living on an Amish community in the forest.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2611.925,
+      "endTime": 2648.939,
+      "text": "I am conscious that this episode has strayed into the more pessimistic side and, for those of you that understand the term P-Doom, our P-Doom score has been pretty high today. I think that's kind of necessary because we're talking about relaunching the podcast, so that it, you know, talking about relaunching the podcast, um, so that it, you know, picks up these themes and that we, we, we try and empower people with things to do. but I wanted to try and put a bit of a more positive spin on things, because I I said in that speech at the start about how I compared to climate change. Um, maybe some of you listening are climate change skeptics, but just, you know, stick with us for for a minute here on and let's assume for a minute that we accept that climate change is real.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2649.621,
+      "endTime": 2692.653,
+      "text": "Um, so, climate change is happening and we're, like I said, we're having to unpick it. The thing with this is we're not, we don't think we're at that point with ai, right, so we're out ahead of it potentially now. We're not at the moment the way things are. We've said, like governance alignment is not ahead of it, but it's still possible to do it. So I personally feel more energized today and, since you know, we, we decided to kind of reposition the podcast then. Then I did before because I feel like you know we're doing something and I think, for those of you that care about this, like I would say, when you start trying to do something and trying to get involved, like it's, it's invigorating, it's energizing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2692.673,
+      "endTime": 2731.077,
+      "text": "I think there are for me, three big issues in the world climate change is one, um, you know, health pandemics is another one, and and ai is the other one. I I sometimes flip between which is the more urgent, which is the longer term. I think potentially, you know, ai has the potential to make all of the other ones kind of irrelevant, but on the other hand, it could be the one that's furthest away. We just don't know. But there is room to act on it and you know, what we want to do is get people along on that journey and get people to you know, start realizing there are things that we can do to get this conversation moving.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2731.357,
+      "endTime": 2769.766,
+      "text": "And we've said it many times, there are elections in a lot of countries this year. When the dust settles from those, I think this will be more on the agenda and I think there is a space to start making a difference and getting involved in that space. So it's not all negative, um, and there's potentially a lot of time. And this is, you know, ai is a really, really interesting thing. I mean, you know, the use of AI tools don't get me wrong. I'm not suggesting people don't use AI tools. I mean they are like life changing. They make your job easier, they make make your life better. But there are all these risks to think about as well, and that's why we want to address those things.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2769.847,
+      "endTime": 2798.582,
+      "text": "But still, you know, keep using ai and keep being excited by some of the other developments, because there are things that are going to make the world better. Um, it's just, there are things that are going to make the world worse at the same time nice was that, you being positive matt I mean, that's the best you're going to get from me. Um, I used to be an optimistic person, you know, and things changed at some point and now I I take the uh, the other role what what I was going to say is.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2799.204,
+      "endTime": 2833.646,
+      "text": "So, just following on from that and and we've talked about this before but actually if we get this right, the positive side of ai is it could be a massive, massive benefit to society. If we get all this stuff right and if it doesn't go wrong, and if we mitigate the negative side effects, it could be something that works alongside us and even solves problems like climate change and many of the problems that potentially we face, which we've talked about that loads in previous episodes. So I would say that's also really, really important to bear in mind. Obviously, this episode was focusing on a really serious subject and we've taken it seriously and I think that's fair enough.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2834.588,
+      "endTime": 2854.391,
+      "text": "So, with that, in future episodes we're we are going to introduce a bit more of this kind of stuff around governance and we're going to get some guests on. We're going to get more guests on that can talk. You know, experts in the field unlike us who can talk around governance and alignment and some of these kinds of things. Maybe we'll get Robert Miles on. I'd be really keen.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2855.255,
+      "endTime": 2869.973,
+      "text": "Uh, we, we are definitely going to try. We are definitely going to try, although I think you know me and you might be kind of little nervous school boys around Robert Mars, if we're, uh, if we're in his company yeah, for sure, for sure he's.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2870.254,
+      "endTime": 2874.99,
+      "text": "Uh, he's more of a rock star than us in the AI world. I think, for sure, um.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2875.01,
+      "endTime": 2884.558,
+      "text": "I'm not sure many people have called him a rock star. Um check out his videos. He, he's, he's yeah, he's a great guy, but I'm not sure he he doesn't look like a rock star.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2884.578,
+      "endTime": 2922.658,
+      "text": "Let's put it that way. Well, and if you know him, put him in touch, um. So so, yeah, so in the future we're going to do more episodes like this, but we're also going to obviously stick to our some of our original format. So we are going to look at some specific industries as well. We're going to mix it up. We've done episodes on dystopia and utopia. Overall, the theme is that we want to be the podcast for everybody. As we said at the start, we want to be the podcast for everybody. We want to be able to speak to everybody about the issues that are coming up, about some of the technical stuff, but hopefully not with too much jargon, as we said before, um, and that's our aim.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2922.845,
+      "endTime": 2945.858,
+      "text": "That's our aim to sort of reach a wide audience, to speak to everyone. So, as I said at the start, subscribe like comment if you like it. If you like it, of course. If you like it, share it with your friends, um. If you don't like it, what's wrong with you? Yeah, good point, um. And with that, thank you very much and, as always, enjoy our latest song.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2947.239,
+      "endTime": 2968.685,
+      "text": "Thanks everyone. See you next week for a more positive episode, possibly light-hearted, maybe. No guarantees. We're off to watch england versus denmark, so, uh, let's see how that goes. Maybe we'll be on a positive note next week, maybe not. Take care, everyone bye, let's see how that goes. Maybe we'll be on a positive note next week, maybe not. Take care, everyone",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2984.246,
+      "endTime": 2994.673,
+      "text": "Bye. Blackboard schemes All my decisions Are just ambitions, good for daily Hype or reality. 20 to 99.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2995.486,
+      "endTime": 3087.949,
+      "text": "Threat to mankind. Ai horizon, neon glow. Know who will make it, but we must shape it. You and me, settled confused over 65 Do they know how to keep us alive? 50 disbanded and puppies stand alone? Military on board. Where's this heading for AI horizon? Meet on board. No room will make it, but we must shape it, you and me. Charts are fading, climate changing, custom living rising, but AI surprising, tokyo Falls. Wake up, call. Will we rise or just demise AI horizon? Me on the low, here we go, we'll make it. We must shape AI horizon me on the low. Our future's ours if we try, you and me, here we go, I'm a 65.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3115.065,
+      "endTime": 3121.109,
+      "text": "Do they know how to keep us alive? Safety disbanded.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3123.186,
+      "endTime": 3125.285,
+      "text": "And what we stand for Military on board Safety, disbanded, antropic stares along.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3125.767,
+      "endTime": 3150.034,
+      "text": "Military on board. Where's this heading for AI? Horizon me on board, here we go. The rule we'll make it, can't you see what we might change? Think you and me. Jokes are made in Climate changing, cost of living rising, but we might change. Think you and me. Jobs are making climate changing, cost of living rising, but AI surprising,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3153.248,
+      "endTime": 3156.817,
+      "text": "so you don't fall wake up call.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3158.729,
+      "endTime": 3187.204,
+      "text": "Will we rise or just demise? Ai horizon, don't you know, neon glow, here we go. No rule will make it, can't you see, but we must shape it, you and me. Ai horizon, don't you know Neon glow, here we go, our future's, ours, can't you see, if we try AI to rise up.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3188.79,
+      "endTime": 3206.357,
+      "text": "Beyond the here we go, our future's, ours, if we try. You and me, you don't know.",
+      "chapterIndex": 5
+    }
+  ]
+}

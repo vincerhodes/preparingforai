@@ -1,0 +1,600 @@
+{
+  "slug": "s2-2024-07-05-election-interference-the-shocking-truth-a",
+  "buzzsproutId": "15364228",
+  "title": "ELECTION INTERFERENCE: The shocking truth about AI deepfakes in politics",
+  "date": "2024-07-05T02:00:00.000Z",
+  "season": 2,
+  "durationSec": 2033,
+  "format": "special",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15364228-election-interference-the-shocking-truth-about-ai-deepfakes-in-politics.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail In this eye-opening episode of 'Preparing for AI', we dive into the controversial world of AI-driven election interference. We explore the shocking findings from Channel 4's investigation 'Can AI Steal Your Vote?', which revealed how AI-generated content swayed 23 out of 25 voters in just two weeks. We break down the potential threats of deepfakes, AI-generated robocalls, and social media manipulation, while also discussing the opportunities AI presents for improving election administration and cybersecurity. From Sunak to Biden, Trump to Trudeau, we examine how AI is reshaping political landscapes globally. We also look at policy responses from governments and tech companies, and offer practical advice for voters, candidates, and election officials on navigating this new digital frontier of democracy. Join us as we unravel the complex relationship between AI and elections, and learn how to protect your vote in an era of digital deception. The Truth About AI's Impact on Politics (Channel 4 documentary) https://youtu.be/7vXlBZlV7Ks?si=mYAVh8MRXiXXM5nk Election Related AI Deepfakes Spread Across India's Social Media (NBC News) https://youtu.be/LIPkDso-uHA?si=ce7-G0R8_VAh96KR",
+  "summary": "Reacting to Channel 4's 'Can AI Steal Your Vote?', Matt and Jimmy dissect how a fake social app fed deepfakes of Sunak and Starmer to 25 voters and swayed 23 of them within two weeks — often with a single targeted fear like a £35 GP charge. They widen the lens to AI-cloned news anchors in India, a Kate Middleton imprisonment deepfake circulating on WeChat, and the collapse of trustable evidence, landing on practical defences: read manifestos, think critically, and get off social media before elections.",
+  "keyTalkingPoints": [
+    "Channel 4 experiment: 23 of 25 voters swung by AI-generated content in two weeks via the fake 'Echo' app",
+    "One well-targeted sentence (NHS £35 charge, immigrants atop housing lists) was enough to flip most participants",
+    "India: cloned news-anchor deepfakes produced in hours, in multiple languages, all accepted and published on YouTube",
+    "China: a fake Kate Middleton 'imprisoned by William' video was allowed through censorship to brew as clickbait",
+    "Even after debunks, anger persists — the 'synapse is already rewired'; confirmation bias beats corrections",
+    "Defences: read party manifestos directly, critical thinking, avoid social media before elections, Ground News slider"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Even AI-aware viewers can be fooled by good deepfakes, and the unaware have no reason to doubt them",
+      "Mainstream media has so far debunked big deepfakes quickly, but lower-profile races and swing states are the real risk",
+      "The answer is critical thinking and questioning everything online — tiring, but the alternative is being sold a lie",
+      "For elections specifically, people should read manifestos and watch debates rather than trust clips"
+    ],
+    "matt": [
+      "Evidence itself is no longer believable — we are in a 'post post-truth' world staring at 99%-real fakes",
+      "He does not trust fact-checkers or mainstream media in general; only self-verification and manifestos",
+      "Companies and states will steer even innocent joke deepfakes once they go viral, as China's censors did",
+      "Admits he has been struggling for months to know what to believe and recommends steering clear of social media"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-07-05-election-interference-the-shocking-truth-a-1075.644-deepfake-efforts-will-concentrate-on-the-novembe",
+    "s2-2024-07-05-election-interference-the-shocking-truth-a-745.315-it-is-only-a-matter-of-time-before-a-major-ai-di",
+    "s2-2024-07-05-election-interference-the-shocking-truth-a-868.805-as-deepfakes-get-easier-low-profile-races-in-sma"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 6,
+  "turnCount": 75,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Deepfakes stealing UK election votes?",
+      "startTime": 42
+    },
+    {
+      "title": "How far down the rabbit hole are we?",
+      "startTime": 565
+    },
+    {
+      "title": "Deepfakes in India and China",
+      "startTime": 975
+    },
+    {
+      "title": "What can we do to battle deepfakes?",
+      "startTime": 1450
+    },
+    {
+      "title": "AI Hijack (Outro Track)",
+      "startTime": 1878
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 35.493,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment Bullets for your brain today. but we'll forget it all again. Urgent need for safe development of AI, governance and alignment Bullets for your brain today, but we'll forget it all again. Monuments put from pen to paper turns me into a gutless wonder, and if you tolerate this, then your children will be next.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 35.98,
+      "endTime": 39.841,
+      "text": "Welcome to Prepaying for AI with me, matt Cartwright and me, jimmy.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 39.881,
+      "endTime": 88.407,
+      "text": "Rhodes. So today's episode is I don't know if it's so much an emergency podcast, but a very topical one. So today we're going to be talking a bit about deepfakes and the potential impact on elections. A recent Channel 4 dispatches investigation, which you may have seen titled Can I Steal your Vote just released and it's brought the potential impact of AI on elections into sharp focus. The program, produced by Kal-El Productions, conducted a revealing experiment where AI-generated content was used to influence a group of 25 voters. Over two weeks, the producers created deepfake videos of political leaders announcing fake policies and AI-generated hot mic moments testing how these fabricated pieces of content could sway voter opinions.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 89.009,
+      "endTime": 123.594,
+      "text": "Alarmingly, by the end of the experiment, 23 out of 25 participants said they would vote in line with the AI-influenced direction. The eye-opening investigation demonstrates the power of AI-generated content in potentially manipulating voter behavior. Obviously topical, with an election just having happened in the UK and elections all over the world about to happen. It raises critical questions about the integrity of democratic processes in the age of artificial intelligence and highlights the urgent need for awareness and safeguards against AI-driven electoral manipulation. Against AI-driven electoral manipulation.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 124.074,
+      "endTime": 125.996,
+      "text": "Today we're going to delve deeper into this topic.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 131.02,
+      "endTime": 136.913,
+      "text": "We'll explore the implications of such AI capabilities, discuss possible policy responses and consider what election officials, candidates and voters can do to navigate this new landscape.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 137.861,
+      "endTime": 177.622,
+      "text": "I guess we don't know. We should probably say to start with, we don't know if the group in this show necessarily reflects the kind of uk public. But I mean, first impression for me was that there was, there was so little kind of understanding of ai and therefore you know how much impact it can have had. Um, and we you know we get back to this point so many times but I think we on the podcast and with the, maybe the people that we kind of hang around with, have this idea that not that everybody is, you know, reading about AI every second, but that they have probably a higher level of understanding and an awareness of what AI can do at this point than maybe they do.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 177.642,
+      "endTime": 221.85,
+      "text": "Um, I read something earlier today actually about how some of the kind of stupid or I mean let's say, novel uses of AI for example, generating images and music, et cetera has taken the focus off some of the harms, because it kind of seems trivial and silly and a lot of those uses people say, oh well, if that's all it's doing, if it's just making stupid jokes up or it's just creating images or it's just giving me false answers, actually how dangerous can it be? And I don't know if that has had a kind of effect on, you know, the general public's perceptions of ai. I think maybe before we we sort of go into detail on the point in general, just to explain that the premise of the show.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 221.89,
+      "endTime": 240.79,
+      "text": "Now, if you're in the uk you can probably watch this on on channel four or on YouTube. I actually tried to watch it on YouTube and I had a US VPN on so I actually couldn't view it at first I had to switch it back off. So if you've got a VPN you'll need to switch it, I think, over to the UK if you're not in the UK to watch it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 245,
+      "endTime": 274.651,
+      "text": "But the premise of the show just to expand on what Jimmy said really is they created an app, a fake kind of app, called Echo and gave this to everyone on the show and this app was filled with kind of I guess it looked like one of those kind of collating together different social media, so videos, images, comments, et cetera. That looked like a kind of combination of social media apps and they were trying to push the voters to vote for either Labour or Conservative through the content they would feed them. And you know, I would recommend watch it if you get the chance to do it. It's really interesting.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 274.671,
+      "endTime": 319.354,
+      "text": "They had deep fake videos showing Rishi Sunak, who's the current Prime Minister in the UK, announcing that he's raising the state pension age to 70. And and then the most controversial one, I guess, was a £35 charge to see a GP in the UK which had everybody in this kind of shocked and angry. And of course you know he's got his own healthcare. And then Keir Starmer, the Labour leader, was shown on a deepfake saying he was going to ban the song Land of Hope and Glory, which would appeal to a certain demographic as well. I think for listeners outside the UK you might be shocked at how unacceptable the idea of paying 50 US dollars or 400 Chinese RMB would be for a GP's appointment.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 319.44,
+      "endTime": 367.97,
+      "text": "But to a Brit the NHS is kind of the foundation of, I think, of what people are proud of about the uk, and so this idea of paying to see a general practitioner is a massive deal and it basically it seemed to push everybody who watched it and that was the people they were trying to push towards labor. It pushed almost all of them away from the Conservative Party. Like Jimmy said at the beginning, 23 of the 25 people were essentially manipulated by AI. It was a really good deepfake creation. I mean, I did a bit of messing around with Haygen a few months ago and this is only using a set of set avatars, but I could feed it a script and a fairly realistic character would then recite the script and that kind of took me 10 minutes of my own time to do it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 368.821,
+      "endTime": 404.032,
+      "text": "There was one where Keir Starmer, the Labour leader, was claiming he was going to put immigrants at the top of the house waiting list in the UK and that basically put all the voters off in the other group. So I think what shocked me about it was changing one sentence about one issue that was well targeted was literally enough to potentially decide where someone was going to vote. So of all the stuff they had on that, you know the app and the information they were feeding them actually from I would say 80% of them. It was one particular comment either the £35 NHS charge or this putting immigrants at the top of housing waiting list.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 404.645,
+      "endTime": 443.929,
+      "text": "That was enough to send people over and you know this targeting. And it's where the algorithm comes in, of course and let's remember that you know China, for example, is really really good and advanced algorithms. It's the focus of their regulatory effects on AI. So, yeah, some of the syncing was not great on all of the sort of deep fakes that they showed, but the ones that they did for Keir Starmer and Rishi Sunak were excellent. I mean, they were really, really believable, and even the poorer ones. All you need is slightly poor eyesight or a small screen or an elderly person who doesn't understand how realistic these videos can be, and it was incredibly easy to manipulate these voters.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 444.47,
+      "endTime": 479.918,
+      "text": "And I think that's the point, isn't it? If you're, if you're, even if you're aware of AI, you could easily watch one of those videos and not realize that it's AI. If you, if you're not aware of AI at all, then you would have no reason to doubt it. You would have no reason to doubt it. I mean, sometimes your TV goes out of sync anyway, like the lip sync goes out of sync on your TV anyway when you're watching TV. It's not like that happens anyway. So, and and just to go back a bit, I mean four or five years ago, even 10 years ago, there was talk of election interference. When Trump got into power, there was talk of Russian interference in the election.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 480.259,
+      "endTime": 520.085,
+      "text": "I mean, that's actually proven to have happened. Now. I think the difference now is back then it was, you know, social media posts and sort of nudging here and there on social media posts, which also potentially works and works. But now you've literally got the ability to put anything in the mouths of anyone and it's getting better and better. And another thing I mean it's not necessarily deepfake related, but literally in the last, again in the last kind of week Runway Gen 3 has just come out, which is another iteration of video development, which is similar to Sora by ChatGPT, and so these capabilities are getting are improving with.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 520.105,
+      "endTime": 553.527,
+      "text": "You know, this isn't a news episode in terms of that, but like it's relevant, it's a relevant topical sort of update on AI and and these. These things are improving all the time. And this channel four documentary, I mean it was a good thing. It's definitely a bit of an eye opener. It's a good thing Cause I think it's taking it to a wider audience. There's probably a significant amount of the channel four audience that don't know very much about AI or or or sort of on on the topic, up to speed on the topic. So I think it was a. It was a good documentary, well worth watching. We'll link it in the show notes Um and uh.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 553.707,
+      "endTime": 556.933,
+      "text": "yeah, this really needs a bit of awareness around it",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 571.5,
+      "endTime": 607.609,
+      "text": "basically it showed that you, you just need to kind of hit people's fears, don't you it's? You know that's the way you target. It is you. You hit people's fears, which you know for most people in the world, immigrants, unfortunately, are a target. I mean, in the uk we know the nhs is. Is you know, going to be a point that that really gets people's? I don't know how far we're down the rabbit hole already. I mean, you've said this many times about how it's not just about AI. This has been here for a while. I mean, I've admitted that I myself have been really struggling for several months now with what to believe and I've seen so many so-called conspiracy theories and the thing is some of them are obviously true and I, and I, I I'm I'm sure of that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 608.451,
+      "endTime": 640.723,
+      "text": "The problem is they can't all be true because they contradict each other. But I mean, man, there's, there's some strong evidence out there and that's the problem is, what is evidence? Now? You know, previously you would look at, a friend of mine was talking about how elsevier are I hope I pronounced that right One of the big scientific journal organizations is creating a kind of LLM that will have all their information. They're like oh, this is great because we're credible and you know there's no fake information in there. Well, isn't there? How do we know that they're not real? I mean, how do you evidence something?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 641.103,
+      "endTime": 677.121,
+      "text": "I think in the past we all believe that scientific papers you know, peer-reviewed scientific papers were true. Well, an AI can presumably create a scientific paper or can help you to peer review a scientific paper, and so you know, there's evidence for everything, and I think this deepfake is a perfect example of I could quite easily say well, I saw evidence that Keir Starmer said that. I saw evidence that rishi sunak said it. Evidence now is, you know, is not necessarily believable, and it's. We're in a post-truth world, but we're almost at the point of a world in which it's post post-truth. You know, it's kind of there's nothing left anymore.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 677.202,
+      "endTime": 719.943,
+      "text": "And I can see the same comments everywhere. You know, you, you, if you look at enough things, you think, hang on, I'm sure I've seen that comment somewhere else and you realize you're on to a different conspiracy theory or a different. You know, let's, let's not call them conspiracy theories, let's call them theories. Um, you're on to a different theory and you notice the same comment and then you think, hang on. I think that avatar was the same and you realize it's the same avatar and the same named accounts or the you know, accounts which have been auto-generated with Steve Phillips, 37x52691, which obviously no one would name their account, and I think I'm struggling with it, but I know it's a problem and therefore I think I'm just about able to see through it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 720.023,
+      "endTime": 743.569,
+      "text": "But how do people who don't have that level of awareness, who or are not able to, you know, rationalize it, for whatever reason, how are they expected to see through this when you've got, like I say, a level of evidence which it's staring you in the face? You can see it and it looks 100% or 99% real right. It's frightening, to be honest.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 745.315,
+      "endTime": 780.305,
+      "text": "Yeah, I mean I, I've been reading a little bit about this, this and like today and, um, you know, one of the things that was mentioned on an article that I was looking at was that actually, when these, when these things have happened in the past, mainstream media have quite often dismantled them pretty quickly. So they've actually, they've actually. You know, the mainstream media has kind of put it out there that this is not real. They've factchecked it all the rest of it. So there's a couple of things there like. One is one is. You know, what would be interesting for me is when, when is the first one of these going to get past the mainstream media, so to speak?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 780.686,
+      "endTime": 791.947,
+      "text": "When is? Because, obviously, the channel 4 documentary was more of a documentary, it was illustrative, it was trying to open people's eyes to this. But I'd be interested to know if any of these have actually ever got past mainstream media and when that's happened.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 792.388,
+      "endTime": 830.341,
+      "text": "And the other thing is Do you trust mainstream media, jimmy? Because what is mainstream media? And whether you do or not, I mean we had an episode with Dan Lyons a few weeks ago. We talked about trust. I think one of the problems is there isn't trust in mainstream media. So even the kind of fact, the kind of fact checks and you know that's another example the fact checking websites they've got their own agenda. So so do we believe the fact checking websites? If you believe the theory, you think the fact checking website is the kind of conspiracy, so it's a tangled web of you know, when you're saying about getting past the mainstream media, getting past which mainstream media?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 830.361,
+      "endTime": 832.587,
+      "text": "Because they don't all have the same agenda anyway, do they?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 833.435,
+      "endTime": 852.439,
+      "text": "They don't all have the same agenda. Um, yeah, I mean, I there's. It's hard to argue with that, like everyone has their own agenda. I think there are. There are certain things, there are certain outlets that I do trust, and up to now anyway, and I and I think everyone has that. I don't know whether I'll lose that in the future.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 853.061,
+      "endTime": 868.284,
+      "text": "Um, yeah, you have to. You have to find your sources. I think that's exactly where we're heading is you're going to have to take a leap of faith and say that's, that's the source I'm going to trust. Um, but that in itself pushes you to one extreme, because it means you end up in the echo chamber to some degree.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 868.805,
+      "endTime": 918.523,
+      "text": "Yeah, and I mean the other interesting thing this article said, which is, you know, with the really big stuff, like with the sort of thing we were watching in the channel four documentary, um, things like Keir Starmer and Rishi Sunak, it's gonna have a lot of focus on it and so they're probably going to get identified. But this article says you know, what about in lower profile races, as this gets easier and easier, what about in lower profile stuff that isn't in the media spotlight, where you know you could actually be nudging swing states in, like smaller rural places and and you know, and you could, and you could sort of have this, um, I don't know what you'd call it, but like you know, you you could, kind of you could nudge a few swing states in one direction, yeah, you know, kind of undercover of darkness, almost where like there's not much media on as a term.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 918.624,
+      "endTime": 921.72,
+      "text": "Nudging is exactly spot on. Yeah yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 922.001,
+      "endTime": 956.124,
+      "text": "And so it's all this kind of thing where, especially as this gets easier and easier and anyone can do it, you know how how much media coverage are you going to need to kind of expose all of these different deep fakes, all of these different potential, you know potential fakes, basically. And so I'm, I, I don't know, I'm, I'm genuinely getting to the point where it's like can you? I agree with you, Can you trust anything that you see online? I think some, I think a lot of people talk about that, but you know, when you see something, when you see Keir Starmer say something or Rishi Sunak, you know, at the moment you kind of believe it In the future.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 956.566,
+      "endTime": 966.059,
+      "text": "Who knows? Like, if you see Rishi outside number 10 making an announcement, is it real? Has the? Has the election actually been called? Has it even happened?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 966.099,
+      "endTime": 966.3,
+      "text": "Yeah,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 979.075,
+      "endTime": 1021.563,
+      "text": "it even happened. Yeah, there were actually before we I mean we'll come back to the, the, the uk one, but there were already reports earlier this year with the indian election actually about deep fakes and, um, I mean, some of it was pretty funny. There was modi dancing on stage at a kind of, you know, glastonbury style music festival and and there was a weird one was a dead ex-politicians. Um, he was supporting his son's election bid and he'd kind of they'd regen him back from the dead to support his, uh, his son's election campaign and. But the one that was really interesting on I saw on youtube was they'd created multiple deep fakes of an n news reporter in English and Hindi and various other language and they literally cloned the original video and then just replicated it over different videos with different languages and messages.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1021.583,
+      "endTime": 1044.207,
+      "text": "I mean they did this in the studio, it was professionally done, but it was an hour or so, and then they gave them, I think, three or four hours and they just created a load of cloned videos with different messages in different languages, all you know, really really well synced. They put four of those videos on YouTube. All of them were accepted and published. So you know, the current checks and balances are are obviously not in place.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1045.155,
+      "endTime": 1075.504,
+      "text": "Yeah, it's pretty crazy. It's pretty crazy, I mean, I guess, for the last few minutes because we're not going to do a long episode this time I guess do we want to talk a little bit about what people can do in terms of, you know, I don't know how to kind of combat this I guess, and it's a bit tricky. I'll be honest, like I'm not sure what I plan to do other than well, for one, continue to be pretty cynical and, um, think critically about everything that I see online. I think so.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1075.644,
+      "endTime": 1110.212,
+      "text": "I I just want to one other point before we, we, we do that. I think that's a great way to to end it, Um, but just a little bit wider, because I think it's you know this particular show, so watch it. You know, I really say watch it If you're. You know, obviously the UK election's important, it's important to to people like us, but you know, the US election is the big one and I think getting this kind of stuff out there ahead of of, you know, November I mean at the moment, unfortunately there don't seem to be any particularly good choices for that election Um, but you know that's where the focus is going to be of deepfakes.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1110.272,
+      "endTime": 1157.135,
+      "text": "But I just wanted another kind of anecdotal one. So I saw a deepfake video on WeChat, the Chinese social media, at WeChat, earlier this year and it was showing Big Ben, or rather the tower that's got Big Ben in it, because Big Ben is the bell, as I'm sure everyone knows. It was labeled as a fake in the article itself, but not on the image that you see in the feed. So when you looked at it and it was really well circulated, like maybe because I clicked on it once, but you know, I was seeing that from various articles for a couple of days and I think it was saying it happened on New Year's Eve. I mean, it obviously didn't and I knew it didn't, but it was a pretty well-faked story and there's been a number of fake Princess Catherine Kate Middleton recently Obviously she's had her cancer diagnosis and was missing for a while.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1157.235,
+      "endTime": 1195.676,
+      "text": "So in China there was a deepfake video of her announcing that she had been held imprisoned in her home by Prince William, the Prince of Wales, and I had people asking me, Chinese people asking me what's going on with Kate? What's this thing about? You know she's been locked away and this is obviously not something state targeted or, you know, backed by a big organization or anything other than, you know, clickbait really. But there's a decision there not to do anything about it and if you understand anything about the levels of censorship in China, you know nothing gets through the censors that isn't allowed to get through that censorship.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1195.777,
+      "endTime": 1238.006,
+      "text": "So there's obviously been a conscious decision to let that story, to let it run and let it continue and let it brew in the background. And you know we've seen this many times before. Things don't need to be specifically developed by a state or an organization or a terrorist organization or a territory or whatever. They can be created by individuals in a sort of innocent way, but they can still have a purpose that a territory or an organization with power then kind of steers the direction of that content. So I think that's a kind of great example of how something can go viral, that's made as a kind of joke and then is allowed or is pushed or nudged, however you want to say it, to then become something more.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1238.046,
+      "endTime": 1280.275,
+      "text": "So you know, we're talking this election campaign. These are likely to be things that are pushed by, you know, hostile states, terrorist organizations, opposition parties, people with an interest in it, but there's also a kind of sinister, you know people messing around and then that having a negative effect, and then that being used to kind of push that narrative as well. So there are all kinds of levels of this, I think, where it could be really dangerous. It's definitely one of the kind of negative aspects of AI that is here now and that we're really starting to see kind of, you know, become part of our, the fabric of society, I guess yeah, I mean that's pretty, that's pretty scary.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1280.596,
+      "endTime": 1287.647,
+      "text": "That's pretty scary and it's a bit mad that, like you say, you had your friends actually asking you about it and taking it seriously as well. What did you say to them?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1290.011,
+      "endTime": 1295.06,
+      "text": "the thing is, I mean, I mean I was like, well, we don't know, but that's not what's happened.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1296.526,
+      "endTime": 1297.671,
+      "text": "Pretty sure that hasn't happened.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1298.465,
+      "endTime": 1332.203,
+      "text": "But again, it's like, if you believe that, then when she came out and was at the Horse Guards Parade for the what's it? Trooping of the Colour, the big military parade a few weeks ago was it Trooping of the Colour, the big military parade a few weeks ago? You know, if you believe that? And then she came out and she was seen on the balcony, etc. We don't know that was her, that could be the fake. I mean, that's the thing, once you've set the image and you've got it in people's minds. One of the interesting things from the show today, when I watched it back at your sort of recommendation, was at the end of it, even though they'd been shown that they were fake,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1337.705,
+      "endTime": 1362.99,
+      "text": "they were still. Some of them said they still felt the anger even when they found out it was fake. It's like the brain had been, the synapse in the brain had already been rewired and it's difficult, even though you're fake, you're still like, but I was angry about something about them, you've already kind of changed your mind. So it's like the whole kind of you know, guilt until you're proven innocent in society. Now, isn't it, you know, someone suspended from a school on a claim that they've, you know, abused or punched a kid or whatever, and it's proven they haven't, but the damage was done.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1363.752,
+      "endTime": 1399.225,
+      "text": "So with these deep fakes, even if you prove that they are fake, they've still had an effect, a big as well yeah, and and in general, people are terrible for like once they've made their mind up about something, going back on it, I think it's confirmation bias as well exactly confirmation bias. You know you. You know, even if you prove something's wrong to somebody, like they can make up excuses, they can come, come up with reasons, and that's the thing in the documentary. It was a. It was a sort of closed environment, um, where they told them afterwards what was going on out in the real world.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1399.425,
+      "endTime": 1408.473,
+      "text": "You're going to be trying to convince people that that was a deep fake and it's like, well, if someone believes it, then how are you going to convince them? Because what's going to convince them?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1411.725,
+      "endTime": 1438.049,
+      "text": "And I think you should just go back to the line you said at the start. 23 of the 25 voted in line with what the algorithm and the deepfake videos pushed them to do. Now, okay, some of them might have voted that way anyway, but it was resounding and I, like I say I don't know whether they picked a group of people who they felt were influenceable, but they didn't seem to be. I mean, there was a real pretty good range of people who they felt were influenceable, but they didn't seem to be. I mean, there was a real pretty good range of people and they had different, you know, political views and backgrounds.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1439.293,
+      "endTime": 1440.737,
+      "text": "So, yeah, it's fascinating.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1449.586,
+      "endTime": 1453.986,
+      "text": "So what are we going to do? You said, let's tell people what to do. I mean, what's?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1454.006,
+      "endTime": 1490.356,
+      "text": "the answer, Jimmy. I mean, I already try and do this anyway. Like I'll be honest, like I'm not big on I'm not on social media very much. Anyone who knows me knows that I'm. I'm not on X, I don't go on Facebook anymore, I don't really spend any time on social media, I don't post on social media and that's partly cause I'm disillusioned with the whole thing. So for me, like I I do watch a lot of factual stuff, I, I, I engage in a lot of that kind of thing. Um, but it's for me it's all about critical thinking and always questioning everything that you see and it's and it's quite tiring, to be honest.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1490.396,
+      "endTime": 1497.171,
+      "text": "Like I can understand why people wouldn't want to do that, but the alternative is potentially being sold a lie at every corner.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1497.652,
+      "endTime": 1516.9,
+      "text": "Yeah, I actually think the best thing people can do for this well, it's too late now for the UK election would be to use your custom chat GPT, Jimmy. So maybe you can produce a custom one for the US election that will tell people which way to vote, and then they don't need to get drawn in by all of this deepfake disinformation.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1518.646,
+      "endTime": 1526.839,
+      "text": "When custom clods come out, I'll be all over it, but I tried to make a custom GPT and, I'll be honest, it was hot garbage yeah.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1527.885,
+      "endTime": 1558.244,
+      "text": "I mean, I think, like just my last comment, I guess and as I've said, you know I sort of admitted to people on here that I find it really difficult the solution for me I'm not saying I follow it all the time, but is to steer clear of social media as much as possible and not necessarily all the time. But maybe you know, there are times like this when you know, in the run-up to something like this, to stay away from it and make a decision. You know there are times like this when you know, in the run-up to something like this, to stay away from it and make a decision. You know, based on policies.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1558.264,
+      "endTime": 1592.613,
+      "text": "I don't necessarily trust mainstream media. I don't trust fact-checkers because I think fact-checkers you know the idea of a fact-checker that's independent, nothing is independent. So I don't trust the premise of it. I think my fact check is me doing it myself. You know that's how I would trust it. But I think if you take the election, for example, you know. You know that if you go on the Democratic Party or the Labour website and look at the manifesto, that is the policies you know, rather than believing a soundbite or a sound clip, and I would say you know on some of those examples. They're going to charge £35 for a GP appointment.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1593.154,
+      "endTime": 1633.838,
+      "text": "Well, you can quite easily look at the manifesto of whether that's what they're going to do. Now this doesn't necessarily help with all deep fake stuff. I mean, the basic advice on that is going to have to be like you said take everything you can with more than just a pinch of salt, but take it with almost an assumption that it's not true unless you see it proven. But when you have specific circumstances, like an election or an event like that, you can look at policies from factual places that are not media in any way. I mean, I think that's the thing. Is any media, any fact-checking website, any social media, anybody writing, has their agenda?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1634.559,
+      "endTime": 1667.114,
+      "text": "Of course the Labour Party has its own agenda, the Democratic Party has its own agenda, the Republican Party has its own agenda, but you pretty much think that their manifesto is going to say what their policies are. That was one of the things that surprised me about this is some of the announcements in the show. You know they're going to put the pension age up. Well, that would be in your manifesto. You could quite easily check that. It didn't seem like anybody went to check it. You know, you don't have to go to media to check it, you can just look at the manifesto. So maybe asking everyone to check and read the manifesto in full is a is a lot to ask, but hey, I mean, that's kind of where we are right.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1667.254,
+      "endTime": 1675.102,
+      "text": "If you want to know the truth, you're going to have to get it from the horse's mouth. That's how you're going to have to get information. And we're going to end up, I think,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1680.385,
+      "endTime": 1708.314,
+      "text": "in a world where you either make a kind of act of faith that you believe a source and then you're going all in on it and that will have its own issues around you know, polarizing and echo chambers or you're going to have to either believe things that you see for yourself or just that you take that leap of faith that you're going to trust and believe, because if you keep searching the information, you end up in a kind of spiral that just everything contradicts itself and then you just don't know what to believe. And that's kind of where I've been for several months now.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1708.916,
+      "endTime": 1711.514,
+      "text": "Yeah, but I think with big things, I mean, I think I do, I agree,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1716.965,
+      "endTime": 1751.462,
+      "text": "I think with big things like elections, there are debates, there are things that are like published on the and I know you said you don't trust mainstream media, but I feel like there is, you know, when they're publishing videos, when they're when they're publishing live, you know live reports, things like that, and potentially debates and things like that like there are sources that you can go to which you can trust. Now, I mean, I don't know in the future if that's going to change, um, but there are sources you can go to that you can trust, I think. And, as you said, the manifestos themselves, you know, I think, when it comes to elections, everybody should be looking at manifestos and and actually putting a bit of effort in.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1751.602,
+      "endTime": 1753.869,
+      "text": "In my opinion, um, that's what I would do.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1753.889,
+      "endTime": 1790.758,
+      "text": "I should probably just say, when I say I don't trust mainstream media, my point is that, not that I don't trust any. My point is that, as a, I don't trust mainstream media in general and therefore I have chosen my sources of mainstream media which are then creating an echo chamber for me. So I kind of you know I've created that and I understand that. I used to be very much like I used to read the Guardian website and then I'd go and look at the Daily Mail website or the Daily Express or you know, just to get an alternative view and just to kind of find somewhere in the middle. The problem is, it's so extreme now that you'd have to be all over the place.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1796.045,
+      "endTime": 1799.818,
+      "text": "There is one good thing, and we're not advertising it because we're not getting any money for it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1799.838,
+      "endTime": 1802.065,
+      "text": "You need to watch the Sabine Hoffelder or Hoffelder.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1802.085,
+      "endTime": 1838.472,
+      "text": "Hoffelder, something like that on YouTube. I mean, it's funny, we watch her all the time but can't remember her name. But she one of the sponsors that she has at the end of the show, is a sort of news website that you can click. You can kind of move this slider between right wing and left wing and it will show you the same story. Ground news, ground news yeah, oh, you know, okay, yeah, between right and left and you can look at the same story how it's being portrayed by right wing media and left wing media, and you can move the slider across. I think you need to subscribe and pay for it, which is why I haven't used it, but maybe, um, you know, maybe something like that is is the answer.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1838.873,
+      "endTime": 1857.259,
+      "text": "So, um, if you're listening and you work for that organization, then, um, get in touch and we'll, we'll have apologies to Sabine Hossenfelder for butchering your name. Yeah, but we both watch your videos quite a lot. We're both big fans. We just only knew your first name to sorry, sabine.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1858.119,
+      "endTime": 1872.345,
+      "text": "So, on that note, thank you very much, matt. I think we've had a, we've had a great episode. We wanted to keep this one fairly short as it's just a kind of quick update about this specific,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1891.785,
+      "endTime": 1930.349,
+      "text": "this specific documentary that we watched and kind of the impact of it. So, as always, we'll leave you with our song ciao Soon. I'll keep fake Far-reached AI made Trump bought Ari Biden's. Not real AI folks. Who's real AI folks? Can't feel Starmer glitch Truth switch. Boris AI clone let's use outlast trust AI folks.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1935.153,
+      "endTime": 1995.07,
+      "text": "Who's real AI folks? Can't feel Bush hologram, lincoln reborn, clinton's bites. Who to trust AI vote. Who's real AI vote. Can't feel who let at AI face Trudeau deep fake Napoleon's rise Digital disguise AI vote. Who's real AI vote Vote. Who's real AI vote. Can't see all",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1999.545,
+      "endTime": 2001.088,
+      "text": "AI vote. Stay woke.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2006.385,
+      "endTime": 2012.268,
+      "text": "Ai vote your choice. I vote the arts won.",
+      "chapterIndex": 5
+    }
+  ]
+}

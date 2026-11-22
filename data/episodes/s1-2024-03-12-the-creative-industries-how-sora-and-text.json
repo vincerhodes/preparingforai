@@ -1,0 +1,784 @@
+{
+  "slug": "s1-2024-03-12-the-creative-industries-how-sora-and-text",
+  "buzzsproutId": "14675798",
+  "title": "The Creative Industries: How Sora and text to video is redefining the creative landscape",
+  "date": "2024-03-12T13:00:00.000Z",
+  "season": 1,
+  "durationSec": 2650,
+  "format": "guest",
+  "era": "early",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/14675798-the-creative-industries-how-sora-and-text-to-video-is-redefining-the-creative-landscape.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Is it already the end of the road for CGI, animation studios and graphic designers? Join us for our first industry focussed episode as we scrutinize the latest awe-inspiring yet potentially unsettling advancements in artificial intelligence impacting the creative industries. Our latest episode peels back the curtain on Sora, OpenAI's newest marvel, capable of crafting lifelike videos from simple text prompts. We wrestle with the excitement and trepidation that such innovation stirs within the creative community, contemplating how the potential of AI can be balanced with the pressing ethical dilemmas it poses. As always we focus on AI's influence on job security, and how it is already reshaping the creative industry's landscape—from animation to graphic design. We discuss concrete examples such as the recent decison to put an $800m studio development on hold. We're candid about the challenges that lie ahead, particularly for the middle-tier professionals whose careers may be most vulnerable to AI's cost-effective solutions. Simultaneously, we extend a hand to guide you through the looming transformation, offering perspectives on how to embrace AI tools and adapt your career path in an industry on the brink of a revolution.",
+  "summary": "Episode two confronts Sora: both hosts are awed by text-to-video's leap from incoherent five-second clips to believable one-minute films, and Tyler Perry's $800m studio-expansion pause lands as a canary in the coal mine. They weigh democratized creativity against disinformation, conclude watermarking will fail against open source, and forecast prompt-to-feature-film within 12 months and creative-sector job losses within five years — advising creatives to familiarize themselves with the tools while planning several career pivots.",
+  "keyTalkingPoints": [
+    "Sora blew minds: from rough 5-second clips a year ago to cohesive, near-real one-minute video — roughly a 10x length gain per year",
+    "Tyler Perry put an $800m VFX studio investment on hold immediately after Sora — 'future jobs lost' and a canary in the mine",
+    "Democratization upside: anyone can create films and stories; downside: watermarks will not hold once open-source models catch up",
+    "Stable Diffusion now spells words correctly most of the time; transformers and diffusion models are different technologies converging on creative work",
+    "Writers' strike won a reprieve (ChatGPT restricted) but the hosts see layoffs arriving via drip, not announcement",
+    "Practical advice: upskill into the tools now, but treat that as a temporary bridge — expect to retrain several times"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Sora-level video democratizes creativity but supercharges disinformation — AI already lurks in YouTube comments and Twitter roasts",
+      "Tyler Perry's pause shows incumbents see the writing on the wall; full-length AI feature films arrive within 12 months",
+      "Job losses in creative sectors within five years, though not mass layoffs in the next 12 months",
+      "Stopping AI is not in the realms of reality — individuals must plan for how it affects them"
+    ],
+    "matt": [
+      "Initial reaction was 'wow, but so what' — until the job implications in effects, animation and VFX became clear",
+      "Digital watermarks are not a long-term solution; the 16-year-old with an open-source model circumvents them",
+      "Hand-made human art endures — he values his daughter's drawings more because of AI images",
+      "Expect no announcements: layoffs will come as unfilled positions and drip-drip opportunity loss"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-03-12-the-creative-industries-how-sora-and-text-1592.14-within-12-months-you-will-be-able-to-prompt-an-a",
+    "s1-2024-03-12-the-creative-industries-how-sora-and-text-1926.148-creative-sector-job-losses-are-coming-within-abo",
+    "s1-2024-03-12-the-creative-industries-how-sora-and-text-1054.966-tyler-perry-s-800m-studio-pause-shows-future-cre",
+    "s1-2024-03-12-the-creative-industries-how-sora-and-text-1159.909-slowing-or-stopping-ai-progress-is-off-the-cards"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 8,
+  "turnCount": 100,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 3
+    },
+    {
+      "title": "Sora, blown minds and the potential for abuse",
+      "startTime": 104
+    },
+    {
+      "title": "Creative industries and AI- Where we are now?",
+      "startTime": 833
+    },
+    {
+      "title": "The current impact of AI on Creative Industry jobs",
+      "startTime": 1050
+    },
+    {
+      "title": "Where are we heading?",
+      "startTime": 1553
+    },
+    {
+      "title": "Is this where the backlash begins?",
+      "startTime": 1854
+    },
+    {
+      "title": "Getting ready for the future (become a farmer?)",
+      "startTime": 2007
+    },
+    {
+      "title": "Extra! Extra! Stealth job cuts hot off the press!",
+      "startTime": 2345
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.285,
+      "endTime": 23.347,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effects of AI on jobs, one industry at a time. We dig deep into barriers to change the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human and social impacts of AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 27.7,
+      "endTime": 32.426,
+      "text": "Welcome back episode two of Preparing for AI. Jimmy, how are you feeling this week?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 33.36,
+      "endTime": 39.326,
+      "text": "I think I'm feeling equal parts doom and gloom and euphoric, which seems to be a good state to be in for this podcast.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.041,
+      "endTime": 89.593,
+      "text": "Yeah, I think that's about as good as we can hope in the current world, right? Yeah, definitely absolutely. So, just to remind everyone, we are Preparing for AI, so a new podcast that hopefully doing something a bit different about AI, talking about the human and social impacts of AI, with a focus on the impact on jobs, and this week is our first industry specific episode. So we're going to dig deep into the barriers to change the backlash that's coming and hopefully end up with some positive ideas for solutions and actions which individuals, organisations and society can take. So this is the creative industry and we decided to do this because obviously, openia announced, at least limitedly, sora and it's kind of blown the whole world's minds.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 89.633,
+      "endTime": 103.925,
+      "text": "I think the internet's gone crazy everywhere, from the US to China. And, yeah, I think maybe, jimmy, you can give us a bit of a view again on where we are at the moment and how the hell we got here.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 105.503,
+      "endTime": 146.071,
+      "text": "Yeah, so you're absolutely right. I think Sora has absolutely blown everyone's minds. For anyone who doesn't know what Sora is, I'd recommend doing a quick YouTube search and taking a look at some of the videos that you can. Well, not that you can, but the Open AI have been able to generate by literally typing in a text prompt. So you know, pirate ship in a cup of coffee, that kind of thing and the videos that it generates. They're not perfect, but given what we talked about last time and how quickly AI is evolving, you can easily see at the moment they can generate one minute videos that look very realistic.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 146.38,
+      "endTime": 197.986,
+      "text": "Video AI videos been pretty difficult to crack, but again, that's over the last year and Open AI have just come out and said you know we can now generate pretty much indistinguishable from reality videos that are one minute long and that are consistent. So that was one of the problems with AI video previously is you didn't have consistency over time, so things would shimmer and things would move about and wouldn't make sense. Words would disappear and reappear again. That's pretty much gone with this new iteration of text to video and, yeah, it's pretty incredible. The rate of change in AI just seems to keep getting quicker and quicker, and every week it's a new shock, it's a new surprise, it's something unexpected, and Sora definitely fits with that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 198.54,
+      "endTime": 253.511,
+      "text": "I've seen a lot of other people saying similar things than this, but my initial view was, yeah, wow, but what's the point? I mean and I don't mean that in terms of, yes, I understand that the technology behind it is actually what's amazing here it's not the one minute video but if you think of the positive outcomes of this particular thing so being able to generate video from text and you think about the negatives, the negatives massively outweigh the positives, right, I mean, there are so many, and I do understand as well there's a lot of rumours that actually that's why this has been put out there, because actually, openai we want to start that debate about, wow, think about all the kind of negatives and we talked in episode one about the industry's been talking about regulating itself.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 254.04,
+      "endTime": 290.35,
+      "text": "I know there's a lot of rumours that this is why this has been put out here, but listing the bad use of this deep fakes, post-truth worlds, manipulation of elections it goes on and on. And the positives is, someone can make a video of a cat jumping up and down on a bed. I mean, is this really what we need to be getting excited about? Is this the use of AI that we should all be getting so crazy and so into? Or is this just a? Is it a red herring? Is this not really the use of Sora or the technology behind Sora?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 290.831,
+      "endTime": 338.641,
+      "text": "Yeah, so there's a lot to unpack in everything you just said. I think that there's a couple of things there. So I think, obviously making unlimited amounts of cat videos not necessarily hugely useful, but on the positive side I mean, looking at the rate that AI has evolved, I can fully imagine being able to. In a year's time, maybe I can create my own version of Star Wars, which is just created from a prompt which is based on my imagination. Potentially, this applies to things like video games as well. So everything is going to be limited only by your imagination, potentially. So, in terms of the positives, I think there are loads of positives in the entertainment space.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 340.12,
+      "endTime": 347.68,
+      "text": "You're not going to be restricted to having to watch what you're being spoon fed by Disney or by whoever.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 348.863,
+      "endTime": 351.109,
+      "text": "No, you watch what you get spoon fed by the algorithm, right.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 352.2,
+      "endTime": 385.304,
+      "text": "Well, to a certain extent, yeah. I mean, we talked a little bit in the last episode about the fact that a lot of these models you're now getting open source models that are starting to compete with things like the open AI can produce in Facebook and Microsoft and Google, and I think that will continue. So actually I kind of disagree. I think ultimately, the censorship and the getting spoon fed by the algorithm thing, I don't think that's going to fly. I think you're going to be able to ultimately run an open source model and live in whatever fantasy you want to live in.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 386.623,
+      "endTime": 419.096,
+      "text": "I mean, maybe that's wrong. The algorithm's not creating the videos, right, but there's enough disinformation out there. How easy does it suddenly become to create more and more disinformation? And that that's you know. That's my fear is. Do we need more disinformation? We've got enough of it already now. We we're essentially talking about a tool that allows you to create anything. I mean, there's a post truth world and then there's a world in which you know you don't. I mean, is that where we end up? We do we don't believe anything unless we've seen it with our own eyes. And actually maybe we still don't believe it then, am I?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 419.236,
+      "endTime": 437.408,
+      "text": "am I getting carried away no, I don't think you're getting carried away. I already feel a little bit like that. I mean, we're talking about AI now, like this saw, is like the next evolution, the. You can already spread fake news on Facebook, on social media. In terms of like text, you can already do that, it's already been done we already know.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 437.428,
+      "endTime": 443.744,
+      "text": "You mean, there are bots out there. Yeah, not everything's real, exactly.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 444.185,
+      "endTime": 477.084,
+      "text": "I mean, it's it's this my woke moment. But it's basically, like it's known at this point right, that there was interference in the US election, in, you know, the last US election and I'm not saying Donald Trump, one wouldn't have got voted in if the Russians hadn't interfered, but it's been proven that they interfered legal disclaimer we don't know if they interfered. I think the FBI have proved that they interfered. Legal disclaimers aside, I mean you're absolutely right. So we are gonna be moving into a world where it's gonna become increasingly difficult to believe what you can see open AI with.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 477.144,
+      "endTime": 488.83,
+      "text": "If we're talking about Sora, specifically open AI, I've said they're gonna Put some kind of digital watermark in their videos so that you can pick up when you know you can. You can know that something's been made by AI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 489.375,
+      "endTime": 526.045,
+      "text": "But that's not gonna be a long term solution because, as I said, these open source models will get around that exactly, and you know, in every industry I guess that's one of the fears around the kind of regulation or deregulation is, we're relying on firms to put things in place. But actually and this is a complicated thing I guess it's a positive thing in here about AI, but the democratization of AI, the fact that it's been opened out to open source models there are. There are positives in there around that democratization of it, but there are negatives in there that you know. How do you control what the you know?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 526.165,
+      "endTime": 555.097,
+      "text": "And again it's a kind of stereotype. But the sixteen year old genius at home on his computer is Is creating. That's maybe more the fear. It's the technology rather than the organization Such. Once the technologies out there and it's democratize, then you know we don't know what people are doing, and that again comes back the point I'm making about abuse. Right, it's surely open the abuse and the open to abuse is surely more of a negative than the positive of. I can create my own Star Wars movie yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 555.138,
+      "endTime": 598.248,
+      "text": "so I agree, I don't know like I mean, maybe we're getting into a debate that's not necessarily the sort of subject to the podcast overall, but I've got like quite strong views about copyright and how copyrights been abused over the years and it's been extended and extended and extended and, like now, disney effectively of copyrighted everything they've ever done, pretty much forever. So I'm actually for the democratization of, you know, creativity and if you think about how many people out there have got a vision for something but they don't, they can't create it. Actually, on a positive side, I and these kind of video generation tools and image generation tools allow you to sort of unleash that creativity.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 598.308,
+      "endTime": 623.054,
+      "text": "For what about words? So I would say I would say, personally, that's a huge positive. I mean we'll talk about the impact on jobs in a little while, which obviously is a, you know, is an immediate concern and kind of the whole point of this podcast. But I genuinely think that I mean I've created images with AI, I've created images that I would never have been able to create without the help of a graphic designer or an artist or something like that, and it's it's really fun.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 623.876,
+      "endTime": 641.481,
+      "text": "I created a Christmas jumper with kebabs and fallen football club on it, so I'm all for being able to create images, but again it's I feel like I'm talking about. The positive side of this is there is less net positive than there is net negative from the ability of people to use this.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 641.801,
+      "endTime": 642.983,
+      "text": "I mean you know like everything.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 643.003,
+      "endTime": 653.609,
+      "text": "Actually, the problem is people, right, the problem is not the technology, the problem is people. But I feel like, again, me being able to do that doesn't make up for all the abuse that is potentially there.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 654.396,
+      "endTime": 693.499,
+      "text": "And that's where that's where I think, hopefully, this podcast will help if we get some viewers, listeners I think people absolutely. If you haven't educated yourself already on the need to fact check and question everything you see online, then you really need to start thinking about that. I mean, right now, everything that you read online certainly has a. There's a massive potential for that to be Manipulating you, to be someone's opinion to be incorrect. You know so. You either need to fact check everything or you just need to, to certain extent, take everything with a pinch of salt, and I think what you're talking about.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 693.539,
+      "endTime": 708.167,
+      "text": "The challenge is that that's going to be everything in the future, which I agree, so we just all go back to living in the forest right, I think you. Just I mean, do you, when you, when you see something online, do you always believe it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 709.636,
+      "endTime": 741.899,
+      "text": "So I would have said to you four years ago, five years ago, that I would have said I think I can, you know, work out what's what, but I, I, I think now I have no idea. And you know, I try and stay away from a lot of social media because One thing I I realize the algorithm, but I still get hooked in by it and I see the same people commenting, and then I see the same people commenting and I think, oh, maybe this is not everyone's opinion, actually this is just a small number of people, but like They've got 20,000 followers and that seems like a lot of people. But how many of those are real people?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 741.979,
+      "endTime": 776.921,
+      "text": "And you know, I think I don't believe everything I read, but I think it's. I find it difficult and I think I'm no longer able to, you know, think rationally and and see that stuff. And maybe in the future, with maybe actually it's kind of, in some ways, a kind of freedom, to say, hey, I actually now just can't believe anything. Maybe that's easier than I don't know what to believe because I can't believe anything we go back to almost like A leap of faith and deciding what I believe in and just following it, rather than being led by the information, because I think at the moment you're not know what you believe.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 776.981,
+      "endTime": 779.184,
+      "text": "It's the information that leads you and it's the algorithm.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 779.204,
+      "endTime": 814.473,
+      "text": "Actually, if you don't trust anything, then you almost more kind of more of a free will, I think at that point I actually think and I won't talk too much longer about this, but I actually think that this has been going on for a lot longer than recent times and the advent of the internet and social media. I think prior to that you had Newspapers with an agenda. You had TV channels with an agenda. Maybe it was more subtle. Now you've just got a situation where more people can have an agenda and more people can express themselves online and there's loads of negatives to it and all the rest of it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 814.594,
+      "endTime": 823.266,
+      "text": "But I don't think it's necessarily a recent thing. I think it's a recent epidemic. I don't necessarily think it's entirely a recent thing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 833.78,
+      "endTime": 854.44,
+      "text": "Okay, so let's let's have a look at we're talking about the creative industry today, so let's have a look at jobs and kind of where we are now and and what's already happened. So we're gonna look ahead, but I think, as we, as we have done last time, maybe, jimmy, you could talk us through. You know what's happened to this point and and and how we've got there.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 856.13,
+      "endTime": 894.284,
+      "text": "Yeah. So if we're talking about so, obviously we're talking about the creative industry. So the tools that came out in 2023 rapidly evolved. We had tools such as dali. We had mid journey, stable diffusion, which is a, the open source equivalent. They all evolved. I think mid journeys on version three now I think dali's on version three now probably version four was just around the corner and we went from you know, we went from, you know, to be honest, fairly cartoonish images where none of the words were spelled correctly, people had six fingers, things like that still can't spell the words right.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 894.885,
+      "endTime": 896.146,
+      "text": "That I mean that kind of amazes me.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 897.571,
+      "endTime": 931.499,
+      "text": "Well, the latest version of stable diffusion just dropped and actually it gets words correct most of the time, I think more of the time. Now I think it's a problem that we're going to see going away. I mean, if you want to get into kind of how the models work, then there's reason behind why these image models don't really like, find it hard to Spell things correctly and have the correct number of large language models are looking at text on and they're predicting what would come next, whereas the image model is not.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 932.04,
+      "endTime": 965.303,
+      "text": "It doesn't contain, it's a separate thing. It doesn't contain the same technology. So just because the chat gpt spit out text In a correct way doesn't mean that image creation is can, because they're completely different things and maybe that you know there's a combination at some point. But I guess it just it's one of the things that makes people think, oh well, hey, this is not going to make Change, because it can't even spell, like you can even spell kebab on my christmas jumper, you know. But that that's almost a bit of a red herring here, because it's not that the technology doesn't exist, it's just that this is a different.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 965.323,
+      "endTime": 970.449,
+      "text": "You, you, you, you, you, you. You. Piece of tech, right, it's a different kind of AI yeah, exactly so.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 970.909,
+      "endTime": 1012.344,
+      "text": "One's based on transform models, which is kind of your large language models, and diffusion models are completely different type of model, which are used for creating images and creating videos, which is kind of the recent development. But Ultimately it's as you say, it's a red herring, because what you'll get is a load of people jumping on it, being like I can't spell things correctly is someone's got six fingers, whatever. If you look at the evolution of it, clearly all that stuff is going to go away and probably go away fairly quickly, and Sora is kind of the ultimate realization of that. If you get chance to look up Sora and check out some of the videos, I definitely recommend doing it again.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1012.404,
+      "endTime": 1038.581,
+      "text": "Not 100% perfect, but If you look at where we've come, I think there's some good videos on online which show where we've come from with this the will Smith video, the famous will Smith Smith eating spaghetti video. That was like early 2023, I believe, compared to where we are now, and it's really easy to see the trajectory of it, and it's going to be videos and images that are indistinguishable from reality.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1049.678,
+      "endTime": 1052.962,
+      "text": "So what jobs have been affected to this point?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1054.966,
+      "endTime": 1102.198,
+      "text": "You've got the recent. The most recent one is literally off the back of Sora. So Tyler Perry put an 800 million dollar investment on hold Literally right after Sora came out, and that's that was an investment in a visual effects kind of studio that was going to be doing exactly this kind of work. So they're not necessarily jobs lost, but it's kind of future jobs lost, right, and he's he's done that because he can see where this is going. And you're seeing other similar kind of things. You know you had the it's a slightly different industry, but you had the right to strike last year in which they they actually fairly successfully managed to get Manage to agree that chat GPT would not basically take their jobs.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1103.509,
+      "endTime": 1142.025,
+      "text": "But the point is the current version is like maybe not quite there, but in the future. We're talking about graphic designers, we're talking about video game developers, we're talking about any anyone who works in that. You know creative industry, animation studios, presumably animation studios, absolutely you know. So it's a it's a potentially a huge number of jobs that could be impacted and I think you know a lot of those in a lot of those industries. You're hearing rumblings now and hearing like starting to see some extreme dissatisfaction with the current progress that AI is making. You mean that it's too quick.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1145.393,
+      "endTime": 1156.125,
+      "text": "I just mean that people can see the writing on the wall. I think that people can see that this is something that threatens their job, basically, I mean, you know we're going to talk a little bit later on how you can prepare for that and some of the things you can do, but",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1159.909,
+      "endTime": 1193.691,
+      "text": "Ultimately, I think at this point slowing down the progress is probably off the cards or out of the question. So we're going to have to look at what you know, what kind of government governments can do to intervene, what kind of things that you can do, to have a think about how this is going to affect you and how you can plan for that. But I think stopping AI at the moment is probably not really in the realms of reality, but we've not seen mass layoffs of you know, from animation studio, so you know Pixar, for example.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1193.732,
+      "endTime": 1207.58,
+      "text": "We've not seen announcements, right, we haven't seen at this point, we haven't seen Large layoffs in those industries like we have. We have seen that in the tech industry, right, but we haven't seen it in in the creative industry yet. It's more that we, it's more about the direction of travel.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1207.62,
+      "endTime": 1236,
+      "text": "right, it's the direction of travel. I don't think you've seen mass layoffs. I think what again, like what's probably been happening under you know in stealth a little bit is I would imagine that people who need to design a logo for their company, maybe if it doesn't include text, but people who are designing a logo for their company, are they now going and paying a graphic designer or are they typing something into chat, gpt and going? That will do.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1237.106,
+      "endTime": 1267.599,
+      "text": "Yeah, and I mean that yeah, I think that movement happened sometime ago. I mean, I run a kids baseball team and I designed my logo Last year, maybe September, and I didn't use AI as such. I didn't know I was using AI such, but I was using, you know, I was using image software that now I realized was basically AI. So yeah, that's that. That happened without even knowing it, I guess yeah, exactly I've.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1268.1,
+      "endTime": 1278.825,
+      "text": "I've created logos for things I mean I'm not doing anything of like you know, super high importance, but you can guarantee that companies are already looking into this? If not, if not using it already, if not, you know, applying it. And",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1282.289,
+      "endTime": 1294.025,
+      "text": "I think, as we discussed last time, I think most of the layoffs initially will be, especially right now, will be by stealth where it's. You know, the reason that's given is not necessarily AI, but are those jobs ever going to come back again?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1297.39,
+      "endTime": 1306.025,
+      "text": "Well, I mean, we, we chose this industry for the first episode one because, you know, sora in particular is just that, that's the big thing in the news, but also because this is one of the industries where I think you can",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1309.309,
+      "endTime": 1340.757,
+      "text": "Clearly see the path ahead, right? So, in some industries, you know, you know that AI is coming, but maybe it's more difficult to work out. And if we're looking, you know more Manufacturing, engineering industry, where it requires robotics and there's a longer kind of glide path into that, whereas this, like you say, you can see that if, if so, can create A one minute short, surely it will soon be able to create a 10 minute short, right? Which is the death of, you know, all CGI animated cartoons, right?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1340.897,
+      "endTime": 1368.785,
+      "text": "I mean, that's, that's, that's where we're headed in the next year surely, absolutely, and I think that's why what would you call that 800 million dollar investment been postponed a canary in the mine by Tyler Perry? He's only postponed it. Yeah, he's okay, he's only postponed it. But I mean, what does like? What does that really mean? Is that 800 million million dollar investment going to come back?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1370.909,
+      "endTime": 1379.125,
+      "text": "Well, I mean, if it's in a, you know, if it's in a studio to do anything that involves effects and animation, then surely not. And unless everything goes, you know,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1382.37,
+      "endTime": 1411.616,
+      "text": "everything goes to it's up and the whole thing falls apart, which seems unlikely, I guess one thing we should say this point is sore is only being tested by some developers and a certain kind of number of it's not regulated but people who are testing the safety of it, so it's not out there as a tool yet. I mean that doesn't give much hope for the future. But I think that's an important point is this technology exists but it's not out there in the In the kind of public domain at the moment.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1412.882,
+      "endTime": 1458.93,
+      "text": "Does that matter. I don't think so I think, the right. I think, as I said before, the writings on the wall, like we've the rate of pace of change we've seen in 2023, means that by the end of 2024, 100% you're going to have open source models that can do similar stuff to what open AI can do right now. You're going to see sorrow, at least, maybe even a limited way to the public. You're going to see the next evolution of this Stable diffusion just announced. After you know, almost straight after the open AI announcement about SORA, stable diffusion announced that their new model can generate video in a more coherent, cohesive manner, in a similar way to open AI.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1458.97,
+      "endTime": 1494.023,
+      "text": "Now they hinted at the fact that it's going to require huge computing resources and they don't have the same kind of resources. Open AI, but the rate and the pace of change and it's not just again, like it's not just the you know the chips are getting better and cheaper. The algorithms are getting better and cheaper. The you know everything's getting more efficient, easier People are coming up. I mean, ai is still not peaked in terms of like the algorithms and the models that they're developing, so the next version of the model is even more efficient, aren't we?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1494.063,
+      "endTime": 1507.401,
+      "text": "in a world of chip shortage, because you know we kept hearing about lack of chips for electric cars and you know holding back hardware, so doesn't that hold things up at some point?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1508.523,
+      "endTime": 1541.481,
+      "text": "I think it does hold things up. But I think the chip shortage to a large part, well one. The chip shortage for a large part is kind of passed now. And also you know the amount of investment in AI is unbelievable, the scale that the industry and the investment is growing. We talked last time about the Sam Altman seeking $7 trillion. If he even gets half or a quarter of that, you know you're talking about trillions of dollars been invested in the industry.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1552.834,
+      "endTime": 1591.07,
+      "text": "So I guess we've started talking about where we're heading, but at the moment we're only really talking about short video and animation. We're talking about graphic design, but you know what we're not talking about. Are we talking here about? Is this replacing TV? Do we still have actors? You talked about the screenwriters in Hollywood. I mean, do we still have scripts written by people? Surely, ai can write those scripts. But you know what else are we heading for? It's difficult to look ahead, really, more than a year or two, but you know where do you think we're going to be in 12 months time?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1592.14,
+      "endTime": 1618.642,
+      "text": "In 12 months time. I wouldn't be surprised if you can put a prompt into an AI and basically watch a full length feature film. Now it may not be great, it's not, may not be Oscar award winning, but it will potentially be a feature film that's come out of your own imagination. That's where I think we'll be in 12 months time. Honestly, we've gone from. We've gone from not sure.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1618.662,
+      "endTime": 1620.667,
+      "text": "I want to see a film that came out of your imagination.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1622.9,
+      "endTime": 1659.689,
+      "text": "Well, you can watch one that's come out of my imagination. In 12 months time We've gone from one year ago been able to make very rough five second videos that are completely incoherent in terms of like they're not cohesive, to a year later been able to make a one minute video. So that's like what? Nearly 10 times longer. That is completely cohesive and you know, if you weren't looking really closely you would believe was a real video. So, honestly, do I think we'll get to an hour in a year's time probably?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1661.344,
+      "endTime": 1701.168,
+      "text": "And what does that mean? Because we're talking about the effects on jobs. I mean, is it the end of, it's not the end of actors, right? I mean we don't. We don't want to watch everything AI generated. Surely there's still a world in which we want to see real people and theater and live performances. I mean it's not. It's not just particularly with the arts, right? It's not just about what you see, it's also about the fact that someone has created that piece of art for older generations anyway, maybe for the younger generation not going to care, but for older generations. I guess what I'm saying is I still see a world for real.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1701.435,
+      "endTime": 1714.944,
+      "text": "You know documentaries and and things that are made. I guess documentaries maybe CGI, but things that are filmed live as well, but maybe that's only the kind of top end of the market.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1716.4,
+      "endTime": 1775.566,
+      "text": "I don't know. I mean, you're talking about the sort of human aspect of these kinds of things, and I agree to a certain extent. In a world where AI art is everywhere, then what's the value of that art Then? Yes, I agree, but your point about it being only the top end is also important. So, if we want to come to, if we want to talk a little bit more about jobs, you know your artists you're like, you know your world renowned artists, your banksies, people like that they're never going to get replaced, but there's we're probably not worried about the banksies of the world and you know it's, it's, it's the, it's the kind of middle ground which is all of your graphic designers, all of your visual effects designers, all of your you know game designers who are designing like digital assets for games and digital worlds and things like that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1776.548,
+      "endTime": 1784.947,
+      "text": "Marketing, you know in a video game. Is anyone going to care whether an artist created the rock that you're walking past?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1785.661,
+      "endTime": 1788.991,
+      "text": "And in a marketing campaign. I don't care who created that one commercial or.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1791.164,
+      "endTime": 1810.534,
+      "text": "Yeah, exactly, the commercial world's not going to care if it looks good enough. If you're rendition of a Coke can or whatever, you know your rendition of a car or whatever it is, if it, if it, if it looks accurate and works, then you know you're going to pay open AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1811.14,
+      "endTime": 1819.472,
+      "text": "Well, I guess we're not going to know, are we? Because if it's that accurate, maybe we're already looking at adverts of AI generated Coke cans.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1820.141,
+      "endTime": 1821.102,
+      "text": "Very, I don't think I'm.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1821.784,
+      "endTime": 1826.352,
+      "text": "I don't think that's my, my primary concern, but yeah exactly.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1827.48,
+      "endTime": 1843.722,
+      "text": "The fact of the matter is, ai is going to do it cheaper. It's going to do it 24 hours a day and all the rest of it and it's the. I think on this podcast we're sort of concerned with the, you know, the mass job market. Rather than you know, you're kind of Tom Cruise's of the world and your banksies.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1854.66,
+      "endTime": 1895.813,
+      "text": "We talked in the introduction about a backlash and you know, it's the point that I guess I probably will come to a lot, because it's what I expect and fear and and it's it's what I think will be. You know, the kind of big uprising, the thing that brings it to everybody's attention and you talked before about the strikes that went on previously. I mean, you know, on that kind of basis, is this where the first Social unrest and protests and upheaval and whatever that looks like? Is this where it comes from? Because it feels like this is the industry and tech, but tech kind of can't protest because this is where the you know tech's, where the jobs are going, but they're also where the AI jobs are coming.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1895.925,
+      "endTime": 1904.751,
+      "text": "So this feels like the first industry that really is kind of you can see the end for a lot of people. Is this where this kind of backlash starts?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1906.688,
+      "endTime": 1922.856,
+      "text": "I think so, potentially. I think you know I mean, the writers in the US have a really great union, so they're able to make changes in their industry. I'm not sure how long that will last. I'm not sure if that's the case with the creative industry,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1926.148,
+      "endTime": 1974.975,
+      "text": "but yeah, I think you're going to see job losses in this kind of sector in the next maybe not 12 months. I think the technology still needs to mature. If you're looking to five years down the road, then absolutely, and I would definitely keep an eye on the pace of evolution of this kind of technology. And that's one of the things that I would say is we sort of touched on it last episode. But familiarize yourself with these AI tools because as a creative, you still have those creative ideas, you still have those creative visions. You know, maybe in the future you're not necessarily literally drawing something by hand or on a computer, maybe it's AI assisted.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1975.477,
+      "endTime": 1996.214,
+      "text": "But not everyone has that creative capacity and you still need to be able to tell a cohesive story, and I don't think AI is very good at that yet and I'm not sure it will ever surpass humans in a way, like you still need to put your own creative input into chat, gpt or mid journey or Sora. It doesn't do anything unless you ask it to.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2006.749,
+      "endTime": 2035.074,
+      "text": "Okay, so shall we look at what people can do to get ready? I guess we're talking about people in those creative industries. I mean, if you're listening to this and you're in that industry and you presumably now a doomer and you're only thinking the worst, I mean, what can people do? What can they start? Or maybe that's just start using AI tools, or is it just go and get a job in another industry or retrain?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2036.647,
+      "endTime": 2038.873,
+      "text": "Probably start learning to farm, I think.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2039.925,
+      "endTime": 2051.873,
+      "text": "Yeah, well, yeah, maybe I mean that does seem like the farmers are protesting at the moment. It seems like it should be an industry that's safe, but it seems like an industry that's got its own problems.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2053.366,
+      "endTime": 2097.575,
+      "text": "In all seriousness, I would be. I mean, we talked about it a little bit last time. I think, honestly, I think, if AI is going to come for your job, then have a think about what it is that motivates you in life. Like, if you want to stay in the industry that you're in, then I would recommend, honestly, I'd recommend upskilling in the use of AI tools, as you said last time, not necessarily becoming an AI engineer or something like that. I'm talking about what I talked about a few minutes ago, about learning how to apply these tools in your industry. I think in the short term, maybe even the medium term, that's something that you can learn to apply.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2098.086,
+      "endTime": 2132.193,
+      "text": "If you're an artist that likes drawing and likes putting pen to paper or putting brush to paper, then probably, honestly, you're going to have to lean on AI, at least for some kind of support, and maybe there's kind of a blended approach where you work with AI but then you put the final touches on something. But I think, with the speed at which AI can produce these kind of images and videos and obviously the cost advantage it has, then if you want to stay in that industry, I think you need to learn how to use these tools.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2133.386,
+      "endTime": 2165.016,
+      "text": "So basically, upskilling in AI is a kind of temporary step. Right, it's a way in which people, or some people, will be able to keep their jobs for a period of time. But what we're saying is, if you want to be creative, you probably need to find new ways to be creative, and maybe even those other ways are going to be taken up by AI, but maybe not quite in the way of this industry, because it's going to happen here quicker and it's going to happen here in a way that is unstoppable.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2165.985,
+      "endTime": 2210.554,
+      "text": "I think we talked last episode. So if we want to be honest here and I think we want to be honest long-term AI is probably going to do everything. And if we get some way or on the way to that utopia that we talked about last episode, where you don't have to work as much and necessarily work for a living, then ultimately if you're hobby, if what you hobby is the wrong word, but if what you enjoy doing, if you enjoy your job and you're in the creative industry, then you're still going to be able to do that. You're not necessarily going to have to do it to earn money in the long term, but you're still going to be able to do it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2212.511,
+      "endTime": 2220.608,
+      "text": "It's a change in mindset to come around to the idea that you don't need to do what you enjoy doing for money anymore. You can just do it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2221.925,
+      "endTime": 2223.591,
+      "text": "But you still need money for now.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2225.045,
+      "endTime": 2236.336,
+      "text": "Yeah, and that's where I think that short term. I genuinely think the short term thinking is look at how you can use and apply AI in the industry that you're in.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2237.447,
+      "endTime": 2276.905,
+      "text": "Maybe there's a really kind of key message in there that any advice that we or anybody else can give because we're not experts, we have an opinion on this but any advice that anybody can give is going to get you through the short to medium term, because we don't know the long term. If the long term is what we think it is, then it's a world that looks so different that we can't contemplate it now. I can't contemplate what my kids'lives will look like or careers will look like. I can't contemplate the world in 15, 20 years time. So maybe the advice is look ahead two, three, four, five years and find a pathway there and be willing to be flexible again.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2277.549,
+      "endTime": 2300.571,
+      "text": "It might not be about changing or retraining once. It's upskilling training, changing several times. That's a tough message, but that's the reality of where we are. The pace of change is exponential and it's not going to just change once in most people's work in life. So embrace those tools, but have a plan for a couple of years for now and see where that leads us.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2301.945,
+      "endTime": 2307.611,
+      "text": "Yeah, and obviously listen to the podcast because we're going to keep up to speed and keep you up to speed on the latest developments.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2309.448,
+      "endTime": 2350.914,
+      "text": "Thanks, jimmy. I think that Maybe it's time to call it a wrap. Next episode we'll be coming at you with white collar office work, so we're gonna look a bit more broadly but look at the kind of generalist jobs, the kind of jobs that I've always done, and how those jobs are already being impacted, and the kind of tools that you can apply in those, hopefully to keep yourself relevant, and look at how that's gonna change in the future. So have a good week, everybody, and we'll see you next time. See you next time. Hi everyone, this is Matt from the Future, or at least it's the Future compared to when we recorded this.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2351.005,
+      "endTime": 2396.671,
+      "text": "I guess it's the past for when you're listening to it. So since we recorded the podcast, we've noticed actually a lot of things starting to come into the media about jobs being cut by stealth, so we thought we would add this little bit on and just bring you up to date on a couple of stories that we've seen out there. So the first one is by Brian Marchant in the LA Times, and there's an article highlighting what I would call pretty nuanced perspective on the impact of AI on employment and particularly, as we discussed in this episode, on creative industries. So the suggestion here is that the introduction of AI into the workforce is, as we said, likely to result in a gradual reduction in job opportunities, rather than the kind of abrupt, large-scale layoffs that we would expect to see in the media.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2397.626,
+      "endTime": 2450.394,
+      "text": "So this has been exemplified, actually, by the experience of freelancers such as and there's a great example in there, a veteran freelance illustrator who's just noticed a significant drop in work this year due to the adoption of AI image technology, and companies looking to start cutting costs. So the trend that we're seeing, as we said, indicates the effect of AI on jobs might not be as overt as the replacement of human roles as robots, as people maybe thought years ago, but instead it's manifesting itself with a slow decline in available work. So, therefore, you can easily see AI being used by executives and managers to help gin up investment in future-forward products that require less labor costs, to buffer layoffs or to start attrition in HR departments and then to hire less part-time, zero-hours contract or project-based workers.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2450.925,
+      "endTime": 2490.332,
+      "text": "So the article basically what it tells us. Really, there's no job apocalypse coming, at least not in the immediate future, but this is a series of managers making the calls that they think will benefit their bottom line and serve their boards, which I guess, in the world that we live in of shareholders, is what they're supposed to do AI or not? The second story and this has been largely covered, for example, on the BBC website was a story that came up the day after we recorded about Electronic Arts EA cancelling their Star Wars first-person shooter game and laying off about 670 employees globally, which is 5% of their workforce.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2491.005,
+      "endTime": 2530.794,
+      "text": "So they've put this down to streamlining efforts to focus on, as they say, deeper, more connected experiences amid a wave of job cuts in the industry and these layoffs and project cancellations. I guess they reflect the industry's challenge in obtaining funding for new studios and retaining talent. But the thing here is that the cancellation of this game, although it's part of a strategy to prioritize projects that align with player interests and market trends, and part of a broader industry of layoffs so you've seen Microsoft and Sony as well in the gaming industry start to make cuts and they don't mention AI the industry, the gaming industry, continues to grow.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2531.645,
+      "endTime": 2574.333,
+      "text": "It's forecasted to continue growing least up until 2030. It's already bigger than the music industry. It's already bigger than the movie industry. So this is an enormous industry. If it's purely economic effects, then there's no reason to cut jobs. All this talk about better player experiences, more tailored experiences, things that fit with what people want this is all code for AI, right? This technology, technological advances that are making games more customizable those are driven by artificial intelligence. So maybe I'm giving too much credit, but maybe some of the executives don't even necessarily realize how much AI is impacting.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2574.545,
+      "endTime": 2609.867,
+      "text": "But our view definitely, if you look at these examples is, even when AI is not the reason for the cuts, it's at least part of the reason, and one of these examples is direct cuts. One of it is more about work drying up and there being less work out there, because people are able to maybe do some of it themselves, because there are more efficiencies. But make no mistake, this is where we're seeing the initial change, and I just love that quote about how there's no kind of apocalypse, because I think, well, there may be an apocalypse coming at some point, but in terms of a job apocalypse, this is not it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2610.669,
+      "endTime": 2620.332,
+      "text": "It's just this drip, drip, drip as positions and opportunities start to dry up. Thanks for listening everyone. See you all hopefully next week. Adios,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2633.775,
+      "endTime": 2634.715,
+      "text": "much bigger story you.",
+      "chapterIndex": 7
+    }
+  ]
+}

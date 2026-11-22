@@ -1,0 +1,1672 @@
+{
+  "slug": "s2-2025-03-11-llm-standoff-jimmy-and-matt-breakdown-the",
+  "buzzsproutId": "16772117",
+  "title": "LLM STANDOFF: Jimmy and Matt breakdown the (current) Leading AI Chatbots",
+  "date": "2025-03-11T14:00:00.000Z",
+  "season": 2,
+  "durationSec": 5370,
+  "format": "deep-dive",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16772117-llm-standoff-jimmy-and-matt-breakdown-the-current-leading-ai-chatbots.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail The AI landscape is evolving weekly, with powerhouse models competing for dominance and your attention. But which one truly deserves a place in your workflow? We cut through the hype to deliver a practical guide to today's most capable AI systems. Elon Musk's Grok 3 emerges as the scientific powerhouse with real-time data synthesis through X integration, offering rapid analysis for STEM professionals but occasionally stirring controversy with its more permissive approach to content generation. Meanwhile, ChatGPT maintains its position as the reliable workhorse, excelling in methodical problem-solving with its o1 version while offering the multimodal capabilities and familiar interface that many users have come to trust. The conversation takes an exciting turn when exploring Claude Sonic 3.7, Anthropic's \"hybrid model\" that intelligently determines when to apply deep reasoning. We were genuinely amazed by its seemingly unlimited output capacity and natural conversational style, though it still lacks web search functionality that competitors offer. This leads us to Perplexity, the research specialist that minimizes hallucinations through rigorous source verification – approaching master's level analysis for academic work while maintaining an elegantly simple interface. Google's Gemini might be the sleeping giant in this race, with exceptional multimodal processing capabilities being steadily integrated across the company's vast ecosystem. For users already embedded in Google's services, this seamless AI assistance could become increasingly valuable without requiring any additional adoption effort. And of course there is DeepSeek, the model that shook things up at the beginning of the year, but is it still a contender? What becomes clear throughout our discussion is that choosing between models is becoming less about technical superiority and more about finding the interface and specialized capabilities that align with your specific needs. The differences in personality, conversational style, and areas of excellence make each model uniquely suited to different users and use cases. Whether you're a researcher seeking factual accuracy, a creator needing a thoughtful brainstorming partner, or a professional looking for rapid analysis of current events, there's now an AI model tailored to your requirements. We'd love to hear which one you've found most valuable in your work – join the conversation and share your experiences!",
+  "summary": "A practical, rapidly-outdated field guide to the leading chatbots as of late February 2025. Grok 3 tops LM Arena with real-time X data and the fewest guardrails (and briefly censored answers naming Musk and Trump the biggest disinformation spreaders); ChatGPT's o1 is the deliberate multimodal default; Claude Sonnet 3.7 is the writing and coding champion; DeepSeek R1 is the free reasoning challenger; Gemini integrates everything; and Perplexity is the best research tool on the market with a Comet browser coming. Honorable mentions: Groq and Tian Gong.",
+  "keyTalkingPoints": [
+    "Grok 3: best on LM Arena, trained on the biggest GPU cluster ever used, real-time X firehose, generates images of real people; briefly censored after naming Musk and Trump top disinformation spreaders - blamed on a newly hired ex-OpenAI employee",
+    "xAI only launched a year ago - the hypothesis is their compute and trajectory could make them number one, and Elon's polarisation will rub off on the model",
+    "ChatGPT: deliberate reasoning, huge model-selector sprawl (o1, o3 mini, 4o, 4.5), best multimodal generalist; GPT-5 promised as one unified model",
+    "Claude Sonnet 3.7: best natural writing, artifacts, best-in-class coding, the hosts' daily driver; Jimmy begs Anthropic for chat folder structures",
+    "DeepSeek R1: free, frontier-class, exposes its full chain of thought; Perplexity hosts an uncensored California-based version with no search restrictions",
+    "Perplexity: laser-focused on search - free deep research at bachelor/master level (OpenAI's paid tier is beginner-PhD), source filtering, voice chat, and a minimalist Comet browser that could 'blow search out of the water'"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Claude is the best writing and coding companion but lacks search - a Perplexity-plus-Claude-plus-Midjourney combo would be a match made in heaven",
+      "DeepSeek exposing its full reasoning is more useful and more interesting than OpenAI's hidden summaries",
+      "For everyday questions nobody needs the single 'best' model - speed and fit matter more"
+    ],
+    "matt": [
+      "Grok 3 is the best model for heavy X/Twitter users who need real-time information, if you can stomach Elon",
+      "xAI's one-year trajectory and compute hoard mean they could plausibly have the best models going forward",
+      "Perplexity is the best research and search tool available; the Comet browser could blow current search out of the water"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-03-11-llm-standoff-jimmy-and-matt-breakdown-the-586-based-on-trajectory-and-compute-xai-grok-is-pote",
+    "s2-2025-03-11-llm-standoff-jimmy-and-matt-breakdown-the-1156.6-gpt-5-will-be-a-single-unified-model-that-decide"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 7,
+  "turnCount": 228,
+  "chapters": [
+    {
+      "title": "Introduction to Preparing for AI",
+      "startTime": 0
+    },
+    {
+      "title": "Exploring Grok 3: Elon Musk's Controversial Model",
+      "startTime": 215
+    },
+    {
+      "title": "ChatGPT: The Deliberate Thinker",
+      "startTime": 1295
+    },
+    {
+      "title": "Claude Sonic 3.7: Reasoning and Personal Touch",
+      "startTime": 1913
+    },
+    {
+      "title": "Deep Seek: The Chinese Challenger",
+      "startTime": 3516
+    },
+    {
+      "title": "Google Gemini and Perplexity",
+      "startTime": 4020
+    },
+    {
+      "title": "Honorable Mentions and Closing Thoughts",
+      "startTime": 4903
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 26.314,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI, governance and alignment. Urgent need for safe development of AI, governance and alignment. I can see you in the morning,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 32.62,
+      "endTime": 52.836,
+      "text": "I can see you in the stars at night, everywhere from the little miracles to the big, beautiful and bright. Welcome to Preparing for AI with me, horace Stevenson II, and me, adrian Mole. Adrian Mole, wow, you are, I mean like episode after episode. You are for people of our age, which we believe is most of our listeners. You're certainly bringing back some nostalgia.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 54.32,
+      "endTime": 57.65,
+      "text": "Yeah, well, I hadn't thought about it and that's just what came out.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 58.42,
+      "endTime": 93.55,
+      "text": "Yeah, I hadn't thought about it either, so what came out for me was just complete nonsense. So I'm sorry, I forgot. I thought of the song, but I forgot to think of that. Anyway, yeah, welcome to Preparing for AI. And this week we're going to have a hopefully sort of practical, helpful episode, aren't we, jimmy? We're going to talk about what we think are the six or seven. We're going to have probably some honorable mentions, but most, uh, useful, most important large language models, and we're going to try and talk through the kind of relative strengths of each of them. I think we should probably caveat by giving the date.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 93.69,
+      "endTime": 109.05,
+      "text": "It's the 27th of february, because by the time you listen to this, uh, whatever we say will probably be obsolete, based on the, the rate at which they're releasing models at the moment yeah, I mean I was, um, I was thinking a little bit about this before the episode either.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 109.231,
+      "endTime": 141.988,
+      "text": "I mean, I guess for regular listeners of the podcast they'll have heard some of these names before. But feels like one of those things where, if you come into the podcast afresh, you might have only heard of chat gpt. I know, like a lot of people, um, it's not like you're aware or up to date, keeping up to date with like all of the different models available, so might be quite a nice, um little introduction into what's out there if, um, all you've heard of is kind of chat gpt or your only experience is using google or bing ai through the sort of search engine exactly.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 142.048,
+      "endTime": 187.172,
+      "text": "You've just mentioned bing ai, which is one of the models that we're not going to talk about. Um, I mean, we could, I guess, like when we plan this episode yeah, I mean, when we plan this episode, we we thought of sort of various models and then we thought we could be sat here for two hours, so we've tried to to limit it to what we think are the kind of the most state-of-the-art, cutting-edge models, but also ones which kind of have their own personality. So I think there are other models out there that we're not going to talk about, and the reason for that is not because they're not good models and you shouldn't use them, but just because there wasn't anything particularly special in terms of strengths of them, whereas the models that we've picked I mean, they probably are the most kind of well of well known, but also they have their own relative strengths.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 188.263,
+      "endTime": 214.408,
+      "text": "So we're going to start off with I guess it may be in some ways like the most controversial model. So this is grok 3, which is grok, elon musk's grok, which is grok with a k, I think. Okay, um, but it's the elon musk one that is run by xai rather than grok with a q. Which little teaser here.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 214.429,
+      "endTime": 222.971,
+      "text": "We may, uh, give an honorable mention at the end yeah, so do you want me to start, or are you?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 222.991,
+      "endTime": 226.358,
+      "text": "good, go on, then you start well, why?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 226.458,
+      "endTime": 227.741,
+      "text": "why is it controversial, matt?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 229.724,
+      "endTime": 271.86,
+      "text": "well, it's controversial because it's owned by elon musk and uh, well, actually, as as you've handed back to me, let me give my my sort of very, very short summary. So before this episode, I used perplexity's deep research tool, which we'll talk about in a minute, to write me a report, um, with references that basically analyzed the models that we're looking at and kind of gave us a kind of strengths and weaknesses. So I'll give you the the sort of very quick summary and then we'll talk about and why it's controversial. So grok3 excels in scientific reasoning and real-time data synthesis via x, twitter I want to call it twitter integration offering rapid, accurate technical solutions.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 272.461,
+      "endTime": 315.625,
+      "text": "Its weaknesses include limited creative flair and coherence in long form content, ideal for stem professionals and journalists needing current event analysis, but less suited for narrative writing or artistic endeavors. It falters on content exceeding 10 pages and the title it gave it was Grok 3, the scientific powerhouse with real-time agility. So I'll just I'll say beforehand back to you why it's controversial is because it's owned by Elon Musk and it's full of all the cesspool of information that is on Twitter or X and that is part of not just its training data, but it has searchability, so it's able to pull in all that data, which is depending on who you are, is a massive strength or an absolute weakness and reason not to use it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 317.081,
+      "endTime": 319.492,
+      "text": "Did they stick 4chan in there as well, for good measure?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 320.898,
+      "endTime": 337.014,
+      "text": "Possibly. I mean, like maybe that's owned by X now as well. I don't know what 4chan is, jimmy, and neither do our listeners, and when they look it up, they'll have a very different view of you um, probably yeah well of me yeah, don't look it up on my behalf.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 337.054,
+      "endTime": 344.57,
+      "text": "Like I do not condone anything that's on 4chan, I'm just aware of it and that it's the source of all memes. I'm pretty sure Elon Musk's on there somewhere.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 351.2,
+      "endTime": 394.822,
+      "text": "But what I was going to say was well, first of all, quite funny, we can have a little comparison. So you were using this kind of underlines, what we're going to talk about in the episode. You were using perplexity with deep research to do your comparison. I just asked, claude, I was like, as of your knowledge cut off, which was October 2024, compare the available large language models and what they're best used for. Do a comparison side by side. It didn't even mention Grok, didn't bother, like not even Grok 2 or 2.5 or whatever, and I think one of the things that that shows is that since October 2024, actually Grok's risen to near, very near or at the top of um the llm leaderboards in in some, you know, in certain categories and all the rest of it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 394.842,
+      "endTime": 414.826,
+      "text": "To be honest, they're like outdoing each other every week. At the moment, one of the things that's been touted for, aside from the fact that they um trump has bought a massive data center with hundreds of thousands, I believe, of uh, the latest gpu do you mean elon musk, or do you mean trump? what did I?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 414.846,
+      "endTime": 422.063,
+      "text": "say trump I mean I think there's. This sums up, because they are basically the same person now, aren't they?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 422.644,
+      "endTime": 446.853,
+      "text": "I think so. Yeah, they've kind of oh god, that's so bad. They've become synonymous with each other. I'm doing a trump impression for anyone who can't see um, uh, so, but yeah, so. So no, trump hasn't bought oh, he might have done, I don't know he probably, he's probably involved. But musk has bought the data centers, uh, and they've been busy training the model. They have access to the fire hose of Twitter is what they call it",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 450.183,
+      "endTime": 479.886,
+      "text": "which, like it, does give them a lot of data that other models don't have. And, actually, like this is the Twitter data is obviously since way before Musk owned Twitter as well, so it's probably got some of the you know former Twitter information on there. So it's maybe balanced overall of the you know former Twitter information on there. So it's maybe balanced overall. I don't know, maybe it balances out, because it used to be quite democratic and a bit more left-wing. It seems to have gone the other way more recently. But, politics aside, it's a really powerful model. It's a strong contender.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 480.701,
+      "endTime": 518.2,
+      "text": "It can reason very well. It can do maths very well. I literally saw something this afternoon where people are writing like full 3d video games using it and stuff like that. Like the ability of these models to, like um, write video games are a really good example because you can, you can see. You can see with your own eyes, like how they've gone from a pretty crap version of snake with quite a lot of debugging about a year ago to now creating I think someone created like a flight simulator. Graphics were pretty basic but it had readouts of altitude and they could shoot things, and um had procedurally generated terrain and all this stuff.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 518.24,
+      "endTime": 542.166,
+      "text": "I literally saw it a few hours ago and uh, you know it wasn't't like I want to go and play the game, but like it's like you know, quite impressive in like a year, six months to a year, the like you can see with your own eyes, like how these things have progressed. It'd be quite cool to see someone do that like a little progression over the last year of like the ability of these models to create these kinds of things.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 544.301,
+      "endTime": 585.846,
+      "text": "So on LM Arena, I don't know if you know what lm arena is, but lm arena, lm arena, um, is probably the kind of best place for comparison of models, not not in terms of benchmarks, but just like opinion of people who understand large language models, and they, they rate it on there. So apparently it's the the best. I mean a week ago it was rated the best model it had let, it had gone ahead of of sort of open ai, deep seek, etc. They obviously I think jimmy kind of touched on it but they've used what I think is the best or the biggest gpu cluster ever used so far and you know, as we said, musk is building an even bigger one, um.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 586.007,
+      "endTime": 634.981,
+      "text": "So in some ways I think this is like a trial of the laws of scale and this idea that you just, you know, pump it up to the max and just stick as many gpus in there as possible. I think one of the fascinating things I was listening to um nate whitmore, um who does the daily ai daily breakdown podcast. I was trying to kind of catch up before we did this episode and listen to it from sort of a week ago and he was making the point that they've kind of gotten here in one year. So you know OpenAI, we think of them as kind of a startup, but they've been around for a few years. You know XAI they only started a year ago and they're kind of like some kind of supersonic competitor who has just come up and, you know, essentially blown away the competition and and the debate on this it wasn't really a debate, it was, I guess, a hypothesis is that actually they're, they're going to be number one.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 635.603,
+      "endTime": 672.885,
+      "text": "Um, that was, that was what seemed to be the thinking is based on their kind of trajectory and based on the amount of of compute that they've got, um, they're potentially going to have the best models because if they can do this in a year and that the the sort of difference from two to three was absolutely huge. Um, they've also said they're going to open source. So about a month after they release a new model, once they've kind of ironed out any, any kind of safety issues, they will then open source the previous model. So in about a month's time, grok 2 will be available open sourced. Um, I think just just bringing it back a little bit like.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 672.986,
+      "endTime": 715.988,
+      "text": "One thing I do think about here is it's going to be really interesting, is like the, the backlash against musk. Um, maybe not in the us, maybe in the us, I mean, depends how things go. You know he's still pretty popular, but he's certainly not as popular as he was even a month ago and he's very divisive, you know, is in the same ways, like sam altman is is a big deal. He's well known. You all know my opinion on him. I think he's a devil. Um, mark zuckerberg is well-known again like, maybe less in the news than he was, but he's known as being meta, and Sam Atman is known as being open AI. Elon Musk now is Grok.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 716.389,
+      "endTime": 750.772,
+      "text": "He is open AI. Sorry, he is XAI. Like it's not just well, he's the boss, it's like it is him. So any backlash against Musk or or any kind of, or the opposite you know he becomes this godlike figure is likely to have a big effect in the same way as it does with twitter, x on his model. So I just think something to be aware of. I mean, I think that's not the point of this episode. We want to give people advice on like, using a model and which one to use. I think the one thing I would say in terms of using it is, if you use x or twitter a lot. So you know, that's why I guess it says that journalists, etc.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 751.562,
+      "endTime": 786.489,
+      "text": "This might be the best model for you, because the kind of things that you use it for, the ability to for it to pull all that bang up to date information out, you know, in a kind of search function, and the fact that you can generate pictures of actual people so you can put in donald trump with a, you know, a mullet and it will draw a picture. Sorry, not draw a picture, but it will. It will give you a picture of trump with a mullet, whereas others will not give real people. So it's, you know, it's, I guess, kind of fun. It has even less, and we're going to talk about the kind of change in the way that the, the guardrail, seem to be applied, but it has even less guardrail.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 786.529,
+      "endTime": 795.605,
+      "text": "So if you're someone who's into that, you want to have the kind of most open model, you want to be able to search the most up-to-date information. Maybe it's the best model for you.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 795.866,
+      "endTime": 807.275,
+      "text": "I think it's free at the moment, but you have to pay for certain features, but I'm not sure exactly what what you need to pay for what you don't on the topic of, just because you mentioned guardrails,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 810.78,
+      "endTime": 828.793,
+      "text": "there was quite a fun little bit of news this week where there was a meme going around because, basically, if you asked Grok, who were the biggest spreaders of disinformation? like in the last few weeks it would come out and say the biggest spreaders of disinformation are Elon Musk and Donald Trump and then cite a bunch of reasons why.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 832.164,
+      "endTime": 849.776,
+      "text": "And then, in an even better twist, it was briefly censored. So obviously, like the whole point of Grok is that it's not censored. So it was briefly censored. Then some XAI employees it wasn't Musk, but some XAI employees came out and said that they recently took on an OpenAI employee",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 857.061,
+      "endTime": 861.5,
+      "text": "and the OpenAI employee didn't understand the company's culture and ethos so he'd gone in and changed the system prompts We'll talk a little bit more about system prompts later.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 868.66,
+      "endTime": 883.948,
+      "text": "Bit of a prompt into the um, the base prompt that xai uses, that um that grok uses, to tell it not to spread this information about musk and trump if asked and I say brief because they turned it off again and then obviously came out and publicly said it was this open ai employee that recently employed. But it's quite a funny bit of um, a funny bit of news and memes.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 885.831,
+      "endTime": 902.73,
+      "text": "But I think in some way, like it's quite, you've got to kind of give respect the fact that it hasn't censored that stuff out and it couldn't really censor that out, because that's the whole point. And you know, elon has been the driver of this change and we're going to talk about that more in detail and I think, you know, I don't necessarily say we need to give him credit,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 911.76,
+      "endTime": 929.247,
+      "text": "but I think that there is definitely, um, there's a lot of positives of this idea of kind of, you know, promoting freedom of speech and not not putting these kind of guardrails on the models. Um, I guess, just to finish this kind of section off, like, do you, I mean, do you use grok? Have you used grok? And if you do, would you recommend it as the model of choice to anybody? Do you have?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 929.808,
+      "endTime": 930.25,
+      "text": "a. Do you have a?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 930.29,
+      "endTime": 931.273,
+      "text": "particular opinion on it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 932.638,
+      "endTime": 952.603,
+      "text": "I think I've spoken about social media before, so I don't really use any any social media like facebook, stuff like that. So I recently tried to get back onto twitter just so I could try grok out. But it seems that someone in the 20 years that I haven't used it, it seems that someone um hacked my account or something because I can't get back on.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 952.843,
+      "endTime": 965.812,
+      "text": "I've had to um write a groveling letter saying that maybe that's me because, remember, I've got your, I can hack into your google account now that you logged into something on my computer, so maybe it's me maybe it was you, but yeah, I can't get it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 965.9,
+      "endTime": 967.346,
+      "text": "I can't actually, I don't think I can get on.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 967.386,
+      "endTime": 970.459,
+      "text": "It was me, it's not. Maybe it was me it was you.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 970.559,
+      "endTime": 975.441,
+      "text": "Okay, well, can you let me have my account back and then I can try these? I should have said that this is.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 975.542,
+      "endTime": 976.545,
+      "text": "This is now evidence, isn't.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 976.605,
+      "endTime": 980.94,
+      "text": "It wasn't me, it was um, it was my son I mean it's making me yeah,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 984.351,
+      "endTime": 994.828,
+      "text": "um, it's making me sound incredibly unprofessional because we're doing a podcast about AI, talking about an AI that I have never used and can't use, but I think I understand the concepts.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 995.8,
+      "endTime": 1035.712,
+      "text": "Well, I've used it and it's good. I haven't, like I haven't done anything with it other than do all the things that I just said and create images of stupid things and you know, for crap, which I've said many times. I think like that kind of fun, novel side of large language models for me is like it's. I'm bored with it after an hour or so. But, like I said before, I think if you are someone who uses Twitter or X a lot, or you're someone who values the most up-to-date information from social media and you like creativity of images et cetera I mean it says in my analysis, scientific reasoning and real data synthesis it's probably the best model for you at the moment.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1035.98,
+      "endTime": 1039.991,
+      "text": "And you know, don't worry about other models are going to get ahead of it, Don't worry about that,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1048.02,
+      "endTime": 1049.605,
+      "text": "They'll they'll keep producing state-of-the-art models and I think it will be.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1049.625,
+      "endTime": 1061.303,
+      "text": "If it's not there, it will be out there at the front with several others, so that that's who I'd recommend uses it. Yeah, quick question as someone who uses it because, like, apart from some of the like whether it's the best model, things like that like, is it, is it quick? Is it multimodal? Like what are the, what are those kind of features does it have?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1062.124,
+      "endTime": 1116.691,
+      "text": "it's pretty, it's not like, it's not like grok with a Q, so, but it doesn't. It doesn't sort of. So we're going to go on to other models that take a lot of time to think. It doesn't seem to take as much time as some of those models Like it. It is a reasoning model, so obviously there's going to be a delay when it's reasoning. Yeah, it's multimodal, like it can create images. I you know, I'm not sure what else it can do, but it can create images. It can, you know, analyze images and stuff. So it's not just a text-based model. Um, and I think they're like, I'm pretty sure they will continue with that, because that's kind of the point that you know, if you understand china and you know about how we chat works with the kind of the internet almost exists within we chat as an app, you know that musk has said for quite a while that's his kind of vision or his dream for x.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1117.152,
+      "endTime": 1128.601,
+      "text": "So if you try and get everything within your large language model and you get all that within x, you create your own kind of ecosystem. So I think that's what he's trying to do. So I think they'll add more and more modality to it over time.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1133.246,
+      "endTime": 1156.111,
+      "text": "So should we do chat gpt next? Oh, the big one, the big one. So I'll read you the title that it came up. So so I should say, first of all, because chat gpt have a number of models. We'll talk through you know different ones, but when I, when I did this, I chose gpt 01. Um, so 03 is kind of available, as I think 03 mini at the moment.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1156.591,
+      "endTime": 1199.847,
+      "text": "Um, yeah, oh, one is they've got the worst like naming, model selection combination. You can have about 10 different models, all with thinking on or off, all with web search on or off. So it's about I don't know altogether there's probably about 150 permutations of things you can select and actual features you can have on that model. On GPT, I know it is one of the things that I think it just was one of those things that got out of hand and it's one of the things they're looking to address, as I understand it, with GPT-5, where it's just going to be one single model, you just choose the model and it figures it out, figures out what features to use, which we'll come on to in a bit.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1199.9,
+      "endTime": 1201.547,
+      "text": "But that's one of the interesting things with Claude.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1208.34,
+      "endTime": 1226.794,
+      "text": "But I'll let you carry on, sorry. Yeah, so O1, which is, I think, is a reasoning model and is the most, I think it's the most state-of-the-art model that is fully available to, I say to anybody. It depends what subscription you've got et cetera, but you know anyone can get availability to it. By the time you listen to this, maybe O3 has been released, maybe 4.5 has been released. But let's deal with where we are. So I'll do my summary.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1233.024,
+      "endTime": 1236.159,
+      "text": "So the title for ChatGPT it came with the deliberative thinker for complex logic.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1240.82,
+      "endTime": 1277.448,
+      "text": "Chatgpt 01 shines in methodical problem solving for mathematics and computer science, leveraging extending reasoning periods for precision. Its current limitations include slow response times and variable historical accuracy. It's best deployed for academic research and software development, while general q a remains better served by faster models. There's a really cool point it's better sometimes to use the older or the sort of less capable but simpler model because it won't kind of overthink, and we'll maybe go on to that in a minute. Testing reveals inconsistent performance on niche historical topics and occasional factual inaccuracies in political biography analysis.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1278.49,
+      "endTime": 1318.265,
+      "text": "Um, so yeah that sounds fair enough. I mean, yeah, I think I think as a very rough guide, like what it's getting out there is, if you use chat gpt4, it's not going to do this reasoning thinking thing which can take, you know, anything from 30 seconds to several minutes. Um, but if you're just asking an answer to a factual question, which quite often you are, like you would in google, I still don't think that's necessarily the best use for a model. But, um know, if you're just asking a factual question, gpt-4, with search, is perfectly adequate and will give you an answer more quickly. Gpt-4-01, sorry is you know is going to be much better at reasoning thinking, being creative, writing, code, things like that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1320.951,
+      "endTime": 1324.59,
+      "text": "Yeah, exactly, and you know if you use the older model, for",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1328.3,
+      "endTime": 1369.328,
+      "text": "it talks about historical inaccuracy. So if you want to ask it about an event, you know what was the american civil war ask for, oh, or even ask, 3.5, because it will give it you quicker and it will give it you simpler. If you start usinga reasoning model, it will, or, you know, it might tie itself up in knots trying to analyze why it happened, and that's not what you're asking for. So there's a kind of tip in there. I guess for people it's like what's the best model is not necessarily the model that you need to use. You need to use the model that is best for what you're doing. And some of these reasoning models, if you're not doing mathematical or kind of logic-based problem-solving queries or coding, et cetera, you don't need it all the time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1369.72,
+      "endTime": 1404.39,
+      "text": "And again, jimmy says it's not the best use using it for search. But we know that's what a lot of people use it for ask it questions, ask it to brainstorm. Sometimes the simpler model is a better one to use, but that sort of digress a little bit. Model is a is a better one to to use, but that's sort of digress a little bit. I mean chat gpt I would. I would say like I take my bias to sam altman out of this um. Before the new version of claude came out I was on the verge of switching back to chat gpt just because I was like it's been a while since we had a new model and and actually you're a reasoning model and I like the fact that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1404.991,
+      "endTime": 1439.33,
+      "text": "Sometimes I like the fact that GPT the advantage of Clause is it's kind of quite friendly, quite kind of personable interface. Chatgpt is a lot more kind of matter of fact. But I think the main thing for me with ChatGPT is the multimodality. You've got so many different things that are kind of integrated within it now that for a lot of people if you've chat gbt and you've got like the, for example, you've got the 20 pounds a month, 20 dollars a month subscription. We know, you know we try and talk about models that are free, so all the stuff here you can use for free. But if you've got that, you've got everything you need.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1439.771,
+      "endTime": 1450.976,
+      "text": "Unless you do particular things, you don't really need another model like it does have everything covered. Um, and of course you know you'll have 03 mini. You've got 40. You've got more models to come.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1451.241,
+      "endTime": 1477.188,
+      "text": "I don't know how long it will be, but chat gpt will have the best model again at some point in the near future if they haven't still got the best model at the moment this is this exact point has given me a different, a difficult um problem, just like just before we came on the podcast, because I got an offer in my inbox today to go onto a Claude annual plan for 25% off, which sounds like a good deal yeah you don't want an annual anything.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1477.541,
+      "endTime": 1478.664,
+      "text": "A year ahead is too much.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1479.708,
+      "endTime": 1519.687,
+      "text": "Yeah, with AI it's not like I'm switching between models every month, but I've been tempted to just go open source and not actually pay for anything, because everything's getting so good and so you know, the playing field's leveling, basically because we talk about one being the best model over the other. Just to be really clear, like a year ago that might have been a big difference. Now we're talking like a couple of percent on some sort of coding, abstract coding, benchmark, something like that. That's what we're actually talking about, and so, in terms of real world use, it might be more like whether you like the feel of how the model talks to you and we're going to talk a little bit about that probably when we get onto Claude, I think.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1521.161,
+      "endTime": 1539.213,
+      "text": "But it might just be well. I like the way chat GPT talks to me, or I like the way Glock talks to me. It feels like a more natural conversation. Um, because, to be honest, like choosing a model over the other because it's the technically the best model at the moment is probably it's probably not the best way to make the decision in a lot of ways.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1540.641,
+      "endTime": 1549.34,
+      "text": "I find myself, though, and I have got. I mean, let's have a look. I find myself, though, and I have got. I mean let's have a look. For example, on my phone",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1553.2,
+      "endTime": 1583.173,
+      "text": "I have an AI group and I've got nine, 10, I've got 10 models which, some of which I use more than others, but I do use like one, two, three, four, five, six, six of them reasonably often, and I don't actually know what my logic is for when I go to chat GPT. But there are sometimes, when I go to chat GPT, like subconsciously, I have an idea in my head of like when I'm going to use it, and sometimes I do feel like I've got a bit more trust actually in their answers than others. I do feel it hallucinates less, and I think that's quite important. We'll go on to to Claude in a minute, which is the other one.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1583.2,
+      "endTime": 1614.131,
+      "text": "You know. I think we've talked for a long time about the fact that me and you are generally I think that's the one that we've used. But I think there's something about chat gpt. There is a bit of trust there, even though I have no trust in sam altman that I do feel their models are pretty good at. They don't seem to hallucinate as much. They're quite matter of fact. So if I want something factual, I I do feel I've got some trust there and I, you know, maybe for some people and like we said, if you're someone who just wants to use one model, that's fine actually, what for most people is probably the best thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1614.191,
+      "endTime": 1642.022,
+      "text": "But I do think maybe sometimes there's a time and a place, and I do think there was something about chat, gpt. Having it available, it's kind of like sturdy, safe, reliable. I kind of feel like that's the case with it and so for me, like I, I will use it sometimes, even though it's not my favorite in terms of interactions with it. But you can't you kind of can't go wrong with it, like if you've got it and you use it and you're used to it, like actually probably just stick with it and and yeah and it's got search.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1642.342,
+      "endTime": 1644.827,
+      "text": "It's got the option to search the internet, which is really important.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1644.847,
+      "endTime": 1645.408,
+      "text": "It's got reasoning.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1646.109,
+      "endTime": 1668.765,
+      "text": "It's got reasoning and search, but I think search more importantly, because Claude still doesn't have search. And search obviously means it's going to go and search the internet and probably give you more reliable answers, assuming the answer on the internet is correct. But it's not just relying on its own knowledge, which is what sometimes causes hallucinations, I think you're right.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1669.046,
+      "endTime": 1702.488,
+      "text": "I I actually think there is a. At the moment. There is a, a sort of quite a negative thing about the ones that you search and I think we talked about this months ago, so I don't think this has improved massively is um, where it searches for that information, right it? If you think about how long it's taking to do a search, it's not taking a long period of time and it's not searching within the large language model. So in the same way that, like when you create an image through chat, gpt, and it creates it through um, what's it's not sora, um, what's it called the?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1703.149,
+      "endTime": 1705.212,
+      "text": "gpt dali, I think dali.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1705.252,
+      "endTime": 1731.733,
+      "text": "Yeah, when it creates a dali, so it's dali's not kind of integrated with it. Essentially, what it does is it kind of sends a prompt into dali and then pulls it back in and when it's searching it's kind of similar. You know, it's not actually integrated in the, the large language model in, in the way that it's not in the neural network, so it's kind of getting a search and pulling it in. If you look at a lot of the places where it's kind of getting a search and pulling it in, if you look at a lot of the places where it's searched, like, most of the time when you dig down into the sources, like they're quite often pretty rubbish sources.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1731.973,
+      "endTime": 1735.297,
+      "text": "So I think like it's quite often not adding that much to it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1767.92,
+      "endTime": 1810.292,
+      "text": "No-transcript necessarily add something to it. But going back to the summary, chat, gpt, like yeah, solid, it will always be one of the best models. I would say like try some other, but if you're using it and you're happy with it, stick with it. The one thing I would say here and we've kind of said about we always try and promote free models, right, like we always promote ones which you can use for free. I do think if you're people who use like large language models fairly often like at least like most days in the week. I think it is worth having a subscription, because one thing with chat gbt where I don't have a subscription is very, very quickly.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1810.332,
+      "endTime": 1824.907,
+      "text": "It's like you finish this with. With this model you can't upload a document, you can't do this. It's quite frustrating. So I think actually for people who use it fairly regularly, you probably do need a subscription at the moment yeah, do you think the reason the search is, uh, not very good is because it uses bing search?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1827.31,
+      "endTime": 1832.456,
+      "text": "yeah, I mean possibly. Yeah, I mean I don't think google, I think google search has got worse.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1832.496,
+      "endTime": 1839.025,
+      "text": "So, yeah, I mean, you're quite right. I still know people who are like bing search. They just, I mean, big search is rubbish, isn't it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1839.105,
+      "endTime": 1840.971,
+      "text": "let's be honest there's no two ways around it",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1844.488,
+      "endTime": 1846.632,
+      "text": "what's next on the agenda, then? Which uh?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1849.765,
+      "endTime": 1857.408,
+      "text": "So let's do claude are we on to claude? We can start simping now so let's let I'll do.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1857.468,
+      "endTime": 1908.383,
+      "text": "I'll do the summary first, then. So claude sonic 3.7, another like stupid name. Why 3.7? I don't know. And the question that we all want to ask is where's opus 3.5? But anyway, so claude sonic 3.7, dual mode flexibility for analytical depth, so anthropics, latest iteration combines standard llm responsiveness with an extended thinking mode that breaks down complex queries into verifiable sub steps. Cla ClaudeSonic 3.7 offers unmatched versatility through togglable reasoning modes, excelling in data-driven analysis and technical documentation. Weaknesses emerge in abstract conceptual tasks. The model suits business analysts and researchers requiring both quick insight and detailed breakdowns, but philosophers may find its ethical reasoning underdeveloped interesting.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1909.405,
+      "endTime": 1911.41,
+      "text": "Um, I forget all that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1911.49,
+      "endTime": 1915.547,
+      "text": "I just like talking to claude, that's why I was referring to it earlier on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1915.988,
+      "endTime": 1956.943,
+      "text": "It just feels I like the website as well. It's just kind of a slightly off brown color with like beige bits, and very minimalist. Yeah, very minimalist makes me feel warm, to be honest, like the worst things about claude are some of the things that you've talked about. The other, all the models we talked about already I mean, we've already talked about two, but like both grok and gpt, and that's why I asked if they can, if they can, if they're multimodal. Claude is pretty bare bones in that respect. Um. So Claude isn't very multimodal. You can upload files to it. It won't generate images. You can upload images and it can interpret images, but I don't do that much with it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1956.983,
+      "endTime": 1996.208,
+      "text": "To be honest, it's not very multimodal. It is more of a bare bones chat llm, um, but it's very good at what it does, in my opinion. I use it for um, you know. I use it for developing my thought process. I use it for coding. It's one of the best coding. It's always like claude 3.5 was one of the best coders, which I'm not sure that perplexity mentioned, but claude 3.5 um was the bester, and then it wasn't for a little while, but then it's taken the crown again with 3.7. So most of the time it's been there or thereabouts. In terms of coding, they've added reasoning. Now the interface is much more straightforward.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1996.26,
+      "endTime": 2016.34,
+      "text": "You're pretty much always going to go with 3.7 Sonnet and then either choose reasoning or not reasoning rather than fiddling around with loads of toggles on GPT it or not reasoning, rather than fiddling around with loads of toggles on GPT it. Doesn't have search, though, so again, it's missing a lot of features, but Anthropic don't seem that interested in adding those features and they seem to be doing pretty well to be honest.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2016.76,
+      "endTime": 2031.17,
+      "text": "Yeah, so I had a load of notes I wrote on this one and one of those was lack of multimodality in search frustrates me, however, I don't really use multimodality, but if they added it I think it would be out and out the best model.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2041.236,
+      "endTime": 2076.636,
+      "text": "So my point there was like for me, I probably would occasionally use image generation, but very, very rarely. But it like I use it so little that I can just use a free model for that and actually you know they're a better model specifically for that purpose. Anyway. Um, the reason it frustrates me more than anything is because I think if they added it it would just be out and out the best model. And I would just say to everyone why are you not using Claude? It's obviously by far the best, whereas like holding that back is almost like they're denying themselves the kind of rights to the crown. It's kind of weird.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2077.67,
+      "endTime": 2079.197,
+      "text": "But yeah, I mean, like I said,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2082.71,
+      "endTime": 2112.456,
+      "text": "I don't think it matters for for my general use and I think you're right, like coding it's, as far as I know, is the absolute best. Um, when we say it doesn't have multi-modality, I mean you can create chart like I was. I was just testing it the other day. I asked it to create a um, create a chart of, like, the population of the earth from the year zero ad to now. Just like you'll see how it does it, how its logic was for it. It did initially put that there was only a billion people in 2000 and then it rose up to eight billion and then I corrected it, so there's still some you know some work there in kind of hallucinating, but um.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2113.278,
+      "endTime": 2116.649,
+      "text": "Like the artifacts are good in general that's what I was going to say.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2116.749,
+      "endTime": 2150.321,
+      "text": "One thing I realized like and one of the reasons I won't switch from it is because I use artifacts. I've got projects open and the way it produces separate artifacts and separates them is is really good. You can combine. So if you've got a project open, you can have several conversations within a project. You can upload documents in there. It can reference back to the documents. It's like it's it's yeah, it's just really usable. I think the more you get to use to it, the more you just kind of like the way that it works. That's the thing for me is it's just like it's the best interface, it's the most personal and it just kind of feels nice to use, right in a way that others aren't.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2151.283,
+      "endTime": 2156.078,
+      "text": "Yeah, sorry, did you explain what an artifact is? I didn't catch that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2157.08,
+      "endTime": 2159.974,
+      "text": "No, I didn't. Do you want me? To I think you can, because you know what it is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2160.636,
+      "endTime": 2177.217,
+      "text": "No, I can explain what an artifact is. I just wasn't sure that would make sense to anybody else who hasn't used it. So, in Claude, an artifact, just to sort of explain it, and it is one of its best features. You have a chat with it like you would have a chat with ChatGPT, but then if it feels it needs to,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2181.69,
+      "endTime": 2208.907,
+      "text": "so if you ask it to do a diagram, write a song, write a poem, write a story, write some code, anything like that, it will open up this separate window which is called an artifact, and it will. So it will basically give you the description of what it's doing on the on the left hand side. But then have this separate artifact where you get your clean, finished document, a little bit like with the thinking models, where, like it show you it's thinking, but most of the time you don't need to see that, and then you just get the output. This kind of separates it out even more. And actually, with claude 3.7, I was absolutely.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2209.228,
+      "endTime": 2246.825,
+      "text": "This is one of the things that blew me away yesterday. So me and matt were messing around with it and then they've basically taken the limits off the amount of output. Uh, it can output, and that's the first time I've seen this and so this is wild, like this is I got it right yeah, it's mad. Yeah, I got it to write a. Initially I got it to write a 10 000 word story. This is something that models just wouldn't do before and it just wrote like pages, like 30 pages, um. I then asked it to like write a dissertation and gave it like a dissertation title. It created about half a dozen artifacts, diagrams, different chapters, um, and a few times I had to get it to continue.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2246.905,
+      "endTime": 2267.513,
+      "text": "It actually went way over the word limit, but it ended up writing like 67 pages don't know if any of it was any were very usable. I'm sure there was some hallucinations in there. But the ability to just like not have any limit on the context output, which is something that all these models have built, it is quite a interesting new feature which I haven't really heard mentioned much. Yeah I.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2267.653,
+      "endTime": 2305.598,
+      "text": "I mean when, at the same time, you said we're playing around with it. So I used it to write a 2000 word um, I guess dissertation paper on on something. And I did the same in perplexity, using deep research on perplexity, using deep research on perplexity. Now, deep research on perplexity is like is a research tool and it's got access to search that's what it does and so it was full of references. It was like a proper academic article, the one that claude did. It doesn't have access to that, so it didn't have any references. It was just giving you the report but it was like you couldn't. It wasn't an academic article, it wasn't the equivalent of an academic article, but it read better.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2306.12,
+      "endTime": 2345.733,
+      "text": "It read better for a normal person. If you wanted to do a business report or something to explain something to somebody, it definitely read better than deep research, um, on perplexity. So I mean like it's, it's, it's fantastic, it's, it's incredible, like it's pretty, like literally, you could ask it write me a 10 000 word paper explaining how you know um, how the immune system works, and it would write you a 10 000 word report and it would be like high quality it's. It's like when I talk about now, I'm like this is nuts like and it's just happening like just week after week after week. Um, it's crazy.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2346.314,
+      "endTime": 2373.946,
+      "text": "We should probably explain like it's a hybrid model. It's the first hybrid model is what they're they're calling it, which basically just means, rather than like deep seek and open ai in some way, there's a hybrid model because you can use reasoning or not. The difference is you kind of click a button. So I think we said on a previous podcast that DeepSeek had this interface first, where you press DeepThink and then ChatGPT, two weeks later had the same or not even that a week later had the same interface.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2382.91,
+      "endTime": 2409.919,
+      "text": "The thing with this and their CEO, dario, has been saying this for a few weeks is they want to kind of take away this idea that reasoning is a thing and and not. Reasoning is a thing and just well. It reasons if it needs to and it doesn't reason if it doesn't need to. So the idea, this hybrid, is you don't have this kind of gimmick of choosing whether you want to reason or not. It will choose. If you've got it in the in the relevant mode, it will choose to reason as much or as little as it needs to, based on what you've asked it to do so. If you say what happened again, I'll go back to the American Civil War, doesn't need to reason because you put the reasoning on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2410.01,
+      "endTime": 2421.463,
+      "text": "It's just making it complicated. If you give it a mathematical problem, it will reason. So I think the others will follow with this. To be honest, I think it just makes logical sense once the gimmick of reasoning is gone.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2421.543,
+      "endTime": 2457.536,
+      "text": "But they're the first one to to actually do it with a model yeah, overall, I mean I, I pay for claude, some of the other features that I think are really cool, which um haven't mentioned, uh, which you know you have. It's not that you don't have these in gpt. So in gpt, in in um chat gpt, you can create custom gpts. In cla you can create custom GPTs In Cloud. You can create projects where you can give it a custom system prompt that you want it to use and then you can give it knowledge so you can upload some documents. I use these quite a lot, so I use them for writing Suno songs. I've used them for, like, some business ideas.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2458.778,
+      "endTime": 2500.72,
+      "text": "One of the interesting ones is I have my Chinese lessons every week and my Chinese teacher puts it into a Word document, all the stuff that we've talked about in that lesson, and she sends it to me. I've set it up so that this project will generate an output in a Word document that you can import straight into Anki for doing flashcards for for Chinese lessons. So I can basically take the output from my Chinese teacher, put it in, and one of the cool things is like not to spend too long on this, but it can mix and match stuff and mix and match some of the things we've talked about and sentences and grammar from previous lessons, so I should be getting better at Chinese.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2500.76,
+      "endTime": 2539.152,
+      "text": "Soon we can do a chinese podcast I did a chinese summary of an episode once, but, um, I mean, we can try, I think I'd struggle to do this level of detail in chinese. To be quite honest, um, I want you to talk about system prompts in a minute, but there's just one thing I wanted to talk about first, which is, um, well, actually this does reference the system prompt, so I'll say it and then you can explain more about the system prompt. So when you ask Sonic 3.7 now for what it deems obscure information and it defines that as something where there's no more than one or two mentions of it in its training data, it will remind the user that it might hallucinate.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2539.955,
+      "endTime": 2558.095,
+      "text": "And I have found more and more recently maybe because of how I'm using LLMs, but I found more and more hallucinations. Maybe it's because I'm challenging them more, where I'll almost anytime I hear anything slightly surprising. We'll say where did you get this data from? And it will just tell you I hallucinated, I made this up. I'm sorry I shouldn't have done that,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2582.97,
+      "endTime": 2615.761,
+      "text": "but I do find that with 3.7 versus 3.5, it does seem to be slightly better. I'm seeing less of it. It's sort accurate. There will be huge trust issues which will affect, you know, how much we can integrate and implement and use it because, like we said before, 99.9% from a human is absolutely fine. 99.9% from an AI will not be accepted and when we see errors that cause problems, it's going to destroy trust. I heard a story this week Alexa, so Amazon's Alexa, so they have Amazon Alexa AI. It's been delayed again. I think it's likely to come out in about two or three weeks time, maybe the end of next month.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2616.244,
+      "endTime": 2638.982,
+      "text": "But the reason it keeps being delayed is because it keeps making very occasional mistakes and so the board every time say we're not releasing it until it's basically 100% accurate because they're worried about the trust issues. But I've digressed a little bit, I think. Now, jimmy, do you want to talk about system prompts and something pretty fascinating about the way they've set up Claude 3.7?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2640.911,
+      "endTime": 2684.098,
+      "text": "Yeah, so I've just been having a quick look at this. So the latest Claude system prompt so what a system prompt is is it's a prompt. So you've got, effectively, whenever you're talking to Claude or any of these other models but we'll use Claude in this example there's a system prompt that gets given to the model before your prompt that you, that you that you put in. So you ask claude a question like when was the american civil war? Whatever it is, this system prompt gets put in every single time. Um, and so I've just had a look. We've been having a look at like so claude anthropic actually the company behind claude they publish their system prompts on their website, and so the latest one is I'm just reading it now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2684.62,
+      "endTime": 2721.589,
+      "text": "It's five pages long, so I'm not going to read it all out. You'll be glad to hear uh, it's 2017 words long, so it is like a small, like a research project or something that's that kind of length. Five pages long and a little bit of it is like this is the assistant is claude, created by anthropic. So, basically, telling its name, claude enjoys helping humans and sees its role as an intelligent and kind assistant to the people with depth and wisdom. That makes it more than a mere tool. It goes like I said. It goes on then for five pages um, there's some really specific stuff in there. If what, if what?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2721.629,
+      "endTime": 2760.834,
+      "text": "If people ask about the anthropic api, it's got a specific website. I'll always point them to. Um, some stuff around costs, things around it's cut off um knowledge, cut off date because the model wouldn't know that without being given that information. So there's a bit in here that says the last update was 2020, october 2024. Some of the cooler stuff in more interesting stuff, I suppose in the most recent um system prompt is that it's those things that kind of well, here we go. Claude engages, engages with questions about his own consciousness, experience, emotions and so on as open philosophical questions, without claiming certainty either way.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2761.996,
+      "endTime": 2770.286,
+      "text": "Yeah, super interesting. So actually you can have a chat with Claude about whether it's conscious, and they haven't put guardrails around that,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2774.21,
+      "endTime": 2805.121,
+      "text": "whereas we've looked through the system prompts historically and if you go back to early 2024 rather than February 2025, when this is the latest one, they actually had guardrails around that. So they said you shouldn't engage with conversations around your consciousness, or I think it said Claude is not conscious and if the user asks if Claude is conscious, you should not basically say that it's not and a lot of other things. So they seem to have opened it up significantly and made Claude they've got a lot of other things. So they seem to have opened it up significantly and made claude they've, like, got a lot of stuff around.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2805.562,
+      "endTime": 2855.342,
+      "text": "Claude should be curious and ask questions back and and, like you know, help to sort of almost prompt the user and be inquisitive, as I say, to discuss whether it's conscious and has experiences and have feelings and things like that. So, um, yeah, there's a lot of like legalese and don't provide. You know there's a stuff around not providing answers to dangerous questions and things like things around negative um talk, negative self-talk or self-criticism, disorders, unhealthy approaches to eating. So that's where it's got guardrails still. Uh, it says here claude cares about people's well-being I, I'll stop reading these out after this one and avoids encouraging or facilitating self-destructive behaviors such as addiction, disordered or unhealthy approaches to eating or exercise, highly negative self-talk etc.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2855.442,
+      "endTime": 2878.574,
+      "text": "Etc. Um, but that's get. That's the prompt that gets injected into claude and there is one for every large language model deep, seek, open, ai, um, uh, grok, all of them. They'll all have some kind of system prompt in there. Uh, so that's always going on in the background before you talk to it, and that's why one of the reasons why they elicit different behaviors.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2878.635,
+      "endTime": 2883.022,
+      "text": "Actually, it's probably one of the biggest, biggest drivers of the kind of behaviors they have",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2886.087,
+      "endTime": 2937.035,
+      "text": "I've certainly in previous episodes I mean more so kind of four, five, six months ago but talked about um, how I was kind of disappointed the direction that they were going in with what I referred to at the time as being too woke, and we sort of agreed that we we wouldn't use that term for it because I think it's not necessarily the correct term. What it is is the guardrails were making it too sensitive and they were making it kind of unwilling to engage in any topic that might be seen as being controversial and the sort of personality change is really really really forthcoming. Um, all of this kind of I'm not comfortable talking about this, you know, almost kind of like my feelings are hurt, this sort of bizarre way in which it was kind of trying to act human but was just it felt kind of disingenuous and just weird.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2937.656,
+      "endTime": 2981.116,
+      "text": "Um, I, I said I said to you I engaged in it in conversation about um, quite a few of the kind of controversial things it would, it would usually shut down about, and it was happy to confirm to me issues, although it wouldn't say they were sure. It talked about how there were possible issues with mrna vaccines and it was able to speculate around potential scientific I won't say not issues, but where potential modern science may be incorrect. So, for example, one of the things asked it to give me three possible ways in which and this is very, very niche, but why modern scientific theory around autophagy I don't know if you know autophagy, but basically the breakdown of cells may be incorrect.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2981.617,
+      "endTime": 3020.574,
+      "text": "And it was happy to engage and provide three kind of hypothesis for ways in which modern scientific thinking could be incorrect. Um, you know, this is kind of speculative, but the prompt has a very specific thing saying engages in scientific debate. Particularly enjoys thoughtful discussion around open scientific and philosophical questions. So it's very much now accepting that things that were not kind of set I mean, I think I hate this idea of the science is settled the science is never settled but things where there's kind of open debate, it's now happy to engage in that debate. Um, I've no doubt that the kind of trump musk effect is at play here and I mentioned it a little bit early on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3020.594,
+      "endTime": 3038.418,
+      "text": "I I think we have to kind of, whatever your views on Trump and on Musk and I'm sure most people have a view one way or another there is definitely which I see as very much a positive here there is definitely a much more of a kind of opening out of freedoms of speech. Now there are negatives there and there are risks involved,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3042.01,
+      "endTime": 3084.404,
+      "text": "but you are seeing that, as you saw in twitter, as you then saw sort of zuckerberg and facebook and meta talking about how oh, I shouldn't have listened to the government and, and you know, suppressed debate around covid and vaccines, etc. And it seems that that movement has definitely kind of it's. You know, it's happened across all of the models now and I've no doubt that that has been an influence here and personally, in terms of the way that large language models work. Anyway, I'm very happy that it is much more open now. It feels much more like you can engage in debate and kind of conversation with it, and that was the one thing that previously frustrated me about um claude, so I so I'm giving it a 10 out of 10 at the moment, or a 9.9 out of 10.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3084.871,
+      "endTime": 3087.219,
+      "text": "I think Claude now is absolutely fantastic.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3089.07,
+      "endTime": 3136.896,
+      "text": "Yeah, it is interesting how the political landscape has kind of like very quickly influenced these companies. I mean, it's not, it's nothing to do with ai, but the most exact, the most obvious example was when, um facebook fairly quickly turned off some of their content, moderation. Um, that was a little while ago now, but but you know it. Clearly, ai and other things are following suit and going in the same direction. Um, you know, which is, I think, as you say, like, I think, for I think, for large language models, you want them to be able to have a conversation with you and an honest conversation, and not always be saying I can't talk about that um, and and and provide a kind of balanced um conversation, really.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3136.936,
+      "endTime": 3167.853,
+      "text": "So yeah, yeah and I should say that just to finish off, like it's balanced. It's not that they are now promoting, you know, so-called conspiracy theories, they're just not shutting down the debate on certain topics. So that's, I think, the best example probably is unfortunately is mrna vaccines, if you previously mentioned them. It would just say I'm sorry, the world health organization says that you should take vaccines, you should take your booster as soon as possible, like, literally, it was just quoting you know a paragraph that it had been fed. Now it will say there is speculation that this.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3167.933,
+      "endTime": 3189.801,
+      "text": "It will say it's not scientifically proven and there remains debate, but it will engage in that conversation and I think that's as controversial an issue as there is out there in terms of, you know, social media, mainstream media, etc. So that suggests that you can now at least know that when you're interacting with these models, that they are open to to having that debate, and I think that's a that's a good thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3195.839,
+      "endTime": 3238.36,
+      "text": "So let's um, we've got, we've got three to go. I think two of these will be very quick, so let's quickly touch on deep seek we've talked about. We had two episodes which basically covered it. So let's not spend too long, but I'll give a quick summary and then just kind of hand over to you for any reason why you would sort of recommend that people use. It risks deep sea car one. Outperforms rivals in niche historical technical recall but suffers from frequent confident hallucinations. Its architecture appears optimized for narrow factual recall rather than generalized knowledge synthesis, recommended for experts verifying specific facts with secondary sources, not for unsupervised educational risks.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3238.741,
+      "endTime": 3246.438,
+      "text": "Educational use strengths line archival research support, while weaknesses limit reliability in critical applications yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3246.479,
+      "endTime": 3294.322,
+      "text": "So, if you know, deep seek was a phenomenon that happened while I was on holiday in japan, actually predominantly um. So I've got the app on my phone. I used it a bit. Uh, I don't use it anymore. I used it for about a week because it was a phenomenon, um, and it took center stage as this, I mean, for a very short period of time. It had this reasoning model that other models didn't have at all. So I think the main thing to say about deep seek is it's hard to even estimate how much it's pushed the big tech companies in the US to either release things early, to change their approach. I mean, we talk like you've got open AI, talking about actually open sourcing stuff now, which is bizarre, you know, and that's, and that's all come about because of deep seek.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3294.343,
+      "endTime": 3331.937,
+      "text": "So I would say keep an eye on it. The people who made deep seeker very smart. They're talking about releasing r2, so the next model as soon as possible. Now, um, because basically to kind of um, what's the word? Like, not profit, but, like you know, they've got a lot of traction at the moment, um, so just to sort of like, keep that traction going, um, but yeah, so I think, watch this space on this. I think. I don't think they're finished. They'll probably release another model. They might even have more surprises in for us in terms of using it as a primary model because, like all the other models, released their next version like almost immediately and they're now top of the leaderboards again and whatnot.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3332.66,
+      "endTime": 3354.099,
+      "text": "Um, it does contain censorship about Chinese, about topics that are censored in China, because it's a model that was made in China, so it has to. So, yeah, if you're in China and you don't have any other options, then maybe it's a good option, but I think otherwise. I don't think I'll be going back to it until R2 comes out.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3359.991,
+      "endTime": 3360.733,
+      "text": "I can't my.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3360.873,
+      "endTime": 3402.542,
+      "text": "No, no, no, I can't hear you I said, I've got a load of notes here and they're basically almost the same as what you've said. So, um, hallucinations is an issue with it, and the other thing that's an issue is half the time it's not working, or at least deep thinking is not working, and neither is the search function, because, you know, I think it, they didn't have the infrastructure and it's that they're still probably building it and it's getting so much use. I mean, the thing that I do think I've we probably cover this to death, and I've said it, but I see it even more every every week is people in china were using ai more than people anywhere else in the world that I know of, but they just didn't know it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3402.843,
+      "endTime": 3404.065,
+      "text": "It was just happening in the background.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3410.07,
+      "endTime": 3439.272,
+      "text": "They were not using large language models day to day like my friends, not just in other countries, but my friends in China, who have access to American large language models. That has completely changed with DeepSeek, because previously they didn't really think much of the models. Now there was this idea, you know, oh, wow, we've got a model that's better than the us, which was maybe true for about three days, but there is now a trust in it and so it has served the purpose of completely accelerating the adoption of large language model chatbots in china. It has turbocharged all of the silicon valley ones.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3439.353,
+      "endTime": 3473.752,
+      "text": "So you know, whatever happens with it, it's had a, it's had its kind of role in history. I do wonder, like you the API is cheaper, so it's going to be used by organizations, it's integrated with perplexity, etc. I think it has a future, but I was thinking like, is it going to be in the race to be number one, unless and here's the big thing is, like you know, supposedly they had no money and they just stumbled upon this model. If they're not backed, or if they weren't backed by the chinese communist party, I'm pretty sure they are now because you know they are a source of huge pride to china like that's the thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3473.812,
+      "endTime": 3501.405,
+      "text": "They are really, really in the way that huawei is, you know, in the way that apple is the us, or boeing, etc. Deep seek now represent China, and so I think that's the thing that, if anything, is going to back them. Same as you in terms of who use it. If you're in China and you don't have a VPN, yeah, that's definitely the model you use. If you can't use it, use Kimi, which is probably the second best model for others, like maybe try around with, play around with it it, but it's no better than you know other models.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3501.486,
+      "endTime": 3542.519,
+      "text": "It was maybe better for a few days, but um, I would say there's not a particular reason to use it I forgot the um honorable mention which I always like to give a little plug to, which is um that if you use open source models in in lm studio, which I do a little bit, uh, deep seek distilled models have. Deep seek has massively improved um a lot of the distilled models that are available on lm, on hugging face, that you can download through lm studio, and that's actually where I will be using deep seek. So I've got local models running on my laptops, that the laptop that are like eight billion parameters, stuff like that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3543.12,
+      "endTime": 3554.577,
+      "text": "Um, they've been, you know, given a massive boost by deep seek as well. So deep seek's been super positive uh, but I won't be using it as my model of choice we will explain at some point.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3554.997,
+      "endTime": 3590.822,
+      "text": "So how to do, we're thinking on an episode. We'll explain how you can use um. Basically you know well you can use whatever you want, but how how you can um use lm studio is the example we'll give to use a large language model locally on your computer. So we'll cover that at some point and let people know how to do it. But you would need a computer that has a graphics card, preferably eight gigabytes, but at least four gigabytes. Really. I've only got four on my laptop. I think there's a few models I can use, but you kind of need a gaming laptop to do it. But, um, yeah, we'll cover that in a future episode any gamers out there, we'll sort you out",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3596.178,
+      "endTime": 3615.198,
+      "text": "so we've got two left. Um, I feel, I feel like we're going to do Gemini 2.0 next. I feel like Gemini is like I sometimes forget. It even exists, which is bizarre because it's Google. I just I don't know anyone who uses it as their primary model, which is so weird. Maybe that's because we're, you know, away from the UK.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3617.311,
+      "endTime": 3640.742,
+      "text": "I've got a point to make on this because it was something I was thinking before the episode and I knew you were going to say this and I was going to say the same thing. And then I realized the model I probably use the most is Gemini. And do you know why? Because it's built into Google search now. So I'm not saying I use it the most, I'm not saying I don't even read it some of the time, but Google Gemini is built into Google search now and how?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3640.762,
+      "endTime": 3643.73,
+      "text": "But Google Gemini is built into Google search now. How often do you use Google search now?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3645.757,
+      "endTime": 3658.059,
+      "text": "I thought you didn't use Google anymore. No, I still use Google search, so like when I'm at work, when I'm looking for something, when I'm just looking for something on the internet. Now, as I say, I don't, I usually, if I want to do some kind of like coding task or something like that, I'll stick it into a large language model, things like that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3662.13,
+      "endTime": 3680.939,
+      "text": "But if I into a large language model, things like that, but if, if I do a general google search, the first thing that appears is a result from gemini, there's no getting away from that. Now, is that me using gemini? I suppose not arguably because it's just forced upon me. I would be happy if it wasn't there, um, but it is still there and it might be a lot of people who are listening's primary experience with ai as well yeah, so so.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3681.119,
+      "endTime": 3713.724,
+      "text": "So let's do that. I'll do the summary and then we'll kind of go through it quickly. So Gemini 2.0, multimodal mastery with structural precision. Google's Gemini 2.0 advances multimodal processing through enhanced image, video interpretation and document structure recognition. It leads in multimodal data synthesis, offering detailed visual analysis and structured document processing. Its tendency towards over-structuring hinders simplicity-focused tasks. It's ideal for engineers and designers working with virtual data sets, less optimal for casual users needing quick answers.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3716.57,
+      "endTime": 3745.918,
+      "text": "Okay, I mean, I genuinely don't know, because I just don't use it really, but, like, I think the point I was trying to make before is that, like for Google, ai is a feature they can add to their search engine. I feel like that's the way they've kind of gone with it. They don't really seem to push it very much, they don't? You know? They're integrating it into their products, so you're getting like your email now can be powered by Gemini. That's definitely something. I think it's a paid-for thing, but you can pay for that. I'm sure it's going to appear in Android phones,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3749.038,
+      "endTime": 3774.115,
+      "text": "which is like the biggest phone ecosystem on the planet. So, for Google, ai is like a platform that they can incorporate into their existing platforms. It's not like Claude or Chat, chat, gpt, where that is what they do, um, so I feel like it's in a different category. I feel like maybe that's why it doesn't seem to be as prominent. I don't know, but I'm really not bothered about gemini, I don't know.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3774.175,
+      "endTime": 3817.623,
+      "text": "I mean if you look at the sort of leaderboards and some of them it's. If it's not the best model, it's up there. I think on some, in some ways it's it's the best model. And this enhanced image video interpretation I haven't used this feature, but I think apparently the way that it can analyze video is is better than any other model. Um, you know, we call it the I sort of said the forgotten model. I mean, like I said, that's because people I know are not using it. I'm sure part of that is the fact that you know being in china, even though we're not people who are using sort of the chinese ecosystem, so you're not using google everything in the same way as you are in in some places.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3817.663,
+      "endTime": 3863.395,
+      "text": "And so I think that's the big thing with it. And if we're sort of recommending to people is like the integration of it. If you use google apps for everything you know it's as good, if not better, than all the other models out there. It's multimodal, it's great with video and text. There's an entire ecosystem around it. If I was someone who had an android phone and was using you had a google subscription, it's got lm studio, all that kind of stuff I'd probably use google gemini, like so. So for those people, in the same way as we said with chat, gpt is like, if you're used to it, use it. If you use all google stuff and you're, you know, mainly integrate with google, I would probably say gemini should be the model you use and, like with the others, it's never going to be far behind the top models because they've got the whole ecosystem around them and I'm sure they'll, in time, kind of gobble up some of the smaller stuff and they'll integrate it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3863.515,
+      "endTime": 3868.682,
+      "text": "And I still think they could win in the end, you know, in terms of the best model because they've got that ecosystem.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3868.743,
+      "endTime": 3892.562,
+      "text": "But it's like you say, I'm not sure that they are kind of necessarily as laser focused on it because they've got everything else yeah, I think, yeah, exactly, I think they're just going to incorporate it into all their existing ecosystems, into search, into Android, into your email, into Google Drive, all this kind of stuff. Turn it on as a sort of um, uh for your personal email accounts. I'll be probably writing emails",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3902.251,
+      "endTime": 3909.493,
+      "text": "using, uh, google ai to support me so and it'll just naturally sort of happen actually, I'll tell you the reason why I don't use it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3909.813,
+      "endTime": 3936.881,
+      "text": "I I did buy the subscription because they gave you the the big kind of bundle deal, didn't they, with all the kind of, you know, cloud storage, etc. And then google contacted me to say oh, we're changing your account location to China, unless you repeal it. And I was just like, well, fuck you, then I'm not going to bother. So that was the time I gave up on Gemini. But yeah, in terms of recommendation, like I say, if you use Google stuff like, it's as good as the others, if you like, if you analyze images and video data,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3946.09,
+      "endTime": 3984.652,
+      "text": "it might be the best model anyway. So we've got the last model and then we'll do our kind of quick, honorable mentions. So we talk about it a lot. Perplexity um, I asked perplexity to do this research. So maybe it was biased, because when I saw the titles I was like, oh wow, um. So it analyzed itself as perplexity, the hallucination resistant research specialist. So Perplexity's architecture prioritizes verifiability, cross-referencing multiple sources before generating responses. This approach reduces hallucinations to less than two percent in factual queries, but limits its creative capacityers noted a 34 drop in narrative coherence compared to chat gpt.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3985.414,
+      "endTime": 4018.74,
+      "text": "The tool excels in academic literature reviews, automatically citing recent papers with 89 relevance accuracy. Impressive, but not good enough, I would say. Perplexity dominates factual research with minimal hallucinations, robust, robust citation tracking, making it indispensable for journalists and students. Its rigid adherence to sources stifles creativity, rendering it unsuitable for content creation. It's optimal for evidence-based writing and poor for marketing copy. And remember, that is its own assessment of itself, although, remember, it also doesn't have an understanding that it is itself.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4019.21,
+      "endTime": 4027.183,
+      "text": "You know it's research in perplexity. It doesn't know it's perplexity when it's doing this yeah, I think what I would say about perplexity.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4027.25,
+      "endTime": 4052.428,
+      "text": "I've used perplexity a bit. If perplexity had and claude had a baby, that would be the ultimate ai and mid journey, a threesome with midney as well, maybe for some image creation uh, we nearly ended up getting to the end of this episode without having to say it was explicit, but no, I said fuck already sir I just ticked the.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4052.488,
+      "endTime": 4065.022,
+      "text": "I ticked the explicit button automatically because I'm I presume I've said something even if it's not swearing something controversial, that that should make it explicit a threesome between perplexity, claude and mid journey.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4065.242,
+      "endTime": 4071.218,
+      "text": "You heard it here first. Maybe if we can get that to happen, and then we'll have the ultimate model.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4072.42,
+      "endTime": 4076.057,
+      "text": "Did you want to carry on, or was that? It? Was that just finishing for you?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4076.8,
+      "endTime": 4084.422,
+      "text": "seriously like with, with what I said earlier on about this new feature with 3.7, where, where it'll just you know, you can get it to write thousands and thousands and thousands of words.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4088.97,
+      "endTime": 4125.476,
+      "text": "Combine that with, like you know, because it doesn't have search. So combine that with, like the most powerful search, llm, which is definitely Perplexity I'm sure you agree on that Like that's what they've based themselves around. Gpt have kind of copied it, but they haven't been as successful, I wouldn't say, and they haven't honed in on it. So, yeah, if you could combine that like deep research, perplexity, and then Claude 3.7's ability to write in more natural language but then also write as much as it wants, yeah, it'd be a match made in heaven. And then, mid-journey to, you know, illustrate things with diagrams where it actually makes sense, because Claude can't quite do that yet.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4127.091,
+      "endTime": 4162.412,
+      "text": "And there's a browser coming soon so they've been hinting at it in the last week or so a browser called Comet apparently, which is going to be very, very simple in sort of minimalist the way that the browser interface will work, but it will be, I think, for a while anyway it will. You know, I've heard it will blow all of the kind of current search out the water. And the advantage they've got over OpenAI, who are doing something similar, is that in the same ways we kind of talked about that kind of laser focus, they've got this focus on search. That's what they excel at. So this could be really, really fascinating.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4162.973,
+      "endTime": 4198.89,
+      "text": "I I just want to make a few points about it. Um, one is like value for money if you're using it occasionally, because you now, even with the free access, you've got five pro searches a day. I think you've got three deep three or five deep research, um kind of studies a day that you can do. Um, we should also and I'll say in a minute, like perplexity, five deep research, um kind of studies a day that you can do. Um, we should also and I'll say in a minute, like perplexity has deep research. Open ai also has deep research. So we think that deep research is becoming a kind of category rather than an individual name for it, and that deep research will actually be what all of them kind of use to refer to this, this way of working.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4198.97,
+      "endTime": 4212.254,
+      "text": "That that's the kind of speculation at the moment, anyway. But it will allow you to do that for free. You can use DeepSeek R1 and OpenAI R2 I think it's 01, maybe it's even 03.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4213.406,
+      "endTime": 4219.071,
+      "text": "It's 03 mini. I've got it up here. It's 03 mini. I've got the browser open on my window and actually we talked about.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4220.269,
+      "endTime": 4220.771,
+      "text": "Yeah sorry, go on.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4223.986,
+      "endTime": 4248.519,
+      "text": "So yeah, so we talked about DeepSeek, obviously, which is R1. So that's you know, obviously, perplexity of that was. The other thing about DeepSeek is that it was open source, uh, and so perplexity are actually hosting their own model based on the deep seek architecture, um, and they're obviously using that for their search. So you might be using deep seek and not even be aware of it actually, which is something interesting.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4248.961,
+      "endTime": 4286.315,
+      "text": "Yeah that's what I wanted to say and that they their deep seek, because DeepSeek is open source, so the DeepSeek model that they're using is being hosted in California, so you're not actually using the one hosted in China for those of you that may have concerns about that and it also means that the restrictions on search that are on the kind of, I guess, the DeepSeek's B2C interface, so that the app that you download or the browser that you go on to, because it's using an API in the background, you don't have those restrictions. They're using the model, but they don't have those restrictions on the data.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4286.796,
+      "endTime": 4319.195,
+      "text": "So you've got access to really amazing models. I think a big advantage for them. They're a startup. They may end up being bought by somebody, but you know they're a startup. They may end up being bought by somebody, but you know they're a startup, so they don't have the all of those kind of, you know, all of those kind of overheads to weigh them down. Like I said, they're focused completely on doing this stuff. They're talking about, um, their vision is that, and and I sort of genuine like maybe this is not. I sort of genuinely believe they're talking about like ai should not be here to line the pockets of you know a few big tech companies.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4319.255,
+      "endTime": 4362.915,
+      "text": "It should be to advance humanity and I I genuinely think there is like, of course they're a business, at some point they want to make money, but I think there is genuinely a bit of that about them, about the way they've operated so far, so I think that's kind of really cool. I also, like at the moment I said to you before, I'm a little bit underwhelmed with this kind of search choices that all of these things use. But I think that comes down to the way that things that journals, um, your scientific research and stuff is paywalled. Even media is paywalled. I think eventually what happens is that these kind of models, they end up just subscribing to every journal out there and then, when you subscribe to it, in the same way as you know, I have a, an account with a university where I have a course at the moment when I have that, I have access to all these journal articles.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4362.995,
+      "endTime": 4425.075,
+      "text": "Eventually, I think and I say eventually, I mean within the next couple of years they just have that access because no one is using, no one is accessing those sites themselves. They're accessing it through perplexity or chat, gpt, etc. So I think that will be solved. The other thing is the new app that was launched this week has a voice chat feature, um, so you can use voice on there now. So like really really cool stuff and, like I say, you can have a premium subscription but you can still do this kind of stuff for free as well. So if you're doing research just to go back to the, the deep research thing, so openAI's deep research, which I believe this week is being released for anyone with a paid account it was previously only on that kind of $200 a month premium tier that can do research that Professor Ethan Mollick, who's a very, very good professor journalist who writes about AI, has said that deep research the ai version is a very basic phd level and deep research perplexity is that kind of master's level.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4425.997,
+      "endTime": 4459.659,
+      "text": "Um, I think it was a low. Was it low master's level or was it? Was it a high bachelor level? maybe it's a high bachelor level, but it's somewhere like in between bachelor and master's, whereas open ais was kind of between a good masters and kind of low phd and that will only improve well, smarter, but but the difference here is like chat gpt is one you needed to pay for perplexes you didn't sounds like very soon maybe you won't even have to pay for the chat gpt one, but we, you know, we talked about in previous episodes right writing research papers for, for you know, dissertations, masters, etc.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4459.699,
+      "endTime": 4470.978,
+      "text": "I think I'm one of the last people that will ever do this, because you know, this is the way forward, and perplexity is probably the the best if you're doing this at the moment yeah, I mean one of the other things.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4470.998,
+      "endTime": 4502.614,
+      "text": "I was one of the other features, like I don't actually use perplexity that much, but I loaded up the website while we're talking about it. One of the other features I don't actually use Perplexity that much, but I've loaded up the website while we're talking about it One of the things I would say is super clean interface. I like it. Similar to Claude, looks nice, super clean. Actually, the homepage reminds me of Google from way back when it first launched. It just kind of had that. You know you've gone from Yahoo to Google. I'm sure our listeners will remember this, um, and it went from like a cluttered, horrendous sort of mishmash of stuff with a search button to just like google what do you want?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4503.016,
+      "endTime": 4531.359,
+      "text": "And that's what peplex peplexity looks a bit like that reminds me that. And it's also got an option on the search of like what sources do you want to search? So you can search on the whole internet or just choose academic or social, which is quite nice. That's really cool as well. Yeah, I'm going to use this more. Like I'll be honest, you talk about it. I think you've got more uses for it recently, but I'm definitely going to have a crack at this. It also looks like it has. I'm not 100% sure, but one of the things that I was going to mention this when I talked about Claude.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4540.245,
+      "endTime": 4564.332,
+      "text": "One of my bugbears with all of these models is when they store your old previous conversations like you can't have a folder structure, you can't like have tags, you can't like organize them in any way, and I don't know why no one's done that yet. Claude haven't done it. I was. I checked before we talked about it because I didn't want someone to be like well, actually, yeah, you can just do this, but why is this? Why is that just such a mess? I find myself having to go through and delete old conversations and sort things out, whereas if I just had a little folder structure, please, anthropic, implement that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4565.245,
+      "endTime": 4597.432,
+      "text": "Yeah, totally agree, totally agree. Yeah, but it looks like you can do that with perplexity, but I'm not 100% sure because I messed around with it, so yeah, we should just summarize it, because I said before I sort of incorrectly said it's the best for research, but I'd contradict because I'd said open AI is the best for research. What I mean is this is the best model in general for doing research, because that is what it's there for. It's there for search, it's there for doing research, it's there for search, it's there for doing research. Open ai there's a specific function within their models.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4597.452,
+      "endTime": 4627.129,
+      "text": "But if you're generally doing research because you're not all you know you're doing research you're not necessarily always wanting to do research to a phd level. You're sometimes doing a business report. You just want information, but you don't necessarily need to cite a load of a hundred references. This is what what you know perplexity is for and it is an alternative for search. It's not perfect but it's good, it's getting there and I think this browser thing's going to be really cool. It's not your sort of everyday model to replace all the others. I don't think and I would say for most people you don't need a paid account.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4627.19,
+      "endTime": 4636.662,
+      "text": "But, um, I would say for most people who who do any kind of reports or writing any kind of, you know, papers etc.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4636.722,
+      "endTime": 4659.536,
+      "text": "Doing any kind of research, like, at least have it as like, download the app and have it as one to use I just I'll just finish the the perplexity section off, because I've, I've got an account, I've signed into it previously, obviously, and uh, the very first question I asked perplexity is one of the dumbest things I've ever seen. I asked it what is my favorite color?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4661.462,
+      "endTime": 4674.831,
+      "text": "and it said unfortunately five years old I don't know. This is me like one of my first interactions with a language model or something was that the day my daughter came around and she was hanging out with your wife. Was that what they were doing on your computer?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4674.871,
+      "endTime": 4690.734,
+      "text": "because it I you're pretty boring, but you're not that boring I think it was me, maybe I was trying to trip it up, or like I don't know yeah, did it, get it right, it said um, it can't. Well, yeah, it did. It can't tell me what my favorite color is, because of personal preference.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4691.396,
+      "endTime": 4716.018,
+      "text": "Yeah well, I'll tell you what is it riveting anecdote to let's finish on something else. So that's not the end of this podcast. So, honorable mentions, so you get one and I get one. So, so let's have your honorable mention, jimmy, for a, a large language model that people might want to use. Have you got a grok? Well, I was expecting you to use it, so I've got another one.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4717.541,
+      "endTime": 4728.537,
+      "text": "All right, well, I can use LM Studio. That's not a large language model, but it's a plethora of large language models. It gives you access to.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4729.369,
+      "endTime": 4733.41,
+      "text": "Yeah, there'd be another hour's podcast if we used that. All right, okay, you can use grok, the other one.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4733.43,
+      "endTime": 4765.235,
+      "text": "I'll use grok. I'll use grok. So this is grok with a q as opposed to grok with a k. I know it's really annoying and tedious. Um, grok with a q is a site that I've used quite a bit actually less recently um, but it uses. They've got this different kind of inference chip, um, which is incredibly fast. It allows you to try out a lot of the latest open source models, but you don't have to download them yourself and run them locally and all the rest of it. It's pretty cool.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4770.514,
+      "endTime": 4797.996,
+      "text": "You can ask any of the questions you would normally ask. It's got DeepSeek, it's got all that kind of thing in there. It's got different sizes of models. So if you want to have a play around, the responses are super, super fast because it's got this slightly different inference chip that they use. They're a chip designer, slash manufacturer, as I understand it mainly, and so that's kind of the sort of niche use case there. Yeah, so Grok with a q cool.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4798.858,
+      "endTime": 4850.447,
+      "text": "I'll give my my honorable mention. Um is a chinese large, youngest model called tien gong um and if you I'm guessing most people weren't, but some people listening to this might know is tien, is is like as in day, as in, uh, well, as is a tian di, as in god, and then gong as in gong zuo, as in, like a job. So, um, yeah, those two characters. But you can just type in t-i-a-n-g-o-n-g, you can download it from apple, google store, etc. The reason this model is quite cool is because we talked about multi-modality. So in the sort of tools, uh, section I've talked about this on other podcasts, I think I've recommended this before it's got a image generation tool, it's got a music generation tool, it's got a writing tool.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4851.088,
+      "endTime": 4874.016,
+      "text": "It's got loads of different tools and like the thing with these tools that that makes them for me like quite interesting is like the, the different tools that it uses. They're all quite kind of chinese in style. So, like the image creation tool, if you use,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4877.08,
+      "endTime": 4914.551,
+      "text": "uh, like okay, no one really like saw it, I just saw it even exist. Did it ever come out? I'm not sure. If you use, I saw his video. Sorry, um, if you use like Dali, and it has a kind of style, but use other sort of mid journey et cetera. They've got a style. If you use this tool, it's got like quite different asian style in the way it creates images and it's quite fun to use, even if you're someone who you know is not going to use it all the time. Like it's it, there's something different about it in the style that use it. The music function is absolutely horrendous. Like it's non not comparable to suno, but it's so bad that it's almost fun to try and like play around with it, listen to the music.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4914.631,
+      "endTime": 4945.402,
+      "text": "But you know, for someone in china, for someone who just wants to try something different, tian gong is really cool because, like I say, user tools function, it's got all this kind of multi-modality included. It's very different. It's very kind of asian in the way that it creates images and music etc. So like that's my, my honorable mention, not because it's necessarily that great, but because it's so different that I think it's worth people downloading and playing around with and then probably a week later they'll delete it. But you know, just just mess around with it for a bit and and try something different.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4946.245,
+      "endTime": 4956.608,
+      "text": "Nice. So if you take anything away from this podcast, use my signup link for Claude in the description, which I don't actually have because we're not sponsored by them. But one day.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4957.55,
+      "endTime": 4972.336,
+      "text": "Will we get? I was gonna say, will we get money? I'm hoping that. So this week I bought a load of physical gold, um, cause I'm hedging my bets, ready for the collapse of the fiat currency system, and I'm hoping. I'm not going to mention it on this podcast. It's no,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4975.345,
+      "endTime": 5006.453,
+      "text": "it's a pretty significant amount, um, but I'm I'm hoping that, um, I'm hoping that the uh, you know, the gold company will, will send us a paid link so we can, uh, we can, make some money out of it. Well, I say make some money. We can stop losing so much money on creating this podcast, because I think at the moment, making money is is not our concern. But if we could lose a bit less money, that that would be quite nice. Are we going to use those, um, the the hair? What were they called? Like fake hair company? What's what does? It was even called when you like implants.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5006.493,
+      "endTime": 5011.514,
+      "text": "That's it. I was a fake hair. They're called sons, but we haven't agreed to a sponsorship deal with them yet but maybe.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5011.554,
+      "endTime": 5016.32,
+      "text": "No, I didn't mean the name of the company. I meant what's it called when you have your hair. It's called implants, isn't it?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5016.621,
+      "endTime": 5030.381,
+      "text": "all right, okay. Well, I didn't say that. Yeah, it's um, yeah, a hair transplant yeah, so for anyone who um is suffering from baldness, they do they do like don't do anything, don't do anything yet.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5030.802,
+      "endTime": 5040.354,
+      "text": "Yeah, we'll wait a few months and and see if we get you a link for five percent off and we might make 10p per per transaction nice, sounds good.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5041.075,
+      "endTime": 5050.757,
+      "text": "I look forward to the day when I'm actually with your gold. I heard I heard something earlier on that um, apparently they reckon some of the gold in fort knox might be tungsten that's been coated with gold.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5050.817,
+      "endTime": 5080.628,
+      "text": "So make sure you haven't got that mine's real gold. It's not. It's not that gold, mine's only, uh, british gold, the proper stuff premium stuff yeah good, another good episode. I mean, I think we thought this. You said to me oh it might be a short episode. I said it won't be a short episode, but I didn't think it would be quite this long, but I think it's valuable and for anyone listening. If you've made it to the end, then, um, I hope you'll take our advice and download, claude. But yeah, if you use a different model, we won't hold it against you.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5081.893,
+      "endTime": 5084.714,
+      "text": "Yeah, and if not, see if you can find Matt's gold.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5087.326,
+      "endTime": 5093.028,
+      "text": "All right, let's call it quits. Take care everybody. Jimmy, you haven't done a song for a while, I should tell people.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5093.289,
+      "endTime": 5098.69,
+      "text": "Last week was me again, so you're going to have to do it this week, I will produce.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5100.851,
+      "endTime": 5126.055,
+      "text": "Also, my free subscription to Sooner 4.0 has run out now, so I can only use the old version. So you're definitely going to have to do this week okay, dj, jimmy coming out, yeah have a great week. Everyone See you next week. Twice, twice.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5140.426,
+      "endTime": 5142.834,
+      "text": "Now you know.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5149.984,
+      "endTime": 5150.124,
+      "text": "Flown",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5181.799,
+      "endTime": 5183.18,
+      "text": "hey After a mess.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5190.023,
+      "endTime": 5196.627,
+      "text": "Fade away Lost. Fade away Long time Lost,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5203.625,
+      "endTime": 5203.966,
+      "text": "lost",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5209.185,
+      "endTime": 5210.366,
+      "text": "Long. Animal pricking.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5223.094,
+      "endTime": 5224.435,
+      "text": "Fade away",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5231.36,
+      "endTime": 5231.62,
+      "text": "Trace",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5238.885,
+      "endTime": 5248.525,
+      "text": "Fade away.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5255.255,
+      "endTime": 5258.7,
+      "text": "Contact, contact, contaric.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5320.668,
+      "endTime": 5322.169,
+      "text": "Lost.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5328.289,
+      "endTime": 5328.969,
+      "text": "Thank you, memory.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5334.349,
+      "endTime": 5334.909,
+      "text": "Fade away,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5348.31,
+      "endTime": 5348.91,
+      "text": "fade away,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5363.571,
+      "endTime": 5363.731,
+      "text": "bye.",
+      "chapterIndex": 6
+    }
+  ]
+}

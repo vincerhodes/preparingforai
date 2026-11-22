@@ -1,0 +1,1518 @@
+{
+  "slug": "s3-2025-10-30-the-great-health-awakening-how-ai-is-both",
+  "buzzsproutId": "18104167",
+  "title": "THE GREAT HEALTH AWAKENING: How AI is both a tool and a threat to taking control of your health",
+  "date": "2025-10-30T14:00:00.000Z",
+  "season": 3,
+  "durationSec": 5212,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/18104167-the-great-health-awakening-how-ai-is-both-a-tool-and-a-threat-to-taking-control-of-your-health.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail What if the most powerful change in your health isn’t a new pill, but a better question? We explore how AI can help you take back agency—clarifying options, translating dense reports, and shaping daily routines—without handing your judgment to a black box. We start with the trust problem: profit‑driven incentives, reactive care, and examples like statins‑by‑default and the opioid crisis that show how systems drift from prevention to dependency. From there, we shift to what you can control. Sleep, nutrition, and exercise form the base; mental health binds them together. We share simple, realistic ways AI supports those foundations: dimming blue light, building wind‑down routines, estimating protein needs from your actual meals, and crafting week‑friendly plans that you’ll keep rather than quit. Next, we get practical with data. Large language models can turn genetics, microbiome profiles, and annual labs into readable briefs, highlight relevant markers, and prepare you to use scarce clinical minutes well. We show how to set up a personal health workspace: your goals, your routines, your labs, plus a prompt style that asks the AI to challenge assumptions, cite evidence, and propose mainstream and alternative paths. This is not self‑prescribing; it’s coming to your doctor with sharper questions and clearer trade‑offs. We also tackle risk. Models can flatter your biases, blur look‑alike nutrients, or be steered by commercial interests. The antidote is discipline: ask for sources, compare options, weigh cost versus benefit, and verify with a clinician. Convenience—like rapid at‑home testing and one‑tap deliveries—shouldn’t become a new gatekeeper. The goal is personalised, preventive care that keeps you in charge of your choices and data. If this resonates, follow the show, share it with a friend who’s building better habits, and leave a quick review so others can find us. Your questions power future episodes—what’s the one health habit you want AI to help you keep?",
+  "summary": "Matt lays out his 'health awakening': a healthcare system corrupted by profit (opioids, statin protocols, COVID narrative control) drove him to take personal control of his health, with AI as the democratizing tool - custom Claude projects loaded with his labs, genome and supplement schedule, and deep research for self-interpretation. Jimmy sees enormous potential for preventive, personalized advice and better-armed doctor visits, but warns the same health data infrastructure will inevitably be commercialized and turned against users by whoever controls the model.",
+  "keyTalkingPoints": [
+    "'You are the first person responsible for your own health': Matt's three-legged ding of nutrition, exercise and sleep, with sleep now his number one and mental health accounting for a further big slice",
+    "The system is reactive not preventive: US statin protocols triggered by a single cholesterol number exist to protect insurers and create lifetime customers, while better markers (particle size, ratios) go unused",
+    "COVID 'pulled back the curtain': science was abused rather than failed - doctors lost licenses for off-narrative treatments, and Matt chooses the money explanation over the sinister one (Sabine Hossenfelder's point)",
+    "The Sackler opioid crisis (Dope Sick) is the egregious proof that the system can be bent by profit irrespective of anyone's views on COVID",
+    "Matt's AI stack: a Claude project with a functional-medicine system prompt, his supplement schedule, labs and yearly checks - explicitly instructed to challenge his beliefs rather than please him; plus genome and microbiome reports filtered from 96 pages to three for a doctor",
+    "The dark mirror: China's Meituan/JD at-home PCR-to-medicine pipeline (test result to couriered drugs in 2.5 hours) is brilliant and democratizing, yet trivially abusable the moment big pharma controls the algorithm"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "AI has huge potential in health - diagnosis, results analysis, personalized advice - and puts patients on a level footing with professionals before consultations",
+      "Wants an approved health AI that gives frank preventive advice (the takeaways-to-statins conversation) instead of hiding everything behind disclaimers",
+      "The commercialization of health data horrifies him: models 'sponsored by supplement companies' will nudge users just as social media algorithms harvest attention",
+      "Most of health is still the boring basics - you do not need AI to tell you to sleep; discipline beats gadgets"
+    ],
+    "matt": [
+      "Healthcare is corrupted beyond reason by profit - opioids, statins, COVID groupthink - but individuals control well over half of their own health outcomes",
+      "AI democratizes expertise that used to cost hundreds of pounds per report: with baseline knowledge and a challenging prompt, 'I can interpret everything in that report'",
+      "The real danger is who controls the model: the moment big pharma or the state owns the health AI, the democratization is reclaimed by the system",
+      "AI is not the problem - people are; tools are genuinely helpful now, in this 'most naive' pre-manipulation window"
+    ]
+  },
+  "predictionIds": [
+    "s3-2025-10-30-the-great-health-awakening-how-ai-is-both-3112.2-we-should-see-an-approved-health-ai-model-that-g",
+    "s3-2025-10-30-the-great-health-awakening-how-ai-is-both-3063.4-doctors-are-moving-toward-accepting-ai-as-anothe",
+    "s3-2025-10-30-the-great-health-awakening-how-ai-is-both-4833.7-ai-will-deliver-ever-more-personalized-medicine-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "AI Song Vocal"
+  ],
+  "chapterCount": 13,
+  "turnCount": 202,
+  "chapters": [
+    {
+      "title": "Setting The Stage: Health And AI",
+      "startTime": 0
+    },
+    {
+      "title": "Trust, Systems, And Healthcare Failures",
+      "startTime": 125
+    },
+    {
+      "title": "From COVID To Skepticism",
+      "startTime": 525
+    },
+    {
+      "title": "Prevention Over Reaction: Statins Debate",
+      "startTime": 930
+    },
+    {
+      "title": "Taking Ownership: The Three Pillars",
+      "startTime": 1350
+    },
+    {
+      "title": "Sleep Quality And Daily Habits",
+      "startTime": 1700
+    },
+    {
+      "title": "Building A Personal Health AI",
+      "startTime": 2040
+    },
+    {
+      "title": "Limits, Risks, And Safe Guardrails",
+      "startTime": 2470
+    },
+    {
+      "title": "Bringing Data To Your Doctor",
+      "startTime": 2765
+    },
+    {
+      "title": "Practical Nutrition And Protein Goals",
+      "startTime": 3090
+    },
+    {
+      "title": "Supplements Without The Hype",
+      "startTime": 3450
+    },
+    {
+      "title": "Convenience Versus Control In Diagnostics",
+      "startTime": 3795
+    },
+    {
+      "title": "Personalisation, Power, And The Future",
+      "startTime": 4150
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.12,
+      "endTime": 31.92,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. The podcast that explores the human and social impact of AI. Exploring where AI interstakes with economics, healthcare, religion, politics, and everything in between. Your love is like bad medicine. There ain't no doctor that can cure my disease. Welcome to Prepaying for AI. With me, RFK Junior.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 32.16,
+      "endTime": 40.72,
+      "text": "And me, Dr. Fox. Okay, I think you can probably guess just from the intro that we're going to be talking about health and healthcare.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 41.04,
+      "endTime": 47.6,
+      "text": "I thought we're going to talk about the chart show on alternative UK radio in the 1990s. I to be honest, I prefer to do that.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 48.88,
+      "endTime": 50.96,
+      "text": "Yeah, I'd yeah. I reckon I'd be my.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 51.36,
+      "endTime": 63.6,
+      "text": "My mate's sister dated Dr. Fox in the late 90s. Anyway, for anyone younger than 40, this is a useless culture reference, but none of our listeners are, so um we'll all understand it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 63.84,
+      "endTime": 100.24,
+      "text": "Yeah, so today we're gonna talk about um we're gonna talk about AI and health. Uh and I think what I mean by that is AI and personal health. Um, and this is a really cool, uh, very interesting area where like I don't know if anybody's used AI already in this way, but a lot of people already use the internet to sort of ask ask questions about their health. Um, and one of the cool things you can do with AI is you can ask it these kind of questions. Now you have to be very careful, obviously, and I think um it's a fair disclaimer to say at the very start of the episode: nothing that we're gonna talk about today is advice.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 100.4,
+      "endTime": 134.4,
+      "text": "Um, it's not health advice, we don't do financial advice, we don't do health advice, we don't do life advice, we're just a couple of dudes talking on a podcast. Um, but it's a super interesting area. Um it's something that Matt I'm Jimmy by the way, it's something that Matt is um I'm Matt. He's Matt. It's something that Matt's very interested in and um has like got a lot of experience in now and a lot of background background in. So with that, I'm gonna allow Matt to sort of introduce his journey um with respect to health and AI that he's been on over the last couple of years, I guess.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 134.64,
+      "endTime": 174.48,
+      "text": "Yeah, and unfortunately, I kind of do give health advice, which is kind of the problem. And then there's the reason why I now write in Chinese a blog on health stuff, because it allows me to reference articles which talk about my personal experiences and what I do rather than giving people advice because I get asked a lot. So, yeah, I mean, the I guess my my journey to this really is like is like most things, is kind of linked to the pandemic and the way that that has kind of pulled back the curtain for me on the realities of the world. And you know, the the the the first year this podcast was kind of um I think if people listen to it, they kind of followed me on on a a part of that kind of what I call an awakening, but that kind of journey.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 174.56,
+      "endTime": 203.76,
+      "text": "But I think healthcare for me sums up more than anything because it is the one area where I think I think people expect kind of healthcare, like people understand that like capitalism and and everything is about making money and people are manipulating the way the world works, but you kind of had this trust in healthcare that that's slightly different, right? Healthcare, it's people's health, and and that's that's you know, people who get into medicine, that's what they want to do. They want to they want to cure people, and I think that is kind of right to a degree, but I've seen a system you have the Hippocratic oath.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 204,
+      "endTime": 212.8,
+      "text": "Yes, exactly. I've seen a system that is like corrupted beyond reason. I mean, almost to the point of like you know, pure evil.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 212.96,
+      "endTime": 248.08,
+      "text": "Um, and you I was in a really kind of dark place when I when I saw that sorry, just to stop you on that, like on that, I think I mean it's quite a statement, but also I think you'd probably find it hard if people think really hard about it to disagree with that in its entirety, certainly. Um, like not there's been so many documentaries, so many bad stories, so many bad outcomes about like in in the healthcare world, especially in the US, that it's quite hard to actually I wouldn't say disagree with it in any part, but like disagree with that statement in its entirety.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 248.32,
+      "endTime": 285.12,
+      "text": "Yeah. I mean it it it's systemic. That's that's the thing. But I mean what it what it has done to me, like it like I say, it's kind of stripped back that world, but I was in a really dark place with it because I was so I was so kind of lost when you you feel particularly someone who grew up in the UK, right? In the UK, we've got the NHS, and because we have a social healthcare system, it's seen that it's there for you. And and don't get me wrong, I think the NHS as an idea, as a concept is fantastic, and social healthcare models are fantastic, and it's not the NHS itself. In fact, the NHS has has protected the UK to some degree of some of the things that are happening, for example, the US.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 285.52,
+      "endTime": 324.4,
+      "text": "Um, but it's not it's it's not able to be kind of resistant to the forces, and I think you know what what initially put me in that kind of dark place, but what it has driven me to afterwards, and this is where AI will come into this later, is like the more I've looked into it and the more I've experimented, to be honest, on myself, right? And the more things that I've done, and the more results I've seen, and these are results in terms of like changes to how I feel, changes to lab tests, changes like to genuine outcomes, the more I've realized that actually like because I think a lot of this is also about like when you when you don't have that to back you up, you feel you've lost, you don't have control and no one's got control.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 324.48,
+      "endTime": 356,
+      "text": "You feel kind of lost. You realize there is so much you actually can do to control your own destiny, and that's part of the lie as well. Part of the lie that's been sold is this idea that you're born and then one day is like, yeah, well, you just you you know, or autoimmune disease is like, yeah, one day your your body just decided to start attacking your gut and now you've got Crohn's disease. It's just the way it is. It's not the way it is, it's that way because you know, I'm not saying it can never happen because you to someone who's lived a healthy lifestyle, but a lot of those things are somewhat avoidable.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 356.08,
+      "endTime": 392.72,
+      "text": "And this idea of telling people that you know there's nothing you can do about it, or actually you just kind of wait until you're broken and then you just go and get fixed. That's what the healthcare system has become. And so for me, learning and getting involved in this, and this is where AI will come in because it's a allows a degree of democratization about this, is being able to take control of your own health by understanding the basics of how the body works, understanding things that are free, understanding how things like supplements and nutrition can be used, the importance of sleep, like how exercise helps, all of those kind of basic things.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 392.96,
+      "endTime": 429.28,
+      "text": "Nutrition, yeah, exactly, and and how those things can help. And that's why AI has been a big help because to be honest, the journey of the last three, four years for me has sped up in the last two years, and a lot of that has been because of AI. And and we've got a challenge in here. Hold on a second, that you know, I'm not saying here that you can just go in and ask AI and it will tell you stuff. You have to have that basis, but with AI, it allows you to be able to do things that you couldn't do before, that you had to go and see somebody before. And I think that will have an effect of like as a doctor or as the profession, it's actually going to drive them to have to change.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 429.6,
+      "endTime": 443.36,
+      "text": "Can we just take a little step back a bit? So so clearly what we're like clearly what we're talking about, the overall theme is taking personal control and taking a bit of taking a bit of personal sort of not just control, but I guess accountability.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 443.6,
+      "endTime": 472,
+      "text": "Well, let's let's let's put it this way, because this is a phrase that that we we use a lot on the sort of channels and communities I'm part of in China, which is you are the first person responsible for your own health. Yeah. I think that that for me sums this all up. It's the only person who is ultimately going to care about you, okay, your family, but is you. Yeah. And so I would expand that to say yours and your family's health is you are the main person responsible, not the system, not the NHS, not the insurance company, not whatever organization, you are the first person.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 472.24,
+      "endTime": 511.2,
+      "text": "Yeah, and and that's very admirable. And actually, big picture-wise, like everybody should think like that, right? Like, I mean, irrespective of whether um, you know, healthcare organizations and pharma companies are evil and and what motivations they have, irrespective of that, like outside of all that, like the theme is that like you can take more control over this yourself. Think think about nutrition, what you're feeding yourself, how you what how you're treating your body, how you're sleeping, all these different things, which we all sort of know deep down, but actually, I think a large part of the world does overly depend on healthcare systems.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 511.36,
+      "endTime": 534.64,
+      "text": "But just to before we get into that, even just to go back, so like, and I know this is like um quite the subject to unpack, but you you you mentioned at the start that it's going back to COVID and things that happened during COVID. So, would you want to elaborate a little bit on that? That's sort of what what what it was that sort of set you off down this path, so to speak, which you mentioned.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 534.96,
+      "endTime": 578,
+      "text": "Yeah, so I think I mean I think the one the most dangerous area to go into talking about is always vaccines. Um, so I don't want to go down the route of of you know fully going to vaccines because it's not actually it's not for me 100% about that, but but that is a big thing. I think the it and it's not about whether vaccines are or aren't a good thing, it's this argument with the vaccines and specifically with COVID vaccines, where the way in which it was used to basically create a a sub-class of people who refuse vaccines, right? Who refuse to take COVID vaccines that the the pandemic of of the unvaccinated and to basically create this idea by just suggesting that you know vaccines were the answer and it was impossible for you to challenge that answer.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 578.16,
+      "endTime": 627.6,
+      "text": "And actually, you know, I didn't so at the time, like I'll admit, I was I I took a vaccine at the time, yeah. So like at that point in late 2020, early 2021, I wasn't in this place, so I'm not it's not that I'm here as some person who's always being fiercely against vaccines. In fact, I'm not someone who's against vaccines now, but what I saw at that point was the way in which you basically saw this. Well, you have to be vaccinated because that was we just got this blinkered view, that was the only way we were going to deal with anything, and all of these other things got dismissed, and not only got dismissed, but you know, because we as sort of public health can't trust people, people were not even allowed to make decisions, and not just normal people, but doctors were not allowed to do the things that they'd been allowed to do previously, which is you know, to be able to prescribe things off prescription.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 627.68,
+      "endTime": 665.52,
+      "text": "There were people seeing like amazing results with certain compounds who were basically shunted out of the system, and you're still seeing it now. You're seeing people who are being having their licenses removed, not because of malpractice, but because they dared to prescribe or to to provide a treatment, not that failed, that that either worked or didn't do anything, but they didn't follow the narrative, and so you saw the way in which it was controlled, and you can only trace that back at some point to being it's either about money or it's something far more sinister. I choose not to believe the slightly more sinister argument, which is you know, the argument about whatever population control or or just control over people.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 665.68,
+      "endTime": 706.4,
+      "text": "I choose to believe more of the kind of money argument, um, but I saw at that point the way in which I guess healthcare was not there for the good of people anymore, it was there for the good of profit, basically. And I think governments were kind of not tricked, but governments just didn't know what to do. In my opinion, they didn't know what to do, and they were just searching for an answer, they just needed a way out of this, and and they just went in on it. But you saw at that point a way in which the system did not allow basically science. I think that's the thing, is it's almost like science has failed because the way that tests and trials were done and the way that we look at what works and what doesn't, you were not allowed to have a different opinion.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 706.48,
+      "endTime": 709.44,
+      "text": "It's a sort of microcosm of all the things that are in society now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 709.76,
+      "endTime": 712.64,
+      "text": "I'm a bit of a defender of science, so I would say science was abused.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 713.28,
+      "endTime": 741.52,
+      "text": "Yeah, yeah, yeah, yeah. Yeah, okay. But that's a that's a much better way to say it. But even if you were like as in as in I'm not criticising science, I'm saying the way that, and I think this is what Sabine, our friend Sabine, that we can never remember how to pronounce her name. Ossenfelder. That she says is it's it's not that science is wrong, it's that the way in which like science has been applied. It's been a lot of people. Yeah, it's testing, it's like an observational trial or something you see with your eyes that has just because it wasn't done in a double randomized blind trial, doesn't mean that it is irrelevant.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 741.6,
+      "endTime": 772.48,
+      "text": "Now, of course, if you do later a randomise dual blind trial, it may be better, but you can't just dismiss it. And that that to some degree was was done. You were seeing results with your eyes and they were being shut out. And like I say, I choose not to take the more cynical approach that this was something more evil. I choose to say it was more about how the system and particularly big pharma and particularly the US. And to be honest, the problem is in the US is most pharmaceutical companies make most of their money out of the US. So even if you're not in the US, it's how the US works that affects you.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 772.72,
+      "endTime": 786.08,
+      "text": "The system in that country had created this model that meant there was only one way that was allowed to be used to try and get out of that pandemic, and a lot of basic science was just dismissed and ridiculous things happen at that time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 786.32,
+      "endTime": 889.2,
+      "text": "Yeah, and and and to be honest, even if we get away from the COVID pandemic, which is obviously like a controversial subject and all the rest of it, even if we get away from that, there are examples that are just egregious that you can't deny where people are being taken to court. So, for example, the Sackler family right now is being taken to court. You can watch it's again, it's like outside the scope of this podcast, but if you watch the documentary Dope Sick, that's an egregious example, and it's the it's basically the opioid crisis in America, right? It's an egregious example where again the scientific method's been abused, they had effectively salespeople who were going out and selling this this um these opioid-based drugs, so oxycontin it was, was the main culprit, to doctors, telling doctors that they should prescribe them as a pain medication, and then it resulted, I think over like the period of about seven to ten years, it resulted in the opioid crisis, which is an absolutely horrendous, horrendous situation where you've got doctors prescribing pain drugs to people, and then people getting hooked on these drugs, and they're the some of the most addictive substances that you can take, um, basically in the heroin related to the heroin family, the opioid family of drugs, extremely, extremely addictive stuff that then people get hooked on, and then like ordinary people, ordinary people, a lot of the people that got hooked on these things, completely ordinary people, never been weren't druggies, weren't addicts in any way whatsoever, and then they end up hooked on opioids and having to try and find ways to come off them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 889.68,
+      "endTime": 930.56,
+      "text": "Incredible amount of deaths, incredible amount of like suffering caused by it, um, incredible amount of cash generated for that family, like billions and billions of dollars, and the fines they had to pay at the point of the documentary was made was like like an absolute peanuts compared to that. Um and so that so the reason I mention it is because irrespective of what you think about COVID and vaccines and all the rest of it, there are other completely egregious examples where basically the um the there is no doubt about it, like the system has either failed or the system's been bent out of shape.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 930.72,
+      "endTime": 937.68,
+      "text": "Um there are other examples as well, so I did have a I did have another example right at the top of my mind. I've got one if you go ahead.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 937.92,
+      "endTime": 973.92,
+      "text": "Okay, so this is in so in the US, so statins. Uh-huh. Right? Is that what you say? Okay, so there's an example in the US where basically um I mean it's this is not one one surgery, this is a common thing, but I don't think it's just the US either. Yeah, yeah, but but but I know this example in the US is where basically clinics or you know, hospitals or or whatever the organization, I think they're usually called clinics, but they're not an individual clinic, it's like like you know, Cleveland Clinic or whatever, the big organization in the US. So are told basically you must prescribe a statin to anybody who comes in with a cholesterol level over X or you know, whatever the rating is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 974.16,
+      "endTime": 1011.68,
+      "text": "Now, the reason for that is twofold. The reason is one, because that will reduce the risk of people dying of heart disease, right? Which is something that our, you know, uh health insurance will pay out for. So we don't want them to pay out for that. Whereas if they die of something else, which is not in this list, we won't pay out for it. Um, it has the added benefit of the person being, you know, on statins for the rest of their life, which brings in a steady income stream. The thing I'm not arguing here is like statins will help some people and will help them live a longer life. The statistics actually show like the average is like months rather than years, but it does add something on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1011.76,
+      "endTime": 1046.4,
+      "text": "So I'm not arguing that. The problem with this is if your cholesterol is over a certain level and you're prescribed a statin, if there's a hundred people prescribed a statin, I would say, based on the research I've done, maybe 40%, maybe 30% of those people really need that statin. The other 60% of people are being prescribed the statin because they've hit a certain level, but actually they're not at risk. So there are two issues there. They then have to keep taking that statin, which costs them money, even if it's just through the insurance, it pushes up insurance premiums. There are also side effects of statins, right?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1046.48,
+      "endTime": 1077.36,
+      "text": "So they live with those side effects. Now you can kind of argue, well, they're kind of doing the right thing, but the problem here is they're not doing the right thing because there is plenty of evidence that suggests that that cholesterol score on its own is not sufficient. And actually, you can do a couple of other tests. So, for example, with cholesterol, you can look at the size of the cholesterol particles, right? So if your low density lipids are over a certain amount, but actually you check and they're not kind of fluffy and they're not easy to break up, actually, you know, the evidence is that you're not at a an increased risk, but that's not done.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1077.44,
+      "endTime": 1107.04,
+      "text": "And the reason it's not done, like I said, is because on the one hand, it helps to protect the insurance company from having to pay out on a cause of death, which you know, most critical illness death insurance will will insure on. The second thing is it will keep people on that drug for a long period of time. So it's not sort of an inherently evil trying to kind of kill people, but it is a really good example of uh, you know, how just the system has created this model. And of course, if you're that clinically, if you're that clinic, you have to do it because if you don't, you're not going to make money because your whole model is based on that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1107.2,
+      "endTime": 1136.8,
+      "text": "Now, in the UK, yeah. In the UK, for example, statins are over-prescribed, probably, because they use the same diagnosis. However, there's a difference in that the NHS kind of works the opposite way, and I would argue in the UK quite often under-prescribes things because they try and save money. So, like you sometimes have the opposite problem, but the way in which those companies are trying to do it is very much kind of creating you know an over-reliance on a drug which is not needed, and there are lifestyle choices which are not suggested.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1137.12,
+      "endTime": 1172.32,
+      "text": "Yeah, and that's a big thing, right? Is that like you know, maybe the first line of defence might be better to say go away, try and lose a bit of weight, try and do some exercise, try and eat more healthily, try and cut salt out. There's a whole bunch of different things that you could suggest, which we all know might be effective against high levels of cholesterol, have been proven to be effective. And you know, if you try and do that and either you haven't got the willpower or it's a genetic thing or something else, maybe you come back in six months'time and then you get popped on the statin.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1172.56,
+      "endTime": 1175.28,
+      "text": "But the you have a preventive healthcare model instead of a reactive one.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1175.36,
+      "endTime": 1207.12,
+      "text": "This is a purely reactive model. You know, you don't have a test in the UK, a sort of checkup or whatever, until you're in your 40s, and at that point, it's you know very basic. You get your blood pressure checked and you get a few things sampled on your blood. If you really wanted to try and prevent stuff, you know, from when people are in their 30s, you could do a you know uh a more advanced set of tests and labs which would identify things earlier and would allow you to treat them earlier and to stop them getting to that point. And for a country, that would save you money. Do you know what it makes organization?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1207.2,
+      "endTime": 1207.44,
+      "text": "It wouldn't.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1207.52,
+      "endTime": 1217.68,
+      "text": "Do you know what it makes me think? It's a it's a weird tangent, a weird example, and I don't know if you've seen the film, so forgive me if you haven't. Um but have you seen the film The Island?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1217.84,
+      "endTime": 1218.16,
+      "text": "Yes.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1218.32,
+      "endTime": 1253.68,
+      "text": "Yeah. So in that, the the clones that are grown in VATs that are there to like replace people's organs, they're very closely monitored. And it's like if you if you've got a little bit of cholesterol or you or you've like your P shows that you've got a certain elevated hormone, then you go to the breakfast counter and you're not given that extra rasher of bacon and all the rest of it. Like, like this is not like that complex. The reason I quote this is because like these these clones like a dystopian version, but yeah, yeah. But these clones in this film are like they belong to somebody who's gonna like someday give them a liver or a transplant or whatever.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1253.84,
+      "endTime": 1290,
+      "text": "And um forgive me if for people who haven't seen the film, it is worth watching, by the way. Um but you meant Love Island actually, but but like but the reason I use it as an example is because like it's a really it's a really clear example of like how we have a lot of the answers to these things. We know the answers to a lot of these things. We know or sorry, we know the answers. We know that there are preventative measures you can take that are lifestyle basis on a lifestyle basis, but the healthcare system doesn't quite often doesn't take that into consideration. It's just you know, you come in, you've got a thing, you get prescribed a thing for the thing, most of the time.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1290.16,
+      "endTime": 1303.36,
+      "text": "Now, don't get me wrong, like that like there is advice, there is recommendations, all the rest of it. But once you get to the point where you've got cholesterol over a certain level, it's just like a it's a binary, yes, no, you need the statin, you don't need the statin. It feels like that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1303.52,
+      "endTime": 1312.56,
+      "text": "Yeah, yeah, yeah. I think people and uh people are basically told it's not like you have a choice, it's you will take this statin. Yeah, and that's that's that's uh which is amazing, but it's kind of like that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1312.88,
+      "endTime": 1327.28,
+      "text": "That's what I was gonna ask. Is in and I don't I'm more familiar with the UK system, in the US system, what what would happen if you were if you went to the doctors and they said you need to take the statin, you're on the insurance. Well, that seems and you said I'm not gonna take the status.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1327.44,
+      "endTime": 1350.48,
+      "text": "It depends if you if you have an insurance, but that's that's the problem. And actually, that's interestingly, that's a problem actually with the the testing model that I said is the argument against that you doing this kind of yearly checkup, yeah, would be well, actually, if you identify something earlier, and I remember having this conversation with my dad and saying, Well, there are some things if when you're my age, you don't want to know about because you won't be able to go on holiday because you won't be able to get travel insurance once you've got that result.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1350.96,
+      "endTime": 1354.08,
+      "text": "When you say know about, oh, because that's that then goes on record.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1354.48,
+      "endTime": 1386,
+      "text": "It doesn't necessarily go on record, but you've got to answer a question, right? Uh and and who does the test and is it in is it in the system, you know, digital IDs are coming soon, so then everything will be linked to that, won't it? So um, but yeah, I mean in an insurance-based system, absolutely, I think that's the problem. If you've got a life insurance policy and you don't take the stat in, do you like I don't know if you forfeit? I don't think the answer to this is like absolute, but do you forfeit it? And the problem is, you know, and this is in defense of doctors, is for a lot of doctors now, the decision they make is is put on the screen in front of them.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1386.08,
+      "endTime": 1400.08,
+      "text": "You know, they're not able to make that decision. This kind of might be an argument against AI because AI is going to do the same and make decisions based on big data sets, but you're taking the human out of it a lot because you're just basically saying, if they hit this, you make them take this.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1405.76,
+      "endTime": 1432.48,
+      "text": "So kind of this is a really huge subject, and I think we could spend hours and do a two-parter and all the rest of it. But um, I guess in the interests of time and the podcast and um maintaining sanity. Sanity, yeah. Um, so in terms of like where you went next, so where does this fit in with kind of like you taking a bit of control over your personal health and how you're using AI to support that?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1433.12,
+      "endTime": 1471.68,
+      "text": "So, yeah, I mean that that's where AI comes into this. Is that I think a lot of this stuff, so so the basics of it, like the way I kind of deem this, is there is like a so a ding is the name of this three-legged vessel in China, right? It's like a big bronze three-legged vessel. And I remember um someone talking about the three legs of it, they were talking about something else, and how if one of these legs collapses, so if something has three legs, one of them collapses, basically it falls down, right? Yeah, so so basically healthcare is or sorry, not healthcare, health is the same, right? And and the the three legs of the ding are nutrition, exercise, and sleep, right?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1471.76,
+      "endTime": 1502.32,
+      "text": "For me, that that's the three. And I I started out, if you'd asked me what about TikTok? Well, that that that's what collapses it. That's the chainsaw that that cuts through all three of them. Um, so if you'd asked me a few years ago, I'd have said, like, oh, exercise is most important, maybe what you eat, and then sleep. Now I would say it's I would say sleep is number one. Uh honestly for health, I think I think sleep is number one. Absolutely. Why is that? Um so if you don't sleep well for like one or two days, you literally start like you can literally start hallucinating. You can't focus on things, you can't do things properly.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1502.4,
+      "endTime": 1528.96,
+      "text": "You think of how much that impact that has and how quickly that has an impact, right? If you think about how your body regenerates and does things like autophagy, which is where it renews its cells, mitophagy, which is where it renews mitochondria, like a lot of those things happen in states of rest. Like you can do a fast and lie down for 20 days and that will do it. But like sleep is where your body recharges, right? You can go for a few days without doing exercise, you can go for a few days without you can go for a week without eating, you can go for a week without exercising.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1529.2,
+      "endTime": 1531.76,
+      "text": "You can't go for a week without drinking water. No, you can't.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1531.92,
+      "endTime": 1534.8,
+      "text": "No. But you go for a week without sleep and you'll be dead.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1535.28,
+      "endTime": 1556.72,
+      "text": "That's true. I mean I don't want to go too far for the other example I would have probably given with that is that I feel like if you don't sleep properly, it probably knocks everything else out as well. Like I can't imagine that I would have the discipline to eat healthily in the modern world if I don't sleep well. And do any exercise if I don't sleep well. If you don't sleep well, you're probably not gonna do the other ones.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1556.96,
+      "endTime": 1608.48,
+      "text": "Anyway, look, it's a co I think it's a coin toss, to be honest, between them. But I I my point here was like sleep is one that's underestimated. But I think you've got those three as a kind of fundamentals. For me, then like my thing and how I got really into this was like supplements, like nutrition supplements. I think the reason I got into it is because it's really, it's like it's fun, to be honest, because you can kind of like it's kind of chemistry, biology, alchemy all kind of mixed together. You can kind of mess around with stuff, you can a little bit, right? You can mess around with stuff, you can come up with all these things, and and ultimately that that's how I got into this, and then really went down the rabbit hole with supplements, but not just like about taking them, but about understanding what they did, which is what led me to the biology bit, which led me to like understanding the immune system, understanding things like um I mean, we learn this at sort of school in biology, but like the Krebs cycle and the way the energy is used, the importance of mitochondria, all of this kind of thing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1608.64,
+      "endTime": 1642.72,
+      "text": "That's kind of what led me down that that path. But I think what I've come back to is that understanding that it's really kind of unsexy, but that those three things, nutrition, sleep, and exercise are the three kind of fundamentals, and then you add stuff on top of that. So if you want to be someone who's in like reasonably good health, you've got to nail those three things down, and then on top of that, you can add all the other stuff. I think it's probably like 90%, or actually, no, I think it's probably like 60% those three. I would say 20%, and I don't like these are just like to be honest, these are just numbers I'm throwing out.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1642.8,
+      "endTime": 1685.76,
+      "text": "I could have said 30%, and I couldn't say 20%. Yeah, you wouldn't do that though, is mental health, right? Because I think that and what I'm talking about here is physical. So like you could argue mental health on its own is like 100% or 90% or whatever. What I'm saying is mental health's effect on your physical health, I would argue is probably equal to those three kind of fundamentals because they work both ways. Like your physical health affects your mental health, but your mental health, like if you're in a state of anxiety, and I say this as someone who, you know, had you know diagnosed anxiety problems for like over a decade, took you know antidepressants, like SSRIs for a long, long time, don't take them anymore, and wouldn't probably ever take them again because I now think there are better ways to deal with it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1685.92,
+      "endTime": 1732,
+      "text": "But I realized the effect that stuff had on my health and things like you know gaining weight, things like the effects on your gut microbiome, etc. But your mental health, like anxiety, drains your immune system like a COVID infection, basically. Like, and I say this to people all the time because I talk to a lot of people who have um who have long COVID and have kind of post-COVID sequelae and have uh sorry, you're gonna have to explain that if we have to explain large language model every time. What sequelae? Right, yeah. So so basically like long-term effects from COVID. So for example, they have a heart rate that is like regularly 120 ever since they had COVID, or how they have um you know, uh chronic fatigue syndrome, whatever.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1732.08,
+      "endTime": 1770,
+      "text": "People who have had those kind of problems, and I see a lot of those people have anxiety and had anxiety before or had anxiety afterwards, and the effect that that has on their mental health, and other people who have anxiety around getting sick and are sick much more than people who don't have anxiety around it. Like this is observational, but you can see in front of you the effect that that people who have you know poor mental health has on their physical health. So I'd say that's another 20%. And then that gives you if that's 80%, sorry, if that gives you 80%, which I'm saying, yeah, but I'm saying like I like the 20%, this 20%, that is just my estimation.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1770.16,
+      "endTime": 1809.52,
+      "text": "You've then got maybe 20% on top of that, which is everything else, right? And everything else might be taking nutritional supplements, it might be meditation, it might be red light therapy, it might be grounding, it might be um you know putting metal probes on your head and shocking your brain, it might be using a vagus nerve stimulation device, whatever. You've got 20% of room on top of that. But all of those things, I would argue, other than mental health and sleep, are basically so you've got. From my estimation, you've got sort of 60% of the stuff is basically in your control. So I would argue that mental health, it's not completely out of your control, but it's very difficult.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1809.68,
+      "endTime": 1840.16,
+      "text": "It's very difficult to control your mental health. You can do it, but it takes a lot of work. Yep. And sleep, again, you have some degree of control over it. But as I've tried to address like all of those things, sleep is the one that I've massively improved it. Like I generally get seven plus hours a night, but it's hard. Because when you're in a bad time and your mental health's bad, you can't sleep. Whereas my nutrition and my exercise and my supplements and all those other things, it's just my discipline, right? Whether I whether I eat in an eight-hour window every day, whether I don't drink alcohol is pure discipline.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1840.4,
+      "endTime": 1851.04,
+      "text": "Whether I do exercise is pure discipline. So, you know, within that kind of hundred percent, you can break it down however you want, but a lot of it, I would say more than half, is in your control.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1851.52,
+      "endTime": 1860.96,
+      "text": "My big my big thing with sleep, and I'm like, I'm not I don't think I'm good at sleep. Like like compared to how I used to be.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1861.84,
+      "endTime": 1863.28,
+      "text": "I slept with you once in your rubbish.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1863.6,
+      "endTime": 1865.36,
+      "text": "Yeah, I know. I tried to forget.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1866.56,
+      "endTime": 1868.56,
+      "text": "I tried to forget we didn't sleep that night.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1870.4,
+      "endTime": 1881.52,
+      "text": "Um people are gonna think this is true now. Like the anyway, I don't know. I don't think they are have they seen the two of us? No, we're probably not, we're on a podcast.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1881.76,
+      "endTime": 1883.92,
+      "text": "No, watch a video of us and no one had sleep with us.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1884.16,
+      "endTime": 1920.56,
+      "text": "Um so my thing with sleep, my big one, is is it about when you sleep? Is it about how long you sleep? Is it about what time you go to bed and what time you get up? Is it about I mean I I don't know if I've um like people have like heard this stuff about back in the day, you know, I'm talking not that long ago, like hundred, two hundred years ago, people used to go to bed and then they used to get up in the middle of the night and go and do a bunch of stuff and then go to bed again. And you sleep in three or four hour cycles. Like, is it just about because you hear so much stuff that's just like yeah, you just need seven hours sleep a night, eight hours sleep a night.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1920.64,
+      "endTime": 1956,
+      "text": "Yeah, it's like I feel like it's not that straightforward because I regularly get seven hours sleep a night, I would say. Regularly get seven or eight hours sleep a night, and I know again it's not like everyone needs exactly this amount of time, it changes over your life as you get older, blah blah blah, all the rest of it. It's not as straight, it's not that straightforward, but like I just wondered what your opinion is on that. Because my feeling is that like basically we do the worst that we can for sleep now, where we look at bel we look at lights too long, we go to bed too late, you might get your seven hours, but you get in them at the wrong time.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1956.08,
+      "endTime": 1964,
+      "text": "Yeah, you don't do it properly, so you don't do the whole thing where you should get up in the middle of the night and potter about and then go to bed again. That's a thing. I don't know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1964.24,
+      "endTime": 1994.24,
+      "text": "I mean, I'm not I'm not a sleep expert, so this is one where it's like it this is an opinion, but it's based on listening to a lot of experts. The amount of time is probably the most important, right? And the quality of it is the second thing. So the quality of your sleep. So if you monitor your sleep, you can see how much of it is REM, how much of it is deep sleep. Like, I generally only get like one hour of deep sleep a night. Most I've ever had is like, well, it seems like different pillows have different baselines. Like, ideally, you get about 90 minutes, but I can never get over an hour and 20 minutes.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1994.32,
+      "endTime": 2034,
+      "text": "And it seems like that's my baseline. And for people of my age, it seems like that's probably okay as long as that's what you regularly get. I think the time is important. I mean, drinking's terrible. Drinking's terrible because even if you sleep, you're not actually kind of properly sleeping. You can look at stuff like so. One of the really interesting things is I've improved my kind of general health, is the number of breaths that I take has decreased during sleep. So I sleep, I've gone from 15 breaths a minute to 12 to 13. Um, and when I got back, and the the reason I'm saying this, when I got back from the UK recently and I was a bit jet lagged, I got an alert that my sleep breaths had gone back up to 15.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2034.08,
+      "endTime": 2044.88,
+      "text": "And I was like, that's interesting, because that makes perfect sense because my sleep is not as good. Because what gave you that alert? So it's just on my watch, it will give me like anything outside my normal data every day. What watch was that?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2045.12,
+      "endTime": 2046.88,
+      "text": "Just Apple Watch. Nice, sponsored.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2047.44,
+      "endTime": 2052.4,
+      "text": "I was just saying, I don't think so. We'll we'll put a link in, you will get a fiver every time you buy an Apple Watch.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2052.64,
+      "endTime": 2054.48,
+      "text": "I think people can find an Apple Watch.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2054.8,
+      "endTime": 2106.64,
+      "text": "Um yeah, but um, like to me, what that proves is how easily like so showing something like jet lag, how easily that can affect the quality of your sleep. The the number of my breaths, you know, increased by like 15%. So you're you're trying to get more air. So that that is like an example of showing how it kind of important sleep is. I think the people that I really sort of have listened to and believe on this have said that, and one of the most um useful things you can do, if you think and you believe this kind of idea that you know what we evolved and our kind of ancestral, and by ancestral, I'm talking, you know, hundreds of thousands of years ago, selves would have done is we would have gone to sleep generally with um the sun and we'd have woken up with it, apart from the fact that one of us had to stay awake to stop the you know leopards from coming in and eating our kids.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2106.8,
+      "endTime": 2127.76,
+      "text": "But yeah, like you would generally live by that light. And so if in the evening before you're getting to bed, like really obvious one that I think like the only people that won't agree with this are people that just don't want to believe it, is if you look at your phone or any blue lights, you know, within an hour of going to sleep, it's going to disrupt your sleep because blue light saps melatonin, which is a hormone that helps you sleep.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2127.84,
+      "endTime": 2136.56,
+      "text": "So, like that's not that's isn't that like I mean, probably 99% of people now. Yeah, probably. And we all know this, I think.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2136.8,
+      "endTime": 2146.08,
+      "text": "I try and not do it, but then occasionally I'll go, oh, and I forgot to look at something. I look at it and I'm like, is this one minute where I've had to check something? Has that reset all the work I've done from the last hour of not looking at my phone?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2146.32,
+      "endTime": 2146.56,
+      "text": "Yeah.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2146.72,
+      "endTime": 2161.2,
+      "text": "Um, but I turn I turn like I've got a red light, like red light therapy light, I turn it on for like five minutes on a low setting before I go to bed. So the room is lit with red light. Since I've started doing it, I fall asleep quicker. This is a So like for me again, anecdotally, it seems to help.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2161.36,
+      "endTime": 2198.56,
+      "text": "It's a complete well, it's not a complete tangent because of what we're about to talk about, but in a way, like if I had a robot, this is the stuff I would get it to do. I'd be like Bobby, I'm gonna call it Bobby, Bobby the robot. When it's when the sun goes down, you give me I'm like a kid. Bobby, when the sun goes down, you give me you give me one hour of phone time, and then you come and take my phone off me. And it's just it's something that I want something, somebody it's like those habit trackers, it's like those things, but I'll you almost need something to be like to just come and remind you.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2198.88,
+      "endTime": 2209.36,
+      "text": "Well you're basically saying I don't I'm not crits idea, but you're basically saying I don't quite have the discipline, so I need to I have the discipline as in like I have the discipline to say I want to do this, yes, but you need something to make you actually do it, yeah, yeah.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2209.6,
+      "endTime": 2210.64,
+      "text": "Which I don't think most people do that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2210.96,
+      "endTime": 2245.52,
+      "text": "I think this is not AI, but like if you listen to a lot of the kind of you know buyer hackers and stuff that I listen to, they're always advertising these lighting systems, right, in your house, which is like you know, they will at at seven o'clock, so you set them around the sun. So at seven o'clock in the summer and at five o'clock in the winter they will turn down to a like more you know, more red glow, and then they will reduce the lighting, and in the day they will and and and it's all about trying to set that rhythm. And I can see kind of because you're going into AI here, a way in which AI can kind of optimize you know the kind of light settings in a way that helps you sleep.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2245.6,
+      "endTime": 2280.8,
+      "text": "But I would, you know, just going back to it for a minute, like and if I want to eat a pie, I have to run after it. Yeah, yeah, exactly. Just the most obvious like tip, and I know we're not giving advice here, but like going to sleep, is the one that people don't want to do. Is like one hour before you go to sleep, don't look at your phone or the TV or any blue light, read a book, or genuinely like it seems like a bit of a joke, but wear the red light, the sorry, the blue light blocking sort of red tinted glasses, like it has the same effect that it just stops the blue light. Because the blue light, like I said, it saps melatonin, and blue light is about being awake and just have like a redder light.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2280.96,
+      "endTime": 2283.36,
+      "text": "But the basic thing is don't look at your phone and read a book.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2285.2,
+      "endTime": 2322.16,
+      "text": "Sorry, I'm like laughing to myself now because like although this is mental, probably shouldn't use that word, but although this sounds crazy, or that one like like I can in my head I'm like I can imagine a world where like when it's dinner time I have to go and chase a robot fridge around the park to go and get my dinner because that's the only way I'm gonna get any exercise. And like to be honest, I probably would do that. Yeah, like when you when you wanna go and when you wanna when you wanna go and eat the the sneaky little treat, it runs off and you have to chase it. Anyway, sorry.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2322.32,
+      "endTime": 2327.92,
+      "text": "I was imagining like we went a long way from I don't know, I can't remember what your original question was before we even talked about sleep.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2328.16,
+      "endTime": 2328.88,
+      "text": "Baby soul.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2329.04,
+      "endTime": 2371.28,
+      "text": "But but let me just get back on track to your original question sort of 15 minutes ago, which was like how I used AI on top of this. So that's where I was talking about like if you've got the 60% and then you've got the 80% mental health, you've got 20% on top of that. That 20% is where using AI is like absolutely maximizing. And I guess actually, like with nutrition, actually, with all of those things, I guess you could bring AI into it. Is like I've I mean, this is it, it took me a while to kind of get to this point because initially I was just using AI to test stuff. Like I've built now projects which have I've got two projects, but the the main one, so a project for those that don't know in Claude is basically like you're giving it a kind of system prompt and you're putting various files and stuff in there so it draws on it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2371.44,
+      "endTime": 2373.92,
+      "text": "Um people probably don't know what system prompt means either.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2374.16,
+      "endTime": 2411.04,
+      "text": "Okay, so so I'm giving it a prompt that basically says, like, within this chat, you will always assume functional medicine principles, you will consider alternatives such as Chinese medicine, you will respond and challenge all my thoughts with you know scientific um papers to challenge what I say. You will reference my articles and I put in there um my supplement schedule, I put in my weekly kind of exercise and stuff, I put in reports, so I've got loads of stuff like you know my omega-6-3 ratio, my yearly health check. Um I mean, a lot of people might not want to put this stuff into an AI model, and there's a risk in that, but like I've decided that it's worth it for me to do.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2411.36,
+      "endTime": 2419.36,
+      "text": "But effectively, it's uh it's almost like a tailored custom model that you're that has the power of Claude, but also has all of your information in there.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2419.68,
+      "endTime": 2438.56,
+      "text": "All of my information in there. Yeah. And so it knows that I want it to challenge mainstream medicine and I want it to consider alternatives, but I also want it to challenge my beliefs. So I and I think that's a really important thing in this, is I tell it to take like a challenging because we all know that AI models will try and please.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2438.96,
+      "endTime": 2440,
+      "text": "No, people don't necessarily know that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2440.24,
+      "endTime": 2475.04,
+      "text": "Okay, well they will, they'll try and please you, and this is one of the dangers is that you have to let it challenge you. And and one of the really good things with AI is since we've moved from um sort of basic models into deep research, like when you use deep research, you can quite ask often. I could ask Chat GPT, which has a memory for me, or Claude, I could ask it a question like, um, I feel a bit tired these days. What should I do? And it'll say, Oh, you should take more quercetin and you should increase your B1 because it knows those are the things I like. And then I'm like, Are you just telling me those because that's what I want to hear?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2475.12,
+      "endTime": 2515.2,
+      "text": "And it says, Well, no, not completely, but I do know that you like this, blah, blah, blah. So I think you need to understand that it's it's doing that. So for me, one of the most important things to do is to put in there, like, to tell it to sort of challenge my conceptions and to offer alternatives. So for most people, in the kind of mainstream, you'd be saying, like, can you consider Chinese medicine and you know, sort of traditional Indian medicines and uh and um functional medicine theories and practices. For me, it's sort of like the opposite. Like, I might want to say, like, don't just consider functional medicine, also, what would Chinese medicine say, and and what would mainstream medicine say, and what would trials say?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2515.36,
+      "endTime": 2553.04,
+      "text": "So I think it's important to kind of challenge those things, but also to make sure that it understands like how you want to approach it. And so AI, like the one thing I just want to finish on this is like this stuff is really useful, but you have to have the background knowledge. I think this is really, really important with this. Is like I've noticed a few times, even within that model, really, really small things like the example and I I use this with you is there is a form of um it's like a bioavailable form of vitamin B2 called R5P, and there's a very bioavailable form of B6, which is a different B vitamin called um P5P.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2553.44,
+      "endTime": 2561.68,
+      "text": "And one time it gave me the wrong one, which most people would not pick up on, but the difference between B6 and B2 is quite significant.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2561.84,
+      "endTime": 2564.56,
+      "text": "I think most people almost everyone, including some doctors.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2564.8,
+      "endTime": 2597.6,
+      "text": "Yeah, I mean they're B vitamins, but they're like they're just called B vitamins, they're completely different compounds that do completely different things. And taking too much B2, you'll just piss yellow, basically. Like you know, if you take any B2, you'll piss yellow because that's just what happens. If you take too much B6, you can potentially get parenthesis in your limbs, like in the end of your fingers and stuff, which is not it's not gonna kill you, but like there's a big difference in that and there is a big danger in this. So I think like a big caveat here in this stuff is like you can only do this with a basic understanding because the models are still not advanced enough to get everything right.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2598,
+      "endTime": 2601.04,
+      "text": "Yeah, and uh to be fair, that was what I was gonna jump in to say.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2601.28,
+      "endTime": 2605.2,
+      "text": "And I again I don't know everything, so like I might not pick up everything.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2605.52,
+      "endTime": 2646.88,
+      "text": "I I know we're not um so I know we're not offering medical advice, which is exactly what we said earlier on. I think this is one of those things where it's a really interesting use case case for um AI, right? Really interesting. So so like one of the things Matt hasn't talked about, so what you can do, and again, you might be rightly so, you might be cautious about feeding this kind of information into an AI where at the end of the day, if you're using a commercial model, you're saying you can use my data for whatever you want, same as you do on social media and almost any of these kind of social contracts that you have.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2647.12,
+      "endTime": 2701.28,
+      "text": "Um so you know, obviously take that as you will. Um But you know, the potential with this kind of stuff is that you can feed your genome into it, you can feed your microbiome into it, you can feed your personal health history into it, you can feed your all this information into an AI model and get really, really useful, really, really advanced, really, really interesting, um personal, personalized medical advice. Uh I mean, okay, let's take one step back from medical advice. Let's just talk about nutritional advice. Let's talk about things where you can like again, you can feed all that information in and get an AI to interpret that for you so that you've got something that let's say so that you've got something you can then take to the doctor and say, I've got all this information.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2701.6,
+      "endTime": 2743.28,
+      "text": "What do you think of this? And that could be um I've got a higher risk of X, Y, and Z, heart disease, um you know, Alzheimer's, all sorts of things that you can get as indicators out of these genetic tests. Um, you could take your gut microbiome test and say it's showing that I'm like really deficient in a certain type of gut like bacteria that you should have in your microbiome. Oh, and by the way, I'm also feeling like I get I get a lot of acid reflux and stuff like that. So it could be things that can supplement a conversation with your doctor, things that can help you to live a healthier lifestyle and help you to like improve your personal health.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2743.44,
+      "endTime": 2746.16,
+      "text": "And I think that's what that's everything. This is a really great point.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2746.48,
+      "endTime": 2778.72,
+      "text": "This is a really great because this is the use of doctors. Like, I'm not saying that doctors don't have a use, but the thing is, if you go to a doctor with no knowledge, which is what most people do, right, then the doctor is one in a position of power, which some doctors are great, but some doctors, you know, either may abuse that power, they don't have time, whatever. You go in there thinking that they are kind of up here on this pedestal and they know everything. Well, they don't because doctors can't know everything because there's there's too much to know. Once you go in there armed with some information and you know what you want, you can also then use a doctor.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2778.96,
+      "endTime": 2813.52,
+      "text": "And again, I doubt shout out to to Dr. Gilbert Sche in Beijing, who we interviewed on an episode last year, and who talked about how like there is enough information now that he needs to, he was saying he needs to not be arrogant, be humble enough to know that people will know more about him and more than him about certain areas, but what they need him to do is help them to interpret that information. So stuff that Jimmy's just used, a great example, got microbiome analysis, right? Go and get one done, have a basic sort of concept of what you want to know, and ask a large language model to give you a basic interpretation and to help you interpret that data.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2813.68,
+      "endTime": 2851.2,
+      "text": "Don't then just go out of the way and act on that if you don't know anything, but then take that to a nutritionist and be like, I've seen this, I want to look at this. And so you're filtering down this like 96-page report to to three pages of useful stuff that you can go in and do. Another example that you just quoted, and I think this is a really, really great one, is my uh is the gene analysis, right? Again, question about like whether people want to um put that information out there and give that to people. I'm quite comfortable with doing it in China because weirdly, because I think, well, in China, I'm pretty sure you know they swabbed me during the the zero COVID years every single day.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2851.36,
+      "endTime": 2888.16,
+      "text": "I'm pretty sure they've got my DNA. My concern will be far more about insurance companies, you know, using that data in the future. Well, I won't be in China at that point if it happens, but anyway, I use that information, it gives you like literally the report is so big you can't put it into any large language model to interpret because it's just too big, even for Google, it's too big. But what you can do with it, like I know I want to look at particular things like what's called HLA, which basically um will help you to understand how your body, for example, um presents antigens against things like viruses, right?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2888.24,
+      "endTime": 2932.64,
+      "text": "So I can look at my breakdown, and then I can ask a model then to say, okay, this one I want you to look at this profile, and I'm concerned about risks of autoimmune disease, heart disease, and this. What does this tell me? I'm pretty comfortable and confident that the frontier models now, with that specific question, can give me accurate information, and there is a leap of faith to some degree there, but I'm pretty confident that that is the kind of thing that AI can do pretty well. Also, I can say um, what is the gene that I need to know to know whether my body um can you know uh efficiently um methylate folate, and it will tell you.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2932.8,
+      "endTime": 2962.64,
+      "text": "And you can then go to your report and click, you know, into a section and search for that genome if it has got that in your report because it doesn't give you every single one. You can then get the result, put it in and say, is this an abnormality or not? And it can tell you, you know, do I have a problem with processing choline? These are I'm getting these examples because these are things that I've done. And you can ask it which one should I look for? And it'll give you five. These all helped you to understand choline. You go into your report, you find them out. Without AI, you would have zero chance of doing that.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2962.72,
+      "endTime": 2994.4,
+      "text": "You would have to be an expert. So, two years ago, with that report, I could look at it, try and make a bit of sense of it. And the only thing I could do is read through, you know, loads and loads of reports and and and scientific papers and try and work out a bit of a become a doctor, yeah. Exactly. Exactly, try and become a doctor. Now, what AI enables me to do is with enough background knowledge, is to pull certain bits out and say, How do I find this? And it can talk me through it. It doesn't mean it's no work. You can't just chuck it in and be like, interpret this and tell me what I need to do.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2994.56,
+      "endTime": 3011.76,
+      "text": "But you can do half the work if you're willing to and you're interested enough, it gives you enough that you can do that. That would have cost me hundreds and hundreds of pounds to go and see somebody. Now I'm confident that with my baseline knowledge and a frontier model and a decent prompt, I can interpret everything in that report.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3011.92,
+      "endTime": 3043.6,
+      "text": "Yeah. And you know what? Like, I think the stuff we've talked about today, some of the things that Matt's talked about are really advanced. Like, I don't know some of the words that he's that even that he's using and all the rest of it. Like the hot the overall point is that we're moving into a world where and I think a lot of people have done this. So if you chat with a few people, I think you'll find that like people who are using large language models, people will have said to GPT, what do you think about this? Have I got this? Explain their symptoms. Well, people go Dr. Google was already a thing, right?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3043.76,
+      "endTime": 3045.92,
+      "text": "That was already a thing, right? Exactly. So that so got it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3046,
+      "endTime": 3063.28,
+      "text": "But let me just say, Dr. Google, the problem was Dr. Google, inevitably you put in my heart hurts, you think you're having a heart attack. Actually, the advantage to AI is like by giving a bit more detail, you can be given a range of options and a bit more information, and it it it is more helpful. And that's still not perfect, but it's better.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3063.44,
+      "endTime": 3111.92,
+      "text": "Yeah, and that and that's what I was about to say, like that's what I'm hoping that we're moving towards. I don't think I don't think the stuff that Matt's talking about is for everybody. Like, because Matt's effectively blending, taking a really serious personal interest in it, to the point where he's writing a blog about it. Um and so he's become very knowledgeable himself about all these things, and then he's using an AI as well to supplement that knowledge, and then he's going and researching it, spending a lot of time on it. I think that what I'm what I hope that's got happening is that we're moving to a world where A doctors in general are becoming more and more like accepting of using AI as another tool, like a another tool to their belt, another whatever it is, and I'm sure that is happening.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3112.16,
+      "endTime": 3152.96,
+      "text": "But B, like these things are becoming more hybrid where it would be great to see, it would be great to see like an approved kind of health AI model where you could actually instead of it, instead of everything have a d having a disclaimer on it, you could actually go to a model and it would offer you advice and always say, you know, speak to a doctor before this, that, and the other. But if the if the if what you're asking is I've got a cholesterol level of seven point whatever, and it and and what are my options, and it and it can come back to you and say, Well, you know, and have an honest conversation with you and effectively because that AIs can do this now.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3153.04,
+      "endTime": 3199.84,
+      "text": "I guarantee AIs can do this now, where it can just say to you, your choices are given your age, you can reduce like what's your diet like right now, and you can go and say, Okay, I eat takeaways five nights a week and do this, that, and the other, and it can just come back to you and say, Okay, if you can reduce the amount of takeaways you eat to two nights a week, and you can eat these things and you can reduce your salt intake and do this, then you can probably over time, if you do that consistently, reduce your this is all like advice you can get anywhere online, but this is the sort of thing that like might be a good intervention before getting to the point where you're like really on your knees and and too fat and overweight and and um you know basically being like, Yeah, you need to go on statins.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3200.4,
+      "endTime": 3255.92,
+      "text": "Um, because that's the kind of thing we're talking about, right? Like some kind of something that you can have a chat with that's probably gonna be very cheap or very or free even that can like offer you advice, and if you choose to ignore it, fine. Um I feel like many people these days you know I it it's easy to say this kind of stuff is obvious. Like, I think the problem is willpower and all the rest of it is very complicated, but the more stuff you can have that can just like do those little interventions to be like, well, this easier choices, and probably be quite frank about it to be honest, be like the easier choices, if you do this, it'll probably extend your life by X number of years, and it'll reduce your cholesterol and mean that you won't have a heart attack, or you can leave it and then you're probably gonna end up on statins, or you can do nothing at all, and then you're probably gonna have a heart attack and live 10 years less, which is like but do that in a personalized way, yeah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3256.08,
+      "endTime": 3294.4,
+      "text": "I I I wanna I mean I I do want to talk about the dangers because I think this episode has to talk about dangers because it that there's a there's a big one here, you know, on on the future of kind of healthcare and AI. But before we do that, I I just want to like a few really simple solutions and and ways that this is really easy. Like, if you want to, for example, um you know, the big the the hot thing that I I noticed I was back in the UK the other week is protein, and it's weird because like I've just got into trying to eat more protein and I I don't measure it like I don't count it, but I'm consciously trying to eat like between sort of 1.2, 1.4 grams of protein per kilogram now.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3294.64,
+      "endTime": 3299.2,
+      "text": "And I wanted to sort of estimate per kilogram per kilogram on my body weight, yeah. So estimate how to do that.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3299.52,
+      "endTime": 3301.36,
+      "text": "So if you're like a hundred kilos, one kilogram.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3301.6,
+      "endTime": 3333.12,
+      "text": "Yeah, so it's basically like okay, not one kilogram, a hundred grams. Oh, sorry. Yeah, so so I was like working out, okay. Um, you know, I in the morning, like I usually eat two eggs. Well, I'll up that to three eggs, and I'll I eat some nuts every day, and I like okay, so I usually eat this, this, this yogurt, this how you know, how much more, like how much would that roughly be? Oh, that's 46 grams. Okay, what would I need to do to increase it to this? Well, you could do this, this, I eat fish three times a week. What about this? Well, if you eat this and this, it's like eat a chicken breast, you know, every night.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3333.2,
+      "endTime": 3368.08,
+      "text": "Okay. No, basically, like it will, but this is where it's really good is like you can just feed in, like, well, I do this already and I want to do this, then what could I do? Oh, well, what about if I did this instead? And you can just help yourself kind of get to that. Like, I don't want to be in the point where I'm counting every day as like I'm only 129 grams, right? I just want to be like, I'm roughly in the in the zone. So that's really easy to do with AI in a way that, yeah, maybe you could have done that by by finding an article or watching a video on YouTube, but it's really empowering, and I think that's the kind of thing again, where it's like, I don't think there's an issue with trusting an AI model in that.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3368.16,
+      "endTime": 3396.64,
+      "text": "Like that they can tell you very easily and very accurately. Well, you can't overdose on protein either. But roughly, like, roughly how much protein it is. Of course, it just depends on the size of a chicken breast, right? Yeah, it depends on how good the chicken breast is. And of course, you should have like an organic and grass-fed chicken, and of course, grass-fed meat is going to be slightly different from another meat, but like you can be in the ballpark. It's like, okay, well, if I eat like a few nuts in the afternoon and I have a yogurt in the morning, then I'll be in the ballpark. It's a really good way, I think, of of kind of doing it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3396.8,
+      "endTime": 3427.04,
+      "text": "Um you sound so middle class, upper middle class, I would say. Yeah, well, I am here. If I if I move back to the UK, I'll instantly be poor again, but a few nuts in the afternoon, yogurt in the morning. I mean thing is, I do I mean, I do make my own yogurt. You have more organic. I do make my own yogurt and have nuts in the afternoon. You've got chickens running around outside as well. I buy them from an organic farm on the outskirts of aging. Yeah, yeah. I mean, all this stuff is charming. But all our listeners are middle class people in their forties, so I'm trying to, yeah, but I want to get it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3427.2,
+      "endTime": 3457.52,
+      "text": "Apart from Jonathan, he's um he's upper class. I don't know which is from. And Ed, Ed from um from the US. Yeah, I think. Yeah, shout out to Ed because we're sorry we're doing this kind of episode, but we did the news one. So but we're not gonna stop doing it for you like that. Anyway, um, I was gonna give another example. Like, this is again like maybe a bit of a too specific example for me, but this shows like with a bit of knowledge what you can do. So I actually this is like really, really specific. There we go. Um maybe I'm not gonna do it because it's too specific.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3457.68,
+      "endTime": 3468.24,
+      "text": "No, go for it. We're 57 minutes in. Right. People need to really if anyone's made it to 57 minutes and whatever seconds we're on, 45 to be specific, yeah, then they're gonna listen to this.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3468.4,
+      "endTime": 3506.64,
+      "text": "Yeah, they're gonna finish the episode. So if you have a um a supplement protocol, or maybe you have a maybe you have an exercise protocol, right? So you could put in, and this is where the kind of prompt is important, like what are your goals? What are the things that are important to you? What are the you know, um what are your what are your priorities? Like, what are example? So, for example, it's like um I'm a 42-year-old male, there's a history of heart disease in my family, um, I'm slightly overweight at this this height, this weight. It's but personal. I want it's not me. I I'm in great shape.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3506.8,
+      "endTime": 3549.28,
+      "text": "I know, but oh yeah, yeah, you yeah, you need to listen to this uh example. Um, and I am also concerned about um my uh brain health or mitochondria health or whatever, um, and give it a bit of information about your lifestyles. Like I try and spend like a bit of time in the sun every day. I walk to work, which is like two kilometers every day, I do this much exercise a week. Um, and here is like the supplements that I take. Here is my general diet, and like give it a load of information and then ask it to give you like what I tend to do is like ask it to give me a numerical rating for all of this stuff.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3549.36,
+      "endTime": 3583.84,
+      "text": "So give it feedback, but give me a numerical rating as well. And the reason I ask for numerical rating, I'll say in a minute, but give me kind of feedback on this stuff um around these goals. It's really important with this kind of thing again to be like putting in like a sort of challenge that I want you to not only challenge like where there are risks involved, but also like challenge me for where there are like um what was to say, like a kind of overlap, right? So if you're like you know, if if you're if you're sleeping well already, it's like well, you don't need to this if you're sleeping well.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3583.92,
+      "endTime": 3635.84,
+      "text": "So give you all the times it optimized. The reason I say to give you a numerical rating is because for that numerical rating, like helps you to identify okay, if I'm like, do you know what I want to cut five things out of this? You can just draw a line through it, right? And be like, I'm gonna drop the five that are below the The line. I'm not saying that the numerical rating is accurate in terms of like if it gives it a nine out of ten, is like, well, it it genuinely is a nine out of ten. But it's gonna take burgers every day. But it gives you a ranking. Like, if I so for an example, like I and I did this and I gave it uh uh supplements and it gave me a ranking of like there were several things it told me to drop, and it wasn't because they didn't have any effect, it was like because if you're taking this and this antioxidant and then you're taking this and this one, like you might be gaining like 0.1% of benefit for this because you're already taking this, right?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3636.08,
+      "endTime": 3669.12,
+      "text": "So it's not telling you that on its own, like it's not useful, but it's it's telling you like what you can drop. Because I think one of the things that I'm always trying to do is I start out with a point, like I this might sound like reverse, but for me is like I start out by trying to do everything to get myself into good shape and be like, okay, what are the things that actually like I don't need to do, and then try and kind of drop stuff out. But my my point with this is like the more information that you give specifically about like what are you doing, what are your goals, like what are you willing to spend, what are you willing to sacrifice, etc.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3669.28,
+      "endTime": 3704.88,
+      "text": "And give all that information and then just get it to give you a load of options and get it to rate everything that you're doing, it allows you to kind of prioritize the things that you're doing. Because I think for most people it's like you know there's a hundred things that you should do, right? Yeah, yeah. I mean, it's like it's like the thing trying to cut pollutants out. Well, maybe not the one thing, but it's like for me, it's like I'm happy to do 20 things, but I can't do 25. You know, it's like it's like cutting those things out, and I think this again is where AI, like the amount of research you'd need to do without AI, and of course, when it tells you to do something and you've got a list of 20 things, well, then go and do some reading on them, right?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3704.96,
+      "endTime": 3737.2,
+      "text": "Don't take AI as like the definitive answer. If it tells you to take, you know, if it tells you to take more vitamin B2, at that point you need to go and find out what vitamin B2 is, but you don't need to know everything beforehand. I think for most people as a starting point, is like give you a load of stuff, and then when you've got 20 things, go and research those 20 things, and then decide maybe you're like, actually, I I just don't believe this, I don't think the evidence is there. But otherwise, you're starting off with like too much stuff. You're starting off with like a million things that are being thrown at you all the time, and like this is the new miracle cure.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3737.36,
+      "endTime": 3747.52,
+      "text": "That's the other thing is that there's no miracle cure, right? There's no miracle cure for anything, there's just things that give you a little benefit, live a healthy life, and you add them on top of each other, yeah, yeah, yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3748.4,
+      "endTime": 3778.64,
+      "text": "And most of it is just like it's it's the same old thing, which is why I mean I made those silly jokes earlier on, but I guess the reason why people pay for a personal trainer is not because they don't know what weights they need to lift, it's because they need to be made to do it effectively. You know, most of the time people have somebody to there to shout at them to lift the thing up. It's not like after a point, it's not because you need to learn the right technique, it's because you want someone there to tell you to do it.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3778.88,
+      "endTime": 3815.36,
+      "text": "True, but I also I also think with like giving the specific example, because it's probably the thing that I know the most about and that I've I'm asked the most about, is like supplements. The problem with supplements in particular is there's like there's always the new trendy supplement, right? There's a new thing whether it's NMN or ULIFNA, like people who know about this stuff will know there's there's the thing that is out there and that's being marketed at that point, and it's like it's trying to cut through, it's trying to cut through that. Yeah, it's trying to find a way through that because it's not that it doesn't have any benefit, but it's like it's it's jumped on and it's made out to be this like that that's where it is the kind of miracle cure.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3815.44,
+      "endTime": 3827.76,
+      "text": "There's no miracle cure. If you if you care enough about your health that you you are willing to invest in something that's going to add like 0.5% or 0.2%, then like a lot of supplements have value.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3828.16,
+      "endTime": 3842.88,
+      "text": "If you just want to add like the basics, I would say like you could just uh supplements are surely the icing on the cake, not the absolutely, but but but supplements are but but that's what we're saying is like the basic things are nutrition, sleep, all that kind of stuff.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3842.96,
+      "endTime": 3850.32,
+      "text": "Yeah, is all there. Like a lot of the time you are using AI to help you with the sub with with the icing on the cake.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3850.56,
+      "endTime": 3858.24,
+      "text": "Oh yeah, yeah, because it's the complicated stuff. Because it's a complicated stuff. I don't need to ask AI how many hours of sleep I need tonight. I need to just go to sleep and stop talking to AI.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3858.48,
+      "endTime": 3888.8,
+      "text": "But you're probably and this is I I'm saying this is someone who takes like 30 supplements every day. 70% of the benefit is probably from the top five, and the other 30% of the benefit is from the other 25. But AI will help you to find that 5%. But the thing is, there aren't like people say to me, it's like, well, if I just take five supplements, which ones? You're like, well, what do you want to do? What's your lifestyle like? How much time do you spend in the sun? What's your diet like? What do you have any health problems? It's like that's the kind of thing that putting that stuff into AI, like it can help you with that.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3888.96,
+      "endTime": 3898.24,
+      "text": "It's not going to give you the perfect answer, but it gives you enough of an answer to then go away and research. And researching five things is easier than trying to cut through all of the health advice that's out there.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3904.4,
+      "endTime": 3910.88,
+      "text": "So that's all well and good. Um, but I think we probably do have to talk about the dangers a little bit here, right?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3911.12,
+      "endTime": 3947.52,
+      "text": "And we're talking, yeah, we do, and we're talking more like not the dangers of like using a um a custom prompt to like you know ask a few questions about some test results. We're talking here about like when we're talking about health and AI. Making medical decisions, basically. We're talking about making medical decisions, but we're also talking, I think the big danger for me is like so so we've said since the very beginning that like the most hopeful cases, I think both of us have said for like AI use is in healthcare, basically, like protein folding or like diagnosis, early diagnosis of of potential disease or personalized medicine.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3947.92,
+      "endTime": 3984,
+      "text": "But also, I think like some of the biggest dangers, and not to take into a case into account here things like you know, sort of bioterrorism and the ability to create viruses and stuff, but just the fact that by having AI-driven healthcare, like who controls that information? So at the moment, like I'm saying I'm pretty confident in that information, but at what point does the healthcare information that I'm being given, you know, that's telling me at the moment, um, okay, I want you to take a functional medicine approach, it's telling me I don't need to go and take this drug. At what point does it start telling me, or you were talking about having this like custom kind of healthcare model?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3984.16,
+      "endTime": 4018.56,
+      "text": "You know, who's created the data in that model? And what is that telling me to do? It's it's telling me that I need to take X because that benefits somebody. Like the big danger for me is the danger with a lot of this. Gets infected, like the training data is possibly infected, but at any point that it becomes a kind of tool, you know, commercial tool is who controls the day, who controls the information? Because my whole thing of like the dangers of healthcare, the great thing is AI has helped me to democratize and to be able to take control away from the control that pharmaceutical companies have and Big Pharma has over healthcare.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4018.72,
+      "endTime": 4027.84,
+      "text": "Well, as soon as they get their piece of it, they're then in control of the model, and then all the information I think is open to me and that I think has democratised my experience is gone.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4028.16,
+      "endTime": 4038.32,
+      "text": "It's yeah, so it's saying to you, Oh, you definitely need to go and see a doctor, and they're probably gonna advise you to take a stat in because that's Well, I don't even see the doctor because it just tells me you take this.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4038.48,
+      "endTime": 4042.32,
+      "text": "Oh, and by the way, I'll I'll bring it I'll deliver it to your door in half an hour.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4042.8,
+      "endTime": 4088.48,
+      "text": "I really hate the way the world's gone in this respect. Like that that like that like data and information has become the biggest commodity and it's effectively used against you and uh in it from every angle in every single way, right? So like a lot of the complaints people have about the algorithm algorithms that social media use, and I know I'm going slightly off on a tangent, um, but it's on the same lines. Like a lot of the complaints that people have against these algorithms is that you know they they sort of take your will away from you and then they just feed you stuff that they know is gonna get your engagement because they're effectively smarter than you in that respect.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4088.88,
+      "endTime": 4111.68,
+      "text": "And it's but it's your data being used against you. It's the mass data of all the people on the planet, all been fed into this thing, and then it turns turns through an algorithm and then it gets used against you. And it feels like that happens more and more and more with data, and what you're talking about is the same thing, right? It's like it's like I I to be honest, I hadn't even thought about it.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4112,
+      "endTime": 4115.76,
+      "text": "Data be good can be good and bad for you. No, no, but I don't know which end of it you come out, right?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4116,
+      "endTime": 4152.96,
+      "text": "But it's been commercialised, right? But it's been commercialised, and so and so most of the time it's been used against you as much as it's been used for you. And when I say that, I mean it's been used against you as in it's been used to grab your attention against your will, yeah, to a certain extent. Like I, you know, when I talk about social media algorithms, and that's what that's what that's the issue that a lot of people have with it, right? It's been it's been turned against you to uh effectively take your attention away because they know that we're weak willed. They know that we're weak willed.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4153.04,
+      "endTime": 4188.8,
+      "text": "I mean, effectively we are relatively weak willed, and so you'll watch that next video, you'll watch that next video, you'll watch that next thing, you'll you'll watch you'll you'll get hooked on that next bit of information that grabs your attention because it's tuned to do that. And it's the same thing with this, like the reason I got sort of went off on that tangent is because it's like I'll be honest, I was a little bit naive about it. I hadn't really thought about what you was what you said until you said it. And it's but it obviously is gonna get used in that way. Like the the commercialization of this is going to be those big pharmaceutical companies that have uh vested interest.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4189.12,
+      "endTime": 4203.44,
+      "text": "And the thing is they'll mask it and hide it. So even if you don't know, in the same way that you don't know right now that your doctor's actually in quotes secretly working for the pharma company, which he isn't or she isn't, but they've been manipulated.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4203.76,
+      "endTime": 4213.52,
+      "text": "Well, all the supplements I take, you know, ChatGPT, Claude might be sponsored by life extension supplements, and they might be funding the model to tell me I should take more choline and more vitamin D.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4213.84,
+      "endTime": 4215.12,
+      "text": "I hate this, I really hate it.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4215.52,
+      "endTime": 4250.56,
+      "text": "This let me give you I I hadn't thought of this as well for this episode, but let me think of that there's an example here. So um in the summer when my my parents were over in in China, and um I think this is brilliant. Like I think this thing is brilliant, I think it's an amazing, amazing concept that like all of this stuff is fraught with the same dangers. But let me explain. So in China, there are two companies mainly, Mei Tuan and Jindong, um, and both of them have a kind of healthcare thing. You can get a test to your door. So you get a little kit, it's like the swab that you would have done um during sort of zero COVID or what whatever COVID restrictions in your country were.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4250.72,
+      "endTime": 4285.36,
+      "text": "You swab your nose and throat, you put it into a tube, you scan the barcode on the app, and you basically give it to the driver. Within three hours of you booking the service, you get the result back. You can choose between either 12 or 16 common respiratory infections, right? So um my what you pay more if you get 16 for gym. You pay more if you get it. It's testing. Yeah, yeah. It's testing. It's basically a PCR test. I know you know some people think PCR tests is bullshit. Uh, we're not going to get into that in this episode, but it works. There are questions around whether it like multiplies dead virus particles that are irrelevant.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4285.44,
+      "endTime": 4319.52,
+      "text": "But anyway, you you get a result from it. The more expensive one, you also get your um CT reading, so you can see how many copies of the virus there are, so you can see how big your your your load is. Anyway, one of my family members had um the test done, and my dad had had a cough for like a week. I was like, look, why don't you just get this done? We can see what you've got. So he did it, it came back, and it came back with with three things. Um, two of which are basically um you know things, things that are like a few of the test results are basically bacteria that you pretty much probably most people always have in their body.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4319.6,
+      "endTime": 4360.88,
+      "text": "It's just whether they become unbalanced or not. And then one thing is a viral infection, and gives you a result of that viral infection. Now, like he was fine, and he won't mind me saying this. Like, he was fine, he doesn't need to have any treatment. But we're just like, well, you can check if it's bacterial, then you might need antibiotics. But then it comes up with here's the results, here's what you've got for my other family member, here's the result, here's what you've got, and then the other family member um was like, Okay, I want this medicine. You click on it, and it doesn't work for foreigners, but as a Chinese national, it will immediately um then basically deliver that thing because the result is essentially like the doctor's prescription for the pharmacy.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4361.04,
+      "endTime": 4396.08,
+      "text": "The pharmacy is by Maitran or Jindong. We were sat in a restaurant at the time, within 20 minutes, that medicine was delivered to us by a courier at the restaurant, right? So morning, you wake up, you order the test, within three hours of test results back, it was back within about two hours, within 30 minutes of that, so within two and a half hours of calling for the result, that's sorry, calling for the test, you've got the test result and you've got the medicine. How do we know that she ever had or he ever had that infection and needed that medicine? Now, I do trust it because it was a medicine that was like, you know, three pounds, right?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4396.16,
+      "endTime": 4421.6,
+      "text": "So it's not making a lot of money, but at what point does it just tell everybody that has it, well, you've got this thing and you need this thing that's £10, and it does that a million times? That's £10 million a day. Like you can see how easily this system can manipulate. It's such a brilliant idea, it's such a brilliant idea, it's so powerful, and it's so easily abused. Okay, and it exists, but right, okay.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4421.84,
+      "endTime": 4456.88,
+      "text": "But so at the heart of that though, and maybe this sounds mad to people who haven't read Big Pharma, how is that different to what's going on right now? It's not because that's literally how pharmaceutical companies work right now. Pharmaceutical companies right now Okay, no now I'm not saying they haven't got a good bone in their body, they obviously produce drugs, they obviously produce they obviously do produce drugs that are effective against certain things. But there are definitely again let's go back to the opioid example that we talked about earlier on. I talked about earlier on the episode.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4457.44,
+      "endTime": 4480.56,
+      "text": "That was definitely a case, and you can watch the documentary DopeSic, which is a fantastic dramatization of how it all worked, but effectively that was we need to sell a load of stuff to doctors, sorry, to patients via doctors, yeah, and it was exactly the mechanism you're talking about where probably none of the people that ever took Oxycontin ever should have taken it.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4480.96,
+      "endTime": 4512.48,
+      "text": "So it's not it's not worse, but my point here is that this thing, so allowing you to do the test at your door, right, is freeing me very convenient, is but it's convenient, but it's also freeing me because the reason I do it is more like yeah, so that again, like I'm obsessive about this, right? But it's about like I like to have a record, so I like to track things. So if I had an infection, I'd like to track it three times to see the CT score to work out how my immune system's working. Because I'm I'm like I said, at the moment I'm basically using myself as an experiment because I want to understand how a body works.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4512.8,
+      "endTime": 4548.48,
+      "text": "What I'm saying is at the moment, this thing democratizes the process for me and allows me to be able to find that information without going to a hospital or a doctor's to do this test. I don't have to go anywhere, I don't have to leave my apartment, right? And then I can get the medicine. And what I'm saying is this thing that has democratized it, which is, and it is AI because it's an AI algorithm that is matching up the diagnosis and then with the medication that you can choose and saying how like how much do you need it, etc. etc. Is this thing that has democratized it, if that's in the grips of big pharma, the democratisation has been taken away.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4548.56,
+      "endTime": 4554.4,
+      "text": "It's not that it's any worse, but it's taken away my ability to have control myself because it's taken me straight back into the system.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4554.8,
+      "endTime": 4562.16,
+      "text": "I can see how it's very open to abuse, but other than other than buying all the testing equipment and having it. There is no way around, yeah.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4562.24,
+      "endTime": 4595.6,
+      "text": "I mean, that is the answer. And I know I know a guy who has a PCR test machine, they cost here about £2,000. He's got one at home, and he does all his testing at home, and people think he's a he's a nutcase. But actually, it's like, well, he's got complete control of it because apart from the fact you could say, well, they're sending him a bottle of you know, the the the the whatever it's called. Yeah, exactly. That's gonna give you this result. He's got some control over it. Like that's maybe I mean, and maybe that's the answer. Maybe AI allows you to just have the diagnostic kit home again yourself.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4595.76,
+      "endTime": 4602.32,
+      "text": "But even then you've got the question of well, who who's who set the algorithm in the diagnostic software?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4602.88,
+      "endTime": 4626.64,
+      "text": "Yeah, and I think that's maybe a little bit too far down the rabbit hole. Like the stuff in China is super convenient, I'll I'll admit, and and actually it to be honest, a lot of it makes a lot a lot of it makes a lot of sense. Like if you're if you're feeling weak and frail and not very not top of the world, like the last thing you want to do is necessarily go to a place with lots of ill people.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4627.04,
+      "endTime": 4635.04,
+      "text": "Well, so even if you even if you're okay, if you go to that place, the most likely place to get ill is in a hospital, of course. Or you know, a waiting room for a doctor's clinic.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4635.28,
+      "endTime": 4674.8,
+      "text": "Absolutely, like the like the you know, you you effectively if you've got the flu, everyone says isolate is like the best advice isolate for yourself and for other people's benefit. Yeah and if the first thing you have to do is go to a place with lots of people, yeah, that's not very sensible, obviously. So so so like in that sense it makes a lot of sense. I think obviously you don't want to go too far down the rabbit hole in terms of like big pharma controlling all this, that, and the other. But I think I think overall, in terms of the theme of the episode, it is AI has got a huge, huge, huge potential in health and personal health and commercial health as well.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4674.96,
+      "endTime": 4712.64,
+      "text": "Um, it's got huge potential in terms of helping doctors to be able to make um like more quickly analyze results and make more accurate uh diagnoses. It's got the potential to allow you to take control of a little bit of that back to yourself personally and help you to either inform yourself or like make suggestions, make um make recommendations to the doctor potentially. Like have a have a c have a conversation with a doctor where it feels like you're on more of a level footing. That's one of the things that I feel like AI is really good for in general. Like you go into a conversation, it could be okay, let's take it out of medical.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4712.8,
+      "endTime": 4735.68,
+      "text": "You could ask, you could have a you could consult with an AI on your legal grounds for something before you go and talk to a lawyer, and it puts you in a position where like you you're armed with a lot of knowledge very quickly, where you can enter a conversation where you're more you're slightly more on a level footing, you're still relying on an expert, you're still ultimately putting your faith in them, but you might be able to smell bullshit a little bit easier.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4736.72,
+      "endTime": 4755.04,
+      "text": "So that's such a good analogy of it. It's such a good analogy. It's it's putting you like halfway. Yeah. Right? You go in there as like not necessarily an even, but you don't go in there as just like, here's someone, you you're not easy to manipulate, you're not easy to take advantage of because you're starting off from a from a baseline of of some level of knowledge.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4755.28,
+      "endTime": 4797.92,
+      "text": "Yeah, which I think is is important. And like, you know, uh it's not like doctors have tons of time for you necessarily. Like, you know, how can you how can you make that time that they have with you more efficient, right? So if you've ruled out a bunch of stuff, if you've done all this work, if you've got a doctor that's and then this is all reliant on a lot of things, but if you've got a doctor that's receptive to that and is quite open-minded, then actually you can go into that conversation, you can be like, Well, I've already looked into this, this, and this, this is what the AI said. You know, it might rule out a whole bunch of stuff really quickly in that 30 minutes that you get or 15 minutes that you get in that consultation, so that you're actually being way more efficient with that time because time is really valuable with all these kinds of like professionals, right?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4798.24,
+      "endTime": 4833.52,
+      "text": "Yeah, I I just let's to finish off like my final thoughts on this episode is I think where we come out is like it's basically the same as everything is that AI is not the problem here, it's people that are gonna be the problem. Like, tools at the moment allow you, and maybe you know, maybe this is sort of like the most kind of naive time actually for them not being you know completely manipulated. But at the moment, as it stands, it's really really helpful in terms of your health and in terms of helping you if you want to take control and and be you know empowered on your own kind of health journey.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4833.68,
+      "endTime": 4882.32,
+      "text": "In the future, it is going to give us more and more personalized medicine, it's gonna allow us, which is a great thing, it's gonna allow us to personalize things to our own goals, to our own particular situation, with that become you know the same challenges about who has access to that information, how they can manipulate that information. And to some degree, like how much that happens, I say to some degree, because not totally, but to some degree that's open to us, right? Who do we elect in terms of governments, who do we allow to have that power? I'm not naive enough to think that we have control of all of it, but I also don't think it's so hopeless to think that you know none of it is in our control, but we need to be very, very careful, um, and we need to make sure that you know, as much as possible, it is a force for good, um, and that it's not something that just becomes another tool to exploit people with.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4883.04,
+      "endTime": 4895.68,
+      "text": "And I think that about wraps it up from us, your personalized uh 90s Radio One DJ and the head of the health system in the US.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4895.92,
+      "endTime": 4915.92,
+      "text": "Yeah. Who, by the way, I'm a big fan of. Dr. Vox. Yeah, or both of them, RFK as well. Controversial opinions. Yeah, but um he's got he's got some controversial opinions that I don't agree with, but I think his his crusade is being done for the right reasons, and and so I'll accept a few um wacky ideas on the way if he manages to shake things up.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4916.16,
+      "endTime": 4918.8,
+      "text": "He plays some good tunes as well. He does, yeah.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4919.36,
+      "endTime": 4921.92,
+      "text": "Doctor Doctor Fucks, give me the news.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4922.08,
+      "endTime": 4923.52,
+      "text": "Oh no, I meant RFK.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 4923.68,
+      "endTime": 4924,
+      "text": "Oh",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 4933.84,
+      "endTime": 4936.4,
+      "text": "the sickness, not the cure.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 4939.84,
+      "endTime": 4965.92,
+      "text": "Wrap it up in something pure. Why call it smile? Say trust the plan, but I see the money in their hands. They call it science, call it spot.",
+      "chapterIndex": 12
+    }
+  ]
+}

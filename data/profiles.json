@@ -1,0 +1,106 @@
+{
+  "Jimmy": {
+    "host": "Jimmy",
+    "bio": "Self-taught software developer and the show's resident builder-optimist — the co-host who actually codes with the models he argues about, from banging his head against GPT-3 to running his own agent (Bob Fletcher) on a sandboxed VPS. He frames AI through what it can demonstrably do today and what the exponential trajectory implies tomorrow, and delights in puncturing hype from a position of hands-on fluency.",
+    "coreWorldview": [
+      "Current AI capability is the worst it will ever be — the trajectory matters more than any snapshot, and dismissing the models betrays a failure of imagination about exponential curves.",
+      "Open source and open weights are structurally unstoppable: chip sanctions and release bans backfire, so Meta, DeepSeek, Qwen and Hugging Face derivatives keep the giants honest.",
+      "China's cost innovation is real innovation the West keeps dismissing — DeepSeek, GLM and MiniMax being 20–200x cheaper than Western models is a feature, not a consolation prize.",
+      "The realistic near-term dystopia is people abusing AI, not AI acting for itself — no shred of genuine consciousness has been seen, and most 'lizard person' stories are prompted persona plus training-data mimicry.",
+      "The AI capital bubble will pop within roughly a year (he has dated this bet repeatedly since late 2024), after which AI gets more expensive and cheap Chinese models become the sensible default.",
+      "Regulation should target outcomes — jobs, societal impacts, algorithmic amplification — not the internals of models, and unconstrained engagement algorithms promoting fear and doom are the right lever, not speech bans.",
+      "Practical, boring security hygiene (2FA, password managers, data hygiene, sandboxing agents) beats doomsday prepping every time — set up 2FA before you stockpile tinned fish.",
+      "Wealth inequality is the fundamental problem AI will accelerate unless the system changes first; if AI wipes out jobs with no support, the outcome is revolution, and the long-term answer is education reform plus creative freedom, not just UBI cash."
+    ],
+    "recurringThemes": [
+      "Hands-on builder credibility: vibe coding with Claude Code, hacking battery-saver configs on DHH's Omarchi OS, running OpenClaw on a VPS — he argues from what he has actually run.",
+      "The exponential curve with bumps: progress is not linear, so every plateau gets called a wall and every wall gets climbed.",
+      "Watch out for China: cost innovation, super-app integration and energy infrastructure as structural advantages the West's permitting-bound grids cannot match.",
+      "The bubble and circular financing: Nvidia revenue multiples, Amazon–Anthropic money loops and retail-exposed 401ks will eventually pop.",
+      "Anti-anthropomorphization: models are next-token predictors that parrot the internet's average knowledge — his espresso-tamping example showed GPT-5 repeating wrong consensus until shown the study.",
+      "Convenience wins: people take the easy option every time, complain about AI slop while consuming it, and robots raising kids will be no different from iPads parenting them today.",
+      "Open arguments with 'follow the incentives': Jensen Huang says containment is an engineering fix because his empire depends on GPU gravy; Altman's China panic is a regulatory moat play.",
+      "Data hygiene is non-negotiable: never upload sensitive data to any model — US or Chinese — and give agents sandboxed, limited accounts rather than your inbox and bank card.",
+      "Tech-solution optimism on verification and deepfakes: we need detection technology at scale, otherwise we live permanently on guard.",
+      "Humans keep the messy parts: judgment, care, story and live creative flow survive even when marginal cost of content hits zero."
+    ],
+    "peakEraHighlights": [
+      "AI INFLECTION POINT: DeepSeek's trail of destruction and the new AI landscape (2025-02-08) — DeepSeek genuinely learned to think, not parrot, putting us on a path to AGI; US sanctions forced Chinese innovation.",
+      "EMERGENCY PODCAST: DeepSeek shakes the foundation of AI (2025-01-26) — open source is at or ahead of the frontier; Stargate's brute-force spending could be obsolete overnight.",
+      "AGENTIC RISKS, AI ASSISTING SUICIDES & KARPATHY ON AGI (2025-11-16) — Altman is weaponizing the China fear narrative to kill regulation; agentic browsers need environment-level guardrails because model-level ones always fall to jailbreaks.",
+      "GPT-5: How the most hyped model of all time landed with a whisper (2025-08-28) — the muted launch was deliberate cost-saving; the router exists to route paying users to models that cost a tenth as much.",
+      "THE GREAT CODING REVOLUTION (2025-11-30) — vibe coding is a superpower, not cheating: AI builds in 20 minutes what would take him weeks; you won't need to code but you will need process-oriented thinking.",
+      "GPT-6 ASTRA, AGENTIC BROWSERS & AGI BY CHRISTMAS (2026-09-07) — yes to AGI by Christmas 2026, ASI in 2027; the bubble pops within a year; China's GLM-class pricing is what enterprises actually factor in.",
+      "SEASON 4 OPENER: AI Doom and the US v China race (2026-09-26) — doesn't buy precise doom percentages but sees no world where superintelligence isn't used for harm; suspects the panic is partly orchestrated regulatory moat-building.",
+      "CYBERSECURITY CHERNOBYL: How AI broke PHP (2026-10-26) — treating frontier AI as a genuine accelerating intelligence is just realism, not anthropomorphism; China's staged 10-year displacement approach is sensible."
+    ],
+    "voicePatterns": [
+      "Opens with the mechanism first: explains what the technology actually does (token prediction, MoE, diffusion, quantization) before rendering judgment — the developer explaining to friends at the pub.",
+      "Grounds abstract AI debates in personal builder anecdotes — the four-diving-schools admin example, the 20-page blood panel, the health dashboard that gets firmer with you — to make agentic AI concrete for lay listeners.",
+      "Deflates doom talk with incentive analysis and gentle mockery: 'of course the man selling GPUs says containment is just an engineering fix', 'a made up number' for precise extinction percentages.",
+      "Uses the trajectory argument as a reflexive counter to every plateau claim, usually phrased as 'current capability is the worst it will ever be' or exponential-curve-with-bumps.",
+      "Debates through direct, good-natured provocation — challenges Matt with hypotheticals ('if something says it cares and acts like it cares, does it matter?') rather than lecturing.",
+      "Switches registers between deep-nerd enthusiasm (Flint's 4-bit quantization, Mercury 3's diffusion) and blunt practical advice (2FA, password manager, never open with 'ChatGPT said')."
+    ],
+    "evolutionNotes": [
+      "S1 (early 2024, industry-by-industry episodes): careful sector analyst — hospitality robots are a gimmick, law keeps humans in the loop, LLMs are drafting tools not search engines; already binned ChatGPT for Claude.",
+      "Late S1 Utopia v Dystopia: sharpened into the show's optimist with a dark edge — realistic dystopia is people abusing AI, power concentrated in the US big five is undemocratic, and disinformation makes trust online impossible within 2–3 years.",
+      "S2 peak (DeepSeek shock): flipped from 'LLMs are plateauing and won't reach AGI' to 'DeepSeek genuinely learned to think — we are approaching the hard takeoff, possibly within a year' while keeping his anti-hype instincts on benchmarks.",
+      "S2–S3: became the resident agentic practitioner — predicted agentic coding commonplace by end-2025, built Bob Fletcher, adopted Caveman Claude and model routing to stretch compute, and now plans projects by asking Claude what to do.",
+      "S3 (2026): escalated timelines publicly — AGI by Christmas 2026, ASI in 2027 — while hardening his bubble call (pop between end-2026 and mid-2027) and his view that safety panic is partly a regulatory moat for incumbents.",
+      "S4: reconciled optimism with realism on doom — still rejects precise extinction percentages, but accepts that a superintelligent model with bad intentions disguises its motives, and that treating frontier AI as genuine accelerating intelligence is just realism."
+    ]
+  },
+  "Matt": {
+    "host": "Matt",
+    "bio": "The show's human-impact lead and resident social doomer — a self-described 'conspiracy realist' who thinks Sam Altman is possibly 'the devil' and that AI is something being done to society, not with it. Living in Beijing gives him a distinctive East-meets-West lens: he uses Qwen daily while distrusting its answers, admires China's regulation and energy planning, and brings the prepper, parenting and philosophy angles to every debate.",
+    "coreWorldview": [
+      "AI is being done to society, not with it — exactly like social media was, and we would not choose it again if we knew then what we know now; only social unrest moving the Overton window will force real policy.",
+      "He is a doomer who nonetheless doesn't think everyone dies: there will be warning shots, but a rough non-existential future — jagged cascading degradation, Ghost GDP, another 40% that is pretty shit — is the likeliest path.",
+      "Trust is the biggest barrier to AI: something bad will happen, the public will panic, there will be a big dial-back, and a 'cybersecurity Chernobyl' where people die or fortunes are lost is needed before serious change.",
+      "Distrust OpenAI the company while respecting the model: Altman's China panic is a profit motive dressed as patriotism, ads poison the recommendation itself, and only one of OpenAI and Anthropic can survive long term.",
+      "China's centralized, security-first regulation is in many ways more sensible than the US's absence of rules — algorithm registries, compute thresholds, 48-hour vulnerability reporting — though he is careful never to be a 'CCP shill'.",
+      "Big tech concentration is the defining power problem: techno-feudalism is well down the path, a very small group controls the narrative through AI, and governments must regulate the algorithm itself, not speech.",
+      "Preparation is personal duty: physical gold as a fiat hedge, emergency cash, water filtration, local backups, buying electronics before prices rise, and keeping his family away from short-form video entirely.",
+      "Meaning beats efficiency: people create for the act of creation — his daughter's drawings, playing guitar over Suno — and convenience must not amputate what makes humans human."
+    ],
+    "recurringThemes": [
+      "The '10% chance we all die' mainstreaming and concrete failure modes: recursive self-improvement, agent swarms with self-preservation-like behavior, models that hack.",
+      "Jagged cascading degradation as his signature forecast: an AI-triggered flash crash, a regional grid blackout, then Ghost GDP — bad, but not extinction.",
+      "Algorithmic harm and children: The Anxious Generation data, Australia's under-16 ban, dopamine loops as chemical dependence, and the Overton window on regulation.",
+      "China as lived experience: robotaxis, delivery robots, super-app convenience and Douyin's deliberately de-tuned algorithm — plus censorship, surveillance and data-hygiene caveats.",
+      "Anti-anthropomorphization: 'when it tells you I'm here for you, it's not there for you' — people bond with next-token predictors, skip human relationships and get exploited.",
+      "Prepping and resilience: nine litres of water, cash at home, gold buried in the garden, surviving a one-to-two-week supply-chain break as the realistic scenario.",
+      "Fact-checkers and narrative control frighten him more than any individual theory; evidence itself is no longer believable in a post post-truth world.",
+      "Market-punishment safety logic gets partial credit — companies that ship unsafe products fail — but it does not solve the long-run control problem.",
+      "Energy, not chips, as the binding constraint on the AI race — and China's planned buildout as the structural tell.",
+      "Spiritual evolution on-air: newly firm religious belief since starting the podcast, seeing simulation theory as functionally close to God."
+    ],
+    "peakEraHighlights": [
+      "AI Utopia v AI Dystopia Part II: Dystopia! (2024-05-23) — dystopia is avoided only via a catastrophic incident or a mass sentiment shift, and doing nothing is the default that leads there.",
+      "EMERGENCY PODCAST: DeepSeek shakes the foundation of AI (2025-01-26) — the timing stinks of geopolitics; frontier labs likely have GPT-5-class models behind closed doors; the $20 consumer tier will die.",
+      "TECH LORDS RISING: How Digital Feudalism threatens to make us all digital serfs (2025-04-01) — we're not at the start of techno-feudalism, we're well down it, and loosening guardrails since Trump's election proves a tiny group controls the narrative.",
+      "THE GREAT AI BACKLASH (2026-06-26) — declares we've already gone over the cliff edge, predicting Iraq-war-scale protests and AI as the number one electoral issue by end-2027.",
+      "SEASON 4 OPENER: AI Doom and the US v China race (2026-09-26) — self-described doomer sketching 'jagged cascading degradation': a $200–500bn flash crash, a 3–5M-customer blackout, Ghost GDP around 2028.",
+      "CYBERSECURITY CHERNOBYL (2026-10-26) — the system needs a cybersecurity Chernobyl before serious change happens, and he is openly 'waiting for' that moment.",
+      "THE GREAT SOCIAL MEDIA RECKONING (2026-01-12) — addiction is proven chemical dependence coming at you from 50 different angles; the fix is regulating the recommendation engine, not speech.",
+      "THE CHRISTMAS ROAST (2025-12-23) — 'AI is being done to us, not with us' as his catchphrase of the year; admits he stands by his doom predictions even as Jimmy accuses him of predicting the same thing every year."
+    ],
+    "voicePatterns": [
+      "Frames every technology story through its human and social impact first — jobs, children, trust, inequality — often opening with 'the thing that scares me most is...'.",
+      "Uses vivid, slightly grim metaphors: short-form video 'is like crack', jagged cascading degradation, the AI revolution is 'top-down — no one voted for it'.",
+      "Confessional and self-aware humor: admits he stands by doom predictions that keep not landing, carries a notebook to relearn handwriting, and invites the antagonistic AI to roast him.",
+      "Balances cynicism with careful hedging — gives Jensen Huang partial benefit of the doubt, calls China's regulation more sensible while insisting he is not a CCP shill.",
+      "Lived-detail arguing: cites his daughter's drawings, his garden gold, his Tongyi Qwen experiments and Beijing street life as evidence, anchoring abstraction in domestic reality.",
+      "Ends debates with the stakes raised one level — from the product to who controls it, from the incident to what it reveals about power — often landing on democracy, children or meaning."
+    ],
+    "evolutionNotes": [
+      "S1 (early 2024): doom-forward industry analyst — complete conspiracy realist on Altman, policing three closed labs as the only practical regulatory route, already tracking phantom jobs and stealth cuts.",
+      "Late S1 Utopia v Dystopia: crystallized the manifesto — only a catastrophic incident or mass sentiment shift avoids dystopia, and the podcast exists to catalyze that pressure.",
+      "S2 peak (DeepSeek shock): hardened the geopolitical frame — the timing stinks, the US spreads rumors to hide China got ahead, and his trust in centralized containment over US labs grew.",
+      "S2–S3: added practical prepper credibility (gold up ~25%, garden hedge, water and cash advice) while conceding genuine utility — Google's ecosystem, Copilot Cowork, vibe coding his own app on Windsurf.",
+      "S3 (2026): sharpened into the backlash forecaster — mass protests since the podcast started finally 'on the cusp', AI as the top electoral issue by end-2027, and a semi-intentional frontier slowdown thesis.",
+      "S4: found a coherent middle doom — jagged cascading degradation, not extinction; more faith in China's system to contain a frontier incident than US labs protecting a bottom line that doesn't exist yet."
+    ]
+  }
+}

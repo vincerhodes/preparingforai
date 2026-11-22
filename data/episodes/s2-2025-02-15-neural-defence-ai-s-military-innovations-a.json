@@ -1,0 +1,1409 @@
+{
+  "slug": "s2-2025-02-15-neural-defence-ai-s-military-innovations-a",
+  "buzzsproutId": "16622587",
+  "title": "NEURAL DEFENCE: AI's Military Innovations and Ethical Challenges with Brigadier Tim Law",
+  "date": "2025-02-15T00:00:00.000Z",
+  "season": 2,
+  "durationSec": 4713,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16622587-neural-defence-ai-s-military-innovations-and-ethical-challenges-with-brigadier-tim-law.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Retired Brigadier Tim Law, a distinguished figure with a remarkable journey from the British Army to the charity sector, joins us for an insightful discussion. We explore how artificial intelligence is reshaping military strategies and international relations, drawing from Tim's experiences across an incredible life. As we unravel AI's capabilities in military operations, ethical considerations, and strategic advantages, we also delve into the broader societal impacts, particularly on job markets and the essence of human creativity in a world increasingly dominated by digital tools. From AI's potential in enhancing military tactics to its influence on everyday tasks, we navigate the complex terrain of this transformative technology. Our conversation touches on the environmental implications of AI, its role in research, and the nuanced differences between AI-generated content and human writing. We emphasize the importance of a human touch in professional contexts and the critical need for ethical considerations in AI's development and integration, especially in intellectual property and copyright spheres. The episode extends beyond military and civilian applications, venturing into the charity sector, where AI presents both opportunities and challenges. We highlight the growing gap between staff utilization and trustee awareness, stressing the need for robust governance to manage ethical and environmental concerns. As Tim shares anecdotes from his humanitarian work, we reflect on AI's ability to enhance storytelling and operational efficiency. Our light-hearted conclusion celebrates the camaraderie of our hosts, providing a heartwarming end to a thought-provoking exploration of AI's multifaceted impact. Home page - Zoe Amar Digital Charity Digital - Home (40) Tim Law FRGS | LinkedIn",
+  "summary": "Retired Brigadier Tim Law - 28 years in the British Army, formerly the Beijing embassy defence attaché - joins to assess AI in warfare: whether it is the next 'revolution in military affairs', autonomous systems and drone swarms, JADC2 and China's 'intelligentized warfare', the accountability black hole when an AI breaks the Geneva Conventions, and why his 2012 wargame found a fully autonomous force wasn't decisively superior. The conversation closes with AI in charities, where 90% of staff already use AI but only 3% of trustees know.",
+  "keyTalkingPoints": [
+    "Tim ran the Army's Agile Warrior experimentation program a decade ago; modern warfare is fought in the cognitive domain - perception and narrative, the post-truth world",
+    "AI as revolution in military affairs: autonomous robots already do dangerous, distant, dull tasks (medical resupply); AI could transform intelligence preparation of the battlefield - knowing 'what is on the other side of the hill'",
+    "The accountability gap: if an AI violates the Geneva Conventions, who is responsible? The world isn't ready and geopolitics makes a framework unlikely soon",
+    "Likely divergence: the West keeps a human in the loop; Jamestown Foundation reporting suggests China may already field autonomous combat systems domestically",
+    "Micro-drone swarms with facial recognition are 'pretty scary stuff'; an AI with CV-sifting-style bias built into targeting could focus on a particular ethnicity, and 90% of UK charity staff already use AI while only 3% of trustees know - a governance vacuum Tim wants fixed with policies and Zoe Amar's toolkit",
+    "On utopia vs dystopia, Tim channels Zhou Enlai: 'too early to say' - the regulatory framework will decide, and his hopes for international agreement 'are not high right now'"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "AI has been inside military systems for years - drones fly because of reinforcement learning; 'taking AI out of the military' is a nonsense position",
+      "Whether militaries use AI is a government and UN-level decision, not one for individual companies",
+      "Facing an autonomous force would be horrendous - 'end of level baddies' with no human attachments"
+    ],
+    "matt": [
+      "OpenAI softened its military-use ban and put a retired NSA general on the board - Silicon Valley is now openly aligned with the military",
+      "Warnings about DeepSeek apply equally to ChatGPT - don't trust any model with sensitive data, regardless of which government might read it",
+      "AI was possibly the only technology where civilian use led military use - that era is definitively over"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-02-15-neural-defence-ai-s-military-innovations-a-3058.9-there-will-be-significant-growth-in-unmanned-sys",
+    "s2-2025-02-15-neural-defence-ai-s-military-innovations-a-824.9-ai-recruitment-screening-will-hit-a-reckoning-ve"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Tim Law"
+  ],
+  "chapterCount": 11,
+  "turnCount": 188,
+  "chapters": [
+    {
+      "title": "Exploring AI Impact With Military Leader",
+      "startTime": 1
+    },
+    {
+      "title": "AI Impact on Job Applications",
+      "startTime": 435
+    },
+    {
+      "title": "Understanding AI Impact in Warfare",
+      "startTime": 874
+    },
+    {
+      "title": "AI Impact on Military Operations",
+      "startTime": 1249
+    },
+    {
+      "title": "Military Concerns and AI Development",
+      "startTime": 1570
+    },
+    {
+      "title": "AI Ethics in Military Warfare",
+      "startTime": 2307
+    },
+    {
+      "title": "Future Implications of AI in Warfare",
+      "startTime": 3090
+    },
+    {
+      "title": "AI Impact on Charities",
+      "startTime": 3550
+    },
+    {
+      "title": "Challenges and Opportunities in Charity Sector",
+      "startTime": 3848
+    },
+    {
+      "title": "AI Impact on Charities and Art",
+      "startTime": 4340
+    },
+    {
+      "title": "Jimmy's Fish in the Back",
+      "startTime": 4581
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 23.993,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 27.56,
+      "endTime": 35.684,
+      "text": "Some cosmic confusion. I'm scared I will lose you. Superhuman. Something about your energy? Superhuman, we're superhuman. Welcome to Preparing for AI with me.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 35.985,
+      "endTime": 39.014,
+      "text": "Dick Van Dyke and me, Jean-Claude Van Damme.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 39.756,
+      "endTime": 66.443,
+      "text": "And this week's episode of Preparing for AI is going to be an interview with brigadier or retired brigadier tim law, who is a blast from the past for me and jimmy, someone that we have a lot of respect and a lot of time for, and uh, because, like last time, we actually recorded the interview before we recorded this, so I can tell you that it was a cracking interview and uh, you should listen to it because you want to learn about the future of military and ai.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 66.704,
+      "endTime": 93.428,
+      "text": "And uh, tim is better place than us to talk about it anyway oh yeah, definitely definitely anyone's better place to talk about it yeah, the first time I met tim like I, I just remember he's just such a solid kind of down-to-earth guy, considering he's like a brigadier and his past and all the rest of it. He was just so approachable and so easy to talk to and I think this, I think that comes out on the on the episode yeah, I, I was going to say something similar.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 93.468,
+      "endTime": 120.821,
+      "text": "I feel like this shouldn't be sort of 50 minutes of me and you just waxing lyrical about what a great guy tim law is. But um, he is, um, and, in fact, some of that. I will say that some of the people that also used to work with Tim when I spoke to him this week and said we're recording this episode, I'm pretty sure they've never listened to an episode before, but they promised me they are going to listen to that episode. So, yeah, if nothing else, interviewing Tim Law's got us at least three new listeners. Fantastic. So 3 million and three.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 121.622,
+      "endTime": 122.624,
+      "text": "Have you got that many friends?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 123.304,
+      "endTime": 132.656,
+      "text": "What three million or three? Three friends? No, I just know three people. Oh, you know three people I wouldn't well I might call them friends. I'm pretty sure none of them would call me a friend, but they know me.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 133.46,
+      "endTime": 133.58,
+      "text": "Savage.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 133.661,
+      "endTime": 135.949,
+      "text": "And they were not allowed to not be in a room with me.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 136.671,
+      "endTime": 141.467,
+      "text": "Oh, okay, so I was able to ask them Much like myself on the podcast.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 141.888,
+      "endTime": 177.802,
+      "text": "Well, no, we could do this remotely. You could do it not in a room with me. We don't need to be this close. Yeah, I mean, we interview people. They're never in a room with us, which might be. Do you think if it was just you that would come and be in the room? Probably yeah. So, should I go and do the interviews from somewhere else? And then you can be, in the one place with them. Yeah, should I just not do this podcast anymore? Should I just produce the episodes and do the editing? nah, I think we need the, I think we need you know two different viewpoints, right, but I'm I'm becoming more positive, so at some point do we need to replace me.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 177.843,
+      "endTime": 204.168,
+      "text": "Anyway, I couldn't possibly replace you, matt. Yeah, should we go? Should we go to the interview? Because I feel like we're not. We're not adding much to it with this intro section today. Let's go. We'll do what we usually do. We'll go into the other room. We'll have a lie down for half an hour or so. We'll do some yoga, I'll eat some supplements, jimmy will drink some tea. You've got a fish in there as well not in here there's a fish in the other room we've got a fish.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 205.143,
+      "endTime": 208.045,
+      "text": "Just to clarify, clarify this is tea, it's not sorry.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 208.366,
+      "endTime": 215.77,
+      "text": "Are you gonna eat some fish? Are you gonna eat some fish now, before?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 216.01,
+      "endTime": 222.335,
+      "text": "before the interview yeah, that we've already done. Why not? Yeah, but we've already done the interview. But how do you know?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 222.355,
+      "endTime": 234.402,
+      "text": "I didn't eat some fish earlier, so so yeah, sorry, tim, if you're listening to this, um, or sorry anyone who's listening to this. Yeah, we'll do the interview now, so thanks for sticking with us.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 245.212,
+      "endTime": 283.622,
+      "text": "So, as we mentioned, today, we have, I think, a very, very special guest. So the first person that we've had on the podcast who has done service in the military so tim law for 28 years was an officer in the british army. He rose to the rank of brigadier and then, motivated by his humanitarian principles and his desire to support those with limited agency to support themselves, he transitioned into the charity sector around three years ago and until very recently, he was running an organisation providing training for surgeons and anaesthetists in war zones. So I'm going to let Tim do a better job of explaining the pretty amazing life that he has had so far.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 283.662,
+      "endTime": 284.866,
+      "text": "So, tim, welcome to the podcast.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 289.921,
+      "endTime": 318.626,
+      "text": "Thank you very much, both of you. Yeah, you've done that pretty well, to be honest, matt. You know we've met in a prior life and you know, I think at the end of my 28 years of military service, I ended up in Beijing in the British Embassy, where I was working on, among other things, digital technology, as it related to as it related to the interaction between British and Chinese governments. So I think it's a good opportunity for me to speak a little bit about what I know in this sector. I should point out, of course, to people who are listening to this that it's three years since I left the military.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 319.461,
+      "endTime": 333.651,
+      "text": "I don't have any contacts in there now who are working on AI, but I do have a lot of insights into how artificial intelligence is used within the military and how it might develop. Equally, the concerns that people might have, you know, which I think will be useful to cover later on.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 336.42,
+      "endTime": 353.965,
+      "text": "Great. So I think before we get into the kind of military side of it, let's start you off with a bit of a softer question, so your own kind of personal interest in ai. So you know, are you using ai personally at the moment and and what are your kind of hopes, fears, observations in the kind of current ai space?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 355.809,
+      "endTime": 393.651,
+      "text": "yeah, I mean I. I I mean talking about interest. I mean, about 10 years or so ago I used to run something called Agile Warrior, which was the British Army's sort of experimentation program to consider what the future might hold and you know what adjustments the military might need to make in order to deal with disruptive technologies that might be able to shape the way that warfare is fought. And you know, ai was one of those technologies. There's obviously others to quantum computing, novel materials, biotechnology, you know all those sort of advances that you know sometimes you can't predict the outcome of.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 393.731,
+      "endTime": 434.783,
+      "text": "So I've always had an interest in that sort of cutting edge of technology and how it affects not just my business, which at the time was, you know, helping to run a military, a military force, but also how it affects other people. So me personally. Well, you've got to remember that my age is such that I grew up as a child in the 1970s and 1980s, before digital technology was even a thing, and if you wanted to find out the address of a particular company because you wanted to write to them to find out something more about them, then you had to do that through yellow pages or via, you know, some extraordinary long-winded mechanism and, of course, you know our lives have changed substantially since that time.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 435.203,
+      "endTime": 479.684,
+      "text": "I think you know I use AI in the same way that most other people will use it, you know, to ease the burden of research. When you're researching things, sometimes you use AI because it's the easiest option. You know, nowadays, if you type something into Microsoft Edge, the first response you get back is actually the AI response, which is interesting in a way because there are some people, um, many people, who have environmental concerns about ai. I think you've mentioned that on this podcast previously whereby, as far as I understand it, it takes about 10 times more power to run an ai query than it does to run a query on a traditional search engine like google.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 479.704,
+      "endTime": 500.494,
+      "text": "And if you have no choice in doing that, then actually you know you're removing or microsoft in, in a sense, is removing that that choice from the consumer. So you know, I think that there are some really interesting elements to it, but largely, you know I use it for the same reason that most other people of my age would. The only caveat I'd say is that you know I've got lucky enough to have three master's degrees to my name,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 506.12,
+      "endTime": 554.853,
+      "text": "to my name, and you know I do have a concern about, sometimes, the quality of the material that is coming from it, because, of course, ai can only work on the data that is held within the system and you know if that data is in any way biased or incomplete or based upon falsehood in the first place, then you know it's pretty important to you know, conduct those checks to make sure that you know what you are getting from AI is actually a value to you. I'll give you a good example of when this sort of came out. When I was chief operating officer of a charity about a year ago, we were running a recruitment campaign and it was for a fairly junior, entry level position in the charity and it was, I guess, in some ways for a recent graduate, a great step into the humanitarian sector, and so we had a lot of applicants, even though the pay was relatively low, even for London.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 556.262,
+      "endTime": 599.872,
+      "text": "And so, yeah, I think 135 people applied and I would say that out of those 135 applications, about half give or take had some form of AI within the covering letter, because there was so much similarity in some cases, in some cases, the scanning and, in particular, the thing that was really obvious, I guess, was where people had used AI to write the covering letter but then had used their own way of writing to write their CV, and it was very evident that there was a different style. And you know, I think you know that sort of human awareness to check and make sure that you know, fine, use it, you know, enhance your ability to do stuff by using an artificial intelligence tool.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 600,
+      "endTime": 619.476,
+      "text": "But, you know, always remember that ultimately it's a human activity applying for a job and therefore, you know, actually you know these things are quite important to sort of play. So you know, I've got that sort of academic background that says, look, actually you want to be careful, but you know, I do use it. In fact I even used it to prepare for this podcast. So there you go.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 619.841,
+      "endTime": 622.67,
+      "text": "I was going to say, like we've talked about this on previous podcasts,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 631.02,
+      "endTime": 656.064,
+      "text": "so you've come up, you've actually mentioned quite a few examples there. But but this is my worry with ai is that is that actually it requires a level of critical thinking and critical application, I would probably say as well. Maybe, where it's kind of like the lazy option is to just take the output from the ai and just use that, like use that to write your email, use that to write your cover letter for for something, and that might be because you don't have much time, it might be because you just can't be bothered. It could be a lot of reasons, but like there's a, there's a but, but there's a.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 656.484,
+      "endTime": 664.435,
+      "text": "I think there's a human thing in there where it's like you know it, you know it's a shortcut, isn't it? And and I think that's that's kind of a problem with AI,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 669.36,
+      "endTime": 709.73,
+      "text": "um, and also going back to what you were saying about hallucination, well, you didn't say hallucinations specifically, but like checking your sources and and the, you know whether the information actually that's coming out of an AI is correct, because it's just based off what's on the internet, which includes all of the internet. Um, and we mentioned it, like in a recent podcast where I think chat gpt there was a. They ran a test on it and out of 157 articles um sorry, 157 pieces of research that turned out to be false, um, where chat gpt had spat out the wrong answer, it only said it wasn't sure on three out of those 157, whereas on the other, on the rest of them, it basically was like really, really, um, convincing in its answer.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 710.071,
+      "endTime": 721.808,
+      "text": "So it was like this is definitely the correct answer and that seemed that feels like something that ai does quite a lot to me, which is quite can be quite misleading as well yeah, I think um.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 721.828,
+      "endTime": 762.514,
+      "text": "The other thing is, of course, um, if you're relying on an ai to, let's say, you know, for instance, I'm now developing a consultancy business where I advise charities on things. And I might look online and ask a question of an AI tool to say what are the principal reasons that charities fail or something, and I could get a long list and I could use that list in my work and maybe incorporate that into a slide deck that I then use when I advise charities. And actually that list may be copyright, it may have been devised as original work by someone and that person, whether or not it has a copyright you know 1995, you know the product of someone's intellectual capacity.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 762.554,
+      "endTime": 786.548,
+      "text": "You know, actually, just because it's on the internet doesn't mean it can be used um or not used for profit. And I think that ai I mean, as far as I understand it, I don't think ai um actually takes that into account when it comes to, you know, effectively creating a, a response to a question that is asked of it I wanted to just before we we really sort of get into the weeds with with the sort of military users you wanted to just before we really sort of get into the weeds with the sort of military uses.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 786.529,
+      "endTime": 824.368,
+      "text": "I just wanted to make one point. I think the example you gave about job applications is really interesting. One of the issues and I found this, you know, earlier in the year I was, you know I was looking for work and one of the challenges is that most organizations now are using AI tools to do, certainly the initial screening of applications and therefore it's almost the battle to getting to the interview stage now is is my algorithm or my ai tool better than yours? You know your ai tool is looking for certain buzzwords. Can my ai tool churn out enough of the buzzwords to get me to an interview?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 824.929,
+      "endTime": 871.226,
+      "text": "And then when you get examples and the one you're talking about is one where obviously people were involved in the loop frankly it kind of looks ridiculous when you look at them because they're so obviously AI written. But the flip side of that is, if you're not doing that and you're applying for jobs where the tools are being used, actually you've got no chance of getting through because you know, even even linkedin will tell you, you know, these are the 25 words you need to get in your application. It will tell you you're 78 towards this application. So it kind of forces you down the path and I think there will be very quickly actually a kind of reckoning with this, where either there will be a more sort of nuanced tool or you'll see humans go back in the loop in that particular area, because you are finding that it just becomes, you know, a computer with a computer and you completely take the, the human aspects out of it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 871.708,
+      "endTime": 873.443,
+      "text": "Anyway, I think it's a really good example.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 874.005,
+      "endTime": 877.373,
+      "text": "No, I mean that's a complete nonsense, isn't it? I mean you know that you know, in essence,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 885.14,
+      "endTime": 915.12,
+      "text": "people they're covering, and that's just you know. And I was talking to someone the other day. Actually she works in a charity and they use um, an ai tool, to sift, as you just suggested um, and I don't think that they had ever considered the potential for that, for machine learning to develop um biases. Now, you know that might mean that you know, a particular ethnic group or people from a particular socio-economic background effectively get screened out without any human interaction and that would be in a charity, almost entirely opposite to the, the intentions of the people that were running that, that recruitment.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 915.22,
+      "endTime": 920.505,
+      "text": "But they're using a tool that they don't really understand and actually need to have policies in place for absolutely on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 920.686,
+      "endTime": 933.652,
+      "text": "Yeah, and on that point, like who? Like? That's the other thing, and this is where it gets really difficult. Right is who does understand? I don't even think the companies that create these ais even open. Ai don't truly understand chat, gpt and what's inside it, right?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 936.549,
+      "endTime": 976.186,
+      "text": "yeah, that's right, that's absolutely right. I mean, the other thing I was going to say is um, you know, I'm sort of acutely aware of the post-truth world as well, because when I was growing up, you learned things because there were things within the media, and sometimes those things were skewed, because the media is skewed by the ownership of a particular journal or whatever. And of course we've always had this sort of system whereby you have to consider critically what it is that you're receiving. And the reason why I'm talking about this now is because I think it will be quite a good segue into the piece about the military side of the house, because increasingly, wars are not necessarily fought in the physical domain, the domain that we're most used to seeing wars fought in.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 976.226,
+      "endTime": 1009.569,
+      "text": "You know where one side faces another side on a battlefield and fires off a load of rounds at each other. You know wars generally are fought in the human domain or the cognitive domain. Actually, it's a lot to do with you know how people perceive things that you know, even things like the acceptance of the presence of an international force in your country. You know, as per the, you know the Western intervention into Afghanistan, for instance. You know it's something that, you know, is all about perception and therefore, you know, military forces seek to change people's perceptions of how they are perceived themselves of.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1009.649,
+      "endTime": 1047.422,
+      "text": "You know how they perceive their government, how they perceive an alternative and all the rest of it, and actually the post-truth world is something of a threat to that. But, you know, is also something that's interesting. Now, you know, I've lived in a country where, you know, has an authoritarian regime and therefore I'm sort of aware of how that can manifest itself in somewhere like that. But also actually in the West we're still in that post-truth era. You can see it through the American election what is said becomes what people believe, not necessarily what is actually true becomes what people believe, not necessarily what is actually true.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1047.442,
+      "endTime": 1067.409,
+      "text": "So I think AI has a lot of potential to become less reliable in many ways than it is even today, and I wouldn't say it's particularly reliable now. So unless you have some sort of closed data loop that you're able to just use a chatbot within and you know that everything that that chatbot is effectively accessing is something that you have either written or you've approved, I think that's fine.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1067.429,
+      "endTime": 1104.529,
+      "text": "But if it's got access to the entire internet, then frankly, you know we're in a difficult place the sort of the sort of hopeful part of me that doesn't come out so often on this podcast actually thinks in some ways. I wonder if we're in that sense in in the kind of worst time at the moment already. And there was a really good example talking about how when print first, you know when people were first writing things down, and it was almost well if someone who wrote something down, it was assumed that it must be true because it was written down, and that seems frankly preposterous now, but at the time you know that's how it was believed and we've lived in a world in which you know.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1109.96,
+      "endTime": 1133.349,
+      "text": "You know that's how it was believed and we've lived in a world in which you know, you know that what's written down is written down based on people's. You know personal preferences and and you don't believe something written you don't necessarily believe an image because we know images can be somewhat manipulated, but certainly video has been something that was. If you see a video, well, that's kind of proof. And we're now transitioning into a world in which video is no longer necessarily true and that at some point in the very near future you talk about post-truth, but you'll question absolutely everything.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1133.369,
+      "endTime": 1173.125,
+      "text": "And just because it's in a video doesn't mean it's depressing in some ways, but we become critical enough that we we don't believe anything and therefore it's. It's at least more difficult for, you know, large language models manipulate and deceive. I don't know if I'm being overconfident in this, but I'm trying to be kind of hopeful because I do think you will have to see a change which means more distrust, maybe more cynicism, but it means people are more realistic about about the way in which information is being used to to kind of manipulate and control at the same time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1173.165,
+      "endTime": 1204.252,
+      "text": "I mean, there, you know, there are applications of ai that have been in place for many, many years. You know, like algorithms within, you know, online shopping, um websites and things like that that are, you know, actually, you could argue a value to people because they're, you know, helping them in some ways. And, um, you know, actually, you know, I think I think the thing to do when you're talking about ai is not to talk about it as a single thing but as a means to an end, a mechanism and and all the rest of it. I think, you know, from the defense perspective, um, to you know, go into that sort of space now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1204.552,
+      "endTime": 1240.245,
+      "text": "Um, the defense perspective, to you know, go into that sort of space now. You know there is this sort of question that is artificial intelligence, the next revolution in military affairs, and what I mean by that is, you know, there have been times in history where something has come along that has been so disruptive that actually it's sort of changed the character of warfare to a degree that the first adopter of that technology has had such a major advantage that it's enabled them to retain sort of superpower status or at least the ability to deter acts of aggression against it, and I think you know that question is a really good one to start at.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1240.405,
+      "endTime": 1249.504,
+      "text": "Is AI a revolution in military affairs? Do we know that yet? What evidence is there that people consider that it might be? Those are really interesting questions.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1249.524,
+      "endTime": 1257.811,
+      "text": "The improvements in robotics, which you know. You're starting to see companies like Figaro One.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1270.2,
+      "endTime": 1285.561,
+      "text": "You're starting to see companies like Tesla they're not military applications, but and you've also got Boston Dynamics, who usually do demonstrations of dancing dogs and dancing robots, but these are the kinds of things that and I think, and also obviously drones in terms of physical military assets. I think those are the kinds of things we're talking about, right.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1288.527,
+      "endTime": 1320.077,
+      "text": "I mean, I think that's the thing that is most often sort of talked about or seen in terms of, you know, developments within the defence industry space, not just within the West but also in other countries around the world, where I mean China, for instance, has got some really advanced imagery that you can see. Now you know, of course, that could equally be manipulated, but you know there is, you know, autonomous robots that in essence, are doing things on the battlefield that are either dangerous, you know, distant or repetitive, monotonous, all those sorts of things.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1334.105,
+      "endTime": 1369.887,
+      "text": "So, for instance, providing medical support to soldiers on the front line. Actually, if you can take medical supplies forward using some sort of robot that doesn't put medics, you know that's great, because those things have to happen, they have to take place and therefore, you know, let's find a system for doing that and a lot of militaries are investing in a lot of stuff in that sort of area. But that's only really a part of you know, what AI potentially can offer militaries, and it's definitely in what I'd call the tactical space. And, just for the benefit of the readers, readers in the, in the military there tend to be sort of three different, um, sort of levels of warfare the strategic level, the operational level and the tactical level.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1369.927,
+      "endTime": 1409.91,
+      "text": "The tactical level is really where it all happens, um, where you know forces meet or somehow you know whether it's in the cognitive or the or the physical domain, you know there is some sort of activity that is taking place that is countering another um organization or force. Um, at the strategic level, though, I think AI possibly has less value because strategy is fundamentally a human sort of procedure. I'd say and you know I'm interested to see you know whether in the future such tools will aid strategy development, you know, in a military sort of context. But, yeah, certainly autonomous systems are the things that people speak about the most.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1410.02,
+      "endTime": 1421.814,
+      "text": "But there's all sorts of potential areas, things like language translation, for instance. I mean, I was involved in the evacuation of British nationals from Wuhan during the pandemic",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1428.9,
+      "endTime": 1451.626,
+      "text": "Wuhan during the pandemic and we had a team that was sent down to Wuhan to help get people through the airport and the majority of those people in that team didn't speak Chinese. And of course, you know most of the people in Wuhan, in the airport and in the security forces around, you know, would have only spoke Chinese, wouldn't have had access to English. So we went out and bought some systems from iFlyTech, which you're probably aware of. I think it's a company. I can't remember where it's based. Actually, I think possibly Shanghai, say again.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1453.942,
+      "endTime": 1459.689,
+      "text": "I think it's Shenzhen, but yeah, I mean they have a pretty good AI language model actually.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1461.372,
+      "endTime": 1464.849,
+      "text": "Yeah, that's right, and so they in essence took that in. You know",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1478.521,
+      "endTime": 1490.956,
+      "text": "almost. Yeah, that's right, and so they in essence took that in. You know. So almost simultaneous translation of what you're saying. Now, if you think about that in a in a wider military context, you know when you're, particularly when you're doing something like peacekeeping you know being very long period of time. Could that, in time, be overcome by those sort of AI tools, which is a positive thing potentially?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1492.58,
+      "endTime": 1538.024,
+      "text": "I want to go back to something that you said before about this idea of the kind of strategic part being where the human element is still needed. Because one thing that I, I guess, worry, think about is this idea that we, we sort of get to a point where you know there is so much reliance on ai and I think one of you I can't remember if it's jimmy or you tim that talked about this before about you know sort of over relying on and and and taking everything at face value, that it's correct that there's so so much of an over reliance, face value, that it's correct that there's so much of an over-reliance on AI that it's almost like, well, we know that they're going to be using their AI and they're going to let the AI make the decision, and if we don't let our AI make the decision on one, well, the AI should make a better decision.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1538.084,
+      "endTime": 1565.073,
+      "text": "But secondly is well, if the AI makes a decision and it goes wrong, then it was the AI's fault, we can't be second-guessed, whereas if we make the decision personally, we're held to account, and so the AI becomes almost. On one hand, there's this kind of over-reliance, but it almost becomes a crutch to hide behind as well, because, let's face it, the thing that people are paid for the responsibility is making the decision. Well, if you can hide behind the AI, then when the decision goes wrong, you're not on the block",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1569.749,
+      "endTime": 1570.191,
+      "text": "it's the AI that is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1570.211,
+      "endTime": 1602.425,
+      "text": "I mean, do you share that concern? Well, absolutely, I mean, I think that's one of the main concerns about, you know, the use of AI within the military sector. And actually, when I was in Beijing, I also enabled conversations to take place between the concept teams of the British military and the concept organisation of the Chinese military, which is the Academy of Military Science in Beijing, and we talked a little bit about this because, you know, each entity knew that the other was involved in AI research and development, didn't want to go into too much detail. It wasn't that sort of a talk about, you know, arms reductions or anything like that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1602.445,
+      "endTime": 1643.11,
+      "text": "You know it was more about you know what are the. You know, do we share the same concerns about the use of AI in the military domain? And I think you know, I guess, that there are a number of you know potential concerns about it, and prime among those are ethics. And you know, in particular, there is that absolute question of if an artificial intelligence does something that you, you know is effectively breaks the geneva convention, then who is responsible for that? You know who is accountable to the international criminal court or whichever um entity it is that is, in essence, um judging the capacity of an individual um force to actually act as a mechanism for good.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1643.17,
+      "endTime": 1670.995,
+      "text": "You know whether or not that that is acting as a mechanism for good, or whether it whether or not that that is acting as a mechanism for good, or whether it's for evil? Or indeed, if civilians are killed, you know who's going to do an investigation into an AI? Whose decision was it? And I don't think that the world is ready yet for that sort of discussion to take place, or rather it may be ready for it because it wants to have it, but I don't think that the way that geopolitics is currently framed within the world will be in a position where realistic talks and progress can be made easily in that area.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1673.281,
+      "endTime": 1710.044,
+      "text": "So in the research I did so, I also used AI to research this episode. You'll be unsurprised to hear, and perplexity came up with one example the US Department of Defense is implementing JADC2, a centralized system that uses AI to integrate decision-making from various military branches. This initiative aims to improve strategic and tactical decision-making by ensuring seamless communication and data sharing across forces, so I think that's an example of it already in place. Obviously, we don't know the detail of it, but if it's in place in the US, I think we can safely assume it's not the only country that's already using it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1711.185,
+      "endTime": 1729.357,
+      "text": "No, that's right, and you'd expect that sort of thing to be taking place in advanced militaries. And again I'll go back to China, because that's where I ended my military career. The Chinese military is also investing in what it calls intelligentized warfare. It's the big sort of ticket item that it talks about. I'm sure there are others as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1744.94,
+      "endTime": 1772.101,
+      "text": "No-transcript. What I'd say is actually, if you, if you know anything about military history I don't know if you're aware of, I suppose, two things that I think AI would have been really valuable for potentially. The first one is the German penetration through the Ardennes in the Second World War, effectively bypassing the Maginot Line, and everyone said tanks couldn't possibly get through the Ardennes and they did.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1811.71,
+      "endTime": 1825.203,
+      "text": "No-transcript those things. About when you're sort of predicting what military forces might do",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1828.797,
+      "endTime": 1859.139,
+      "text": "on terrain. It's something called intelligence, preparation of the battlefield. Most staff officers are trained to do it at the various staff colleges that we have and in essence what you're doing is you're looking at the doctrine, the equipment, capability of an opposing force, you're applying that to the ground and thinking you know, in their doctrine, using their equipment and on this terrain would they be able to do this thing? And then you make your own dispositions accordingly, because you think, well, you know, okay, they can't come through the ardennes, so we don't need to worry about that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1859.34,
+      "endTime": 1900.144,
+      "text": "Or you know, they're not going to put a panzer division in arnhem, so we don't need to worry about that. Well, actually, if you think about it, you know the, the thing that you mentioned, um, that the us are using, which I haven't heard of, but obviously it's command and control system using ai. You know, that would really benefit from. You know, if you, if you had an understanding of how another force actually thought, what, how it, how it organized itself, you know what it looked like on the battlefield and then how it would apply terrain and all the rest of it, and then maybe look in history, maybe take data from previous exercises and things like that, you would have those answers and it would be much more robust your intelligence system, which I think is a potentially very good application.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1901.631,
+      "endTime": 1938.976,
+      "text": "I'm smiling because my next point that I was going to raise and we obviously think I liked him, but my next point was literally AI-driven simulations creating realistic training environments for military personnel, allowing them to practice strategies and decision-making in virtual scenarios without real world risks, which I think you know, plugging in, like you say, the historical, um, sort of the historical kind of analysis of previous engagements is exactly the example. So, absolutely, that's, that's down. As one of, like I say, I kind of picked out five kind of key points which which I thought in kind of potential warfare uses or potential military uses I should say not warfare uses.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1939.076,
+      "endTime": 1940.554,
+      "text": "So so absolutely, bang on.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1941.317,
+      "endTime": 1965.058,
+      "text": "Yeah, on that point. On on the point of the kind of like, um, the analysis and understanding it, like why, why do you feel like having an AI is more useful than a human? I've got I've got my own thoughts on it, but I'm just curious as to why, like where obviously humans had a sort of gap there in their understanding or their knowledge, why would AI help? So to speak.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 1965.078,
+      "endTime": 2000.901,
+      "text": "Okay, well, I mean, if I, if I refer back to history, I think it was the Duke of Wellington who famously said something like the key thing in war is to know what is on the other side of the hill. And you know, that sort of still remains the case, whether it's physical or cognitive or whatever. You know, it's understanding what the enemy is, you know the opposing force or whatever it is, is up to, and therefore having that awareness is pretty important. Now, when I was a more junior officer, many, many years ago a captain actually, so a very long time ago we used to have to effectively learn a book that was known as the Pink Pillow.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2001.51,
+      "endTime": 2012.861,
+      "text": "The Pink Pillow must have been about I don't know a thousand pages and it was on pink paper, which is why it's called the Pink Pillow. And the reason why it's called the Pillow was because it was so thick. Actually, if you were struggling to find a pillow at night in the in the basher,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2021.41,
+      "endTime": 2044.612,
+      "text": "it, find a pillow at night in the in the basher. Um, it would be quite a good thing to put down and actually use as a pillow. But this thing, the pink pillow, was, as I say, very, very long and in it included within it. Um, basically the, the whole sort of doctrine, equipment capability, um, how an organization would fight. You know how it would be configured, what logistics support it required of a generic force. And that generic force was selected in order to sort of say, well, look, you know, when we exercise, we're not up against, we're not planning a war against a particular country Specifically.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2044.652,
+      "endTime": 2055.021,
+      "text": "You know, this is about creating a generic enemy force that we understand really well, so that whenever we fight, we're fighting against this potentially generic force. Now,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2059.83,
+      "endTime": 2100.134,
+      "text": "there was a thousand pages in there. There was no hope, you know, during a military exercise, that you would remember precisely what the vanguard of that particular force would have within it, how many kilometers in advance of the main body would usually operate, because you know those things sort of constrain, the way that people fight. Now an AI tool would be able to analyze all of that at the you know press of a button. You know it almost. You know to the degree that now you could almost say, well, look, you know, um, okay, somebody has, let's, let's say, a sensor has picked up a particular piece of equipment that, only from a doctrinal perspective, is held in a particular part of a force now that if that was connected, would be able to say well, if that's the flank, then the main guard is going to be here, the main body is going to be here, the rear guard is going to be here, this is where their logistics are going to be.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2100.555,
+      "endTime": 2140.28,
+      "text": "I mean, the potential for how to fight and what to target would be, you know, really extraordinary if it could be got right Now. Of course, there are still human elements within that. So, you know, just because that is what their doctrine says doesn't mean that's what they've done. But then again, if they're using AI themselves, then maybe they would do that because they're effectively, you know, making their own dispositions. In that sense, it's a pretty interesting field and I'm sure that there's a lot of work going on. In fact, I know there's a lot of work going on in China about it, because you know almost the whole of the Academy of Military Science, you know, re-rolled itself into, you know, chasing the dream of artificial intelligence as being a revolution in military affairs while I was in China.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2141.202,
+      "endTime": 2146.616,
+      "text": "So you know. Where they are now I don't know, and of course you know that would be largely reflected, I'm sure, in other countries, including the West.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2148.24,
+      "endTime": 2155.844,
+      "text": "It strikes me sorry, I'll make one final point on this it strikes me that if both sides have got AI, you could make quite the effective bluff on that basis as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2158.773,
+      "endTime": 2195.039,
+      "text": "I guess that's very true. I mean it'd be interesting. The military force that I think had the greatest experience of deception in history really was the Russian military in the Second World War. They had a system called Maskirovka which was their. You know, in essence, you know their use of deception. Now, whether the Russians still use deception to the same degree and have passed that you know understanding down to subsequent generations is difficult to say. But you know, yeah, actually deceiving AIs is going to be as interesting as you know, informing them and then using them.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2197.99,
+      "endTime": 2204.267,
+      "text": "Yeah, well, it just comes out to, is my ai better than your ai, I guess eventually well, yeah, yeah, exactly.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2204.608,
+      "endTime": 2226.846,
+      "text": "And of course you know ai as a technology. I mean you mentioned it before. You know civilian side of it was, you know, more advanced. But I mean, in reality, what is the difference really between the civilian side and the military side? You know I, it's the same technology and you know that was something I was talking about when I was in Beijing. You know we have to be careful with whom we discuss. You know the edge that the UK might have in a particular area. I don't know whether we have one or not, but you know",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2230.33,
+      "endTime": 2246.078,
+      "text": "you have to be careful because if you expose that edge and someone else gets hold of it, you know, maybe you can say, well, that's great, because everyone will be able to share the wonderful outcomes that ai will be able to bring. But equally, at the same time, you know, anyone will have the ability to um use ai for nefarious purposes, potentially as well I think it's.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2246.259,
+      "endTime": 2295.158,
+      "text": "It's a good time in the in the interview before I get on to our next question. So for for kind of readers, listeners, uh, who are not aware, so open ai, you'llai. You'll be unsurprised to hear I'm about to badmouth OpenAI here, which is one of my many hobbies. But OpenAI took on a retired US Army general on their board in October of this year. So retired US Army General Paul N Nakasone. So the hilarious official statement was that he was appointed to the board, bringing significant expertise in cybersecurity to the organization. He's expected to contribute to OpenAI's Safety and Security Committee I'm not sure if that's the one that they immediately disbanded which focuses on making recommendations regarding critical safety and security decisions on their projects and operations.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2295.21,
+      "endTime": 2338.824,
+      "text": "His appointment reflects their commitment to ensuring artificial intelligence technologies are developed and deployed securely, aligning with their mission to ensure that AI benefits all of humanity. So I'm calling bullshit on that. I think, frankly, the reason General Nakasone is on the committee is probably more aligned with a statement from January, the 10 10th 2024, which I will also read when open ai removed their explicit bans on military or unuseful military applications, including weapons deployment and military and warfare, and their revision replaced previous prohibitions with a broader guideline stating that users should not use a service to harm yourself or others, which includes developing or using weapons, but lacks specific military context.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2338.905,
+      "endTime": 2375.18,
+      "text": "So, basically, previously they banned military uses and they've watered it down to um sort of semi-ban them, but leave themselves enough room to allow them. I mean, I think, yeah, it's a pretty major shift, but it's it's not unexpected. You know, we said on previous episodes, tim, before this interview, we were talking about this. You know, perhaps ai was the only technology in history, certainly in modern history, where for a while the civilian use was probably outpacing the military use. Um, you know, you've got companies like open ai, anthropic google, who, as far as we know, were not at that point aligned.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2375.221,
+      "endTime": 2398.364,
+      "text": "Now it's probably slightly different in in china, but in the us, you know, they were focused on civilian uses and then suddenly, um, some point early this year, things changed. So, um, there's not necessarily a question there, but I think it's it's clear that you know the military is now well aligned and is, um is certainly at the sort of at the the top table with, uh, with most of the big Silicon Valley organizations.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2402.375,
+      "endTime": 2414.581,
+      "text": "I don't know the answer to that question, but I know for sure in history most technological advances like radar and thermal imaging and all the rest of it have actually come from the military first and then gone into the civilian sector.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2420.81,
+      "endTime": 2440.101,
+      "text": "Yeah, and I feel like a bit of a caveat to this. I mean, we're talking about large language models specifically here right so sorry. So I think I think ai is probably, as tim alluded to, like ai has been used in the military for a number of years. In fact, if you were, if you've been, if you were on a task force 10 years ago where you were looking at the applications, then actually that's probably way before AI was on a lot of people's radar.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2441.132,
+      "endTime": 2475.353,
+      "text": "Yeah, I should probably go back Caveat. What we're talking there is large language models. Obviously, some of the other military uses for example, drones, robotics, military was at the forefront of it, but the large language models had certainly come up. Civilian, commercial uses were at the forefront, and then it's pretty clear that something switched early this year. So I'm going to ask you, tim you touched on it briefly but ethics of using AI in warfare? I mean, you know, I wonder if it's simply a case, as it seems to be. You know across the board with AI that well, we can't stop because otherwise you know they will get ahead.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2476.155,
+      "endTime": 2481.905,
+      "text": "They vary depending on who you are, but are ethics really going to come into this?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2489.24,
+      "endTime": 2490.082,
+      "text": "Or is it just a?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2490.463,
+      "endTime": 2493.85,
+      "text": "case of. You know, essentially it's a race to the bottom. Yeah, I mean that's the big question, isn't it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2495.23,
+      "endTime": 2503.684,
+      "text": "I've not given you much to play with there, have I? Yeah, yeah, look, I mean, you know there are laws of war, there are laws that govern the application of force at an international level",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2510.81,
+      "endTime": 2529.087,
+      "text": "and there are laws that govern how that force is employed within a military setting. It's called jus ad bellum and jus in bello in Latin terms, but they're widely known terms within the military and government communities. Because you know it's important that when a country decides whether or not it's at war or not, that it can justify that to you know, its stakeholders, whether that's its own people or its allies or whatever,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2538.25,
+      "endTime": 2564.34,
+      "text": "within once a country is at war, um, or indeed in some sort of state of war, because war is not always fought, you know, only in the physical domain or you know all the rest of it. But in a state of war, then you know there are laws that govern how military force is employed within those and, um, you know those are largely held within the geneva convention, but not entirely. There are other conventions as well, like the hague conventionague Convention and restrictions on landmine, employment and things like that that you know internationally people have signed up to and there are consequences for breaching those laws.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2564.942,
+      "endTime": 2605.361,
+      "text": "And as a result of that if you are like I was in 2012, I think 2011, preparing a military unit to go to somewhere like Afghanistan you would spend a great deal of time on teaching people the law of armed conflict and what their responsibilities were when they were confronting people that you know potentially they had the lawful power to. You know have some sort of impact upon, and you know what that impact should be is very much governed by what people would consider to be decent in terms of human rights, but also, you know, in terms of the law of armed conflict. You know what actually would be lawful and what is unlawful.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2605.85,
+      "endTime": 2654.115,
+      "text": "Now, not every military is perhaps as robust or particular in these areas as another, but how does an ai get trained to ensure that what it does is in accordance with the law of armed conflict, particularly if it's a learning entity which then develops potentially at a pace that you not you can't necessarily control, and I think that's one of the concerns that people have is that you know, whilst we might have an understanding of what the scope of ai is now in reality um, I can't remember the name of that law that sort of says that you know computer capability will. Then you know, yeah, you know that one um, you know how do we know that it's not just going to take off and then not be controllable in any sense?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2654.737,
+      "endTime": 2665.178,
+      "text": "And you, you know in those senses, then what do we do? Do we need to then retrospectively put some sort of international framework agreement in place? But even then is it too late. You know, has the cat got out of the bag?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2667.614,
+      "endTime": 2668.598,
+      "text": "Has this already happened?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2676.57,
+      "endTime": 2681.648,
+      "text": "I mean, I don't know if it's already happened or not, but there are rumors that you know drones and things like that, like that. You know, are they making decisions completely autonomously already, or is there always a human in the loop? I don't know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2681.573,
+      "endTime": 2705.342,
+      "text": "I actually don't know rumors aren't around around some of this, the israeli systems that they have almost got a kind of puppet person in there to to give the impression that there's still a human in the loop. I, whether this is true or not, I mean they're rumors, but there's. There's quite a lot of um, there's certainly quite a lot that's been written around it, but I think we shouldn't. You know, we're speculating here. We don't have any evidence of it, but it seems like we're.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2706.433,
+      "endTime": 2739.1,
+      "text": "We're close, and let's put it that way yeah, I mean I, I couldn't say um one way or another. I've been out of the military for three years now. Um, you know, I was reading something from the jamestown foundation, which is um, a us, um think tank, and uh, there was talk within that that, um, uh, autonomous combat systems that can operate independently of a human are already in place within the chinese system. Now those you know china's not using those against, you know, a third party, another nation, but we don't know that they're not using those against a third party, another nation, but we don't know that they're not using them within China, for instance.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2739.571,
+      "endTime": 2761.942,
+      "text": "So that is something that is interesting. Or it could just be experimental, and what happens if we have this system that can do this? I'd be pretty confident that within the West there is not a single military force that is not keeping a human in the loop. But I say that without actual knowledge because, as I said, I've been out for three years.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2765.752,
+      "endTime": 2812.5,
+      "text": "I'm curious. So I mean, I know where the line is, as in. We're talking about the line of here, of like technology making the decision versus versus a human making the decision, but in the past obviously has been in war in in general, there's been huge technological advances that have rendered the other side almost irrelevant. Um, you know, like thinking back to kind of like the samurai in in japan and stuff like that against, you know, rifles and technology basically, and I'm sort of like I don't know. I'm just curious to tease out what the difference is here, because there's been I guess what I'm saying is there's previously been examples of where technology has basically rendered the other side obsolete.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2812.951,
+      "endTime": 2813.955,
+      "text": "How is this different with AI?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2815.91,
+      "endTime": 2849.938,
+      "text": "Yeah, well, it's not really. I mean, you know that's what I mean. That's what's really meant by a revolution in military affairs. You know it changes the work. You know the face of things so much that actually people have to then scrabble to keep up. You know, I don't know where people are, but this is definitely, you know, the sort of. I don't know whether you could call it an arms race, because ai is not really an arm, but you know it's a enabler, it's a, it's a technology, you know is. Is this the next um? You know technological race and you know what are the potential risks of it being the thing that is the next revolution of military affairs.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2849.978,
+      "endTime": 2870.255,
+      "text": "I mean, you know the I talked earlier about this um potential bias and discrimination that can exist within CV sifting tools. Well, if that same bias was built into a targeting system, you know, then, what's not to say that an AI targeting system could simply focus its efforts on a particular ethnicity or something like that? I mean, it's pretty scary stuff.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2876.19,
+      "endTime": 2891.15,
+      "text": "That is the sort of thing that we want to be having international agreements on that. You know, all parties that you know are potentially involved in these um in in this sort of research and development. Come and, come and gather together and make some rules, but you know I I don't see there being much hope of that in the near future it's certainly I mean certainly isn't an arms race.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2891.25,
+      "endTime": 2947.993,
+      "text": "And and if you look at some of the stuff that comes out from the US and I'm not talking here kind of government, I'm talking just from people in Silicon Valley who say, well, we have to be ahead of China Well, if you look at China at the moment, actually in terms of regulation around AI because of Tim, you know China well China has an interest in regulating AI because AI has a potential to affect social stability and create social rest. So China has a genuine intention to control and to regulate AI, whatever you think of the motivations for it. I sort of worry that if there is this kind of accelerationism on the US side, actually, then china feels like, well, we don't have a choice to regulate, because actually we have to keep up with you and and therefore it it, you know it is an arms race and when you've got militaries involved in it, it literally is an arms race.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2948.053,
+      "endTime": 2972.983,
+      "text": "I mean, I think we're there already. I find that very difficult to see how it can, how it can be stopped or contained, because that the mentality is is. The mentality is not going to change yeah, yeah, absolutely yeah. Nothing more to say, really, I mean the key thing is that it wasn't really a question was. It was just a statement that I just yeah I mean the other source is testing and validation as well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 2973.023,
+      "endTime": 2996.651,
+      "text": "You know to to be sure what will happen. You know in. You know when you as well you know to be sure what will happen. You know when you let things progress. You know how do you have those testing and validation procedures? Are they robust enough? You know there's all sorts of things, including education and training. You know how do we make sure that we have the workforce that we need for I mean, as the Chinese call it, an intelligentized warfare. You know that sort of thing it's.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2996.772,
+      "endTime": 3033.341,
+      "text": "It's really interesting another beautiful segue, tim. So I was gonna going back to our kind of route as a work and industry focused uh ai podcast. So I was going to ask you what you think the development of ai means for the future of military jobs. Uh, and thinking you know people who might be listening to this thinking of future careers. Does it just suggest you know it's a different skillset, it's more focused on on technical skills, on on tech, or does it just mean an ever smaller physical military and everything is just, you know, war just becomes even more kind of fought in the or not, sort of warfare.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3033.381,
+      "endTime": 3033.582,
+      "text": "Sorry,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3038.01,
+      "endTime": 3051.986,
+      "text": "but the whole kind of military operation just happens in more of a kind of grey zone. Yeah, I mean, those questions are in some ways rhetorical, aren't they? I mean, in the same way, it's difficult to answer. I think you know there is likely to be a greater growth in the things,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3058.91,
+      "endTime": 3085.821,
+      "text": "jimmy, that you mentioned earlier. You know you started off talking about robotics and unmanned systems, drones, things like that. You know we're going to see more of those being used, partly because you know we've seen in recent experience anything that you can see in the news about what's going on in Ukraine or indeed in the Middle East. You know the use of things like that has been a bit of a game changer in those environments, whether they use AI or not. You know that's sort of irrelevant because you know if you're using, if you're developing AI and you're developing those things independently, then it's not very long before you bring them together and think how can we make this even more effective or whatever you know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3085.861,
+      "endTime": 3122.596,
+      "text": "So you know I do think that there's going to be a growth in unmanned systems. There will be people who say you know the essence of warfare or the character of warfare won't shift substantially. You know it will still involve people. You know, closing with each other and attacking each other, or whatever it is. You know, I'd say that. You know that is going to be likely. There will be an element of that, you know. But what I guess is the biggest question is what is going to be decisive in future warfare. What is going to be the thing that changes. Uh, you know that makes one side that you know perhaps is not in a favorable position suddenly in a favorable position, or, you know, vice versa.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3122.696,
+      "endTime": 3158.69,
+      "text": "You know, what is it that? That? That is that thing, and you know it may be that ai, you know, is that enabling um technology? Uh, so what does it mean for the workforce? I guess the first thing is that you know, even in the sort of less contentious areas of AI so, for instance, predictive things that would enable you to have a better supply chain or enable you to be able to predict when your equipment is likely to fail, so that you've got a better system of equipment support those sort of things are still going to require people with technological skills that perhaps don't exist in militaries today.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3159.281,
+      "endTime": 3195.924,
+      "text": "So it becomes a more challenging environment in which to work. It requires people with different skills. I guess, in a way those skills are being developed in young people because people are digitally fairly savvy and you know, countries like the UK, the US, china, russia and others are investing in AI education sorry, I should say technological education. You know, it's no surprise. Within the UK there's been a huge increase in the number of people that have been encouraged to do mathematical and science type of degrees. Now, whether or not that's, you know, bearing fruit, I don't know because I'm not an expert in that, you know.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3195.984,
+      "endTime": 3250.813,
+      "text": "But yeah, I think there is potential for that Now. Will a totally autonomous force replace, you know, a non-autonomous force, a sort of force containing humans? Well, interestingly, I was part of the experimentation that we did when I was in charge of this Agile Warrior program. I mean, this is more than 10 years ago now, but we were looking out to 2035, and we were trying to imagine what the future operating environment would look like. Now this was back in 2012. So that was 23 years of future thinking. Now, if you think about you know, we don't even know what's going to happen next year. Right, and actually we started off this, this, this um process of bringing people together, not just people within the military, but scientists and um, you know, think tankers, academics and all sorts coming together, and multinational as well to to talk about this.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3250.88,
+      "endTime": 3289.288,
+      "text": "And the thing that we said at the beginning was look, think back to 23 years ago, which was at that time 1989. Now I can tell you there was a big difference between what technology was out there in 1989 and what was there in 2012. I mean, for instance, in 1989, I don't think anyone that I knew had a mobile phone. I think the first person I knew to have one was 1992, 1993. That doesn't mean they weren't in the minds of, you know, tech developers and all the rest of it, you know, but no one had had one, no one saw the benefit of having one. And you probably remember and I think you're not old enough maybe, but you know when the first mobile phones came out, there was something like 55p a minute and you know people say, like why are you doing that when it's only 10p from a call box or whatever?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3289.349,
+      "endTime": 3318.862,
+      "text": "No, you know, all those things are obsolete now. There's no way that in 1989 people would have imagined what the world would be like in 2012. So when you're in 2012, imagining what the world would be like in 2035 is a different thing. But what we did ask, we said project yourselves forward. And we gave them, um, with the help of the defense, science and technology laboratories, um, a sort of idea of where blue sky technologies were going. And we used, we chose, about nine disruptive technology areas and ai was one of them, and we said that this is, you know, based on current trends, where things might go.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3319.686,
+      "endTime": 3349.063,
+      "text": "And then we asked them to send a postcard back from the future with two or three significant bullet points on to say what that future looked like and you know the sort of thing that they would want to tell themselves if they were back in that sort of 2012 space, so that they could, you know, develop new systems to work out how war should be fought. Anyway, you know, develop new systems to work out how war should be fought. Anyway, as an upshot of that whole process, we then created a sort of when I say an experiment it's more a sort of like war game in many ways where we had four different forces.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3349.083,
+      "endTime": 3386.806,
+      "text": "We had a sort of, I guess, an almost entirely autonomous force. So, you know, there were humans within it, but largely the weapon systems, the intelligence systems, were all based upon, um, robotic, ai type sort of uh constructs, as best as we could imagine them at that time. We had a very heavy force full of sort of heavy armor tanks and all the rest of it. We had a lighter force that was very super mobile but, you know, actually lacked protection. And then we had a sort of like medium weight force. That was a bit of everything and, you know, based on the way that we played that game at that particular point in time, you know the autonomous force wasn't so special that it won every battle, but then you know who's to say.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3387.166,
+      "endTime": 3422.612,
+      "text": "You know who's to say what that might have been you know how that might have been developed in the in the last few years since I ran that experiment, so you know interesting yeah, I think the main thing for me would be, if I was a human going up against a robot, I'd feel pretty disheartened yeah, probably, so yeah, exactly but I you know you don't have to punch me. You would have some tools maybe a laser or something like well, no, I know, but but my point is like there's just kind of like end of level baddies. Yeah, it's something that's just produced right, that doesn't have the kind of like same attachments that a human does.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3423.253,
+      "endTime": 3432.905,
+      "text": "Um, I think it would be pretty like horrendous to go up against an autonomous force yeah, exactly, and I mean, you know, look at things like um.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3433.006,
+      "endTime": 3477.226,
+      "text": "So, you know, uavs are sometimes quite so unmanned air vehicles. Drones are quite large, sometimes they've got weapon systems on them and if they're quite large, they can potentially be shot down out of the sky, and you see examples of that by just looking and following what's going on in ukraine. Um, but what if all of those drones are micro drones and they're maybe linked to each other and they, you know, they fly autonomously and they're in, they fly in swarms and they effectively deny your ability to, you know, manipulate the airspace? You know, that's quite a significant thing. Um, I don't know if you saw something in the news recently whereby, um, somebody bought a micro drone, used an ai system of facial recognition to effectively state this person is the target, and then I think it was their old teacher or something they used as the or something like that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3477.266,
+      "endTime": 3495.103,
+      "text": "You know, as the, as you know, put this sort of dummy with that person's face, you know, photograph of that face and the drone targeted that particular individual. You know, that is pretty scary, you know, and it's not beyond the realm of possibility. You know, facial recognition is out there. You know, it's um, something that's not just a feature of authoritarian regimes.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3496.526,
+      "endTime": 3525.134,
+      "text": "Yeah, okay, uh, I think we'll, we'll, we'll finish our military bit there so we can give you a chance to talk about your kind of current, current passion project or well, it's not just a passion project, I guess it's your, uh, it's your career now, tim. So, um, yeah, let's have a look at so ai in the charity sector. Um, and I'm kind of hoping you might have some positive stories or some hopes for the future at how you think AI can make a positive work or a positive impact in the work that charities are doing.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3526.401,
+      "endTime": 3538.157,
+      "text": "Well, I think a lot of charities are asking that question right now, but, interestingly, there are a few really good organizations that are also really looking at this as well, which I think is excellent. I'll mention it at the end, if I may. I'll mention them at the end, if I may,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3547.06,
+      "endTime": 3584.575,
+      "text": "but one survey I think it was in 2023, found out that 90% of people within charities so people who work for charities in the UK are using AI. Now, you know that may just be in the same way that I described using AI earlier in the interview, but it also found that 61% of charities are using it or planning to use it in their business processes. Now, the interesting thing is, it also found that only 3% of trustees those are, the people that are responsible and accountable for charities, the sort of board of directors of charities think that their charity is using AI, and that's pretty scary. And what that really means is that, whilst people might be using AI, there are probably very few mechanisms to govern its use, constrain its use, restrain it, whatever.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3585.341,
+      "endTime": 3595.015,
+      "text": "So what I've heard in terms of people using it I mean, aside from what I mentioned earlier in terms of writing job applications is sifting candidates for interview, which I mentioned earlier,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3600.72,
+      "endTime": 3632.19,
+      "text": "mentioned earlier, um. I've heard about um using it to enhance operational capability in terms of, you know, predicting how many beneficiaries might be needed for a particular type of requirement and therefore you can then, you know, perhaps build your products more effectively and target them more effectively, which is a really good thing, um, and then there's bid writing as well, so assisting, using using the generative ai tools to um perhaps say, write me a successful bid for 100 000 pounds from apple foundation, or something like that, you know? and you know, if you put the right question set in, you know you get a bid that comes back.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3632.21,
+      "endTime": 3666.951,
+      "text": "In the same way, matt, that you were talking about writing a cv and you know you've got all the buzzwords, then actually all the buzzwords come in apple give you, give you £100,000. Charity is wealthier and has the capacity to reach out to more people. So obviously there's a lot of potential there. But I think charities have a few concerns as well. Firstly, they're concerned about workforce reduction. I mean charities shouldn't exist. I mean, in an ideal world, charities should be keen for an outcome that requires their services no longer Right? So in some ways you should be concerned about that.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3667.06,
+      "endTime": 3699.645,
+      "text": "But actually they also care for their workforce and they don't want to see people you know effectively replaced by you know some other mechanism for doing things. I think in particular the charity sector will have ethical and environmental concerns we talked earlier about. You know the fact that running a search through an ai tool 10 times more costly in in electricity and sometimes you have no choice in that. Um, there will be many charities that are b corp certified that go. Actually that isn't. That doesn't fit with our you know our stance on that and particularly if you're a conservation charity, you know that would be um quite important.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3700.627,
+      "endTime": 3736.629,
+      "text": "Um, I think there'll also be an affordability element. I know a lot of things are currently free but that doesn't mean they will be forever and you know, will there be, you know, access to um ai tools for charities. You know a lot of services are provided sometimes. You know that cost quite a lot of money to non-charities. You know are sometimes provided at a reduction to others. So hopefully that will come about. But the other areas are data protection. You know really big deal, you know for charities doesn't want to get fined a million pounds by the Information Commissioner because you know it's put some data into an open system that you know is then used worldwide by AI systems.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3736.669,
+      "endTime": 3772.107,
+      "text": "You know, and it's data about their beneficiaries or you know something like that and that copyright infringement and things. And then again you know that sort of quality of content as well. You know can we rely upon? You know if we're using AI to research. You know perhaps how can we best apply the product that we have. You know that helps solve X. You know to population Y. You know if. You know that helps solve x. You know to population y um. You know, if you ask that question, you know you don't know that the answer that you get back will be the correct answer. We talked earlier about that critical thinking element, so you know it's there's a lot of um question there, but you know I think people are increasingly using it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3772.127,
+      "endTime": 3783.417,
+      "text": "I think the most important thing for charities is to have policies in place that you know actually constrain that or not so much constrain it, but actually describe the circumstances in which ai should be used I think it's a.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3783.537,
+      "endTime": 3821.187,
+      "text": "That's a really interesting one, which I doubt just applies to charities, which is that in it's like it as an employee, as someone who works for an organization, it's like it's so tempting because it's it's so powerful and it can like help you do all this stuff much quicker, um be more efficient, all the rest of it. So I don't think that's something that will just apply to charities. I suspect that lots of employees of organizations are getting around, um, you know rules that the organizations put in place or just doing things that maybe, like you say, the the senior board members aren't even aware of.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3821.247,
+      "endTime": 3847.189,
+      "text": "Like you said, that actually senior board members didn't really think people were using they were using ai, but then people within the organization are actually using it, and so I I suspect it won't be that long before we see the first issues with that, where actually you're putting personal information, you're putting sensitive information into an ai system. That's basically said. We're going to use that for training data and then at some point in the future it's going to pop up in an answer somewhere.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3848.021,
+      "endTime": 3856.408,
+      "text": "There's another issue with, with charities, I think, which is not. It's not unique to charities and it and it doesn't apply to all charities, because you know all charities. Charities operate,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3860.32,
+      "endTime": 3898.204,
+      "text": "you know from, from the national trust, you know environmental charities, but the nature of a lot of charities work is you have a lot of vulnerable people, um, that are supported by charities and therefore you know that data and information is even more is more sensitive, can be abused more. You know, I think of I always go to the examples around sort of medical, but you know information that can go out there in a country like the us, where you havea kind of medical insurance system. You know information of people who are in a alcoholic support charity or drug support charity or you know whatever kind of counseling that makes its way into a system that allows them then to be, you know, potentially, you know um, filtered out of of medical coverage systems.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3898.505,
+      "endTime": 3917.902,
+      "text": "There's all kinds of risks, which are there for everything, but they're they're more acute, I guess not for every charity, but I would say, like you know, the charity sector has probably going to have more concerns in that area than than most industries yeah, yeah, because it's trying to do good, right, yeah, um, exactly, I think the other, but there are some real benefits.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3917.942,
+      "endTime": 3958.166,
+      "text": "I mean, like, for you know, when people donate to a charity, they have, you know it's a human activity, isn't it Donating to a charity? Largely, most people don't delegate that to anything else. You know they are touched by something that they hear, they, you know that in that storytelling, of course, ai can be used to, you know, enhance that to make it more appealing and targeted to the right people. But also you can use predictive AI tools to understand what people's giving patterns are. You know, if there's a particular time of year that people give or a particular story that has historically helped them to make a decision to gift, then, you know, actually, knowing that allows you to not waste too much time when you're fundraising on, you know, the wrong people.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 3959,
+      "endTime": 3987.406,
+      "text": "You know you've probably been subjected to what's called charity mugging. You know chugging, I don't know if you, you know, and, um, you know, someone comes along and it really turns me off because I think it's really wrong. You know for charities to do that, you know, but they're, you know they, they must be doing it because there is a. It must work. Yeah, yeah, of society that that you know, either not so much susceptible, because that would make it seem as if it was a nefarious activity and in essence it's not. It's asking people to give money, you know, to, to to benefit a cause.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3987.466,
+      "endTime": 4028.21,
+      "text": "But you know, actually being able to make better decisions based on ai is probably something that would be of value and something that charities probably need to develop I just want to go back to the point you made at the beginning and Jimmy touched on it a bit about people in charities using AI, and you know the kind of not expectation, but the difference between that and the perception that sort of CEOs and directors et cetera of charities had, because it's not unique to charities. But you know, we see this kind of across the board that at the moment we're in a kind of world where people are using AI to do their job.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4028.52,
+      "endTime": 4060.584,
+      "text": "They're using it, they see it as a shortcut, they think that they're clever because they're using AI and nobody else is. Well, actually everyone's using it and thinks the same thing. But they're also worried that their boss, if they find out, will either think, well, one, why do I need them anymore Because they've got AI? Or two, well, they're lazy, they can take on more work, rather than them thinking, well, actually this shows that they're being innovative and they're taking advantage of technologies. That will kind of shake itself out, because we'll reach a point where, if you're not using large language models in in in some way in your work, you're you're just going to fall behind.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4060.645,
+      "endTime": 4096.226,
+      "text": "But I think it's it's not unique to charity sector, but it's still an interesting. I think what I find interesting about this is the fact that the people at the top appear to still be very, very naive to what is happening. And it's interesting in a sense that this is a kind of bottom-up technology that's being adapted, you know, in schools and universities. Now the percentage of of you know people who are using them in schools to write assignments in high school and college etc is is kind of phenomenal. You would expect that in work it's not quite as high because, as you you know, the age goes up, people are adapting the technologies slightly slower.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4097.208,
+      "endTime": 4125.252,
+      "text": "But you are kind of reaching a point where you know, surely everybody is using AI in some way and this idea that they're not using it, to me it kind of seems ridiculous. But it appears that a lot of people in positions of seniority and power don't yet know that their staff are using AI. I find it kind of amazing. But I guess that maybe plays into the kind of dynamics of age and and you know what you're doing in your job day to day yeah, absolutely yeah, and you know.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4125.513,
+      "endTime": 4161.753,
+      "text": "I think it should be a concern that only three percent of trustees, you know, were aware of that, and that is something for all boards of trustees to think about. You know, and actually ask their staff. You know what are you doing there. I mean, there is actually a really good um toolkit out there that is available um through I think it's zoe amar's website um she's a leading, a thought leader in this area um, and you know that enables people to. It's also available, I think, through charity digitalcom as well, but you know that's um. You know enables people to um almost check what is going on and then consider what they want to govern within their workspace.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4161.92,
+      "endTime": 4163.827,
+      "text": "You know, and I think that's perfectly sensible, yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4166.201,
+      "endTime": 4182.17,
+      "text": "So we'll finish off, tim, with our kind of standard two interview questions. So the first one and sorry to sort of put you on the spot with this one if you haven't had time to think about it but where do you stand generally on the future of? Are we headed for an ai utopia or are we headed for a dystopia?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4183.472,
+      "endTime": 4218.962,
+      "text": "well, I think, um, as you'd expect from someone who's worked in a diplomatic environment, I'm going to use a sitting on the fence um answer to that, but I'm going to actually um use the words attributed to joe and lie who? Um, when asked by kissinger about the um his views on the impact of the French Revolution, said it's too early to say, even though it happened 200 years previously. Now, I think you probably know that that's been misquoted and in fact he was talking about the French student protests of the late 1960s, but even then that was three years past at the point in time that he was asked.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4219.624,
+      "endTime": 4221.59,
+      "text": "So I think it is too early to say. Actually, I think",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4230.22,
+      "endTime": 4245.096,
+      "text": "and you know, possibly I'm not necessarily best qualified to say, because, as we've established through this chat that you know, neither you nor I know what's going on in the. You know the heart of governments. You know in the West, in other parts of the world, you know in the West, in other parts of the world, you know we don't really know what's going on in the. You know boardrooms of Google and Alphabet and you know various other companies that are, you know, developing these tools.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4254.22,
+      "endTime": 4269.45,
+      "text": "So you know, I think for me it's a little bit too early to say, but I think there are potential dystopian elements and potential utopian elements, and I think it's how we as people create the regulatory framework around it. That is the most important thing. But you know, are my hopes high that we can do that in a positive way internationally right now, no, but that doesn't mean to say that that will stay forever.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4271.661,
+      "endTime": 4298.387,
+      "text": "Very diplomatic, but a good answer, very good answer. So I'll leave our last question. So this is your sort of chance for personal recommendations. This can be ai tools, it can be a book that you think, uh, our listeners, readers, should, should read a movie telling people to get out in nature and get away from screens, or or just plug in your own work and and future businesses, so anything that you would like to to finish off, uh, for our listeners.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4303.38,
+      "endTime": 4340.211,
+      "text": "Well, I think it's fair to say that I can't remember where it was written, but AI, ultimately, is a very sophisticated abacus, is it not? I mean, it's extremely sophisticated but, at the end of the day, it is something that didn't exist 20 years ago. 20 years ago, you know, we don't know what's going to be 20 years hence from here. You know how things are going to change and you know, at the end of the day, life has still gone on, um over the huge changes that we've had in in technology over the last um few years. So, you know, I think the key point is that life does still go on, and if you like to do things that don't involve technology, then that's fine and good.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4340.3,
+      "endTime": 4372.493,
+      "text": "You know, I was at a really amazing performance of Messiah Handel's Messiah yesterday evening and, because I was preparing for this podcast, I thought how different would this have been if it had been. You know, if I had just asked Cerebras, for instance, you know, give me a fantastic rendition of Messiah. You know, you know that I might have got one. I might have got, you know, I mean not now, I don't think, but you know, down the line, you know you might be able to ask. You know, give me this",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4385.68,
+      "endTime": 4408.853,
+      "text": "and it might be able to sample. You know, the best ever tenor, the best ever bass, the best ever soprano, bring a choir together and bring the most perfect example. But that doesn't mean that that experience is the same as going to an ancient cathedral and, you know, seeing other people. You know so, lifted by the experience of the skills that individuals have developed in order to be able to, you know, deliver something like that. And you know you talk about going out into nature. You know that is not. You know birds and bees and flowers are not, you know, needing AI to get to the next stage of their development.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4408.893,
+      "endTime": 4450.008,
+      "text": "So I think we have to put this in context. But what I would say, you know, for people that are listening and are involved in the charity network, there is quite a lot of help that can be got from places like Charity Digital, from Zoe Amar she has a website, her own and even the Charity Commission has put blog posts out about how AI should be used or governed within charities, which I think is really important, because, actually, for me, now I'm no longer involved in international defence diplomacy, I'm now working with charities to try to improve their ability to, you know, ride out the changes that are taking place in society and making themselves more relevant for their beneficiaries, and that, for me, is my focus now.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Tim Law",
+      "startTime": 4450.12,
+      "endTime": 4459.328,
+      "text": "So, yeah, there's stuff out there. If you want to have a question, or if you have a question about, you know, charities and adoption of AI, then I'd be happy to discuss it with anyone.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4464.84,
+      "endTime": 4494.244,
+      "text": "Great, and we'll put all the details in the show notes, uh, the things that tim has talked about today, and also his contact details if you want to get in touch. Well, tim, um, I think I speak on on both of our behalves when I say you're one of, uh, our favorite people that we have ever worked with. Um, you're now one of our favorite people that we've interviewed as well. So, thank you very much. That was genuinely fascinating interview. Maybe we will, like we say to a lot of people we'll, we'll have you back in a year and see how things have moved on, and next time we're back in the UK. It'd be, it'd be great if we, if we have a chance to catch up.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4495.248,
+      "endTime": 4501.254,
+      "text": "Yes, yes, absolutely, yeah, really great to see you again, both of you. Yeah, thank you, tim, been great to catch up, thank you",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4509.831,
+      "endTime": 4511.332,
+      "text": "so that was uh, that was Tim Law.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4511.633,
+      "endTime": 4522.315,
+      "text": "I hope you enjoyed that episode. Uh, we're recording this after the interview and after the introduction, but but separately. And we've had the fish, yeah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4522.882,
+      "endTime": 4523.666,
+      "text": "The fish was great.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4524.02,
+      "endTime": 4535.185,
+      "text": "So you can all work out the order that we did this in by. In fact, that was the point of the fish. People can work out by the fish which part of the episode was done, in which order We've now had the fish.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4536.02,
+      "endTime": 4538.863,
+      "text": "It's like the plot of a Tarantino film. It is. It's incredible.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4538.923,
+      "endTime": 4540.244,
+      "text": "Or it's like that Memento.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4540.865,
+      "endTime": 4542.046,
+      "text": "Christopher Nolan film, isn't it?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4542.206,
+      "endTime": 4550.835,
+      "text": "Yeah, this is comparable to Memento. Yeah yeah. So the interview was fantastic. The rest of the episode was absolute verbal diarrhea.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4551.095,
+      "endTime": 4552.897,
+      "text": "Fortunately, the introduction and the outro.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4560.02,
+      "endTime": 4566.542,
+      "text": "But yeah, that's where we're going to keep it as short as possible. So, jimmy, you're going to make a song this week, or is it going to be me? One of us will make a song this week or at some point? Okay, I might have already. We haven't done that. No, we haven't done that, yet. How do you know I?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4566.562,
+      "endTime": 4580.678,
+      "text": "haven't done it Because it was after the fish, but I might have made it and you didn't know about it. What Just like last week, wasn't it Okay? Thanks for listening. See you next week.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4581.329,
+      "endTime": 4589.047,
+      "text": "Tim Law. What is he good for? Absolutely everything. Say it again,",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4594.434,
+      "endTime": 4594.935,
+      "text": "tim Law.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4598.048,
+      "endTime": 4602.285,
+      "text": "What is he good for? Absolutely everything. Say it again",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4608.16,
+      "endTime": 4656.178,
+      "text": "Jimmy's got a fish in the back. Yeah, my boy, jimmy for a fish in the back. It isn't in his mug, that's just a cup of tea, because Jimmy keeps his fish in the back. Well, in this crazy AI world, when it all gets too much, just come and sit with Jimmy and Matt. They'll bring a smile to your face that you can never replace Until old Jimmy grabs that fish from out back. Jimmy's got a fish in the back. Yeah, old Jim got many fish out the back. It isn't in his mug, that's just a cup of tea, cause Jimmy keeps his fish in the back. Fish, fish, fish, fish, jimmy, jimmy, jimmy, jimmy, jim, jim, back, back, back, back, back.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4656.581,
+      "endTime": 4662.269,
+      "text": "Tim Law is the best man, he's just about okay, but Jimmy Keys is fish in the back.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4684.461,
+      "endTime": 4711.209,
+      "text": "Jimmy's got a fish in the back. Yeah, my boy, jimmy for a fish in the back. It isn't in his mug, that's just a cup of tea, cause Jimmy keeps his fish in the back. Fish, fish, fish, jim, jim, jim, jim, jim in the back, fish, fish, fish, jim, jim, jim, jim, jim, jim, back, back, back, back back. Tim Law is the best, matt is just about okay, cause Jimmy Keys is fish in the back.",
+      "chapterIndex": 10
+    }
+  ]
+}

@@ -1,0 +1,1017 @@
+{
+  "slug": "s2-2025-04-01-tech-lords-rising-how-digital-feudalism-th",
+  "buzzsproutId": "16897141",
+  "title": "TECH LORDS RISING: How Digital Feudalism threatens to make us all digital serfs",
+  "date": "2025-04-01T14:00:00.000Z",
+  "season": 2,
+  "durationSec": 3430,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16897141-tech-lords-rising-how-digital-feudalism-threatens-to-make-us-all-digital-serfs.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Is our digital world becoming a feudal system where tech giants rule as lords and we serve as digital serfs? This provocative question forms the backbone of today's deep dive into \"techno-feudalism\" – a framework that helps explain the troubling concentration of power in our increasingly AI-driven society. The parallels are striking and sobering. Just as medieval peasants worked land they didn't own to benefit wealthy lords, we generate valuable data on platforms we don't control to enrich tech companies worth trillions. These digital fiefdoms – controlled by Meta, Amazon, Google, and others – now wield economic power that dwarfs many nations. When Elon Musk controls Starlink (internet), X/Twitter (communication), and xAI (artificial intelligence development), while appearing at government cabinet meetings in a t-shirt eating a sandwich, the lines between corporate and state power blur dangerously. What makes this moment in history particularly concerning is how artificial intelligence amplifies these dynamics. The same handful of companies dominating our digital lives are also leading AI development, creating tools that enable unprecedented surveillance, behavioral prediction, and narrative control. Through addictive algorithms designed to maximize engagement, these platforms have literally rewired our neurological pathways, creating feedback loops that keep us tethered to their services. Yet rays of hope exist. The democratization of AI through open-source models like DeepSeek challenges the closed corporate paradigm. Individual actions matter too – reducing social media use, supporting local communities, maintaining privacy-protecting practices, and being conscious consumers of information all help resist the tide. As we face this pivotal moment, the question remains: will we passively accept our role as digital serfs, or reclaim our digital sovereignty? The choice, while it still exists, belongs to us.",
+  "summary": "Jimmy brings the techno-feudalism thesis to the podcast - tech giants as feudal lords of digital land, users as serfs whose data is the extracted value, governments dwarfed by trillion-dollar corporations - and Matt, self-declared conspiracy theorist, says we're already well down that path. They contrast China slapping down Jack Ma with Musk eating sandwiches in cabinet meetings, trace how LLM guardrails loosened within weeks of Trump's election, and ask whether any democracy can survive corporate narrative control.",
+  "keyTalkingPoints": [
+    "Techno-feudalism defined: a handful of tech giants own the digital infrastructure; users create the value (data) but own nothing; everything becomes subscription-based",
+    "Corporations now dwarf governments; Musk is richer than the 50-somethingth country and his companies are worth trillions",
+    "Jack Ma vs Elon Musk: China sent its tech lord home with his tail between his legs; America made its tech lord shadow president - 'he's not even heading up that department' yet runs cabinet meetings",
+    "Guardrail shift as narrative proof: three months ago models churned out WHO vaccine lines; now ChatGPT will happily debate mRNA dangers - a tiny group now steers the information landscape via AI",
+    "Eric Wickstrom's Musk-stack quote: Starlink controls the internet, X controls information, xAI the algorithms, Tesla/SpaceX the physical infrastructure",
+    "Social media as literal drug: Matt closes X immediately after posting because an hour vanishes down the rabbit hole; a generation of kids' brains have been clinically rewired by a 10-15 year algorithmic Wild West"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Techno-feudalism is a neat label for a real trend: everything is becoming subscription-based and wealth inequality keeps widening",
+      "Musk has amassed unbelievable, undemocratic power - not even a cabinet-level official, yet arguably the second or third most powerful person in America",
+      "Something will eventually be done about platform harms, but a 10-15 year Wild West has already rewired a generation's brains"
+    ],
+    "matt": [
+      "We're not at the start of the path to techno-feudalism, we're well down it and there's little time left to resist",
+      "The loosening of LLM guardrails since Trump's election proves a very small group controls the narrative through AI",
+      "If there is a global cabal it's not Musk or Gates - but Musk is now its most obvious public face"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-04-01-tech-lords-rising-how-digital-feudalism-th-376.6-digital-feudalism-technocracy-is-already-well-ad"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Wild Willis"
+  ],
+  "chapterCount": 6,
+  "turnCount": 135,
+  "chapters": [
+    {
+      "title": "Introducing Techno-Feudalism",
+      "startTime": 0
+    },
+    {
+      "title": "Data as Modern Feudalism's Currency",
+      "startTime": 501
+    },
+    {
+      "title": "Control of Information and Narrative",
+      "startTime": 1033
+    },
+    {
+      "title": "AI's Role in Centralizing Power",
+      "startTime": 1616
+    },
+    {
+      "title": "Open Source vs. Closed Models",
+      "startTime": 2078
+    },
+    {
+      "title": "Resistance and Hope for Democracy",
+      "startTime": 2844
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 42.607,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. urgent need for safe development of AI governance and alignment. Confidence is a preference for the habitual voyeur of what is known as park life, and morning soup can be avoided if you take a route straight through what is known as park life. Welcome to Preparing for AI with me, jarvis Cocker, and me, damon Thingybob.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 43.128,
+      "endTime": 50.33,
+      "text": "Damon Albarn yeah, I try to be someone not from blur, and you've just been someone from blur. I'll be the. I'll be the one from blur that makes cheese.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 50.911,
+      "endTime": 52.623,
+      "text": "Well I'm, it's fine. I'm damon thingy bob.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 52.683,
+      "endTime": 64.289,
+      "text": "I don't think I'm not I'm the one who makes cheese or the one who's a labour mp, but I think he's not a labour mp he might be a labour mp is he a labour mp, I've no idea what you're talking about. Well, welcome to Preparing for AI with me and Jimmy.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 65.07,
+      "endTime": 69.895,
+      "text": "Yeah, what are we doing this week? Well, you're going to tell us what we're doing this week. Oh, sorry, okay,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 73.706,
+      "endTime": 101.689,
+      "text": "it's techno feudalism, yeah, so this week we wanted to talk about something which I don't know, like I've heard about this for a little while. I've heard people speaking about it, like you know, youtube. I've heard about this for a little while. I've heard people speaking about it, like YouTube and stuff like that, and it's something where I think we can add a little bit, because I haven't heard anyone specifically talking about how AI will contribute to this, potentially, or add to it. So, first of all, what is techno-futurism.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 101.709,
+      "endTime": 108.209,
+      "text": "Hang on. First of all, have you joined me down the rabbit hole? I've got to ask the question are you a conspiracy theorist, jimmy?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 109.171,
+      "endTime": 111.135,
+      "text": "why is this a conspiracy theorist theory?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 111.155,
+      "endTime": 126.352,
+      "text": "well, well, conspiracy theories aren't conspiracy theories, as you know. As you full well know, they're truths. But this is um. I think this is. I think this counts as well. I think this counts as a fringe, marginal theory. So I think I think you're getting down the rabbit hole, mate. I do.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 126.9,
+      "endTime": 130.927,
+      "text": "But it's so. I think it's more like I'll explain what it is.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 134.246,
+      "endTime": 190.02,
+      "text": "It's describing what's happening to the world in a sort of neat package, I think, and so we'll see whether our listeners agree with all this. But so, basically, the idea is that and obviously this doesn't translate perfectly, but the idea is that a lot of tech giants now are getting so big and so much power, online specifically, is getting concentrated in so few hands that tech giants as in the corporations, I think, rather than individuals although there are probably a few individuals we could talk about as well um, they, they kind of, in the digital realm, act like feudal lords, because they control all the digital infrastructure and platforms, um, and users end up becoming, like in uh, you know, in quotes digital ser dependent on these platforms for their daily activities, communication and economic participation.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 190.22,
+      "endTime": 203.469,
+      "text": "So the idea being that we are feeding all of our. Basically, facebook wouldn't exist without the users, right, but we don't own any of the data that's on Facebook. It's all owned by Meta and Facebook and the Zuck",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 206.84,
+      "endTime": 247.973,
+      "text": "on Facebook. It's all owned by Meta and Facebook and the Zuck, and um, and you know, at the end of the day, there aren't many of these kind of patches of digital land, so to speak. You've got a few massive, massive tech companies that own all of that infrastructure and all that space and we just sort of we spend most of our time there. So you know, but we're, we're, we're, we're it out, we're. You know, we're part of the system in that we're contributing to it and the system wouldn't work without us. Yeah, and so, yeah, data becomes a primary form of capitalism and a source of value extraction, and actually traditional government authority this is one that you might want to discuss is challenged or diminished by corporate power.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 248.093,
+      "endTime": 280.36,
+      "text": "I think this is definitely true. Some of the companies now the scale and the size of a lot of corporations now it actually dwarfs a lot of governments, and that's absolutely true, right? So you know, elon Musk is richer than the 50-somethingth country in the world, I believe, and that's just Elon Musk. Some of his companies are worth trillions. Amazon's worth over a trillion as well. You know, they're worth more than a significant amount of countries and certainly more than the GDP of a lot of countries.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 284.571,
+      "endTime": 329.589,
+      "text": "So I think there is a bit of uh, what's it called? A bit of truth in this, um, and it does feel like, you know, on the economic side, it does feel like it doesn't just feel like the rich are literally getting richer, the poor are getting poorer and the middle class are getting squeezed harder and harder. Um, I listened to gary's economics and, uh, this is basically the whole point of his his his like YouTube slash podcast, like this this is all he talks about. I think he's quite an interesting guy and a lot of the stuff he says, like it's very, very hard to argue with it, like so, so, yeah, like, essentially, wealth inequality is getting worse and worse and worse, and these massive companies are clearly massive companies owned by really powerful individuals are clearly some of the beneficiaries.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 329.669,
+      "endTime": 362.207,
+      "text": "So I think you know, do I literally think we're going back to feudalism? I don't think that's what this is trying to say or argue. I think it's more that you know, it's the concept. It's just a kind of neat concept to kind of sum up where the world is going really, which is everything is becoming subscription based. People can't afford to buy houses anymore, so you're even subscribing to rent your house and when you rent your house, at the end of the day again, listen to gary, he's more knowledgeable on subject than me but effectively the richer lending you money and then you're paying interest back on it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 362.949,
+      "endTime": 366.637,
+      "text": "Um, when you, when you, when you rent a property, even when you have a mortgage, to be honest, I say even when you're paying interest back on it, um, when you, when you, when you rent a property, even when you have a mortgage.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 366.592,
+      "endTime": 368.869,
+      "text": "to be honest, as I say, even when you're buying a property without cash.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 369.41,
+      "endTime": 376.547,
+      "text": "Yeah, exactly. If you're not, if you're not doing it with cash, then somebody somewhere is earning the interest on it, and that is usually the very wealthy.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 376.567,
+      "endTime": 427.058,
+      "text": "Yeah yeah, um, I mean, you'll be unsurprised to know. I think it's far more sinister than you do. Um, and and when you say you know you're not sure if it's going to techno feudalism, I mean, I think it's like we are on that path. We're not just on that path, like we're not just on the beginning of that path. I think we're, frankly, like, well down that path and we're probably at the point where there isn't much time left to resist it. Um, there's another word for it um, so technocracy which I guess slightly different, but basically the same idea. Um, yeah, I mean, you know, without going into the grounds of what some people will call conspiracy theories, I mean, yeah, for me it's only like how far down the rabbit hole with this stuff you are and and and.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 427.078,
+      "endTime": 461.372,
+      "text": "I guess the big question for me, the one thing where I'm still not fully, uh, fully sold or fully committed, is like how intentional a lot of this stuff was, and those who are really at the bottom of the rabbit hole will call me kind of naive for that. Others will say I'm already. You know, I'm already very far gone. But I think it's whether this stuff is kind of in completely intentional or whether it is just a sort of manifestation of various things that have happened. And so, in the interest of being kind of rounded on this podcast, I think you can make your own decisions on on where you feel that is.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 461.452,
+      "endTime": 477.643,
+      "text": "But whether we're on that path and whether that is what's happening, I mean I think it's. I don't see how you can argue with it. I mean you know it was kind of irrelevant and we didn't want it to kind of interfere and it is to become kind of",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 485.71,
+      "endTime": 517.552,
+      "text": "geopolitical. But I think one of the really interesting things for me is like being in china, where everything you know and for the criticisms, everything is underneath the communist party. Right, the communist party is number one and people don't always understand how government, government is below the communist party, law is below the communist party, the army is below the communist party. It controls everything in the us. Let's use that as a main example of a democracy. You know, the idea is well, you've got kind of government and above that you've got the law, etc. Etc. Well, I would sort of argue, above that.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 517.612,
+      "endTime": 561.836,
+      "text": "Now you've just got corporations, you've just got big tech, big oil, big pharma, etc. Etc. Hot, take controversial view, I don't know, maybe, maybe not, but you've got them controlling it. I'm not defending or promoting the chinese system or whatever, but what I'm, what I am saying here is I think there is an interesting dynamic here in that I'm not sure that the chinese communist party allows corporations of any type or any business, whether that that be tech or whatever, to be in control of them Now whether that ends up with them just aligning with it, and so the techno-fuelism or the technocracy is the Communist Party, possibly, but I think there's something here that's really interesting in the dynamic is I think the biggest risk here is to democracies I really do.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 561.856,
+      "endTime": 571.467,
+      "text": "And in the dynamic is I think the biggest risk here is to democracies I really do, particularly in the short term, maybe, because democracy is something that needs saving, whereas the system here is already kind of maybe closer to that level.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 575.49,
+      "endTime": 584.536,
+      "text": "But I just think that is one thing that I think is part of the discussion here is like I think we have to separate out that this is something we're talking here, I think, predominantly about democracies and actually mainly about democracy. Is it actually mainly about the US? We really talk about the US, aren't we?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 584.991,
+      "endTime": 599.613,
+      "text": "I think there's a great example of a couple of individuals that's really kind of helped to highlight what you're talking about. So you've got Elon Musk and then, for anyone who's unfamiliar with him, like probably the equivalent in China, who's Jack Ma and Jack Ma.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 600.054,
+      "endTime": 613.881,
+      "text": "Was sent with his tail between his legs. He disappeared for two years because he was a naughty boy musk was like basically made the second or third most important person in america and yeah, and you know, he's perhaps now even running the country, like yeah, exactly.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 614.142,
+      "endTime": 634.221,
+      "text": "So you know, jack, ma kind of flew too close to the sun in china and uh, you know, I mean, I'm not saying yeah, and I'm not saying I agree with like happened to him, but basically he was kind of put back in his place, to put it lightly, and then, as you say, in the US right now it's just like well Musk's running around basically running the government.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 634.991,
+      "endTime": 667.576,
+      "text": "Let's, for a second, bring this back to AI. Just for an example, something we've been talking about quite a bit in these last few days, which is not directly linked to it and I don't think we discussed it in this context, but I think is relevant. Here is one of the things that we talked about a lot, the two of us, but also on the podcast. I mean, we use the term woke for Claude, which I know we agreed not to use, but whatever you want to call it, claude was guardrailed to behaving like a very kind of you want to call it claude was guardrailed to behaving like a very kind of left uh, california sort of democrat right.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 667.636,
+      "endTime": 699.34,
+      "text": "That's how. That's how it spoke and that's the way that it. It it kind of behaved and chat gbt although a chat with gpt for me doesn't really have a personality in the way that claude does, but it definitely, you know, was. It had guardrails and it had sort of political leanings and it was clear that that was in the kind of training but it wasn't clear how much it was. In the last two or three months and since the new models have come out, in particular, you know that one of the things that I love to do when there's a new model out is I like to talk to you about global cabals, mrna vaccines,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 703.292,
+      "endTime": 738.416,
+      "text": "all of the things that it doesn't like talking about, but, frankly, away from personal interests, because these are the things that it wouldn't do. The obvious thing, the most kind of controversial thing to shut down any American large language model, was to talk to about vaccines. Now, if you ask the same questions as you asked three months ago, that it said the WHO says you should be vaccinated and just churned out its standard answer it will now engage with you in a debate, as controversial as you like, and it will, and I know a lot of this stuff. I'm not saying it's right or wrong, because we all know that models lead you and give you answers that you want to hear, but it will happily engage with you.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 738.51,
+      "endTime": 781.574,
+      "text": "It will happily tell you about the dangers of mrna vaccines. It will happily tell you about links to disease etc. That maybe we don't want to talk about again. I'm not saying that's right or wrong. What I'm saying is it will have a conversation that it didn't have. That shows you how much influence, yeah, those, the sort of companies in government and and, and the sort of the people in, and not even necessarily the people in government, but those people who we've sort of just named I'm not sure if it's musk is influenced by them. He influences them the other way around, but it is a very small group of people that are feeding all of this stuff in, and ai is now putting that information out and it's controlling the narrative, yeah, and so that narrative is in the mainstream.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 781.975,
+      "endTime": 816.022,
+      "text": "Look at the stuff that's come out in the last couple of months, last few weeks, even about mrna vaccines, again the most controversial subject I would say that you couldn't talk about in social media except or not social media, you couldn't talk about mainstream media, large language models, and now stuff is trickling out, trickling out again. Whether it's true or not, the narrative has changed and that shows you how much control those people have over information, yeah, and over ai, and ai is the facilitator that allows this tech technocracy, tech feudalism, whatever you want to call it. There's my, there's I.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 816.083,
+      "endTime": 850.272,
+      "text": "I'm not even sure where I've gone with that argument, but it just struck me that the link between these two things no, I mean, I think that, well, it's interesting you talked about at the start, you kind of talked about the differences, um, between china and western democracies, but I think there are also, like, in different ways there are, massive parallels, right. So, because what we're talking about here is control of information, and china, unapologetically, controls the narrative and controls information. They just ban things that you can't talk about and then, um, what's left is what everyone's allowed to talk about.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 850.552,
+      "endTime": 899.915,
+      "text": "Stuff just gets removed, um, from social media, whatever, like so, so that just happens. Everyone knows that in the west it's almost, like it's different and it's more subtle, but it's still some kind of manipulation, right. So these companies and governments, via these companies, can set the narrative, and that's an incredibly powerful force. And, to be honest, like, this is not again, we've talked about this before this is not necessarily something that's brand new. Media, traditional media has actually done this for a long time. That balance has kind of been upset now, um, but I do think and it's it's probably one of the reasons I don't I can't remember what the latest thing is with tiktok, but you know, tiktok was going to be banned and all this kind of stuff and this is it right, so like it's moving a month to the, to the, to the right, doesn't it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 899.975,
+      "endTime": 902.161,
+      "text": "every month it's like oh, oh, now it's may.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 902.341,
+      "endTime": 908.853,
+      "text": "Oh, now it's june, now it's yeah yeah, and I don't know what, what that is. I think trump quite likes tiktok. He said that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 909.053,
+      "endTime": 920.079,
+      "text": "He said it's because a lot of people who voted for him use tiktok, so so it works for him. And the thing with trump is you know, know how narcissists work. If it works for them, then yeah, you know they're gonna go with it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 920.24,
+      "endTime": 932.681,
+      "text": "But originally, the reason that you know, presumably the reason that we wanted tiktok or they or us wanted to ban tiktok, was because, again, like that, that, that narrative there's then outside their control, their control exactly.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 932.701,
+      "endTime": 946.677,
+      "text": "It was in the chinese communist party's control, and that was the thing is. They didn't want to ban tiktok, they just wanted to bring it under us control. Actually, that's what they wanted to do, that's true, and they couldn't quite get the separation, I think, of interests that they wanted to do, that's true, and they couldn't quite get the separation, I think, of interests that they wanted for the company.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 947.218,
+      "endTime": 983.182,
+      "text": "but, yeah, so I think in terms of, like you know, in terms of is this a thing or not? Like, I think, obviously, calling it techno feudalism puts a label on it. Calling it a technocracy puts a label on it. I don't think it matters what the label is, necessarily. I think everyone can acknowledge it's a real thing and and and you know, talking about the sort of like influence that these things have we've talked about it before on the podcast like there's a, there's a massive, massive danger to kids like that, unfortunately, like kids that are now, um, just about turning adult, but also like the generations behind them.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 983.571,
+      "endTime": 1013.378,
+      "text": "And I think, to be honest, I think at some point something will get done about it or more will get done about it. But there is a sort of, you know, a 10, 15 year period where, basically, it's been the Wild West with this stuff and the influence on the way people think and the amount of, yeah, exactly like the influence on the way people think and the amount of, yeah, exactly Like the influence on the way people think and the way it's pushed like whole populations of people in a certain direction, and that and then now people's brains have been rewired Like it's not.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1013.418,
+      "endTime": 1025.005,
+      "text": "That's the thing is and it is. This is not a kind of like oh no, it's changed people's brains. This is like no, literally like a. It's like no, literally like at a physical, at a clinical level. People's brains have been wired in different ways through social media.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1031.31,
+      "endTime": 1058.257,
+      "text": "I mean, like TikTok is the prime example, any kind of short video, because it changes the way that dopamine works. It is addictive, not in the way that, like I'm addicted to, you know, to playing this game, like no, it's addictive in the way that it is literally addictive in a chemical way, that it has created this thirst for kind of dopamine. Like I gave this example for myself. Like I've said to you quite a lot of times, like one thing I try and do is keep away from social media, says the guy with Substack, open on his page with a conspiracy article that I'm going to read from. But I stay away from the likes of Twitter.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1058.337,
+      "endTime": 1104.766,
+      "text": "Let me tell you, the only time I use Twitter X, whatever you want to call it, is every week when I post a podcast. I go on to linkedin, facebook and twitter those three, because they're integrated within um the um linkedin no, no I was just to say those three are integrated, yeah, within um buzzsprout that we use to host the podcast. Yeah, and when I click on x, I post it and I have like a trigger. As soon as it comes up and it's loaded, I close the window and I shut it away and it's like I'm scared of x, I'm scared of it being open, because I know that I will look at an article and I'll be like I'm not looking at and then an hour's gone and I've just like gone down a rabbit hole and that is, that's a drug like that is a drug, so like it's rewired pills.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1104.786,
+      "endTime": 1109.469,
+      "text": "But this is not even the point of this podcast, but it has rewired people's brains in a literal well I.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1109.65,
+      "endTime": 1147.258,
+      "text": "I think it is the point of the podcast right, so like, so like you know, we're talking about, if we're talking about techno feudalism and like how we got here and why are we here and how did that happen? It's it's partly because these platforms manipulate us into going back to them all the time and the algorithm set up to literally manipulate to do that. And I'm not. I've said that I don't use social media Like I. You know, sometimes I talk a bit of rubbish, cause I do. I do consume a lot of YouTube stuff and I think it's quite intellectual and all the rest of it. But whatever I say, like I'm in that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1147.278,
+      "endTime": 1153.014,
+      "text": "You're intellectual. Youtube might not be intellectual as a platform. It's got intellectual stuff on it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1153.054,
+      "endTime": 1158.198,
+      "text": "It's got intellectual stuff on it and I think I try and curate the stuff that I watch. I watch, you know, like math stuff and science stuff,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1163.03,
+      "endTime": 1191.821,
+      "text": "but then, at the end of the day, I'm still a victim of the algorithm and as as much as the creators are actually like, youtube's an interesting one because you've got, you know, you've again you've got a platform that's making a load of money. You've got creators that make money on there as well, um, and then you've got consumers, but, like, everyone's a victim of the algorithm. I've heard so many content creators talk about, um, you know, having to do things this way and having to create thumbnails a certain way, because that's just the way they've been, the direction. They've been pushed in by the algorithm because, again, like, and why is that?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1191.941,
+      "endTime": 1228.932,
+      "text": "It's because you know youtube have figured, or google have figured out, that, like, if you push this type of content this way, it's more addictive. It's more addictive. It's going to get people coming back. Thumbnails that look a certain way are going to get people coming back to it and that that, again, like uh, cements their power, so to speak. In this sense, um, I had an interesting experience recently, before we move off this Cause, like uh and I don't know whether this is true or not, but it's a bit of speculation I'm going to put out there so I paid for a month of youtube premium so that I could download videos and while I was traveling in another country and like watch them in my own time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1229.733,
+      "endTime": 1263.543,
+      "text": "As soon as I cancelled the subscription, I swear I started getting two, three, four times as many adverts immediately afterwards. And then, of course, like come back to premium, blah blah and so again, like, all this stuff is like it's, it's, it's sort of um, it's just a massive feedback loop right to like, like you say, tweaking our dopamine. Like tweaking our dopamine, making other creators tweak our dopamine because it promotes content that fits a certain form and it looks a certain way, and all this kind of stuff. So I think it's dangerous.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1266.571,
+      "endTime": 1308.646,
+      "text": "I want to just quote something from a Substack article by Eric Wickstrom. The title of his Substack is Am I Crazy here? And he has written two articles on this. Actually, checkmate the Triumph of Technocracy. And when you were just talking then I just thought of this quote that I screenshotted today. Elon Musk's corporate empire forms the backbone of the system. Starlink provides control over the internet. X Twitter controls information and communication. Xia develops the algorithms that will dictate decision-making. Tesla and SpaceX control critical physical infrastructure. Each component is designed to integrate seamlessly with the other.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1309.729,
+      "endTime": 1347.036,
+      "text": "I just thought of that and and how you know, the algorithm is a big part of it and I I think the algorithm's kind of the the obvious danger, but it's like it's all-encompassing, it's like insidiously penetrating absolutely everything and actually like I don't know, I don't know whether musk is the devil, I don't know whether he's just the guy who got rich and is, you know, a bit nuts whatever, whether he's really the brains behind it. I always see a real person well, I was like I've said this to you before like if there is caveat, a global cabal, like we don't know any of them, like it's not bill gates and it's not elon musk, it's not any of those people.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1347.056,
+      "endTime": 1381.035,
+      "text": "I'm not saying they're not up to some shenanigans, whatever. If it really is a global cabal, you don't know who they are. So I'm not sure, like with the musk thing, like whether he is really the brains that a lot of these people like to think that's behind all this stuff. But whatever it is he is, he is amassing an unbelievable amount of power. Like I said to you, he's like the third most powerful person in america. Maybe he's more, maybe he's more powerful than that because he's got the resources. Like when you look at that quote and all of that stuff, if you talk about techno feudalism, if you talk about technocracy, like I think the musk is at the top of that now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1381.316,
+      "endTime": 1389.652,
+      "text": "Like he might not have been four months ago, but now he is number one in terms of like the obvious kind of public face of what this is yeah, I think.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1389.752,
+      "endTime": 1420.413,
+      "text": "I think elon musk is yeah, you're right, like he's with the. With the recent change in government in the us and the position of power that like, combined with the fact that he's one of the wealthiest people in the world if of the wealthiest people in the world, if not the wealthiest person in the world, I can't remember but like, irrespective, like he's right up there and then the influence he now has over the entire of the us government and hence the rest of the world, um, and he's not democratically elected, like that's the maddest thing in this I mean the us system.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1420.433,
+      "endTime": 1458.908,
+      "text": "There's quite a lot of important people who are political appointees, so they're not they're not democratically elected in the same way as in some countries like in the us and a lot of europe. But it's pretty mad that someone has got that much power. I mean, he's heading up a department or he's not. Hang on, sorry, he's not even heading up that department, right? He's actually number two in that department and it's not even a cabinet department and he's not a cabinet level person. And yet the picture I saw this week was all of the us cabinet sat around in suits, like just after they complained about zelensky not wearing a suit and musk in a hat and a t-shirt, just stood up in the back eating a fucking sandwich so like how powerful is it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1458.989,
+      "endTime": 1490.737,
+      "text": "it reminds me I said this to you this week if people on this podcast have seen the film, meet joe black, and joe black is essentially the grim reaper in human form and he just accompanies anthony hopkins character to all these meetings and people are like who is this guy? How is he making all these decisions? Like that kind of feels what elon musk is at the moment. He's like he's apparently just this deputy head of a department that isn't really even a real department. But yeah, he seems like you've got Trump and then I would say you've either got Vance or Musk. I'm not sure which one of them is more powerful.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1492.21,
+      "endTime": 1515.895,
+      "text": "Yeah, well, I mean, I think Christopher Waltz played Blofeld in the most recent Bond film about Spectre, so I think Musk is. By your sort of analogy, Blofeld is the head of the secret organisation, the global cabal, and Musk is the public face of it. I don't know who that was in the movie actually.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1516.317,
+      "endTime": 1516.478,
+      "text": "Yeah,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1519.719,
+      "endTime": 1560.84,
+      "text": "yeah, that sounds reasonable. I sort of jokedoked of all the conspiracy theories that I buy into, like the global cabal is the one that, like I'm not really that that into it. But my point there is like if there is one, I I would believe, if there is one, then we don't know the real players. Like that's my point. Like I'm not saying the illuminati is real or isn't, but what I'm saying is like if all that stuff really happens, if there are satanic bloodlines, etc, etc. The people running the world in that world are not people you know about. So the musk thing to me it feels like for all those people who are really into that narrative he doesn't make sense, but I think in a sort of slightly more mainstream version of it, which I think is like kind of where we are with this podcast yeah, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1561.222,
+      "endTime": 1573.199,
+      "text": "Like he is incredibly powerful and therefore, not only is he the face of it, I think he probably is like the obvious, like it's going to go through him right. Yeah, if it's going to happen in the next hour of many years.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1573.47,
+      "endTime": 1605.095,
+      "text": "And I don't think it matters if you believe in that or not. It's like do we want people like Elon Musk to have the amount of power and influence that they have? I don't. I think the answer is probably no, the concentration of power in that sense and it's. You know we're talking about Elon Musk, but it's the same with Zuckerberg, facebook. Some of the stuff that happened in Myanmar that is linked to Facebook is horrendous, and that's all along the lines of the stuff. So what is that stuff?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1606.151,
+      "endTime": 1610.156,
+      "text": "For people who well, for people who don't know what the stuff in Myanmar?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1610.176,
+      "endTime": 1646.8,
+      "text": "Yeah, I don't want to go into like tons of detail on it but effectively like just no. It was a country where no one really had any access to information and then Facebook. There's a lot of parts of the world where facebook pretty much was the became the internet. It wasn't like countries didn't have the internet and then they just had facebook. So, whereas if you're from somewhere like the uk, we first of all we had the internet and then we had apps and then we had facebook, blah, blah, blah and so a lot the the sort of like shape of things was very different. There are a lot of countries in the world that were a bit further behind and Facebook just became their internet.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1647.83,
+      "endTime": 1684.478,
+      "text": "And you know governments. So the government in Myanmar in particular took advantage of this and spread a lot of propaganda and spread a lot of disinformation and basically caused a lot of trouble and problems, because there's two different factions in Myanmar and effectively it ended up resulting in massive civil war and Facebook was a massive facilitator of it. And this not only that like again, you need to go and do your own research and look into it. But this was flagged and highlighted and warning, warning flags were raised multiple, multiple times and Facebook didn't really do anything about it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1684.498,
+      "endTime": 1693.387,
+      "text": "So this is a real thing? Um, it's you, and highlighted, and warning flags were raised multiple, multiple times and Facebook didn't really do anything about it. So this is a real thing. It's got nothing to do with conspiracy or anything like that. And if you look at the Myanmar example,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1696.49,
+      "endTime": 1707.349,
+      "text": "it's a really good example of the level of influence that these social media companies can potentially have, and I think that, unless you've got anything else to say, I think that nicely leads us on, because we haven't really spoken about ai much yet.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1707.369,
+      "endTime": 1710.343,
+      "text": "I was about to bring us back to ai, so I'm in the same. Yeah, I agree with you.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1710.384,
+      "endTime": 1716.154,
+      "text": "We've yeah, we've gone down my conspiracy hole here yeah, so we need to play the music, that thing now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1725.402,
+      "endTime": 1770.03,
+      "text": "So how does ai feed into all of this? Well, if you I mean everything that we've just talked about, literally everything we've just talked about is about power that's concentrated into the hands of a few companies, and if you look at what's going on with AI, it's the same companies. It's the same companies that have the ability and the power and the resources to even build the data centers and run the training models and create these AIs in the first place. Because up to now, I mean, there's a bit of a ruffle with DeepSeek last month, and we're going to talk about that in a little bit but if you, you know, ignoring what happened with DeepSeek, if you sort of follow the trajectory that things were on with AI, then it's the same companies.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1770.371,
+      "endTime": 1810.418,
+      "text": "It's only those companies, because they're the biggest, they're easily the biggest companies in the world already. They're the only companies with the resources to do it. The one company that I don't that we never mention is it's Amazon. But just to like make it super clear to everyone, amazon basically own all of the infrastructure that everyone is running AI on Like. So you know, nvidia make these GPUs, they make the gear and they're doing very well off the back of the AI revolution, but actually like a ton of AI stuff runs on AWS. And Amazon have positioned themselves very smartly in that um arena, so amazon, they also.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1810.759,
+      "endTime": 1822.712,
+      "text": "They also control the sales of, like most things everywhere apart from in china, and also they own like 40 of anthropic so yeah, they're not a bit player.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1822.933,
+      "endTime": 1824.457,
+      "text": "They're in there but but they're.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1824.497,
+      "endTime": 1835.678,
+      "text": "They're someone we've never talked about on the podcast and actually and actually have a large language model that's called the amazon model and I think. But yeah, you're absolutely right, they're a massive player in in everything but this is what amazon do, right, they're like a.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1835.718,
+      "endTime": 1880.951,
+      "text": "You know, they're almost the exact opposite of elon musk instead of like being out there, like we're disrupting stuff, tweeting about it, like trying to like just non-stop for want of a better word attention seeking. In that respect, like bezos and amazon are just completely the opposite. They run all the infrastructure that all this stuff runs on. Um, they've got the, you know they've. They've got the infrastructure that runs so many of the world's websites, a lot of ai models, all this kind of stuff. Um, aws has been an insanely, insanely profitable arm of amazon, to the point where I think the person who set up the the I can't remember his name is, but the person who set up aws is basically going to take over as um chief exec of amazon at some point.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1881.392,
+      "endTime": 1907.48,
+      "text": "Um, but anyway, sorry, amazon aside like, where does ai feed back into this? Well, it seems pretty obvious Like AI has the potential to replace most people's jobs, be a huge resource, even if it doesn't replace people's jobs, be like such a huge resource in terms of, like productivity, efficiency. You know, you're going to have robots powered by like these AIs and large language models and that kind of thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1907.5,
+      "endTime": 1956.519,
+      "text": "Um, and so more and more power, if anything is going to get concentrated into the hands of these four or five, six, whatever tech companies, um, like techno feudalism overlords and um, just to sort of link back to a something you talked about on a previous podcast, where we talked about useless eaters, I think, um, you, know there's a potential standby by the way yeah, I think you, I think you'll probably sort of agree with me now that that's a certainly a possibility yeah, well, it might, or at least that people are being, or sectors of society are being viewed by certain elites as being, useless eaters, and I would include big tech and certain potential techno maybe certain people overlords, yeah, yeah, maybe certain people within those crowds.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1957.241,
+      "endTime": 1961.039,
+      "text": "But you know, imagine, okay, let's again, let's. Let's just sort of sorry, can I just?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1961.059,
+      "endTime": 1984.578,
+      "text": "bring you back, because it was what you said just to to to um, back what you said up about amazon. Yeah, obviously this doesn't necessarily sort of show the power in the kind of tech sphere and and in the future, but just market capitalization fifth biggest company in the world, brand value third biggest in the world and revenue fourth biggest in the world. So oh yeah, just just to show like how important amazon are. They're huge.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1984.759,
+      "endTime": 2040.811,
+      "text": "They're huge, yeah. So if you kind of extrapolate out to the future what's already happened, so like massive concentration of um wealth and digital services, I think is probably kind of the broad term for it. And then now you could potentially the same companies are going to create all these ais which are going to what potentially be the future employees of the world, like the future office workers like do all of this stuff and probably do it very cheaply, but where does that leave people? I mean, at some point the rope, there won't really be any room for people. There will just be a, a class system where you're either, you know, one of these tech overlords or or someone in government or someone surrounding that sphere, or you'll be like the 99 and you'll be um, you know, I'm not saying you won't necessarily be looked after, but there won't really be any.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2041.454,
+      "endTime": 2044.087,
+      "text": "There won't really be any chance to get out of the situation you're born into.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2044.128,
+      "endTime": 2048.945,
+      "text": "I don't think yeah, almost feels like some people might want like a depopulation agenda. What?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2050.028,
+      "endTime": 2051.994,
+      "text": "I don't know about that. I don't know about that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2052.435,
+      "endTime": 2054.4,
+      "text": "Let's just see how far down the rabbit hole you want to go.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2054.42,
+      "endTime": 2061.556,
+      "text": "Jimmy, that's a bit heavy. That's a bit heavy. We'll save it for another episode, shall we? I think?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2061.616,
+      "endTime": 2071.242,
+      "text": "so yeah, for whatever his name was, that didn't like conspiracy theories it's a bit rough or uh, jonathan jonathan it was jonathan sorry jonathan, he's probably not listening anymore.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2071.282,
+      "endTime": 2086.196,
+      "text": "Anyway, um, so yeah, like I think ai will only exacerbate this. So there is a light at the end of the tunnel. I don't want to do all the speaking. I want to. What are your, what are your views on all this apart, I don't think I've spoken quite a lot.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2086.236,
+      "endTime": 2092.888,
+      "text": "I don't think you've done all the speaking. Yeah, do you know what? It's funny because I feel like on this episode, like I didn't expect",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2097.455,
+      "endTime": 2128.699,
+      "text": "I probably prepared for this episode less than I prepared for any other episode other than like reading that I've been doing. What means I've been doing some reading, but I haven't like planned out, okay, I was going to talk about this. It's like okay, you're going to lead this episode. It's very much something that you talked about and I'm interested in it. Um, I've been surprised at how kind of passionate I've been about this stuff and how much it kind of crosses over with a lot of the the kind of concerns and stuff that I've got. Having said that, I'm in a weird space because, as much as I'm all you're not talking about my spare bedroom.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2129.2,
+      "endTime": 2183.457,
+      "text": "Yes, it's pretty fucking weird in here. To be honest, Like some of the shit over there, I probably won't mention that and that cupboard. I mean yeah, no, but like, although I, you know I sort of joke about conspiracy theories, but like I, I do, like I'll be honest, I do think there's a lot of evil stuff going on, and I think AI, you know, I've said from the start, I think the the most likely outcome and I don't know if that's 55% or 95% is like a dystopian future. I also think more and more, like I'm also more optimistic that, like, the utopia is not that far out of our grasp and it is about, like, there are some things that are going to happen in the next two, five, ten, fifteen, twenty years, I don't know and how we as a human race react to that and what we allow to happen.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2183.637,
+      "endTime": 2224.381,
+      "text": "Because that is the key thing. Like, I do think at the moment we still have the power as people to decide which way this goes, if we stand up and if we make our kind of voices heard and we don't accept certain things. But there is a point that we pass and this is because of this is absolutely because of AI. The perfect storm has been created by the pandemic and the sort of breakdown of the US, the 2008 financial, like all of these things you know, have come together to create this kind of perfect storm. And AI is both the catalyst, the enabler. Like I find it amazing, like almost like. The timing of stuff to me is like too coincidental.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2224.441,
+      "endTime": 2263.919,
+      "text": "It's like, like I said, this kind of perfect storm stuff to me is like too coincidental. It's like, like I said, this kind of perfect storm. But ai, if it was managed in the right way, if it doesn't become super intelligent and have its own kind of you know aims and take, yeah and take over you know, at that point, kind of all bets are off and there's nothing we can do. But before you get to that, there is a utopia and I think, like even us talking about this stuff, like I said to you in when we had a five minute break, the fact that us is a utopia and I think, like even us talking about this stuff, like I said to you in when we had a five minute break, the fact that us is a relatively mainstream podcast right, okay, me here like the fucking crazy guy with a conspiracy theories but I'm not a crazy conspiracy theorist by you know in in terms of like, where some people are, where a lot of podcasts are, where a lot of social media etc.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2264.079,
+      "endTime": 2309.008,
+      "text": "Is the fact that we're talking about this thing says to me that this is becoming a pretty mainstream thing, that a lot of people are starting to wake up to the idea that this is a genuine threat to the future, because, you know, essentially it's it like this is not an episode about democracy, but this tech feudalism, like the way that tech is controlling things, and the fact that ai is the first ever tool that can allow this level and I'm going to pull up another quote from from the article can allow a sort of level of control that dictators in the past could only dream of. It's such a risk. But a utopia is also like within, kind of just just out of reach, like so.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2309.148,
+      "endTime": 2333.177,
+      "text": "So for me it's like if enough of us really care and and push that I think like there is still time for the majority to like you know, people power and and like boots on the ground and and feet and and votes and hands still has power at the moment, but I don't know how much longer that is the case. Yeah, I'll let you do your quote. No, you talk while.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2333.217,
+      "endTime": 2373.433,
+      "text": "I find my quote Okay, you're fine in your quote. So I do think the other thing that I wanted to mention, which I'm proud to say I've been right about all along, I've been banging on about all along, is this open source versus closed source thing, and DeepSeek has thrown this wide open and I do agree that DeepSeek has been so important in terms of the influence that it's had. I think DeepSeek itself, the importance of the specific that it's had, I think deep seek itself, like the importance of the specific model has, like that's that importance remains to be seen whether they end up being a big player or not that's diminished, like quite quickly, um and I think I actually think they might well be, because they've got some very smart people there but what?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2373.714,
+      "endTime": 2398.137,
+      "text": "but what happened? Was it accelerated this kind of like? Loads of other companies were then right thinking models. They just banged them out. Clearly, some of this stuff was there in the background, but they weren't. It was a big sort of surprise attack in terms of, like, the release of deep seek, which forced them to show their hand, which may be like I don't know what chat, what open AI's plan was. Maybe they were planning to eke this stuff out over six months and, like you know,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2406.485,
+      "endTime": 2434.527,
+      "text": "use it to sort of maximize their profits, because this is what companies do. You know, companies don't release the latest and best models, latest and best products immediately. They always have, like this kind of roadmap. So I think that's what deep seek did. Um, there's been a bunch of other disruptions recently, but overall, the sort of the one hope I have with ai is that it does feel that there will be a level of democratization, because actually, stuff's going to get so like, the algorithm's going to get so better, so quickly. The efficiency of them is getting better far quicker than we can moore's law and all this gpu stuff.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2434.547,
+      "endTime": 2473.949,
+      "text": "You know, like, the, the speed, like these, it's not, it's not, it's not even in the same ballpark like the level of improvement that you get from like going from a non-thinking model to a thinking model, from, and you know, from going from a mixture of x I mean, I'm probably using phrases that people don't understand now but from going from going from a standard model to a mixture of experts model, and these improvements are still happening and all of and each of them is like, instead of it just being like a moore's law thing where it's like it doubles every couple of years, it's just like a 10x overnight, and and so I think that, like, there is the possibility for a massive democratization with ai.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2474.59,
+      "endTime": 2482.351,
+      "text": "Um and open ai have ironically, been pushed in that direction as well by the release of deep seek I'll go to my quote and it aligns per.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2482.431,
+      "endTime": 2517.708,
+      "text": "It aligns segues perfectly in here. So credit again to eric wickstrom, um and the am I crazy here? Substat for this. So when he was talking about the technocracy, the ai component, artificial intelligence isn't just another technology in this vision, it's the key enabler. Ai provides the means to replace human judgment tools, for total surveillance systems, for resource allocation justification for eliminating democratic input. Here's a really key bit from what you've just said. When technically tech leaders discuss ai safety and control, they're laying the groundwork for a new form of social organization.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2519.053,
+      "endTime": 2551.586,
+      "text": "The way I read that that quotation is not saying we don't need ai, safety and control. What it's saying is that when these technically leaders, when the big ai players, talk about ai safety and control and this is what feeds into jimmy's talk about open versus closed models when they talk about safety and controllers, basically, you need to not allow things to be open source, need to give us all the power because we know better. That is what's creating that groundwork for social organization is that is giving complete control of a technology that has the means to completely survey society, and that's what I absolutely agree with you.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2551.866,
+      "endTime": 2588.867,
+      "text": "You know I was looking for it and you happen to talk about that and talk about open source. Yeah, I think open source is like kind of part of the the answer answer here, and I do sort of wonder with deep seek. I don't know how much the state was involved in it, but I feel like it was put out there as a kind of bomb to kind of you know, I'm not, I'm not saying that I'm not saying that like China was trying to, like you know, go in and save the world, but was sent into probably just like to shake things up and shake up what the US had done, but has had the effect of a really, really positive thing of kind of democratising and opening it up and making people, I think, start to sort of question Like they are.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2589.348,
+      "endTime": 2599.753,
+      "text": "I think it's starting I don't think it's enough, but I think it's starting this kind of question of hang on, like who are these people making all these decisions? So, like I've said in one of the episodes, is like",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2606.185,
+      "endTime": 2607.371,
+      "text": "is AI something we want or is it just being done to us.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2607.391,
+      "endTime": 2612.713,
+      "text": "You know, maybe we want ai, but the way that it's being rolled out is being done to us could say exactly the same thing about elon musk. Well, yeah, is it almost something we want, or has he just been done to us?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2613.155,
+      "endTime": 2633.167,
+      "text": "well, apparently, like 60 percent of americans do want him, but I think, not sure about that. I'm not sure how long that will last, that's that's for sure. I'm not sure about that. I'm not sure how long that will last, that's that's for sure. I'm not sure how long him and Trump like those two egos. I'm not sure how long Trump can stand someone being potentially more important and uh and popular than him. I think there'll be a fallout, I'm sure. I'm sure.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2633.467,
+      "endTime": 2652.142,
+      "text": "Yeah, it's been, it's been touted. I mean to wrap up like we've it's been quite a passionate episode. I think that, like, overall, I think these terms you know, you can get wrapped up in like, you know, okay, techno, feudalism, technocracy like they're just words.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2662.065,
+      "endTime": 2691.333,
+      "text": "I think they're really powerful words because I think they, you know, they're a short, punchy way of articulating a lot of the concerns that people have about where we're going and um and AI. In my opinion, like the, the, you know, we we only really brought AI into it in the last 15 minutes, but the whole point is that AI is only going to accelerate this kind of thing. Um, I would say, check out some of the alternative alternatives to the big tech companies, because there are a lot of really good ones and I think most people, basically, it's a bit like Google is synonymous with search, right, I'm Googling it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2691.934,
+      "endTime": 2726.251,
+      "text": "Uh, you know, that was what chat GPTs become um and or chat GTP as like, I think most people call it um, but, like, chat gpt has just become synonymous with ai, right, most, okay, people who listen to this podcast, maybe you've tried out some of these other things, but I would seriously recommend exploring, trying out some of these other models. When you're using ais, give grokka grok with a qr, go ven, go. Yeah, give. I mean mistral's got a model like. There's so many things venice ai.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2726.291,
+      "endTime": 2750.425,
+      "text": "We talked about it on on a long time ago when we're like recommending like 10 tools or whatever, but like a tool where they have, you know, their big thing is about not sharing data and everything gets deleted. It's not trained models. I don't know how much you can believe it, but like what I mean is there are things out there like that you can make a kind of statement that this is what you want from from your model, although like is is you know, is really the demand about like someone paying 10 pound a month?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2750.486,
+      "endTime": 2779.116,
+      "text": "is that I don't know how much that's really going to make a difference yeah, I will come in a minute with like my views and what people should do yeah, of course, of course, uh, as a sort of another option if you want to pay for an ai like I tried it briefly and I'm thinking about going back to it. But there's a really interesting. I wish we got sponsorship from these companies. There's a really interesting company called mammouth. Uh, we'll stick it in the we'll stick it in the show, really, really interesting, but they're, like, you know, I think it's like 10 a month or 15, so it's cheaper than most of the mainstream ones.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2779.477,
+      "endTime": 2825.581,
+      "text": "It gives you access to most of them, uh, like give you access to claude, open ai, like chat gpt, like all these different models, uh, and you can play around with them. But like I think there is a bit of a danger with just being like, oh, ai, that's chat gpt, and then just using chat gpt because at some point, at any point, they can change their system prompt, they can change their guardrails, they, they can effectively and not just they. I mean, like they've got, you know, us ex-us generals on their board and things like that potentially, like the us government can influence the kinds of responses these apps and tools are giving you, um, and so I do think that, like it's important to you know, I guess, try being every now and again in the AI sense.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Wild Willis",
+      "startTime": 2828.606,
+      "endTime": 2829.047,
+      "text": "Shall I go.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2829.067,
+      "endTime": 2833.277,
+      "text": "Yeah, yeah, I mean yeah yeah, you don't have to ask my permission.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2833.297,
+      "endTime": 2844.155,
+      "text": "No, I didn't want to interrupt you because I think it's almost like this is our like final kind of arguments. Yeah, oh, that was a yeah, sorry. Yeah, should I edit this?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2844.768,
+      "endTime": 2847.703,
+      "text": "I think you're probably gonna have to edit this bit out. This is too bad. No, I'm not.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2847.763,
+      "endTime": 2883.727,
+      "text": "I'm not gonna edit out, because I think it adds the reality to the podcast. All right, I'll. I'll give my view on this, like which you'll be unsurprised is I think it's um, I think people need to be doing a lot more, a lot more than that. I think there are two elements to this. So the first part you know around, what you kind of do on a day-to-day basis, like as someone who uses ai like we sometimes talk about this, like I came around and you've been coding for like several hours today, so you've been using ai a lot. But I think, on a general day-to-day basis, like I'm using it like I don't know 10, 15 times a day and using different apps for different things, like I use AI a lot.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2884.168,
+      "endTime": 2921.757,
+      "text": "So as someone who kind of like wishes it would just go back in its box and it could bury it in the ground, I do use it a lot because I also see a lot of uses in it. But I think my first thing to people would be like the first thing against it is like when we're talking about this idea of complete control is like don't allow your life to just become about tech, like I know it's really obvious. But like get off social media, don't rely on everything for ai. Like I've started at work, I've started carrying a notebook around and writing stuff, because I realized like I can't write properly anymore and like that's because I don't write and was like it's quite nice to just be writing.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2922.708,
+      "endTime": 2954.551,
+      "text": "I'm not saying for everyone's like, don't use tech, but I'm saying like, go back to like. Go back to like having interactions with people. Go back to like community stuff. Like do things that are challenging this whole kind of economic model of control by a few organisations. Like buy local food. Like engage with your community. Like there are really simple things you can do to create the world that I think, like almost everyone I speak to, wishes the world was. And it's like, if that's what you want the world to be, like, no one is coming to save us. No one is coming to create that world for you.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2954.912,
+      "endTime": 2994.594,
+      "text": "You are the person like we are the people that have to create that world and the people that have to create that world, and if enough of us start to do it, we can have that world. It doesn't mean having no ai. It doesn't mean having no tech. It doesn't mean we're not going to have, you know, ai, workforce transition. It doesn't mean we're going to not have a future that's controlled by it or that is dominated by it, but like you can build that stuff into your life, like I think that is so, so important as, like not allowing this to be sort of have its tentacles in every single aspect of your life, like have the life of meeting people in in reality, writing things down, playing guitar, playing the piano, like playing football, going out into nature, like part, that's part of it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2995.576,
+      "endTime": 3033.379,
+      "text": "The second thing is, like you're gonna have to realize when these things are coming in, that are whatever, like however far down on the, on the, on the on the scale of the like, however far down the rabbit hole you are and however much you think some of the stuff I talk about, we talk about, is nonsense, is like some of this is not conspiracy. Like digital currencies are coming, digital ids are coming, right, if you want that and that and you want what that means, fine, like, but understand what these things mean is. These are all part of this move towards control of tech over everything. And you might think this is kind of just convenience, right?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3033.559,
+      "endTime": 3067.573,
+      "text": "I live in a country where everything is paid for convenience on an app. Do you know what? I have a load of cash hidden in my apartment. It's not that much cash, so don't bother coming to rob me because it won't change your life. But I have some cash, like because, like, even not on a conspiracy, conspiratorial level, like when there is a it outage, like I don't want to be reliant on tech. It's like, think about when you are reliant on all that stuff. Think about when, in your office, the internet goes down and you can't do anything that day because nothing works. Think about that times a million, because AI is integrated to everything.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3067.705,
+      "endTime": 3095.35,
+      "text": "It's like start rejecting, like, take the good stuff, but start rejecting the bad stuff. Like you know, it will make a difference. Like, I see this kind of movement for cash and a few years ago I was like well, why are you so bothered about cash, like swiping a card? And then now I'm a bit like but it's not about cash in your hand, it's about what cash means. When you move to a digital currency, all it takes is the next government to be the government that declares that well, I'm just going to link that to your social credit score.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3103.645,
+      "endTime": 3127.873,
+      "text": "Oh, that, well, it's not, because they don't even actually have that in China. So if you listen and you've heard of this thing where everyone in China just you know, okay, people get banned from traveling, people in China don't have their money controlled because of their behaviors, but there's a system there and that's in a country that's not a democracy. When you have that in your country, that is a democracy. All it takes is a change of government or it takes a controlling tool that we're talking about. This sounds dystopian, but like this is the tool that we're talking about. This sounds dystopian, but like this is the default that we're headed to, unless people make decisions that say we don't want to head in that direction.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3128.365,
+      "endTime": 3147.967,
+      "text": "So like two bits of advice like do more things locally, make little changes in your life, but also understand some of these big things that are coming in. You still have a choice whether you accept them or not. Two generations on, maybe even one generation on, there ain't gonna be a choice anymore. That that's. That's my kind of closing argument on this it's powerful stuff.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3148.147,
+      "endTime": 3167.996,
+      "text": "I think that that we need to shorten it a little bit. But that's our new mid-roll, uh, the beginning part of it, I think, maybe in a little bit at the end, but like the like, definitely we need to like get that down, um to lighten it up a little bit just at the end. I'm going to finish with a really nice piece of music. I don't know why I came across this, but I agree with a lot of what you said. Just to sum it up,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3172.713,
+      "endTime": 3218.947,
+      "text": "I think it's up to everyone to make their own judgment as to where they are on that, but I do think that tech and the level of control over the you know, western societies that is afforded by some of these new technologies and that's in the hands of, like, such a small amount of companies um, you know, all in the us, to be honest, all the majority is quite frightening. Um, and it and it's, it's, it's really, you know, coming back to what we talked about in the episode, like it's as much what you're talking about as in literal control, as it is around influence about what people are thinking um, and I think that's for me, also a huge, huge, huge danger anyway, to lighten things up a little bit.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3219.407,
+      "endTime": 3285.52,
+      "text": "I don't know why I pulled this up, but I found something that I said to Claude the other day which entertained me. I said write a sentence that uses the most adjectives you can use in one sentence in a humorous way. Here we go. I'm going to give this a good shot incredibly verbose, suspiciously enthusiastic, ridiculously overdressed, unnecessarily complicated, absurdly long-winded, hopelessly confused, thoroughly exhausted, slightly bewildered, comically serious, painfully meticulous, wildly incompetent, shockingly purple, surprisingly knowledgeably questionably qualified English english professor stumbled dramatically over his extraordinarily expensive, impractically tiny, ludicrously shiny italian leather shoes while delivering an excessively detailed, mind numbingly boring, theoretically important lecture about the absolutely essential, fundamentally critical, woefully underappreciated importance of concise, clear communication.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3286.585,
+      "endTime": 3287.326,
+      "text": "See you next week, guys.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Wild Willis",
+      "startTime": 3298.777,
+      "endTime": 3344.853,
+      "text": "In the gleaming halls of silicon dreams, where algorithms hum their endless schemes. I watch as lords of data build their digital feasts, harvesting attention with invisible thieves. Each scrolling click becomes a surf's new machine. While techno barons count their endless gain, our labor track my eyes that never sleep as we kill digital fields. The masters keep the new lords don't need castles made of stone, just server farms and screens we call our own. They promise freedom while they track our lives. As techno-frutalism quietly thrives, the AI sentinels guard their masters realm, learning our patterns, ready to overwhelm prediction engines, knowing what we'll do Before the thought has even passed through.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Wild Willis",
+      "startTime": 3346.689,
+      "endTime": 3392.647,
+      "text": "But in the garden, where no signal reaches, where the winter ancient forest teaches, I remember what it means to truly be In the natural world that sets us free. For all their codes and neural nets, so fast they cannot program. What was meant to last is human touch, a kind word spoken true, the soul's connection that sees us through. So find your people, look them in the eye, feel the earth beneath, look up at the sky or in our hearts lies power. They can't decode a, a love-fueled resistance to their crushing mode. Before we're reduced to data points and trends, let's reclaim our humanity, make amends the future's not written in binary lines, but in how deeply our compassion shines.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Wild Willis",
+      "startTime": 3392.667,
+      "endTime": 3393.187,
+      "text": "Thank you, you.",
+      "chapterIndex": 5
+    }
+  ]
+}

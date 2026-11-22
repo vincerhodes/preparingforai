@@ -1,0 +1,1781 @@
+{
+  "slug": "s2-2024-10-23-gpt-voice-pocket-ai-s-nobel-prize-matt-jim",
+  "buzzsproutId": "15976081",
+  "title": "GPT VOICE, POCKET AI's & NOBEL PRIZE: Matt & Jimmy debate their favourite AI Stories from September & October 2024",
+  "date": "2024-10-23T14:00:00.000Z",
+  "season": 2,
+  "durationSec": 5196,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15976081-gpt-voice-pocket-ai-s-nobel-prize-matt-jimmy-debate-their-favourite-ai-stories-from-september-october-2024.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail What happens when AI evolves beyond our screens and into our voices? Join us as we unravel the dynamic world of AI, starting with a humorous chronicle of our recording adventures across time zones, complete with a Scarlett Johansson voiceover mishap. From ChatGPT's new voice capabilities to CerebrusAI's cutting-edge neural processing units, we dissect the advancements setting the stage for a future where human-like interactions with technology are just a voice command away. But it’s not all smooth sailing—dive into the cost implications and legal hurdles that come with these technological leaps. Imagine a world where your digital assistant is as intuitive as a conversation with a friend. We explore the evolving landscape of AI-driven human interactions, contemplating a shift from visual interfaces to natural, language-based interactions. Discover how tools like Google's Notebook LM transform podcasting by converting text into audio, creating new avenues for audiences to engage with content. Yet, the future of podcasting isn't just about tech—it's the personalities behind the voices that captivate, from informative talks to the charm of shows like the Football Ramble. Amidst the wonders of AI, we tackle the pressing ethical and economic dilemmas it presents. Can the AI industry sustain its soaring valuations without delivering on its grand promises? Tune in as we discuss Darren Aconglu's insights into the economic impact of AI, potential market crashes reminiscent of the dot-com bubble, and the tug-of-war between open-source and corporate-controlled AI models. We even delve into the surprising recognition of AI pioneers in the realm of Nobel Prizes, questioning traditional award criteria and exploring the fine line between human creativity and machine learning. Homepage | Cerebras NotebookLM AI May Not Live Up to the Hype, MIT Economist Daron Acemoglu Warns - Bloomberg",
+  "summary": "A two-month news roundup covering ChatGPT's Scarlett Johansson-flavoured voice launch, Jimmy's eerie experience cloning his own voice from three 30-second clips, and PocketPal-style local open source models that now rival GPT-3.5 on a laptop. The hosts also debate an MIT economist's warning that AI can only automate 5% of jobs and could crash the market, plus Worldcoin's rebrand and the Nobel Prizes going to Hinton, Hopfield, Hassabis and Baker.",
+  "keyTalkingPoints": [
+    "Advanced voice mode responds within a couple of hundred milliseconds and can be interrupted — a step change from robotic text-to-speech",
+    "Jimmy cloned his own voice from three 30-second recordings; it was convincing enough that podcast listeners might not tell the difference",
+    "Small open source models (1B-70B parameters) now run on laptops and the 70B class outperforms GPT-4 on benchmarks",
+    "Daron Acemoglu's paper argues only ~5% of tasks are currently automatable and warns of a dot-com-style crash if hype outruns returns",
+    "Nobel Prizes in Physics (Hinton, Hopfield) and Chemistry (Hassabis, Baker, Jumper) mark AI's arrival in mainstream science, though the hosts question the physics award"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Small local open source models are already good enough to replace his Claude subscription for most tasks",
+      "Devices will soon run AI seamlessly across local and cloud with users unable to tell the difference",
+      "He would not be surprised if OpenAI does not exist in five years, given it must cash the check at some point",
+      "Even strung-together AIs will lack the creative spark for new discoveries — human-AI collaboration, like protein folding, is the real pattern"
+    ],
+    "matt": [
+      "Voice cloning from seconds of audio means a podcast-specific AI tool is only three to six months away",
+      "We are at peak free access to frontier models — once they have your training data, commercialization will follow, strengthening the open source case",
+      "He is now completely bought into open source on political and social grounds, distrusting big tech's intentions",
+      "Acemoglu is credible and the inflated-valuation warnings from people he trusts deserve attention"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-10-23-gpt-voice-pocket-ai-s-nobel-prize-matt-jim-1245.08-someone-will-build-a-voice-clone-podcast-generat",
+    "s2-2024-10-23-gpt-voice-pocket-ai-s-nobel-prize-matt-jim-2109.901-the-current-period-is-peak-free-access-to-fronti",
+    "s2-2024-10-23-gpt-voice-pocket-ai-s-nobel-prize-matt-jim-2176.97-future-devices-will-run-ai-seamlessly-across-loc",
+    "s2-2024-10-23-gpt-voice-pocket-ai-s-nobel-prize-matt-jim-3196.257-openai-may-no-longer-exist-within-five-years"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 9,
+  "turnCount": 242,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "ChatGPT Voice & Cerebrus AI",
+      "startTime": 60
+    },
+    {
+      "title": "NotebookLM",
+      "startTime": 803
+    },
+    {
+      "title": "New Open Source models and Pocketpal",
+      "startTime": 1629
+    },
+    {
+      "title": "Acemoglu fears crash, OpenAI nabs cash",
+      "startTime": 2763
+    },
+    {
+      "title": "The Future of OpenAI Models",
+      "startTime": 2966
+    },
+    {
+      "title": "Worldcoin = World",
+      "startTime": 3484
+    },
+    {
+      "title": "AI Nobel Prizes and the death of SB-1047",
+      "startTime": 4048
+    },
+    {
+      "title": "Jazzy Greens (Outro Track)",
+      "startTime": 5058
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 45.443,
+      "text": "Welcome to Preparing for AI the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright. We explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI, governance and alignment. Urgent need for safe development of AI, governance and alignment. When autumn comes, it doesn't ask, it just walks in where it left you last and you never know when it starts, until there's fog inside the glass around your summer heart. Welcome to Preparing for AI the AI podcast for everybody, with me, fazzle Balty, and me, rimi Toads.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 46.727,
+      "endTime": 57.626,
+      "text": "It's everybody's favourite, the monthly roundup, but this month we've got two months worth for you, so, without further ado, I'm going to hand straight over to Jimmy to talk about voice.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 59.41,
+      "endTime": 71.308,
+      "text": "Yeah, so it has been a while since we've done an update, partly because I've been travelling and partly because I slept through the last podcast we were supposed to do. I almost slept through this evening I almost slept through this evening as well, but I'm back now.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 72.905,
+      "endTime": 80.845,
+      "text": "I'm jet lagged, Hang on. We should explain when you mean slept through it. It wasn't me recording it with you laying next to me asleep. It was me sat here at 6 am in.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 81.506,
+      "endTime": 82.909,
+      "text": "China, with you asleep in the UK here at 6am in.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 82.929,
+      "endTime": 84.412,
+      "text": "China, with you asleep in the UK.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 87.18,
+      "endTime": 92.78,
+      "text": "Yeah, you got up specially to record the podcast and I fell asleep, basically. So, yeah, you were very happy with me that morning.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 93.141,
+      "endTime": 100.408,
+      "text": "I'm not sure people needed that clarification, but I just wanted to. I just wanted them to know that we weren't laying next to each other while I recorded a podcast on my own.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 100.64,
+      "endTime": 103.049,
+      "text": "We're not. We don't live in the same commune.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 103.681,
+      "endTime": 105.186,
+      "text": "We're in different countries at the time as well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 105.206,
+      "endTime": 143.987,
+      "text": "So anyway, I'm sure people don't, I'm sure they're more interested in hearing about, about, voice possibly um, yeah so, so just to explain to begin with for anyone who hasn't heard of it, um which is probably quite a lot of people who potentially listen to this podcast but um, it's probably about four months ago now. Open ai will go going to add new voice capabilities to ChatGPT and actually it ended up being so. The reason it got delayed was there was a couple of reasons. I think there were technical issues, but also there was this whole thing about they contacted Scarlett Johansson to get her to be the voice as in if you've seen the movie Her.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 144.36,
+      "endTime": 185.827,
+      "text": "She's the voice of the AI in the movie Her and I think, from what I understand, it sounds like she was contacted by OpenAI. Then she turned it down. She was then contacted directly by Sam Altman as a sort of like. Basically it was a further plea. She turned them down again and then what they did was they found somebody who sounded quite like her um, and then put out chat gpt voice and did loads of yeah exactly, exactly. So they I mean it sounds genuine, like they genuinely, um, I guess cocked up in this way. But they found somebody who sounded really like scarlett johansson, recorded all this stuff with her put out, started putting out the adverts and then scarlett johansson is like I'm going to sue you.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 185.847,
+      "endTime": 224.247,
+      "text": "That's, you've used my voice. So chat gpt voice. I mean that's a bit of a bit of a potted history, but it's taken a while to get here. But it arrived over the last couple of months I can't remember exactly like two or three weeks ago now, I think um and uh, and when we talk about, when we talk about open ai voice. So previously you had voice capabilities you could talk to. You could talk into chat gpt using google I think it had its own interface, but you would talk to it and then it would take quite a long time to respond. It had quite a monotone voice. It didn't have much inflection in the voice, so it sounded like a ai, it sounded like a robot, something like.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 224.268,
+      "endTime": 226.574,
+      "text": "Sounded like a robot, something like that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 231.18,
+      "endTime": 261.712,
+      "text": "The difference with the latest voice models is that they respond in about the same time that a human would. So I think their response time is within a couple of hundred milliseconds, you can interrupt them, and when they talk they have like a lot of emotion in their voice. They basically sound a lot more human and so, um, and so it's like having a natural conversation. Obviously, that's going to lead on to, you know, whether we're going to start seeing these kinds of capabilities in call centers and things like that, which I think the answer isn't obvious. Yes, um, I do also want to give. So. In terms of chat, gpt voice, it's pretty nice.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 261.752,
+      "endTime": 292.704,
+      "text": "You've got a choice of four voices, I think it's two male, two female voices. You do have to pay for the subscription, so it's $20 a month, which is not cheap for um, you know, for just having access to AI, although, you know, depend, you know, suppose it depends on your point of view and how much you use it, but it's quite a. It's quite a high barrier to entry, to be honest, the same as a sort of phone contract or something like that. Um, so I want to give a. I want to give a mention, cause I heard, I heard about this through um. It was actually someone on YouTube, I think it might've been Matt Berman.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 293.306,
+      "endTime": 329.639,
+      "text": "Um, but there's a, there's something called cerebrusai, which we will link in the show notes. And cerebrus is a. They're actually a company that make chips, but they've chips, but they make chips that are really fast for inference, which is, when you're talking to a large language model, it uses inference to actually respond to you. And so they've made these new custom chips that are similar to graphics processing units but different like they're neural processing units, so they're much, much faster at processing this kind of data like large language model type data, much faster at processing this kind of data like large language model type data.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 329.659,
+      "endTime": 350.583,
+      "text": "And Cerebrus I wouldn't say it sounds like it's got as much personality, but it's really interesting because it's a free project where you can go online, you can talk to it right now. It's completely free. It responds in about the same amount of time as OpenAI's model does, chatgpt, and I think you can also plug in like different open source um language models, which we're going to talk about a bit more later in the show as well I think it's.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 350.883,
+      "endTime": 394.903,
+      "text": "It's potentially like a real game changer and not just not just in terms of the kind of usability, but I I talked from from very early on the podcast about kind of one of the potential positive things that large language models could bring is taking people away from having to look at a screen, and I think this is a massive step towards that, because one of the things that you'll find I'm talking to listeners rather than you here is almost every interaction you have with technology in terms of you know if you want to book a uber or a dd, if you want to order takeaway, if you want to, you know, get directions, etc.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 394.943,
+      "endTime": 416.405,
+      "text": "Etc. You do them looking at a screen, which you're always going to have to get. You know if you want to look at digital content, you're going to have to view it through a screen. Well, actually, maybe not, you can view it through glasses, whatever, but you're going to have to view it through a screen. Well, actually, maybe not, you can view it through glasses, whatever, but you're going to have to view it. But a lot of those other things we've. We've created this idea that you view things and we've moved away from language. I mean, like you know, originally you ask for directions from an individual, from a person, you have that conversation.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 416.826,
+      "endTime": 453.125,
+      "text": "It's kind of moving back to that. So I think it's massive, not just in terms of there's obviously kind of functionality here that's a massive improvement but there's also a secondary benefit in that it's the big step, or it's the first big step in terms of moving people to a different way of interfacing with technology, which is, you know, if you look at large language models, the whole idea is it's about language, right? So the more you move towards that is, you move towards having a conversation and eventually you know things like a good version of that. You know, ridiculous ai pin. The problem with the ai pin was that it was a piece of technology that wasn't ready.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 453.386,
+      "endTime": 489.505,
+      "text": "It wasn't the idea. That was wrong. The idea is fantastic the rabbit was it. Well, the rabbit was the other one. Yeah, but that you know things, that we talked about translation or sort of almost immediate translation interpretation, being able to ask for directions and get given them back. Yeah, okay, sometimes you want to look at a map, etc. But you don't need to do that all the time. This is a massive step towards that and also that kind of it's very natural, like I think I would almost wish that it never got to the point of being completely natural so that you're able to distinguish. But the more natural it becomes, the more comfortable you are having those conversations and the more it becomes a natural thing instead of a.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 489.926,
+      "endTime": 517.007,
+      "text": "You know, I'm interacting with technology, which I'm sort of arguing both sides here, I think, in one sense is, like you know, you want to be able to differentiate between people and machines, but, on the other hand, if you want to be comfortable with that interaction and for it to become a part of your daily life, you want it to be something that feels like a natural thing and and having a conversation using language is far more natural than typing things on in on a keyboard have you been uh listening to, or maybe speaking to, the zook recently?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 517.048,
+      "endTime": 519.316,
+      "text": "because, uh, I don't think I have listened to him.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 519.416,
+      "endTime": 529.5,
+      "text": "Yeah, I have listened to him he hasn't inspired me, although um I dislike the Zuck a lot less than I dislike Sam Altman, so um so he's not Sorry.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 529.52,
+      "endTime": 534.172,
+      "text": "just to clarify, you dislike him less than you dislike Sam Altman. Yes, Okay.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 534.88,
+      "endTime": 538.09,
+      "text": "So I dislike Sam Altman more than almost anyone on the planet.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 540.361,
+      "endTime": 561.091,
+      "text": "Anyone who's currently living. Yeah. Yeah, um, yeah, like the like. The reason I mentioned it I don't think it was on our uh plan, but actually something that's been um or not necessarily released, but uh, talked about in the last couple of months is the uh, the latest iteration of the Ray Bans meta glasses, and",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 567.08,
+      "endTime": 611.912,
+      "text": "and this is exactly what he talks all about, like um, mark zuckerberg talks about with these glasses is like getting moving interactions away from phones and screens and things like that. And I can, I can see it where you know, for example, I used to I mean even going back sort of eight, nine years ago, um, when I was in the uk. Sometimes, when I was driving, I would like, uh, you know like dictate a email message, because you'd be able to do that for quite a long time, but the problem is you'd always have to like check it really, um, I see, like, as we're, as we're getting better voice capabilities and we're getting better lm capabilities, I can see, like, I can see a definite um point at which we can all have our own digital personal assistant and so, and so you won't have to look at a screen at all, for example, to send an email, because you'll be able to, you'll be able to have it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 612.033,
+      "endTime": 653.562,
+      "text": "You'll be able to have the gist of it summarized to you, probably, and then I'll better just reply to my virtual assistant. I mean, this is what Siri is Eventually it'll just be plugged in your brain, so you just think it but this is the kind of thing that siri was supposed to promise, but because it's, because it was quite janky and quite jarring and it felt like you're talking to a computer. I think this is where, like the next generation of this kind of stuff because genuinely I've spoken to gpc voice and cerebrus and apart from the fact that they still do that thing that large language models do, where they kind of want to please you a bit and they speak in a specific way as well, um, but apart from that it's of like it's as it's very close to a human interaction a lot of ways yeah, I like I say I think there's a lot of positives with it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 653.602,
+      "endTime": 690.046,
+      "text": "I mean, I I don't think this is the episode where we go into all the you know potential doomer kind of threats of it. I mean, you know it will need to be managed and there are through a potential risk. I mean, at the moment it only uses a selection of voices, so you're using it through. That interface is fine. The, the technology and the ability to mix it with cloned voice, which is something that we have both used as well and which is clone voice, is pretty far ahead. I also use clone video with voice, the clone video with voice. The video doesn't sync perfectly, but that's where we are now. I would imagine a year or so's time it would.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 690.106,
+      "endTime": 704.67,
+      "text": "I mean, like I say, I think it's not the episode to get really into the woods with that, but there are potentially some big risks to this. But in its current iteration I think it's net positive for sure.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 704.79,
+      "endTime": 714.667,
+      "text": "Who would you, whose voice would you clone for your personal assistant? You mean, whose voice would I like to have? Yeah, so like, if so, if you could clone anyone's voice, oh.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 715.02,
+      "endTime": 716.985,
+      "text": "Amphigaskill from our last episode.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 718.789,
+      "endTime": 764.286,
+      "text": "Well, he'll probably hear that I've been listening, I've been sending myself to sleep with his dulcet tones every night. Nice, just, I've been sending myself to sleep with his dulcet tones every night, nice, just before we move off this topic. So one of the things we are planning to do in an episode soon and this is not an original idea, I've seen this done already but just to give our listeners a kind of like a real idea of what we're talking about, we're actually going to, we're planning to interview some of these AIs on the podcast. So we'll probably interview cerebrus, interview open ai, uh or tech chat, gpt, even and um, and then you can kind of judge for yourself, I guess and I'll be asking it whether all my conspiracy theories are true or not yeah, I look forward to that and they all are, by the way which anything called a conspiracy theory is, as I've said many times, just means it's the truth.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 764.607,
+      "endTime": 773.309,
+      "text": "I'll see what Fringe theories we're calling them right. We've agreed that that's our official Fringe theories, preparing for AI terminology. Fringe theories.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 773.74,
+      "endTime": 776.89,
+      "text": "I think some of them are fringe theories, but they're all true.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 777.961,
+      "endTime": 780.33,
+      "text": "We're agreed on that right. That's the hot take.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 780.921,
+      "endTime": 781.906,
+      "text": "That's the hot take, yeah,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 788.34,
+      "endTime": 793.433,
+      "text": "yeah. So look out for that episode soon. Um, and matt's gonna ask try and tie a tie an ai up in knots by the sound of it with controversial questions",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 803.11,
+      "endTime": 805.273,
+      "text": "so next up is there is notebook lm.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 805.733,
+      "endTime": 849.59,
+      "text": "So people who listen to every podcast I know there's thousands of you out there um, you will have listened to a rushed out episode I did a couple of weeks ago where we um we kind of repurposed two of our um previous episodes, so the energy and ai. We're on one with anders hove and um the. Does anybody actually want ai episode recently and got notebook lm to basically reproduce much shorter versions using um, using a prompt which was basically, uh, well, it was the transcript of the entire episode. So for those who are not aware, so notebook lm is is not. That's not its only purpose. So it was originally something called project tailwind um from google.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 850.151,
+      "endTime": 884.047,
+      "text": "It's positioned as like a personal ai research assistant, um, and so there's kind of various functionalities. It aims to simplify the process of kind of synthesizing information from different sources. So it's it's for students and educators really, and professionals who deal with with volumes of data. Um, I think it's kind of an example of why I still think google might win in the end. I still think if, if google can integrate and make genuinely better and more useful tools from lams, that's that's going to be what wins in the end. I mean, I guess, if you've got an all-powerful model and you break through and get artificial general intelligence before anyone else, yeah fine.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 884.328,
+      "endTime": 911.535,
+      "text": "But I do think all of these arguments about the actual usefulness of, of large language models and tools like google and, to some degree, I guess, meta, well, I guess open ai with microsoft, but it's because of microsoft there it's like being able to have access to that whole kind of you know, network of tools and ecosystem. Yeah, exactly, um, but anyway, yeah, so yeah, on notebook lm like.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 911.555,
+      "endTime": 933.451,
+      "text": "So I I haven't used it. Actually, it's one of those things where I've seen, I've seen it, I've seen lots of videos about it, I've seen a bit about how it works. So just to sort of like help explain it to listeners a bit like what as I understand it, you can upload documents to it, you can connect it to the internet and you can connect it to your google you've worked face type, you've, yeah, you've, um, you've teamed me up perfectly there that was exactly what I was about to say.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 933.491,
+      "endTime": 962.628,
+      "text": "So it's actually, I think this, this, this point about podcasts that it makes is actually this is this is kind of a little feature and add-on, so the main purpose is that kind of summarization and insight of documents so you can upload documents in the way that you can to, you know, any large language model, to be honest, and it will automatically generate summaries, highlight key topics, formulate questions. Like I say, other models can do it, but it's created specifically to do it, so it's better at it. It does it in a, you know, a more usable way.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 966.46,
+      "endTime": 1006.493,
+      "text": "It can create, like interactive q and a's so you can ask it specific questions around the content, um. So, for example, like a medical student could inquire about key terms in a neuroscience article or request a summary of interactions between historical figures, and it will put that into different formats for you. You can do idea generation, so, again, you can do that with other models, but it can assist in in brainstorming, doing new ideas and approaches in a better way than then you can with with other models, because they're not designed specifically to do it. Um. And then the audio overview, which is actually that's what it's called audio overview, which is a feature everyone's been talking about, which is where it creates a kind of podcast.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1007.215,
+      "endTime": 1042.314,
+      "text": "Um, we got some feedback on that episode which was it's shit and I hate it and it's really lacking in any kind of charisma, and that's right. Like I, I completely agree. I mean, even for me to listen to those summaries at 30 minutes long. I was bored, shitless like I found them really boring. But two things one, I don't think that's what it's well. No, I don't think it's not there to replace that at the moment. You know what it's there to do, which I think would be really good is, you know, I want to train my team at work or, you know, in whatever you know, interest that I've got in a particular thing and previously.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1042.374,
+      "endTime": 1071.406,
+      "text": "You can get ai to kind of read something out, so you can get it to read an article out, but you can get it to put it into a podcast. That is more interesting to some people, particularly if they do better from listening than than reading. I I like to listen stuff now rather than read it. So, yeah, I would find that if someone had given me something to learn about at work and they put it into a podcast, I think that would be really great. It'd be a be a really good use. The other thing is it's obviously just an early iteration, you know, and at some point in the future you'll be able to choose different voices and tweak it and tone it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1072.561,
+      "endTime": 1086.481,
+      "text": "It will be much more useful. But again, I don't think that's its purpose. But the technology is there that I'm sure someone else will at some point create a podcast specific, you know, ai large language model tool which will do a good job of that is it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1086.621,
+      "endTime": 1093.23,
+      "text": "is it even designed to do podcasts, or is it designed just to like read something out as a dialogue? No, no, it doesn't clear no, I mean it's.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1093.632,
+      "endTime": 1104.769,
+      "text": "It is a pod, it's obviously a podcast it's done in a podcast format yeah but it's not supposed to to be a podcast in the way that you know. It's never going to replace us because we're irreplaceable,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1109.74,
+      "endTime": 1136.688,
+      "text": "as the song at the end of the episode said. No, but it's, it's. It's not. It's not at the moment. It's not designed to replace podcasts because, for one thing, you know, I fed it the script of a one hour and 20 minute episode and it came out as 30 minutes. That might say a lot about how much we waffle in episodes, but it also, you know, it's not picking up everything. It's not creating an interesting podcast. What it's doing is summarizing information into a way that is more interesting and listenable than just listening to someone reading an article what?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1137.33,
+      "endTime": 1174.007,
+      "text": "so the first thing that I did when you sent me, when you sorry, not when you sent me when you actually did that podcast, because this was when I was away and you, so you, you just put that podcast out by yourself um, the first thing that I did was I went to 11 labs, because I've not used 11 labs before and we mentioned this a minute ago but I've never used 11 labs before. But what 11 labs is, is it's for it's this voice clone thing, right? So I was actually super impressed, like having never used it before, but heard about it, I went on it. Um, I had to pay for it because that's, that's the requirement in order to be able to clone, like create custom voices, basically, but in order to clone your voice, all I needed to do was record.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1174.588,
+      "endTime": 1188.326,
+      "text": "I think it was, um, I think it was three 30 second clips that I recorded, and you can record more, but I recorded three 30 second clips and from doing that, I could then type anything I wanted into it and it could play it back in my voice.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1188.447,
+      "endTime": 1205.247,
+      "text": "And I think you said it was uh you sound like you if you'd gone to ethan. Yeah, but it was, it was, I'm pretty sure if you played it to listeners of this podcast, they, they, you know who don't know you personally yeah, they probably wouldn't maybe would have told a difference, but it's, it's close, it's definitely close, it's close.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1205.467,
+      "endTime": 1233.923,
+      "text": "I feel for me, what was lacking was, um, kind of emotion again, but I don't know whether that's because when I recorded it I kind of recorded it quite stiffly and didn't put much emotion into it, or whether you know. So maybe that's something that I could have done better. I was only having a quick play around with it, but my question was going going to be so, like, as you said, this is the this is an early version of it Like if we both cloned our voices and fed an actual transcript of an episode into a podcast, I wonder how that would come out.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1236.83,
+      "endTime": 1240.689,
+      "text": "Yeah, I mean that, that that's what I was talking about when, like,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1245.08,
+      "endTime": 1293.315,
+      "text": "I think someone's going to create a tool very, very soon, like, I mean, I think like six months, maybe less than that, maybe the next three months, on the back of this, that we'll do exactly what you said. I still don't think in the near future and by the near future I'm talking the next couple of years I don't think it replaces podcasts in or it replaces all podcasts, because I guess there are different types of podcasts, right, like, and again, I'm just going to use our podcast an example. I'm not saying that, you know, I'm not saying that we're, we're we're fantastic sort of podcast hosts. But I think you, if you're not, if you're not interested in the interaction between us and a lot of that is kind of reactive and the kind of, you know I would say, the jokes and things that have grown as we've started to do this, then you probably this is probably not the right podcast for you to listen to.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1293.877,
+      "endTime": 1323.492,
+      "text": "There are podcasts which are just informative, so the emotion and stuff like that would help to make them more listenable. But actually what's important there is they're informing you about a subject matter. People are not listening for the interaction, where there are other podcasts. I'm thinking of, for example, like things I listen to, like the football ramble. Right, it's about the guys who are on that show. Actually, what they talk about, compared to guardian football podcasts, is rubbish yeah but it's more interesting. Then there are things you know I listen to quite a lot of stuff nutrition stuff and supplement stuff.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1323.72,
+      "endTime": 1346.428,
+      "text": "Some of that stuff where they interview is really interesting, some of it where they're just talking. Actually it doesn't matter who the host is, because they're just giving you informative information. I think that can be replaced pretty quickly. But it depends what it is and also it's that you know you can get crap content that's probably good enough for most people. There'll still be an audience for it. I think the jury's out on it. I mean, it will definitely replay. I think it will replace some podcast.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1346.589,
+      "endTime": 1377.77,
+      "text": "It's not going to replace podcasting in general in the next couple of years I think you're right, but I think there's also a little bit to add on to this, which is that I I saw something a while ago because I was listening to all these. So nowadays you do actually have these ai, and you've had it for quite a while. Ai generated voiceoversovers for TikTok videos and YouTube shorts and things like that, and whenever I hear one, it's a massive turnoff straight away. I'm like that just sounds weird. It sounds clearly AI generated. So so I was wondering to myself, like why, like, why are there so many of these around?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1377.81,
+      "endTime": 1410.412,
+      "text": "Like are they? They must be, there must be a degree of success in these like AI generated voices or they're just flooding the market. And then I saw something that was saying that actually the younger generation like I'm in the generation probably two below us now, maybe, um, but they, they're growing up with this stuff and they're becoming used to it and they're actually so there is a generation like, like I say like maybe people who are in their teens or their 20s or early 20s now who actually they listen to that and it doesn't really bother them because the times have changed yeah, I mean, I apologize if we're duplicating this.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1410.6,
+      "endTime": 1444.98,
+      "text": "I I'm not sure. Maybe, maybe this is from a podcast, but I thought I think it's from a conversation. But there was research in china done on this where it was actually people preferred it and, and again, it was a, you know, a particular segment and the demographic trended younger but who preferred it? And there was a thing in there actually about like, about trust and about quality of like. People thought that when there was an ai generated voiceover, that that conferred to them that this was, you know, professional in a way that a, an individual doing it didn't, when actually, you know, for an older audience, it would be the counter.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1445.181,
+      "endTime": 1485.179,
+      "text": "It would be the complete opposite of that. Where you know you're, you've got, you've paid someone, a particular person, to use their voice. There's another kind of. This is a very chinese phenomenon. This is a very chinese phenomenon that you, you've probably seen this, but in china a lot of people will watch videos and they'll watch them on times two or times 1.5 speed and that is it sounds. I can't do it like I listen to podcasts. It goes to 1.25 and it's making me feel like like freaking out, like I'm tripping or something. I, yeah, but but chinese people I'm not saying all chinese people, but certainly younger chinese people are, you know, used to doing this and it's, if you, this is a again a very specific cultural thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1485.078,
+      "endTime": 1513.074,
+      "text": "But you get these chinese dramas and it's, if you, this is a again a very specific cultural thing. But you get these chinese dramas and there's like 37 episodes in a series. Right in the uk you get six episodes in a series, so 37 episodes in the series, and you're on your commute to work in the morning for 45 minutes and you're going to watch all these. Putting them onto double speed is a necessity, but people have grown up with that and now like having these faster voices and the voiceover that goes like this is not just normal, but it's almost like that's what you need to be credible and maybe that's happening in younger markets.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1513.476,
+      "endTime": 1523.387,
+      "text": "You know I'm talking specifically china, but it sounds like you're saying it's not just a china thing and the ai voiceover is something that people now, like you, say you become conditioned to it. Right, you just get used to it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1523.928,
+      "endTime": 1527.956,
+      "text": "I think I'm also getting deja vu, because now that you said that and you said, are we repeating ourself?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1528.297,
+      "endTime": 1537.566,
+      "text": "I'm pretty sure I heard it on our podcast about so three months ago, where you heard this from your source was me, and now you're hearing it again from me.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1538.167,
+      "endTime": 1541.801,
+      "text": "I think so. That being said, I'm sure it's credible you're very good, it is credible.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1541.822,
+      "endTime": 1543.144,
+      "text": "You're a very I can tell you it's credible.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1543.424,
+      "endTime": 1550.242,
+      "text": "I can confirm it's credible but anyway, I mean, I thought it was a, it was a good time to re-mention it. Apologies if you've heard that before.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1550.904,
+      "endTime": 1602.327,
+      "text": "Um, I think we've put out enough podcasts, that that's okay well, the morning after we recorded this episode of the podcast, google actually released an update to notebook lm. So now you have the option of customizing your podcast from Notebook LM. So you choose, customise, and your prompt will ask you for sections you want to highlight. It will allow you to explore specific topics or choose different audiences you want to reach to. So it seems like they're already making big improvements and perhaps our time as a podcaster is almost coming to an end. And additionally and this is not as good, but we found another tool called PodLM, which you can put in literally a kind of one sentence prompt, or there is a prompt up to, I think, 200 words, and it will then give you choices of different kinds of podcasts you can do.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1602.387,
+      "endTime": 1619.513,
+      "text": "You can do an interview podcast, you can do a crosstalk podcast, you can do an individual podcast. So, like we kind of said in the interview, you know, although this is not perfect yet, it seems like there are already advances, even in the days since we recorded the podcast. So try them out Notebook LM and podlmai",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1633.34,
+      "endTime": 1633.42,
+      "text": "eye.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1633.44,
+      "endTime": 1665.944,
+      "text": "So the next thing we're going to talk about is, uh, something we've talked about quite a bit actually, um, but it's open source models again, um, so over the last I guess it's that last couple of months, like you said uh, we've had the release of llama 3.2. So this is um, for the benefit of anyone who hasn't sort of listened to previous episodes, this is meta's open source models where they're actually releasing, um, completely open sourcing, the actual, the weights and everything about the, the, the training of the model do you want to just explain here what weights are, because I think this is actually we've never explained.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1665.964,
+      "endTime": 1670.812,
+      "text": "But something quite important, without getting too complex on it yeah, you're assuming that I know what weights are.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1670.832,
+      "endTime": 1706.308,
+      "text": "I think, um so well, I know what they are, and you're more technical than me. So okay, well, you can correct me if I'm wrong um, but as I understand it, what weights are? So, when you've got a neural network, it's simulating, um, the neuron, like neurons that are like in your brain, basically, and so what you have is you have all these neurons and you have the connections between them, um, and as you train a any kind of neural network, including a large language model, um, so when you train these models, what happens is what's called the weights on each of those neurons and each of the, actually it's each of the connections um between the neurons.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1706.709,
+      "endTime": 1737.027,
+      "text": "Those weights get increased and decreased, and that's that's basically the process of learning in the human brain, or very similar, a very sort of similar model to it, um, and so. So, effectively, you start with a blank slate, I guess, and then as you train something more and more and more on all of the language in the world, which is what large language models are trained on, it creates these pathways between these neurons. And that's probably as far as I'll go and as technical as I'll go. I think we've mentioned three blue, one brown. That's exactly three blue, one brown.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1737.14,
+      "endTime": 1741.11,
+      "text": "I was going to say exactly that. If you look and maybe we'll link this in the notes but if you look at that,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1751.58,
+      "endTime": 1778.764,
+      "text": "the most basic fundamental way to look at it is like numbers and letters and you can see the weights of like a number. So you know a square that's broken down into tiny, tiny little squares and you, you hand, write a one in there. So the one makes certain parts of that square which has loads and, like I say, tiny little squares in there, make certain bits black, and then the weights are kind of how it would pick up and work out what a number one is. That that you know. That alone probably doesn't explain it. But if you are interested in it then, like jimmy said, three blue, one brown, does a load of videos on this stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1780.207,
+      "endTime": 1800.885,
+      "text": "He is, um, a sort of maths professor expert. So, like some of the stuff he does is quite difficult to pick up. But if you're interested, I think it's the best explanation of what weights are and how a neural network works. So if you're interested, have a listen to it. If you're not, then just you know, go with what me and Jimmy have just said.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1801.286,
+      "endTime": 1810.081,
+      "text": "Go along for the ride. Yeah, I think this is the kind of thing that's um a lot easier to explain using video and using animation looking at, look you look at an image of it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1810.381,
+      "endTime": 1814.028,
+      "text": "It makes sense if you explain it for two hours in words.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1814.069,
+      "endTime": 1854.31,
+      "text": "It doesn't make sense no, um, so open source. So yeah, again, like big fan of open source, um as a like open source versus closed source. So closed source is your models like chat, gpt, where actually we don't know anything about the training data, we don't know anything about how the model works, we don't know the weights, all that kind of thing, whereas these open source models that meta's releasing very kindly um, as long as you agree with their terms and conditions, you can download them for yourself using something like LM Studio and or other kind of like bits of software that can help you run language models locally and then you can actually run them on your personal device.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1855.041,
+      "endTime": 1893.684,
+      "text": "And the amazing thing about this is that they've been actually getting so a lot of models that are closed source, like ChatGPT again and Claude and things like that. They're actually huge, huge, huge models with potentially trillions of parameters, and the next generation are going to be an order of magnitude bigger than that. What's been happening with these open source models is they're actually releasing much smaller models which are still performing really well in tests. So actually not that long ago with llama 3.1 um, they released the 450 billion parameter model which you can't that. You can't run that on your home laptop.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1893.725,
+      "endTime": 1904.425,
+      "text": "It requires, like dedicated, very expensive equipment. Um, but they were. That was their kind of um, what's their, their top model, basically their biggest model that they released. And again, this was all open source",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1909.14,
+      "endTime": 1935.352,
+      "text": "and actually this 450 billion parameter model at that time passed more of the benchmarks, performed better on a lot of benchmarks than ChatGPT4 did. At the time. There was also 70 billion parameter models which you still can't really run on a home device and then once you get down to 11 billion parameter models 9 billion, that kind of thing it becomes within the realm of being able to run on a home device and then, once you get down to 11 billion parameter models 9 billion, that kind of thing it becomes within the realm of being able to run on your personal laptop. Now, the interesting thing that happened over the last couple of months was that llama 3.2 came out.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1935.372,
+      "endTime": 1989.166,
+      "text": "So the next iteration, which is better again, and this time around the 70 billion parameter model, actually outperformed chat GPT-4. So not only are these models getting better, but you're getting smaller models that are actually performing better than some of the larger closed source models and certainly better than the largest closed source models were six months, 12 months ago, and so it feels like the gap is narrowing and actually the size of the models becoming slightly less important. So the other cool thing with the Lama 3.2 is they released some really small models. So they released an 11 billion model, 11 billion parameter multimodal model, which means it can now not only do text but it can also do image to text and text to image and some of those multimodal capabilities, um sound as well.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1990.228,
+      "endTime": 2020.083,
+      "text": "And they also released a three billion parameter and a one billion parameter model which, as I say, I've run I think I've run like the some of the larger 11 billion and nine billion parameter models on my laptop. These actually can run on your phone. So there's an application called pocket pal if you're interested. It's a bit techie, as in you need to go onto somewhere like hugging face and download the model and then you can put it on your phone and then you can run it in there. And at the moment it's kind of like a bit clunky in terms of like you don't just download an app and you can run it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2020.784,
+      "endTime": 2056.485,
+      "text": "But I'm sure that's coming in the not too distant future. So we're looking now at having models that can run locally so you're not sending your data to someone like ChatGPT or OpenAI or Microsoft or Google or a third-party provider where they will use your data for training. They're very clear about that in all their terms and conditions, and so, if you care about privacy, what we're now starting to see is models that actually perform pretty well for most tasks and can run locally on your devices, so they can run on your computer, they could run on your phone. You don't need to be connected online to run them.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2057.449,
+      "endTime": 2081.931,
+      "text": "And the point a lot of people have made is like I mean, there's a few things to this I think Matt's going to talk a bit more about it but like one is the privacy element. But two is like some of these big models cost an absolute fortune to run. Like the cost of running, of actually running something through chat GPT as opposed to using a Google search, is something like 100x.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2082.68,
+      "endTime": 2103.604,
+      "text": "It's like way more cost intensive, it uses way more resources and the energy use and things which at the moment are not necessarily at the top of people's minds. But you know, with all these things in mind, a lot of the, I think, sort of like the idea that you get free access to chat GPT. At the moment, like people need to understand is because they're using your data for training Like it's not free. And there's no way that",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2109.901,
+      "endTime": 2125.589,
+      "text": "we're probably at the point now that you've got the most free access you're ever going to have, because at some point they're going to start commercializing and once they're done with your training data, there's no reason to give you free access to all these frontier models which, again, you know, even more use for open source.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2125.609,
+      "endTime": 2176.93,
+      "text": "at that point, yeah, I think, I think there's a multitude of benefits. I think I think being able to run stuff locally is cool, um, I think the concept of having different size models for different types of requests. So I did see a there's something called root LM which, again, like it's early stages, it's kind of for developers rather than for regular users. But the idea behind root LM is that it decides when you put a query into it, it'll decide which size of model to use and it'll actually route it accordingly. And so what it might do is use a local model if it thinks that it doesn't need that horsepower, but if it feels like, if it figures out that the question requires a bit more horsepower, as I say, like something that might be like coding or something that's like a bit more philosophical that might then go and upload that to claude and get the answer from claude instead.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2176.97,
+      "endTime": 2210.008,
+      "text": "So I think I think we are going to see situations where, especially as we start to see hardware that can support, um, running local neural like models as well, um, as we start to see like the, the I think windows are already doing like the copilot plus pcs, which have received a bunch of controversy, but that's the way we're going Right, and so in the future you're probably going to have a device where all this is seamless. You're going to have a phone with something like Apple intelligence on, where you don't really know if it's been run locally or in the cloud or whatever. But you know, that's the potential future we're moving towards, I think.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2215.22,
+      "endTime": 2255.101,
+      "text": "Or it runs low. I think you know, initially, anyway, where we probably get to is it runs locally when it can yeah, and then it goes to the cloud when it needs to yeah. So that that's. You know. We've talked about, like, what people use large language models for, and if you're asking it a question, like you're almost like a search function, you're asking it. You know what was the American revolution? It doesn't need to access the cloud to do that. It might need to access the cloud to. You know, do a very complicated piece of coding for you or you, you know your large language, your local language model on your phone or your device is customized so that the things that you frequently do are what's on your local model and the things that you don't frequently do.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2255.161,
+      "endTime": 2304.272,
+      "text": "And and maybe that's part of the subscription, I think for me there are three kind of main benefits, and let me just say I'm I'm completely bought in now to open source um, largely based on my political and, uh, social views and how much I think that big tech is just, you know, the next version of big pharma and how I think you know anything that keeps one or two or three or ten, whatever corporations from being able to have that much power is necessary. But I think there are three sort of main reasons why I think there's an advantage for the user as well. One is just sort of being able to access it whenever you want.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2304.673,
+      "endTime": 2343.287,
+      "text": "So you know an example. I would think, okay, some planes have got wi-fi, but you're on an airplane, you're somewhere without you know, you're camping, whatever. If you've got a locally held large language model, you can still use it. You don't need access to the internet. So, yeah, that's a kind of just a an advantage just in terms of, you know, convenience. The second thing is the privacy thing, and I think you're right, you know privacy is going to be more. I I'm sort of surprised that actually, if you look at a lot of the research out there, the main concern that most people have about ai at the moment is about their data and about fears about their data, which for me is like it's nowhere near the top of my list.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2343.908,
+      "endTime": 2382.351,
+      "text": "Um, but I get that and I get that people in you know different. Maybe it's because I live in china, um, I get that people who live in you know different countries have different kind of risk benefits on that. But if you've got people who are really, really worried about the data and being used for training data. Well, you can use Venice AI or you can have a locally, you know, locally held model. I think the the third thing, which for me is the main one, is, like I say, just being able to democratize and take the power away from particular corporations. And, you know, in a world where there was no this is where I'm with it now it's like in an ideal world.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2382.692,
+      "endTime": 2414.989,
+      "text": "If you look at, there's being risks, long-term risks, existential risks, risks to, you know, disinformation, whatever with large language models. If we accept that they're going to exist and ai is going to exist, then the question is very different to if we're sort of do we have ai or not? Once you accept that it's going to exist, I actually think now, how did I ever not feel like this? If you ask the question, where do you want the power to be? Do you want it to be in the hands of as many people as possible or do you want it to be in the hands of a few small corporations? Yeah, there's some bad actors in the world.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2415.129,
+      "endTime": 2462.686,
+      "text": "We know there are some bad people in the world, but it's like there are some bad people drowned out by mostly decent people with good intentions. If you take those corporations, I don't think any of them have got good intentions. So whoever wins the race, whether it's, you know, alibaba, whether it's chat, gpt, google, facebook, whatever I don't trust any of them well they're. Yeah, I mean it's although we are talking about the best model being metas, so like we're still talking about being a corporate, being owned by a corporation. I'm sure they're giving it away for a reason, but you know, there's also, like you've said, this kind of inevitability that even if you try and keep models as being closed source and even if we say they will always be slightly ahead, this it's such a small lead yeah, that it kind of doesn't matter corporations.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2463.589,
+      "endTime": 2476.035,
+      "text": "I mean, their motivations are making money. Fundamentally, that's it right. These we're talking about. We're talking about companies well, actually open, ai being the exception, but most of those companies we're talking about how much longer have shared holders not for which I think the open eyes I mean.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2476.055,
+      "endTime": 2482.352,
+      "text": "Come on, they've already said like they're just trying to find a route to yeah, yeah, they're coming at you completely for profit.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2482.473,
+      "endTime": 2499.616,
+      "text": "But that's a good point, that's that's. But on the point of like why and I don't think we'll have like we don't know the answer, but why? Why are meta releasing all these models and making them open source? And I think it is about money, it's to undermine the competition right.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2503.04,
+      "endTime": 2529.681,
+      "text": "So it's to undermine companies like it's partly that, I think, facebook feel like that's what they did with Facebook. They think that they and we're in a different world, and I think that's kind of a flawed argument that they're trying to kind of shake up in the same way. But I think if you consider they're competing with these other rivals. One of the advantages they've got and I would actually say, like google, the argument for meta is almost the same argument for google is they're not going to make money out of the model itself and they don't need to because they've got the ecosystem there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2529.701,
+      "endTime": 2566.484,
+      "text": "Yeah, so I think the way they're looking at it is if, if we can or not necessarily be number one, but if we are able to be one of the big players in the market. Actually, the way that we're going to make money is through the metaverse and through Instagram, et cetera, et cetera, and the way in which they work with large language models. Actually, no one I don't think anyone's business model in the end is is, you know, selling subscriptions to their large language model. So, yeah, they've all. They're all going to make money different ways, but for meta and google in particular, the advantage they've got is the ecosystem they've got in place.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2567.185,
+      "endTime": 2574.75,
+      "text": "They don't need to use the model itself to make money. They need to somehow facilitate more users across their ecosystem yeah, absolutely.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2575.331,
+      "endTime": 2620.168,
+      "text": "I mean, before we move off this, like I think, the other thing that we haven't you mentioned, like individual users and their privacy concerns and their um concerns with using cloud-based language models, but I think this applies doubly so to companies and corporations, right? So if the next generation of, if the next, if the benefits of ai are these kind of agentic models where companies are going to be able to run, like, effectively replace people potentially or replace part of what people do with with something based on a large language model or some kind of ai based model, then do you really want to be putting all your do you, do you want to be building your business on the back of OpenAI and Claude and companies like that, whereas if you can have your own local model running?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2620.641,
+      "endTime": 2635.653,
+      "text": "I'd feel much more confident if I had a company and I was running my company off the back of it, whereas, like you know, you do that with OpenAI and at some point, what they can just 10X the price they can do a price hike, they can change their terms and conditions and you're not just,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2639.58,
+      "endTime": 2643.108,
+      "text": "you're fundamentally relying upon them. At that point for, like, actually running your business, it's pretty sketchy ground to be on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2643.401,
+      "endTime": 2684.145,
+      "text": "And just to finish on this point, this goes back to some of the conversation we had with Anf last week where we were talking about how you know the kind of this idea of the cost of doing business, were talking about how you're the kind of this idea of the cost of doing business. It's like even if you're locked into some kind of enterprise contract with chat, gpt or you know to a lesser degree, anthropic or or whoever, and there are guarantees in that contract. But actually we've already accepted that you know, the way that silicon valley works is well okay, but sue us, we'll just you know, we've got the best lawyers and even if you do sue us the price of the use of your data and all of the stuff that we've been able to do, we'll just pay that money.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2684.28,
+      "endTime": 2713.069,
+      "text": "It's just the cost of doing business. So there's going to be. We had a whole episode on trust, didn't we? The trust of individuals there's. Trust of businesses Depends what your sector is. But if you run a commercially sensitive operation or you're at the top of a market, you are someone who's got a cutting-edge technology are you going to trust that in a you know, a large language model where that data is going to another commercial organization? Are you fuck?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2713.509,
+      "endTime": 2753.981,
+      "text": "of course you're not, and I think this is something that maybe is a longer discussion that we can take into another episode but I I genuinely feel like there's something different to hear where you have suppliers that supply a company, um, and you and you've got the ability to move suppliers and change suppliers, and that's you know. If you're changing, changing out a widget, that's quite straightforward if it's a ball bearing or something like that, whereas we're talking, what we're talking about here is if these agentic models succeed. We're talking about actually your employees, or some part of what your employees do is actually using these large language models, and I think it would be much harder to swap out suppliers.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2768.72,
+      "endTime": 2809.396,
+      "text": "So I just wanted to talk about a kind of talk paper that was released by Darren Aconglu, who is a professor of economics at MIT Easy for you to say or not. So he fears a crash as AI can only do 5% of jobs and at sort of face value this is a classic, you know, talking about what AI is now rather than what it is in the future. And actually, like he accepted that and said yeah, you know, there's a lot of uncertainty about what happens in the future, but basically this kind of paper. So he expresses concern about the impact of AI on the job market, but predicting that only 5% of jobs will be substantially affected by AI over the next few years.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2809.436,
+      "endTime": 2811.057,
+      "text": "I think it's until the end of this decade.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2815.52,
+      "endTime": 2847.626,
+      "text": "It's until the end of this decade. So his argument is that the limited impact suggests that the anticipated economic benefits from ai, which obviously are kind of you know, a lot of people are kind of relying on that, that's, that's what's going to kind of rescue us, um, like increased productivity and efficiency, etc. They probably won't materialize as expected. So therefore, the substantial investments in things like AI infrastructure could lead to wasted resources because the technologies don't deliver the promised returns on investment. He's got three potential scenarios for the future of AI, none of which he views as particularly optimistic.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2848.369,
+      "endTime": 2887.189,
+      "text": "He warns that if the current hype continues, it could lead to a market crash reminiscent of the dot-com bubble. I've you've mentioned this, or we've certainly talked about it at some point. Um, disillusionment with ai technologies would ensue once investors realize the limitations, and highlights that, while large language models demonstrate impressive capability, they still lack reliability. That's needed for widespread workplace integration and therefore you still require human oversight for most tasks. I do think it's worth mentioning at this point. On the other hand, openai recently raised 6.6 billion in funding, which valued the company 157 billion.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2888.125,
+      "endTime": 2933.504,
+      "text": "I can't remember exactly what it was, but Anthropic. Their value has also gone up a lot. The OpenAI one, so Thrive Capital is. You know that their value has also gone up a lot. The open ai one, so thrive capital, uh, microsoft, nvidia, softbank, yeah, all the big kind of investors that are in there. The round sparks a lot of controversy because there was a lot of stipulations placed on investors. I don't know if you've heard this, but um, reportedly they've restricted these investors. If they're allowed to invest in OpenAI in this round, they're not allowed to invest in any of their rivals. And then you've seen that some of the investment in, for example, anthropic on the back of this was potentially companies who either couldn't get in on the OpenAI round or who were not willing to Exactly so critics have argued.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2933.544,
+      "endTime": 2941.469,
+      "text": "Obviously this would stifle competition in the AI sector. It raises ethical concerns about monopolization. I mean, yeah, that's for the regulators to deal with.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2941.703,
+      "endTime": 2942.94,
+      "text": "It's not illegal, though I take it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2943.04,
+      "endTime": 2945.728,
+      "text": "Well, the regulators are kind of owned by big tech anyway, aren't they?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2945.748,
+      "endTime": 2951.124,
+      "text": "So it kind of but I gather the fact they've done this means like they can do that if they want yeah, they can do it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2951.184,
+      "endTime": 2954.61,
+      "text": "It's like an ethical consideration rather than a rather than. Is it legal?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2955.552,
+      "endTime": 2966.382,
+      "text": "but right, but it's also. This is also probably because open ai is a private company. Still right, it's not actually a publicly listed company yes, yeah, yeah so they've got more flexibility with this kind of thing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2966.543,
+      "endTime": 3016.874,
+      "text": "Yeah, yeah but the you know, these massive valuations, they, they sort of there's a broader trend here around kind of inflated valuations, which I guess there is a point there, and there's a lot of very sort of people that I trust, let's say, like people like Gary Marcus, for example, who talk about this and how they don't think that AI not ever again, but like in the near future is ever going to get, you know, to be able to, to pay back some of these investments. I think it also it's not like it's not saying AI is not able to. It's saying that these particular companies, these individual organizations and I think that's where, like open AI, is weakness If they don't get to be developing, you know, artificial general intelligence or something first, it's like they haven't got that infrastructure, they haven't got that ecosystem to work with.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3017.7,
+      "endTime": 3025.531,
+      "text": "I don't know if you want to come in on it, I think we should probably go back to the actual initial MIT thing, but I think this is maybe a more interesting development, to be honest.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3026.34,
+      "endTime": 3050.78,
+      "text": "Yeah, I mean the way I see OpenAI and ChatGPT. They were a first mover, right, they were a first mover right. They were a first mover like open AI, like sorry chat, like GPT and large language models. Not that many people have still like there's quite a few people that still haven't really heard about them or don't know much about them, or even if they've heard about them, because it's in the news and not been adopted in the way that we expected.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3051.422,
+      "endTime": 3054.09,
+      "text": "Even when we started this podcast, like it's not how we,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3059.76,
+      "endTime": 3060.926,
+      "text": "I thought we wouldn't have a job by this time. Yeah, now.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3060.946,
+      "endTime": 3082.601,
+      "text": "Well, so this time next year, by now and we have, yeah, and we've talked about it before, I think a lot of the stuff that's going to come out of of ai is still to happen. Um, stuff where it actually has a measurable impact, stuff where it has a real world impact, like the agentic stuff that I talked about a minute ago, but in terms of like using an llm. So I, we do this podcast. I do not use a large language model every day.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3083.323,
+      "endTime": 3096.788,
+      "text": "I do it's not integrated into my daily life yet, and I know I do, you do yeah, many, many times, yeah, I, I it's integrated into my life and it is integrated as in, but I could do without it like it just. It's just more convenient that's the.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3096.828,
+      "endTime": 3104.871,
+      "text": "That's the thing I think. Like the, I think some of the absolute killer applications for it are still haven't really um, what's the word like?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3104.912,
+      "endTime": 3138.801,
+      "text": "really hit home let me just go back and say when I say I use it every day and I could not use it, I mainly use it for stuff which I would regard as frivolous. Yeah, it's not adding value. It adds value sometimes. I gave that example of when I was, you know, doing a module on a master's night. I use it to help me with coding and it was really useful the other week. I move in apartments and I measured out my rooms in the new apartment and I got a claude to basically map me out squared, kind of you know, dimensions of the apartment and floor plans and stuff like that. Like there's some really really good useful uses, but most of the time I'm asking questions.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3138.821,
+      "endTime": 3148.703,
+      "text": "That is just quicker than googling quicker than that's to be honest. That's what I'm using it for most of the time, or or getting it to you know. Create me with a menu plan for a keto diet, which, again, I could do it myself.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3148.763,
+      "endTime": 3158.215,
+      "text": "It just makes it quicker yeah, and these are and don't get me wrong like the things you're talking about are good use cases for AI, like I use it for recipes and things like that as well. But my overall point is",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3166.264,
+      "endTime": 3190.198,
+      "text": "they're not going to generate 160 billion of revenue, are they? I know some listeners of our podcast that have basically never used LLMs. They listen to the podcast, they find it interesting, but they've never used it and if they did, I'm sure they'd find genuine use cases. Now, I think there are going to be uses in the future. I think potentially it can automate parts of people's jobs and things like that, as we've talked about.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3196.257,
+      "endTime": 3213.915,
+      "text": "That hasn't happened yet. If I was to add another prediction onto my predictions that we made a while ago and this is probably a bit out there, but I genuinely would be surprised um would not be surprised, sorry if open ai just doesn't exist in five years time I, I've seen this.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3214.195,
+      "endTime": 3228.965,
+      "text": "I've seen this from a number of commentators in the last month, maybe less than that, so it's not actually that much of a hot take. I mean, maybe you've read the same articles, but but they're, they're quite compelling. I don't, um, I don't think. I think they're quite compelling I don't think I have.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3228.986,
+      "endTime": 3258.794,
+      "text": "It's just that you touched on it earlier on, right? So google has a business and now they're doing AI, Meta same thing, Microsoft, same thing, Anthropics a bit more like OpenAI, but OpenAI was like the first to market, If there's any. The only reason I can see why OpenAI will still be around in the same way as it is now, if it doesn't do anything revolutionary, is because it's a bit like Bitcoin where in the cryptocurrency world is because it's a bit like Bitcoin where in the cryptocurrency world, Bitcoin's way less efficient than everything else. It's not actually as useful. It was just the first to market.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3260.62,
+      "endTime": 3270.707,
+      "text": "However, the comparison ends there, because Bitcoin as a store of wealth not to get into it too much but it's just how much do you believe in it? And maybe it is similar in that respect, but I think the difference is like OpenAR.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3270.98,
+      "endTime": 3273.307,
+      "text": "Well, openar's got to pay their. They like open ar. Open has got to pay their.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3273.327,
+      "endTime": 3275.469,
+      "text": "They've got to cash the check at some point, whereas bitcoin doesn't doesn't.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3275.549,
+      "endTime": 3283.422,
+      "text": "It doesn't need to as long as, like you say, as long it's like well, the whole world's economic models, just because people believe it works. Yeah, it didn't fucking exist like open.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3283.462,
+      "endTime": 3300.194,
+      "text": "Ai can't just continue to exist just because people believe in it and they say that. I read something the other day that's estimated that they're going to burn through 16 billion next year so some art man just says we want more money to burn through to get to agi yeah which, which is accepted.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3300.214,
+      "endTime": 3302.582,
+      "text": "Well, he doesn't accept, but he's accepted may never happen.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3302.903,
+      "endTime": 3320.074,
+      "text": "Yeah, so yeah so yeah, like, maybe, yeah like. Maybe. You say maybe it's not so much of a hot take, but I think a lot of the other companies that are invested in our ai have an existing business model and are already making money and ai is a very important side project. Open ai is different in my opinion.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3320.28,
+      "endTime": 3342.365,
+      "text": "Just to go back to the the initial down, I come glue. I think I've said it wrong. I think I mean this is like. This is one of the themes of our podcast, isn't it? Butchering a name? I like considering how much time I've spent preparing for the podcast. I could have thought about how to pronounce his name Darren from MIT.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3342.565,
+      "endTime": 3351.086,
+      "text": "I think it's a silent g Darren Akamlu okay, darren Ace Moglu, with a hyphen.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3351.868,
+      "endTime": 3411.104,
+      "text": "Anyway, the reason I thought this was particularly interesting is, I mean, this is someone very credible. You know, I don't know his name, I can't say his name, but he is someone very credible is not even the fact that this is or isn't true, but it's just the fact that people are talking about it in this way. That is so different to six months ago, where we were talking about you know, is anyone going to have a job? And we're know, or me in particular, is more guilty of this than you know, most people. I'm not sure the five percent is realistic. I don't know if it's true. I don't necessarily think his, his take is necessarily correct, but it's the fact that so many people are challenging the narrative and the fact that I guess it, it kind of exposes this idea that large language models at the moment and you know ai, but I think let's not call ai because ai there are uses going on that we're not aware of, but large language models at the moment are not useful in a way that is generating money at the moment and they're not replacing jobs at the moment.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3411.625,
+      "endTime": 3435.102,
+      "text": "There is the need for human oversight, even the really, really good, even even you know the new chat gpt model, which is far better in reasoning, it still requires reasoning. There's not going to be that trust for a long time. So I think it's the fact that he may or may not be right, but the fact that people are asking that question. A lot of the trust has gone. That was there six months ago. Maybe it's not just, maybe it's hype. The hype has died down. The trust has gone. That was there six months ago. Maybe it's not just, maybe it's hype. The hype has died down.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3435.122,
+      "endTime": 3473.713,
+      "text": "The trust has gone, and so there's a lot more work for those companies to do to get to that point, and there's a lot more, therefore, resistance from companies in terms of adoption, which means these things may happen, but it's definitely not be as quick as as we maybe thought it was going to be yeah, I think very, very briefly, the flip side to all that and the counter argument to all that is if all of a sudden next year, later this year 2026, agentic AI models just start working and start being implemented, then in a way, all bets are off, because the size of that potential market is like the entire world economy, pretty much.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3488.26,
+      "endTime": 3525.825,
+      "text": "So I'm going to try and be quick on this. I could talk about this for a long time actually, but some of you may have heard of something called WorldCoin. I think many people won't have done the overall concept and I'm not going to go into loads of detail today. Maybe it's something we'll talk about more in a future episode. So Sam Altman and a group of thinkers, I guess, created something a few years ago called WorldCoin, and it was a cryptocurrency or crypto, crypto based um technology and the idea was that it would allow you to demonstrate humanness, and so this is the we've. You know we've talked about it on quite a few episodes in this podcast.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3525.845,
+      "endTime": 3563.725,
+      "text": "Like we're moving quickly to the point where you can't trust what you read, you can't trust what you hear, you're not going to be able to trust what you you mean in terms of images. You can't necessarily trust what you see now. In terms of video, we're not far off, so it's video's the one, the last bastion in a way. But we move into a world where, like anybody is going to be able to create a simulacrum, an AI simulacrum of anybody. And so, in that world where you spend a lot of your time online, how do you prove that you're a human? This is already a problem, right with bots and things like that, some of which are more easy to spot, some not so much, like in YouTube comments.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3565.24,
+      "endTime": 3576.742,
+      "text": "So what WorldCoin is is something, as I say, too, it's called WorldNow, so that's the update. WorldCoin originally was um. I'm sorry, have I? Have I ruined your?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3577.003,
+      "endTime": 3578.568,
+      "text": "no, no, it's fine, it's fine.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3579.432,
+      "endTime": 3581.459,
+      "text": "Um, so yeah, they've changed the name to world.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3581.519,
+      "endTime": 3598.651,
+      "text": "I think they're great you're gonna break that news. It's not. This is not you breaking the news, is it? It's already been announced. I think it's already been announced. Okay uh, by some altman and some tech bros uh I mean, we're a big ai podcast, but if we were breaking the news of the, the name change of world coin, that would be a. That would be pretty, that'd be a big one for us that would be huge.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3599.241,
+      "endTime": 3638.308,
+      "text": "World first, um, literally. So the yeah. So so they've said they've moved away from the coin part, I think probably to distance themselves from cryptocurrencies a little bit, because that was originally part of it. But fundamentally, what this is is how do you store digital information online that allows you to demonstrate that you are who you say you are and that, importantly, that you are human in a world where there might be, in the future, millions, billions of ai's online as well? Um and so again, without going into tons of the detail, it's what they're talking about is one of the things they're talking about is demonstrating uniqueness.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3638.368,
+      "endTime": 3658.854,
+      "text": "So if you have your passport, which is an identity document or a driver's license or any other kind of id document, it's obviously got information about you. But you need to know that. That. You need to know that that document's genuine and obviously it's unique, because there's only each. Each person has their own passport number. Their passport is unique to them and so,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3663.18,
+      "endTime": 3692.526,
+      "text": "and what they're talking about doing is doing that using digital technology and doing that so that it's distributed, and actually a lot of this kind of stuff is open source, and so what they want is for manufacturer to open source the actual technology and then for manufacturers all over the world to create these world devices which will encapsulate your information, and some of that is biometric type information, so it's things like potentially scans of your retina and stuff like that. And actually, if you've heard anything about WorldCoin before, this is where it gets a bit controversial, because what they did was went around.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3692.64,
+      "endTime": 3699.753,
+      "text": "I think this was in very much a pilot phase. They went around scanning people's eyes or retinas in return for this world coin.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3704.04,
+      "endTime": 3751.275,
+      "text": "I do think they've now moved away from that, where now they're just looking at the core technology of how do you initially encapsulate some information about a user, so something like biometrics, like an iris scan or fingerprint scan, which you can then build into a system where you'll hold the data locally on your device so you might hold it on your phone and you'll be able to use that. As long as you look after your phone and look after your device, you'll be able to use that to demonstrate that you are a human online. But one of the key concepts of this is privacy. So what they're talking about is making sure that you can access the data on your device, for example, but all that that's used for is like a validation system, and it's building a trust system through this software and hardware system that they're talking about developing.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3751.66,
+      "endTime": 3769.192,
+      "text": "I'm not going to go into more detail on that because it is is quite complicated and I don't fully understand all the detail myself, um, but that's. The fundamental concept is how do you prove that you're human, um, and do that with privacy, and do that without giving away all your information in an increasingly digital world?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3770.816,
+      "endTime": 3813.588,
+      "text": "just a counter argument to this, because you say you know it's about privacy. And when we talked about this before the episode and I was thinking, yeah, yeah, cool that's. You know we need this way to to differentiate ourselves from um, from ai or from bots or whatever. But I guess my counter to this would be you know, coming from the tinfoil hat wearing conspiracy theorist world that I now inhabit with the, the truth seekers is, it sounds a little bit like a central digital currency to me. So does this just become a way of tracking and monitoring people? Because that privacy thing, okay, you know in in theory, in the same way as um.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3814.089,
+      "endTime": 3841.287,
+      "text": "You know passcodes where you have the passcode, basically for people who don't understand if you're using passcodes instead of passwords, now what the way that that really works is because you've got the key stored on your local device, so you've got something that is on a local device that you hold and then it's kind of matching that up is where you've got an additional security layer. So this idea yeah, you've got it on a device and and there's a privacy element to it. But is there because, if we're using this at some point and I'm not asking, I'm not expecting you to come in and answer this.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3841.327,
+      "endTime": 3878.08,
+      "text": "I'm just putting this out here. But you know, if we're using this to create our kind of digital identity, there's a privacy element there. But how can there be a privacy element, because this becomes our, our ID this to me, there are a lot of questions around how this is about privacy and how this is prevented from just becoming a way of creating a digital identity that people can be monitored and tracked with. So part of the reason why I'm not expecting you to defend world here by the way Just yeah, of course have your opinion, but I'm not expecting you to defend world here, by the way. No, of course have your opinion, but I'm not expecting you to necessarily have a counter argument.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3878.46,
+      "endTime": 3896.585,
+      "text": "I guess my answer to that would be it's like. It's a bit like the argument between so crypto was and cryptocurrencies as well, things like NFTs, things like that. Originally, the idea was to be able to have decentralized ways of so it's more like a kind of blockchain principle, right?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3896.666,
+      "endTime": 3897.949,
+      "text": "Yes, a blockchain-type principle.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3898.39,
+      "endTime": 3908.767,
+      "text": "So this was, and actually your central bank. Digital currency, cbdcs is something that's come out of blockchain, where actually governments want to take control over it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3909.328,
+      "endTime": 3914.455,
+      "text": "Of course they do, yeah, yeah, exactly. To get away from the idea of decentralized currency? Yeah, exactly, Whereas the original concept behind Bitcoin and a? They do, yeah yeah, yeah, exactly.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3914.409,
+      "endTime": 3950.16,
+      "text": "To get away from the idea of decentralized currency, yeah, exactly, whereas the original concept behind bitcoin and a lot of the other cryptocurrencies was decentralized currency where it's not reliant upon a government, and I think you're absolutely right. There are two versions of world. There is the dystopian and the utopian right yeah there's dystopian, utopian, and there's's the decentralized version and the centralized version. I think you know whatever we think about Sam Altman, but what they're talking about in all the presentations I've seen about world. This is the decentralized version where I can use it with you peer-to-peer over the internet.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3950.26,
+      "endTime": 3958.752,
+      "text": "We don't need to involve any governments, and it will prove to you that I'm human online well, I feel better knowing that sam altman's got my back, that's for sure.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3959.474,
+      "endTime": 3975.188,
+      "text": "Knowing sam's got my back is even though he knows I'm referring to him as the devil and writing songs about his, his demise, um, but now, now I know that he's got my back and is is gonna you know, create a way to safeguard my, my, my humanity, my humanity.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3975.228,
+      "endTime": 4008.305,
+      "text": "Yeah, then I feel much better yeah yeah, I'll sleep well tonight, jimmy so yeah, obviously there's definitely I've got some quite cynical takes on it as well, but I also think that, like this is maybe a case where you're right, like probably it's private industry been ahead of the game with the technology, where actually there's there's loads of problems with it. I mean, even even if even like so, so in the democratic part of the world maybe they'll accept this. In a country like china, they're never going to accept something like this. It's going to happen.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4008.345,
+      "endTime": 4023.984,
+      "text": "You mean the, the authorities, rather than the people yeah, the authorities, yeah, I don't need it. In china, you've got wechat. Everyone's already got a digital identity through their wechat account, which you can't do anything without, so we basically already got it here yeah, and you couldn't possibly be a bot on wechat.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4024.746,
+      "endTime": 4036.609,
+      "text": "But, yeah, like the, you know it's. It's something where they're trying to transcend borders with it, but obviously there's loads of problems with that. Some countries may not accept it and they'll want centralized versions, which they possibly already have.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4036.669,
+      "endTime": 4038.413,
+      "text": "So, yeah, want to watch.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4048.592,
+      "endTime": 4059.68,
+      "text": "So to finish off today, I think we'll just talk about the Nobel prizes that have been awarded over the last few weeks. So one in physics and then the second one was in chemistry.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4059.921,
+      "endTime": 4060.846,
+      "text": "So get one this time.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4062.261,
+      "endTime": 4081.37,
+      "text": "I got one for the Nobel prize for podcasts. Actually you didn't get one, which I thought was weird, but they said your contribution was lacking in in credibility. I'm sorry about that, but try again next year. Maybe they just want to give me one this year and you one next year.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4081.61,
+      "endTime": 4082.212,
+      "text": "I'll get my coat.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4083.36,
+      "endTime": 4124.668,
+      "text": "But yeah, Geoffrey Hinton and John Hotfield won the Nobel Prize in Physics even though they are computer scientists. And our favourite, Sabine Hossenfelder which I'm going to get right today on this episode was freaking out on YouTube about the death of physics, you know, on the basis that they've awarded the Nobel Prize in physics to someone who was not a physicist, which seems like a fair enough point, to be honest. But I thought the most interesting point for me actually was the fact that Geoffrey Hinton's basically someone who you know, a year or two ago quit AI and said he regrets his whole life's work and has gone on to advise governments and the public on the existential dangers of AI.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4125.281,
+      "endTime": 4134.415,
+      "text": "So it must be pretty bittersweet to him to have then won the Nobel Prize for work that he did in the 1990s.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4137.48,
+      "endTime": 4158.969,
+      "text": "So he's often called the godfather of ai. John hotfield, I understand, invented, or is claimed to have invented, the first neural network in 1982, which is called the hotfield network. This is kind of something I don't understand about the nobel prize. They appear to have awarded it to someone for something they did like 40 years ago yeah, so I know why that is okay. Can you explain? So just for my benefit so most nobel prizes?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4159.049,
+      "endTime": 4191.724,
+      "text": "like they can't be awarded for theories, they have to be awarded for actual discoveries so it has to wait until there's like an actual yeah right so there's people, I mean, and actually the the the worst thing about that is not to transgress too far, but you can't receive the nobel prize after you've, after you're dead, when you've passed away, and so there are many people that would have won the nobel prize because they fear they theorized something while they were alive, but it's only been proven after they also they know that, like a rogue, ai is going to murder jeffrey hinton pretty soon for trying to go against him.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4191.744,
+      "endTime": 4195.853,
+      "text": "So they're getting him the nobel prize quickly before that happens, before that happens.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4195.873,
+      "endTime": 4196.996,
+      "text": "So I mean, if he does die.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4197.076,
+      "endTime": 4197.597,
+      "text": "I'd like it's.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4197.857,
+      "endTime": 4218.844,
+      "text": "It's not me a classic example was the higgs boson. So the higgs boson was predicted um. I think it was in the 60s or 70s. The nobel prize was awarded once. They actually built that massive underground particle collider that's called cern. Um that took that. They built that based on the predictions that were made in the 60s.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4219.426,
+      "endTime": 4221.271,
+      "text": "And then is that how long ago the higgs boson was?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4221.291,
+      "endTime": 4258.285,
+      "text": "I think it was something like the 60s or 70s, yeah, and, and then obviously it's. They had its prediction, and then they had to build this 25 kilometer particle collider. And then they found the higgs boson and proved that it's true to within a whatever statistical um accuracy they have to. And then they found the kiggs boson and just improved that it's true to within a whatever statistical um accuracy they have to. And then that's when and I've forgotten his name, but it was it ended in higgs peter higgs, steve higgs boson, steve higgs and peter boson. We're great no one, no one listening I'm gonna say peter higgs and steve boson, yeah pascal boson, that sounds better anyway, they got the nobel prize.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4258.486,
+      "endTime": 4261.56,
+      "text": "Um like about. It was probably like six or seven years ago, wasn't it?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4261.58,
+      "endTime": 4311.911,
+      "text": "I think well, anyway, going back to going back to these two, because we've, you know, we're questioning their their nobel prize already, um. So if we take it on merit, that um that John Hopfield did invent the first neural network, so apparently in 1982, and then Geoffrey Hinton built on that network in the late 1980s and 1990s. One of the amazing things I think Hinton said I was just like I was watching some interviews on the back of this and he was talking about and this kind of really makes a lot of sense like why whatever happens with ai, why it's going to be so powerful, is that neural networks can kind of work together in a way that humans never can, and so they're inevitably going to be more intelligent because you just can just keep piling them on top for each other.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4311.931,
+      "endTime": 4340.438,
+      "text": "So even if you don't scale up, you know, an individual neural network, you can just connect together hundreds of neural networks. I had a conversation with my dad recently when he was talking about how if we got all the top scientists in the world in one place and just put them in that room for a month and got them all solving one problem, we could solve like a lot of major problems. But the problem is we don't have the bandwidth to do it. But with neural networks taking aside the fact that you've got the limitations of energy, etc, etc.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4341.019,
+      "endTime": 4364.618,
+      "text": "You could potentially put many, many, many, many, many neural networks together and just link them all up and expect them to then be able to just work together on solving massive problems I still and and and this is a sort of I mean, this is just my opinion, I've talked about it before I still think there's a sort of missing link with AIs, where they don't have that creativity. So even if you put a load of AIs together.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4364.638,
+      "endTime": 4368.819,
+      "text": "100% agree, the music episodes really made me buy into this as well.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4369.321,
+      "endTime": 4380.311,
+      "text": "Yeah, it just feels like even if you strung all the AIs together, and the most powerful AIs in the world, they're just still not going to have that spark that results in a new discovery I was going to use.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4380.332,
+      "endTime": 4388.4,
+      "text": "the spark was exactly the word I was going to use at that point. Yeah, I agree. I'm not saying it won't happen like it could, but I think that's the question.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4388.42,
+      "endTime": 4402.55,
+      "text": "that's missing, isn't it? Definitely there is a missing link at the moment, but with a human in the loop, it's definitely already. Ai and AI type systems have already amplified what humans can do.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4402.57,
+      "endTime": 4417.024,
+      "text": "It sounds like we are talking about how augmentation is like, and this is, I guess, a good thing, right? If it really is an augmentation and you need humans and machines working together, then maybe the utopia is like is possible.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4417.21,
+      "endTime": 4448.527,
+      "text": "Is that a collaboration instead? I mean, it's only one example, but protein folding is a great example Protein folding. It doesn't seem like it would have just happened if you'd just got a load of AIs to have a chat with each other. It was a human that got the AIs to do the work, and it was work that we could never have done in a million years, because the computing power was required the ai type computing power to do the protein folding, and and the people that designed it didn't even fully understand what was going on inside it, because it was an ai.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4448.728,
+      "endTime": 4468.637,
+      "text": "however, it was a collaboration between humans and ai isn't it amazing, like ais can protein fold, but they can't fold. Ironing, but we can fold, ironing, but we can't fold. Ironing, but we can fold ironing, but we can't protein fold. And I know that sounds like a bit of a ridiculous statement, but it's like it's that. What was it? You called it the something paradox, the. It begins with an.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4468.897,
+      "endTime": 4469.058,
+      "text": "M.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4469.338,
+      "endTime": 4483.346,
+      "text": "Moravec's paradox, yeah, of like the things that should be really easy to do. So that's why, like at the moment moment, at least in its current thing, it's like laundry you put the two yeah, you put the two together, um, and then you've got a beautiful thing so we'll we'll.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4483.366,
+      "endTime": 4488.998,
+      "text": "So in the future, ais will be able to do things like protein folding. We'll be left with folding laundry, laundry.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4489.039,
+      "endTime": 4508.823,
+      "text": "Yeah, okay, just to finish off on this, so that like there was the other um nobel prize, so the um, the nobel prize in chemistry awarded to David Baker, demis Hassabis, who is very, very famous in the kind of AI world, and John Jumper for their groundbreaking work in computational protein design and structure prediction.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4509.365,
+      "endTime": 4510.33,
+      "text": "That was a nice segue there.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4510.871,
+      "endTime": 4549.947,
+      "text": "Well, I thought it was deliberate. It was a very good segue using AI technology. So, yeah, this has completely changed our understanding of amino acid sequences, protein structures, the designing novel proteins, etc. And the controversy on this award is is more about the fact that it it's kind of ai's role in scientific discovery. So critics would argue that awarding it for ai-related achievements undermines the kind of traditional scientific methods and knowledge suggests the advancements don't represent a fundamental scientific breakthrough, but they're more about the application of concepts.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4550.932,
+      "endTime": 4579.582,
+      "text": "I think that's a good point. I think it also probably indicates, like how the world has changed with AI, that the biggest developments are all going to be using ai. So if you throw that out, you know what cutting edge scientists are going to be doing things without ai. Are you going to say, well, you can only not use ai to get a nobel prize. Well, basically, you're going to be awarding it to someone for discovering a better way to fold ironing right, because it's the only thing that ais can't do. Maybe that's how me and you could win a Nobel Prize.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4581.461,
+      "endTime": 4581.866,
+      "text": "Yeah, yeah,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4585.714,
+      "endTime": 4603.418,
+      "text": "yeah, yeah, I agree with you on this. I don't. I think AI like, not AI. I think the Nobel Prize has always been about proving, like, once you actually prove something and discover it, then that's when you get the, that's when you get the Nobel Prize's, when you get the nobel prize, and a lot of that's happening because of ai.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4603.478,
+      "endTime": 4626.516,
+      "text": "Now, like you can't get away from that I guess the criticism that and I I kind of do agree with this is it's like it's a reflection of ai hype, right, like did they just decide? Oh, we better award them to ai people, because that's what everyone's talking about yeah it feels a little bit like that like, or it's like a kind of a statement like oh look, how clever we are, we're awarding it to people for physics when it's not physics work.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4626.596,
+      "endTime": 4660.305,
+      "text": "It does feel a little bit like it's it's intentionally kind of controversial yeah, I think, yeah, I don't, but I don't know who you'd give it to in that respect, like, if you look at the note, so it's if it's physics, and it's like you're predicting, um, the existence, the existence of a certain type of black hole or the Higgs boson, that's a prediction that someone made, and then they get the Nobel prize when it's discovered because they were the person that made the prediction. With this kind of stuff, it's like the. The probably wasn't really a prediction, it was just. If we chuck enough computing resource at this problem,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4664.67,
+      "endTime": 4677.471,
+      "text": "we can find additional different methods of folding proteins that can help cure a lot of diseases, and so it was literally directly the AI that was involved in the discovery. Yeah yeah, I mean.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4680.012,
+      "endTime": 4714.235,
+      "text": "I don't think, on their own, like any of these awards are not, are not without merit. It just it does feel like awarding them all in the same year to people who are not just they didn't just use AI, but like Demis Hassabis and Jeffrey Hinton, in particular, are two of the most famous people in the ai world. Yeah, so it's not like they're just people who use ai. They are people who are fun, you know, predominantly known for for being computer scientists, not for being physicists or chemists so bit of an ai heavy nobel um awards so we just to finish off last couple of minutes.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4714.275,
+      "endTime": 4718.356,
+      "text": "I said that was the last point peace prize this time I've no idea.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4718.456,
+      "endTime": 4739.66,
+      "text": "Maybe trump or someone like that, like it's usually some fucking weird thing, isn't it? Maybe I mean, as long as it's not netanyahu that's highly unlikely. No, let's hope not. But, um, you know, they've given it some ridiculous figures over the years, haven't they? I think the peace prize like I would? Um, I'm not sure I'm even interested in the peace prize, I think it it's bullshit. Anyway, yeah,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4743.312,
+      "endTime": 4756.275,
+      "text": "just last point to finish the episode off SB1047, which is Senate Bill 1047, which I talked about on many episodes, which was this California bill which was going to be the first big piece of kind of legislation in the US, anyway around AI.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4757.318,
+      "endTime": 4758.441,
+      "text": "Oh, yeah, it got chucked out, didn't?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4758.582,
+      "endTime": 4760.878,
+      "text": "it Well, it got vetoed by the governor.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4761.23,
+      "endTime": 4763.309,
+      "text": "Sorry, I was just doing what you did to me with WorldCoin earlier on.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4764.431,
+      "endTime": 4808.543,
+      "text": "Yeah, it got vetoed basically, which, yeah, is basically exactly what you said. It got kicked out. I just wanted to just bring it up because the more I sort of read on it like, I actually get the arguments that having something in the US that is state specific and not federal is kind of nonsense, because you know, a lot of tech has moved to Austin, texas anyway. Um, is it just, you know, a further reason for businesses to move there? I mean, I think some of the justification for vetoing is bullshit. I also think in the real world that we live in, I kind of understand it. I think it probably will actually result in a more federal approach and a more kind of you know, at some point, some national legislation.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4808.583,
+      "endTime": 4812.364,
+      "text": "I mean, you know, legislation and governance is now well established.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4812.525,
+      "endTime": 4820.062,
+      "text": "It's not where it probably should be, but it's getting there just for the sorry, just for the benefit of like what two groups of people here.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4820.743,
+      "endTime": 4821.344,
+      "text": "One myself.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4822.091,
+      "endTime": 4828.975,
+      "text": "You and all the other listeners. And second, like the listeners who haven't taken detailed notes on every previous episode, what is the?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4829.055,
+      "endTime": 4877.955,
+      "text": "bill, so SB1047. Basically, it was aimed at regulating environmental practices. It was aimed at like actually this is the best way to explain it is like if developers of ai models allow their models to do bad things, they are financially on the hook for it. I think that's the easiest way to describe it. So I think the comparison with like social media is a really good one, because it was like rather than the uses, because some of the uses will will definitely fall under certain laws of being like prosecutable or or you can sue people for the use of ai but it was like models need to have a responsibility for how they develop them if they're in california, and that's, I think, the key point is like it was a california piece of legislation and the reason it was kicked out was because it was seen as well.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4878.035,
+      "endTime": 4916.29,
+      "text": "It's just going to make california uncompetitive and I don't buy that. Well, not, don't buy it. I don't agree with that side of the argument, but I do agree with the argument that it's very hard to enforce well, you just enforce it in one state like you know, can big tech just move somewhere else yeah so. So like it does make a lot of sense in that respect, but it's the fact that it's being kicked out, on one hand, is seen as, like you know, this shows that it's not being taken seriously. But I think, on the other hand, like it is being taken seriously, it's still behind, like legislation always is, but I don't think this necessarily indicates that the US is not taking it seriously.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4916.611,
+      "endTime": 4938.278,
+      "text": "I think, actually, they're probably right that it shouldn't be a piece of state legislation, it should be a piece of federal legislation. However, not having done it, you can kind of see that even the likes of, you know, anthropic actually were one of the big ones who were really kind of pushing back against it. Obviously, openai were pushing back against it. I think it will be seen as a win for them,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4943.73,
+      "endTime": 4964.56,
+      "text": "and I think that's the kind of bad side to it, but I think at the same time, yeah, it's probably not something that should be a piece of state legislator, it has to be a bigger piece. I'm, I'm I'm not sure you know. That was the the thrilling piece to end on, but I thought it was really important because, like I say, this was potentially the biggest because all the frontier models in silicon valley. It was potentially the biggest because all the frontier models in silicon valley. It was potentially the biggest piece of legislation that there would have been to date on ai.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4964.981,
+      "endTime": 4990.86,
+      "text": "The fact it hasn't happened is a big thing, but it will probably lead to those discussions happening nationally rather than at state level, which is probably a good thing, to be honest, yeah, I agree, I think there's tons to explore there and, uh, definitely maybe stuff for a future episode specifically on how AI is used and whether it's the AI that's actually caused the damage or whether it double monthly roundup. So we've gone on longer than we would usually",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5001.85,
+      "endTime": 5006.199,
+      "text": "but this is two months worth of news. We can't keep saying that at the end of every episode, you know.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5008.473,
+      "endTime": 5012.277,
+      "text": "Well, the last episode I did was like 26 minutes long, so we had a short one recently.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5012.33,
+      "endTime": 5013.734,
+      "text": "Yeah, but the feedback was it was rubbish.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5014.597,
+      "endTime": 5016.281,
+      "text": "That was my dad. Okay,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5020.91,
+      "endTime": 5050.336,
+      "text": "we got a text and we thought it was a fan and we found out it was my dad. Okay, we got a text and we thought it was. We thought it was a fan and we found out it was my dad. Well, he is a fan, but it was my dad, yeah. Well, that's it for this week. We will be back next week with one of either two things which will be interviewing an ai, or my favorite, the covid ai special. So it'll be one of those two next week. But thank you for listening until the end. If you have. Well, if you haven't, you're not. You're not hearing me say this unless you've skipped to the end of the pod. But thank you for listening and enjoy, as usual, our sooner track.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5050.59,
+      "endTime": 5054.461,
+      "text": "We will promise you that this is a good one this week, and take care",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5069.679,
+      "endTime": 5073.802,
+      "text": "get more people to listen and see you next time.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5074.762,
+      "endTime": 5109.16,
+      "text": "While the markets start to shake, some say it's all a big mistake, but that money keeps on flowing. You know, yeah, jack GPD found his toys today. Jimmy Rhodes just smiled and said hey, haven't we been here before? Like a revolving dollar bill, some cats say the bubble's gonna pop, but Silicon Valley's cream stays on top. Vcs throwing money round Like autumn leaves upon the ground While the bears are crying over again.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5120.821,
+      "endTime": 5156.612,
+      "text": "Oh, yeah, yeah. Two body die. Ai's so fine. Two body do, losing track of time. History's spinning round and round Like Mark on the midnight bound. Now the voice starts singing sweet and low While the funding numbers grow and grow. Jimmy's got that deja vu of 99 and 202, but the valley keeps on playing that same old tune. Oh, question everything. There is no such thing as a conspiracy theorist. See, just the truth. They don't want you to know.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5159.753,
+      "endTime": 5160.194,
+      "text": "Bye.",
+      "chapterIndex": 8
+    }
+  ]
+}

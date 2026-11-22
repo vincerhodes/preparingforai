@@ -1,0 +1,1118 @@
+{
+  "slug": "s3-2026-06-26-fable-ban-conspiracies-data-centres-in-spa",
+  "buzzsproutId": "19406944",
+  "title": "FABLE BAN CONSPIRACIES, DATA CENTRES IN SPACE & APPLE'S AI FIGHTBACK: Jimmy & Matt debate their favourite AI stories from June 2026",
+  "date": "2026-06-26T14:00:00.000Z",
+  "season": 3,
+  "durationSec": 3979,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/19406944-fable-ban-conspiracies-data-centres-in-space-apple-s-ai-fightback-jimmy-matt-debate-their-favourite-ai-stories-from-june-2026.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail A top-tier AI model appears, gets jailbroken, and then disappears within 96 hours. That single arc tells you almost everything about where frontier AI is heading: safety is messy, the economics are frantic, and governments are no longer pretending they are spectators. We break down the Anthropic Fable 5 ban, the reported US national security concerns, and the awkward reality that “you can’t use it” often becomes the loudest policy argument. From there, we get practical about why guardrails still feel so crude. If a model blocks harmless work because it spots the word “cyber”, or refuses to read documents because they might contain risky material, then the industry is shipping incredible capability with constraint systems that are still closer to blunt filters than dependable AI safety engineering. We also talk about the commercial side: IPO pressure, circular financing, and why the race to outdo OpenAI can collide head-on with regulation. Then we widen the lens to the global response. Argentina floats a plan to never regulate AI and even proposes a new corporate category for agent-run “non-human corporations”. Europe moves in the opposite direction with a renewed push for sovereign AI funding, and we discuss what “technological sovereignty” means when the US can cut off access overnight and open source models are catching up fast through model distillation. We finish with the money and the consumer reality: agentic AI is setting fire to budgets in a token burn crisis, “token maxing” is now a workplace concept, and Apple’s rebuilt Siri AI with on-screen awareness and Gemini-powered web knowledge hints at a more useful, less gimmicky future. If you enjoy sharp AI news, real-world implications, and a bit of nerdy curiosity, subscribe, share the episode, and leave us a review. What part of this future worries you most?",
+  "summary": "A news-heavy debate anchored by the strangest frontier-AI story of the year: Anthropic's Fable 5 appeared, was jailbroken, and was forcibly pulled offline within ~96 hours after Amazon CEO Andy Jassy blew the whistle to the White House and it was designated a national security threat. Jimmy resents being locked out of a model he insists he'd use innocently; Matt doubts it was staged but suspects the government was primed and 'ready to shut it down'. The conversation widens to crude guardrails (models refusing documents because they might be risky), circular financing between Amazon and Anthropic, Argentina's plan to host unregulated AI-run 'non-human corporations', European and UK sovereign AI funds as a reaction to the Fable shock, the SpaceX IPO funding Musk's data-centres-in-space vision, the enterprise 'token burn crisis' and farcical 'token maxing' KPIs, and Apple's rebuilt Siri powered by Gemini with on-screen awareness.",
+  "keyTalkingPoints": [
+    "The Fable 5 arc in 96 hours — release, jailbreak, national security designation, shutdown — is a pivotal moment: the first time a government has effectively killed a frontier model, and proof that 'you can't use it' has become the loudest policy argument.",
+    "Circular financing underwrites the frontier: Amazon is Anthropic's largest backer with ~$100B committed and also pays Anthropic to use AWS — 'there isn't really enough money or data centres or computers', so the money just moves around the circle.",
+    "Guardrails are still blunt filters: Fable reportedly refused to read code-framework documents because they might contain risky material, and harmless work gets blocked on keyword spotting — capability is racing ahead of safety engineering.",
+    "Argentina plans to keep AI unregulated and create a corporate category for agent-run 'non-human corporations' — Matt calls it absolutely nuts but a first-mover bet; Europe and the UK counter with sovereign AI funds (£500M UK, €200B EU Invest AI) after realizing the US can cut off access overnight.",
+    "SpaceX's ~$1.75–2T IPO (with loss-making xAI wiping out SpaceX's profits) sets up Musk's data-centres-in-space play: self-powered satellite GPU constellations that sidestep cooling, land and grid constraints — Jimmy calls it genius, astronomers call it night-sky pollution.",
+    "Agentic AI is setting enterprise budgets on fire: Uber burned a whole annual AI allocation in one month, 'token maxing' has become a workplace KPI, and companies generate AI reports that nobody reads — literal token slop."
+  ],
+  "hostStances": {
+    "jimmy": [
+      "The Fable ban is maddening: he really wanted to use it, insists he's not a bad person, and thinks restricting everyone because of potential misuse is the wrong default — though he concedes the national security concern may be legitimate.",
+      "He is a bubble-and-circularity cynic: the Amazon–Anthropic money loop is a 'circle jerk', and he believes some kind of AI non-proliferation lockdown will eventually follow a massive disaster.",
+      "Data centres in space are 'absolutely genius' — self-contained, solar-powered satellite mini-data-centres — and he predicts it becomes a really big deal within a few years.",
+      "True 'token maxing' should mean optimizing the value per token (subagents, skills, efficiency), not corporate pressure to burn tokens for their own sake."
+    ],
+    "matt": [
+      "He doesn't think the Fable incident was staged or that the model wasn't dangerous — he thinks nothing changed in 96 hours and the authorities were already primed to shut it down.",
+      "Government stepping in is ultimately a good thing, even if the timing and manner were questionable; sovereign AI investment is the sane response to a world where the US can cut you off overnight.",
+      "Argentina's unregulated-AI haven is nuts: the benefits would flow to US model providers and data centres anyway, and it edges toward AI-run companies gaining rights by the back door.",
+      "China is comfortable being '1B' — deliberately just slightly behind the frontier with massive commercial benefits — and top open-router usage being dominated by Chinese models is the tell."
+    ]
+  },
+  "predictionIds": [
+    "s3-2026-06-26-fable-ban-conspiracies-data-centres-in-spa-972.1-after-a-massive-ai-disaster-the-nuclear-style-tr",
+    "s3-2026-06-26-fable-ban-conspiracies-data-centres-in-spa-2608.4-space-based-data-centres-will-become-a-really-bi",
+    "s3-2026-06-26-fable-ban-conspiracies-data-centres-in-spa-754.4-consumer-pushback-will-force-some-businesses-to-",
+    "s3-2026-06-26-fable-ban-conspiracies-data-centres-in-spa-3344-companies-will-soon-be-forced-to-actively-govern",
+    "s3-2026-06-26-fable-ban-conspiracies-data-centres-in-spa-1047.4-china-is-deliberately-staying-just-behind-the-us"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 9,
+  "turnCount": 147,
+  "chapters": [
+    {
+      "title": "Welcome And What’s Coming",
+      "startTime": 0
+    },
+    {
+      "title": "Fable 5 Release Then Rapid Ban",
+      "startTime": 55
+    },
+    {
+      "title": "Guardrails, IPO Pressure, And Motives",
+      "startTime": 712
+    },
+    {
+      "title": "Argentina’s Plan For Unregulated AI Firms",
+      "startTime": 1582
+    },
+    {
+      "title": "Europe And UK Push For Sovereign AI",
+      "startTime": 1942
+    },
+    {
+      "title": "SpaceX IPO And Data Centres In Space",
+      "startTime": 2242
+    },
+    {
+      "title": "Token Burn Crisis And Token Maxing",
+      "startTime": 2939
+    },
+    {
+      "title": "Apple’s Rebuilt Siri AI And Gemini",
+      "startTime": 3416
+    },
+    {
+      "title": "Bird Spotting And Sign Off",
+      "startTime": 3691
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.2,
+      "endTime": 38.48,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. The podcast that explores the human and social impact of AI. Exploring where AI intersects with economics, healthcare, religion, politics, and everything in between. Everybody wants to rule the world. Welcome to Preparing for AI. With me, Andy Burnham. And me, Josimar Jose Ivero Diaz. Oh. Who's that? Um he's the Cap Verde, Cape Verde goalkeeper who made seven saves, including six from the box, to hold Spain to a shocking nil-nil draw in the World Cup.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 38.72,
+      "endTime": 54.8,
+      "text": "Excellent. Who's Andy Burnham? UK politician, ex-mayor of Manchester, maybe. Future is he's won making Makers field, doesn't he? He's an MP. He's an MP, yeah. Nothing more than that at the moment. I think nothing more than that at the moment, yeah.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 55.12,
+      "endTime": 93.84,
+      "text": "Anyway, welcome to Prepareing for AI and our very popular news episode. We've got a lot to cover. Um, I'll say first of all, we're gonna talk about Fable, which is Anthropic's uh model that was released and then banned. Um, but we're not gonna talk about the model itself because we talked about Mythos in a previous episode. Um, it's basically the same model with guardrails, and also everybody under the sun has been talking about it for the last sort of week and a half. So we're gonna dive into a slightly different uh part of the story. We are gonna talk about it, but we're gonna talk about the sort of the ban, um, what that means, why it's happened, and the sort of politics and the implications of that and how silly it is.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 94.64,
+      "endTime": 97.36,
+      "text": "Well, you might want to you tell us how silly you think it is.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 98.08,
+      "endTime": 114.64,
+      "text": "Well, I mean I I really want to use it and I'm not a bad person, so and I'm not gonna use it for bad I'm not gonna use it for illegal, nefarious means. So but also I do have some views on I think I was talking to you about the other day about why are the guardrails on AI models so crap.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 114.96,
+      "endTime": 130,
+      "text": "Well, let's just start off because some people might not be too sort of too up to date on the story. So uh Fable was a basically Fable 5 as they called it. There was no Fable 1, 2, 3, 4.7 or anything else, it was just Fable 5.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 130.4,
+      "endTime": 132.32,
+      "text": "It's quite an app name given what's going on with it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 132.4,
+      "endTime": 165.2,
+      "text": "It's like but it was Anthropic's sort of not just state of the art, but but model that was you know ahead of anything that had been released before, like I said, we talked on a previous episode about mythos, which was basically Fable was Mythos, but with some guardrails added to it. And if you understand anything about guardrails, um no one really knows how to put guardrails on. So you know the idea that this was going to hold, um, Pliny the Liberator, who used to be called Pliny the Prompt, who is basically he's not one person, he's actually a sort of network of people who hack um and break all the models.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 165.28,
+      "endTime": 168.96,
+      "text": "I think it took him 48 hours or them 48 hours to do it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 169.28,
+      "endTime": 177.04,
+      "text": "It was definitely with I mean it the model was offline again within about 96 hours, I think. So three days. Must have been yeah, must have been pretty quick.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 177.2,
+      "endTime": 230,
+      "text": "So anyway, the model was kind of released. Um supposedly you know, it's it it it has these amazing cyber hacking abilities. So it was immediately as soon as it was kind of invented, I guess, they they announced that they'd invented it, but that they were not going to release it. They then did this thing called Project Glasswing, which was giving it to big organisations to use to basically patch security, um, sort of security risks in in software and uh online, etc. And then they did release this version that they called Fable 5. And as Jimmy says, 96 hours later, uh the US government told, well, the US government actually gave them instruction that they had to ban it from any foreign nationals having access to it, which is impossible considering um half of their employees are foreign nationals, and you know, there's lots of foreign nationals in the US, it would mean you'd have to somehow put in place some kind of monitoring of every single user.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 230.08,
+      "endTime": 245.44,
+      "text": "Uh, Jimmy does think it's possible to do that, so maybe that's where we end up one day. But I think that that was put in place as kind of a way we're not going to tell you to ban it, but we're gonna tell you something that essentially is banning it, and immediately Anthropic took the model down. And if you try and use it now, you'll see Fable is currently unavailable.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 246.08,
+      "endTime": 265.04,
+      "text": "Yeah, I mean they've they deemed it a national security threat, didn't they? Which they might may be correct on. The way that it happened is quite interesting, which is that the Amazon CEO, Andy Jassy, was the guy who basically he went to the White House to report a dangerous jailbreak vulnerability and then they replicated it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 265.44,
+      "endTime": 272.48,
+      "text": "Yeah, he snitched them up, which is really it's it's it's we're because they're a massive investor, Amazon are one of the biggest investors in Anthropic.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 272.8,
+      "endTime": 290.4,
+      "text": "Yeah, they've committed a hundred billion um actually to to Amazon Web Ser Web, sorry, Anthropic Amazon Anthropic's largest backer, but then it's one of these other circular finance things where Amazon are paying Anthropic to basically rent out their AWS servers.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 290.56,
+      "endTime": 310,
+      "text": "Um and so they haven't got enough commute compute without it. And I mean they it's ironic not ironic, it's funny how they're all kind of working together to be honest, apart from OpenAI, who are working with Microsoft, but you've got Gemini and you know and and Anthropic and Amazon who are all working very closely together. It's yeah, yeah. And Grok.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 310.8,
+      "endTime": 319.28,
+      "text": "And Grok. Yeah, or you're X AI rather than Grok. But well there's there's loads of circular financing going on, isn't it? Because there isn't really enough money or data centres or computers.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 319.44,
+      "endTime": 322.56,
+      "text": "But it's definitely not a bubble, so no, we'll talk about that later.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 322.8,
+      "endTime": 360.4,
+      "text": "Just a circle jerk. Um, but yeah, it's it's quite it's quite interesting. So so um so yeah, uh Jassy blew the whistle to the admi uh to the White House, to the administration. They then ordered a shutdown of Anthropic at 5.21 on Friday, which 521 will come back later because apparently I can't remember which model it was, but apparently a Chinese model um released their model the next day at 5.21. It's a bit of a sort of like it was like a another Chinese open source model that everyone's using. That was basically a distilled version of Fable, something like that, yeah. Um they had 90 minutes to comply.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 360.48,
+      "endTime": 382.32,
+      "text": "Uh apparently at that point, um uh Dario Amadeus was at some sort of yoga retreat or wellness retreat, which has also been called out as absolute nonsense by Anthropic. So it all got very spicy. Um, and then yeah, the main thing was I had to stop using Fable because I got woke up in the morning and couldn't use it anymore. Yeah. So there's a big story, is Jimmy's not allowed to use Fable.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 382.8,
+      "endTime": 431.52,
+      "text": "Yeah. And and then let's move right. Next next news item. What's the next news item? No, I was joking. Um yeah, I I mean sorry, okay. When we talk about this in original instruction that they were gonna have to filter nationality, I mean, you know, th there is a possible way if you only allowed it to be used through their app, you could you know be able to detect, I guess, or have some kind of system set up to register everybody, but obviously it's not practical at the moment. You know, and the API you couldn't use then. I mean, I the the question and and then the point I want us to try to discuss here is like how much of this was yeah, the government found out about this um this was it a prompt injection what was the the jailbreak.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 431.68,
+      "endTime": 454.72,
+      "text": "Yeah, it was a jailbreak. Sorry, okay. So it was out about this jailbreak, you know that that one jailbreak was somehow enough to shut it down. I mean, my my view, I'll put out my view on it, and you put out your view, which is slightly different. My view is that when it was released, the government would have had to give them permission to release Fable as a model because you know they'd already announced that mythos was so terrible and frightening that you couldn't announce it, you couldn't release it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 455.04,
+      "endTime": 456.8,
+      "text": "Why would why would the government have had to give them permission?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 457.04,
+      "endTime": 488.16,
+      "text": "Well they've got because anthropic voluntary anthropic self-censored mythos. But they've got this voluntary thing, haven't they, where for frontier models where they voluntarily I'm not sure exactly you do you remember when Trump had this AI Act that was basically they they were gonna have this AI act and then they basically at the last minute said no we're not having it anymore. It went from being mandatory to being kind of voluntary. So for voluntary, um for frontier models, and I I don't have all the detail, but basically I think they have to give the security cards and they have to kind of say this is okay to go.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 488.32,
+      "endTime": 524.64,
+      "text": "Yeah, yeah. I I think because of their relationship with the US government and because of what they think of that model, I guess I'm assuming that there was something here where they had, even if it wasn't a a written reassurance, some verbal assurance, exactly, some gating of some kind. Yeah. And then they allow them to release it and then they make an example of them two days later because it's all part of the ongoing, you know, originally was the Pentagon, wasn't it? But with saying that Anthropicus is a supply chain risk, you know, which obviously it this whole thing to me is um so you think the whole thing's staged?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 525.12,
+      "endTime": 542,
+      "text": "I don't think the whole thing I don't think it's staged in terms of like whether the model is dangerous or not. What I'm saying is I don't think anything changed in 96 hours. Like it was it was dangerous when it was released to make that decision to release it, I don't think anything changed in 96 hours. I think they chose to let them release it and then shut it down to make a fool of them.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 542.72,
+      "endTime": 590.88,
+      "text": "But what about the whole Andrew Jassy you know spoke to the White House, then they replicated it, then they shut it down? Like it it feels to me like what happened was Which which I which I find hard to understand because they're like a top AI company. But then I've also I've also seen weird stuff like when I was using Fable myself, I um I was talking I was planning to make this game that I've been planning to make for ages, which had a a cyberpunk theme, and I because I put the word cyberpunk in it, it blocked it and said it relates to cybersecurity because it had the word cyber in it. And I was like, how is the filter that they've implemented that simplistic when these are like top AI companies and it basically it's just looking for the word cyber in your prompt.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 590.96,
+      "endTime": 629.92,
+      "text": "And there's been loads of reports of other people having the same thing. I think there was something about so if you if you asked it to read documents for like let's say like a code framework or something like that, there are examples where it's refused to do it because by reading the documents the documents could contain something that's a link to that could link to cybersecurity threats. So it seems to me that the guardrails were sort of like A, really like blunt and ham-fisted, and B massively over overly simplistic. And I can I can talk in a bit more detail about what I was talking to you about the other day with the like why can't they make better guardrails for these models?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 630.24,
+      "endTime": 665.2,
+      "text": "But but that that that sort of I find weird, but then also is is is it just that anthropic are pushing head headlong to get this IPO at the moment, they're releasing everything they've got, they wanted to release this model, they couldn't release it as mythos because it was the they didn't want to release it, but they had to release it because of the commercial pressures, yeah. And this is it, there's like a massive commercial pressure for them to release these models that show we're anthropic, we're actually better than OpenAI. You know, they're now they're now actually they've actually got the highest valuation.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 665.44,
+      "endTime": 670.16,
+      "text": "Well as I say they're valued higher, aren't they? Yeah, um although their valuation was later than OpenAI. It was later, yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 670.32,
+      "endTime": 695.2,
+      "text": "But they but there's this massive pressure at the moment, and interestingly, open AI uncharacteristically have been very, very quiet recently. Because normally, normally in the same week that like if if it if you went back a year, in the same week that Fable was released, you'd have like two days later open if publicity around Anthropic has bought OpenAI time because they don't need to keep they don't need to keep up now and release a new model.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 695.28,
+      "endTime": 724.96,
+      "text": "That the new model that was released by Anthropic has done them more harm than good, so it's bought open AI quite a bit of time. I agree with everything you've said. I just think for me the the the fundamental reason is there's something here that I I don't think anything changed, like I say, in nine, six hours. We already knew that that model was too powerful. I was just waiting for the first cybersecurity instant where it got shut down. I wasn't surprised at all it got shut down. Maybe it wouldn't happen that quickly, maybe the reason why. So I think the US government was just waiting for the first thing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 725.12,
+      "endTime": 739.2,
+      "text": "Yeah, I think that was a real thing. I don't think they see what you're saying, they concocted it with Amazon, but I think whatever the first thing was, they were ready to shut it down. And and then now those conversations are, you know, you think that you're running the country, we're running the country.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 739.44,
+      "endTime": 788,
+      "text": "Yeah, I see what you're saying. I th I think I see what you're saying. So it basically the the Pentagon, the White House, whatever was primed at this point in time. It was like, right, the models are really good. They were basically primed to at some point soon shut down the the next model that came out. Isn't the problem with all of this though that you know from what I've seen, Chinese China it's basically it's US versus China at the moment. Maybe Europe's gonna come into things later on down the line, but it's US versus China. Open source models have been catching up. There have been some things done recently, like Claude uh so so Opus 4.8 with the release of Opus 4.8, I think we talked about how in the previous episodes they've they've hidden the thinking to stop to try and reduce model distillation because that was a big thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 791.04,
+      "endTime": 833.36,
+      "text": "Uh so effectively it's you get I mean the sim like using it in the China US example, China has millions of people potentially using proxy servers or proxies in part other parts of the world that have accounts set up with um uh anthropic, open AI, whoever, etc. And effectively you just you just automate I think I think it would be automate um asking these models questions and then examining their thinking and their output, and effectively you can take that it's called distillation, it's basically taking give you give you give it questions, you take the output, and then I don't know the mechanism, but you feed that back into train your models.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 833.76,
+      "endTime": 852.48,
+      "text": "I think the easiest way to explain to people is it's it's the closest thing to just copying that model by copying the way that it thinks, yeah, to be able to then so so so you know if a new model came out, then someone could create not as good, but a distilled version which is able to think in the same way and is able to get a lot of the benefits of it, but would be an open source model basically.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 852.8,
+      "endTime": 863.04,
+      "text": "I ironically, with this, like if you were to get like really cynical and really um maybe a bit conspiratorial, like Deep Seek was the first model that showed its thinking.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 863.28,
+      "endTime": 875.76,
+      "text": "And so you had I I thought I was thinking this when we had that conversation. How how and and everybody then copied Deep. And then they copied Deep Seek, and we later chat uh OpenAI changed the whole interface of Chat DPT and it looked like Deep Seek, didn't it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 875.92,
+      "endTime": 917.36,
+      "text": "Yeah, but that but by but by doing that it probably made it easier to distill these models, like these frontier models. So now that that's kind of anyway, that's they've taped they've taken a step back on that now, whether it whether it was a deliberate thing by DeepSeq or not. And so now they're hiding certain aspects of the thinking to try and reduce this distillation effect. But ultimately, my my my overall point is like open source models have been catching up, actually. They're maybe six months behind, and so what's going on with anthropic right now, like, yeah, fair enough, it's okay, it's a national security issue, and maybe it is, but are we not gonna have like open source Chinese models that are just as powerful in possible?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 917.84,
+      "endTime": 954.24,
+      "text": "Possibly, but then if if I mean I I believe, and this is not you know, I often say this is not apologizing for China, it's just about talking about what I see, the reality of how China operates. I believe that if these models are as dangerous and China gets that point, then the government will step in here and will even open source like the the models that become open source, you know, it's and not being like they're not being trained and created by some guy in his bedroom in Shenzhen. These are being created by by big labs. If they are that dangerous, then you know at that point China will control the output of those that what models come out.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 954.4,
+      "endTime": 971.92,
+      "text": "So I think you're right. And and the the question for me would be well, does does Russia or Iran or North Korea have a model? And then it's like you know, that okay, they're not as good, but how long behind, how far behind are they? Two years? In two years could they catch up? And then it's like, I don't know what you do. But I think AI non-proliferation treaty. Well, yeah, probably.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 972.08,
+      "endTime": 1004.32,
+      "text": "Maybe it's taking I'm not sure if we've got that long, but well yeah, but it is but these things are dangerous. I can sort of see it going that way. Like, and uh is an AI non-proliferation treaty out of the question? I think we haven't had a massive disaster yet, which is what you said would be the trigger, which it was the trigger with nuclear. Yeah. Um still I mean I still believe that. I still believe that. And which would basically be right, we're locking down these labs, they're as intelligent as they are, and they don't get any more intelligent. Except they do in Area 51 and wherever China's version of it is.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1004.56,
+      "endTime": 1013.28,
+      "text": "But yeah. The difference with China though, just to go back to your China point, is that rather than it being a global news story, it'll just you won't ever know about it, like you won't hear about it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1013.44,
+      "endTime": 1047.36,
+      "text": "I was I st I still think as well, with I I do genuinely think of course if China found this breakthrough that took them to the front, but I think I think China is quite comfortable with being not number two but 1B and being two months behind, right? They're they're two months behind the US. The US can go ahead and make the most most frontier model. China will focus on the application of the model and will you know bank the benefits of it commercially and therefore will have the most sway because most countries will be able to then will you will then use Chinese models. So I think they can kind of I don't think they're trying to get ahead of the US.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1047.44,
+      "endTime": 1052.24,
+      "text": "I think they're trying to be just just slightly behind with massive, massive commercial benefits.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1052.4,
+      "endTime": 1053.76,
+      "text": "Yeah, they're cheaper on price.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1053.84,
+      "endTime": 1082.56,
+      "text": "I mean, all of the top open router models, literally always all of the top open router models are um are Chinese models, and that's a pretty good indicator that you you do tend to get anthropic model, that a couple of clawed models in there as well, just because there are still people who are like that, you know, they will need yeah, uh they'll need a Opus 4.8 for something, right? But the the majority of work will be done on a Chinese model or maybe you know occasionally maybe like Gemini 2.0 Flash if it's basically free.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1082.8,
+      "endTime": 1110.72,
+      "text": "Yeah, I mean I guess what you don't see on Open Router is all of the Claude code subscribe anthropic subscribers that are not going through open router, obviously, but like but in terms of like commercial applications, it's a fairly good indicator because open router is and things like it are probably used where you want to build at scale, build AI at scale, because you know you by buying you just hamstrung if you're buying that stuff from recently the UK government was using Quen.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1111.84,
+      "endTime": 1157.12,
+      "text": "It was a bit of a QN Quinn, however you want to call it. I can't remember what department, but was using QN, I think it might be the NHS or or HMRC. That and Palantir, yeah. Yeah, let's not go down that one. Let's get let's get back to the main story. Um, because I think let's let's sort of finish this one on because we could do a whole episode on on the model. What about the impact? Because I the thing that most of the the sort of podcasts and videos I watched on this were talking about, and and this maybe shows the the you know this shows I think this says more about the hosts of these podcasts and where they come from, and you know, they're they're invested in in making money out of AI, but all of the stuff was about how terrible this is, how un-American it was, how awful it was that they'd shut this down.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1157.2,
+      "endTime": 1169.92,
+      "text": "And actually it came down to what you said at the beginning because they were pissed off because they couldn't use it themselves. Oh yeah, yeah. I I do think this is like it's a huge pivotal moment in terms of it's the first time that this has happened.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1170,
+      "endTime": 1207.04,
+      "text": "And I think what's not the first time that it's happened, though. Can I give you two previous examples? Uh you can, but uh you have to let me finish first. Okay. Oh, go on, do it, and then I'll finish. Uh no, no, go finish. No, no, please, you go first. Okay. So I think this is like that thing around sort of you know, you've you've you've lost your collective memory about things, but like, but this has happened twice before. So so the Atomic Energy Act under it was called the McMahon Act in 1946. Basically, the Brits helped the Americans develop nuclear weapons, and then which is actually very similar to AI, so a lot of the brains behind a lot of AI has come from the UK.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1207.28,
+      "endTime": 1210.08,
+      "text": "Well, Deep Mind came from the UK, it's just we sold it for 50 quid, didn't we?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1210.24,
+      "endTime": 1249.2,
+      "text": "We sold it for 50 quid to Google. But basically, we helped the Americans initially start developing um atomic energy, but then this McMahon Act cut off all nuclear research sharing with Britain uh and effectively locked America's closest ally out of a critical technology they had actively helped to develop. This was in 1946. Between the 1970s and 1990s, the US government classified strong cryptography, which is used to secure all um secure digital um communications nowadays. They classified that as a munition, apparently. Uh, and this meant that publishing encryption code online would be treated as illegally exporting weapons.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1249.52,
+      "endTime": 1279.76,
+      "text": "Now, if okay, you don't need to know a lot about cryptography, but but basically cryptography is used to secure your WhatsApp messages these days. Like this is like this is technology that is in everything that you do all the time. HTTPS is using uses encryption. So at one point that was classed as a munition, and if you published like these algorithms, you were exporting munitions. So there's a couple of examples of like literally where the US has done this previously with quite similar technologies in terms of the cryptography example.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1280.16,
+      "endTime": 1309.12,
+      "text": "Yeah, I actually meant examples from AI. Okay. Uh but but they are but they are like, yeah, they they are examples of of very similar. I mean, people always like to say about how historically like we're in these exceptional times, and actually you look back through history and you're like, we're never in exceptional times. Or well, actually, we're always in exceptional times. Yeah, right? There are always these things going on. History is the best um predictor of the future. The point I was going to make is I think where this ends, I think it's a huge thing, a pivotal thing. I think it's a good thing, personally.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1309.2,
+      "endTime": 1343.6,
+      "text": "I think it's a good thing, even though I'm not sure I agree with how it was done and why it was done at this particular time. I think government stepping in, at least we're at a point where, like, okay, there's a bit of a wake up to the need for. For regulation, whether that's possible, whether it can happen quick enough, etc. etc. I think where this ends though now is you know the US agreeing to basically these kind of golden shares, whether that's 49% or 30% ownership of of you know the main labs, w whether you want to call that three or four or five. You know, I think now really there's probably three main labs and the others are a little bit behind.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1343.76,
+      "endTime": 1385.28,
+      "text": "Um but then what does that mean for the rest of the world? Um because and then you've essentially got sovereign AI, but no one else has got any. Well, hopefully that just turbocharges you know countries like our own and and Europe and maybe sort of you know South America, Canada, Japan, etc., to thinking the same thing, and then you then get you know you get some form of of nationalised sovereign AI, but you also then it's much easier then to come together, it's not easy because you know we've rarely done it in history, but to come together and have some form of agreement on how you regulate when you've actually got national government level than when it's just tech.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1385.84,
+      "endTime": 1398.72,
+      "text": "Because when it's just companies, you know, they will say, Well, it's not our problem, that's for somebody else. That's for somebody else, that's for government. Having said that, ironically, it's the only time in history that an industry has asked to be regulated, but that's kind of a separate point.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1399.04,
+      "endTime": 1408.4,
+      "text": "Yeah, and it's all mixed up with like, do you want to be regulated because you're already ahead, and so it's it's in your benefit, which is also it's not the first time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1408.48,
+      "endTime": 1447.92,
+      "text": "I mean, I mean, the oil industry famously has has actually asked to be regulated in the same way, I think historically, but but um I I I should just add here one point before we move on is that is this the first time ever on the podcast that we have talked unpositively, that is negatively, isn't it? Yeah, have have talked not positively about anthropic. Because I feel my my attitude towards anthropic as a cun company, not for this but for certain other things, has changed a lot. I still use it, best models, still think they are you know, still hate Sam Altman more than I do Dario, but I think the company have um showed their true colours in the last four or five months.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1448.08,
+      "endTime": 1452.64,
+      "text": "Um, they're not really any different from any of the other companies, they've just got a better model.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1452.96,
+      "endTime": 1493.44,
+      "text": "You know my view on this though, which is that I mean they're both going for a cynic well I'm uh I'm a cynic about capitalism in that sense. Like, I mean, I don't want to belabor the point, and I'm not like necessarily anti-capitalist, but you have to accept that if you're going for an IPO, you're doing that because you need money for your company to survive. That's what they're doing right now, right? They're they're seeking one point something trillion dollar valuations, they're seeking like nearly a hundred billion dollars of investment. I think the SpaceX IPO was $85 billion to obviously keep the company alive effectively.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1493.68,
+      "endTime": 1543.52,
+      "text": "Because I don't there's no way. I mean, if you look at what I'll use SpaceX as the example, but if you look at what Musk was saying about SpaceX originally, he never wanted to take that company public. He wants he wanted to have full control over it. Now he has got full control over it because he's still got the whatever they're called, like platinum um shares or whatever, which are worth it a thousand times voting, right? Yeah, so like it's a kind of irrelevant anyway. He's he's uh sold off the company but kept the control. Um, I mean ironic, funnily enough, like the reason SpaceX uh the reason they've gone for the IPO is because Groc's hemorrhaging cash, so um XAI is hemorrhaging cash, whereas SpaceX is actually making money, and so they've absorbed X AI in order to like basically get the balance sheet to balance um and then get a bit of cash to keep things going.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1543.68,
+      "endTime": 1547.12,
+      "text": "Yeah, um, but I think we were gonna talk about that in a separate news story, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1547.28,
+      "endTime": 1577.52,
+      "text": "And and I agree with you, I'm I'm not anti-capitalist because I don't want to go on that FBI anti-tech watch list. Um, but I will be anti-capitalist when someone comes up with a better model, which I think is where most people are, and that they know it's broken, they don't like it, but there's lots of things. And unless you're unless you're rich and make raking your money out of it, capitalism doesn't work for you, but no one's found anything better yet, so I don't think we're we're in a position to to sort of nail our flags to any other masts, but you know, who knows? Maybe AI will come up with a a new economic model.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1582.48,
+      "endTime": 1629.28,
+      "text": "Right, so I played the music, even though these are kind of linked stories. I just wanted to break it up. But we had two linked to the fable story, I think. Um maybe tenuously linked. But the first one was was Argentina. So the Argentinian president, this is more just kind of I just read this story out, I guess. The Argentinian president has basically I thought that he'd announce this, but actually he's he's kind of put this forward. I think it has to be sort of agreed by uh rubber stamped or ratified, but basically to say um Argentina will never regulate AI, and all AI companies, including as I understand it, companies that are run by AI with no humans involved, can move to Argentina to a regulatory-free environment where they will be given essentially the rights of any other company.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1632.4,
+      "endTime": 1634.72,
+      "text": "He wasn't talking about giving AI rights.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1635.28,
+      "endTime": 1657.92,
+      "text": "So it's not quite clear. So it's giving companies that are run by AI without any humans rights. Whether the AI themselves gets rights, which is the you know, is AI conscious debate. I think that the way that people have grabbed the headline is it's more interesting to run it with like it's giving AI like rights as a as a life form.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1658.24,
+      "endTime": 1665.2,
+      "text": "It's giving them rights as a company, even companies that are run by AI, run by AI will be able to have rights.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1665.44,
+      "endTime": 1672.96,
+      "text": "Now, whether that then becomes AI itself having rights, I don't know. But I don't I don't think that's on the table quite.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1673.6,
+      "endTime": 1709.04,
+      "text": "I mean, without fully understanding it, is it not leaning in that direction though? Like if okay, like let let's sort of maybe make a bit of a straw man, but if you in this imaginary scenario where this goes through and gets ratified, if you're if you then set up a company in Argentina that is run by an AI, then and then that gets the rights, whatever the rights are afforded to a company in Argentina, are you not by definition giving some rights to AI? I'm not talking about human rights, but yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1709.28,
+      "endTime": 1741.52,
+      "text": "I mean that's yeah, that's that's what I'm saying, but I think there is a there is a it's not much of a stretch, but there is a slight difference between that and giving it the rights of of a of a person, right? Of course. So a company doesn't have the rights of a of a human. Can can a company can't be sexually harassed, it can't be I know I know within the company, but what I'm saying is it's the human it can't be it can't be murdered, you know. But if you start to give those protections to the individual AI as a person, I think, or or as a living that's slightly different. Let me I've I've I've just got it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1741.6,
+      "endTime": 1774.88,
+      "text": "So in the Financial Times, he published his vision for making an AI hub, a commitment to keep AI unregulated. So he argues AI must remain free of state regulation to prosper, comparing it to the Industrial Revolution, creation of a new corporate category. So this is what I'm talking about, the non-human corporation. This would be a legal entity operated by AI agents or robots with no human employees required for day-to-day operations. Human shareholders would be possible but not required. The company with a limited liability and would only be liable up to limit of its assets, and then low corporate tax.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1775.36,
+      "endTime": 1790.88,
+      "text": "Um I think it's like I think it's absolutely nuts. But it's a first mover thing, which you know, if they do it, I mean presumably certainly boosts their economy. Presumably any AI. That's the opposite of what Europe's gonna do, that's for sure.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1791.12,
+      "endTime": 1824.8,
+      "text": "Presumably any AI company, whether it's okay, whether it's whether it's in well, yeah, but also whether it's in quotes, got an AI CEO or not, like a at the moment there is no like at the moment it would be it would be a human that set that company up and was ultimately benefiting from that company, right? So I'm not quite sure, like is it, you know, is it just a stunt? Is it like a you know, you because what what I'm trying to say is like, for example, if I set up an AI company and say, I'm not the CEO, it's this AI that's the CEO, but presumably I'm telling the CEO what to do in that situation.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1825.28,
+      "endTime": 1859.6,
+      "text": "I mean I'm maybe he's looking ahead at when AI literally just is just setting up the cells. I think I think there's a I listened to the moonshot podcast with Peter Diamantis, and you know, they were like, Oh, well, this is great, this is the biggest thing ever to happen, and and Argentina's gonna be the place, and why would anyone not live there? And it's look how shit Europe is and how terrible Europe is. And I was like, Yeah, okay, it it if this is real, it gives a sort of first move advantage, but like like talk about populism. I mean, let's let's let's think about what this actually means, and and yeah, it's okay for four millionaires on a podcast to talk about how great a move this is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1860.4,
+      "endTime": 1880.32,
+      "text": "What do Argentinian people think of this? Because yes, okay, maybe it's gonna boost your economy, but where's that money going? You know, who's who's getting those benefits of the economy? If you could create a model in which they are gonna get down to everybody and that that you know that country's gonna prosper, yeah, maybe. Well, presumably if a if a if a company is gonna prosper the Argentinian president.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1880.48,
+      "endTime": 1892.48,
+      "text": "Well, right now, if a company's literally made of AIs, then presumably they're based on things like anthropic models. So actually that AI is a is a data centre in the U US. So the US are benefiting from it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1892.64,
+      "endTime": 1924.4,
+      "text": "I mean I mean that's the other thing, isn't it? Is like when you say when you say the AI can move there, but where even if you get to a point that the AI you you're saying the AI is itself an entity, but where is it based? It's based on the in the data centre. Yeah. So are you just gonna build a million massive data centers in Argentina? Maybe. I mean, like, what's the environmental implication of that? Who's gonna build like there are so many questions to dig into, but it's an interesting story, yeah. Yeah, and and it's like explaining. I don't know, I'd I'd love to know how Argentinians maybe that's something we should look at.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1924.48,
+      "endTime": 1941.6,
+      "text": "Is how how do Argentinians feel about it? How does Messi feel about this? Is he gonna create his own AI company? No, but he might move back there soon. Alright, there was one other story on this kind of linked bit, wasn't there, which is about the European sovereign AI fund, um, which you were gonna mention.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1942,
+      "endTime": 1963.28,
+      "text": "Yes, as far as I understand it, so this has come about because, well, again, as a almost an immediate backlash to the um the the you know the the story with anthropic and cutting off fable, which like has obviously alarmed people because a lot alarmed European leaders because um well because Europe doesn't have any data.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1964.48,
+      "endTime": 1972.56,
+      "text": "The UK's been begging America please don't cut us off to get a sort of exemption, which I'm I'm sure they're not the only cum country doing that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1972.88,
+      "endTime": 2015.84,
+      "text": "Yeah, exactly. And so and so and so this is it. Like the effectively I think it's been to be honest, the idea's been knocking around for a little while, um, but there are various there's there's been more consideration given to it now, and I think that given um I think that given given the US for the first time has actually s has actually cut off the rest of the world, and I know they I know that the whole model's been shut down for now, but effectively they've cut off the rest of the world from um this top AI model, and AI is like we know that it I mean potentially it is a threat, it is dangerous, and it is the next big thing potentially in terms of um national security as well, right?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2016,
+      "endTime": 2057.28,
+      "text": "So so I think this is Europe to be honest, I think this is Europe waking up. Um the US the UK have got a sovereign AI fund that was launched in April 2026, which is 500 million um government-backed venture. There is a proposal um which is running through the running through Europe, which is the EU technological sovereignty package. Um it hasn't been agreed yet, but it's basically expected to funnel or channel funding. Funnel channeling? Channel funding. Yes, definitely channel funding. Uh towards AI factories, gigafactories, cross-border projects. Uh there's a bunch of other ones as well, like smaller, smaller ones.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2057.44,
+      "endTime": 2095.44,
+      "text": "Um But effectively, this is on the radar now, I think, is what we're saying. And it's a good I think it's a good thing. Like I don't I don't necessarily think it's a good thing that we're building data centres everywhere and there's lots of environmental impacts. However, I think that with a key technology like this, can you just let if you're European, can you just let the US and China control this like key technology, which is now well, evidently, um what whether you believe the reasons for it or not, it's going to be a serious national, it's clearly going to be a serious um what's it called, national security i i issue in the future.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2095.6,
+      "endTime": 2102.56,
+      "text": "If you've got one country that's got control of a model that's able to effectively hack any system, obviously that's a problem.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2102.8,
+      "endTime": 2143.12,
+      "text": "Yeah. I just want as a comparison, so the EU invest AI and these are slightly different things, so I'm giving these figures, I'll explain why. Then there's not a direct comparison. EU Invest AI budget of 200 billion, uh France Macron AI package 109 billion, uh the US CHIPS Act 52 billion, that's specifically for fabric uh fabs and infrastructure, China's made in China 2035 150 billion, um, and then the UK sovereign AI 500 million. It sounds kind of pathetic compared to that. But then apparently, so this is obviously people who are supporting and and giving sort of a um an a justification for this.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2143.44,
+      "endTime": 2180.32,
+      "text": "It's actually the UK's one is more of a retention strategy that is designed to basically get startups and keep 20 or 30 of them to stay in the UK and potentially you know become unicorns rather than trying to get um match US or Chinese ones. So I think the yeah, the thinking behind that for the UK is the UK has historically been very innovative, as you said with um DeepMind. The UK does still have I think it has the third most unicorns. So so you know, as much as you hear the bad news, there is a positive story underneath it. If they can get 20 or 30 of the best companies to stay in the UK and then build, that's the idea.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2180.4,
+      "endTime": 2187.36,
+      "text": "So I just thought that was important. We have a lot of UK listeners. We actually have more US listeners than UK listeners, but um we are British.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2187.68,
+      "endTime": 2227.76,
+      "text": "I I do wonder, I mean, 500 million, like 500 million, so it's not building infrastructure though, it's giving them visas and you know allowing them to have certain buildings, but to put it in context, I mean I don't know whether these are this is still the case, but there were room people were getting your open router bills 500 million, isn't it? Yeah, yeah. Individuals were getting a hundred million, offered a hundred million a year salary dollars. Um move from one AI lab to another. So like to go to to go to like you know to go to Meta from from OpenAI. So um that 500 million sounds like a lot of money, but it's enough to buy five individuals for each other.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2227.92,
+      "endTime": 2234.08,
+      "text": "It doesn't sound like a lot of money anymore when you talk about AI stuff just because you really started to hear the word trillion quite often.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2234.32,
+      "endTime": 2236.24,
+      "text": "It's getting silly, yeah, totally.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2241.92,
+      "endTime": 2292.08,
+      "text": "So I mentioned it earlier on. Um, one of the things that I've been following quite closely, because I'm a bit of a space nerd and an AI nerd, is the um so there's the SpaceX IPO, uh, and obviously this the SpaceX IPO has gone through actually. I think they raised something like 86 billion. I'm not there was another option for a little bit more money. Um there's a lot of controversy around it because they were given this kind of fast access to the US stock market. Um, I think the the gist of that was basically there are lots of index trackers, so lots of pension funds are invested in index trackers, and I think the SP 500 refused the request, but the Nasdaq accepted, where normally you have to have four successive quarters of like demonstrating you know fiduciary responsibility, I suppose you'd call it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2292.24,
+      "endTime": 2331.12,
+      "text": "Um, it used to be four years, it's now four quarters. Um, before you get this automatic investment from pension funds that are invested in things like index trackers, which is worth like a lot of money. It's like so. I think from NASDAQ, um SpaceX basically what the agreement was was they'd bypass that completely and get immediate access to it. S ⁇ P 500 refused, Nasdaq accepted it, long and short of it was I think this is worth another like another 10 billion, and so there was a big there was uh you may have seen it in the news, there was a lot of news stories about how SpaceX was going to immediately get access to these funds from index trackers and things like that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2331.36,
+      "endTime": 2373.2,
+      "text": "Anyway, long story short, like I think the valuation was 1.75 trillion, something like that, or nearly two trillion for SpaceX. It made it's made Musk overnight again the richest man in the world, richest individual in the world, um, by quite a long way, I think. He's they they think he's on to become the first trillionaire now. He's he's uh got that much cash. Um but but anyway, the the what what's the what's the story with respect to AI? So effectively this was a merged this was a merging of SpaceX, XAI, and Tesla? Was it Tesla as well? So the the three companies have now merged into one massive clunk conglomerate.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2373.44,
+      "endTime": 2383.2,
+      "text": "SpaceX was already making money, making quite a lot of money, um, but that that's almost completely been wiped out, all their revenue's been wiped out by XAI, which was making a loss.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2383.44,
+      "endTime": 2395.12,
+      "text": "Which which is a great just not leading, but just of how much like yeah, how much money is being burned through by AA companies with no, you know, at the moment with no sort of real r no profit.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2395.36,
+      "endTime": 2438.56,
+      "text": "Yeah, no profit, no, no, no profit. So so so yeah, like like uh XAI was profit negative, um SpaceX was positive, and I think together they're pretty much neutral. But the underlying story for me, and we'll see where this goes, because there's a lot of stuff still to prove for SpaceX, and this is like objective, whatever you think of Elon Musk. Um SpaceX has been but SpaceX you was originally the original idea and the original kind of well Marshot, I suppose, moon shot, Mars shot in this case was going to Mars. Um what it's actually turned out to be is this hugely profitable satellite um internet company basically.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2438.8,
+      "endTime": 2475.44,
+      "text": "So SpaceX w wasn't making any money, and then they've now got um Starlink, which has got I think 9,000 satellites they've launched all together in total over a couple of years. And basically what they've done is they've created their own. Just think of that for a second. In in like just like what four years or something? Something like a matter of years, yeah. Yeah, and they're currently building their next big rocket, which is gonna which is going to be able to launch at a much faster rate and all the rest of it. Um, the lead-in for all of this is like so Starlink is highly profitable, it delivers really fast internet.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2475.68,
+      "endTime": 2510.32,
+      "text": "You can now get internet on planes and on yachts in the middle of the ocean and in remote parts of the world where you wouldn't normally be able to get it. They're only expanding that and it's actually becoming quite highly competitive. Um so the next step, and and this is something that like I've been following closely again. Like the next step, the thing what thing people are talking about, and thing Musk's talking about, is data centers in space. Now, there's been arguments back and forth, uh it's not possible, you can't like vent heat in space because it's a vacuum, but actually, space is really cold and you have solar power.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2510.48,
+      "endTime": 2553.52,
+      "text": "Like, I thought I'd take a few moments to sort of as my understanding of it, like having studied it a little bit now, is effectively, from what I can see, this data centers in space idea is absolutely genius. There's a few technical hurdles to solve, but effectively you've got this new frontier, you don't need to build data centres on land next to people, you don't need to worry about power grids, you don't need to worry about land usage, you don't need to worry about um polluting people's water, which is all the stories that are going on right now with land-based um data centers. The idea is what you do instead is you launch this constellation of um what it's is it while it's a data center in space, it's actually like a distributed network.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2553.68,
+      "endTime": 2608.32,
+      "text": "So each satellite would be a satellite with you know uh like 20 kilowatts of um GPU processing power on board, but you'd have thousands of them and it would form this distributed network. Um there is there is so Marcus House did a fascinating um video on this recently where some of the naysayers have said that you can't basically there's not there's not really a very good mechanism for ejecting heat into space for want of a better word, but actually when it comes down to it, like there are you you can calculate all this stuff and you would need a radiator of like 20 square metres in order to um run a you know a small satellite with a bunch of GPUs on board, and then again what you do is you do what SpaceX have done with Starlink, where you just mass produce these small sat relatively small satellites, I mean they're not that small, relatively small satellites which you launch into space, they then produce this like data center network in space.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2608.4,
+      "endTime": 2648,
+      "text": "Obviously, there's still massive environmental arguments. Astronomers hate the idea because it's going to pollute the night sky. There's lots and lots of arguments against it. However, fundamentally, with this SpaceX IPO having just happened, and with the fact they've already got this internet service in space with Starlink, I can see this actually being a really big deal in the next few years. And because again, because you don't have all these challenges, like basically these satellites are self contained mini data centres that power themselves. Using solar power. And so I I think that it's a I think it's a really bold move that's probably gonna go somewhere.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2648.64,
+      "endTime": 2680.24,
+      "text": "And it's gonna combine AI with this space company, and again, again, it's gonna create that demand for this space stuff, which like the demand wasn't there. Like they were like, we want to build rockets to go to Mars. No one wanted to go to Mars. They then basically went, right, we're gonna do Starlink now. They've done Starlink. Now they're like, well, we're gonna go do data centres in space. And again, they're creating their own demand for their own for their own product, basically, for their own space launch vehicle. Yeah. It's it's pretty nuts. Like I I detest Elon Musk these days. Used to think he was alright.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2680.4,
+      "endTime": 2683.92,
+      "text": "He's obviously flipped and gone evil supervillain.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2684.16,
+      "endTime": 2721.04,
+      "text": "Um but to be honest, but if he puts his mind to something, he's an incredible he's an incredible person, right? Like entrepreneur, he's he's yeah. I mean, let's take that out for a second. Like and and and people would say, well, you know, we were gonna have um driverless cars and blah blah blah, and it's like, yeah, we kinda have, but we haven't you know it hasn't happened how he maybe forecast it. But if you look at what he has done so far and you look at you know his his record of basically putting his mind to something and doing it, I mean you wouldn't put it past him. No. I I watched something on this a few months ago um in in Chinese actually showing you how this would work.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2721.36,
+      "endTime": 2754.16,
+      "text": "Um before this current because so the new thing is I understand it was a b that you were reading about was actually how they would kind of use this radiator to actually be able to the argument has always been you c you can't cool a data center in space because data centres use all this water to cool them, but like you have to get rid of the heat somehow, like the the the water circulates through the data centre, goes somewhere else, gets cooled down again. How do you do that in space? Because it's a vacuum, but you can radiate heat away using um just big radiators effectively, which radiate heat using thermal radiation.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2754.72,
+      "endTime": 2779.6,
+      "text": "Um and you can do that in a vacuum, and there are calculations for it, and again, like the the m watch the Marcus House video if you're really interested in this stuff, because he basically goes through all the basics on a uh he goes through the basics of the calculation, and it's like, well, yeah, if you had a solar panel this big and uh and you had a data center with this much power, uh how big a radiator would you need, and all of it's within the realms of things we've done before, or yeah, basically.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2779.84,
+      "endTime": 2807.84,
+      "text": "That's what I was gonna say. I mean, like it's my understanding of it, like the this video that I saw was pretty much it basically had robots building it, blasting them into space, and then it was using energy to fuel, you know, and the data centers then would fuel everything on the earth, and it was like, oh look how simple this was. And it was a bit it was like it was that yeah, exactly. Um, and I think now like the story as you explained it to me, and then I did a bit of reading on this, is like makes sense to me. Lots of things make sense to me that might not actually you know be true, but you know, it seems to make sense.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2808.08,
+      "endTime": 2843.52,
+      "text": "I I think like obviously all of this stuff is is it's not that it's more complicated, there are reasons why it will take uh I think a lot longer than you know the the the sort of optimistic estimates are. You know, this idea, yes, you can come up with the technology, there's lots of things that we have a technology and we've we're not able to do, you know. But would would would I bet against this happening in 20 years'time? No, definitely not. And I mean on on what scale? Because the the other thing that's interesting is when you initially think about this, you think, yeah, but you know, someone will fire a rocket and like blast them down, it's like, well, hang on.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2843.92,
+      "endTime": 2872,
+      "text": "It's in every country's interest or it's in every powerful country's interest to have a piece of this. If you're the first move on this and Musk is the only one who's built this, everyone wants a piece of it. And if you've got someone who doesn't want a piece of it, let's say like, let's give the example yours here, North Korea, are like, well, we're against it, okay, that's fine. But if you've got everybody else, you've got the you know the US and China and Russia and the EU and everybody else is using this, it's in their benefits. You know, there are a lot of things in the world. You just take yeah, we've talked about this before.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2872.08,
+      "endTime": 2911.6,
+      "text": "Why does the why does the economy stay as it is? Because too many people have something to lose from letting it fail. So you know, even if you've got people who don't want it to succeed, if you've got the critical mass supporting it, which you probably would have, you know, Trump is not not sorry, not Trump, Musk. Is I was not not stupid, but he's very well connected in China as well as in the US, you know, not so much in Europe. I mean they kind of hate him, but you know still they'd still buy Starlink, you know. I think it would be the same I think it would be the same thing if if that's your only option, um people will will pipe down and and go with it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2911.68,
+      "endTime": 2917.12,
+      "text": "So yeah, it it could happen. I mean it's it's fascinating. I think people should like should have a look at this.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2917.52,
+      "endTime": 2935.12,
+      "text": "Um I think it's fascinating. I mean if you're if you're you know uh the Marcus House video, like I say, like he he he does some uh okay, it's quite long form, fairly nerdy stuff, but um it's super interesting. If you're listening to this podcast 45 minutes in, you'd probably be up for it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2939.52,
+      "endTime": 2982.48,
+      "text": "So just finish off this episode, there's just a a couple of sort of short stories. What this one's not really a a particularly now story, but I feel like it's I feel like because you've got the a lot of kind of quarter one financial data, it's kind of a good point to raise it. But is this the token burn crisis um is sort of referred to? So it's just like the financial reality check that's hitting the businesses at the moment. Um there was a report on AI burn through 3.7 billion uh dollars in quarter one alone. Um with just you've got these uh example, Uber. Um you had this example of Uber have basically used all their annual coding budget in one month.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2982.96,
+      "endTime": 3030.72,
+      "text": "Um just like tearing through tokens because of using agents. And I mean we've seen it in China with um OpenClaw. Um just you you've I mean we we talked about on other episodes about how all of the the big models are like you know, restricting. So you've got these five hour limits and stuff, you've got obviously the absolute limits, you've got the cost increasing, but it's not just that, it's like that's we're talking about the consumer and the impact on us. What I'm talking about here is like the impact on organizations, one on the big AI models of like people are just burning through tokens. So if they're losing money on a $20 subscription and more people are using maxing out their subscription, they're losing more money, but also companies are finding that you know they're using tokens and they're now burning through like this.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3030.8,
+      "endTime": 3070.24,
+      "text": "This is why I think the Uber example is great, they burn through their entire allocation in one month. I think that is probably because a genetic use of AI just means you know, it burns through tokens. We had the episode where we talked about the open claw that we built, um, and when you first set it up, it was just burning through you know tokens. You were like, Wow, like I I can't believe this. I didn't build an open claw, but I built a Hermes model, which is a Hermes is another alternative kind of open source model. Oh, screw this. I built one, and then the first task that I gave it, I started off using Kimmy 2.6 as a first model, and and I looked and I looked on Open Router where I was running the model from, and I was watching it just going up.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3070.4,
+      "endTime": 3118.88,
+      "text": "It was like one dollar, one dollar twenty, one dollar thirty. Like it was like watching the electricity counter in the UK. It was like this is nuts, and it wasn't even doing anything useful. And eventually, you know, I tweaked in, I was like, okay, get it to use Gemini 2.5 flash, really cheap model, get it to give things to other agents. But you can see how people just like actually a better example of this is probably like in a workspace. Is a lot of businesses, uh I've seen this, people have told me about this, and I've I've seen it written about as well. You know, businesses will be like, This is great, we can get these great reports, and then they've got these agentic models going away, doing research, deep research, running reports, creating these amazing reports, and then you know, people are then sent like 50 reports, and everyone goes, That's great, file away this report, and no one uses the report, so you've just got AI just running and running and running.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3119.36,
+      "endTime": 3155.28,
+      "text": "This is just more of that kind of heading towards the bubble. And when we talk about a bubble, we're not saying that AI is like, oh, AI is like it's bullshit, it's not it's it's not that, it's like the use of AI, it will take a while to get to what they're hyping up, but in the meantime, they're not able to generate any revenue, and they've been basically giving it away for free. And now with agentip models, the agentip models are just running. Like, how many agent models just exist that people set up and have left them? Well, Bob, yeah, yeah, and are then just linked to an API and are just burning through tokens.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3155.36,
+      "endTime": 3167.68,
+      "text": "And I'm not just talking about the tokens for the individual, I'm just like this is just money that's just being wasted, and no one no one's making anything out of this, it's just creating literally slop, right? Literally burning, burning slop.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3167.76,
+      "endTime": 3202.96,
+      "text": "So there's one other thing that I'm on the well, so before you move on to that, I'm on the I'm on the token maxing page on Wikipedia. So this is just hilarious. So there's a new fr term called token maxing, yeah. Anything maxing, everything maxing thing right now, isn't it? Right, looks maxing. Um China maxing. But this is a new thing that's a metric used in attempts to track productivity in the workplace, especially for those using uh AI services. It's only for that as far as I can tell. They charge for each token, blah blah blah. Supporters believe that a higher token usage indicates higher productivity and higher utilization of powerful AI services.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3203.28,
+      "endTime": 3241.12,
+      "text": "So this suggests that those not consuming enough tokens may be less productive and not can and and not an underutilising AI services. So the idea fundamentally is that like in the same way that businesses do lots of daft things, basically you get given this AI, and then your your productivity, one of your metrics then becomes are you using all enough tokens? And so employees are like basically trying to use up all their tokens because when your manager does your performance report, every quarter it's like, have you oh you haven't you've had you had loads of you had 25% of your tokens left over at the end, so you've obviously not been productive enough.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3241.6,
+      "endTime": 3242,
+      "text": "Madness.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3242.16,
+      "endTime": 3276.56,
+      "text": "And lots and lots of people were saying like you know, you get a premium license and and we need to monitor your use of it and you haven't used it enough, and then people are just using it for things that they don't need to use it for. It's madness. It's it's mad. It just shows how like things don't catch up, like the actual re you know, the actual useful implementation and the actual okay, what are we using this for? That's not coming first, it's just like use it and then we'll work that out later. And in in in that space is just create stuff. That's what I'm saying about these reports is like these great reports.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3276.72,
+      "endTime": 3287.04,
+      "text": "I'll create this report for my boss, and my boss is like, wow, that looks amazing. Never got time to read it because now all people are doing is spending time reading AI-generated reports, and then what are they doing with them?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3287.28,
+      "endTime": 3328.16,
+      "text": "The r the the reason I find this so mad is because the way I use clawed code, because I'm paying for it myself and I'm trying to get the most out of it, I've researched like creating clawed subagents and skills and all these things that you can do to minimise your token usage, but still get the productivity out of it, and still get you know, so uh yeah, in the simplest terms, it's like if you've got a really simple task, it goes to haiku, um, which is the like cheapest model. Still more expensive than almost any model out. But like at the end of the day, I get my $17 a month. You know, basically with Claude, you get a five hour timeout, don't you, if you if you use too many tokens?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3328.24,
+      "endTime": 3338.24,
+      "text": "So I'm looking at I'm trying to token max, but I would I would call token maxing the opposite, getting the most out of your token. Maximise optimise your token optimizing token optimizing, yeah.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3339.12,
+      "endTime": 3343.68,
+      "text": "You're not maximizing the use, you're you're optimizing the efficiency of the use of the token.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3344,
+      "endTime": 3351.2,
+      "text": "Exactly. So I you know it makes me wonder with this stuff with Uber, it's like, has anyone thought about this stuff? Like, I mean, surely that's got to come next.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3351.68,
+      "endTime": 3386.8,
+      "text": "Yeah, it will, won't it? I mean it's reactive, but that's my point, is it's happening reactively, and in the meantime, these companies who are u losing huge amounts of money are just using more and more. Yeah, yeah. Um and and the uses, I mean it's crazy. I mean, we we've now definitely reached the point of dead internet. The amount of bots and you know, um even even now website visits, there are more bots and agents visiting websites than humans. So, you know, how many of those are just agents that have been set up and forgotten about and left or are just not even nefariously, just like randomly just",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3389.92,
+      "endTime": 3404.8,
+      "text": "just moving around cyberspace and then doing pointless calculations and questions and creating reports and things that will never be read again. We need to create ads for agents, don't we? We we don't need any more ads. We don't need ads for agents.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3404.96,
+      "endTime": 3409.68,
+      "text": "Maybe convincing people's agents. I think this exists. I think this exists already.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3410,
+      "endTime": 3446.64,
+      "text": "If if it doesn't, then we need to not record this and do it. Yeah. Um right, there's an idea. Okay, last one for this episode. This is really important one, I think, but I've left it to last because you don't you you're not an Apple guy, and I know you don't know anything. I mean, you didn't even know this story had happened, so I'll just read it out rather than asking. I'll I'll let you have your view on it, but it's about um on June the 8th, so the developer conference for Apple, they unveiled Siri AI, which is uh a new I mean Siri already exists, right? This is a rebuild. Like I looked at this and I was like that is actually really, really useful.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3447.04,
+      "endTime": 3479.76,
+      "text": "So it will have on-screen this will be in September, so with a new release in September, on-screen awareness, so it can see what's on your display and act on it. So for example, you could be looking at a recipe, you could say, Oh, send this to Jimmy and it will be able to then send it as a message to you. You can say looking through pictures, you can say, Oh, there's a picture I took last year of uh you know my friend's cat licking a spoon, and it will find the picture of the cat licking its spoon. Yeah. I I use that example rather than the one I used earlier. Okay, fine. Sounds like an AI generated image to me.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3480,
+      "endTime": 3513.6,
+      "text": "Yeah, well, yeah, I mean it could be, but but it this is genuinely useful, right? Find find something, go through a document and find it. Um it chains five to eight actions across apps in one request, so you can say find an email, add a date to a calendar, set a reminder, it can do multiple things at once. Cool. It's got personal context, so it can index your messages, emails, photos the way that you want. Answer questions like when did I last uh see Jimmy? You know, obviously that relies on me putting it in my calendar, but it can it can actually access and and and genuinely help with with stuff.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3514,
+      "endTime": 3548.48,
+      "text": "Natural back and forth dialogue with web knowledge powered by Apple Foundation models and Gemini Tech. So it will be Google Gemini that is the tech model in the background. So well done Google. Well this is kind of amazing, I guess, because Google and Apple in the kind of ecosystem are the two main rivals. I mean well done to Gemini for to Google for getting in there. I kind of think well done to Apple for probably You need to swallow your pride a bit and ask Google to do this. I think this is like it it's a good example of like two companies finding a way to beneficially work together.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3549.12,
+      "endTime": 3557.92,
+      "text": "Don't Google already pay Apple some obscene amount of money to like have Google as the default search engine on Apple. Maybe not anymore. Maybe they've just agreed to do a quid program.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3558.32,
+      "endTime": 3587.6,
+      "text": "To do a quid quid pro, yeah. Visual intelligence, this is quite cool. Identifies objects, nutrition labels, and contract contact info from camera or screen. Now, Apple intelligence can already do this. So I took a picture in London this summer, um, and it was a uh what was it? Um a crested tit in it. It was a crested tit. It's a crested tit. Okay. And um I was thinking, what bird is this? And it just came up with a picture of a bird. I pressed it, and it said it's a crested tit. And I was like, that's great.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3588,
+      "endTime": 3590.16,
+      "text": "I didn't know you were gonna be saying that on this podcast.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3590.48,
+      "endTime": 3624.08,
+      "text": "But I mean this is genuine what happened, I'm not making this up. No, no, no. You can do it with sorry, I was after September. You can do this with WeChat in China, you can take a picture of something and it will tell you what it is, or like a plant or whatever. This is not a new technology, but it seems like this will be much more enhanced. So, for example, nutrition labels you can take a picture of. You can also get contact info from things. Um, and one that I saw that I think is really useful, but really pissed me off because it's something I designed in my health tracking app. And if they are doing it, um it kind of renders my app less attractive.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3624.24,
+      "endTime": 3657.28,
+      "text": "Was you can take a picture of any food and it will give you the estimated sort of nutrition breakdown. But those are the kind of things, okay, they're a little bit niche, but if it can do that kind of thing and they can roll out more of those things, you know, these are genuinely useful. This is what Siri was always supposed to be. So I think this is this is a pretty big deal. Um not available in China, by the way. Not available in China. No, or not available for people with a Chinese account. I think if you are using like the AI models, yeah, if you have a foreign account, I think it's fine, but I guess you'll need your VPN on or which are illegal, so don't do that.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3659.84,
+      "endTime": 3668.16,
+      "text": "Um I had something really insightful to say and I've forgotten what it was. Oh yeah, if you're interested in crested tits and other birds, download Merlin.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3668.64,
+      "endTime": 3669.84,
+      "text": "Yes, I've heard about Merlin.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3670.08,
+      "endTime": 3673.44,
+      "text": "Yeah, yeah, yeah. I've got it of it's a little bird spotting watching.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3674.56,
+      "endTime": 3686.24,
+      "text": "And in Greece I saw a European uh bee eater, which we thought was a woodpecker. Cool. So so so the the uh current version of Apple Intelligence has helped my bird watching a lot.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3686.64,
+      "endTime": 3690.48,
+      "text": "We can go bird watching as well as talking shit on a podcast.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3690.72,
+      "endTime": 3701.84,
+      "text": "We can, and on that note, have a great weekend.",
+      "chapterIndex": 7
+    }
+  ]
+}

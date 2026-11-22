@@ -1,0 +1,787 @@
+{
+  "slug": "s2-2024-07-31-the-sustainability-series-unlocking-ai-for",
+  "buzzsproutId": "15507816",
+  "title": "The Sustainability Series: Unlocking AI for Accessibility with Amy Aisha Brown",
+  "date": "2024-07-31T13:00:00.000Z",
+  "season": 2,
+  "durationSec": 2957,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15507816-the-sustainability-series-unlocking-ai-for-accessibility-with-amy-aisha-brown.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Unlock the secrets of how AI can transform our world into a more inclusive and accessible place with Amy Aisha Brown from King's College London. Gain invaluable insights into how enhanced accessibility benefits not only individuals with disabilities but also the wider society, particularly as we age. Learn how AI is revolutionizing learning environments and making everyday experiences more navigable for everyone. Discover the practical applications of AI tools that are already making a difference in our daily lives. From Be My (AI Eyes) to Text-to-Signlanguage, from the advanced captioning features of Microsoft Teams to ChatGPT's ability to provide helpful prompts for the neurodivergent, we highlight how AI is improving both personal and professional interactions. We explore the potential of AI in areas like online counseling and apps like Character AI, with unique bespoke AI personalities, making digital experiences more efficient and comfortable for users. We don't shy away from the ethical and societal implications of AI in accessibility. This episode dives into the complexities of bias, privacy concerns, technological dependence, vulnerability and the need for robust regulations. We emphasize the importance of political engagement to ensure AI developments align with human values. Tune in for a balanced discussion on the promises and pitfalls of AI, and why maintaining human-centered options is crucial in our rapidly evolving digital landscape. Speech Accessibility Project (illinois.edu) Be My Eyes - See the world together",
+  "summary": "Amy Aisha Brown, a learning technologist at King's College London, joins the sustainability series to explore AI and accessibility — how assistive tech, real-time captions, Be My Eyes' AI shift and sign-language research are expanding participation, alongside the risks of bias, privacy exploitation and a cheap 'this will do' race to the bottom that abandons human support.",
+  "keyTalkingPoints": [
+    "AI is merging with assistive technology: autonomous wheelchairs, AI-enhanced cochlear tools and instant image description replacing crowdsourced volunteers",
+    "Be My Eyes becoming Be My AI moved Matt — a GPT-4 tool answers in seconds what volunteers once described, though the human connection was lovely",
+    "Sign-language interpretation AI is on its way but data-starved compared with text and audio",
+    "Amy uses ChatGPT daily as a neurodivergent professional to check tone and reduce stress — and notes institutions force her to anonymize everything, limiting real utility",
+    "The danger: organizations choosing cheap AI over skilled humans for interpreting and support, creating unequal futures based on who can pay"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Assistive AI has huge potential positives — new applications will enhance accessibility massively",
+      "Regulation is needed for assistive tools specifically, but overreach is a risk",
+      "The core risks around data and disability are the same everywhere, only more acute"
+    ],
+    "matt": [
+      "He was genuinely moved by Be My Eyes' shift from human volunteers to AI — instant help beats queued humans, even if something is lost",
+      "Privacy is a massive concern: assistive tech collects sensitive health and identity data that insurers could exploit",
+      "Regulation must target frontier-model development, not just how models are used",
+      "The CrowdStrike-style outage shows vulnerable people get nothing when electronic systems fail"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-07-31-the-sustainability-series-unlocking-ai-for-471.027-ai-sign-language-interpretation-is-on-its-way-de",
+    "s2-2024-07-31-the-sustainability-series-unlocking-ai-for-1264.45-new-ai-applications-will-massively-improve-acces",
+    "s2-2024-07-31-the-sustainability-series-unlocking-ai-for-1530.62-organizations-will-adopt-a-this-will-do-because-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Amy Aisha Brown",
+    "Speaker 4"
+  ],
+  "chapterCount": 9,
+  "turnCount": 100,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Introducing Amy Aisha Brown",
+      "startTime": 81
+    },
+    {
+      "title": "AI as a positive driver of accessibility",
+      "startTime": 367
+    },
+    {
+      "title": "Risks and challenges of AI and accessibility",
+      "startTime": 1302
+    },
+    {
+      "title": "AI and privacy concerns",
+      "startTime": 1800
+    },
+    {
+      "title": "The need for more regulation",
+      "startTime": 2133
+    },
+    {
+      "title": "Amy Aisha Brown's general views on AI",
+      "startTime": 2215
+    },
+    {
+      "title": "Amy Aisha Brown's recommendations",
+      "startTime": 2540
+    },
+    {
+      "title": "Game over suckers! (Outro track)",
+      "startTime": 2831
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 29.753,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. Urgent need for safe development of AI, governance and alignment. I was a lonely boy, no strength, no joy, in a world of my own at the back of the garden.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 34.1,
+      "endTime": 36.41,
+      "text": "I didn't want to compete or play out on the street, for in a secret life I was a roundhead general.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 36.43,
+      "endTime": 39.942,
+      "text": "Welcome to Prepaying for AI the podcast for everybody. With me, jimmy Rhodes and me, matt Cartwright.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.764,
+      "endTime": 76.204,
+      "text": "So welcome back. Today. We have another of our sustainability sub-series of podcasts, so we're going to be looking at AI and accessibility. We have a special guest on today. That's Amy Aisha Brown. I'm going to let her introduce herself a little bit in a moment, but just to kind of remind you the podcast that we've been doing, as well as exploring the impact on jobs and also the really important stuff that we do around safety and alignment, we have this what is hopefully a more positive series, where we look at some of the ways in which AI hopefully can and is already helping to improve the world around us and solve some of the problems we've got.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 76.284,
+      "endTime": 80.121,
+      "text": "So I will hand over first of all to Amy Ayesha-Brown to introduce herself.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 80.902,
+      "endTime": 109.614,
+      "text": "Hi, yeah, I'm Amy. I am working in learning technology at King's College London, so that really means that I help kind of students and staff to identify and use technologies for learning and teaching. And so recently, that's where AI has come into this, because, yep, there's a lot of new tools out there, a lot of people needing help to understand and use those tools.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 110.76,
+      "endTime": 121.231,
+      "text": "Okay, so maybe we could start off. Amy, just talking about you, know what exactly is accessibility and how is the kind of relationship to disability?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 122.573,
+      "endTime": 166.793,
+      "text": "Right, okay, so accessibility we can think of as making the world work for as many people as possible, the biggest user base as possible. So that can be thinking about like physical spaces, making sure they're accessible to people. It can be making sure that online content is accessible to people, healthcare settings are understandable to people and navigable, and so this relates to disability in the sense that it's mostly or not mostly, but it's often disabled users that will benefit most from things being accessible. But actually it's not just disabled users that will benefit from an accessible world.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 167.38,
+      "endTime": 204.872,
+      "text": "Think about a simple example like wheelchairs need ramps maybe, or lifts to access buildings, but at the same time, like elderly people, people with reduced mobility, somebody with a pushchair is also going to benefit from the same things. So while we can have tools like wheelchairs as kind of assistive technologies to help people with disabilities, when we make spaces and content available to those people by increasing accessibility, we also tend to just make the world work more for everyone in general.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 210.56,
+      "endTime": 242.323,
+      "text": "Yeah, I don't want to go off too much on a tangent here and move away from kind of AI, but I think also, you know, a thing for people to think about when we talk about making it a better world for everybody is for those people that don't need. You know they don't need help in accessibility at the moment. That for a lot of people, is going to be a temporary thing. You know, if people live longer, I think there's a question mark there. But if people do live longer, you know there are going to be more people that need help and that will benefit from it. So, looking at it kind of long term and I think this is also the kind of linking with with sustainability for me is when people think of sustainability, they often think of the environment and they only kind of think of that layer to it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 242.343,
+      "endTime": 291.693,
+      "text": "But you know the definition of sustainability is not. They only kind of think of that layer to it, but you know the definition of sustainability is not really important. But I think, if we look at it as leaving behind a better world, or at least you know some kind of world for tomorrow I think of, you know, in terms of sustainability it's the kind of social element. So it's not just about environment, it's the social element there as well, the economic element and also, if you look at things like the triple bottom line, you know we've got the people element there. So, however you look at sustainability, it's not just about the environment, it's about people and the economy as well, and this is a really, really important part and something that I think gets missed off a lot when people think of of the kind of wider sustainability agenda I mean, if you think about, like the um, un sustainable development goals, accessibility in itself isn't one of those, but it comes under a load of them.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 292.355,
+      "endTime": 327.784,
+      "text": "Uh, obviously, kind of reducing inequalities, but stuff like quality education, you know, if you, if it's, if education is not accessible, then you're preventing like a subset of people from engaging in it, so those people aren't benefiting from understanding about sustainability, putting all that into practice. The same with things like infrastructure If the public transport system is not accessible, people can't use it, and so that means fewer people are using technology in a sustainable way, means fewer people are using technology in a sustainable way.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 327.804,
+      "endTime": 358.503,
+      "text": "So accessibility kind of feeds into almost all of these elements really, because without it you're kind of leaving people behind and I just want to say because we're we said this is, you know, these episodes are aiming to be more positive and more optimistic, but I just want to get out there. You know asi so artificial, super intelligent is is sort of the antithesis of sustainability when it murders us all in our sleep. So you know, let's just put that one out there. I don't want everything to be too positive. I want to make sure that we keep our uh, keep our kind of dystopian future in the episode.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 358.543,
+      "endTime": 359.043,
+      "text": "At some point",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 367.692,
+      "endTime": 396.78,
+      "text": "let's dig in a little bit. Um, so, from your experience, you know how is ai changing things at the moment. So, you know, I want us here to focus, after what I've just said. Anyway, I want us to focus on positive examples, so kind of, you know, current tools, but also ongoing developments, how I ai can help make a better, more sustainable, and I mean feel free to talk about your personal experiences, but also the kind of things that you think will influence in the near future. So it doesn't need to be things that are here now, but things that we're going to see in the next, you know, year or two, I guess.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 397.962,
+      "endTime": 439.128,
+      "text": "Yeah, sure. So I think there's lots of ways that AI is already changing things, and changing things, I would say, broadly, for good. The AI is coming now into what we can call assistive technology, so the kinds of tech that are used to sustain, maintain, improve the capabilities, especially of disabled um people. So, um, some some tools that are really interesting out. There are tools like sign apps, which is a kind of sign language tool, so it you can go from text or speech to sign language. It's definitely not ready yet.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 439.369,
+      "endTime": 470.786,
+      "text": "You know you can't go around and use this on the street, but they are producing uh in a way that might be used, say, in a train station for um enabling stuff um, so that is here then, because I, when I made notes for this episode, I put it down as like one of the things that I was thinking would be a really kind of exciting, so I said sign language translation. I imagine at some point we're going to be able to generate text audio to sign language, which will be phenomenal, but that's, it's already in the works. I guess you're saying it's kind of in beta form at the moment, is that right?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 471.027,
+      "endTime": 515.177,
+      "text": "it's. It's in the way you. You can't go and download this, as far as I know um at the moment and use it, but it's on its way. I think there are massive barriers to sign language interpretation. Um, you don't have nearly the kind of data that you have for other kinds of audio text input to be able to come up with something that works really well at this point, but it's in the process, which is, I think, a positive. There are other tools as well, like Be. My Eyes used to be a tool where somebody could take a picture of something and then there was a way of kind of crowdsourcing others to describe that image.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 517.121,
+      "endTime": 572.033,
+      "text": "This has now been linked with generative AI in a way that you don't have to wait now while somebody describes that for you. It's much more instantaneous. Ai is also in, you know. It's in some kind of wheelchairs so that they can be more autonomous. It's in cochlear implants, that's kind of medical devices, so that they can respond more accurately to the surroundings. And then there's more simple things, like there's a set of tools called Goblin Tools, which can help people like me, the neurodivergent amongst us, to just do things like evaluate the tone of some text, or and there's I think it's called magic to do, maybe where they just kind of like list out the different um tasks that you need to do to fulfill a task.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 572.521,
+      "endTime": 630.79,
+      "text": "So there's those kinds of, like you know, new tools that are appearing or old tools that are being augmented, um with AI, um, and there's also tool a lot of tools being used, generic tools, as assistive tech. So I know you guys don't like ChatGPT and I'm sorry, but I use it all the time as a kind of assistive tech. I use it so that I can you know when I forget a word. I'm just like what I asked ChatGPT, what's the word that means? Uh, this thing that's like this, and somehow it just knows what I mean and that's amazing. Um, it stops me procrastinating because when I, when I'm putting something off now, instead of just putting it off and putting it off, I actually just kind of talk to chat gbt about it and then it kind of helps me work out why I'm putting it off, helps me break it down, um, I can ask it for feedback about stuff like I've written an email.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 631.151,
+      "endTime": 664.343,
+      "text": "Is this really the right tone of this or not, you know. So, even if I'm not really getting stuff done faster all the time. I'm getting stuff done with a bit less stress, and that's really useful. Um, I'm not having to annoy anyone either. You know I'm not annoying my colleagues to help me with stuff. I can get stuff done with a bit less stress, and that's really useful. I'm not having to annoy anyone either. You know I'm not annoying my colleagues to help me with stuff. I can get stuff done by myself, but with less stress, and in the end I think that just lets me kind of get more done, and there's lots of people who are using these kinds of tools in similar ways, I think, as well.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 664.563,
+      "endTime": 719.26,
+      "text": "One other thing that's useful is like thinking about AI to help with accessibility, to kind of make stuff more accessible, not necessarily as a tool to help you, but a tool to help others. So, for example, if you ask ChatGVT now you would be or some other tool of your choice, you might be able to get a kind of testing plan to check the accessibility of an event you're planning, for example, or a document that you've produced. I would say, be really careful with using tools in this way, because they're often not amazing and you would be much better with a human in the loop at least, but there's something there that can help, and so I'm kind of excited about how AI is gonna help just to make the world more accessible for other people as well in the future yeah, you talked there about some like it's.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 719.802,
+      "endTime": 758.524,
+      "text": "It's a real crossover with the education episode we did not so long ago and that was. I mean we didn't we didn't call it accessibility in that episode, but I think we were talking about accessibility in terms of being able to offer education at different levels, being able to offer a kind of personal tutor, almost that you can kind of bounce ideas off, and it sounds a lot like the way you've you're describing your way you use chat, gpt or other ai tools there, like it sounds like that's what you're describing there, which I find it really useful for as well. I mean, I think anyone can find it useful for this kind of stuff we should say me and jimmy do like chat gpt, we don't like okay I think.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 758.584,
+      "endTime": 775.204,
+      "text": "I think we need to make the distinction because we would, as we put out last week, like chat. Gpt is chat. Gpt is unquestionably brilliant and I wish that you could combine the kind of best of Claude and chat GPT. So we like chat GPT, we just don't like open AI.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 775.846,
+      "endTime": 777.331,
+      "text": "Fair enough, I stand corrected, sorry.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 778.38,
+      "endTime": 780.909,
+      "text": "So was yours a question, jimmy, or was it just a?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 780.949,
+      "endTime": 783.007,
+      "text": "comment. No, no, it was.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 787.94,
+      "endTime": 815.471,
+      "text": "I mean it was. It was kind of a, it was partly a comment, but I guess for people. So I mean, I guess in terms of talking to our audience, in terms of talking to other people out there with those kinds of accessibility needs that don't necessarily know these things are available, because a lot of people still don't know what, even what chat, gpt is, ai is you? You know in the news a lot now and it's becoming a a bigger topic, but there's still a huge amount of people who don't know that these things are out there. So what would you recommend to them? I guess?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 816.743,
+      "endTime": 858.913,
+      "text": "oh, I, I mean, it really depends, right, and I and I think we have to be quite careful when we recommend stuff as um, any kind of assistive tech or increasing accessibility, just because, um, a lot of tools still aren't as accessible as they should be. And this is what I would probably come on to in terms of, uh, you know the cautions around this, um, I think, actually, without even exploring the tools, this stuff will be integrated into the tools you use all the time anyway. So think about loads of us around the world are using Microsoft Teams meetings. In my Microsoft Teams now I can turn on captions, transcripts.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 859.52,
+      "endTime": 903.069,
+      "text": "Those can help me to navigate meetings. If people want to explore things though I mean, I'm sorry again I would recommend ChatGPT, just because you can just talk to it and ask it stuff. It'll even give you recommendations for this kind of thing. If you let it access the internet, it'll give you a list of new tools that can help with the kinds of things that you want help with, especially if you know that you have problems with x, y and z um. So I might use that as a kind of like just finding out mission um in the first place. Uh, but I I'd also just say yeah it. It really depends what kind of um things people want help with of course it's a really good use.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 903.089,
+      "endTime": 943.342,
+      "text": "That I hadn't really thought about because jimmy has mentioned quite a few times just about how we talked actually a lot about kind of prompts. You can ask a large language model to tell you a prompt and then feed it back to it, and I think we've mentioned the sort of counseling and using. You know whether you would access counseling services through a um. You know a large language model and whether you would access counseling services through a um, you know a large language model, and whether you'd be comfortable with doing that. I said I would be um because I think, to be honest, if you're using online counseling and you've got a person on the end or you've got a computer on the end, actually you know a lot of that counseling process, is you going through things yourself.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 943.362,
+      "endTime": 991.626,
+      "text": "So, as long as you've got that trust, I think this idea of like using it for brainstorming and being able to check things and you're talking about it kind of, you know, being neurodivergent, of being able to use it to sort of make sense of things and to check them I'd not thought of that, but I think that that is a really great example of not necessarily needing to have, like a specific tool but just like you say, using chat, gpt or just using existing tools to be able to have that conversation. And I wonder whether, for people you know who are not necessarily younger actually maybe for older people as well some of the things I like, character ai um, I'm not necessarily saying character is is necessarily the answer, but where you can have different personalities on the other end, so you can have an AI with a certain personality that you feel really comfortable with.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 992.088,
+      "endTime": 1021.722,
+      "text": "That that could help a lot of people to be able to feel comfortable to have that conversation. Because you know, one of the things that we talk about with Claude that makes it, we think, really good is the interface is very human and I think sometimes actually, like when I'm talking to it, I kind of don't want it to be so human because for some, some uses, I want it to just kind of give me a spit out, an answer and not not talk to me as if it's a person, because it's not a person and I want it to kind of, you know, not pretend that it is. But there are other times where you're having a conversation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1022.283,
+      "endTime": 1048.806,
+      "text": "I found myself with something recently, kind of just admitting how I was feeling to claude, like I genuinely put in there. Like it said to me are you, are you okay? Like it kind of asked me and I was like do you know what actually this, this, this is what I'm worried about, and I was like you know how weird. I know full well that I'm talking to a large language model, but it made me feel comfortable enough to share that and I think, for people, people who are, like you say, kind of going through a thought process and are not sure about things, and it gives that reassurance, like it's just a really great.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1048.94,
+      "endTime": 1051.485,
+      "text": "I think it's a really great example of a use that I had not thought about.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1051.786,
+      "endTime": 1089.045,
+      "text": "Anyway, I think also that you touched on something there which is like that personal. Yeah, personalization is really important, especially for thinking about accessibility and, um, assisting people with stuff. Um, and for me, one of the reasons why I really like chat gpt is I can give it custom instructions and that means I can give it custom personalities. So I want it, when I call it one name, I can have it behave in one way. When I call it another name, it can behave in another way or respond differently. So, um, I can tell it stuff about me and how I want to, how I want what I say to come across.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1089.947,
+      "endTime": 1110.548,
+      "text": "You know I can say that I speak British English and I like to be kind of direct, but also sometimes a bit sarcastic, but not overly sarcastic, and you know I can say these things and I can get it to do the things in the ways that I want it to respond, I want it to behave. So that's really useful for me because I can still be me and I can use these tools at the same time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1111.26,
+      "endTime": 1124.508,
+      "text": "There was a couple of examples that I'd come up with that I just thought I'd mention that you didn't mention. I mean, one of the ones I looked at was what is it called? Be my Eyes? I thought it was kind of actually sad. Be my Eyes has become Be my AI.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1127.92,
+      "endTime": 1157.931,
+      "text": "I thought it was kind of actually sad. Be my eyes has become be my, my ai, my ai. And it's it uses gpt4. Yeah, it uses gpt4, I think. But when I, when I was looking at this, I was really moved by the original application. So it had like thousands of thousands of like volunteers across the world who would basically be your eyes, like they would look at the image and help you with it. And I know, you know, potentially, using ai it means you'll be much quicker. But, um, I wasn't aware of it before but, like I said, I was really kind of touched by the idea of having these volunteer people and, and you know, using ai to do it doesn't have quite the same, doesn't have quite the same kind of emotional attachment.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1158.011,
+      "endTime": 1194.209,
+      "text": "But I can also understand how it's you know it was going to be instant and how it's a much better thing. There was one thing so speech, so there's a thing called the Speech Accessibility Project which is being run through the University of Illinois, which uses voice recognition, but basically it makes it more useful for people with diverse speech patterns and disabilities. So they collect loads of speech samples and pay people, so they pay the volunteers for it, representing loads of different speech patterns, and then they use Nova's recordings to make a private, de-identified data set which will then be used to train machine learning models to better understand the variety of speech patterns.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1194.36,
+      "endTime": 1231.107,
+      "text": "I thought that was a really good use and one of the reasons I was interested in that. I was looking a while ago at some of the voice cloning tech and thinking that there's literally no good use for this other than laziness. Right, because it's not needed to improve productivity. If you need to voice over a lecture or video, you can use a different voice, cloning your own voice. I can't see any positive use in there. But actually then I saw this example of where they cloned the voice for someone who lost their voice. I think they lost their voice due to COVID and they cloned the voice from them using a 10 second clip from a school play video and then they were able to use it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1231.2,
+      "endTime": 1264.33,
+      "text": "And also I mean this is not accessibility, but you can create your kind of digital footprint for your kids, so you can set up the apps now that allow you to answer questions and then it will clone your voice and then your kids can you you know speak to you and ask you questions about your life after you've gone. I think there are potentially uses there and this whole idea of you know, collecting different speech patterns and and being able to use it, I think it it ties into a, you know, a potentially, a potentially good use. I don't, jimmy, I don't know if you wanted to add anything on the positives before we kind of look at the, the challenges no, I mean I just personally.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1264.45,
+      "endTime": 1294.419,
+      "text": "I think that there's we again. We talked about on the education episode. I think there's a load of potential positives here. Amy's amy's alluded to quite a few of them. I'm sure new applications will come out that can enhance accessibility and like, obviously, having ais that can understand the world around them better in whether that's site or um, audio or even navigating the world, um. I think that's gonna massively improve accessibility in the next and I think it's an area in general where there is lots of room for optimism",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1302.369,
+      "endTime": 1303.971,
+      "text": "so should we move on to my favorite part then?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1304.632,
+      "endTime": 1343.372,
+      "text": "so the the downside, so the risks and challenges. I mean, the obvious things that stick out for me are kind of bias, which is as we've talked about a lot. You know it's built into the system, because it's built into to people, unfortunately, um, but you know stigma. I guess one of the things that that would worry me a little bit is the lack of choice for those who don't want to or can't access AI tools, and I think there's a potential risk with all this stuff. It could improve inequality and it could also widen inequality, and I think that's probably more of a wider society point than just a kind of disability and accessibility point.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1343.433,
+      "endTime": 1346.566,
+      "text": "But where do you see the big, the big risks and challenges being?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1347.788,
+      "endTime": 1388.309,
+      "text": "yeah, I think, as you've just said, bias I I think is a real problem. I'm really worried, I think, about um. Tools are being released now before they're ready, as far as I'm concerned, especially around around bias. But you know when some of these tools came out DALI, I think you know if you asked for an autistic representation it would always give you a sad white child. Somebody said recently I didn't see that myself, but I heard this and I can believe it so this kind of thing, you don't want to see that and you just kind of need people to do a bit of testing and make sure that kind of stuff doesn't happen before these tools are released.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1388.369,
+      "endTime": 1429.726,
+      "text": "And I think that that's I'm worried that not enough thought is going into that and the damage that can be done around tools being released before they're ready, um and also being released without accessibility in mind and accessibility diversity more generally. I I'm also worried about that point you made about choice. You know I like using ChatGPT. I'd be really upset if somebody turned it off tomorrow. I've got Copilot at work across all my apps but it's not the same Like I'd be really upset because I use this all the time. I like the fact that I can talk to something that's not human. I don't have to have that human interaction.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1430.027,
+      "endTime": 1439.433,
+      "text": "I don't have to, like get upset when someone doesn't understand what I'm talking about or misreads what I'm saying. You know, be forced into using technology when a human would",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1446.9,
+      "endTime": 1489.888,
+      "text": "better meet their needs. I think, if we think about things like we talked about sign language interpretation, if this becomes usable properly usable in the future, or even just more or less usable which I worry about more through AI tools, you know people being forced to use that in, say, a healthcare setting, when they'd much rather have someone they trust sat next to them. I know in a previous episode you talked about this right in terms of CEOs and their interpreters, they're going to trust the human more at this point. But I think this is even more of a problem when we think about people who have accessibility needs.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1490.689,
+      "endTime": 1530.47,
+      "text": "They, I think, should be prioritised in being able to choose, be autonomous, make their own choices about what works for them, and I worry that those kinds of things might be taken away. I'm also worried about the people that do those kinds of jobs, that do sign language interpretation, um, or the people that do. At the moment, lots of people are employed in doing kind of accessibility checks and things like this. Um, I said before, some of that could maybe be automated, and I think you know, if you're somebody working in a independently and you just wouldn't have access to any other way, using some kind of AI tool to help you do that makes sense.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1530.62,
+      "endTime": 1562.067,
+      "text": "But if you're a massive organization, I think you still need to be paying the people, because the people at the moment are the ones that are going to be the best at that, and I'm worried that we're going to just have a kind of this will do, because it's cheaper approach, which I don't think is very human centered there's a, there's a danger, isn't there, that with all this stuff, that that there's a kind of race to the bottom and because, you know, because ai tools or robots, even in nursing homes, in the future you can potentially see all these things.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1562.548,
+      "endTime": 1601.433,
+      "text": "If they're, if they're cheaper, then, um, like you say, it's kind of well, we'll set, we'll plump for that because it's cheaper and and therefore we can serve more people more easily. But it's not necessarily the best option and I can see a kind of potential to for a sad world where we're all being looked after by robots and actually what we want is a human touch or or certainly kind of the worst, you know, the, maybe the poorer parts of society, that kind of thing, people who don't have the money to access. You know, I guess in the future, maybe, people who don't have the money to access a human um interpreter or a human care assistant, they'll get a robot instead, um, which is a?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1601.813,
+      "endTime": 1634.749,
+      "text": "yeah, it's a worrying thought yeah, especially when we're thinking about sustainability. Right, if we're making sustainable futures, those should be equal futures with equal access to participation. If it's based on who can afford the best tool, and if the best tool is a human, I see that as a bit of a problem. It's something that we see in education already. You know the students that can access the more expensive tools versus the ones that can't.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1635.581,
+      "endTime": 1705.477,
+      "text": "Um, the ones who have a diagnosed disability versus the ones that don't, and the differences that that causes I was thinking we recently had obviously a massive kind of it outage and, yeah, my thoughts immediately came to ai in in two ways one in terms of like can AI be used to prevent this kind of thing? But also how. The more we rely on AI and I guess this is where the kind of boundary between tech and AI is kind of blurred but the more we rely on it, the more we are at risk. And I think, if you think about people who have accessibility needs that are absolutely essential and they're being you know they're using technology so let's say it's a robot, like jimmy says and then we have an outage and they lose that service completely, I think that's a a big risk here, because there are some things where you know, if it shuts down for a for a few hours or a day or a week or whatever it's, it's an inconvenience to you, but these are things where people's lives are depending on it and you know, again, it's more of a healthcare thing, I think, than necessarily accessibility, but I think it sort of still fits in here is this idea of you know being able to have people providing social care",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1713.14,
+      "endTime": 1748.165,
+      "text": "because AI does other things and allows people to do those jobs, or you have, like Jimmy says, the race to the bottom and the poorer people get the robots, and then the robots don't work and then they get nothing. I think that's a risk that this is really kind of. You know, these big outages. They really bear out that the more we rely on technology and the more these tools become part of our lives. It's great when they work, but what's the backup plan when they don't work? I think that's a risk and I think, in terms of this, you know, imposing it on people. The comparison that I have is like digital currencies and cash, you know, and there's a bit of a pushback, isn't there?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1748.667,
+      "endTime": 1776.632,
+      "text": "I mean less so, you know, less so in in china, where digital payments is basically you know 99 of payments, but there's a bit of a pushback, certainly in europe and in the us around this. I mean for very many different reasons. Some people believe that this is part of a, you know, a big plan to take over um with a digital currency. But even on a practical level, for, for people that don't have that opinion, you know, losing the ability to pay with cash and losing cash, there is a practical level for people that don't have that opinion, you know, losing the ability to pay with cash and losing cash.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1777.413,
+      "endTime": 1792.363,
+      "text": "There is a practical thing where, if the system doesn't work, you know you don't have anything to spend, and I think that's a kind of comparison point here. It feels like some of these things might end up being pushed on people and we need to make sure that there's still a choice for people where they want to have a human interaction.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1800.252,
+      "endTime": 1804.597,
+      "text": "One of the other things that I saw and I wonder your sort of view on this is privacy concerns",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1810.34,
+      "endTime": 1843.345,
+      "text": "and again, this is not specific here, but I think you know things like insurance and I guess a lot of this depends on you know your government and how much of an issue it is in your particular country. But most of this assistive technology is collecting, you know, sensitive personal data. Um, there's the potential for misuse. There's the potential for you know people who don't want their accessibility needs to be known by everybody, for it to be out there and to be able to, like I say, I think of sort of insurance and and whether you know certain things will potentially affect your ability to be insured or you know to be covered for certain things.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1843.385,
+      "endTime": 1845.671,
+      "text": "I mean, is that that a concern that you have as well?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1846.942,
+      "endTime": 1865.307,
+      "text": "I mean, yeah, it's a massive concern for me. I mean, I I work in a university, right? So I say that I use ChatGPT all the time, but I have to use it really, really carefully, because I'm not allowed to put student data in there. I have to anonymize everything before I copy and paste it in.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1868.651,
+      "endTime": 1915.613,
+      "text": "So it would be much better if I could use Copilot to do everything, but it just doesn't seem to behave properly because that's the institutional version that I can access. So I see this problem already and I think it's going to become more of a problem when more things are free. They're free because they're collecting data or using your data in some way, um, but again it's that thing where there'll be people who can do stuff and there'll be people that don't have access to the right technologies or to the funds to enable them to do it. So I feel like it will be a problem, but I think there'll be ways around it for those that can afford it, but I'm worried about those that don't.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 1916.54,
+      "endTime": 1940.591,
+      "text": "That's very generic, sorry, but I think it's the same answer. If it fits any context right around AI. It's particularly important when we're talking about disability or belonging to, say, the deaf community or something like that, but I think it's also. It's relevant to health care, is relevant to education, um, and all kinds of other contexts, isn't it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1941.373,
+      "endTime": 1982.831,
+      "text": "yeah, it is the same everywhere, but I think you you know you're right and it was what I was saying a few minutes ago was it's more important here, because people are potentially relying on things that they can't do without. I think that's that's the difference, and healthcare is similar, and there are other areas where it's essential, but I think it is slightly different here. There was just one last point I had on this area. So I was thinking about the big thing that I guess me and Jimmy talking about a lot recently is trust and deep fakes and disinformation and stuff, and I was thinking about how it's easy enough to create a fake video, but it's even easier to create a voiceover fake, which someone with a visual disability can, you know, be fooled much easier with.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1982.892,
+      "endTime": 2000.088,
+      "text": "And with things like computer vision, it's easy to tell you, for example, to cross that it's safe to cross the road when it isn't. There are things where I think you know people with disabilities or accessibility needs are more vulnerable because it's for for you to be hacked and it's basically you",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2015.82,
+      "endTime": 2040.435,
+      "text": "add this thing called an identity silo, which is, each time you're using something else, you're adding like a kind of new element to your identity, which is something that can be exploited, and I just think you know solving an accessibility problem. The fact is, as we solve that, we're potentially adding another identity silo and that is making someone who potentially not always, because it's not all accessibility needs are the same,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2044,
+      "endTime": 2058.808,
+      "text": "but someone who's potentially more vulnerable to begin with. We're making them more vulnerable because we're creating another kind of way for someone to manipulate, and it could be disinformation or it could be a fraudulent crime. I mean, there's different levels of it, but that's something where I think there's a risk as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 2059.68,
+      "endTime": 2060.764,
+      "text": "Do you know? There's something called.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2061.206,
+      "endTime": 2067.873,
+      "text": "Worm GPT, which is a hackbot service which is now available. What's that one?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2068.961,
+      "endTime": 2069.764,
+      "text": "Go ahead, Amy, sorry.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 2070.105,
+      "endTime": 2073.308,
+      "text": "No, no go. I want to know what's this Worm thing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2074,
+      "endTime": 2114.009,
+      "text": "Same question Worm GPpt is. It's the hack bot as a service. I haven't used it so I don't know, but it's basically. It's a, you know, an ai enabled hacking service that you can sign up to, and I don't know how it works. I mean, I didn't have enough time. It was literally this afternoon, when I was researching this episode, I found it, um, and I didn't have time to look into it. But the fact is, you know that's out there. As far as I understand it, it's not on the dark web. This is just freely available. So you know, who knows what's out there on the dark web? I'm sure there is, I'm sure there's something much more sinister than worm gpt, maybe human centipede GPT, something for everyone.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2115.191,
+      "endTime": 2121.823,
+      "text": "Maybe I'll look it up and then I'll put it into the interview and make it seem like I knew what I was talking about.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 2130.222,
+      "endTime": 2165.402,
+      "text": "I would like to see more legislation around what can be done with data so that, even when you're using tools that are free, you can use them and have a bit more confidence that your data isn't going to be compromised in some way or be used in ways that you? Um hadn't expected. Um, I think this is important for those of us using tools in some kind of assistive capacity, but I think it's just important in general yeah, I agree.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2165.583,
+      "endTime": 2206.512,
+      "text": "I agree with um. I agree with everything you're saying there, do you not? Do you not think, though, to a certain extent, I mean, I definitely think, with assistive tools, there needs to be maybe, maybe, regulation or intervention in that respect. But things like chat, gpt, I mean the, the, the kind of horses left the stable already, in a way, I mean and not just with things like chat, gpt, but google and a lot of internet companies business model is literally around your data and um. That's been known for a long time. Um, so I, I think, I think I totally agree with assistive models, but I also think, with tools like GPT and some of these other AI tools, they're always going to be about harvesting your data, so it's a bit of a tricky one",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2219.8,
+      "endTime": 2223.17,
+      "text": "so, amy, I I want to, before we sort of finish off, I wanted to get your more general views about artificial intelligence.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2223.19,
+      "endTime": 2252.144,
+      "text": "So I I think, from hearing what you've said so far, you're pretty optimistic and I think you know the uses that you yourself have found are. You know, it's really, it's really nice actually to hear that you know from someone who's using them in a really positive way and in ways that we hadn't really thought about, I think. But, you know, in terms of more existential threats or in terms of your you know your thoughts about how AI develops, I mean, you know where do you stand on the kind of utopia, dystopia?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 2253.186,
+      "endTime": 2300.446,
+      "text": "Yeah, I find it really difficult because I'm you know. I think the benefits are real and I hope that some of what I've said today can convince a few people that these tools will have some value, um, and that ai going forwards will also have some kind of value. But at the same time, I am super worried about the race for more, for faster, for better, without thinking about doing checks, testing, you know, making sure that things are looked at from as broader perspective as possible before they're released, and I don't see any limitations on that at the moment. I don't see anything coming along that's going to change that and I find that really worrying.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 2301.962,
+      "endTime": 2325.812,
+      "text": "So I'm very concerned about alignment and how we make sure that these tools are going to be supporting us as a human race going forward. So, despite my personal uses, I'm super happy about and I can see how this will benefit others, but I am really worried about where these go going forwards. I want more legislation.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2325.933,
+      "endTime": 2342.296,
+      "text": "I want people to be talking about this in election campaigns and this kind of thing, showing that other people, people with power, see that this is important, because at the moment I just don't get a sense that it is being considered nearly as much as it should be",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2349.685,
+      "endTime": 2396.674,
+      "text": "for example, that the labor party had been reaching out to a lot of experts, like ahead of the election in the uk, and had been doing quite a lot of work in the background, which is why it was such a surprise that the ai act did not make it into the king's speech, because I think there was a lot of work had gone on there. I think there's more like the problem at the moment, in the election cycle at the moment, is it just doesn't have the bandwidth because it's not far off, far enough up the agenda, um, but you're hearing stuff about it. Like you know, trump has has basically said he's going to cancel the joe biden's executive order, which, while that's potentially terrible news if you think there needs to be more regulation, what it does show is that it's an issue that's being looked at, because you know the very fact that they are making comments on a policy several months out from an election.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2397.805,
+      "endTime": 2450.507,
+      "text": "But yeah, I mean, I think anyone who listens to this podcast before knows where I stand on this. I think the problems for me are the regulation needs to be at the development of frontier models, not just on how you use the models, but you're right in terms terms of you know, the alignment problem is. Who knows if we'll be able to solve it, but I hope that in the next year or two. And I think what it needs to really hit people's attention is like if the you know, the it outage that happened recently with microsoft was down to ai and had even more of an impact. Or, you know, an aircraft's landing system is affected, not at this point a really, really big thing that causes massive, catastrophic harm, but something that people see and are like what that's because of AI, and it kind of raises that awareness because, you're right, at the moment it's just not, you know, it's not in the Overton window, is it?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2450.608,
+      "endTime": 2470.889,
+      "text": "And it's, it's getting closer, but but it's. It amazes me that it's not like number two or three in in people's, you know, in people's minds, but it's not. And that's what hopefully we can play a tiny, tiny part in, in kind of raising people's awareness through this podcast yeah, just following on from that, I mean I, I don't know like, this is not.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2471.431,
+      "endTime": 2493.073,
+      "text": "This is not me trying to sound conspiratorial, but but I do think it's kind of in these companies'interest that they're tools. To a certain extent, they're fun things to play with. At the moment that's how they feel. Even your chat GPTs and things like that, they're really smart. But a lot of people kind of have a go and they're like oh, isn't it cool, it can do this,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2498.72,
+      "endTime": 2530.607,
+      "text": "that and the other, it can have a chat, chat with you, and I think that's how a signal I mean I I don't see it like that. Like I use these things, I use these tools. Like amy said, I use them, um, in my work. I use them like at home all the time like um, and in aspects of my work, yeah, like. But I think, but I think a lot of people see them as kind of trinkets, like little playthings, and I don't think the and I think a lot of the stuff that's going on in the background, like kind of agentic models and some of the things that are actually going to start to take jobs, haven't really been acknowledged very widely, and that's probably why, in my opinion, that's why it's not higher up the agenda.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2531.24,
+      "endTime": 2532.462,
+      "text": "You are probably right.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2540.335,
+      "endTime": 2574.551,
+      "text": "So we tend to end on a kind of recommendation. I know you said earlier that you didn't want to recommend tools and stuff and that's absolutely fine. So, um, generally this is about ai, but it you know it doesn't need to be tools or apps if it's books, films, podcasts. Or you know, if you just want need to be tools or apps If it's books, films, podcasts. Or you know, if you just want to tell people to get outside and get away from AI, get high, join a cult, whatever you think could improve people's lives, just anything that you want to leave. Final remarks for our, our 2.3 million listeners. I think that we have now, for most episodes, we're slightly behind Joe Rogangan, but we're uh, we're ahead of.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2574.591,
+      "endTime": 2576.844,
+      "text": "The rest is politics um.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 2577.405,
+      "endTime": 2651.23,
+      "text": "Can I make two recommendations? One is a book um by ethan mollick you can make as many as you want okay, thanks. yeah, one's a book, uh, by ethan mollick called co-intelligence. It's got a longer title than that, but the first bit's co-intelligence um, which is just really good. Uh, I think it will help people understand how to use tools, um, how to use tools like, uh, gemini, chat, gbd, um, just help with that kind of conversational prompting um, but also kind of give people an overview of where that fits into society a bit. I would also recommend, as my second thing and this is a bit more general, but don't stigmatize people for using AI in some kind of assistive capacity the word lazy drives me up the wall, and that's because, like, I offload a load of tasks to tools like ChatGPT or Copilot, but I always check the output, and sometimes, you know, it takes me more time to do it that way, but it gives me a sense of like knowing that it's probably a bit better.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 2652.06,
+      "endTime": 2693.066,
+      "text": "Or often, though, it saves me time, and I think that that opportunity to like just get stuff done frees up loads of either real time or brain space to then go and do other stuff so I'm not late. You know, maybe I am lazy sometimes, but my use of tools like chat, gpt doesn't make me lazy, it just means I'm doing something a bit differently, and I think we need to be a bit careful of stigmatizing how people use these tools, saying that people are lazy when actually maybe they're just trying to accomplish something. So that would be my other recommendation is just be a bit careful of the lazy word yeah, absolutely.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2693.127,
+      "endTime": 2722.168,
+      "text": "It's a complete misunderstanding of of ai tools, I think for anyone who says that, and um, on ethan mullock point, for those of you that are interested on the our 10 recommendations, I didn't recommend his substack newsletter but he would have been the next one and he doesn't write that often. He tends to write only every couple of weeks. So if you're someone who doesn't like reading loads of stuff, ethan Mollick is is a really really good professor who um pitches things at a pretty understandable level.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Amy Aisha Brown",
+      "startTime": 2722.429,
+      "endTime": 2736.083,
+      "text": "So I haven't read his book actually, but I I will put it in my list definitely if you've read his other stuff, you probably don't need to read his book, I would say, because it's it's very similar, but it just puts it all into one place.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2737.086,
+      "endTime": 2781.948,
+      "text": "Quick read I was leaving a long pause for jimmy if he wanted to come in with anything. Okay, well, I think, uh, let's wrap this one up then. So thank you very much. I think that's one of the most positive episodes, even though I tried to get everyone to sort of dig deep into the weeds with the. Uh, the negatives and I think you're right, you know there are, there are things to be worried about, you know, over the kind of longer term and in the way these things are developed. But I think the examples of sort of practical tools that you've used and some of the things in development. I was like I'm so happy to hear this idea of of kind of sign language, because I think in both ways, but the idea of being able to generate sign language would be a an absolute kind of game changer.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2783.022,
+      "endTime": 2810.323,
+      "text": "So there's some really exciting stuff out there. So thank you very much, amy, aisha Brown, for joining us. So I guess we will leave it at that and if you enjoyed it, as always, click the subscribe button. If you didn't enjoy it, as always, click the subscribe button. If you didn't enjoy it, please click the subscribe button. Download all our episodes, just don't listen to them. At least then we get the stats. We're still only around 2 million downloads an episode. If we can get to 3 million and beat joe rogan, me and jimmy can sit around in our dressing gowns all day making podcasts and quit our jobs.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2810.844,
+      "endTime": 2831.065,
+      "text": "So please help support us to achieve our life goals. So we'll leave you, as always, with our song. This week, jimmy has given me the solo keys to the Suno studio, so I have composed a masterpiece for everyone. So enjoy and we will see you all next week. Same place, same time.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 2844.212,
+      "endTime": 2848.235,
+      "text": "It's all good, all good. A more accessible world is good for everybody.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 2855.043,
+      "endTime": 2881.199,
+      "text": "We all win. Reduce inequality, increase well-being, happy, mass productivity. But it doesn't fucking matter, because super intelligent AI is gonna kill you all anyway. What use is your accessible map then? Eh, build a digital god. Keep doom froom Game over. You suckers, yeah, bye-bye. Resolve thisroom game over. You suckers, yeah, bye-bye. It was all a simulation anyway. You, son of a fucks, yeah,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 2884.51,
+      "endTime": 2914.628,
+      "text": "ai's a divinity. Accessibility, sustainability, no more disability. My eyes, gay eyes. It's all good, all good. A more accessible world. It's good for everybody's. All good, all good. A more accessible world is good for everybody. We all win. Reduce inequality, increase well-being, happiness, but d-d-divity? But it doesn't fucking matter, because super intelligent AI is gonna kill you all anyway. What use is your accessible math and math. Build a digital god. Be doomed foom Game over. You suckers, bye, bye. It was all a simulation anyway. You stupid fucks.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 2948.331,
+      "endTime": 2948.891,
+      "text": "Ai is a divinity.",
+      "chapterIndex": 8
+    }
+  ]
+}

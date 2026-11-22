@@ -1,0 +1,1228 @@
+{
+  "slug": "s2-2024-07-10-degrees-of-deception-how-ai-will-disrupt-h",
+  "buzzsproutId": "15389511",
+  "title": "DEGREES OF DECEPTION: How AI will disrupt higher education forever with Edward Ning",
+  "date": "2024-07-10T06:00:00.000Z",
+  "season": 2,
+  "durationSec": 4617,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15389511-degrees-of-deception-how-ai-will-disrupt-higher-education-forever-with-edward-ning.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Discover how artificial intelligence is poised to disrupt higher education with ex-Baidu senior manager, tech-optimist and rooftop garder Edward Ning (check out the video links at the bottom of the show notes). Gain insights into the future of academia as we discuss cutting-edge applications like automated transcription services and advanced search engines that boost productivity and accessibility. Eddy's vast experience, spanning before the ChatGPT era of AI sheds light on the transformative potential of AI tools and their role in reshaping educational practices for the better. We explore fascinating real-world projects, including higher education using AI in collaboration with a university's railway transportation department to develop a subway camera image capture and analysis system. This project highlights how AI can enhance security and efficiency beyond human capabilities, but also hints at the sinister side of the AI led surveillance state. Together, we address the broader implications of AI integration, such as job displacement fears and evolving job roles, drawing parallels to recent technological advancements like cloud computing. From the student perspective, we emphasize the importance of critical thinking and problem-solving skills in the AI era. Hear why it's crucial for schools to teach not just the use of AI, but also the understanding of its principles. We reflect on the future of universities, the enduring value of face-to-face interactions, and ethical considerations. Join us for a thought-provoking discussion on how AI is set to shape the future of higher education and empower the next generation of learners. Eddy's rooftop garden series (CGTN): 'Oh! My Greens' Ep. 1: How to build a vibrant garden in Beijing? 'Oh! My Greens' Ep. 2: She creates an ecosystem with potted plants 'Oh! My Greens' Ep. 3: Grab the autumn in Beijing's hutong garden",
+  "summary": "Eddie Ning, a former AI industry professional turned jobseeker, joins for the first education episode on higher education. The conversation covers stealthy background AI like university subway-camera surveillance projects, whether universities survive the AI era, cheating versus tool use, and why both hosts think every student should be encouraged to use every AI tool available.",
+  "keyTalkingPoints": [
+    "Eddie's subway-camera project with a railway university trained models to spot temperature anomalies 24/7 — background AI most people never notice",
+    "Eddie's line: AI is a tool, humans rule — but students must embrace it, because graduates who fear AI will be worse off",
+    "The hosts test AI in their own workflows: Claude brainstorms episodes, Perplexity researches with linked papers, custom GPTs write Suno lyrics",
+    "Matt's housemate once pasted 500 extra words into his dissertation — essay mills existed before ChatGPT and their human writers have already been replaced",
+    "On universities: Matt asks whether teaching and research should be split apart; Jimmy sees research institutions surviving but vocational education expanding"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Background, stealthy AI is his real fear — the gradual erosion of jobs nobody notices until the security guard is gone",
+      "AI in education is a supplementary tool, not a teacher replacement; motivated learners win and lazy learners lose either way",
+      "Universities are research institutions as much as schools — but we could use far more vocational education",
+      "AI can enhance critical thinking when users interrogate its output instead of swallowing it"
+    ],
+    "matt": [
+      "Every student should be encouraged to use every AI tool they can get their hands on",
+      "AI can reduce teacher workload — marking and lesson planning are the front and back end nobody enjoys",
+      "The writing-as-thinking argument partly convinces him: the writing process is how many people think",
+      "The whole concept of higher education will change completely — hopefully toward richer, practical, face-to-face models"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-07-10-degrees-of-deception-how-ai-will-disrupt-h-1210.985-following-the-seven-year-technology-adoption-cyc",
+    "s2-2024-07-10-degrees-of-deception-how-ai-will-disrupt-h-2299.618-by-the-time-today-s-students-enter-work-every-wo"
+  ],
+  "speakers": [
+    "Matt",
+    "Edward Ning",
+    "Jimmy",
+    "Speaker 3"
+  ],
+  "chapterCount": 9,
+  "turnCount": 163,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Introducing Eddy Ning",
+      "startTime": 106
+    },
+    {
+      "title": "AI tools for higher education instiutions",
+      "startTime": 196
+    },
+    {
+      "title": "AI's effect on jobs in higher education",
+      "startTime": 1369
+    },
+    {
+      "title": "AI tools for students",
+      "startTime": 1930
+    },
+    {
+      "title": "The moral arguments around AI and education",
+      "startTime": 2652
+    },
+    {
+      "title": "Why do we even need university's anymore?",
+      "startTime": 3695
+    },
+    {
+      "title": "Eddy Ning's final thoughts on AI and education",
+      "startTime": 4259
+    },
+    {
+      "title": "Steady Eddy (Outro Track)",
+      "startTime": 4403
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 40.89,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes, and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. Smoking weed under star projectors I guess we'll never know what Harvard gets us, but seeing my family have it all took the place of that desire for diplomas on the wall. Welcome to Preparing for AI with me, jimmy Rhodes, and me, matt Cartwright. And this week we are back with an industry episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.971,
+      "endTime": 79.093,
+      "text": "We have Edward Ning with us and Eddie is going to introduce himself later, but I just want to start off by saying that we're going to look mainly at higher education today. So you know, as Eddie and I have both got kids, I imagine we may cross over from time to time into early years education, but I think it's important to make that distinction. This will probably be one of maybe two or three episodes around education, because it's one of those industries where we think probably there's the most interesting developments and possibly some of the biggest effects. But there are obviously different morals and developmental arguments for, you know, children in, for example, primary education than there are for higher education.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 79.153,
+      "endTime": 105.32,
+      "text": "So I don't think we're going to be so worried about development of brain function and developing those kind of necessary skills to exist as humans, but maybe we'll be thinking more about things like critical thinking and how we credibly assess academic performance in higher education. So let's start off by Eddie. Do you want to give a bit of an introduction to yourself and let our listeners know what your kind of role and your experience with artificial intelligence is?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 105.781,
+      "endTime": 139.714,
+      "text": "Okay, thank you, matt. Hi everybody, this is Edward. You can call me Eddie. I used to work in an AI company. I would say actually it was started as a search engine company. By the technology they start the AI part and I joined them generally for the AI products and services, the AI part, and I joined them generally for the AI products and services. So I have lots of customers I would say HEE customers I work with. So I do have some understanding and interesting stories about HEE featuring with AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 140.254,
+      "endTime": 148.6,
+      "text": "I think probably the first person that we've interviewed who has actually worked in the industry. So we've had people who've been using AI tools, but I think, eddie, you're the first person that we've interviewed who has actually worked in the industry.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 153.38,
+      "endTime": 191.714,
+      "text": "So we've had people who've been using AI tools, but I think, eddie, you're the first person who we've interviewed who's actually been working, and probably longer than others as well. I mean, you were working with AI before certainly before I got interested in it so I think maybe you're our most experienced interviewee so far. No pressure, oh, thank, you. I hope my content will be interesting for the listeners, so should we start off, I guess let's have a look at AI tools and uses in higher education. So whether that's uses that are happening now or that we think are coming in the future, I think before we get into any kind of moral arguments or we talk about some of the maybe more controversial uses I thought it was funny.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 191.8,
+      "endTime": 223.772,
+      "text": "Actually, I was brainstorming this episode and I asked Claude and your listeners will know that we are firmly fans of Anthropics. Claude is our generative AI tool and I asked it for just to brainstorm to me, the best five uses of AI generative AI for students and the first thing that Claude recommended was ChatGPT and it didn't recommend Claude, it only recommended ChatGPT. So you know, it's certainly independent, but I'm not sure I want Anthropic doing our marketing, but I digress a little bit.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 229.76,
+      "endTime": 231.103,
+      "text": "So, yeah, I mean your experience, eddie.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 231.163,
+      "endTime": 266.19,
+      "text": "I I mean what are the tools that you've seen that have already kind of been put in place in in higher education? Well, I started, uh, promoting ai to he since like three, four years ago, just pretty much right after kovat happened. So, uh, at the moment I think lots of applications are rather basic because lots of people work from home and couldn't go to the office. They have online meetings and couldn't really write down lots of things. People start to sleep in their mind. So there will be systems like automatically write down the contents you speak and translate into different languages and form a report.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 266.841,
+      "endTime": 316.408,
+      "text": "Lots of people will say that that's something like we call the conference recording software systems. Yeah, that's considered as AI because it's working automatically, as I've introduced technology to lots of clients before. For example, if you use search engine to search weather, in most cases it's not like you want to know the meaning of weather. You want to know what's the forecast of local weather. In an old stage, when you search weather, it gives you the meaning of the weather and the website featuring with the weather definitions and other things. But now, if you search weather in google or other platforms, you get the forecast of your local area because they know where you are based on your ip and how many days and what kind of using you.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 316.749,
+      "endTime": 365.955,
+      "text": "You use a habit to give you the forecast you feel like. It's so smart, they understand you just because they train their model according to your behavior. So, uh, that's the thing that lots of he like education industry started with. But coming back to the gpt thing, actually it started like, I think, two years, a bit more than two years thing. It's also about the big models they trained based on their data. So you will find it rather easy to write something or design a graph or write a marketing plan. But I have to say this thing can give you the initial shot but for the actual application purpose is rather a little bit grand.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 366.68,
+      "endTime": 404.25,
+      "text": "It's very difficult to land on any actual purpose and very hard to assess how much improvement you have got based on these things. It's a little bit abstract. I'm talking about this because that's what people give you the shock as an advertisement for GPT Like. Now you used to feel like two, three months to design a picture. Now you give the top topic and they give you the result in two minutes. Yeah, but the result may not be the one you really want to see, and you can see lots of flaws in it, like looking very abnormal, very unnatural in these pictures, unnatural in these pictures. So that's the thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 404.37,
+      "endTime": 456.992,
+      "text": "Actually, the doctors I mean the researchers, the students they avoid it and it's very easy to identify something done with AI or something done with humans and people feel very uncomfortable to see things coming out from AI. You feel it's not natural at all. So still, you still need to specify what kind of AI technology you put into your projects and have the result feel like it's still for the human environment. So, yeah, I think I've expanded a little bit too widely. So, generally, we'll start using the AI for basic purpose. But the further one would be, even though you use some quite high level like driverless technology, they have the kind of shuttle bus on campus without any drivers inside.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 458.14,
+      "endTime": 470.225,
+      "text": "The purpose of using that is still just taking people around, nothing to do with make your life so advanced, and you can close your eyes and go anywhere you want to. It's not like that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 470.305,
+      "endTime": 507.352,
+      "text": "So, yeah, I think uh, that's the first stage, like I've been working with uh in this education industry just to um, just to go back a little bit, like you said earlier on, I mean, you've you've been obviously like working in the industry for four years, before gpt was even a big thing. So what kind of things were you looking at, you know, three, four years ago, you? You spoke there a little bit about how ai is already, maybe ai is already in the background in quite a lot of these applications like google and things like that, that where we weren't aware of it, whereas gpt has kind of brought it into the limelight a little bit.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 507.893,
+      "endTime": 512.071,
+      "text": "Would you just, if we go back three or four years, what kind of ai applications were you looking at then?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 513.054,
+      "endTime": 561.591,
+      "text": "um, I think three, four years ago, uh, people didn't really mention ai that much. They just uh think things start to improve a little bit and put that into AI categories, Just like what I said the weather, Actually, the technology of search engine and getting the result developed over 10 years ago. I do find out recently, if you search a location on Google, a link to a Google map about where it is and the guides and the rate of the place and how nice it is and the traffic situation. It's all linked. They give you the information right away. So I think later on people understand lots of things, like people just give it a name of AI, but it's there the whole time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 562.18,
+      "endTime": 612.13,
+      "text": "And it's also all about other levels of integration. You put all those things together, make you feel like they are very smart. They give you more than expected. This is what I feel about Still today. They give you the result beyond your imagination. Like GPT, they write articles. I've been applying for jobs recently and I used GPT to write statements like cover letters. It sounds ground, beautiful with beautiful words, complicated English words, and it sounds ridiculous actually. So it's like an integration of beautiful big literatures that work together. It's not right, but still it's overwhelming people's understanding about technology.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 612.311,
+      "endTime": 620.129,
+      "text": "That's the thing I think people really need to calm down. This kind of thing existed before. You just never gave it a name.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 621.011,
+      "endTime": 675.7,
+      "text": "Now it's been greeted a bit too much and you start to feel a bit too much and you started feeling a bit overwhelmed apparently one of the ways you can tell whether something was written by chat gpt is that they use the word delve all the time. So if you look through a document or, and you find the word delve in there, then it's probably been and this is specifically chat gpt. So this is not necessarily about generative ai. This is chat gpt specifically, but you can search for it and it's a way to tell. I mean, I completely agree with you, I think in terms of the way that you know it's been used to date in higher education, it's kind of the same as anywhere, because we've said a number of times how the line between technology and AI is quite often blurred and things that people think are AI are not actually AI and things that people don't think about as AI that they've had for years are actually already artificial intelligence.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 676.421,
+      "endTime": 721.27,
+      "text": "I was thinking things like Turnitin, the tools and Grammarly tools that people have been using for many years now. They're detecting plagiarism and AI-gener it's it's using ai to do that in some way. I mean, I won't necessarily talk about now. I think it's more of a frustration from a student point of view, but I've, you know, I've been studying a master's part-time and I've got several frustrations about the way in which institutions are not using AI actually and are not embracing it, but I think we'll maybe leave that one until the next section and stick to the tools. I wondered if there were any specific things that you've worked with, like specific tools that are specifically for higher education or that have really been.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 721.691,
+      "endTime": 726.732,
+      "text": "You know, the uptake in higher education has been more than elsewhere. Is there any particular examples that you've got?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 727.381,
+      "endTime": 785.906,
+      "text": "When I worked with higher education, I worked with the professors and they have students like doing a master and PhD degrees. They would work on the projects themselves too. So I did have one, I think, one of quite significant project featuring with AI products services, which is about the subway camera image capture and analysis system. So when I started working with them, the first impression of that is haven't we done this before? We haven't done this. Definitely, the cameras everywhere. It's correct, but they want to make it more advanced and more secured and there will always be staff there watching the screens of the camera.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 785.946,
+      "endTime": 865.848,
+      "text": "They get tired, they turn around and use the toilet and they can't spot some really critical moments. So that's the moment that AI can step in and work instead of just a human being, and it can totally be 24 hours, seven days. So there will be something. For example, the AI analysis can identify the temperature change in some corner before you can realize there's actually a fire. You can see it, but we can't see it in the very beginning. But the AI analysis can identify by the little bit change of the heat and the image to tell and give warning that is temperature change, and they will train models for certain things people wear on the head or body and give warnings if people wearing something they don't want they feel like there could be some potential issues and abnormal gathering and casting aside like running off and some little abnormal body language sometimes will be difficult for people just staring at the camera I mean the screen to identify.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 866.84,
+      "endTime": 915.491,
+      "text": "So these are the things we've been listening to the professors'requirements, training, different models and in the end, they did use this actually quite big AI technology and the model AI technology and the model and we helped with promoting these projects based on the AI technology. They also helped the institute attract investment and they win some prizes based on this project. They've done so. It has got some interesting business purpose too. Win some model prizes based on this project. They've done so. It has got some interesting business purpose too. So I do think this is the thing we can use AI as an improvement tool,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 919.642,
+      "endTime": 927.691,
+      "text": "but it's not going to really replace people because you design how to use it properly. It's not telling you how they want you to work with them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 928.86,
+      "endTime": 944.525,
+      "text": "Yeah, I mean. So what you're talking about there? You're talking about security cameras monitoring people and automatic monitoring. I mean that sounds pretty big brother. Was this like a project? Like a project in the university or in the higher education?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 946.92,
+      "endTime": 977.306,
+      "text": "like a project at the, at the, in the university or in the higher education. Uh, it's a project of the, the subway, like how to say, the main subway subway company. But they make the university of the college of, uh, the railway transportations and the research is actually one major in the university. I'm not going to really mention the place. So the university is actually doing the project for the company. The company is, of course, state-owned, it's not a private company.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 978.782,
+      "endTime": 997.247,
+      "text": "Yeah, and these are the kinds of things where I think, as opposed to things we've talked about in the past because we talk quite a lot about large language models and what people can do and how people can start to use these tools and things like that this is more something that kind of goes on in the background. Right, that's just where ai is becoming integrated into society.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 998.069,
+      "endTime": 1016.931,
+      "text": "And, yeah, we don't know, but we don't need to be aware of it in a way we, we don't know, I know we sometimes, uh, I think in lots of cases that make our lives a bit more convenient. And when we get to more convenient lifestyle we don't want to go back to the fussy style. So we, we don't feel like like that at all.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1017.072,
+      "endTime": 1052.164,
+      "text": "It's quite smooth yeah, and I think I mean, um, I think this is where you know we mean we talk quite a lot about how people can prepare and all the rest of it. This is kind of my fear with it. I know you said it's not going to replace jobs, but we've we've talked about it before. Is is kind of like the stealthy erosion of of jobs, because I mean, in the example you talked about right, there's a potential impact on jobs there, because how, how long do you use that ai system that you were talking about, or an ai system like that, before you just say, well, do we need someone to watch the, to monitor the monitor anymore?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1052.665,
+      "endTime": 1055.152,
+      "text": "Do we need a security guard? Do we need someone there?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1056.663,
+      "endTime": 1067.892,
+      "text": "very good question. I think it's matters of people uh improve and uh evolve their own jobs, other than they will lose their jobs. Yes, even though the AI is doing everything,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1071,
+      "endTime": 1119.843,
+      "text": "but in the end, the AI identifies something and still needs to inform people to make the final decision what is the action you need to take. So there still need to be people there, but you need to manage the AI system and make them give you the right, accurate reaction and you identify what to do. This really very much made me remember the cloud computing back to a few years ago, because I was working in Oracle. I can talk about that publicly. I was working in Oracle and that was 2010, 2011, 2011-something. That was 2010, 2011, 2011 something. Cloud computing started to be like a new technology evolving and promoting the market, and lots of people didn't, I think, still cannot fully understand what is cloud and lots of people worry about if it's safe or not.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1119.863,
+      "endTime": 1163.933,
+      "text": "If you use cloud, it means we don't need to buy server machines locally. We don't need people to maintain the software and hardware. We just put everything onto cloud and they lose their jobs, and security is a huge issue. That can steal the data from other server machines, but the thing is there will be lots of solutions to solve the problems people customers worry about, and people who used to do the local maintenance will help with the cloud management and they evolve their jobs. They change their jobs according to the requirement. But nowadays cloud is somewhere, everywhere, and we are using it every single day,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1169.16,
+      "endTime": 1179.749,
+      "text": "and I've seen most of the customers have pretty much stopped using their local computing centers or server machines. It's too expensive, too fragile to run.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1181.083,
+      "endTime": 1210.884,
+      "text": "They say it takes seven years, don't they? For a kind of technology cycle? It takes seven years, from't they for a? For a kind of technology cycle, it takes seven years from from the start to kind of full adoption. And cloud computing, apparently, was exactly that 2010 by 2017. It was just kind of without anyone even knowing it, it was just completely, you know, widely adopted. And I think that's the argument is that ai will be similar. I think. I think it's a good in the example you've given, it's a good comparison. I don't think the two are comparable as technologies in terms of, obviously, the impact that they'll have.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1210.985,
+      "endTime": 1228.494,
+      "text": "You know, ai is not going to, it's not going to stop after seven years, but it does make sense. You know, if we look at what would that be? 2022, let's say 2029, we'd expect ai to have been completely integrated everywhere and for us to have adopted it without necessarily even thinking about it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1229.781,
+      "endTime": 1260.535,
+      "text": "I really can't predict the timeline for that because lots of people are still not using cloud today, but somehow it will be part of your life. Maybe some part of the technology of AI can develop into the level that you never expect, and some part may never really grow. You never know. I think just for convenience level, our daily, simple use application of AI, I think it will grow quite fast.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1269.72,
+      "endTime": 1280.96,
+      "text": "Fast If you already know. For example, if you open your phones to get onto any online shopping apps, they will recommend you lots of things. You find out that they're the things you've been looking for recently. How come they know it? They started your behavior.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1282.992,
+      "endTime": 1284.801,
+      "text": "Don't get me started on the algorithm they started.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1284.821,
+      "endTime": 1289.171,
+      "text": "you don't get me started on the algorithm. Don't get me started on the algorithm. I know, and sometimes your phone listens to your conversation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1289.231,
+      "endTime": 1323.147,
+      "text": "So, even though you didn't search anything, you're just speaking and when you open the phone it's it's recommending on your platforms and I think it looks so smart, right, but people don't I mean a lot of people, I'm not saying necessarily people listening to this, but don't realize. Realize this that if you've got that with you, then whatever you're saying, you've got to expect it's being listened to. I mean, I was actually this is another example you know, I was looking at something on my phone and then recommendations were coming up on my computer. Now I have an Apple phone and I have an Apple iPad, but I have a Windows computer and I have an Apple iPad but I have a Windows computer.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1323.668,
+      "endTime": 1350.375,
+      "text": "So, even though I'm on different operating systems, because I've got things like WeChat that is basically reading everything that I type at any point and it's synced with an account, you know, and my Apple account is synced across my Windows computer. My, you know, everything is. It's almost impossible, and the only way you can really say something in private is leave all your IT at home and go and stand in the middle of the forest. That's the only way in which you're having a conversation that's not being listened to by something.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1353.707,
+      "endTime": 1356.097,
+      "text": "Not necessarily someone, but something.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1359.96,
+      "endTime": 1365.307,
+      "text": "So these are all considered as AI and they will be there and just somehow relax about it,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1368.53,
+      "endTime": 1371.454,
+      "text": "should we, before we move on from from this kind of section?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1372.054,
+      "endTime": 1407.396,
+      "text": "because I mean, you, you've said you don't think there'll be a a huge or not necessarily huge effect on jobs. But you, you know, you think that ai won't replace people. But let's work on the basis for a moment that it will, and I think you know me and Jimmy definitely come from a side. I think that think there will be an impact, a pretty big impact. I think you know I have definitely in the last few weeks started to think that some of the hype around how quickly some of these impacts will take place is a bit overblown. But I think, you know, medium to long term there will be huge replacement and displacement across industries.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1407.456,
+      "endTime": 1448.15,
+      "text": "I think education is one that it will affect. But I was thinking, is there an argument? A lot like healthcare, because you know we're starting to see the absence of teachers in schools, at least across certainly most of the countries in which I have, you know, have an interest or have monitored. Now I've been pretty clear before that I think long-term chronic health effects of basically unmitigated spread of COVID infections means it's not going to get any better anytime soon. You're seeing a lot of people coming out of the workforce on long-term sick and the highest proportion of those people are in two sectors One's healthcare, one's education, because teachers are around kids all day.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1448.78,
+      "endTime": 1485.853,
+      "text": "So we were thinking this about healthcare Could AI potentially be a real help for people working in education industry because it can reduce the burden for them? So if you're a teacher and a lecturer professor and you like teaching and interacting with people, things like marking, you know, if you're a teacher and a lecturer professor and you like teaching and interacting with people, you know things like marking, lesson planning, all the admin that you've been complaining for years that you need to do. It increases, even if it's not necessarily teaching. It increases your ability to have to face-to-face time with people, and that's where people in education, whether that be higher education or in school, have the most impact.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1486.38,
+      "endTime": 1518.984,
+      "text": "So, you know, I think perhaps some of the advances that we're seeing now and we'll see over the next few years, while they're going to have an effect on that industry and they're maybe going to replace jobs, actually what they could do is reduce the burden on the people working there and free them up to do the things that they really want to do, and that is argument that you know the the optimists have around ai augmenting the skills of people I, I still don't believe it's going to, you know, uh, reduce the chance, but it's going to increase the uh, the interesting levels of education.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1520.186,
+      "endTime": 1580.722,
+      "text": "And it really matters of who is organizing it, who is designing and planning this kind of involvement AI in higher education or just education generally. If you use AI as one of the tools, you need to make students accept it, embrace it and use it as a tool, and then you don't lose the job because you're still in control. But if you expect AI to teach instead of people, it's a little bit. First impression for me was like students will feel like they are not treated fairly. They still want people to face people, because we can't escape the part of you know, we are social animals. We can't just use a tool for each other's and um, and I don't think any students will be really focusing on learning, even though the teacher standing in front.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1580.742,
+      "endTime": 1629.549,
+      "text": "Lots of students will be sleeping at the back anyway, and if you use AI, this is the full reason for them to just forget about it. And people have even been thinking, discussing, that if they did invent this kind of AI chip, they put in and you learn everything immediately. You don't even need to go to school. I don't know. I don't know. I'm not expecting this kind of thing will happen in a short time. And I think the genius part of education is not only about the knowledge you learn, because knowledge is evolving all the time. What you learn actually from uni or from schools are the basic foundations and train you how to think about things, design and plan things in the proper way.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1630.44,
+      "endTime": 1663.194,
+      "text": "I think the genius of school education is about how you can learn about learning each other, socially, with people, and manage things with control. If you don't go to schools, go out to see that, I don't think you'll be able to really manage it. So that's the thing people about. Post-covid, lots of kids been studying from home for many years. We don't know what's coming to them or what it's going to be like in future. So using AI is not an excuse to be lazy and they still need to plan it properly,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1666.6,
+      "endTime": 1681.99,
+      "text": "to be lazy, and they still need to plan it properly, and ai is. I still don't think some people would have a myth of understanding ai as they have their own thinking. Be so smart, they know what to tell people they don't know. There's all the models. People train them so they'd be. They show up like that yeah, so it's not like uh, yeah, it's, it's. It's not like they.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1682.131,
+      "endTime": 1724.311,
+      "text": "They have already known what they need to do you make a lot of um, you make a lot of really good points. I mean what I would say? I mean, I'll be honest, I'm someone who's curious and I'm someone who's always interested and I take your point like not everyone, certainly not all students are in that same category, necessarily. But I just find like AI fascinating in terms of it's like another place where you can get information, and I agree it's also, I mean, if we're talking about large language models, just to bring it back to that like if it's kind of crap in, crap out, if you, if you, if you just say, tell me a story, it'll tell you a story, but it won't be very interesting If you give it some really specific parameters, if you're, if you're like, have a bit of imagination with it, I feel like you get much more out of it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1725.092,
+      "endTime": 1759.433,
+      "text": "So it's not, it is just a tool in that sense, I guess. I guess, just to sort of come back to the point like I think what the point Matt was making is, like you know, like, for example, you've got a classroom full of kids, you've got 30 kids in your classroom. There's a lot of different ability levels, whatever subject it is you're teaching let's say you're teaching geography. There's going to be kids who are really good at geography or adults who are really good at geography, and on the other end there's going to be people who are not that interested or find it much more difficult, find the concepts harder to understand.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1760.94,
+      "endTime": 1797.021,
+      "text": "Personally, I feel like that's something where if I'd had AI when I was a kid the subjects that I'd found more difficult I could, you could use AI to kind of leverage that and the same at the other end of the spectrum, right, cause the teacher's probably teaching in the middle somewhere. But at the other end of the spectrum you've got kids who are like real high achievers in, you know, in a particular subject. Whatever you can, you could kind of you, you know, give them ai to stretch them a little bit, in the same way, like the internet has done the same thing with information, um. So it feels like there is a place for it, not necessarily like let's replace teachers and just sit you in front of an ai.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1797.342,
+      "endTime": 1803.908,
+      "text": "Same way you wouldn't just sit someone in front of you in front of youtube videos and go learn, you know, learn science from which you can do,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1807.4,
+      "endTime": 1810.532,
+      "text": "but surely it's got to be like a supplementary tool, yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1811.697,
+      "endTime": 1858.559,
+      "text": "I agree with that. Yeah, a supplementary tool. And yeah, you are ruling. Human beings are ruling. These are the tools designed. I think it's also a matter of some people's way of promoting AI and in the name of AI artificial intelligence they just want to make it sound impressive. Of course, I haven't witnessed any higher level ai yet, and lots of big uh masters and researchers they say now ai is still in a very, very initial stage. It will develop into a higher stage and then, um, it can make even further automatic uh actions based on something from human beings, and it can be quite scary in the future.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1859.221,
+      "endTime": 1874.821,
+      "text": "It can be. It can be so, I think, just like cloud, when you store your data on the server machine, not in your country, it's rather easy for people to be in the other country and steal the data.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1881.915,
+      "endTime": 1909.123,
+      "text": "So people have the solutions of data protection and the legal laws to protect data and how to use and the tracking systems and audit systems. I think things like that will go along with AI too. And lots of fake news on the internet, like saying that some people feel scared about AI, saying that they stop AI because it's scary. I don't know. Mostly it's because of funding issues.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1909.855,
+      "endTime": 1918.476,
+      "text": "We keep getting optimists on the show, don't we? I know If you want to say about fear of AI, then you can listen back to some of our old episodes.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1926.886,
+      "endTime": 1967.699,
+      "text": "I think, um, that there was the perfect segue or I missed it actually from both of you into talking about students rather than, rather than, about the institutions themselves. So I think let's have a look at at, you know, uses that we think, uh, the kind of most beneficial uses of ai for students and I can come in with some here because, as I said to you know, I've been a student myself for quite a while now, for for sort of two or three years, I found some frustration actually, not with the tool so much, but with the, the way in which institutions have not kind of embraced letting students use ai.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1968.44,
+      "endTime": 1977.347,
+      "text": "So, um, I will maybe follow up with that, but I mean, maybe let's start with some positives on on some uses or tools for students to use AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1978.275,
+      "endTime": 1981.141,
+      "text": "I mean, it can do your homework for you. So what else do you need?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 1981.775,
+      "endTime": 2023.065,
+      "text": "I think, schools definitely need to encourage students to use AI, because I have children and they've been doing maths recently. I've noticed one thing. I've been talking to them the whole time. I wouldn't really ask them to do a practice of calculations like what I used to do when I was little, like give them a hundred calculations to practice every single day. Because you have calculators or phones, you don't need to do that. But I want them to understand what's the logical principles behind those calculations, how it it works. So you can use the calculator to give you the right answer, but I don't want you to understand.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2023.125,
+      "endTime": 2067.902,
+      "text": "So in future, when you have something, you know how to design it and use these things as tools. So nowadays it is yeah, it will be. A lot of students will use calculators to get answers and copy it onto the answers. But I think this is also matters of parents or the teachers and to guide students properly, saying that you know we don't want you to do this kind of mechanism machine like actions, practice 100 questions a day. I want you to know, like column, addition, these kind of things, understand how it works. So for AI, yeah, it's very easy, very, very easy to use AI to write an article for you, even though before AI, long before it appeared when I was in uni.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2068.282,
+      "endTime": 2110.426,
+      "text": "Sometimes for some not really not important subjects, I would go onto the internet and download it ready there article subjects I would go onto the internet and download and read their article, sometimes even without changing much of it. It just put it back in and then I would copy it with my hands writing and that would be it. And it's not like something completely new. Even if students want to copy, they want to copy, but still you really need to have the right teachers to guide. You can use that as a tool to innovate a future technology, to innovate a future solution, other than become a reason for you to be lazy, because if you're lazy, life will be lazy for you too.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2111.315,
+      "endTime": 2150.22,
+      "text": "One of my housemates at university. He might not thank me for this, but he did that and copied and pasted a massive section into his dissertation and luckily he asked us to read it for him and we found out that he'd copied and pasted it, but he'd forgot to not copy and paste the next, like 500 words as well. So they just copied in like an entire, like sections of a book, and it had gone onto a completely different subject. It also made me think of. I used to know somebody who an american guy in china and he was he was getting about four thousand, five thousand dollars a month no more than that, five and a half thousand dollars a month to basically write people's homework for them.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2150.922,
+      "endTime": 2165.323,
+      "text": "Um, and that was a common thing. You know, people just writing people's homework and assignments for them, and he's doing pretty well. Like I say, he was getting a reasonable salary for it. His job has been replaced by AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2165.383,
+      "endTime": 2166.286,
+      "text": "Replaced by AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2167.539,
+      "endTime": 2199.392,
+      "text": "Yeah, yeah, yeah, for sure. I think you made some really good points there, eddie, some really good points there, eddie, and you made a point earlier on that, like going to like education should be, and mostly is, about critical thinking skills, not not the specific thing you're doing, but how do you find out how to do it. And I feel like that is in the age of information like, which is 20 years now. You know, we've had the internet for a very long time. Um, and you're right, like ai is just another tool that's similar to the internet. You've been able to do this before. It's just more. It was just more difficult.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2199.693,
+      "endTime": 2228.563,
+      "text": "Like before, you had to go on Google, you had to find all the sources. You had to like piece it all together from different places. Ai just kind of you know, you say I need to write some homework on this and it'll just do it, it'll just bang it out for you and it has all the sources and it can it for you and it has all the sources and it can. It's a bit smarter, it can pull all that information together. But as someone who has someone who works and does a bit of development work and coding and all the rest of it. That is a life skill. That's what we should be teaching people. I think, like you know, that is exactly what you do, is it's it's.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2228.764,
+      "endTime": 2248.166,
+      "text": "You know you need to figure out the answer to this problem. How do you go away and find out all the bits and pieces you need to put together and understand enough of it so that you can explain it and demonstrate that you understand it? But not necessarily memorizing things and learning to add numbers up and things like that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2249.015,
+      "endTime": 2276.892,
+      "text": "That's not really what education should be about, absolutely not, and AI is also the models trained based on people's work before. If people stop creating innovation, the AI will stay in the same pool like that forever and even easier to identify something is done by AI or not.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2285.656,
+      "endTime": 2298.465,
+      "text": "So I think it's a critical moment that we need to have the right teachers to design things. Do not avoid AI. Embrace it, use it, understand it and innovate more based on that. Not just because AI can replace people. That's nonsense.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2299.618,
+      "endTime": 2335.953,
+      "text": "Ai is the thing based on the work people have done before yeah, and and assuming you're correct with that like, uh, you know, a really good argument for using ai in education is ai might, ai may or may not replace jobs. But if it doesn't, you know, doesn't everyone's going to be using AI at work. By the time people are growing up now, by the time they start their jobs, all workplaces, I'm sure, are going to be using AI. So you need to understand how to use it and be prepared to go into a workforce where you're going to be using it day in, day out yeah, totally, we'll make lots of jobs disappear, that's something for sure to a workforce where you know you're going to be using it day in, day out?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2335.973,
+      "endTime": 2340.587,
+      "text": "yeah, totally would will make some, make lots of jobs disappear, that's something for sure.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2341.016,
+      "endTime": 2344.566,
+      "text": "But it will create lots of new jobs you never know for sure",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2353.405,
+      "endTime": 2390.622,
+      "text": "I've got a list of of, I think, sort of AI uses for higher education students and these are all things that I think are uncontroversial. But these are things where you know I would say it would be stupid not to encourage people to do it. So one of them would be you know, if you're writing an essay or you know planning an assignment, that you use it for kind of brainstorming and Jimmy's talked about doing this. You know we do it, for episodes is use it when you're stuck to get something down to, to organize thoughts, generate some ideas. You know, create a kind of outline and just look at what the what it's going to look like and give yourself something to start with Right.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2390.795,
+      "endTime": 2431.279,
+      "text": "Second one is um, helping you with research and summarization. You know. So, for example, if you're writing a report and you need an executive summary, I would say using generative AI to create your executive summary would absolutely be the right way to do it. So you're not going to get it to write your report, but why would you do an exec summary when you can just get it to summarize that for you? Another one is obviously language and translation. So you know you can instantly translate things. Now, it's not necessarily a hundred percent AI, although I think it. It probably is one of those uses where you know AI has has existed and we did an episode on translation, but AI has probably existed for a long time on.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2431.5,
+      "endTime": 2468.405,
+      "text": "On translation, but you know, if you not only when you're generating stuff, it would allow you to translate it and get your, your reports out to more people, but actually it gives you access to a lot more information. So if you're researching journals and reports and and you know papers well if you're writing something, there's no reason you can't look up a Chinese paper now, whereas unless you could read or speak Chinese previously, you could not do that. So it empowers you to be able to get resources in different languages that you wouldn't be able to before. I think another really good one is personalized kind of study guides, so you know when you're going to plan, say, a module.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2468.506,
+      "endTime": 2504.307,
+      "text": "We talk about higher education. A module is actually getting it to help you to plan your study. So you know what kind of material you look at, doing it in a way that works for the way that you learn. So if you're a visual learner, you know you can tell a large language model. I'm a visual learner. I like stuff in this kind of format Summarize a plan, you know, put together a plan, summarize information that I could look at. I think that's a really good way. And the final one, which it doesn't apply to everybody but you know code generation and and you know anything about identifying, debugging, understanding, you know program concepts, identifying errors and stuff like that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2504.95,
+      "endTime": 2542.456,
+      "text": "I said it's something that I've used it for recently, having never used our code before. You know you, you, you need to understand how the code works and you need to understand the uses for it. But once you get going, you know, once you know what you want, you can then ask to create the code for you and it means you're, you know you're not having to learn a new code every time you find out. You know you don't have to learn Python and R and Panda. You can use different types of code to do the tasks that they're designed for, as long as you have an understanding of the concepts for it. So I think those are, you know, examples for me of how students should be using it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2542.496,
+      "endTime": 2583.928,
+      "text": "And I just want one more thing, just because I started using it for the first time in the last week or two, but so, but uh, perplexity, ai, I don't know how many of you you, whether you guys, use it, but it's the first time I actually bothered to get around to using it. And it's fantastic if you're researching stuff, because when you ask a question to Perplexity, as soon as it answers it it shows you at the top a link, a clickable link, to all the resources it's got that information. For I found a lot with ChatGPT not so much with Claude, but with ChatGPT that it would hallucinate references. It wasn't necessarily that it didn't exist, but the reference it gave you was not a link to the right article.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2584.095,
+      "endTime": 2612.426,
+      "text": "That article didn't exist, so it was a broken link. Perplexity shows you at the top. I asked it today just before I came on a couple of questions. One was an academic one about show me something with academic papers. It answered the question and summarized it all but then linked all the papers. Then I just asked it who was the best ever UK prime minister? Just a stupid question that it couldn't answer and it told me I can't answer it. But here's some ideas for who people might think is. And again, at the top it lists four or five references that you can click on.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2617.435,
+      "endTime": 2636.119,
+      "text": "So if you're a student and you're, you know you're wanting to ask questions and see what the resources are. I'm not sure it necessarily replaces things like google scholar yet in terms of the amount of stuff that it's looking at, but in terms of using a kind of search functionality that shows you the sources that information and gives you academic stuff, perplexity is really really good for doing that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2637.021,
+      "endTime": 2639.387,
+      "text": "That's a very good point. I strongly agree with that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2653.711,
+      "endTime": 2684.29,
+      "text": "It can definitely be convenient to your work and life. Should we get on to the sort of moral arguments? Because I think this is probably the most interesting thing for me about the use of AI in education. I mean, should we be accepting and teaching AI skills or do we need students to have their own brains to study? I think, eddie, you've kind of touched on a lot of this stuff already and I think I know where you stand on this. My approach here is that you know, know, we're talking about higher education level here, so we're talking about universities and colleges. We're not talking about the first few years of, you know, children's lives.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2685.113,
+      "endTime": 2720.221,
+      "text": "Higher education should be about teaching the skills to perform the best in the real world, right? So for almost everything that's not just going to include, but it is going to require the optimal use of AI tools. So otherwise you're just teaching people to be behind the curve of what they're going to need when they graduate. I mean, if you're in the first year of a bachelor program now and you're being taught to do something and I'm not saying everything should be using AI but you're not being taught and thinking about where AI could be used in that field or in that area or how you could be using it now.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2720.663,
+      "endTime": 2754.547,
+      "text": "When you graduate, you're not going to be ready because AI will be in use in those areas. So that's kind of my. There is a moral argument, like I say, around how much we teach and how much we still need to teach people. I think that moral argument is very different when we come to talking about primary education and maybe even secondary education, but in a higher education context, I think it should all be about being completely realistic about what are the things that people need to be taught, and in almost every course I can think of, there would need to be a strong element of artificial intelligence in that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2755.316,
+      "endTime": 2797.648,
+      "text": "I've said my opinion to us about that. Yeah, I think schools all need to embrace, need to accept the ai and give students the necessary ai education. It's really important. Did you know it? And then you know how to manage it and it's not, it's not something strange for them for the future. And it starts with an easier level, the level that everybody can understand and can gradually upgrade. And you will get amazed because I have children at school. You will get amazed how much kids actually can understand and knowing how to manage technology themselves. You know, just use my kids'example example now.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2797.989,
+      "endTime": 2852.486,
+      "text": "Uh, they are very good at using youtube and google. Sounding quite scary, right, because lots of kids will be standing up spending lots of time on youtube at least. But I do know that they're really not wasting their time watching some random funny videos all the time. No, they do use that as a source to find things they feel interested in. They feel like as a parent, I can't answer the questions they ask. For example, my daughter is very fond of crafting, so she's finding lots of videos teaching or giving inspirations of grafting, and my son is really interested in trains obviously lots of boys and he will just learn lots of things and he used Google at the same time to learn the history of trains development and the models of trains and I got amazed.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2855.562,
+      "endTime": 2896.74,
+      "text": "But of course, as a parent, I do need to warm them that you use these tools properly. Do not waste time. You can have fun. It's not something I stop you from doing but you need to know that this is a tool. It's not something somewhere you can just let go of yourself the whole time. It's not doing any good to you. So they understand I got amazed and they would do a little research and come up with some interesting result and then telling me about it. I feel I've never thought about things like that before. So you also trust your kids, trust students. They are, I think, sensible people. Normally they will.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 2897.282,
+      "endTime": 2900.463,
+      "text": "They know what to do. Not everybody is losing themselves.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2901.375,
+      "endTime": 2928.551,
+      "text": "At the moment. The problem is that for a lot of people and me and Jimmy talked about this with it was no doubt the same with search engines, but people see it as cheating. I'm not necessarily. I'm not asking the question do you think it's cheating? I mean, it's clearly not. It's as cheating. I'm not necessarily. I'm not asking the question do you think it's cheating? I mean, it's clearly not. It's not cheating. But I guess the idea is well, you're not actually learning if you're using AI tools, and I think a lot of people who have that view are missing the point that you're not. You're not condoning, you know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2928.631,
+      "endTime": 2967.244,
+      "text": "I don't think any of us would say, well, yeah, you should just put into a large language model, write me an assignment and then hand the assignment in and not do any of the work. We're not saying that you know that that's cheating. But using AI tools to generate information and to generate parts of the content or to help you to do it, or to to research, to study, to generate code, whatever you know, that is not cheating. That's part of the that's part of the process. Now, there's no difference between that for me and using Google search or even using the CD ROM of the um encyclopedia that they used to be with every computer back in the nineties.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2967.445,
+      "endTime": 2970.267,
+      "text": "You know, it's the same thing. We're just getting information from different sources.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2971.027,
+      "endTime": 3017.081,
+      "text": "This, in my opinion, is an age old thing and it's to do with people and their motivation, not what tools are available to you. Like, people who are People's fear, maybe People's fear, well, yeah, maybe, but what I was trying to, the point I was trying to get to, is people who are motivated to learn will learn. People who are not motivated, you know, I mean for want of a better word, word people who are lazy will be lazy. It doesn't really matter what tools you give them, right? Okay, the difference is, in my opinion, with education, it makes it a bit tricky, right, because you, with, with, with ai, you now have the opportunity to be lazy but still get potentially really good marks, because you just went to an ai and the ai gave you the essay, and if no one knows, say I, then you can get really good marks.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3017.562,
+      "endTime": 3022.399,
+      "text": "Previously, if people wanted to be lazy, they'd be lazy and wouldn't get good marks.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3022.841,
+      "endTime": 3027.197,
+      "text": "that's probably they pay someone to write it for them pay someone to write it for them, something like that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3027.497,
+      "endTime": 3068.346,
+      "text": "But, like, in both cases, the person who loses out is the person who's being lazy. In my opinion, like like you're not learning anything, you're not trying to learn anything, therefore, at some point you'll get found out, right, I guess. My point is, like I don't see what difference ai and large language models make to that fundamental thing of um, you know, you've got to like and and instead of saying people are lazy and people are motivated and stuff like that, it's like, actually in education, you've got to find a way to motivate people. Right, and that's a. It's a deeper question, it's more complicated, but I think through some of this ai stuff, you can potentially find ways to do that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3069.009,
+      "endTime": 3101.827,
+      "text": "Um, again, like coming back to what I was saying before, if the smartest people in the class can stretch themselves, whilst the smartest you know when I say smartest I use it liberally I think different people are smart in different ways. I was never any good at you know, geography and a bunch of other stuff, but I was good at other subjects and then that was on. That was reversed for other people. But my point is again, like there's a spectrum of, there's a spectrum of um people in every subject, in every classroom, and I think ai can supplement that by helping people who are struggling and also stretching people who are performing really well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3102.256,
+      "endTime": 3145.937,
+      "text": "I saw an argument that someone said and this is again not about cheating they said there are more pressing concerns than cheating the value of writing as a process and the importance of seeing writing as a vehicle for thinking, and that ai interrupts that. So you know, the whole concept of the transformer llm model is finding the most likely sequence of, of tokens, words afterwards. So you know, it's injecting patterns into writing, and the example I was reading was talking about, you know, predictive text, kind of pushing you to follow suggestions, and this idea that using too much AI, it kind of pushes you to answer and to, to, to, kind of it pushes you in the direction of saying what it wants you to say.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3146.658,
+      "endTime": 3185.084,
+      "text": "I'm not quite sure that I agree with that, but I do think this idea of you know it may be interrupting the writing process, because for a lot of people, the writing process is how you get stuff. You know when you you get stuff down, that's when you do your thinking. I think that part of the argument works for me. I'm not necessarily like that actually I'm not, you know. I know people who have to write notes for everything. That's the way that they get stuff down, but I do definitely see a value in, when you have a thought and you're writing it down, that that's actually part of the process of thinking and that's how your brain is working, whereas when you're using ai to do that, it does interfere the kind of normal writing process.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3185.125,
+      "endTime": 3194.002,
+      "text": "Like I said, the writing process is not necessarily about the physical act of writing. It's about getting information from in your brain down through your hand and onto the piece of paper.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3194.904,
+      "endTime": 3232.581,
+      "text": "And I understand what you're saying. I mean, I don't write a lot of stuff down either, but I kind of have the opposite view, in a way, where I'll be talking to an AI and all the time I'm thinking critically about what its output is and it's making me think. I'm like you know, because I'm aware that AIs can hallucinate and they don't have, they're not perfect, they don't have, they're not perfect, they don't have all the information necessarily. So when I use, when I use an ai, I find it like a. Really I find it like a like it would be like having any kind of dialogue like this I'm having a chat with something and I'm and I'm thinking carefully about everything it says and making my own mind up or maybe doing additional research into whether it's correct or not.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3233.002,
+      "endTime": 3244.021,
+      "text": "So I find it can be. I really think there is a case that AI could be used to enhance critical thinking if it's applied in the right way or taught in the right way. I guess in the context of what we're talking about today.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3244.643,
+      "endTime": 3299.881,
+      "text": "Maybe to. To give an example again from my my own experience. So it probably only started, so I took a break sort of partway through my master's. I took a break sort of partway through my master's, I took a break and during that break, when I got back, you know, chatgpt had really kind of hit the mainstream and then they would have this rating red, amber, green for every assignment and it would be red every single time. And I understand the logic, because I understand, or I understand the logic behind this, like we said, about, you know, being able to get generative AI to just write an assignment, but, frankly, it's not at the point where it's going to write a particularly good assignment anyway, if you just, you know, just ask it to write something and throw a load of stuff in there, but not getting people to use it and not, you know, encouraging them to use it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3299.921,
+      "endTime": 3346.356,
+      "text": "When you see that red, you think, oh no, ai bad, and you're kind of scared about using any AI tools to do anything. But it's not about it's not about using AI as a search function, it's about being able to use it, like we said, to kind of brainstorm ideas and to be able to not necessarily polish work, but to be able to find ways to kind of fit ideas together and to be able to structure things better. Why would you stop people from using a tool that is only going to get better and better? Because they're going to be using that in the real world. And what are you preparing them for? And I sort of go back to the example you were giving before about if you're lazy and you don't want to learn, then you won't want to learn.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3346.897,
+      "endTime": 3393.699,
+      "text": "I think, even more so for most people in higher education. They have made the choice. It's not like when you go to school and you have to go to school, right, you've gone there because you've made a choice. Okay, some people are pushed into certain subjects by parents, but for most people certainly everybody on my course is paying, you know, 18, 20,000 pounds of their own money to study. They want to learn. Okay, that I guess some people might be buying the qualification because they just need it, but most of those people have chosen that subject to study so they're motivated to do it. So, telling them to not use tools I give that example again about code making people write a load of code out that in a few months time they'll either never use again or, if they do use it again, they'll always, always, use generative AI to provide this code for them.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3394.06,
+      "endTime": 3433.947,
+      "text": "They need to understand why they're using that code, they need to understand how to analyze the information it gives them. They need to understand the concepts, they might even need to understand the very, very basics of the code, but they don't need to understand how to write code. I think there is a fear that AI is going to replace things, and it is going to. You know, it's something scary that we don't understand, and so there is this kind of fear that it's cheating and we reject it rather than embracing it. And look, this is coming from a doomer here. I'm the one who's saying here the need to embrace it, be more positive, because these uses are, these are good uses, right, and these are uses that are making things better and they're helping you to learn quicker and more efficiently and learn more stuff.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3433.987,
+      "endTime": 3446.99,
+      "text": "So I I just think you know higher education in particular, it's got to be absolutely embraced and everybody, every single student, should be encouraged to use every tool they can, they can get their hands on okay, I.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 3447.191,
+      "endTime": 3492.942,
+      "text": "I always think students must access to new technologies ai is absolutely included and always learn how to use it as a tool and see how you can make it to innovate your own idea and make yourself better. And another thing is, even though some teachers or some schools may really carefully avoid AI, but eventually those students will be graduating or graduate or work outside the school and they will access to AI anyway After school at their home. They will access it anyway. So the more you hide it, the more you stop kids from using it, the more you actually weirdly encourage them to try to test it out.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 3493.656,
+      "endTime": 3548.32,
+      "text": "So it will be only much worse if they are not fully understanding how to test it out. So it will be only much worse if they're not fully understanding how to use it properly and it has got a weird bad attitude towards it. It's just no good. So get to know it and use it and then understanding it is so important for any new technology. So I don't think it has got that kind of over-the-top moral issues with AI. You just need to make sure that you fully understand it. I want to make a small example. It's still about my kids. They are using iPad to practice spelling and lots of parents, actually not happy about it, complained to the head of teacher at school, saying that they need to make them write down the words other than using laptop or iPad the whole time.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 3548.915,
+      "endTime": 3606.099,
+      "text": "The teacher is actually a very young teacher, so he said you know to now, like most of parents, when you work, do you need to write out every single word on the desk? No, you just use phones or use computers to work. So I don't want kids to feel too strange about these tools. I don't know. My view is more like a business part of the view to AI and education and for education itself. I don't strongly think about it. I think it's more likely to show up from what students view, like what. Jimmy was an engineer, a student, I was too uh and I felt like I learned lots of theories other than practical, like things and uh, and that was really far away from our daily life.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 3606.486,
+      "endTime": 3626.11,
+      "text": "And we do find out lots of subjects we learned engineering was some technology from 30, 40 years ago and not really used anymore. And the reason why we learned it because we need to learn how these things worked and so we will be able to understand how things working now.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3634.74,
+      "endTime": 3672.876,
+      "text": "I want to say something a bit more controversial. So, as we talk about higher education, why do we need universities in the future? I mean, is AI not going to mean the end of the whole concept of higher education, or at least in the way that it currently exists? I actually hope it finally leads to us creating different types of education. So you know what I mean by that is maybe there's no need for you know, so much vocational education if robots can do everything. But I actually think there's potentially going to be a lot more need for jobs which require practical skills. Certainly in the next 10 to 15 years we're still going to need trades and stuff,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3678.345,
+      "endTime": 3712.743,
+      "text": "and we've been talking for years and years, particularly in the UK, about the need for different types of education. So we talk about the German model or we talk about countries that do it better, but nobody really that you finish your school education. Then you either go to university or you don't, and it's seen that if you don't go to university, you've not carried on your education. But why do we need that one model? I think the concept of education? I mean it is great to have that interaction with people for some people and for some types of education. But doesn't this mean that we just don't need universities in the way that they currently exist?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3720.305,
+      "endTime": 3758.7,
+      "text": "Or we certainly don't need as many of them. Yeah, I mean, there's one thing, which is that universities depending on the subject, obviously, but universities- are like research institutions as much as they are education institutions. That's the first thing like they're not really just about teaching. In fact, a lot of teachers that taught, a lot of professors that taught me at university, didn't really want to be there. They wanted to be off doing their research. I think, um, that's the first point I'd make, but I think my my sort of like in terms of my university education, I would have liked much more practical um stuff, and so, rather than sitting in lectures and being taught, I would have preferred to have been like, do something much more practical.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3758.741,
+      "endTime": 3781.225,
+      "text": "I did engineering and you know there was practical aspects to it, but it was pretty limited. It was probably 10% rather than you know I would rather it was 50%. So I don't know. I think maybe it needs to change. I'm not sure you need to get rid of it, but we could also do with a lot more vocational education, whether that is at university or in another setting.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 3782.448,
+      "endTime": 3803.97,
+      "text": "Still, I think, according to my work before, like the examples I've said, university is actually the one of, I have to say, important center for innovation of technology. You can't really a lot of research centers, they're actually universities.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 3807.651,
+      "endTime": 3821.918,
+      "text": "So I think bringing AI will only you can make it faster into the onto the higher level, and I don't think we'll be really using AI to replace or something but isn't.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3822.018,
+      "endTime": 3858.669,
+      "text": "Isn't Jimmy's Jimmy's point there that if? If you made it as well, actually, that universities of research institutions will, so why do they need to do teaching? Like, can't those two things be separated out? So you know, the research institution, people can do research, because what? What we, what we keep saying about you know, generative ai is that it. It augments stuff and it stops you from doing the stuff you don't want to do. So it stops you from doing the admin that you don't like doing and allows you to focus your time better. And it allows doctors to spend time with patients and not to have to trawl through reports and allows lawyers to focus on the difficult bits and not to do discovery work.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3859.15,
+      "endTime": 3894.711,
+      "text": "So, when we talk about education, if we were saying that all these professors in universities don't like to teach, well, they don't need to teach anymore, right? They can go and do the research that they want to do. I think my point with this is you know, back to university, will everything be online? I hope not, because I think you know all of us, we all studied in the uk um and universities in the uk. Definitely, the experience is about more than just education. Sadly, I think that's. You know that that's changing and one of the reasons is because, as it becomes less affordable, you know, people um and not may be able to go so far away.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3895.345,
+      "endTime": 3928.027,
+      "text": "They, you know, look at education in a different way because they're having to work out the cost benefit analysis of it. But there's more to it than just studying. But we already see stuff going online, right, I mean, my master's degree was online, the time that we spent the one hour kind of webinar every week that we had. Frankly, I would have preferred that if it was just one hour, we could just all kind of ask questions and go through stuff rather than being taught, because the teaching bit I could just watch a video. I don't see why that needs to be done in person. I think Jimmy's example about lectures and stuff that bit doesn't need to be done in person.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3928.087,
+      "endTime": 3964.678,
+      "text": "So it's not necessarily I kind of when I said do we need universities at all? But I think the whole concept of higher education is going to change completely and hopefully the good way that that could work out, if we look at a kind of education utopia, is that you have face-to-face time and you have ways that you interact and do more practical stuff, but then AI helps you to do a lot of the other stuff, like a lecture that is delivered by an AI avatar instead of an actual professor. As long as it's well delivered, it's got the same content. I think that's absolutely fine, to be honest, because you just sit there and watch a lecture, right?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3964.738,
+      "endTime": 3975.02,
+      "text": "So if it saves your professor an hour preparing and delivering a lecture to do something else or to have face-to-face time with you, that can only be a good thing, right.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 3975.725,
+      "endTime": 4023.79,
+      "text": "Yeah, but I'm also really seriously linked with the policy of education now. I think for universities it's more like specific subjects, more detailed, more into some certain area of study, much narrower than secondary school studies. So that's the reason people need to go to uni and also you can get this group of people who are interested in this subject together and there's a chance for you or to work with each other to get something for the future. Maybe people find online study or either working, can be really effective. Since COVID, because it's happening and it's fine, it looks like it's fine, but I still seriously think the quality of education.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4023.83,
+      "endTime": 4033.632,
+      "text": "If you just purely depending on AI teaching you or watch the video online, it can reach the same level and also",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4036.885,
+      "endTime": 4092.578,
+      "text": "it's another way of monitoring the quality of students too. It sounds a bit harsh, but the teacher will be able to see who is doing better and and they can give a little bit different plans for different kind of students. Some people and uh and can can talk about what other more specific directions these students can go to. I studied electrical engineering when I entered uni in Beijing, but later on in the last year we got specified into four different categories radar and some signals, information, analysis and something differently. They all belong. They all belong to engineering, but they are still really, really different and according to the different interest group and abilities, these students will go on to different work and be good at these different things,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4098.505,
+      "endTime": 4107.711,
+      "text": "work and be good at these different things. So I still think yeah, in this case, if you use lots of online material, ai assistance will make these students even better, even stronger. They'll get more resources to use.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4108.252,
+      "endTime": 4120.798,
+      "text": "But once we've been enslaved by super intelligent AI and we go to university so it can teach us how best to serve it as part of its own education system, then surely it's kind of irrelevant anyway, right?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4121.046,
+      "endTime": 4122.088,
+      "text": "that's is that when?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4122.148,
+      "endTime": 4122.89,
+      "text": "when's that happening?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4122.93,
+      "endTime": 4124.794,
+      "text": "matt, what's your time?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4124.814,
+      "endTime": 4151.706,
+      "text": "well, I've pushed it back in. Maybe 2029 um, who knows? Hopefully it's not in, hopefully it's not in the next few years, but I don't know. Maybe there'll be interesting courses, maybe we'll have some of the best AIs you know, we'll be taught by the best AIs and they'll teach us how to do a good job for them. And Eddie was talking about monitoring our academic performance. I mean, they'll make sure that they monitor our performance. If we don't perform well, then we'll certainly be punished.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4152.447,
+      "endTime": 4159.433,
+      "text": "It. If we don't perform well, then we'll certainly be punished. It's not about punishment, it's about development. Yes, you need to see people in different ways. You need to prepare this.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4159.813,
+      "endTime": 4162.576,
+      "text": "Have you been taken over by a super intelligent AI, Eddie?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4162.916,
+      "endTime": 4167.86,
+      "text": "Yeah, you don't know, I peel this off and there will be someone else and something else.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4168.501,
+      "endTime": 4181.41,
+      "text": "I'm suspicious of your optimism. I'm suspicious of your optimism. I think that you've already been enslaved by I don't know. I hope it's claude, not chat gpt, but I think, yeah, I think you've already been there. You're being controlled by an ai oh really.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4181.59,
+      "endTime": 4205.592,
+      "text": "Oh well, I I feel very lucky to get controlled by the ai, yeah, so, yeah, I don't know what to say. If you're angry, if you you feel like you should protest, using ai is the way you're not slaved. Maybe you're angry if you feel like you should protest, using AI is the way you're not slaved. Maybe you're heavily slaved, just like you hate your managers. You never say I love my managers, I love my bosses, but you're still slaved by them heavily.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4206.896,
+      "endTime": 4229.874,
+      "text": "True, that's a really good point. Actually, the difference is they might actually be a much better boss than our current bosses anyway. Right, so maybe we'll be better off by the AI. Jimmy shouldn't say anything because his boss might listen to the podcast no boss is good.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4230.514,
+      "endTime": 4249.903,
+      "text": "I don't worry about my boss listening to this. I mean just you know people have different purpose of doing work, so you only want to focus on the part you feel not happy with. So that's the reason the conflict between you and your boss happens. That's AI doing to you too.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4264.065,
+      "endTime": 4282.556,
+      "text": "Yeah, doing to you too. Yeah, so should we finish off, as we always do, by eddie as our guest, we'll just ask you if you've got any and this is not, you know, not in a higher education context, but just in in general whether you've got any tips or, um, any particular tools that you would like to recommend, so any AI stuff that you'd like to recommend to our listeners, or any hopes or fears for the future that you want to mention before we finish off.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4283.886,
+      "endTime": 4329.649,
+      "text": "Being very honest, I don't have any tools to recommend and I don't think GPT is a good, brilliant tool. That's the thing I don't want to recommend and I don't really rely on any specific ai tools I don't but I do embrace the idea. I want to learn how people react to it and I just I just generally feel like try to understand it other than feeling fear of it first, and don't believe in someone randomly talk about so-called future of ai on the internet. You always need to be sharp enough that you know. Don't believe in things on internet. That's what people talking about for decades, but now you believe everything talking about ai on internet.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4330.149,
+      "endTime": 4333.816,
+      "text": "Just, just, just you just smart yourself back and be calm.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4333.836,
+      "endTime": 4342.051,
+      "text": "I would say get your information from your trusted podcast preparing for AI the AI podcast for everybody.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4342.352,
+      "endTime": 4345.931,
+      "text": "Yeah, we're definitely not random guys on the internet. We're completely different.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4346.446,
+      "endTime": 4349.187,
+      "text": "We're very different. We're very honest, we know everything.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4349.93,
+      "endTime": 4373.26,
+      "text": "Good stuff, right, eddie? It's been an absolute pleasure to have you on um, really, really interesting. This is probably one of the longest episodes we've done. I think we could have talked. I mean I've got, I had another kind of two, um, two kind of areas for us to talk on, but we've just run out of time. But thank you so much. That's been, uh, really good fun. Um, yeah, thank you. Thank you, eddie, thank you, matt and jimmy, thank you so much for this chance.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4373.205,
+      "endTime": 4376.748,
+      "text": "I had a great time. Yeah, it's been really good fun. Yeah, thank you. Thank you, eddie. Thank you, matt and Jimmy. Thank you so much for this chance. I had a great time.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4377.229,
+      "endTime": 4379.254,
+      "text": "Yeah, it's been fun. We'll get you back on.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Edward Ning",
+      "startTime": 4379.595,
+      "endTime": 4380.357,
+      "text": "Yeah, just tell me.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4381.753,
+      "endTime": 4400.467,
+      "text": "Yeah, we'll try and do another episode or the director's cut. We'll definitely have you back on there at some point later. Well, thanks so much for listening everybody. We will be back, as we always are, next week and, uh, we will see you out with our song. Get people to listen, follow, subscribe to the podcast and, uh, keep listening. Take care, guys.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Speaker 3",
+      "startTime": 4400.487,
+      "endTime": 4469.631,
+      "text": "Bye-bye, bye, cheers steady eddie with his perfect smile, turning heads for miles and miles, but his body's always running low Misconnections, nowhere to go. Already, you're too handsome for your own good. Your phone's always dead, misunderstood, dreaming of AI thinking it's all grand, but life's not binary. Can't you understand? Understand? Everyone swoons when he walks by. But he's busy looking at the sky imagining robots doing his chores while his chances slip out the door. Oh Eddie, you're too handsome for your own good. Your phone's always dead, misunderstood, dreaming of AI, thinking it's all grand, life's not binary.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Speaker 3",
+      "startTime": 4469.845,
+      "endTime": 4471.046,
+      "text": "Can't you understand,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 3",
+      "startTime": 4495.41,
+      "endTime": 4518.575,
+      "text": "eddie, eddie, wake up and see. The world's not ready for your AI fantasy. Plug in your phone, make a real connection Before your good looks lose their reflection. Oh Eddie, you're too handsome for your homegirl. Your phone's always dead, misunderstood, Dreaming of AI thinking it's all grand, life's not binary. Can't you understand?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 3",
+      "startTime": 4528.188,
+      "endTime": 4536.042,
+      "text": "Steady Eddie's so optimistic, but life's more than algorithmic Charge your phone. Face reality. So optimistic, but life's more than algorithmic",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 3",
+      "startTime": 4539.647,
+      "endTime": 4551.258,
+      "text": "Charge your phone. Face reality before your charm becomes a casualty Already. You're too handsome for your own good. Your phone's always dead, misunderstood, dreaming of AI, thinking it's all grand,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 3",
+      "startTime": 4575.983,
+      "endTime": 4589.769,
+      "text": "but life's not binary. Can't you understand Steady Eddie, so optimistic, but life's more than algorithmic Charge your phone. Face reality Before HR becomes a casualty. Thank you,",
+      "chapterIndex": 8
+    }
+  ]
+}

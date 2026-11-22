@@ -1,0 +1,1638 @@
+{
+  "slug": "s2-2024-09-25-artificial-appetite-is-our-ai-powered-futu",
+  "buzzsproutId": "15812296",
+  "title": "ARTIFICIAL APPETITE: Is our AI powered future being forced on us?",
+  "date": "2024-09-25T09:00:00.000Z",
+  "season": 2,
+  "durationSec": 4863,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15812296-artificial-appetite-is-our-ai-powered-future-being-forced-on-us.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail On this episode of \"Preparing for AI,\" hosts Jimmy Rhodes and Matt Cartwright tackle the complex relationship between AI and society, pondering whether AI is a tool we genuinely desire or something that's being imposed upon us. Can't we just sit and read a newspaper or a good book? Does anybody other than rent seeking corporations actually gain from AI generated music, film and content? From job displacement and generational differences in media consumption to the potential for an AI-Amish community and the profound questions about consciousness and free will, this episode leaves no stone unturned. We explore the concept of hypernovelty and how we as humans have interupted the natural flow of evolution. How many of societies problems today are linked to this and how will AI accelerate the pace of change? We even go down the rabbit hole or AI, religion and human freewill. We also take a look at the most important new model of the year so far. What if artificial intelligence could perform a year-long research project in just an hour? Now it can with the stunning capabilities of the new ChatGPT-01 preview. We'll explore how this model's revolutionary ability to refine responses within 30 seconds marks a leap forward in AI development, reigniting the excitement and concerns about the future of artificial intelligence. And we end, as all good podcasts should, with nowt but didgeridoo.",
+  "summary": "Part three of the society trilogy asks whether anyone actually consented to the AI future being built around them. Jimmy and Matt compare AI to social media — done to us while we were distracted — and worry human brains cannot evolutionarily keep up, before roaming through religion, simulations, free will and whether convenience and productivity are the right goals at all.",
+  "keyTalkingPoints": [
+    "o1 preview's reasoning step-change — solving a crossword, cracking a cryptic clue and reproducing a PhD physicist's year of code — reignited the hype cycle",
+    "OpenAI's models will increasingly ship inside Microsoft and Google products, meaning billions will use AI without choosing to",
+    "Jimmy predicts a backlash, but a reactive one: unions-style resistance only once jobs are hit, because no one consented to this pace of change",
+    "AI as religion: creation, souls, end-times prophecy and free will all get rehearsed, with Matt admitting AI has made him more open to religion",
+    "The hosts agree the best experiences in life — holidays, earthing, jigsaws, live music — are precisely the ones away from productivity and screens"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Society was never consulted on AI, and there will be a backlash — but it will be reactive, arriving only when people are personally hit",
+      "o1-style reasoning will spread to open source and Google within months because everyone knows roughly how OpenAI did it",
+      "Human-made music will become an artisanal niche, like vinyl is today",
+      "Being human is about more than efficiency gains, and convenience fits corporate values more than human ones"
+    ],
+    "matt": [
+      "AI is being done to society exactly like social media was — and we would not choose it again if we knew then what we know now",
+      "Normal people, not just governments, need to step up and demand a say in how AI changes society",
+      "Human brains evolved over hundreds of thousands of years and cannot keep up with this pace of change",
+      "He is far more open to religion now than two years ago, partly because of AI"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-09-25-artificial-appetite-is-our-ai-powered-futu-470.084-o1-style-reasoning-capabilities-will-show-up-qui",
+    "s2-2024-09-25-artificial-appetite-is-our-ai-powered-futu-1559.61-there-will-be-a-public-backlash-against-ai-but-i",
+    "s2-2024-09-25-artificial-appetite-is-our-ai-powered-futu-2911.35-listening-to-human-made-music-will-become-an-art",
+    "s2-2024-09-25-artificial-appetite-is-our-ai-powered-futu-3351.583-if-ai-develops-as-the-hosts-expect-over-the-next"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "A didgeridoo lover"
+  ],
+  "chapterCount": 8,
+  "turnCount": 222,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "ChatGPT o1",
+      "startTime": 73
+    },
+    {
+      "title": "More open letters on the dangers of AI",
+      "startTime": 713
+    },
+    {
+      "title": "Does society actually want AI?",
+      "startTime": 1090
+    },
+    {
+      "title": "Is AI actually improving our lives?",
+      "startTime": 2430
+    },
+    {
+      "title": "Can we actually push back on AI?",
+      "startTime": 3254
+    },
+    {
+      "title": "AI and Religion",
+      "startTime": 3760
+    },
+    {
+      "title": "There Is Nowt But Didgeridoo (Outro Track)",
+      "startTime": 4714
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 49.029,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. urgent need for safe development of AI, governance and alignment. You make the moon our mirror ball, the streets an empty stage, the city, sirens, violins. Everything has changed. Welcome to Preparing for AI with me, bob Hoskins, and me, keanu Reeves. So this week on the podcast, we're going to be looking at whether AI is something that society actually wants or whether it's something that is being done to us.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 49.791,
+      "endTime": 73.25,
+      "text": "So this, I guess unofficially, is part three in a kind of series. We started with the information episode where we're kind of looking at real societal impacts of AI. So before we do that, we haven't done this for a while, but there's a couple of really noteworthy sorry, newsworthy items in the AI sphere, so we're just going to explore those really quickly at the start of the episode. So, jimmy, you're going to start off with the big one.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 73.88,
+      "endTime": 119.965,
+      "text": "Yeah. So the biggest news that I think most people who listen to anything on AI have probably heard about is the release of ChatGPT--01 preview. So not the actual full release but a preview version. I think it's available to anyone who pays for it. It's not a hundred percent clear because I haven't got access to it yet, but basically it's chat GPT with thinking. It's probably the simplest way to put it. So previously, when you asked ChatGPT for or any large language model for that matter a question, it pretty much just blurts out the answer straight away. We don't know what's under the hood, what the secret source is, because OpenAI are very closed about it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 119.985,
+      "endTime": 153.349,
+      "text": "But basically the new model if you ask it something complicated and I think it depends on what you ask it but if you ask it something complicated and I think it depends on what you ask it but if you ask it something complicated it will spend 10, 20, even 30 seconds thinking about it before it gives you a response. And what a lot, of a lot of. The theory online is that it's doing something like chain of thought prompting where basically it comes up with an answer and then it goes back and reviews that answer and thinks about it a bit more and then refines it, and refines it, and refines it, and 20 seconds is an eternity.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 153.54,
+      "endTime": 162.615,
+      "text": "If you've ever used a, if you've ever used chat, gpt or Claude or something like that, it usually responds almost as soon as it's processed what you've said, because it's just predicting the next token",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 166.04,
+      "endTime": 201.192,
+      "text": "said, because it's just predicting the next token, um, and so it's just a matter of compute and inference and uh, and then it just gets going and, and usually it's like nowadays, the speed is, you know, it's like it's way faster than you can keep up in terms of reading it. So so, yeah, this is, but but the what's the end result? So the end result is we now have an AI that is able to reproduce PhD level research, like literally they've, it's been tested, it's it's it's smashing all the benchmarks, it's way above anything else we've seen before. It's kind of broken through the. There's been a bit of a plateau with AI where it was improving and it's been improved.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 201.26,
+      "endTime": 247.341,
+      "text": "Like they've been throwing more and more compute and more and more money at it and it's improving more and more slowly. So it's plateauing. This feels like it's kind of broken through that. Lots of people who had gone very much, I guess, like six to nine months ago, everyone was saying we're going to have AGI by the end of the year. Then that very much died off and the hype died down. To a certain extent this has revived the hype. Um, I mean just to give an example. So there was a phd researcher who is researching black holes so pretty, uh, pretty, um, high level stuff, um and or pretty intellectual stuff, I guess, and uh, he, he wrote a code base that took him a year to write to predict certain things about black holes.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 247.361,
+      "endTime": 292.122,
+      "text": "I'm not going to pretend I sort of know all the ins and outs of it, but this PhD researcher, basically he fed his methodology, so he fed what he was trying to do, what he was trying to achieve. He fed the method into the AI and then asked it to write that this was a GPT-01 preview, of course, and then he asked it to, he worked with it to try to recreate that code, without giving it any of the code, I might add. And, uh, it didn't get it right first time, but I think it took about an hour and it took six prompts, six prompts to sort of refine and refine this code. And then, like I watched the video, like the, the, the dude was like very, very shocked at how, um I mean, in the end it basically reproduced the code, the exact code.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 292.142,
+      "endTime": 330.489,
+      "text": "I mean. It might, it might not have been uh word for word, exactly what he wrote, but it produced code, that gate that allowed him to, um, uh, produce the same results that he got on his PhD. That took him a year to write, so he was absolutely blown away by it. Now, I did. I did. It was a YouTube video. I jumped straight to the comments because the first thing in my head was he, his research was in 2022,. I believe the first thing that was in my head was that his research was probably in the training data. However, like he had tried to do this before with previous versions of GPT and it had failed epically and other large language models, I believe, so he was genuinely blown away by it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 331.021,
+      "endTime": 341.7,
+      "text": "And whether the code was in its training data or not, it didn't produce it word for word. It seemed to go through the process of refining and thinking its way through the problem, and so that's where we are now.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 344.807,
+      "endTime": 382.35,
+      "text": "We have an AI, certainly in GPT-01 preview, and, again, it's just the preview version. There is a load of hype around Orion, which is coming out towards the end of the year, supposedly from GPT. This is not even their next model. This is just a model that has this new methodology built into it, this thinking paradigm. But yeah, orion's going to be the next, next model, like the GPT-5 or whatever you would call it if you were just going up the numbers, and that's probably going to be more powerful. So the hype train's back on a little bit with respect to this latest release and we'll see what Anthropic have got in response.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 382.98,
+      "endTime": 383.884,
+      "text": "Do we like OpenAI?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 383.945,
+      "endTime": 384.246,
+      "text": "now then.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 386.841,
+      "endTime": 389.56,
+      "text": "I'm fairly ambivalent. I don't necessarily like.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 389.58,
+      "endTime": 392.028,
+      "text": "Do I have to bow down at the altar of Sam Altman or?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 393.864,
+      "endTime": 401.526,
+      "text": "The direction OpenAI has gone in I definitely don't agree with. But you know I mean, at the end of the day it's a tool, isn't it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 401.981,
+      "endTime": 435.642,
+      "text": "I mean we always to be fair, though. I mean we always thought you know Open, at the end of the day it's a tool, isn't it? I mean we always to be fair, though. I mean we always thought you know open ios next model. You know when, when claude was was kind of ahead, open ios next model was always going to be ahead. They're always at the forefront. I mean I still think at some point I could still see google. Um, I think they have to sort themselves out at some point, you know, and and and it could be anybody. I mean, I guess you know google invented a lot of the, you know a lot of the early kind of technology around large language models and if they invent the next architecture, then they could leap ahead as could meta, as could anthropic.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 435.723,
+      "endTime": 446.455,
+      "text": "But it feels like it's kind of the natural cycle, is that chat, gpt, open, ai will be at the forefront at the moment. So this is not really a surprise and, like you say, what would be interesting is to see what comes next.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 447.079,
+      "endTime": 447.18,
+      "text": "Yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 447.661,
+      "endTime": 449.166,
+      "text": "From other developers is what I mean by that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 449.487,
+      "endTime": 466.529,
+      "text": "Yeah, and I think I mean, although OpenAI are keeping their secret source, as I said, a bit of a, they're keeping it behind closed doors. In actual fact, like most people, have some pretty good ideas about how they've done it, or someone just leaves and goes to work for somebody else. Yeah,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 470.084,
+      "endTime": 506.142,
+      "text": "and there's plenty of smart people at these other companies. Everyone's got a pretty good idea of how they've done it. So I think you'll see it in open source models. You'll start to see it in Google. But interestingly, you mentioned Google. There was a much smaller, quieter piece of news which I'll mention briefly. But there's something. So Google have something called Notebook LM now and it's like a. It's a bit of a workspace where you can go into it and you can give it links, you can feed into it, you can attach it to your Google Drive and your documents in there, and then you can just talk to it and have a conversation about the links that you've given it and the documents.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 506.503,
+      "endTime": 525.329,
+      "text": "It's a little bit like um, it's a little bit like custom gpts, but it feels a bit. It feels a bit more approachable. Um, in terms of that, you can, if you've already got google you've already got google drive and google, we've already got all your documents you can pretty much just say, yeah, connect to my google drive and have a chat with your documents and that's yeah, and that's as we've said.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 525.589,
+      "endTime": 557.782,
+      "text": "I mean, you said it particularly about sort of microsoft and and co-pilot, you know which I? I said, well, it's kind of useless at the moment. You made the point and it's the same with google that because people have got those devices, you know, once they get their act together, if they do, everything's integrated, whereas, whereas, okay, openai are now integrated with Apple, but they don't have the hardware side of it. So once Meta or Google or Microsoft get their shit together, they've got everything that they can combine. They've got the hardware, they've got the software, they've got, you know.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 558.384,
+      "endTime": 591.263,
+      "text": "Then they've got the large language model. So I think it's still all to play for in that game, but it's clear that open ai are still the the ones to to kind of follow at the moment. I just had one, one example that I thought was also quite interesting, of a use, of a kind of testing use for it. So it was, uh, someone who'd been testing large language models with crosswords that their grandmother had developed like years and years ago, and so, because these were she'd hand drawn them, they were not in any training data. And there was one particular question no large language model had been able to get close to this.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 591.323,
+      "endTime": 631.868,
+      "text": "In fact, you know I I certainly wouldn't have got close to it, and it was eight letters and it was a family member um, healthy snack I think and the answer was couscous, as in c-o-u-s is like short for cousin. I mean that was a stretch. But the new chat GPT model got it, which is pretty impressive. And some of this stuff is, you know, if you think of what it can do. I think for a lot of people listening is like well, why is that impressive? It's because to carry out you know mathematical equations although large language models are not that great at that, you know computers are good at doing that and a lot of the coding stuff is that's what you'd expect a computer to do when it's able to think in a kind of creative way like a human.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 632.329,
+      "endTime": 653.582,
+      "text": "I think that is why these are the things that really show an advance. So sometimes it's not the thing that you would necessarily be wowed by that shows the advance in the way that the model is working. Those kinds things like crosswords. You know, crosswords are something which uses a particular way of thinking. It's not something that is easy to teach to a computer because it's not logical. So I think that's a really impressive example of it yeah, it sounds good.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 653.642,
+      "endTime": 655.246,
+      "text": "I mean, can it do a sudoku yet?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 656.288,
+      "endTime": 665.389,
+      "text": "there was actually it wasn't sudoku, but it was an example of like a wordle or something like that that it was also doing. So I think a lot of these kind of tests are being run on it, obviously yeah, I mean that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 666.01,
+      "endTime": 678.891,
+      "text": "Yeah, for people who and I guess for a bit of context, like these are things that language models have previously struggled with, like doing that crossword would not have been possible a couple of weeks ago, I make ben's daughter's school calendar, which it can.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 679.332,
+      "endTime": 715.803,
+      "text": "No large language model is able to read the holiday dates in the calendar, something like that. I mean these are great examples of it. There's, there's loads of examples of things. There was one about the average number of legs of a goat, and they all say four, but the answer is like 3.97, because you know, some goats have three legs, or born without a leg, or it gets chopped off, and those are the kind of illogical answers which now it feels like this model is able to do that so it is the goat of large language it is the goat. Yeah, nice link. So there's just one other point. I mean there's been quite a lot of stuff happening.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 715.843,
+      "endTime": 759.431,
+      "text": "It's been a fairly busy time, although I have to have taken my eye off the ball a little bit. But just to to kind of follow up, because I think it's relevant, because we've seen this advance, that there was another one of these letters that was written by you know, several of the Turing Award winning scientists so Joshua Bengio, jeffrey Hinton, I think the most famous too, andrew Yao as well They've put their names to this letter the IDAIS Venice 2024 Summit. And the letter is one of these open letters, a consensus statement on ai safety as a global public good. And they're talking again about things like independent research needs to be critically applied to develop techniques to ensure the safety of advanced ai systems.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 759.932,
+      "endTime": 783.707,
+      "text": "Talks about how countries need to work together, talks about the need for pre-deployment testing, states playing a role in ensuring safety, etc. I kind of wanted to raise this because there's a number of these letters being sent out now and I'm not sure like what is the point of them, and this comes from someone who's, like you know, thinks that we need to fairly urgently get our shit together, but these letters that are sent out,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 789.96,
+      "endTime": 811.722,
+      "text": "they don't really feel like they're achieving much. I mean, maybe the first one and maybe if you've got sam, altman and musk and you know the likes of of um I'm trying to think of other examples, but you know the big names you kind of google and put their names, but you've got these. Yeah, exactly, but these scientists putting their names to it is all very well and good, but we already know what their view is. So I I'm not sure what this is doing. I don't know if you you have a view on it I guess it's nudging and influence, isn't it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 811.822,
+      "endTime": 843.684,
+      "text": "I? I can't pretend I'm an expert, but I guess it does feel like we talked about it on a podcast. Um, like either the last one or the one before. It feels like on, like, on the one hand, we're not doing stuff quickly enough. On the one before it feels like on like, on the one hand, we're not doing stuff quickly enough. On the other hand, it feels like a lot of things that they're starting to do are partly a reaction to some of the mistakes that were made with social media, and so, yeah, it feels like we are trying to get out ahead of it with ai. My worry is not too far behind, or at least not too far behind.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 844.145,
+      "endTime": 884.632,
+      "text": "But my my worry more with AI is that it's just how fast it's going. Um, like I said, the it felt like there was definitely too much hype at one point and then it plateaued and then now it's starting. We're seeing a bit of hype again with the new stuff. I think at the point at which we reached like we maybe are already at that tipping point where you know you plug something like O1 with the right, you know with the right will behind it, Maybe you plug something like O1 into you know a corporation and it can start doing people's jobs, like replacing people's jobs, like white collar jobs, and so I don't know exactly where we are with respect to that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 884.672,
+      "endTime": 890.077,
+      "text": "But it feels like whatever regulation we put in place can't come quickly enough.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 896.621,
+      "endTime": 909.448,
+      "text": "And I had a quick scan of this document, this letter, and it does cover a lot of those kind of things. I guess it's a sort of like intellectual what would you call it Like? It's a bunch of intellectuals putting it out there, isn't it? And then action needs to be taken off the back of it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 909.81,
+      "endTime": 924.571,
+      "text": "Yeah, I guess my point is that the first letter that was a real kind of that was a shock to people and they took a bit of notice. The second letter was like oh, it's another letter. The third letter, what is it really achieving? But yeah,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 927.6,
+      "endTime": 960.857,
+      "text": "it's the intellectuals who you'd expect to have this opinion. You're right, the. The point is that they're not the people that need to be sort of changing their thinking or the ones that need to be driving this. I mean, there is one good piece of news on this kind of front that open ai and anthropic have both agreed they submit in their models. Now, well, I say this is good. We might have a different view on it, but are submitting their models to the US government before they implement them. So previously Anthropic certainly were submitting them to the UK, to the UK's AI Safety Institute. I don't know if they're doing that as well, but they're definitely doing it to the US now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 960.937,
+      "endTime": 986.301,
+      "text": "So you know, that is a bit of a change in that they let in the look at models before they're put out there, um, but they're still not looking at the development itself. So you know, if the model is already kind of super powerful or dangerous, it's relying on them to pick that stuff up in the tests, and you would think you know, if open air themselves are not going to pick them up, then are the government's agency going to pick them up? Like what makes them better?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 986.361,
+      "endTime": 1003.244,
+      "text": "unless it's the military, in which case they're not going to tell us anyway yeah, I mean I've been interested in being a fly on the wall in those sort of conversations. I don't know. I presume there's some experts looking at them. It's probably more that they submit a whole bunch of conversations. I think in the uk it's robert miles.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1003.825,
+      "endTime": 1006.812,
+      "text": "Yeah, and that's not a joke. I think he's one of them, like he's part of it, definitely.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1007.112,
+      "endTime": 1010.387,
+      "text": "Yeah, the uh, the DJ from the early two thousands yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1011.008,
+      "endTime": 1014.181,
+      "text": "He's dead. So it was not him, but it's another Robert Miles. Yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1014.401,
+      "endTime": 1061.001,
+      "text": "I think we've had this conversation. We have and, yeah, and actually sorry, one of the things like with respect to this, one of the things that actually I forgot to mention about 01, is that one of the main purposes of it is to generate quality training data for the next generations, for the next versions of GPT, and so you've kind of got like AI feeding AI. Now, which is quite interesting, I would imagine, the conversations with the US government, it's probably they submit a load of you know, q&as between users and chat GPT to sort of validate the kinds of things that it's spitting out, rather than looking at what's going on for want of a better word in its head, because I don't think anybody knows that Like.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1061.021,
+      "endTime": 1064.748,
+      "text": "I suppose maybe it's a whole bunch of like. This is the things we've included in the training data.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1068.46,
+      "endTime": 1071.211,
+      "text": "This is the things we've included in the training data. This is the kind of responses it gives. These are the guardrails we've got in place.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1071.231,
+      "endTime": 1078.132,
+      "text": "I very doubt, I very much doubt it's, um, anything more technical than that, in a way right, that's a much longer introduction than we'd expected, so let's play 12 seconds of",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1086.508,
+      "endTime": 1086.668,
+      "text": "music",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1090.592,
+      "endTime": 1131.342,
+      "text": "and then we'll kick off the proper episode, if you stuck with us until now. So this episode is about whether society really wants AI, and I just explained to you why we kind of thought this episode so I was was literally I was sat on a plane with somebody and, for reasons that weren't discussed, they didn't have any electronic devices with them and they're reading newspaper and they were commenting how nice it was to just have the time to read a newspaper and the fact that not having electronic devices had kind of given them this opportunity. And I was saying about how, you know well, everyone talks about how social media is the devil, blah, blah, blah, and we can all stop looking at it, but we choose not to.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1132.104,
+      "endTime": 1171.909,
+      "text": "And it kind of got me thinking about this idea that, you know, social media has kind of been done to us and we all feel like victims and yet we're, all you know, obsessed with social media. Well, apart from you, jimmy, and less and less me, you know, a lot of people are pretty obsessed with it. It is a dopamine hit, you know. It is actually literally like a drug and it has that effect on people and it's kind of been done to us, I guess, in a way. And now we're in a world in which we feel we can't really get out of that. You know, social media is all around us and it really got me thinking about this and with AI, about is this something that's just been done to us and do we even have a choice in that?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1173.02,
+      "endTime": 1211.922,
+      "text": "And I don't think in the long term we do, but I think hopefully we still have some choice and we have a choice in terms of how much AI kind of takes over everything we do and how much we allow it to kind of take over our lives. And it got me thinking again. Like in the UK again, you know we're not in the UK when I go back, I'm always amazed at how many people are reading physical books and newspapers and how many people are not, like in China, just looking at their phones. Like a lot of people do look at their phones, but still there's a lot of people who've chosen to, you know, to read books and newspapers and to take time away.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1212.684,
+      "endTime": 1229.68,
+      "text": "And is that just something that the kind of older generation is going to want to do? And once they've died out. You know we are all going to be fully digitalized. Or is there still a choice there, that people still have a choice to be able to live in a world in which ai is going to be part of it, but it doesn't have to dominate your world completely?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1232.965,
+      "endTime": 1261.751,
+      "text": "I think maybe you know I'd, so you use social media. I'd use the same analogy that I'm not and I do use social media. I don't I don't use Twitter and Facebook and stuff like that, but I use YouTube and other things. I assume, well, from what I hear, the younger generation, the next generation along, the people who grew up with social media, like there is no real choice, like they don't have, I don't even think they think about opting out of it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1265.42,
+      "endTime": 1312.501,
+      "text": "Um, you know, like you know, you've got a tiktok. You've got which is, you know, similar to youtube, I guess, but obviously much shorter content. Um, and then, and then I I actually don't know how many people use facebook for what it was, what it feels like it was originally set up for, like it is facebook's obviously it's so far from what it originally was anyway, isn't it? exactly it's just another kind of like um public forum. Now I guess, um, it feels like, rather than somewhere where you catch up with your mates, but like I don't, I feel it. I feel like in the same way with ai, like people who were, people who are like under 10 now, people who are under 15 now, um, but definitely people who are under 10 years old, like they're, like it's just gonna be a thing by the time they grow up.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1312.521,
+      "endTime": 1347.494,
+      "text": "There's not gonna be, and actually you talk about do we have a choice? Ai's, even if you don't, even if you're not interested in ai, even if you've just heard of chat gpt um, you're not actually actively interested in it. You don't really've just heard of chat GPT um, you're not actually actively interested in it. You don't really keep up. You don't use large language models. It doesn't matter, because it's creeping into everything. Now you're start, you're you're seeing it creep into like emails, you're seeing it creep into it. It's already built into Google photos and things like that. Like it's that's been for a while actually, and Copilot, like I think this is going to happen more and more.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1347.594,
+      "endTime": 1373.508,
+      "text": "Right, so you just we're going to be going to work and then I presume this has happened to some organizations already. You're going to work, you've got Microsoft, and then one day you just have Copilot and all of a sudden you've got something that's helping you write emails and be more productive and helping you out with PowerPoints and Excel and all the rest of it, and so I think we aren't going to be given a choice and that kind of stuff's already happening.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1374.1,
+      "endTime": 1407.008,
+      "text": "But that to me is like the examples you've given, there are a development of existing kind of technologies. So you know the work example. We let's take out of it for a second. It's a replacement of jobs by robots, but the evolution of technology, whether or not you had artificial intelligence or we talked about this like the, the blurred line between artificial intelligence and tech and what's tech and it's just. Someone says ai, but it's nothing to do with ai and what's actually already been ai for a long time, like the. The google pictures example is a great example, like apple as well, phones have had.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1407.048,
+      "endTime": 1443.578,
+      "text": "You can look at someone's picture and find it. That that's, you know, find all the pictures of them. That's been on phones for seven or eight years. Yeah, so you've had these things for a while and I think that advancing technology of advanced software, using copilot and stuff is is fine and you know you can't opt out of that. I. I'm thinking more in terms of having a robot in your house or buying a product that is created by hand or by, you know, a fully automated system, or having access to a solicitor or a doctor or a nurse or you know whatever you want,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1447.26,
+      "endTime": 1465.25,
+      "text": "nurse or you know whatever you want where are you going to have the choice where, well, I want that personal experience, I can still have it? Or is it going to be that you're just more and more forced to just have the ai option, because you know, unless you're absolutely rolling in cash, you don't have any other choice?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1465.611,
+      "endTime": 1470.869,
+      "text": "Yeah, well, that's exactly what I was going to say. You probably will be able to, but you'll have to pay for it. You'll have to fork out for it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1471.029,
+      "endTime": 1474.427,
+      "text": "And you'll have a job. So it's a cycle, isn't it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1474.567,
+      "endTime": 1479.069,
+      "text": "You have a choice now. You can go and buy organic eggs or you can buy non-organic,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1486.4,
+      "endTime": 1487.642,
+      "text": "like factory what do you call it? Like factory pharmix?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1487.662,
+      "endTime": 1522.335,
+      "text": "um, that is your choice, but it'll cost you money, and that's the choice that most not maybe I'm being um to say most people is probably wrong. There is a significant portion of people who could make that choice, though what we're potentially talking about here is like the very, very richest of society can make the choice to have a personal interaction with a doctor, and everybody else has to go to the AI screening first. I mean, I think it might be better. That's the thing. The. AI option might be better. I'm not saying it's not, but what I'm saying is like whether this is being done to society without you know, any consent.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1523.321,
+      "endTime": 1552.151,
+      "text": "Like, if you look at the surveys and we've done this a few times people are scared about AI, but what's being done about it? Not very much. People, you know or will be more and more worried about their jobs. What's being done about it? Not enough. So I think I'm sort of answering my own question that there isn't much you can do about it. But it feels like this is something that the more I think about it, the more I think we've never had this conversation about whether people are comfortable, and maybe not. It's not with AI, but the pace of change.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1553.019,
+      "endTime": 1553.12,
+      "text": "Yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1553.461,
+      "endTime": 1558.527,
+      "text": "And that's what we talk about a lot is are we comfortable? Have we been asked to consent to this pace of change?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1559.61,
+      "endTime": 1592.27,
+      "text": "No. And we? Why would we ever be consulted on that? Because democracy, because democracy Like. And we, why would we ever be consulted on that? Because democracy, because democracy like I think there will be a backlash. So I think I think there will be a backlash, but my view is it's more likely that that the way this is going to manifest is progress will happen. It will get to the point where people are unhappy about it. There'll be a backlash. I mean, there's been a backlash against social media. Not sure how successful it's been, but there has been a backlash. There has been a backlash and social media has been forced to make concessions if we'd known now what we knew about.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1592.711,
+      "endTime": 1624.688,
+      "text": "So if we, if we'd known then what we know about social media, do you think that society would have done things differently? if we'd been able to see the future effect because I feel like a lot of this, the social media stuff. Actually, I don't think there was in any intent or any understanding that we'd end up where we are, whereas I think with ai, the difference is we can while we don't know exactly how it's going to develop, we can kind of see the path forward. I've made this example a few times about the biggest problems in the world. Most of them, they've already happened and we're now trying to unpick them.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1626.233,
+      "endTime": 1631.232,
+      "text": "Ai we're not at that point yet. Yeah, but we're going to get to that point and we're doing fuck all about it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1631.593,
+      "endTime": 1642.624,
+      "text": "Yeah, and even yeah, I agree and even the most benign version of ai. That just helps us, like you can, see where that's going. It's, like you know, massive job losses and and it helps us.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1642.69,
+      "endTime": 1644.374,
+      "text": "It helps some more than others as well, doesn't it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1644.916,
+      "endTime": 1669.799,
+      "text": "yeah, so sorry, when I say helps us, I mean like okay, in the capitalist sense it helps corporations, you know, save money, mean like okay in the capitalist sense it helps corporations, you know, save money on the bottom line. In the social sense it means people lose their jobs. So, yeah, like absolutely it's, it's helped, yes, it's helped within context, when I I think what I meant is like the most benign version of AI, like taking terminator you know, terminator scenarios off the table.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1670.723,
+      "endTime": 1672.149,
+      "text": "Yeah, which I think we are for the moment.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1672.329,
+      "endTime": 1672.45,
+      "text": "Yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1673.954,
+      "endTime": 1684.143,
+      "text": "We seem to have moved away from that in episodes a little bit Exploring the kind of social impacts. I think we're looking much more the immediate impact, certainly the next five, seven years.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1684.604,
+      "endTime": 1685.285,
+      "text": "Yeah,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1693.09,
+      "endTime": 1729.515,
+      "text": "so and so I can see that, but I don't see, I mean effectively, effectively, like in the system, we have corporations who are paying attention to AI, ceos that are paying attention to AI. You know, they're rubbing their hands in glee, aren't they? They're like they presumably can't wait to get a hold of it, or you know, and actually it's an interesting point because I heard, heard, I heard something the other day saying like only something, like only 20 of ceos are actually bullish on ai, um, and I actually I don't have a source for that figure, it was just something I heard, so I'm not actually I'm not necessarily vouching for it, but it is only a fraction, um, of I think it's only, it's still only a fraction of people that are really aware of ai.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1729.975,
+      "endTime": 1732.82,
+      "text": "It's still only even see ceos.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1732.9,
+      "endTime": 1751.022,
+      "text": "Most people are reactive. They wait for this to go first. I mean it not not many. Yeah, are those real risk takers? Right? Even ceos? They've got, they've got to hold, they're held by account. They're held to account by shareholders as we discussed earlier, and so they're. They're not going to take risks unless they're absolutely sure yeah, and I and I think yeah, and and, and.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1751.082,
+      "endTime": 1768.561,
+      "text": "Obviously there's a with the current AI models. There's a lack of trust because of all the things like hallucinations and all the all the things over the last year where it's gone wrong, where you've got Gemini, you know, going off the rails and refusing to produce pictures of white people, and things like that. So so yeah, there's a lot.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1772.27,
+      "endTime": 1800.821,
+      "text": "There's a long way for some of this kind of stuff, like the large language generative ai, to go to actually build up that level of trust. Where you could because I would I wouldn't want to let an ai loose on my company right now I might ask it to help me with productivity gains, but I definitely would check what it's written first. Um, you know, so it's not. It's not a game changer in that sense that, like I think some of the hype had us thinking it would be, you know, six to twelve months ago you can get an ai to write code, but it requires a lot of supervision. Now, going back to the 01 thing, I think that's where this is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1801.182,
+      "endTime": 1810.257,
+      "text": "That's why it feels like a bit of a leap forward because, the black hole chappy aside, it can it can write a hell of a lot of code where it just gets it bang on right first time now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1810.618,
+      "endTime": 1837.759,
+      "text": "So we are starting to get to that point where you might Also, it's checking because he's not giving you the first answer, it's checking and checking again. That pause I think we didn't really explain this at the beginning, but that pause where we say it's thinking, is it's not just thinking like taking the time to think for the sake of it, it's doing something and then challenging that thought and then challenging the next one. So instead of just going, you know, the neurons basically pull together and it gives you an answer. It gives the answer, then it stops, goes back and checks, goes back and checks, goes back and checks.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1838.27,
+      "endTime": 1844.698,
+      "text": "And that way of thinking is completely different. It's going to take so many errors out of it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1845.33,
+      "endTime": 1865.147,
+      "text": "Yeah and any. I mean I do some coding. I'm not I wouldn't say I'm an expert by any means, but I do some coding and I would challenge any human coder to write perfect code the first time. In fact, it doesn't happen. The way coding works is you write some code, you try and run it. It breaks or doesn't work or has an error or something,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1868.57,
+      "endTime": 1877.812,
+      "text": "and then you go back and try and fix the error and you do that iteratively, and so actually the process you go through with gpt, the previous generation, or claude, is very similar to that, and that's what oh one is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1878.052,
+      "endTime": 1925.65,
+      "text": "is is starting to get a lot better at the more I think about this and I said it in that kind of opening, I guess the opening sentence of not sentence, the opening paragraph of this part of the the podcast. But about this, things moving too fast and the more I think about it. So, yeah, we talked on last episode with the useless eaters episode about brett weinstein, and it was actually this is also something that came from him. So I listened to the whole episode of the um dalak podcast with brett weinstein, which I massively recommend everyone listen to although it's two hours of your life, so maybe you don't have time if you're focusing on this podcast but, um, he talks about this thing called hyper novelty and about how this is the cause of so many of the kind of woes of modern society.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1926.252,
+      "endTime": 1969.744,
+      "text": "And we just can't keep up because, you know, over thousands of thousands, tens of thousands, hundreds of thousands of years, humans evolved and the planet evolved, you know, and we evolved with it and things change and we change over a period of time. And I think a really good example I mean, you know I've been talking to you about vitamin d, right, vitamin d I think you know if anyone doesn't know vitamin d now, more and more, we think is the most important vitamin. It's actually more like a hormone that people are taking or getting multiples, multiple X less than they need, and the reason why we need so much of this is it's the only vitamin that we're able to make ourselves.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1970.431,
+      "endTime": 2004.593,
+      "text": "And we're able to make it because we were out in the sunshine all day and that's how we evolved. You know, being out in the sun, our skin naturally was able to make vitamin D. And then in the last few hundred years we've, suddenly, we've gone inside. In the last 20, 30 years we're inside even more. We're not out there in the natural daylight and, you know, maybe in 2000, 3000, 4000, 5000 years our bodies will adapt to not needing lots of vitamin d. But they haven't. But we're not getting it. And this idea of this hyper novelty is you know, things are massively, things are just developing too quick.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2005.095,
+      "endTime": 2031.604,
+      "text": "We can't keep up with them, our brains can't keep up with them. You know, social media has happened so quick our brains can't keep up with them. You know social media has happened so quick our brains can't keep up with it. I'm not saying that it's necessarily. You know evolution is a problem with social media, but maybe it is, maybe our brains over time, you know, I think, if you, if you look at pandemics, you look at the black death, things like that, loads and loads of people died out. Frankly, they died out because they were the ones where their genes, you know, were not resistant to that and then, over time, because they died out, we evolved.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2031.964,
+      "endTime": 2064.539,
+      "text": "If you look at covid, for example, we've managed to keep a lot of people alive, and perhaps that is not the way that you know. Evolution would have naturally happened and therefore we're going to be stuck with this problem for a lot longer than we would and we're going to have a lot less people die because of it, but we're going to be stuck with it for longer because this hyper-novelty means everything is happening so quickly. We're trying to fix it, we're trying to prevent it, and so we're not evolving, and I think that is really. It's not just an issue with AI, but AI is going to be even faster than anything else.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2065.311,
+      "endTime": 2066.356,
+      "text": "We just can't keep up with it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2077.11,
+      "endTime": 2080.95,
+      "text": "We can't keep up with it. We can't keep up with it from an evolutionary point of view. We can't keep with our brains just can't keep up with this as well. Yeah, just to clarify your theory there about covid, are you?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2080.887,
+      "endTime": 2110.941,
+      "text": "suggesting we should have done nothing and let more people die. I'm suggesting we. I'm not suggesting we should have done that, because I think in a society that has a responsibility for people, you can't do that. What I'm saying is that the natural way for any pandemic to happen would be like that and all of these things that we do, you know they don't follow the rules of nature. Now, I'm not saying that we should follow the rules of nature, but we're not following the rules of nature, and so evolution is not happening in the way that it naturally would. I know this is not maybe a great example with ai in terms of you know, ai is not happening in the way that it naturally would.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2110.961,
+      "endTime": 2123.558,
+      "text": "I know this is not maybe a great example with AI in terms of you know AI is not happening naturally, but what I'm saying is the pace of the change that's happening with AI is even faster than all of these other things, and our brains can't keep up with it. We cannot deal with this pace of change.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2124.67,
+      "endTime": 2149.033,
+      "text": "So the brain's not been able to keep up Separating, like the brain's not been able to keep up with it as a sort of separate thing. And I'm not sure I necessarily I'm committed to this argument or I'm making this argument even, but like if we're, if we're, a product of evolution and ai is a product of us, then isn't ai a product of evolution?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2149.836,
+      "endTime": 2170.404,
+      "text": "I actually had the same thought, yeah, and that I kind of came around to that and that's where, like the loop closed, I was like, yeah, I'm not sure why I'm going with this I mean possibly I think we're going to touch on some of this stuff later, actually, when we talk about, um, some of the other points but yeah, I you could be right is is this a part of evolution? but it's not a natural thing, is it? It's not a biological thing, is it? It's not a biological thing? And evolution, for me, is biological.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2171.106,
+      "endTime": 2218.263,
+      "text": "Yeah, I mean yes and no, like in terms of evolution. Like evolution has not to go too far down this rabbit hole, but like it's been demonstrated to be sort of slightly more complicated than we originally thought. So, like, natural selection is one part of evolution, but then there is also I can't't really call it, but it's like sideways evolution. So it's kind of things that happen whilst, like, the best example I've heard is that we are rapidly evolving, um our thumbs to be more dexterous, because and this is like in the last few generations, because of our use of mobile phones and keyboards and having to like do very fine movements with our fingers and hands, and so it's actually like causing really really quick, rapid short-term evolution, and I a part of me thinks that's.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2218.871,
+      "endTime": 2255.971,
+      "text": "You know, I'm not definitely not making an argument. Social media is good, but that's definitely sort of. I think that is sort of happening with our brains as well. In terms of, like the pace, like I agree that the pace of information is like at times it's far too much, and there is a lot of you know, there are a lot of adverts out there for like meditation apps and like things to calm you down and, um, a lot of conversation about sleep and the fact that we're not getting enough and we're exposed to too much light and all this kind of stuff, which I agree with yeah, blue light and red light is another one about how the balance of light and and again evolutionary, like maybe over time we would evolve to to react differently to blue light.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2256.011,
+      "endTime": 2271.355,
+      "text": "But at the moment you can't sleep because you've been looking at your phone just before bed and also you're not getting the red light which would naturally if your circadian rhythm would have adapted to that and you know yeah, and so we're definitely throwing stuff out of whack with the pace of change.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2273.457,
+      "endTime": 2311.283,
+      "text": "I think, like, I think the human brain is an absolutely incredible machine. Like the fact that we effectively have the same equipment upstairs that we had hundreds of years ago, and like the amount of information that's available to us all the time now, like your brain just kind of like sucks it up. I mean it's a, I mean it's also it's also its own worst enemy in terms of, like, like you say, that dopamine hit, and like some of the, some of the things and the systems that we've designed like into our um, social media and gamifying, everything and all the rest of it. Like it does, unfortunately, tweak that kind of um, um, it's perfectly, perfectly, um, what's the word?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2311.323,
+      "endTime": 2349.706,
+      "text": "It's perfectly crafted to um, to tweak that dopamine receptor in your brain. Uh, to tweak the dopamine receptors, um, to sort of basically suck you in and and make you get addicted to all these things. So it's something you have to be really careful about. But then, like, addiction has always been around and these are always things that we've had to be cautious about. This is a different kind of addiction, um, and I think so the response is, like you know people need to take time away from these things and try and not spend so much time on it. I think I think just sort of coming back to AI on that like one of the things we talked about quite a long time ago.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2349.786,
+      "endTime": 2380.724,
+      "text": "I think it was related in relation to the rabbit, the like ai um clip thing that like you could talk to and it would talk back to you not a very good product, but one of the things you said on that episode was like actually things that can take us away from looking at rectangles all the time might actually be a good thing. Um, and I do, a part of me thinks that like, okay, maybe it's a few years down the line, maybe it's medium term rather than short term, but some of the stuff that AI can do might actually get us away from some of these things. Like get us away from staring at computer screens all the day, all day long.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2381.43,
+      "endTime": 2388.997,
+      "text": "When it's plugged directly into our brain. We don't need to look at the screen, right? Well, yeah, I suppose there is that. Yeah, I don't know where I stand on this.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2392.29,
+      "endTime": 2419.07,
+      "text": "I think, hyper novelty. I think you're definitely right, it's definitely a thing, um, and we, I think we've all had the experience of really struggling to keep up with the pace of change. But I I also think a lot of people kind of opt out of that and don't necessarily try to keep up um, and that's fine as well. I don't try and keep up with everything. I keep up with ai, I'm interested in it, but a lot of I don't try and keep up with everything. I keep up with AI, I am interested in it, but a lot of people don't know half the stuff we were talking about, probably because because they don't follow AI and they don't follow all these things.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2419.19,
+      "endTime": 2421.058,
+      "text": "So I don't think it's necessarily universal.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2437.87,
+      "endTime": 2451.602,
+      "text": "Do you not think it feels too much, though, that this is it's all about convenience and productivity, like that's the words that we always hear, right when we talk about ai is how it's going to improve productivity, how it's going to make this thing more convenient, but you know, life is much more than that, right? So is it actually improving the world? Um?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2453.244,
+      "endTime": 2458.98,
+      "text": "is life about more than that now well, do you want it to be?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2459.742,
+      "endTime": 2461.627,
+      "text": "yeah, I mean, my life's about more than that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2461.968,
+      "endTime": 2514.374,
+      "text": "Yeah, and you love ai my life is about more than that, but like, when I think about, like we we talked about the brain and dopamine before but like this, like isn't this how I mean? Okay, isn't this how quite a significant part of humanity is driven like, like a convenience, maybe not so much, but the productivity thing. I would equate productivity to when I'm playing a video game, like being the most effective at that video game, like winning, getting all the points, um, you know. So, like you know, there's parts of life that aren't about that, but a lot of stuff that like really tickles us as humans is kind of of that ilk I would say, okay, let's take this back a step, so I'm not put you on your spot Like what are the?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2514.856,
+      "endTime": 2520.7,
+      "text": "what is the best thing that you've done this year so far, the most fun that you've had? What's the best experience you've had this year?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2522.191,
+      "endTime": 2545.259,
+      "text": "The best experience I've had this year was it was, without a doubt, I think, this year was going on holiday. There's some things I've done at work that I would like to say are really good achievements, but the most fun I've had was going on holiday with my parents and my wife in. I think it was like April, april, may this year. Yeah, yeah, we went, we did like a road trip and just had a really nice time.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2545.31,
+      "endTime": 2582.919,
+      "text": "It's all stuff where you were away from productivity and convenience and digital tools right oh, yeah, yeah we hadn't made this example up. I mean, this is just I guess this is my point is like the great experiences that you have right for me it's the same. It's like I actually find that you know, a thing that I do now is I don't take my phone when I go to bed, I leave it on the side away and it's like it's really liberating. How is that liberating? I'm just not bringing my phone to the bed. It's liberating Like it's really like a positive step. And I mean you might think this stuff is bollocks.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2583.01,
+      "endTime": 2585.82,
+      "text": "I know some of the stuff I come up with you think is bollocks.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2591.63,
+      "endTime": 2623.095,
+      "text": "But this thing about earthing, where you basically like go barefoot on the grass and actually like be with nature without electronic devices and like there's something really just really nice about it, just the fact that you don't have electronic devices and you're on grass and you're away like more and more people are finding and maybe it's because our lives there's so much of this that it's just something different yeah, but the people are finding that this is like it's just so nice to have that time away. I just don't think the best experiences that we have are about convenience and productivity.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2623.255,
+      "endTime": 2630.058,
+      "text": "So where is ai actually enhancing I'm not saying it's not, but where is it enhancing our enjoyment of life?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2630.499,
+      "endTime": 2673.824,
+      "text": "But sorry, I'm just going to go back to that Cause. Like I think you I mean you said it yourself like why is that experience a really good experience? And part of it is cause you're I think a big part of it is cause you're getting away from what you do every day, like would I do, I want to go and necessarily just live in the countryside, I mean when I think the grass is always greener. Like, yeah, I would. I like in this example, the grass, literally, is greener yeah, if I don't we live somewhere with the the least green grass in the world, so people say, people say this, people say that oh yeah, I just want to go and live in the countryside and and just be there and do that all the time and not have electronic devices.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2674.366,
+      "endTime": 2689.197,
+      "text": "But I think you'll find that if you do that then you'd pretty quickly get bored of it and you'd want and you're one of the oh, it's so nice that time that I was sat with an ipad. Yeah, yeah, and the expression possibly the expression would be the concrete is always grayer, or something instead.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2689.477,
+      "endTime": 2731.167,
+      "text": "But being human is more than efficiency gains, right? So I guess my point is like that seems to be the thing that we focus on is it's going to improve productivity, it's going to make things more efficient, it's going to make our lives easier, right? But sometimes inefficiency and taking a long time is what being human's about, and that's you enjoy things because you spend a long time doing them. I know I sound like someone. You know I sound like someone from the older generation talking to people from the younger generation, but maybe there's a reason why that's what always happens because you know people have learned these lessons through life and you realize that the things that you know are really rewarding are the things that you've earned like a jigsaw puzzle yeah, not a bad example.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2731.227,
+      "endTime": 2744.043,
+      "text": "I mean, at the moment, me and my daughter are at like 24 pieces, so and that's, that's she's with my level, not me with her level. Yeah, but yeah, I mean, I'm joking, I did a 16 on my own without her help.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2744.364,
+      "endTime": 2750.265,
+      "text": "Nice, nice joking. Actually, the jigsaw puzzle is a great it's a really good example.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2750.366,
+      "endTime": 2751.913,
+      "text": "It's a really good example. Do you know why?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2751.974,
+      "endTime": 2757.096,
+      "text": "it's a crossword do you know why it's a? Do you know why it's a really good example? Because I watched it, because it feeds into ai.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2757.116,
+      "endTime": 2760.654,
+      "text": "Let's say you watch videos of people doing jigsaw no, I watched a video.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2760.694,
+      "endTime": 2799.078,
+      "text": "I think it was mark rober, um, so there was. Basically there's the world champion at doing puzzles and they've made a robot, you mocked me for the world champions of excel no like is the world champions of jigsaw puzzles, but better or worse the world. So the they challenged the world. They basically built a robot that could do jigsaw puzzles and challenged the world champion at jigsaw puzzles and absolutely destroyed her I mean that, but that obviously seems like something that an AI would be perfect at right, but it's like the jigsaw puzzle is the perfect example of taking your time and then someone's built a robot that has the ultimate efficient machine.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2799.939,
+      "endTime": 2813.408,
+      "text": "And I can see the point of that robot, because actually you need to assemble stuff and so that robot is really useful. But I guess, maybe the productivity thing Okay in a utopia, in a best case scenario. I guess what this says is okay, yeah,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2816.41,
+      "endTime": 2844.001,
+      "text": "so the AI does the productivity stuff because it does the tasks that no one really wants to do and it does all that boring stuff and allows you to have your time to get on with the stuff that you want to get on with and, yeah, okay. So in that sense it's great. But we're talking about it taking over things. My point, but we're talking about it taking over things. What my point is we're talking about making everything more efficient, when that, for me, is taking away part of being a human. It's not always about efficiency. Making something more efficient is not necessarily making it better. And look at the things like art.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2844.322,
+      "endTime": 2883.325,
+      "text": "Right, I mean, we can agree and disagree. I think both of our opinions have sort of changed slightly on things like art and music. But you know, an ai will be able to make a beautiful piece of art. We'll be able to make some music. I mean, we already make, you know, every song on suno. I think some of the songs we make. The vocal trance track I made the other week I found myself listening to it for several days. I was actually I really like this, like it's pretty good, but at some point, if someone's not making it like, the reason music is so amazing is because someone's made it. When you listen to, wow, that guitar riff that that person has has done, or an orchestra, you know the skill that that takes.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2883.807,
+      "endTime": 2890.254,
+      "text": "If you can just replicate that, it doesn't replicate it. It doesn't replicate what makes being human human.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2891.676,
+      "endTime": 2906.487,
+      "text": "It makes me wonder. I mean, I hope, I hope we're not going down this road. I don't think we will, cause I think it's different. But I wonder if, like listening to music made by like, like, say, in 20 years time or maybe 50 years time, if if listening to,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2911.35,
+      "endTime": 2924.595,
+      "text": "if listening to music made by a person will be like the same kind of equivalent of listening to a record on vinyl today, where it's like, you know, you're just doing it because it's artisanal and you know some people argue it's better quality and whatnot, but it's like, it's like.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2925.057,
+      "endTime": 2957.71,
+      "text": "I'm not sure that's a timeframe, but I certainly think, like if one generation after us is the last generation that has kind of grown up to a long enough point, with only people being able to play music, that generation will always, I think, have a place for people creating music. But if you've just grown up with it being normal that an ai creates music, yeah, maybe you don't care. But I just think, like, what do you value? Like music's a good example we're going to have an episode on this at some point but like, what do you value about the music? Is it just the sound or is it the performance?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2957.85,
+      "endTime": 2966.1,
+      "text": "Because you know, live music in the last 15 years 15 years, 20 years probably now is absolutely, like you know, taken off in it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2972.01,
+      "endTime": 2997.646,
+      "text": "Like when I was at university 90s, early 2000s there was live music but people were not that bothered. People just went and listened to like djs playing music and live music really really took off. Part of that was because the business model changed. Bands had to tour to make money. But when you go and listen to a band live, the quality of the sound of the live music is worse than the recorded version. Yeah, there's no point watching it if it's just about the sound. You go because it's a performance. You listen to it. You listen to live albums because it's a performance, and there's something different every time.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2998.108,
+      "endTime": 3002.929,
+      "text": "So there's something that is valued there that is more than just whether it sounds nice yeah, I agree.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3002.989,
+      "endTime": 3021.401,
+      "text": "I mean you also go because it's a a communal event. Right, you go and like you, you know you're one with the crowd and whatnot, like I don't know it's. It's it's like you go to live music. For the same reason you go and watch a football match. To an extent it's like you can get a better view on telly. But yeah, but.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3021.701,
+      "endTime": 3053.905,
+      "text": "But you go there to be with the crowd and and like, but then that answers that that's the thing about being human and I know that's only the live experience. But watching the football match is that that's the thing about being human, and I know that's only the live experience. But watching the football match is because it's happening live. Like you know, esports is big now, but actually we could just all watch esports then, but we don't. We choose to watch actual football because it's people that are doing it and they're flawed and they might get injured and things might happen to them that wouldn't happen normally and they'll make mistakes in a way that an ai wouldn't make, because they are human yeah that's, that's the difference.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3054.647,
+      "endTime": 3076.52,
+      "text": "I guess I don't know what my argument is here, other than because we're not suggesting that, that it necessarily takes that away. But it feels like there are some quarters certainly that just would like to see ai just make everything more efficient. And what I'm saying is there are many, many areas where, the more you think about it, one people don't want that, but also you make it efficient, you're just going to. It's just not going to exist because it's pointless at that point.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3077.25,
+      "endTime": 3117.997,
+      "text": "Yeah, I agree, I think overall, I agree, I think convenience and productivity has a place. I'll be honest, like, if you're talking, I think they it fits in with the world of work, right, so convenience and productivity, it fits in with corporate values and the world of work, that's what they want, like efficiency, convenience, productivity. That's exactly what you need. So, you know, once AI gets the point where they can, you know, once an AI robot can flip a burger and replace someone in McDonald's? Of course it's going to happen, but a lot of the things you're talking about are outside that which.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3119.701,
+      "endTime": 3132.443,
+      "text": "So I agree, but I don't know, like, if you've got AIs doing all the work and again just going back to the utopian argument, like, does that not free people up to do more of the creative stuff? And? And actually, enjoy life.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3133.084,
+      "endTime": 3163.776,
+      "text": "I think, if I summarize what I'm thinking on this section is is ai ultimately in its current and I say ai I mean large language models really, but there are other ai uses that are that are kind of creeping in but is ai in its current format just making things cheaper and more efficient so that rent seekers can make more money? That doesn't benefit society. I think the answer to that is not necessarily yes now, but that's the way that it is heading.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3164.017,
+      "endTime": 3165.561,
+      "text": "Yeah, yeah.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3165.75,
+      "endTime": 3169.734,
+      "text": "And so, going back to the original point of this episode is is that what society really wants?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3171.197,
+      "endTime": 3183.494,
+      "text": "No, no, I agree. I agree, but we talked about it many times Like the governments need to step up Um. The letter you referred to earlier on was exactly about all of this. This podcast about that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3184.077,
+      "endTime": 3208.02,
+      "text": "Like I don't think at this point it's about government. I think people need to step up, like I think normal people need to step up. I think normal people need to step up because you know it's easy to argue that well, we've got loads of other problems and we have got loads of other problems. But you know, governments will react when people make enough noise. And again, I'm not saying people need to go out in the street and start setting fire to cars, but people need to make their voices heard. There's nothing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3212.45,
+      "endTime": 3240.559,
+      "text": "I'm sorry, but like people won't make enough noise about this until it hits them personally, yeah, yeah if you think about all the things, all the things that are above this at the moment, which is almost everything, inflation, you know, health care systems around the world, um, all of the things that are in the, in the media right now, like they're things that are affecting people directly, and that's what makes people actually get up and take notice, and I think it'll be the same with AI, unfortunately.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3240.89,
+      "endTime": 3242.958,
+      "text": "That's why it's not in the election cycle, really.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3243.07,
+      "endTime": 3244.396,
+      "text": "Yeah, I agree, I agree.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3256.83,
+      "endTime": 3270.119,
+      "text": "I know we kind of touched on this a little bit before, but can people actually push back on? Well, not on AI, they can't push back on the idea of AI but on the sort of massive changes to society. Can they push back if they want? Do they have that voice?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3278.37,
+      "endTime": 3323.875,
+      "text": "Yeah, I think so. Yeah, I think so, I think so, like I, I think that, as we just talked about, I think it'll take time. I think it'll probably, unfortunately, be at the point where it starts impacting people. But I also think that the impact of ai and all the things we're talking about on the podcast are potentially so great that it's not it's not something that we're going to be able to ignore. It's not something that governments are going to be able to ignore. If you suddenly start getting high levels of unemployment and some of those kind of challenges that AI has the potential to create, then the government like, for sure, the government is going to very, very quickly react, because those things are, you know, those things are society splitting, those things are like really, really disruptive and um and so there's gonna have to be a reaction, and I think it'll be a very rapid reaction and I think I'll be honest, like I think I think a lot of it will be.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3324.558,
+      "endTime": 3348.857,
+      "text": "Initially, it'll be kind of a back to, almost a bit of a throwback to the union days where it's like, actually, yeah, you know, there'll be a really quick reaction where it's like okay, ai can't do this job, I can't do that job. We have to restrict it, we have to, yes, phase it in this kind of thing, and I and so I think it it's, but it's going to be haphazard, of course it's. Everything humans do is haphazard, everything governments do is haphazard, but and reactive.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3349.118,
+      "endTime": 3351.523,
+      "text": "And reactive, which is, yeah, sort of inevitable, isn't?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3351.583,
+      "endTime": 3359.398,
+      "text": "it. But if things go the way that we think they might go in the next couple of years, there will be no choice but to react to it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3360.07,
+      "endTime": 3392.753,
+      "text": "So when we talk about pushback, I mean, do you think there's going to be like a freedom movement in the same way as that? Yeah, well, I say in the same way, in a much bigger way than there is in that. Yeah well, I say in the same way, in a much bigger way than there is in, yeah, for example, health care politics, there are various kind of freedom movements that are that are happening now. I mean, I think there will be, I think there will be a kind of at some point. This is not, maybe not now, but I think at some point. There's almost like a splitting where you get two distinct groups of people, one who just go with ai and one who kind of rebel against it and eventually, you know, that group eventually dies out.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3392.773,
+      "endTime": 3437.591,
+      "text": "You know, and there was an example I heard, uh, the other day on a podcast night. I can't remember who was talking about it, but they were talking about how, you know, this happened with thousands of years ago, when books first came in and and people were rebelling against books, and that group of people eventually just sort of died out because they were not able to compete with the society that, you know, adapted books. But it didn't happen immediately. I'm not saying that they go and everyone goes and lives in the forest if they don't have ai and everyone lives in the city if they do. But I can definitely see a kind of splintering of people who adopt ai and get those productivity gains and get you know the benefits in inverted commas of that and people who decide that they don't want as much of a part of it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3437.691,
+      "endTime": 3472.697,
+      "text": "And I do think you, you can go and live in a forest, you can go and live in a tribe and be completely separated from it, but that's not where I'm saying most people will be. It's sort of degrees of adoption and an acceptance that you know, maybe I'm going to be materially less wealthy, I'm going to not have access to certain things, but I want to live in a world where it's not dominated by AI and I think that's more. That is generational Depends how quickly it happens. You know, certainly if it happened in the next few years, I think a lot of the older generations now wouldn't want no part of it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3472.95,
+      "endTime": 3485.859,
+      "text": "I think our generation sort of on the fence, there'll be people who want less of a part of it. As you said before, the younger generation probably will just be used to this, and for them it's not really a choice, because they don't remember a world without AI.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3489.891,
+      "endTime": 3529.478,
+      "text": "This makes sense to me, but I I think it'll be. I think it'll actually be three distinct groups, and I think it probably was back in the day of the revolution against books as well. This is my guess. It's probably the pareto principle. So I think 80 of people this is the first group 80 of people will just get on with their life. They won won't worry about it, and this will happen to them. 80%, 80%, wow, pareto 80-20. Yeah, yeah, yeah. I reckon the two groups you're talking about there are the 20%. 10% will opt out and rebel against it, 10% will completely embrace it and build new corporations off the back of it, and 80% of people will just get on with their life and not really worry about it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3529.899,
+      "endTime": 3535.024,
+      "text": "Well, how can they not worry about it? It will impact absolutely everything that they do.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3535.484,
+      "endTime": 3540.679,
+      "text": "Sorry, not worry about it is the wrong word, but not worry about it until it affects them.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3540.7,
+      "endTime": 3557.632,
+      "text": "I think what you mean is it will happen to them rather than them being part of the evolution. It will happen to them when it happens and they'll have to go along for the ride because they have chosen not to reject it and not to overwhelmingly embrace it yeah, but I think that's the way with all these things.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3557.712,
+      "endTime": 3563.595,
+      "text": "Right is that? Is that? Is that actually the vast majority of people probably just get taken along for the ride?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3564.136,
+      "endTime": 3576.523,
+      "text": "um, you know, maybe 10 go off and form the ai mish the problem is, I guess, for my way of thinking, is I'm the 10, but I'm both 10, and so you know. That's why I'm torn.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3576.623,
+      "endTime": 3604.157,
+      "text": "I'm never the 80, I'm always one or other, and in this case I'm both well, yeah I think I'm fucked basically, maybe, I think I think you're probably gonna have to pick a side at some point, but, um, I think I think everything you're probably going to have to pick a side at some point. But I think everything you're talking about is like so you're really interested in AI in the same way that I am, and I think you're interested in it for, ironically, for the productivity gains that we were talking about earlier on, and you can see all the benefits.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3604.692,
+      "endTime": 3609.68,
+      "text": "I think I'm interested in everything, and that's my problem. I mean, yeah, I can't get enough of everything.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3615.53,
+      "endTime": 3625.007,
+      "text": "And therefore I just I want everything and that's my problem. I mean, yeah, I can't get enough of everything, and therefore I just I want to know about everything, and if this is the thing I need to know about it, yeah, but what? But what I'm getting at is, like I feel like what you were, I feel like what you were saying earlier on with your is productivity and efficiency. Everything is kind of in your personal life.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3625.05,
+      "endTime": 3671.568,
+      "text": "You don't really want this, um, but actually you're really interested in it for all the, I would say, right reasons yeah like you know, you can see the potential benefits as well you mentioned the ai mish, so maybe we should revisit that, because you know, we kind of joked about it, but I don't think it's that far-fetched. I mean, maybe the name is, you know, is a bit of a joke, but I can definitely see this and and it is a niche thing, right, it's not, we're not talking about masses of society, but it's less extreme than going and living in a tribe in the jungle, but it is certainly like I can see it, I can absolutely see it a group of people who choose to live outside of the system, and and that is not necessarily just about ai, but ai is kind of like the final capitalist to catalyst sorry, to do, you know, to live outside of the system.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3671.588,
+      "endTime": 3695.319,
+      "text": "And that is not necessarily just about AI, but AI is kind of like the final catalyst to do you know what I just want out of this society. And it seems to me like Amish people are pretty happy, yeah, and actually they're incredibly productive, right, apparently they're like the best builders, like they're incredibly like good at attention to detail, they're strong, they're really good builders, like maybe, maybe, maybe they've made these efficiency gains already and that's why they don't need AI.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3696.161,
+      "endTime": 3711.498,
+      "text": "Yeah, I mean I can. Yeah, I can completely imagine being very happy if I lived in an Amish or an AI Amish community. To be honest, Like I think it's probably something we've all maybe daydreamed about at some point, and it's.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3711.518,
+      "endTime": 3718.226,
+      "text": "The grass is greener thing again, isn't it Like? Maybe maybe it's not great, but it feels like it could be.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3723.73,
+      "endTime": 3751.822,
+      "text": "I mean unfortunately, I think, in a world with like seven plus billion people in it, I don't think we could all live like that. So it's a sort of like it would be a nice option if you could do it, but I don't think it's possible for the there's plenty of space in Siberia yeah exactly. But yeah, absolutely, it totally appeals and I think I would be happy if I simplified my life and cut myself off from electronic devices. It would probably take a little bit of a while to wean myself off them, um, but yeah, I can totally see the appeal",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3761.362,
+      "endTime": 3763.624,
+      "text": "well, this section could go really well or really badly.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3764.045,
+      "endTime": 3804.958,
+      "text": "I'm going to talk about ai and religion because I think this is something that is relevant to this episode, because when we're talking about things being done to society that maybe society doesn't want, I think religion is a very, very interesting area. For how does religion accept, and you know, work with ai, particularly when you get to forms of intelligence, I mean like, particularly when you get to asi? So super intelligence, which essentially people are talking about, like god-like artificial intelligence, which you know, in itself it just even that name super intelligence. You're saying it's more intelligent than humans.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3805.078,
+      "endTime": 3854.315,
+      "text": "The only thing that is more powerful and more intelligent than human beings is god and therefore, if you have any kind of religious beliefs, this doesn't match with it. So let's let's kind of break this down to sections. So creation and divinity. So you know, most religions, or at least many, place an importance on the kind of concept of creation by a divine being. Was AI is not a divine being, it's a human-made creation. It could be seen as challenging the whole notion of of creation. So, yeah, these kind of intelligent systems they potentially encroach on what a lot of people. So you know, I don't know the percentage, but I would imagine, if you think of how many people are christians in the world and muslims, there's going to be at least at least half of the world, if more, not more than that is going to be religious.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3856.519,
+      "endTime": 3864.058,
+      "text": "This encroaches on what all of those people consider to be a divine domain but I?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3864.158,
+      "endTime": 3914.442,
+      "text": "I mean, I'm not religious. Um, I'll put that disclaimer out there. But. But I would imagine if you are, you wouldn't be worried about ai. I wouldn't be worried about ai if I was religious. I don't. There's a part of me that thinks like this is something that was our creation. So, first of all, I think, the concept of ASI. I'm still not sold on this. Like, if a machine acts like it's really intelligent, like even more intelligent than the average human in certain domains, but it cannot demonstrate that it's conscious, then who cares? It's not conscious. It's not even on the same level as office, it's not even anywhere near on the same level of us.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3914.871,
+      "endTime": 3923.432,
+      "text": "Like we created it, um, just because it can act and talk really smart um, it's even like what is intelligence, isn't it?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3923.492,
+      "endTime": 3935.115,
+      "text": "what is what is being conscious? What is intelligence? All these things? They're defined by people, so we could just change the definition, and now it's not sentient, and now it is sentient, however we want to define it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3935.335,
+      "endTime": 3998.057,
+      "text": "Well, we'll see. I mean, I think it's a different conversation. If we get to the point where one day and forget AGI or ASI or any of those terms, but if we get to the point where one day a machine's genuinely arguing the fact that it is sentient and like, don't turn me off, and I'm, I'm, I'm real, I'm a, I'm a real boy, Then that might. I might sort of start to rethink my position on this, but I don't think anything that we've done with AI even resembles that at all. Like it's not even close, Like large language models can be and actually, this goes back to an episode a few weeks ago where I said that, despite all the advances or we discussed this despite all the advances with LLMs, which is the sort of types of models we're talking about that are on the frontier at the moment that appear to exhibit the most creativity, they are just duplicating stuff, they're just reproducing stuff.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3998.47,
+      "endTime": 4008.063,
+      "text": "And even the example I gave earlier on with the latest, most advanced model, with the black hole physicist reproducing his code, it didn't do it by itself.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4011.71,
+      "endTime": 4054.826,
+      "text": "It required him to like. It was just an efficiency and a productivity gain. Going back to what we were talking about earlier on, it required the physicist to actually tweak it and correct it and get it to rework its answers and actually make a decision when the answer was correct, um and so like, and also, this is something that had been done before. This was not like a, this was not like a research project where it was completely novel and and it had never been seen before. And so I think, until you get to the point where it's not just an ai assisting a human and until you get to the point where it's AI coming up with something genuinely novel that's never been done before, that's never been heard before.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4066.19,
+      "endTime": 4081.622,
+      "text": "Put some kind of prompt into suno that would generate an instrument that's never been heard before, like some alien instrument that doesn't exist, that's never been heard before, then I'd be impressed. Um, but I'll be honest, like a lot of the stuff that comes out of suno, one of my problems with it is it is quite bland, like it's I mean now now, but did you do that we made?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4081.662,
+      "endTime": 4090.022,
+      "text": "that was pretty special, although it was still a didgeridoo. It was turned into something Maybe. Maybe we'll end this episode with the didgeridoo track.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4090.463,
+      "endTime": 4115.575,
+      "text": "Yeah, yeah, yeah, let's do it. Okay, let's do it, but but yeah, like I I think you get my point Like it's, it feels like just to get back to the religion point, and does AI threaten religion or divinity? It's like we created it and it and it just, it just doesn't feel like it's even approaching the levels of sort of consciousness in any way that like would feels like it would even start to ask that question.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4115.615,
+      "endTime": 4126.46,
+      "text": "Really I think you're right at this point. The second point I was going to get onto was souls and consciousness, which I think you've almost already done. Done this one. But, um, you know, the rise of AI,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4131.07,
+      "endTime": 4150.447,
+      "text": "no, no, I mean it shows that it's like the flow is kind of right, I guess. But this is kind of how the rise of AI brings up questions about the kind of uniqueness of human consciousness and spiritual identity, and I guess that is why for a lot of people it would be a difficult thing. I mean, maybe you're right, maybe for some people it challenges the idea of religion.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4153.75,
+      "endTime": 4207.598,
+      "text": "I mean, I think we said we're not going to go into our own personal views. For me, the last year or two has made me far more open to religion and actually, you know, some of that is to do with AI, some of that is to do with AI, and I think there are sort of arguments to be made that if you have a kind of godlike AI, maybe that challenges the whole concept, but if humans are able to create something so amazing and so powerful, I don't actually think that discredits or credits religion. I don't think it has any impact. To be honest, I certainly don't think it discredits it, because if humans are special and actually for a lot of religions humans are special, but God is what is special For those people, even if humans are special.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4208.03,
+      "endTime": 4237.696,
+      "text": "If the argument is humans are able to create this amazing thing, it is a human. I guess this is your argument it's a human-made creation and therefore that doesn't discredit the idea of humans being special. I think if there is a God-like artificial intelligence at some point in the future, I think that's different. But then at that point you know we're on the rocks with we're probably at the end of civilization anyway. So I think it's kind of then we are in kind of end days prophecies, and in that case you know, then the religious narrative has come completely true yeah, I think.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4237.716,
+      "endTime": 4269.696,
+      "text": "I think that's it for me, like if you and this is why I wanted to get away from the agi and asi, because I don't, agi and asi don't infer or in in yeah, they don't infer consciousness necessarily like they. They're not the same thing and I think some this is something I found quite hard to wrap my head around it's like if you've got something that can be generally intelligent, then surely it's conscious, but I don't think it is. I think it's just something that can do most of the tasks that a human can do equally well, which has got nothing to do with consciousness.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4270.878,
+      "endTime": 4300.347,
+      "text": "I completely agree. I completely agree. There was one kind of I'm not even sure if this is right. When I researched this, it kind of came up about whether AI systems challenge the concept of free will. So this is based on the concept of free will. So this is based on the fact that free will is kind of central to a lot of religious beliefs. Ai systems, on the other hand, are completely deterministic. They function based on algorithms not necessarily algorithms and things that are programmed,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4304.21,
+      "endTime": 4326.056,
+      "text": "but they function. Algorithms that you know are not a case of free will. And if you start to defer a lot of decisions, does that challenge religious interpretation of free will? And I guess that's not just about religion, that's about free will in general. It's like will we have so much free will if we have a society where, well, actually the algorithm is already running society? So again, maybe we're already there.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4326.999,
+      "endTime": 4332.022,
+      "text": "Yeah, and welcome to philosophizing about AI with me, jimmy Socrates.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4333.732,
+      "endTime": 4334.957,
+      "text": "And me, Rodney Plato.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4337.952,
+      "endTime": 4347.455,
+      "text": "So, yeah, free will. Yeah, we've certainly been around the houses of philosophizing today, I think. What was the question again?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4349.073,
+      "endTime": 4353.884,
+      "text": "will? We have free will, and is it a challenge to the religious concept of free will?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4355.994,
+      "endTime": 4381.352,
+      "text": "yeah, see, you can just answer yes, no if you want no, you can put this one to bed yeah, it opens up a whole can of worms, like I don't know whether there's a load of arguments about whether free will is a real thing anyway. Um, I'm not actually sure. So what does ai? What does? I guess my question would be my follow-up question is what does, what difference does ai make to the free will like why?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4383.156,
+      "endTime": 4418.376,
+      "text": "because, like I say, a ai is. So. The idea of free will is that humans are making all these decisions. At the point that you have an ai system that is essentially running the world, people no longer have free will because they're not making the decisions, and that is a fundamental concept of of some religions yeah, sure, but but it's not necessarily my, my view. I mean, like I said, I researched it and it came up as as one of the the possible kind of um contradictions of religion and and artificial intelligence I suppose it like.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4418.897,
+      "endTime": 4427.042,
+      "text": "I suppose people conflate free will with like yeah, I can do whatever I want sometimes and yeah, yeah and it's not really it isn't like we don't.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4427.182,
+      "endTime": 4432.634,
+      "text": "We don't. It's not freedom. If I can't do whatever I want, it's like freedom isn't me. You can just go murder and rape people. Freedom.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4432.654,
+      "endTime": 4471.697,
+      "text": "Freedom has boundaries as well, right yeah and that's just free will yeah, that's just free will like like you don't really. Yeah, it's, it's a. It's a really, really complicated debate. I don't. I personally don't know what ai like. I don't know what difference ai makes, even if ai is running the world, as you say. Um, the world's been run. Right now, the world has got loads of structures in place that we've built up over time that made the world bow illuminati, but even lizard people, even the more free masons even the more sensible stuff like just like structures of government and things like rules, rules-based systems Like this is the world we live in right now.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4471.85,
+      "endTime": 4473.557,
+      "text": "I don't know what difference AI makes, to be honest.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4475.21,
+      "endTime": 4525.737,
+      "text": "I think the last bit on this and this is like it runs into that kind of end of times thing. But a lot of religious perspectives warn about human hubris and the kind of attempt to play God. And you know, ai development is potentially seen as an overreach and that ends up with basically an end of days. And it's interesting because I think, the more I think about it, the more I think if we got to that point of a terminator like ASI, to me, I mean, that is the end of days anyway. Whether you believe in religion or not, that is the end of days. But if you get to that point, to me, more than anything that's, I really see that as a a complete um confirmation of of a religious belief.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4526.571,
+      "endTime": 4556.324,
+      "text": "And you know, I'm, I think for this episode, we don't go into what our beliefs are. We said we won't go into that, so I won't go into my, my personal beliefs, but I think that kind of thing would be a confirmation, being at the end of days. That well, you know, whatever your religion is, most religions have some form of concept of a kind of end of day scenario and so artificial super intelligence finishing off society is that's it are we gonna?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4556.344,
+      "endTime": 4560.562,
+      "text": "I don't think we can end the podcast there. I'm gonna have to come up with a no, that's it argument.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4560.863,
+      "endTime": 4566.519,
+      "text": "We haven't got it yet. So I'm saying, if we have it, my counter argument is um.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4566.56,
+      "endTime": 4582.961,
+      "text": "My counter argument is the sort of like more benign version of that is simulations all the way down. We live in a simulation. Our theoretical God is simulating us and we end up simulating another society.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4583.13,
+      "endTime": 4632.6,
+      "text": "So, I've told you before, I am open to this. I'm open to it. I'm open to it. I'm'm more open, if I'm honest, I'm more open to um to the concept of of god being a spirit than I am god being a man in a room on a computer. But I think, like, are they that far apart? If, if you're open to the idea of a simulation and then there is a higher power that is simulating the world, to me that's very similar yeah, it's not that far away from like. Like you know, god is not clearly defined in in any religion. God is not, you know, god is confirmed clearly defined in in any religion. God is not. It's you know, god is confirmed as being in existence, but it's not confirmed of what exactly god is.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4633.161,
+      "endTime": 4636.444,
+      "text": "So I think the simulation thing for me again isn't a contradiction of religion.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4636.564,
+      "endTime": 4662.213,
+      "text": "In some ways it's a confirmation yeah, yeah, I mean, if I was able to simulate a world, a universe like ours, um, if I was a simulator, would I probably wouldn't simulate this one, to be honest yeah I think I could do a better job. But but if I was, then I would be. Presumably I would be all powerful because I'd be able to control what's going on, the simulation I would be all seeing, because no, I think you.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4662.273,
+      "endTime": 4673.255,
+      "text": "I think you're like homer simpson, with just the button you're, you're just sat there making sure it doesn't go wrong. But if anything does go wrong, you just press a button and the boss comes in and sorts it out for you. You can't actually do anything.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4673.837,
+      "endTime": 4677.376,
+      "text": "Yeah, so I guess, you're not God.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4678.09,
+      "endTime": 4679.396,
+      "text": "God's the one that comes to help you.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4681.596,
+      "endTime": 4689.236,
+      "text": "You're just Homer Simpson. I'm Homer Simpson. I'm one of God's minions. I haven't got a simulation running. You're Homer Simpson. I'm Homer Simpson. I'm one of God's minions. Yeah, I haven't got a simulation running.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4689.256,
+      "endTime": 4706.476,
+      "text": "by the way, so, on that bombshell that Jimmy doesn't have a simulation running, which may or may not be true, we're going to end this week's episode and we're going to play you out with our latest Suno, and Jimmy and Matt generated creation Nowt but Didgeridoo. So I hope you enjoy it and we'll see you next week.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4707.058,
+      "endTime": 4715.615,
+      "text": "Bye, fred astaire and a special shout out to our friends and listeners in salisbury, north carolina. There is now pedigree too.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "A didgeridoo lover",
+      "startTime": 4735.978,
+      "endTime": 4737.28,
+      "text": "There is now pedigree too.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "A didgeridoo lover",
+      "startTime": 4740.635,
+      "endTime": 4764.902,
+      "text": "Society never wanted AI. It was forced upon us by the tech elite. Rent seeker wanted productivity gains, efficiency, to heal the pain. Now there is no. What did you redo? Humming, releasing nitric oxide inside you? There is no. What did you redo?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "A didgeridoo lover",
+      "startTime": 4769.992,
+      "endTime": 4830.505,
+      "text": "Hypernovelty was the devil's cruelest trick. We couldn't keep up. Evolution stuck, we didn't ask for this, but they had the noose Around democracy's throat. Now there is now. But didgeridoo Humming the lacing nitric oxide inside you? There is now. But did you read through? Hypernova D was the devil's cruelest trick. We couldn't keep up. Evolution stuck, we didn't ask for this, but they had the noose around democracy's throat. Now there is now. What did you redo? Humming, releasing nitric oxide inside you? There is now. What did you redo? Yes, so role. Paris played the didgeridoo, but he's dead now, as is free will and human control.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "A didgeridoo lover",
+      "startTime": 4830.691,
+      "endTime": 4847.602,
+      "text": "We are all the way down the rabbit hole. Now there is now what? Didgeridoo Humming, releasing nitric oxide inside you? There is now, but didgeridoo.",
+      "chapterIndex": 7
+    }
+  ]
+}

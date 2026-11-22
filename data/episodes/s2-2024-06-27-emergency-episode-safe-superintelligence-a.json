@@ -1,0 +1,535 @@
+{
+  "slug": "s2-2024-06-27-emergency-episode-safe-superintelligence-a",
+  "buzzsproutId": "15320217",
+  "title": "EMERGENCY EPISODE: Safe SuperIntelligence and Claude 3.5 Sonnet",
+  "date": "2024-06-27T04:00:00.000Z",
+  "season": 2,
+  "durationSec": 1865,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15320217-emergency-episode-safe-superintelligence-and-claude-3-5-sonnet.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Just a few days after we recorded our podcast re-launch and Matt's 'Call to Arms' on mitigating the risks of development of AI, llya Sutskever emerged from the wilderness. He announced, with very few details, the founding of Safe SuperIntelligence, with the implicit mission to build Superintelligent AI aligned with human values, to prevent catastrophic outcomes for humanity. In our first ever EMERGENCY EPISODE we dissect this potentially seismic disruption in the AI landscape. After a failed coup against Sam Altman led to his exit from OpenAI, Sutskever is now on a mission to create ASI that prioritizes humanity's welfare. We navigate the complexities of this new direction and reflect on the ethical conundrums that lie ahead, especially in contrast to OpenAI's transformation from a non-profit to a for-profit juggernaut. Is Ilya the new Effective Alturism hero? or just the lastest AI expert to decide to do 'The Worst Thing Possible'? But that's not all—meet Claude 3.5, Anthropic's latest large language model that’s setting unprecedented benchmarks. From improved coding capabilities to multimodal functionalities, Claude 3.5 is a game-changer for both developers and casual users. We’ll also explore the UK's pioneering steps in AI safety through the UK Artificial Intelligence Safety Institute (AISI), and dive into a provocative paper by Glasgow University scholars that questions the factual reliability of models like ChatGPT. This episode promises a riveting discussion on the future of AI, safety, and the pursuit of truth in a digital age. Hicks et al (2024)- ChatGPT is Bullshit ChatGPT is bullshit | Ethics and Information Technology (springer.com) Introducing Claude 3.5 Sonnet (Pascal Biese) 🤔 Has OpenAI Lost Its Edge? - by Pascal Biese - LLM Watch",
+  "summary": "The first 'emergency episode' responds to Ilya Sutskever founding Safe Superintelligence days after their relaunch call-to-arms: Matt wants to believe Ilya but questions how safety-first wins an ASI race against investor pressure, quoting Zvi Moshkowitz's 'worst possible thing' critique. They also cover Claude 3.5 Sonnet topping benchmarks at a fifth of Opus's cost, the UK AISI's pre-release safety evaluation, and the Glasgow paper arguing ChatGPT is 'bullshit'.",
+  "keyTalkingPoints": [
+    "SSI aims for a 'straight shot' to safe ASI — but you cannot reach ASI without passing AGI, and alignment of a superintelligence may be impossible",
+    "Matt believes Ilya is genuine but 'Sam Altman is now the devil'; trillion-dollar compute needs will let investors tip the balance",
+    "Zvi Moshkowitz quote: Ilya is 'the latest to do the worst possible thing', calling it 'safe' is not an improvement",
+    "Claude 3.5 Sonnet beats Opus and GPT-4o across benchmarks while faster and roughly five times cheaper; best-in-class vision",
+    "UK AISI ran a pre-release safety evaluation — Britain is 'walking the walk' on governance and pressures OpenAI to follow",
+    "Hicks et al (Glasgow): LLMs produce 'soft bullshit' (no concern for truth) and maybe 'hard bullshit' (designed to seem truth-seeking)"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Most curious how SSI could technically make a superintelligence safe — a truly superhuman system would have something like free will",
+      "If SSI succeeds it may force OpenAI to put safety back on the agenda; the announcement keeps safety in the headlines either way",
+      "Claude 3.5 Sonnet is the best model right now — Anthropic is superseding OpenAI in quality, speed and cost",
+      "The 'ChatGPT is bullshit' paper is welcome coping — LLMs are not as advanced as their makers claim"
+    ],
+    "matt": [
+      "Torn: believes Ilya's intentions but thinks investor pressure will eventually corrupt any safety-first ASI venture",
+      "The real positive is narrative — the industry's top technical mind putting safety first legitimizes the whole governance agenda",
+      "Anthropic has taken the ethical seat OpenAI vacated; SSI adds a player and decentralizes power in the race",
+      "Quotes Zvi's pessimistic take and demands substance: 'How is he going to make it safe? His statements tell us nothing'"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-06-27-emergency-episode-safe-superintelligence-a-844.742-claude-3-5-sonnet-will-soon-be-followed-by-3-5-v",
+    "s2-2024-06-27-emergency-episode-safe-superintelligence-a-1366.191-anthropic-is-ahead-for-now-but-the-model-lead-wi",
+    "s2-2024-06-27-emergency-episode-safe-superintelligence-a-745.01-if-ssi-brings-safety-to-the-forefront-it-could-f",
+    "s2-2024-06-27-emergency-episode-safe-superintelligence-a-267-soon-someone-will-claim-asi-is-achievable-immine"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Speaker 3"
+  ],
+  "chapterCount": 5,
+  "turnCount": 66,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 0
+    },
+    {
+      "title": "Safe SuperIntelligence",
+      "startTime": 44
+    },
+    {
+      "title": "New best LLM: Claude 3.5 Sonnet",
+      "startTime": 767
+    },
+    {
+      "title": "ChatGPT is Bullshit (Academic Paper!)",
+      "startTime": 1472
+    },
+    {
+      "title": "Hard v Soft Bullshit (Outro Track)",
+      "startTime": 1747
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 0.581,
+      "endTime": 39.85,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With Jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability, and safe development of AI, governance and alignment. Eat meat on Friday, that's all right. I even like steak on a Saturday night. I can bitch the best that your social do's. I can get high in the evening, stiff in pots of glue, ooh, ooh, ooh. Welcome to Preparing for AI today with our first ever emergency podcast. So I'm going to hand straight over to Jimmy and he's going to explain why we're doing this special podcast today.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 41.941,
+      "endTime": 56.766,
+      "text": "Thanks, matt. So so yeah, like um, it feels like ai news had slowed down a little bit, and then immediately asked after we released our podcast talking about governance and alignment um ilia suscover so escape.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 56.786,
+      "endTime": 60.574,
+      "text": "Well, I say suscaver, so maybe you're right. Which either way?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 61.321,
+      "endTime": 68.454,
+      "text": "ilia, let's call him. Let's call him ilia's call him Ilya. Yeah, we're all friends. So Ilya Sutskova he basically",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 72.54,
+      "endTime": 102.48,
+      "text": "immediately after we recorded our podcast or like within the sort of 24 hours preceding, was in the news. We should say we don't think that he timed this announcement with the relaunch of the podcast although it would be fantastic if he did, I think it was all down to the timing of the release of the podcast. Although it would be fantastic if he did, I think it was all down to the timing of the release of that episode, to be honest. But no, probably he's got bigger priorities. Yeah, so for anyone who doesn't know, ilya Sutskova was chief scientist at OpenAI. He's like super highly regarded in the industry.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 102.741,
+      "endTime": 147.349,
+      "text": "He was somebody who has is largely responsible for chat, gpt and some of the science behind it and some of the really kind of nerdy stuff, for want of a better word. Um, they, they had a coup open ai uh, not that long ago, and the ilia suskova was one of the people who initiated the coup and it was all due to some of the things we've talked about before. So OpenAI have kind of moved away from their original moral compass and moral high ground. They've gone from being a not-for-profit company to a sort of for-profit company with massive investment from Microsoft and there's been, I think even Sam Altman said recently they're like looking at moving, potentially move, but just becoming a for-profit company.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 147.931,
+      "endTime": 200.518,
+      "text": "So they've moved massively away from their original moral origins and all the stuff around. They were going to like create safe, open ai, um, and they've kind of moved away from that and so so, yeah, there was this massive coup and then the coup didn't work. Sam altman was back in charge and people like Ilya Sutskova and some of his supporters were then ousted from OpenAI. I think we're about three, four months down the line from that, a couple of three months down the line from that, and now Sutskova has been very quiet, ilya has been very quiet in the background. I haven't really heard from him and he's just announced the launch of a new company called Safe Superintelligence and they've launched their website and basically what they're saying is they're going to make a straight shot to super intelligence ASI or AGI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 200.739,
+      "endTime": 212.714,
+      "text": "I think they're saying ASI, so artificial super intelligence. So they've set up a company where they're just going to try and create a safe super intelligence for the benefit of mankind.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 213.46,
+      "endTime": 257.336,
+      "text": "Yeah, my understanding is exactly like you've said, that they're not talking about AGI, although a lot of people have pointed out in comments that you can't get to ASI without going through AGI, and I think it kind of is that issue that we've talked about, about the terminology and the wording of it, and that's why I like this advanced AI, because unless we get an agreed on definition of what an AGI is and what an ASI is, it doesn't matter to most people. We're looking at something that is an advanced form of artificial intelligence and it probably is almost unhelpful. But I guess what we should explain for ASI is this is the kind of godlike super intelligent thing that can do anything and everything in a way that we probably can't understand it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 257.42,
+      "endTime": 262.393,
+      "text": "So to get there is potentially still quite a way away,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 267,
+      "endTime": 299.928,
+      "text": "potentially still quite a way away. I think no one has kind of claimed that ASI is possible by September or 2024, where they have for AGI, although maybe that's going to change. I'm really torn, like when I saw this announcement and like, I say, the fact that he timed it with the podcast, although probably we should have told him we hadn't actually put the episode out at that point, so he could have probably waited another three or four days. My first impression was, wow, this is fantastic. And then, the more I kind of thought about it, the more I thought well, I mean, can we believe him? I want to, and I think I do believe him that he wants to do it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 300.06,
+      "endTime": 321.911,
+      "text": "I think, you know, I want this to be a pivotal moment. I believe he's genuine, but I also believe that Sam Altman was genuine and I also think that Sam Altman is now the devil. So, you know, I'm not saying that that's necessarily what's going to happen with, with Ilya, and I think he's obviously was going a different way, uh, which is why he left OpenAI, and that's you know why, why I think Sam Altman's becoming the devil.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 325.2,
+      "endTime": 346.575,
+      "text": "Um, why I think Sam Altman's becoming the devil, but the thing is it might not be about him. It's, ultimately, how is he going to win the race to build, you know, a frontier model that gets to ASI, if he's putting safety first? Because that was, I guess, the issue with. I think, when I'm trying to give Sam Altman, even though I've called him the devil, the benefit of the doubt, is that you know he's decided that it's not possible to achieve that or to get there first,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 351.64,
+      "endTime": 385.61,
+      "text": "you know, if they follow the kind of safe development model. I saw figures like a trillion dollars being needed to build the kind of computer network that Ilya is trying to build, and I guess my big hope for it. The positive is, all those engineers that we were talking about the other day and I gave the benefit of the doubt, saying that they want to speak out, the letter that they signed saying we want to be able to speak out about safety issues, or perhaps leave OpenAI or Google. But where would they go? I mean, they could have gone to Anthropic, but I guess not everyone can. Well, now, if we see a load of engineers jumping ship to SSI to join Ilya, I think that would be a great thing and it would give credibility.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 385.67,
+      "endTime": 418.851,
+      "text": "And of course, you know, the two co-founders of this company are big players in the game as well. So part of me thinks now, well, you know, couldn't you have just gone to Anthropic and aligned with them, but also having another player in the game? You know, the more, the more players you've got in the race, the less've centralized the power. I think that's another part of this. This is really important. So it opens the race out a bit, and yeah, I mean it. Potentially this is a your massive pivotal moment. But I I just wonder, the more I think about it, how, how is he going to get there? It's going to need massive investment.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 418.932,
+      "endTime": 425.507,
+      "text": "And then at what point do the investors, kind of you know, start to tip the balance and and decide on how things are going to be run?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 428.051,
+      "endTime": 441.32,
+      "text": "Yeah, absolutely. I mean it's, it's a, it's a tricky one. I think Ilya is I mean, it's not just Ilya, like I can't remember the names of all the others involved, but there are some other key players involved that on the investment side and on the on the.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 449.51,
+      "endTime": 463.52,
+      "text": "I mean what I'm most curious about is how, why they think they and this is obviously technically far beyond my ability or knowledge but how they think they're going to create safe superintelligence, which is, I mean, they were really keen to have that emphasis on safety,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 475.111,
+      "endTime": 493.297,
+      "text": "which seems to have, you know, been abandoned by OpenAI now in a large part, and so it feels like what they're trying to do is get out in front of that like create, try and actually just get to that ultimate version of the model that actually we can call AGI or ASI or super intelligence, whatever you want to call it, but do it in a safe fashion.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 501.49,
+      "endTime": 535.588,
+      "text": "It feels like that's what they're trying to do in order to sort of, I guess, benefit all of humankind in that, if we can figure out how to do this safely, if a team of people can figure out how to do this safely before other companies do it in a more dangerous fashion, or potentially more dangerous fashion or not safe fashion, then everyone's going to then kind of take from that, take from that model, obviously, because it's obviously the way to go. Now I've got no idea how they plan to make safe super intelligence, because by its nature you would imagine some sort of super intelligence is going to, you know, have its own kind of I want to say, free will.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 535.668,
+      "endTime": 575.422,
+      "text": "We've talked about it before. It feels like once you get to that point, how do you avoid something? Having free will? And it's a very philosophical argument. I'm not sure we have time on this special episode, it's maybe one for a future debate but it feels to me like if you're talking about something that's genuinely as intelligent or more intelligent than humans in almost every domain which is kind of my rough definition of it then how do you get away from something having that kind of spark of well, I want to do this, and so it'd be really intriguing to follow this. And, as you say, I don't know how they're going to get the investment, I don't know how it's going to progress, I don't know if it's just a bit of a moonshot, but we'll see.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 577.651,
+      "endTime": 613.795,
+      "text": "It does almost feel like a kind of contradiction, doesn't it that if you've got, if you've got something that can be controlled and you've got something that can be aligned, how is it super intelligent, like? I feel like aligning AGI is definitely possible, because you're you're only talking about a leap in my understanding of it's AGI. We're kind of, you know, expanding or scaling out capabilities so that they can do everything, and it's one, you know, one kind of multi-mode. It's not multimodal but it's like a multimodal model. You've got one model that can do all these things. Superintelligence is, you know, it's a def.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 614.256,
+      "endTime": 647.659,
+      "text": "We can't define it because we don't have any idea what it means. It just means super intelligence, it means creating this godlike thing, and so, yeah, I mean all bets are off, aren't they really? I, I, I don't know how, but I think, as the kind of dust has settled on for me on thinking about this, I think where I'm positive is that this more and more kind of reflects the narrative change that I was talking about the other day, where the fact that someone has gone out and said I want to do this, and someone who's right at the top of the industry I mean potentially the, you know, the number one kind of technical person in the game.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 647.699,
+      "endTime": 686.851,
+      "text": "I mean, a lot of people say he's really the brains behind ChatGPT. So the fact that that conversation is happening and the fact that we're seeing more and more in the media about governance, about alignment, it's becoming a more pertinent issue. I think that, for me, is the real positive here. Um right, you know, whether this works or not, whether he's successful or not, is the fact that there is now sort of skin in the game that is specifically talking about doing this in a safe way and safety being the number one. And in the same week as and we'll move on to it in a minute, but we've had a release from Anthropic, which has now kind of topped or currently at the top of the game.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 687.473,
+      "endTime": 723.251,
+      "text": "Just before we moved on, I wanted to just read a quote from Zvi Moshevitz. Ilya Sutskiva, despite what I sincerely believe are the best of intentions, has decided to be the latest to do the worst possible thing finding a new AI company explicitly looking to build ASI superintelligence. The twists are zero products with a cracked small team, which I suppose is an improvement, and calling it safe superintelligent, which I do not think is an improvement. How is he going to make it safe. His statements tell us nothing meaningful about that. So you know, not like me to try and finish things on a pessimistic note, but, um, a lot of questions more than answers at this point.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 723.311,
+      "endTime": 735.039,
+      "text": "But you know, as we say, at least it's getting super alignment and the idea of safety out there and at the top of the kind of agenda, so that can only be a good thing of safety out there and at the top of the kind of agenda.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 735.059,
+      "endTime": 739.305,
+      "text": "So that can only be a good thing. Yeah, I agree and just briefly you know who knows like whether it's successful or not",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 745.01,
+      "endTime": 753.155,
+      "text": "if it brings safety to the forefront, then maybe it forces companies like OpenAI to have a little bit of a rethink and to actually start putting safety on the agenda again. But I think at that point it's one we'll keep an eye on in the future.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 753.296,
+      "endTime": 758.505,
+      "text": "it's going to be quite interesting to follow and we can move on to our next topic",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 767.76,
+      "endTime": 799.445,
+      "text": "we've talked quite a lot in the last few weeks about how anthropic for us is the company that are kind of doing what OpenAI was supposed to do. So they've kind of taken that seat, haven't they, in terms of being a more ethical organization and trying to develop models in the right way. So, yeah, I mean you've been using it quite a lot. I've had a quick go, but I think you have a bit more time to spend on it. So do you want to introduce people to basically what what this release is and and how you're finding it so far?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 801.393,
+      "endTime": 844.521,
+      "text": "yeah, so we're talking about claude 3.5, which was actually the way anthropic seemed to do things. There's no big announcements, there's no kind of like preamble. I mean, I found out about this release just by because I follow some sort of really kind of niche ai channels actually. Um, you know it's, it's, they're not, it's not like any big announcement, anything like that. Claude uh 3.5 sonnet has been released. It kind of blows well, blows out of the water. It significantly beats the previous best model, which was Claude Opus, from Claude, from Anthropic rather, and it beats ChatGPT 4.0 in all benchmarks.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 844.742,
+      "endTime": 897.226,
+      "text": "Across the board it's significantly better at coding and actually coding is one of the areas where it really excels, but across the board it's actually green, green, green. It beats ChatGPT 4.0. It beats Claude Opus, while being faster than Claude Opus, because Claude Opus was the previous top-tier model that Anthropic had. It's going to be followed, I would imagine, by a version 3.5 of Opus and Haiku. So just to reiterate, like to anyone who hasn't listened to all the episodes, haiku is like Claude's quickest but least intelligent model. Sonnet is the middle model, it's the kind of baseline, and then Opus is the fastest sorry, the most intelligent model, but it's also quite significantly more expensive to run and is quite a lot slower for when you're having a chat with it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 898.211,
+      "endTime": 940.324,
+      "text": "So what they're saying about Sonnet 3.5 is Sonnet 3.5 beats the previous Opus model, so it's better than the previous Opus, the previous best model um, whilst running significantly faster, and I think it costs like one fifth of the amount um to actually run it. So it's the. The actual cost to generate tokens is about one fifth Um. So I'm actually quite excited about all of it. Like, like I've been, I've been using um sonnet in the last, just in the last 24 hours, like 248 hours maybe. Uh, it gives really good answers. They've also introduced um. They've introduced like a window where it's an experimental feature, but it's a window where you can get it to generate code output.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 940.746,
+      "endTime": 969.392,
+      "text": "You can get it to generate visuals. You can get it generate documents for you. You can get it to generate visuals. You can get it to generate documents for you and you can download those documents, which is a similar feature to some of the code interpreter stuff and code output that you get in GPT-4.0. So again, some of those features that you would have previously used ChatGPT for, because you have those benefits, you've got those in Cloud. Uh, claude sonnet. Now it's also their best model in terms of some of the multimodal capabilities. So it can, it's got the best vision, um, best computer vision.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 969.974,
+      "endTime": 996.076,
+      "text": "It can recognize objects, it can tell you like, you can show it the picture of something, it can say why it's broken or how, what it is or why it needs fixing or how to find it, something like that. So it's got absolutely fantastic capabilities. I've specifically been using it for coding a little bit, because I do a little bit of coding and it's like really, really good, really, really good at coding. I'm planning to build a website for our podcast very soon, probably using Claude Sonnet.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 996.657,
+      "endTime": 1036.072,
+      "text": "Just thinking of listeners who don't code or don't use large language models for any of. The more I don't code or don't, you know, use large language models for any of the, the more I don't want to say complicated, but the the more uh, niche or more specific reasons. So what difference would they find? We should probably also just explain so Sonnet is one of the free versions, so you don't need to pay for Son Sonic 3.5. If you pay for it, you can get additional kind of bandwidth. So you can, you know you get more access at busy times. So kind of in the same way as 4.0 from ChatGPT. They gave us free access, but it would be limited when, when, there are more users using it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1036.132,
+      "endTime": 1059.45,
+      "text": "But it's the free version. So you know that's a really good thing. But how would would you know a person who uses a large language model to just ask questions and to, you know, browse the internet and to research, you know, recipes, etc. Etc. What, what difference are they going to find with it? Is it a difference in terms of how natural and human it is? Is it a difference in terms of better answers like what? What have you found so far?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1059.811,
+      "endTime": 1094.052,
+      "text": "it's a good question. I find in in general that Clawed gives more human, better responses anyway than GPT. It doesn't limit itself. So one of the things that I genuinely find is that it doesn't limit itself to a certain response length. So if it feels like it needs to give a longer answer, it will, whereas I find with GPT-4, it almost seems like they've artificially limited the length of the response. Um, that's just an observation about all the clawed models, but they also, to me, feel more human. They feel like they have less safety rails on, although they do still have safety guards and safety rails on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1094.813,
+      "endTime": 1130.47,
+      "text": "I think in general it's just, it's a bit of an incremental thing. So if you're asking it to reason about something where knowledge is out there, it's probably slightly less likely. It is slightly less likely to hallucinate. It's slightly more likely to come up with good factual information. As I say, I've had a lot of experience of feeding documents into Claude and I find it has a really good context window and it gives you solid outputs Overall. Just, it's just better across the board everything that a large language model does. So it's going to give you more coherent output, more accurate output.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1131.091,
+      "endTime": 1152.923,
+      "text": "As I say, with code, it's just like there's less hallucination in there and I know I'm talking about code again, but like. It's a really good example, because this is one of the this, one of the kind of like. It's one of the areas where it's easy to measure the models, I think, but the same goes across the board. So it's going to give you, like I say, more coherent answers, better quality answers, less hallucination.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1154.151,
+      "endTime": 1159.863,
+      "text": "Yeah, I was using ChatGPT recently for code not Python code, but some other code,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1163.95,
+      "endTime": 1197.7,
+      "text": "not Python code, but some other code and one thing I found is that it was, while it was giving very fast and fairly accurate code, every single time I was finding errors in it that I was having to manually correct. And also it doing weird things like adding sort of breaking down percentage scores and then adding the total score as a separate bit to charts and you know just weird things that that were kind of annoying and would stop you from being able to not automate but stop someone who didn't know what they were doing from being able to use it. So I think advances in coding while it doesn't matter for everybody, they're really really important for maximizing the potential of these models.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1198.551,
+      "endTime": 1241.279,
+      "text": "And I just wanted to read so Pascal Biais. He is on Substack with LLM Watch, so I really like the post this guy does. Everything he does is posted with three simple questions what's next, what problem does it solve and how does it solve the problem? So you know, really easy to follow. He puts stuff out, I think, almost every day. Really really easy to follow, so shout out to recommend him. But what problem does it solve? I think it's quite useful in terms of explaining in a quite simple way Claw 3.5, sonnet. The latest iteration of Anthropix AI Assistant addresses the need for more capable and efficient language models that can handle complex reasoning tasks, demonstrate broad knowledge and excel in coding proficiency.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1241.931,
+      "endTime": 1271.722,
+      "text": "This is a bit that I think is is kind of interesting, for for everybody. It aims to provide a more nuanced understanding of language, humor and intricate instructions, while generating high quality relatable content. Additionally, it tackles the challenge of performing context sensitive customer support and orchestrating multi-step workflows in a cost-effective manner. How does it solve the problem? It achieves its impressive performance through a combination of architectural improvements and enhanced training data, operating at twice the speed of its predecessor, claw3 Opus. So that is the advanced model.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1271.782,
+      "endTime": 1302.735,
+      "text": "So it's faster than the advanced model. Although the advanced model is not necessarily the fastest, it offers a significant performance boost while maintaining cost-effective pricing. The model's ability to independently write, edit and execute code with sophisticated reasoning and troubleshooting capabilities is a result of it training on a diverse range of coding problems and its exposure to relevant tools. Its proficiency in code translations further enhances effectiveness in updating legacy applications and migrating code bases. So some of that a little bit technical at the end. But I think some really kind of key points there.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1302.775,
+      "endTime": 1307.484,
+      "text": "It's got better training, data that it's worked on, it's able to do things in a more sophisticated way,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1311.19,
+      "endTime": 1315.464,
+      "text": "and I really like that kind of language humor thing because I think that's one thing that Claude has probably always been better at, or certainly for the last few months.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1316.23,
+      "endTime": 1323.183,
+      "text": "Yeah, I'll wrap up briefly, but I feel like I agree, I agree with all of that. I feel like I agree, I agree with all of that. I feel like the overall thing is that it's kind of",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1328.11,
+      "endTime": 1341.3,
+      "text": "I'm quite, I'm quite impressed with Anthropic. We've mentioned it before. I think like barely anyone's heard of Anthropic. It's not in the news, it's not the big kind of shiny open AI model. It's not even you know. You've got Facebook and you've got Google. You've got other big companies that are just integrating their models into things that they're doing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1349.01,
+      "endTime": 1365.65,
+      "text": "So I'm really genuinely quite impressed that you've now got a company that hardly anyone's heard of, that are actually keeping up and that in most cases superseding, you know, open AI in the quality of their model and the quality of the outputs that it produces and the speed of it, and oftentimes as well, like they're really kind of neck and neck in this race, which is quite interesting. It is.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1366.191,
+      "endTime": 1401.542,
+      "text": "I mean, at the moment they're ahead in the race, but you know it'll probably change in a few weeks time, I'm sure, yeah, so so for those of you, I mean, this is just a another kind of shout out to them for everybody who is listening. And you know you use models or you're you're undecided on what you use is their address. They are the best model at the moment and their free model is the best model, depending on where you're listening. I know in some countries I think in Canada, it's not available at the moment. I think some of the EU countries, maybe the whole of the EU, it's not available, but certainly in the UK, the US, parts of Asia, it definitely is available.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1401.962,
+      "endTime": 1405.937,
+      "text": "So if you can, you know, use Claude.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1406.177,
+      "endTime": 1409.625,
+      "text": "Once we get big enough, we can insert a VPN advert here.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1422.773,
+      "endTime": 1450.095,
+      "text": "Exactly. Yeah, everyone listening, you'll be having an odd VPN advert soon, so don't buy a VPN. If you're thinking about it, wait until we give you a mention. And that's the UK Artificial Intelligence Safety Institute, that's AISI performed a safety evaluation on this prior to release. So you know this is really good. They've submitted it. I heard previously there was some talk in the industry about how long it was taking to get these kind of reviews done by the AISI, but they submitted it. It went through that process. So you, you know,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1454.79,
+      "endTime": 1463.4,
+      "text": "hopefully that puts pressure on OpenAI and others to do the same kind of thing and it shows that the UK is trying to be a leader on security and governance on AI and it seems like they're actually walking the walk on it. So you know, a piece of good news there.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1478.91,
+      "endTime": 1537.218,
+      "text": "I wanted to finish because we're, as you can probably tell, we like big upping anthropic and we like bad mouthing open AI at the moment. So we've talked a little bit in the last couple of episodes about this Leopold Aschenbrenner paper. So it's a 165 page paper that kind of talks about um really this sort of us china geopolitical battle, and why um asi needs to be built by silicon valley and why we should give them all the money and, you know, just let them kind of do whatever they want, and it reads like a bit of a call out for investment if. If we're quite honest, and on the other hand, right at the other side, there's been a paper put out by Michael Towson, hicks, james Humphries and Joe Slater, who I believe are from Glasgow University, and this paper it is a academic paper that's available on things like Springer and most of the big servers and it's called Chat, gpt is Bullshit and I just wanted to read you the kind of introduction to this paper, which I'll maybe link it in the the notes with a few other things from this episode, but it's kind of fascinating paper.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1537.238,
+      "endTime": 1567.392,
+      "text": "So the structure of the paper is in the first section they outline how chat, gpt and similar large language models operate. Next they consider the view that when they make factual errors they are lying or hallucinating, that is, deliberately uttering falsehoods or blamelessly uttering them on the basis of misleading info information. We argue that neither of these ways of thinking are accurate, insofar as both lying and hallucinating requires some concern with the truth of their statements, whereas large language models are simply not designed to accurately represent the way the world is, but rather to give the impression that that is what they're doing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1567.994,
+      "endTime": 1603.807,
+      "text": "This, we suggest, is very close to at least one way that Frankfurt talks about bullshit. We draw a distinction between two types of bullshit, which we call hard and soft bullshit, where the former requires an active attempt to deceive the reader or listener as to the nature of their enterprise and the latter only requires a lack of concern for truth. We argue that, at a minimum, the outputs of large language models like ChatGPT I should say here this is aimed at all large language models, we're just picking on ChatGPT as they have are soft bullshit. Bullshit that is speech or text produced without concern for its truth, that is produced without any intent to mislead the audience about the utterer's attitude towards truth.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1610.27,
+      "endTime": 1638.282,
+      "text": "We also suggest, more controversially, that ChatGPT may indeed produce hard bullshit. If we view it as having intentions, for example in virtue of how it is designed, then the fact that it is designed to give the impression of concern for truth qualifies as an attempt to mislead the audience about its aims, goals or agenda. So the caveat that the particular type of bullshit chat gpt outputs is dependent on particular views of mind or meaning, we conclude that it is appropriate to talk about chat gpt generated texas bullshit and flag up why it matters that, rather than thinking of its untrue claims as lies or hallucinations, we call bullshit on chat gpt.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1639.084,
+      "endTime": 1657.155,
+      "text": "So, like I say, it's a really interesting paper. There's loads of articles about it as well, if you don't want to read the whole thing, but I think the key point here you know we were saying last week we sometimes think that artificial general intelligence or advanced ai is around the corner, and other times we think, you know, large language models are just parroting rubbish back at us.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1657.636,
+      "endTime": 1684.434,
+      "text": "So this is a nice bit of coping, if nothing else, to at least making us think that large language models are not as advanced as as they'd like us to think they are well, I hadn't heard that until you just said it, but you know for sure, now for this episode, for this mini episode, I'm gonna have to come up with a song that just talking about the differences between soft and hard bullshit probably the most explicit, explicit podcast chat, gpt is bullshit and and and we see what that comes out with.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1684.454,
+      "endTime": 1705.434,
+      "text": "But yeah, you're probably right, hard versus soft bullshit. I I'm even after reading that comes out with. But yeah, you're probably right, hard versus soft bullshit I I'm even after reading that I'm not sure. I'm completely um, I'm completely clear what what hard and soft bullshit is. But I will make it my mission to ensure, before our next episode, that I'm completely, uh, up to date with that term",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1708.738,
+      "endTime": 1746.173,
+      "text": "fantastic well, thanks for listening. that was our first emergency podcast. I don't know how often we'll do these. Obviously there's stuff in the news every week but we just thought that, leading on from the last episode that we did, where we kind of relaunched and looked at the the this kind of safety alignment and governance angle that this piece of news around this new SSI that Ilya has launched, we thought this was a really, really important one, so we decided to put this episode out. But thank you for listening. As always, share the podcast with three people that's our request to everybody and enjoy the soft versus hard bullshit song, and we will see you next week.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Speaker 3",
+      "startTime": 1750.135,
+      "endTime": 1756.82,
+      "text": "Throwing in the night. Oh I, oh my. What's your game?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Speaker 3",
+      "startTime": 1771.351,
+      "endTime": 1831.519,
+      "text": "Hard bullshit, soft bullshit, all the same. Can't tell if you're smart or just insane. Probability's your middle name. Chat box chattering day and night. Stringing phrases long or right no hallucinations, no deceit. Stringing phrases wrong or right no hallucinations, no deceit, just bullshit flowing to the beat. I don't mind what's your game Hard bullshit, soft bullshit, all the same. Can't tell if you're smart or just insane. Probability's your middle name. Cypher warned us way back when About the bullshit from the pen. Now it's coming from the screen. Ai's bullshit reigns supreme. I don't mind what's your game Hard bullshit, soft bullshit, all the same.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Speaker 3",
+      "startTime": 1831.871,
+      "endTime": 1853.595,
+      "text": "Can't tell if you're smart or just insane. Probability's your middle name. So dance along to this AI tune. Bullshit's coming very soon. Hard or soft, we can't discern. In this digital world. We'll never learn. I don't mind what's your middle name.",
+      "chapterIndex": 4
+    }
+  ]
+}

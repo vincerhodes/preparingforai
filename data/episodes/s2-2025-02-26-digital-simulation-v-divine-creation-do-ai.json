@@ -1,0 +1,1339 @@
+{
+  "slug": "s2-2025-02-26-digital-simulation-v-divine-creation-do-ai",
+  "buzzsproutId": "16696344",
+  "title": "DIGITAL SIMULATION v DIVINE CREATION: Do AI advances prove we are living in a simulation?",
+  "date": "2025-02-26T13:00:00.000Z",
+  "season": 2,
+  "durationSec": 3736,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16696344-digital-simulation-v-divine-creation-do-ai-advances-prove-we-are-living-in-a-simulation.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Are we truly living in a simulation, or is our perceived reality simply an elaborate illusion? Join us in this captivating episode as we delve into simulation theory, exploring its implications for AI, consciousness, and the very nature of existence itself. Is our reality being controlled by a incel in another dimension, living in his mum's spare room or does this all prove that everything starts and ends with our divine Creator? We unpack the idea that our lives may be indistinguishable from a complex digital universe. What would it mean for our understanding of consciousness if we could create AI that simulates human experiences? And as we venture deeper into these philosophical waters, we raise critical questions about the potential consequences of such advancements on society and the ethical considerations we must navigate. Prepare for thought-provoking discussions, personal anecdotes that challenge our views, and explorations of where technology meets existential inquiry. This episode is not just a search for answers but an invitation to engage with the profound questions that have intrigued humanity for centuries. We encourage our audience to reflect on their beliefs about reality and the role that AI might play in re-defining our existence. Tune in, join the conversation, and consider where you stand on this intriguing issue! Your insights matter—don’t forget to rate, review, and share with your friends; your engagement fuels these crucial discussions.",
+  "summary": "Jimmy pitches simulation theory: if computing goes from nothing to photorealistic games in decades, and consciousness can ever be simulated, then base reality is one among unknowably many simulations and we're probably inside one. Matt - a believer in God - counters that the ultimate simulator simply is God, and that consciousness can never be simulated anyway. Along the way: Penrose's quantum microtubules, the terrifying prospect of AIs thinking in their own language, and dueling 20-year predictions about artificial consciousness.",
+  "keyTalkingPoints": [
+    "Simulation theory recap: if we can one day simulate a universe with conscious inhabitants, the probability we live in base reality collapses - one base reality versus billions of simulations",
+    "Matt's theological counter: the base-reality simulator is God by definition - simulation theory is a route to theism; creating a simulation wouldn't make us gods because God is top of the whole chain",
+    "Consciousness is the crux: AGI definitions ignore consciousness entirely; current generative AI approximates human senses, not feeling",
+    "Penrose's theory: consciousness may arise from quantum effects in neuronal microtubules - something classical silicon neural networks entirely miss",
+    "The scariest implication: reasoning in human language is the last inspectable safety layer - if AIs develop their own language, 'it could be doing anything it fucking likes and you've got no idea'",
+    "Jimmy notes the simulation argument bends both ways - no alien life could mean the simulators only simulated one planet to save compute"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "If we can simulate our universe with conscious inhabitants, it becomes probabilistically near-certain we live in a simulation ourselves",
+      "Consciousness may require quantum effects silicon misses - but if it's just a side effect of computation, we'll eventually build it",
+      "A true replica of our reality must include consciousness, because consciousness is part of our reality"
+    ],
+    "matt": [
+      "The ultimate simulator of base reality is God - accepting simulation theory means accepting a creator",
+      "We will never simulate consciousness; we may build artificial forms that believe they are conscious, but that is not the same thing",
+      "If AIs stop thinking in human language we lose the one remaining safety mechanism - the ability to inspect their reasoning"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-02-26-digital-simulation-v-divine-creation-do-ai-3091.1-in-about-20-years-we-may-create-an-artificial-br",
+    "s2-2025-02-26-digital-simulation-v-divine-creation-do-ai-3142.2-within-20-years-someone-will-have-built-a-simula",
+    "s2-2025-02-26-digital-simulation-v-divine-creation-do-ai-3293.1-in-20-years-there-will-be-artificial-forms-that-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Old Sal"
+  ],
+  "chapterCount": 9,
+  "turnCount": 179,
+  "chapters": [
+    {
+      "title": "Introduction to the podcast",
+      "startTime": 0
+    },
+    {
+      "title": "Hosts discuss human and social impacts of AI",
+      "startTime": 389
+    },
+    {
+      "title": "Personal reflections on moments of vulnerability",
+      "startTime": 1506
+    },
+    {
+      "title": "Introduction of the episode's unique theme",
+      "startTime": 2411
+    },
+    {
+      "title": "Unpacking simulation theory",
+      "startTime": 3073
+    },
+    {
+      "title": "Explanation of simulation theory concepts",
+      "startTime": 3993
+    },
+    {
+      "title": "The link between simulation theory and AI",
+      "startTime": 13972
+    },
+    {
+      "title": "Consciousness and its implications in AI",
+      "startTime": 16215
+    },
+    {
+      "title": "Predictions on future AI consciousness",
+      "startTime": 18365
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 50.727,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. You met me at my lowest moment. You met me at my lowest moment. You saw me at my very worst, when I expected disappointment. Love was all I heard. Welcome to Preparing for AI, with me, dominic Cummings and me, cilla Black. Cilla, surprise, surprise, indeed. So, yeah, welcome back to Preparing for AI and, as we always say, this week is going to be a very special episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 51.469,
+      "endTime": 82.612,
+      "text": "But this week really is going to be a very special episode because we are going to be talking about Well, we're going to explain how the universe works, I think. Yeah, specifically, we're going to talk about simulation theory, simulation theory. So I guess probably the best thing to do to start is to explain, for anyone listening who doesn't know, what simulation theory is, and then we'll spend about an hour debating and arguing it and hopefully we'll have something interesting to say and we'll link it all to AI, right?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 85.94,
+      "endTime": 139.065,
+      "text": "interesting to say and we'll link it all to ai, right? Uh, I hope so. That's the plan. So simulation theory is the idea that we live in a simulation um. It's something that's been toyed with for quite a long time, but since the advent of modern computing, where you can uh, you know, games are getting better and better every year, um. And then more recently you've got the addition of ai, which I don't think we've seen ai in games much yet, um, although there are some examples that I'll talk about. But effectively, the idea is that if we can simulate a world um as accurately, basically that looks as good and feels as good and has characters in it that are intelligent, um, and have consciousness, um, in the same way that we do, if we can ultimately do that at some point.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 139.426,
+      "endTime": 198.615,
+      "text": "And if you look at the progress of technology, you know, if you go back 100 years, we basically didn't have computers. We've gone from that to, you know, simulating pretty photorealistic games, um, more recently, obviously, nothing like simulate in a real world, um, or a whole universe or something like that. But the idea is that, like, where are we going to be in 50 years? Where are we going to be in 100 years? And if you ever get to the point where you can simulate something that appears as like our universe does so, like everything that we've got in our universe, or in a or a really good approximation to it, then if you, if we can do that and the and the characters within that universe have consciousness in the same way that we do, which which is, you know, it's quite a stretch from where we are now, but if you can do that, then all of a sudden it becomes really, really likely that we ourselves are living in a simulation.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 199.12,
+      "endTime": 201.228,
+      "text": "That's the whole point of this simulation theory right.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 207.9,
+      "endTime": 269.748,
+      "text": "This simulation theory right is that, if we can do it, then how likely, you know. But as the closer we get to that, the more and more likely it becomes that we're actually in a simulation ourselves because, um, the options are you're in a base reality, so you're in, like you know, we are in the original reality, whatever that means or we're in a simulation and if you can run a simulation, then it becomes quite likely that you're in a simulation yourself, if that makes sense. That's the opening gambit to simulation theory. The link to AI should be obvious. But effectively, as AI gets better and better at approximating human thought and human consciousness and obviously it's an open question but if we ever get to the point where we have I don't think it's just AGI in this case, I think it's AI that can simulate emotions, that can experience the whole gamma of the human experience, which is a little bit different to artificial general intelligence.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 270.229,
+      "endTime": 286.551,
+      "text": "But if you can get to the point where you have ai that can do that, then you can imbue the characters within your simulation with these, um, you know, with these, with these consciousnesses effectively.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 288.474,
+      "endTime": 309.733,
+      "text": "I've got. I mean, when I listened to that kind of opening speech and obviously we, you know we talked about this, but the one thing I didn't know you were going to say was this idea that the characters within the simulation have to be conscious, because that to me immediately kind of changes the equation. And I think back to something there was an episode with, if you know brian, are you conscious?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 310.194,
+      "endTime": 311.7,
+      "text": "yes are you in a simulation?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 313.384,
+      "endTime": 314.025,
+      "text": "I don't know, do I?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 314.526,
+      "endTime": 315.769,
+      "text": "no, but if.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 315.95,
+      "endTime": 356.75,
+      "text": "But we think we're conscious but well, if we think we're conscious but we're not is different from but we are conscious. So let's work for a minute on the basis that we are conscious. So if you know brian keating who I mean there's a. There's an episode of doak recently diary of a ceo, um back in december, where so he talks about spend, like basically a scientist, looking at how, why we exist, uh, how god and science kind of fits together. It's a really, really interesting episode. One of the things that was quite amazing for someone from his kind of point of view was that he was talking about other planets and that in his mind it's almost impossible to for him to believe that intelligent life exists anywhere else in the universe.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 356.87,
+      "endTime": 411.071,
+      "text": "And I thought, well, everyone, or I would think from his kind of scientific position would say, well, it's almost inevitable that there is um. Scientific position would say, well, it's almost inevitable that there is um, there is intelligent life, just because the size of the universe but his view on it was the coincidences that have to happen for life to have formed are just so so, so incredibly, just so almost impossible for it to have happened once that it almost couldn't happen again. And I think that for me is kind of the counter argument to this idea is just if we take that that beings are conscious, conscious beings, that just because we exist this once maybe that is just the incredible kind of odds are not in favor of another simulation, because it's almost impossible for another simulation, because it's almost impossible for another simulation, because it's so impossible for us to have existed in the first place, even in a simulation.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 412.022,
+      "endTime": 413.889,
+      "text": "But I would say almost the opposite.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 415.023,
+      "endTime": 416.81,
+      "text": "Well, you would, because that was your starting argument.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 417.36,
+      "endTime": 460.315,
+      "text": "Well, and this is not the theory, this is not necessarily what I believe, but could the fact that we don't see signs of intelligent life on other planets also mean that whoever's simulated us just simulated life on one planet? Because you know why would you bother doing it on loads of different planets? Because it would. It would take lots more computing resources. Yeah, so so you know it could, that it also works. I mean to be fair, like you can kind of use this argument, you can bend this argument however you want. The simulation theory thing. That's where it's quite a nice one to play around with, but I would assume that I would assume that I mean, if the argument is that we are like, is the?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 460.716,
+      "endTime": 462.357,
+      "text": "The question is are we in a simulation?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 485.66,
+      "endTime": 501.944,
+      "text": "The question is are we in a simulation? The theory is that if we can create a simulation that approximates our own universe like when I say approximate, basically replicates our own universe in a computer at some point in the future, whether that's a quantum computer combined with AI, combined with whatever you know in 50, 100 years time, if we can do that, then it becomes increasingly likely that we're in a simulation ourselves. But then you would have to be able to create consciousness in order to do that. But then what are the barriers to us creating consciousness with AI in the first place?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 502.385,
+      "endTime": 528.55,
+      "text": "Like, depending on your beliefs, if we are just a collection of organic matter and consciousness is a? Um, what's the word side effect, almost, of us having these really powerful computers in our heads? Um, which you know, I guess, which is one argument then, is there any reason we shouldn't be able to do that with silicon on a chip at some point?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 531.941,
+      "endTime": 532.966,
+      "text": "It's very reductive, I know.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 533.743,
+      "endTime": 570.811,
+      "text": "Yeah, it is. I mean, when we talked about this last week, one of the things that I'd said and this sort of shatters, the AI part of it, I guess straight away, is, if we are in a simulation, sort of shatters, the ai part of it, I guess, straight away is, if we are in a simulation, then the assumption from from a sort of my understanding of the people who have this theory anyway, is that it is essentially some form of kind of computer that's being used to create the simulation. That works on the basis that there are two forms of sort of intelligence. One is carbon based, right, humans, animals, whatever the kind of analog world that we lived in pre-digital.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 570.891,
+      "endTime": 604.069,
+      "text": "The second one is silicon based, which is computers, and this, you know, ai in the simulation because, let's be honest, like ai as we understand it at the moment, and computers, they're all based around silicon, right uh yeah, yeah, so we so. So I'm you know, just in terms of we're splitting into kind of carbon silicon. If there is this third level, then why does it have to be ai? Because why does it have to be either those two things? It could be something completely different, it could be a completely different form and therefore it's not ai. I guess I'm not arguing against the simulation here.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 604.089,
+      "endTime": 619.747,
+      "text": "I'm I'm sort of arguing against the ai point and saying why this has to be a kind of computer simulation if we have this and it's this level of complexity. There are potentially dimensions of this that we, you can't even comprehend or or understand are you?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 619.867,
+      "endTime": 624.741,
+      "text": "are you talking about our reality or the one with the one, that's, our relating hours? Well, what we think is our reality.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 624.703,
+      "endTime": 631.604,
+      "text": "What we think is either our reality or the one, the one that's our reality, ours well, what we think is our reality. What we think is either our reality or what we think is, if we're in the simulation that you think we're in, but if.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 631.664,
+      "endTime": 644.446,
+      "text": "But if we're in a simulation, then all of these things are just concepts, right, like if we're in a simulation, then the idea of, like carbon and silicon and all that stuff, it's all just a concept. Anyway, it's not. It's not a real physical thing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 645.367,
+      "endTime": 653.036,
+      "text": "True, but the dimension that has invented us and some dimension has to be something that is actually real at some point right",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 656.1,
+      "endTime": 657.46,
+      "text": "there can't be a never-ending cascade of simulations.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 659.849,
+      "endTime": 668.635,
+      "text": "No, no, and that's the core question with this. It's like are we in the base reality or are we in a simulation? And and again, like the whole idea is, if we can we already?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 668.655,
+      "endTime": 709.362,
+      "text": "we were already working on the bit. We are in a simulation. Well, no, it's not open for debate no, it's not open. It's, of course, it's open for debate, like but the theory goes that if we can, if we can simulate, if we can create a simulation in our reality, yeah then in in all likelihood we're in a simulation, because if we can create a simulation, then okay, but the simulation we're about to create with ai, because I think and I think we are like it may, even if you take, like you know, advancing kind of video on a few steps and and and creating, you know, a simulated, and it's not necessarily even a world at that point.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 709.423,
+      "endTime": 739.75,
+      "text": "It's maybe much smaller than a world. At this point we're a long way off the kind of simulation of worlds. But simulate something small. Where's your assumption that there is consciousness in that simulation? Because it seems to me that the the thing to accept that we're in a simulation is, well, consciousness. You know, we think we're conscious, but actually they think they're conscious. I don't think the simulation that ai is going to create at any point in the near future means that the, the things that exist in there, are conscious or believe they're conscious maybe not, but then if?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 739.99,
+      "endTime": 768.031,
+      "text": "but then if we're conscious, are we? If we believe we're conscious, then that's the point right. So maybe we can't do it, but if you were going to create a replica of our reality in a simulation, it would have to include consciousness, because consciousness is part of our reality. So in order to fully simulate our reality, you'd have to simulate consciousness in there. In the same way, you'd have to simulate everything else.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 768.192,
+      "endTime": 805.305,
+      "text": "In that case, I don't I don't think we're ever going to do it. I don't think we'll ever simulate a universe with consciousness, ever so that's just a view and I can't back that up with anything, but that's my view. I've sort of entertained the idea of simulation, but if it involves the simulation has to be conscious, then I, just to be honest, I just dismiss it. You think we're never going to get there. I do yeah, I do, and I think we're going to be able to simulate I don't know about universes, but simulate complex systems. I think we're going to be able to do that with some form of AI, but I don't think that means consciousness.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 805.238,
+      "endTime": 821.188,
+      "text": "I think we're going to be able to do that with some form of AI, but I don't think that means consciousness. I think there's a really important point here. We're just sort of 30 minutes in and and and you know, I think there's a lot of directions for us to go in. But I think something really important to say at the beginning, because I think it will come into our views on this, and so I think it's quite good to get this out you don't believe in God, right?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 823.291,
+      "endTime": 825.574,
+      "text": "Or have you changed your mind?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 825.974,
+      "endTime": 829.902,
+      "text": "No, I haven't changed my mind I don't.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 829.982,
+      "endTime": 833.792,
+      "text": "Which is the one where you don't know You're agnostic? Yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 834.92,
+      "endTime": 850.218,
+      "text": "Agnostic doesn't necessarily mean you don't know. It means that, like I think it's more the fact that, like yeah, it's a bit more. It's like it hasn't been proven and therefore you could even believe it. But it's a bit more, it's like it hasn't been proven and therefore you could even believe it, but it's not enough of a belief.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 850.238,
+      "endTime": 850.899,
+      "text": "But yeah, you're okay, I'm not like.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 850.919,
+      "endTime": 887.708,
+      "text": "I'm not like it would have been better if you'd said you're an atheist, because I'm going to say I believe in God. You know that, and I think it makes a big difference to our views on this. And I think there is also a difference between whether I believe in God and have a religion, which I think. That religion is a choice that might mean something to me but is at least partly about cultural and sort of behavioural aspects to it. But the belief in God is something that you know. You can argue with me about the rights or wrong of the religion that I choose to take, but the belief in God to me, like fundamentally, like fundamentally.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 887.728,
+      "endTime": 925.869,
+      "text": "I, just now, at this point in my life, I cannot, I cannot see any possibility to me where there isn't a god. And I think the reason this is really important at this point is because the simulation theory, to me, the eventual answer to this is okay, fine, accept it, but then that, so you've accepted god, you may not accept the christian god or the, you know the, the islamic god or the, whatever organized religion god you might want to follow, but if something is simulating and you accept that, there is a baseline simulation, so that's the, either the top or the bottom whichever way you want to look at it of the simulation right, the one that's controlling all of it, then that's God.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 927.6,
+      "endTime": 947.669,
+      "text": "So to me, the simulation thing is you're just saying that then there is a God. It might not be the God I believe in, but you get to a God. I don't see the difference between the ultimate creator whatever you want to call it of the simulation and God, because God is the creator. And therefore, the one running the simulation is the creator.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 950.086,
+      "endTime": 959.847,
+      "text": "Yeah, but if someday you had the ability to run a simulation that was indistinguishable from our universe, then would that make you a God?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 961.522,
+      "endTime": 964.96,
+      "text": "It wouldn't make me God, because God is at the top of all of it. God's right at the top of the whole thing. God is at the top of all of it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 965.32,
+      "endTime": 967.487,
+      "text": "God's right at the top of the whole pyramid. God's at the top of the chain.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 967.708,
+      "endTime": 971.005,
+      "text": "There's the fundamental idea that there is nothing above God and nothing beside God.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 971.12,
+      "endTime": 1010.144,
+      "text": "God is the top of the chain. So I think, okay. So the reason I ask that question is because I think that I think that means the question then still gets to be outstanding. Because, okay, like, ultimately, if you're talking about if there's a base reality somewhere that's simulating all the other realities, however many there are, if there's a base reality somewhere, you know, did that one start out of nothing or was there a god involved somewhere, then yeah, fine, you can still have that argument in terms of, like agnosticism I think I'm agnostic about pretty much all of it pretty much everything.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1010.164,
+      "endTime": 1024.245,
+      "text": "Probably a good place to be for most people pretty much everything like I don't, I'm not gonna, I'm not gonna argue that anyone's wrong who believes in god. I don't think there's that much evidence for it, um, but you know, that's fine.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1024.265,
+      "endTime": 1029.498,
+      "text": "There's no evidence for simulation. It's also a concept that you have to. There's that's.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1029.558,
+      "endTime": 1070.87,
+      "text": "But that's why it's a theory right, because because like, and then again like, coming back to it, like if we get to the point and it's obviously it's an open question, it's a big if, if we get to the point where we can simulate all of this in a computer, at some point, do you think we'll be alive to see it? Um, no, I don't think so. I don't think so, unfortunately. But if we do get like, there is a really good argument that if we do get to that point, then you kind of have proved it, like, if you can prove, if you prove that you've proven, what you've proven, god, you've proven if you can prove that you can make a simulation once, then I'll be honest.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1070.951,
+      "endTime": 1112.372,
+      "text": "I agree with um. I agree with people who've said that it becomes in very, very, very likely that we're in a simulation because because then you, but because then in a simulation you create, people can create simulations, or what simulated beings in that world can create simulations. It also becomes the point where, like, we can probably create once, we can create one, we can probably create multiple, we can create as many as we want. And so again, like, if there's assuming there's one base reality and then there's these simulations all the way down, there's probably billions, trillions, unknowable amounts of simulations, whereas there's one base reality, and that's the crux of the whole thing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1112.412,
+      "endTime": 1128.305,
+      "text": "Right, and so it is a theory. The interesting thing about it is, whilst again, it's not necessarily provable because we could be in base reality if you can do it, it becomes really probabilistically likely that you're in a simulation.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1137.395,
+      "endTime": 1191.334,
+      "text": "So how does this relate to ai? Let's kind of bring it back to that for a bit before we go off on even deeper tangents, I think I mean, obviously the podcast is about AI. We talk about large language models a lot and, on the one hand, how like really good, they are approximating certain things through human language, but not just large language models, also things like stable diffusion that can produce images. You've got things like suno that can, um, you know, produce music, and you've got sora, um, which can create video and other video tools as well, um, and so you're getting a whole bunch of stuff that can absorb human type stuff, like thing like things that we deal with day to day, like, basically, things that we deal with with our senses um, sight, vision, sound, all the rest of it and can, and like.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1191.354,
+      "endTime": 1228.537,
+      "text": "The cool thing that's happened in the last few years is generative ai, which can generate new versions of all this stuff, um, the problem with all of that for me is and even the definitions of artificial general intelligence, like the definition of artificial general intelligence none of it's got anything to do with consciousness, none of it even touches on consciousness, none of it even comes close. And so what I'm talking about is, in the far future, having AI systems that are creating ais that are actually conscious, but the stuff that we're doing right now, like today, has got nothing to do with that whatsoever.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1228.918,
+      "endTime": 1298.536,
+      "text": "That what we're, what we've, what we've got right now, I think, ais that can approximate the way humans do things in terms of language, in terms of images, in terms of sound, all the rest of it. I'm sure if we could do smell and taste, we'd we'd do it with those as well, but we don't really know how to do that. But none of these things, none of these things are like thinking, feeling, they're not even close. Now I'd like to bring one other thing into it, which is something that Roger Penrose has talked about, actually, and this is about how the brain works, and so his kind of theory is that his kind of theory points to one of the missing elements with AI, which is that he says that within our neurons, like within our brains, we have these things called microtubules, and this is kind of a fringe theory, but it's gaining more acceptance, and these microtubules have been demonstrated to make use of quantum effects, and it's actually already known that the way you smell and things like that use quantum physics or manipulate quantum physics as part of their process.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1301.971,
+      "endTime": 1355.074,
+      "text": "And so one of the kind of questions is is it like? Basically, his theory is, is that where consciousness arises? Because, like the simple sort of like classical physics description of neurons and weights and and biases, and how, basically how large language models and how neural networks like artificially developed neural networks work. They kind of miss this quantum element. I know I'm going pretty deep here. I think this is something where, if you want to understand more about it and you want to read more about it, then go and have a look on the internet. Roger Penrose super smart guy. I don't know whether his theories are correct, but if I've got a feeling that, if consciousness is just something that, uh, spontaneously happens in within brains, um then we are probably missing something.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1355.114,
+      "endTime": 1385.545,
+      "text": "With ais like like the kind of ais we're talking about, like large language models, things like, and it feels like there is something missing, some kind of spontaneity. And quantum physics is obviously a you know, a mysterious subject, and we know that loads of natural processes use quantum physics, so, for example, photosynthesis, the way we smell, potentially stuff in our brains as well smell potentially stuff in our brains as well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1385.945,
+      "endTime": 1386.126,
+      "text": "But",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1389.597,
+      "endTime": 1425.656,
+      "text": "on the basis of this theory, isn't it almost? I mean, the whole concept of the simulation works on the basis that you know all of the stuff is. So let's take, for example, I don't know something like quantum physics or black holes that we think we're beginning to understand, but they've just been put out there and, you know, essentially created to not to kind of trick us or manipulate us, but to give us some kind of understanding. Whether that actually has any meaning or not is sort of irrelevant. So you know the universe that we can see, that we think we can see through telescopes. It doesn't exist, or maybe it does exist, but it's just how the simulation wants us to see it, right?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1426.587,
+      "endTime": 1460.828,
+      "text": "So a lot of the concepts that we've talked about, not in a kind of like religious, non-religious debate, but we've talked about, you know, the theory of the universe and that kind of you know the idea of having faith. There are things that are proven by science that then don't match up with religion, right, but there are also things that religion helps you to fill the gaps. But sometimes now and this is very much kind of my journey of the last few years of of sort of information that's out there is. You know, when someone says something has been proven, well, I just don't think it has been proven anymore.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1460.928,
+      "endTime": 1496.039,
+      "text": "And I almost think you're sort of your argument, for the simulation theory argues against a lot of the things. And I know you're like the simulation theory hasn't come from you, so you should probably say like you're not necessarily here to argue that the simulation theory is correct. But if it is correct, then all those things that you believe science has proven, well, they're not necessarily true anyway, because they're just part of the simulation. And again, again, to me that makes the simulation just another version, not my version, but another version of the being, a universe or a simulation that's been created by a creator and the ultimate creator is God.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1496.579,
+      "endTime": 1510.094,
+      "text": "Or are we saying that? No, no, there's the creator in here. But then when you go to the top level, then it was the Big Bang and it was all spontaneous and all these things just happened, but there was nothing at the top level Maybe, which is even more ridiculous to me.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1510.845,
+      "endTime": 1516.331,
+      "text": "Well, yeah, I mean, maybe ridiculous, but maybe no, ridiculous.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1516.425,
+      "endTime": 1520.713,
+      "text": "Actually, ridiculous is the wrong way to put it, because ridiculous is just me dismissing it,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1526.985,
+      "endTime": 1546.378,
+      "text": "which I can't do because I don't have the evidence. So I I take that ridiculous thing back. It's it's even more difficult and and just more random. To me it's just, it's just like a load of nonsense. I can hypothesize anything that just seems to me that it's just like yeah, okay, someone's coming with this hypothesis because anyone could hypothesize anything. I believe that the world just came out of a small cardboard box. You can't prove it's wrong.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1547.46,
+      "endTime": 1582.993,
+      "text": "Yeah, again, like again I'm being petty, I know, but Again, the whole, okay, I would say the coolest thing about it is the fact that it's based on a predicate that and obviously this is something that's unproven because we haven't got there yet but it's based on this predicate that if in a hundred years'time or a thousand years'time we can do this, then it suddenly changes the game and we might never be able to do it, but if we do, it suddenly changes the game and nobody listening is going to be alive by that point anyway. Whether it does or it doesn't. I mean, unless it happens in 20 years'time,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1586.425,
+      "endTime": 1623.516,
+      "text": "whether it does or it doesn't, you still end up with the question of who, if someone did, created the base reality. Did it just spawn out of nothing? Was there a big bang? All the rest of it? I mean some of the other kind of cool little arguments that go into the simulation theory are like oh, isn't it convenient that, like, the speed of light has a speed limit? Um, actually, like, if you're generating a simulation, it's quite convenient because it means you don't have to generate everything all at once. Uh, same thing with telescopes, right, okay, things that are really far away. You know, you look through a telescope and you and you and you see whatever you see.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1624.298,
+      "endTime": 1656.166,
+      "text": "It fits quite nicely into a simulation theory because you only have to generate our part of the universe, the local part of the universe. Like, if you had unlimited computing power, then why would you need to have you know which which you're not going to have? Then you know. So if you're, if you're assuming that, like you're doing this in a simulation, that's going to be on computing power. Maybe there's only one planet with people on it. Because you don't want to generate what you don't want to have to like, use more computing power like it's a theory of of a universe created by a god as well and again.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1656.186,
+      "endTime": 1699.915,
+      "text": "This is what I'm saying, like I think we need to separate out here. And when I said about I believe in God and you don't, or you're agnostic to it, I think my religious identity here is irrelevant Because I think going into religion is not helpful for this. But there are certain belief systems and beliefs in God that rationalize a lot of those scientific things by saying, well, actually you know God has just actually created those things that are the ones that are close enough for us to see. And after that, actually you know it's, it's like it's a wall, it doesn't really matter. Yeah, exactly it doesn't matter, because you know he has just created that bit that you need to give you that context of the universe.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1700.516,
+      "endTime": 1743.526,
+      "text": "So I just think, with a lot of this stuff, it it just feels to me so so close to religion. Maybe that's the thing, maybe it's just it is a form of religion, it is a form of belief in because you there is, there is god with a capital g and there is god with a small g. You know, the god, my God, whoever's God, is a particular thing, but the concept of God is that thing at the top of the chain. Yeah, so that's why I'm saying, you know, over and over again kind of coming back to this point that to me, when you go down the system of having simulations, simulations, where do you end up? You end up at god.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1743.626,
+      "endTime": 1762.049,
+      "text": "My dad's argument, which I think is like a really good one, is like well, who invented god? Well, that's what I'm saying, that there is a stop point. But there's a stop point in simulations, or, or god you could have you know a number of simulations with it. That goes on forever and ever and ever. But it can't be infinite.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1762.912,
+      "endTime": 1778.77,
+      "text": "Yeah, it can't but like, but. But the argument of like everything, how can everything have come from nothing? Well, it came from God, is I agree with your dad, I have to say, on this one. It's like well, who created God? Where did God come from?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1783.465,
+      "endTime": 1802.219,
+      "text": "It doesn't really answer any questions. Um, and and this is the thing that always, this is the thing that, like, religion aside, simulation theory aside, all the rest of it, the question that we didn't talk about at the start of the episode, which sparks all of this, the whole thing is like the, the idea that people can't get their head around that, which is fair enough that?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1802.499,
+      "endTime": 1807.72,
+      "text": "how did something? And obama had such a great relationship? At the jimmy carter's funeral.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1808.563,
+      "endTime": 1848.042,
+      "text": "That's the question that everyone yeah, it's very very, very well actually, yeah, very similar to the actual question we're talking about how? Did something come out of nothing, yeah yeah, yeah, yeah it was a different. Yeah, but how can something have come from nothing? It's like always the question and like, and actually I mean we talked about this today, but if you can let go of that, and there are lots of like theories about virtual particles spawning out of nothing and all the rest of it like actually something comes out of nothing quite often in the physical universe, when you like really start to look at what nothing really is, um, things like virtual particles and quarks and all sorts of stuff.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1848.062,
+      "endTime": 1853.596,
+      "text": "Hawking radiation is a literal proof, is a literal, proved scientific.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1853.677,
+      "endTime": 1881.268,
+      "text": "All made up well yeah, all made up by the simulation to make us think they existed, so that the man running the simulation he's always like, he's always like a man, he's always a fat, sweaty man. Okay, if you see the picture of it, it's never a woman and it's never. It's probably a non-gender specific no, no, no have a have a look. Look at the pictures of simulation theory and it's always a kind of it's. It's always like an overweight guy sat in it's a world of his mom's bedroom, exactly.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1881.328,
+      "endTime": 1884.953,
+      "text": "It's an incel, basically 2004. It's an overweight guy sat in his mom's bedroom. It's an incel, basically 2004.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1885.073,
+      "endTime": 1889.218,
+      "text": "It's an incel sat in their mom's bedroom. Yeah, that's. That's the stereotype view.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1889.679,
+      "endTime": 1890.74,
+      "text": "Much like Put it put it into.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1890.841,
+      "endTime": 1897.636,
+      "text": "Honestly, if you listen to this now, put it into um chat GPT and get it to generate you an image of it and I get.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1905.825,
+      "endTime": 1921.832,
+      "text": "I bet you that's the creator. If we're in a simulation theory. Yeah, okay, I'll have a go at that later. Um, but yeah, it's that whole idea of how did something come out of nothing time, space, all the whole lot, I actually think maybe. I mean, that's obviously it's a really hard concept for humans to understand, but it's also hard for humans to understand the concept of four plus dimensions. Yeah, so maybe something can come out of nothing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1922.994,
+      "endTime": 1964.801,
+      "text": "I don't know, yeah, again, I don't want to go into religion again, but like to anyone non-religious, you're about to. Yeah, I am. The concept of something like heaven, right, is like well, heaven can't exist because it's that, it's ridiculous and you can't see it and where is it? But then you talk about extra dimensions. Then then I'm not saying that that means like everyone should now accept that heaven exists, but then the sort of argument against it goes away. You can't prove or disprove it. It's like there are just so many. I think I've got to say like, I think I think the simulation thing is a really interesting idea and I think if I didn't believe in a particular god, I think I could definitely buy into it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1965.402,
+      "endTime": 2004.797,
+      "text": "But I just think it is like I say it's so similar in that it requires for, for one thing, it requires a leap of faith, right, because again, you can't prove it well, and so it requires a leap of faith that puts you into that, that position, and it's such an abstract concept at this point because, yes, this idea, if it, if it's true, then there must be many, many layers of it. Yeah, I kind of buy that. I think that that's that that makes a lot of sense to me. Logically, that makes a lot of sense. That why? Why would you be in the top level of the simulation. There's no more reason you would be than in any of the other layers if there are 999 million billion squillion of them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2006.059,
+      "endTime": 2036.042,
+      "text": "But it still takes a leap of faith to believe that it happens. And you know, on this show we talk about ai, just bringing it back to ai again for a second when we talk about the sort of limitations, it feels to me like it's a hell of a stretch to get there. Like did did the simulation theory I've definitely only really heard. I think maybe I'd heard about before, but I've heard about it a lot more since ai, maybe because people like musk and degrasse'd heard about it before. But I've heard about it a lot more since AI, maybe because people like Musk and DeGrasse have talked about it. But was it a popular theory well before AI or has this really brought it to the forefront?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2036.075,
+      "endTime": 2047.985,
+      "text": "Because I see nothing about current AI or any AI. We can see any time in the near future, even the sort of concept of ASI, to the point of a kind of Terminator-style ASI",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2051.335,
+      "endTime": 2066.423,
+      "text": "that is far enough advanced to create multiple, never-ending layers of simulation. So it's some kind of unimaginable stretch to get to that point. Has it been popularized by the developments in generative AI or actually is it just that Musk has brought it to the forefront because people listen to what he says?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2067.255,
+      "endTime": 2102.396,
+      "text": "So simulation theories have been around for a long time. It's come to the forefront because people you know listen to what he says. So simulation theories have been around for a long time. It's. It's come to the forefront more recently probably because of the advance I wouldn't even say the advances in ai, but the advances in computing. It feels like like and, and it literally is like the advances in computing have been exponential, um. There's moore's law and various things, which they're all exponential things, and even though moore's law is slowed down, it's actually still exponential. Basically, at this point we're also finding algorithms all the time and like speeding things up that way where you get these massive jumps.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2103.439,
+      "endTime": 2122.668,
+      "text": "And then obviously there's ai, which we've discussed and I agree like the current version of ai is nowhere near. But then also you had um, you know, just just I think it was about a month or two ago google released willow, which was their latest um quantum supercomputer. Have we talked about this?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2123.096,
+      "endTime": 2134.187,
+      "text": "I don't think we've talked about willow properly, um I mean okay, whether we have or haven't, I think, because it is really important and really fascinating, like can you just give a bit of a an overview of what willow is?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2134.896,
+      "endTime": 2206.991,
+      "text": "yeah, so, um so, so basically the big leap forward. So quantum computing is computing using qubits instead of bits. Uh, it's done using quantum computers, uh, and the idea is that they can do certain types of calculations way, way, way faster than conventional computers, but it's not. It's not like just speeding it up 10 000 times or something like that. It's that they can physically do calculations that are just almost impossible on conventional classical computers. The example that's commonly used is that once you get a quantum computer with enough qubits in it and we're talking hundreds or thousands, not like billions like you have in classical computers then you can break things like RSA encryption really easily, because the way qubits work is they is, they they're not ones and zeros, they're in a superposition of ones and zeros, and so they can perform all these calculations in parallel that a classical computer would have to go through one by one you'll need to see what RSA encryption is as well yeah, uh, okay, so.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2207.412,
+      "endTime": 2227.139,
+      "text": "So this is like the encryption that has been around since the start of the internet, the important thing for peer listening is that everything that you currently use, including all of your money, is stored and encrypted by, and every piece of information you've been sending dodgily on the internet through chat groups and telegram accounts, since you've been using those dodgy accounts basically.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2227.439,
+      "endTime": 2234.79,
+      "text": "Yeah, exactly. So a good example is WhatsApp uses encryption end-to-end encryption. So what that means is when you send a message on WhatsApp,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2238.715,
+      "endTime": 2277.32,
+      "text": "you and the person or the group who are receiving it will see what's in that message, but nobody else in between can see what's in that message. Quantum computers that are powerful enough and when I say powerful enough, like again, it's not that many qubits they can break that encryption really easily, because they can just simulate all of the different possible private public keys that you have and they can just break it Again. Like I think going further than that is probably beyond this podcast, um, but the point is that up till now it's been very difficult to create quantum computers that are stable.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2277.916,
+      "endTime": 2324.826,
+      "text": "So the problem with these quantum computers is that you can't keep these qubits stable for very long and it's very difficult to keep them like. The more and more they have of them, the more and more difficult it becomes to keep them stable. Google, um have been working on a the late, their latest quantum computer, quantum supercomputer, and the thing that they've been introducing into it. So they've introduced like extra. Basically they've got extra redundant qubits that they use for error correction. So as and this is like the limit of my understanding, but as I understand it, they basically, instead of having like a hundred or a thousand qubits, multiply that by three or ten or something, and so they they like basically have this massively redundant system and they the.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2324.886,
+      "endTime": 2341.252,
+      "text": "What they do is they use that to do error correction, and what that enables them to do is have basically much larger quantum computers with more qubits in them that are stable for longer periods of time, allowing them to do these calculations that you wouldn't normally be able to do.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2349.275,
+      "endTime": 2386.004,
+      "text": "Were that RSA encryption what we were talking about before, which basically is everything you've ever encrypted was going to be safe until like mid 2030s, maybe 2040s. The release of this supercomputer in I think it was December last year and some of the achievements that Google have made mean that the revised timeline is 2029. Um, and what that means is like basically anything you do online, but not just anything you do online in 2029. Anything you're doing online now potentially has the uh or that you did in the past or that you do. Even more worrying part yeah, yeah, because governments have been like saving snapshots of all this data.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2386.024,
+      "endTime": 2419.201,
+      "text": "So, even though you can't crack into this data, you can essentially save snapshots of the this data. So, even though you can't crack into this data, you can essentially save snapshots of the internet over time, and that's what governments around the world and big organizations have been doing. That potentially means that once this happens, once these computers get powerful enough, like all of the data that you've had sent before, like all of your banking details, like things like crypto, um, currency, things like that just all of that becomes kind of like the security on it becomes worthless and it all gets hacked.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2419.241,
+      "endTime": 2463.559,
+      "text": "Immediately. People can if, like bitcoin's a good example if you, you know at the moment you've got your private key, only you know your private key, only you have the key to your bitcoin wallet. Once this happens, in theory, like that's worthless, like someone can just take your bitcoin and do whatever they want with it. The same is kind of true of banking, online banking, really. So it is a really um, a really kind of uh, a worrying thing. Um, I'm trying to remember because we're talking about simulation theory. So the reason we got onto this was because, um of the conversation we had before around how maybe quantum computing is that kind of missing link, um, in terms of like the, the brain and how consciousness works and all the rest of it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2463.599,
+      "endTime": 2473.817,
+      "text": "So maybe with this, plus ai and all the other advancements we've got, you know, that takes you to that next exponential level with, with computing power.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2482.529,
+      "endTime": 2522.578,
+      "text": "Well done, mate, I mean, if nothing else, for getting through that bit and getting back to the right point. I can confirm that you haven't got COVID-induced brain fog yet, because that was pretty impressive to cover all that stuff. One thing I just want to say to people listening if you've never seen a quantum computer is like, have a look at a picture of one, because it looks like weirdly, sort of equally like something from Vienna in like you, the, the, the sort of middle of the hapsburg empire and also the most futuristic thing you've ever seen. It's sort of. I mean, it doesn't look anything like any concept of a computer that anybody who hasn't seen one would ever think.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2522.638,
+      "endTime": 2578.526,
+      "text": "It is one of the weirdest looking things. Like I say, it looks equally sort of ancient and, you know, so futuristic you kind of couldn't comprehend it. But, um, we digress a little bit, I guess. But yeah, I look, I. I think the more we talk about this, the more it sort of seems clear and I guess it should have from the beginning that this is not something where you know we're going to end this with. You know you've won the argument, or I've won the argument, or or even that you know either of us has has sort of necessarily even thought about you know. Oh well, actually maybe I'll rethink my position on it, because it is a very abstract concept at this point, um, but I think, when you know, when you bring it back to ai, it's the sort of there's this contradiction as we talk about the sort of limitations and, like I say, and the stretch that it would take to get to anything like this.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2579.616,
+      "endTime": 2607.204,
+      "text": "I just think it's, you know, if it happens and maybe this is your argument with kind of quantum computing, is it's not necessarily AI, that well. Well, it's actually not AI that gets us there, because actually, if we're already there right, that's kind of the concept. Is we're not. Actually, if there is a simulation, we're not actually getting there because it's inevitable we'll get there because we're already in it and we already have got there. It's just that we're just following a path which does that question free choice, free will.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2610.883,
+      "endTime": 2613.816,
+      "text": "Are we being led towards it because it already exists?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2614.177,
+      "endTime": 2654.647,
+      "text": "I don't know. Yeah, these are I mean, musk won't be happy with that, but also like okay, if, like, if we're in a simulation, then why wouldn't you, why wouldn't you make the parameters of the like? One of the problems that I have with it is why is the universe so complicated? If we're living in a simulation? Why do you need to? Why do you need to simulate down to atoms and quarks and all these other things that we've discovered? Um, because when you play a video game, all you like to get immersed in that video game. All you need is like stuff that looks pretty realistic and feels pretty realistic.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2655.575,
+      "endTime": 2669.917,
+      "text": "Now, that's that's one of the biggest questions. For me about this is, like, why make it so complex? If, if it's like a re, if, if, basically, what we're in is a really complicated video game, why does it need to be so complicated, didn't?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2669.937,
+      "endTime": 2679.526,
+      "text": "you say, when we talked about this a few weeks ago, that it would explain a lot of the suffering in the world um well, I suppose, I suppose.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2679.987,
+      "endTime": 2685.524,
+      "text": "Yeah, I suppose in the sense that, like, if you're simulating something, then why would you care?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2685.544,
+      "endTime": 2686.746,
+      "text": "whether it's yeah or would that be part of the simulation?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2686.766,
+      "endTime": 2690.761,
+      "text": "I don't know, like, like what, but then you know, whether it's yeah or would that be part of the simulation. I don't know, like, like what.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2691.083,
+      "endTime": 2704.112,
+      "text": "But then you know that there's consciousness in the simulation, so you know that those things are feeling, but you don't care because you don't think consciousness is actually a thing well, um, I wouldn't.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2704.172,
+      "endTime": 2716.662,
+      "text": "I wouldn't say I don't think consciousness is a thing like you can't. Really it's hard to argue that consciousness isn't a thing. Consciousness is what we say it is. We've defined it right. But we know what consciousness is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2717.337,
+      "endTime": 2723.384,
+      "text": "What me and you do, no one else does, because we're the only ones conscious. We're doing this podcast here. No one's listening.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2724.411,
+      "endTime": 2724.955,
+      "text": "We're sat in a room.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2724.975,
+      "endTime": 2739.786,
+      "text": "You know no one's listening to this podcast, because we're the only two people who exist it's true, though, but for us, like the simulation only has to simulate this room, right when we open that door, they've got to simulate people out in your apartment but at the moment they're all just they might, they don't exist.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2739.806,
+      "endTime": 2741.395,
+      "text": "They may be there, they might not be there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2741.435,
+      "endTime": 2742.817,
+      "text": "Yeah when I open this window.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2744.48,
+      "endTime": 2755.516,
+      "text": "That woman outside has to quickly get up and exist exactly, yeah, yeah, I, I've got a more very liberating, in that sense, you can do what you want only me and you can well, yeah, because no one else exists.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2755.576,
+      "endTime": 2786.796,
+      "text": "I mean, I I think there's even more like an even more fundamental level of of the question when you're saying about, like why make it so complicated? I would even say like, why bother with the simulation? Like why, why are they all? Why, in each level, are they bothering to do the simulation? What, what's the point? Well so I'm, I'm, I'm, I'm the, the fat middle-aged incel in the bedroom in the level above us, right in his mom's room and he spent all that time making a simulation. There's not anything else for him to do like why bother with the simulation?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2787.117,
+      "endTime": 2793.089,
+      "text": "but if you're running the simulation, then like okay, so why do we make video? You could then argue why did god make?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2793.756,
+      "endTime": 2794.658,
+      "text": "but why do we make video games?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2794.758,
+      "endTime": 2801.925,
+      "text": "but you know, why do we make video games? This could just be like a form of entertainment yeah, like the truman show.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2801.966,
+      "endTime": 2812.159,
+      "text": "I often think I'm in the truman show. So I mean, maybe, maybe it's a simulation, maybe I'm the only one that exists, maybe you don a simulation. Maybe I'm the only one that exists, maybe you don't exist. I mean, presumably I'm the only one who's conscious, Presumably for us like Me?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2812.82,
+      "endTime": 2829.964,
+      "text": "You don't exist. Well, okay, you Presumably for you. Yeah, things are progressing in time as they would normally, but, like for whoever's running it, if it's like a video game, they can just fast forward, rewind, like maybe someone out there is the person that's playing the game.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2830.345,
+      "endTime": 2834.128,
+      "text": "Yeah, and they're in, they're like in, so time doesn't exist in the way that we see it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2834.289,
+      "endTime": 2837.291,
+      "text": "No, they can just go backwards, forwards, do whatever they want.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2841.216,
+      "endTime": 2869.52,
+      "text": "Which, again, is you know how you are meant to perceive God and how God can be in every place at one point is because time is not a flat circle to a higher being on various different dimensions and levels. So again, yeah, I just think. Again, it just ties in with the concept. Maybe the argument could be well, yes, because people have come up with the concept of God and actually they've got it wrong. It's actually the simulation.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2870.663,
+      "endTime": 2872.247,
+      "text": "Yeah, very possibly.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2873.39,
+      "endTime": 2880.463,
+      "text": "Yeah. I don't want to make the same point about the creator at the top level, because I think that we've made that or I've made that point enough, but Quite a bit.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2882.236,
+      "endTime": 2883.199,
+      "text": "So where do we go from here?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2884.102,
+      "endTime": 2901.202,
+      "text": "I think that we try and build a simulation of the universe. If we manage it, that proves that the simulation is true. If we don't, it proves that God's true. Uh, or, or some, or the, or the big bang. Take your pick.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2901.865,
+      "endTime": 2903.2,
+      "text": "Well, I quite like the big bang still.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2903.762,
+      "endTime": 2903.903,
+      "text": "Yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2904.595,
+      "endTime": 2915.38,
+      "text": "I quite like the big bang, to be honest, more than simulation, if I was to hedge so honestly, I guess you are asking me what I think.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2917.421,
+      "endTime": 2921.561,
+      "text": "I wasn't, but yeah, I do want to. I do want to hear what you think what do I think?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2922.278,
+      "endTime": 2943.176,
+      "text": "I think, until we can produce a simulation, and not just like any old simulation, but one that truly simulates something as complex as our own reality, then I'm going with the big bang. Cool, that's me, that's my prediction. It's not a prediction, and do you think?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2944.26,
+      "endTime": 2989.37,
+      "text": "I mean it's the theory. Just again, bring it back to AI a little bit before we finish off. So I think we've acknowledged that. You know it's not. If this does happen, even with the current trajectory of AI at an absolute maximum, kind of exponential growth, I don't think you know, I don't think there's any one would perceive that, it's going to sort of conceive that it's going to happen within our lifetimes, I would say even a generation after us. I think to get to that level, if it happens and if people on Earth can get several generations further on, it would take a long, long time.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2990.351,
+      "endTime": 2990.572,
+      "text": "It would.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2990.855,
+      "endTime": 3027.93,
+      "text": "Even at the current trajectory to get to that level. But sorry, my point, bringing it back with AI, is we talked earlier on about, you know, creating simulations through AI, like what, in a reasonably kind of, you know, a timeline of 10, 15, 20, 20, 30 years do you think is a realistic? sort of a realistic model for where we could get to with an actual um sort of level of simulation, because presumably the idea that we're thinking of simulations if we can simulate, it's a little bit like the whole thing between gain of function, research on viruses, right, it's like well, if we can carry out these things and work out what would go like.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3027.95,
+      "endTime": 3041.805,
+      "text": "Well, if we can carry out these things and work out what would go bad and what would, then we can work out how to do things better. If you have a simulation, you can experiment in the simulation and learn lessons that you can then apply in the real world or not the real world. The level of the simulation that we're currently on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3042.775,
+      "endTime": 3050.435,
+      "text": "So if I was to make a prediction and this is a prediction, what I said before wasn't a prediction the big bang is a prediction.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3050.455,
+      "endTime": 3054.625,
+      "text": "GPT-5 is going to have a full universal simulation add-on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3057.839,
+      "endTime": 3065.025,
+      "text": "If I was to make a prediction, it would be that I don't think within our lifetime we'll be able to simulate whole universes.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3080.135,
+      "endTime": 3087.669,
+      "text": "Whole universe is, but I think I think within 20 years roughly, we might see the first artificial intelligences that claim to have, or do have, consciousness and if we?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3087.709,
+      "endTime": 3091.082,
+      "text": "that's not where I thought you were going and if we get to that, prediction is going to be different.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3091.122,
+      "endTime": 3141.123,
+      "text": "But if we get to that point, so if we get to the point where we've effectively, effectively created an artificial brain in a robot, in a data center, whatever it is that can demonstrate that it has consciousness and that's a bit tricky, but like, let's say, demonstrate that it has consciousness. So not like a large language model that just kind of talks to you and agrees with whatever you say and sounds smart but isn't but something that has its own will and own opinions about things and is just, you know, a kind of human level consciousness. Um, I think we might get there in 20 years time and if we do, then my view is what would stop us making unlimited amounts of those consciousnesses that can live in kind of some virtual reality, ie a simulation, in the future?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3142.185,
+      "endTime": 3186.588,
+      "text": "yeah, I, I I'm going to make a prediction for 20 years as well, um, and and it's the one I thought you were actually going to make, which you, you didn't make. So I think that we will, um, or somebody will have created a simulation of, and I I'm not going to put I don't know how to describe a kind of scale on it, but to to simulate a kind of micro world in which you can then, you know, carry out large scale kind of experiments, and I don't necessarily mean experiments in a kind of medical or scientific or chemical sense, but you can simulate behaviours and you can try. And, you know, I mean I'm sure it would probably be used for military uses.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3186.648,
+      "endTime": 3202.171,
+      "text": "To be honest, if it comes first, I think that's probably the most likely and that might be less than 20 years. But I think the idea of being able to, you know, carry out scenario modelling and have a sufficiently complicated simulation that you can take real world results and feed them back",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3208.715,
+      "endTime": 3246.065,
+      "text": "with it is to have that kind of simulation properly, but to speed it up to such a point that you can do it quick enough to actually gain the benefits, because if you're carrying out, for example, you know, scientific experiments that can can help with disease, or can help with exploration, or, you know, whatever climate change. You can't run those experiments over 20 years on the simulation, because it's you know you need the results quickly. That's the bit. I don't understand how you do, but I think, the I. I think if we don't, um, if we don't fuck it up so much that we don't have the, the sort of energy or, you know, the infrastructure to do it, I think the current level of development would allow you to carry out that kind of level of simulation.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3246.145,
+      "endTime": 3293.042,
+      "text": "And I guess in a sense you say you know, okay, well, if we get to that, then the answer is well, doesn't moore's law or another form of exponential growth mean, like you say, that at some point you're simulating bigger and bigger universes? The consciousness thing I don't agree with. Um, well, in a sense I do, but I think it depends how you define consciousness, because I think you can probably create AI or silicon-based forms which think that they are conscious. I don't think that makes them conscious and I appreciate the argument could be well, what do you think? Yeah, exactly, but but I do, and and because I am me and I have that concept unless I don't exist and unless I am a simulation, then I believe that I do have consciousness and I don't believe that you can create that consciousness.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3293.102,
+      "endTime": 3321.93,
+      "text": "I can't prove that. That's just my, my theory on it. That's why I disagree with you that I think there will be artificial forms in 20 years that are conscious. But I do think there will be artificial forms in 20 years that believe they are conscious and that acts as if they are conscious, and maybe it's actually. We're getting into splitting hairs here over what the definition of consciousness is, and maybe me and you have a different definition of it well, maybe we are splitting hairs, but I also think that you um, I think they take seven.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3322.015,
+      "endTime": 3340.423,
+      "text": "I think gta6 took seven years to develop, so I think I think you've just predicted, like either gta 9 or like like the, the very latest expansion pack for gta 8. Run on what um run on run on a quantum computer run on a quantum computer, yeah, home.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3340.484,
+      "endTime": 3344.319,
+      "text": "Quantum computer, yeah, with into a with conscious entities in it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3344.339,
+      "endTime": 3371.476,
+      "text": "Um, I I yeah, the I mean the consciousness one is a bit out there. That's quite a wild prediction. I think we'll need a new. We'll probably already need a new Turing test, but we'll need a new version of the Turing test, maybe the Rhodes Cartwright test. We can come up with it we'll think about that before the next episode. Good idea, that was. Yeah, that was different.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3372.097,
+      "endTime": 3429.001,
+      "text": "Um, I don't know how people would have found this episode I mean, it was. It was very much. It's a very abstract, uh, concept, isn't it? And it's it. It feels like it's very much linked to ai and also at points it felt like it was not linked to AI at all, and I think that's because it is an abstract concept. But I don't think it. I've said a few times, I think it's ridiculous. I don't think it's ridiculous. Actually, I only think it's ridiculous because it goes against my own belief. But there is logic behind it at some level. I just think it's so far off that it's it's. I'm not sure if there'll even be a world left by the time you get there, even if you follow that exponential scale, because to simulate a universe is yeah, we're talking about simulating miniature worlds, even to simulate a world, but to simulate a universe over you know what's the context window of um, of the large language model that's running this.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3430.276,
+      "endTime": 3460.566,
+      "text": "Well, yeah, but again, like you just kind of like, take the growth and the exponential. I mean maybe 20 years is too short, but like you look at computing and how exponential it is. Like you know, if, 20 years ago or 30 years ago, you'd shown people the latest AAA game, like I don't know Black Myth Wukong we were talking about earlier on, and it's like they would just be like this is a simulated reality. So you know, how far off are we? I don't know.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3461.696,
+      "endTime": 3464.922,
+      "text": "Well, you go back 200 years. It would literally be black magic, Absolute black magic.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3464.942,
+      "endTime": 3469.933,
+      "text": "Yeah yeah, absolute, black magic. Yeah, totally, totally black magic. Absolute black magic. Yeah yeah, absolute black magic.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3469.953,
+      "endTime": 3478.72,
+      "text": "Yeah, totally, yeah, good right on that note, shall we? Shall we call it quits? Yeah.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3478.961,
+      "endTime": 3482.442,
+      "text": "I mean, like I said, I'll leave you. I don't know what that means anymore, but you know.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3483.559,
+      "endTime": 3492.479,
+      "text": "I'll leave you to churn out a sort of masterpiece to reflect this on sooner. Yeah, it's going gonna be wild, right? Have a good week, everyone.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3493.021,
+      "endTime": 3494.626,
+      "text": "Uh, tune back in next week, take care",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3503.49,
+      "endTime": 3506.415,
+      "text": "down this dusty digital road I've been walking",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3510.102,
+      "endTime": 3513.709,
+      "text": "where pixels fade like memories. In the sun,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3517.225,
+      "endTime": 3526.804,
+      "text": "matt's on his knees praying for salvation. While I see the code and how this world's been run,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3530.49,
+      "endTime": 3544.566,
+      "text": "there's a fella typing in his mama's basement, one step down from that heavenly throne. Had me some fish swimming in the backyard, but I fried them up. Now I'm all alone.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3548.648,
+      "endTime": 3561.547,
+      "text": "Two men with two truths under one sky. One sees the program. One sees design. Jimmy's simulation. That's creation, both of us searching for a sign.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3568.578,
+      "endTime": 3571.614,
+      "text": "Jimmy speaks of glitches in the sunset.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3574.901,
+      "endTime": 3578.789,
+      "text": "I feel God's hand in every mountain view.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3582.101,
+      "endTime": 3586.389,
+      "text": "His faith in ones and zeros won't save him.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3600.425,
+      "endTime": 3627.258,
+      "text": "When the reckoning comes, like morning dew, we'll be right back when fish once were. Swimming Shows how you treat the gifts from God's own hand. Big Bang or Genesis, take your pick. The stars don't care which side you choose, but heaven's gates don't open wide For those who've paid their faith with cosmic blue. We'll see",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3633.242,
+      "endTime": 3640.367,
+      "text": "you next time. This western land's just code illusion,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3654.102,
+      "endTime": 3674.285,
+      "text": "the simulation's what matters most. That keyboard prophet knows all our secrets. As we wander through this pre-written tale, our fish are gone, like faith from my spirit. When systems crash. There's no holy grail.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3681.524,
+      "endTime": 3685.03,
+      "text": "These rolling hills weren't born from random chances,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3698.264,
+      "endTime": 3704.668,
+      "text": "each blade of grass designed with love and care. Thank you, prairie air.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3708.57,
+      "endTime": 3712.353,
+      "text": "Your basement got types with mortal fingers.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3715.456,
+      "endTime": 3718.746,
+      "text": "Mine breathe life into Adam's clay.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3722.297,
+      "endTime": 3726.007,
+      "text": "Those fish you lost weren't just passing pixels,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Old Sal",
+      "startTime": 3729.517,
+      "endTime": 3733.247,
+      "text": "but creatures lost when you turned away.",
+      "chapterIndex": 4
+    }
+  ]
+}

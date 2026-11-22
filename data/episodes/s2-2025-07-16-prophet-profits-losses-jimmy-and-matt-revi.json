@@ -1,0 +1,1310 @@
+{
+  "slug": "s2-2025-07-16-prophet-profits-losses-jimmy-and-matt-revi",
+  "buzzsproutId": "17514855",
+  "title": "PROPHET PROFITS LOSSES: Jimmy and Matt revisit their summer 2024 AI Predictions",
+  "date": "2025-07-16T14:00:00.000Z",
+  "season": 2,
+  "durationSec": 3098,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/17514855-prophet-profits-losses-jimmy-and-matt-revisit-their-summer-2024-ai-predictions.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Have you ever wondered how accurate Jimmy and Matt's AI predictions about AI really are? Probably not, but in in this revealing episode, they are going to do it anyway. Revisiting some pretty wild forecasts from summer 2024 they see what they got right, what they missed, and what surprised them along the way. If nothing else it shows how rapidly AI is changing and how decades of deveopment are being condensed into months. The duo dive into language model development, finding that while they correctly anticipated Claude 3.5, OpenAI's confusing naming conventions (GPT-4o, GPT-4 Mini, and more) threw their straightforward GPT-5 prediction off track. Matt's assessment of Google's rise to prominence with agentic models appears spot-on, with Google steadily integrating AI capabilities across their ecosystem in ways that prioritize practical utility over novelty. Perhaps most thought-provoking is their examination of predictions about AI's societal impact. The conversation takes a sobering turn when discussing their forecast of \"massive societal upheaval from AI replacing jobs\" and potential mass protests by 2026. While these events haven't materialized yet, both hosts stand firm in their belief that significant disruption lies ahead, with Jimmy boldly asserting that AI could eventually replace \"all white collar jobs\" - a claim Matt challenges by questioning how society could even reach such a point without collapsing first. The episode offers fascinating insights when the hosts react to the world's first fully AI-generated advertisement that aired just last week during the NBA finals. This $2,000 Kalshi ad featuring bizarre imagery of crocodile riding and egg baths serves as a real-time validation of one of their predictions about AI-generated content. Whether you're an AI enthusiast, concerned about technology's impact on employment, or simply enjoy a thoughtful discussion about our collective future, this episode delivers engaging perspectives on where we've been and where we're heading. What predictions will come true next? Listen now to join the conversation about our AI future.",
+  "summary": "Jimmy and Matt revisit their summer 2024 predictions from 'The Secret AI Takeover', scoring hits (Google's agentic lead, AI antibiotics and tongue-scan diagnosis, Jimmy's 'just better LLMs') and misses (no GPT-5, no open-source frontier ban), then make fresh dated forecasts: Jimmy doubles down on societal upheaval and home robots, Matt predicts Apple will sign a frontier-model deal and that mass rioting is the only force that will produce AI labor policy.",
+  "keyTalkingPoints": [
+    "Scorecard: Jimmy's 'not much will change, just better LLMs' largely came true despite OpenAI's chaotic naming (o3, 4.5, 4.1); no GPT-5 yet",
+    "Matt's Google agentic-models prediction earns a 0.9 - Google leads on usefulness even before full agentic releases",
+    "Matt's medical prediction came true: an AI tongue-scanning diagnostic built on Chinese medicine principles appeared within six months",
+    "Jimmy stands by his end-of-2026 forecast of massive societal upheaval and says AI 'is gonna take all the jobs... all the white collar jobs, like first'",
+    "Matt maintains that full-scale mass protests and rioting over AI job displacement, forcing hasty government policy, is the only realistic path to regulation",
+    "New predictions: agentic coders manageable for 1-2 hours by end of 2025; home chore robots advertised by mid-2026; Apple integrates a frontier model (probably OpenAI) by next summer"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Agentic models will be relatively commonplace and genuinely doing whole jobs by the end of 2025, starting with coding",
+      "AI will take all white-collar jobs - anyone who thinks the jobs AI creates can't be done by AI is 'off the rocker'",
+      "Home robots doing chores will be advertised to early adopters by mid-2026, though they'll still cost 'similar to the price of a car'"
+    ],
+    "matt": [
+      "The Google agentic prediction was his best - Google now leads on usefulness via ecosystem integration",
+      "Frontier open-source model bans won't happen; Jimmy's 'you can't stop open source anyway' argument has been proven right by DeepSeek",
+      "AI is being done to society, not with it - only social unrest moving the Overton window will force hastily developed government policies"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-07-16-prophet-profits-losses-jimmy-and-matt-revi-1040.8-by-the-end-of-2025-agentic-coding-models-will-be",
+    "s2-2025-07-16-prophet-profits-losses-jimmy-and-matt-revi-2722.3-by-the-middle-of-2026-general-purpose-home-robot",
+    "s2-2025-07-16-prophet-profits-losses-jimmy-and-matt-revi-2752.8-by-next-summer-apple-will-announce-a-deal-to-int",
+    "s2-2025-07-16-prophet-profits-losses-jimmy-and-matt-revi-2116.7-there-will-be-massive-societal-upheaval-from-ai-",
+    "s2-2025-07-16-prophet-profits-losses-jimmy-and-matt-revi-2429.8-full-scale-mass-protests-and-rioting-over-ai-job",
+    "s2-2025-07-16-prophet-profits-losses-jimmy-and-matt-revi-2232.6-ai-will-ultimately-take-all-white-collar-jobs-an"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Lovely Lady Voice"
+  ],
+  "chapterCount": 8,
+  "turnCount": 175,
+  "chapters": [
+    {
+      "title": "Introduction and Podcast Overview",
+      "startTime": 0
+    },
+    {
+      "title": "Revisiting Past AI Predictions",
+      "startTime": 117
+    },
+    {
+      "title": "Evaluating 2024 Model Predictions",
+      "startTime": 256
+    },
+    {
+      "title": "Google's Agentic Models and Leadership",
+      "startTime": 380
+    },
+    {
+      "title": "Text-to-Video Technology Assessment",
+      "startTime": 644
+    },
+    {
+      "title": "Future of Jobs and Home Robots",
+      "startTime": 1017
+    },
+    {
+      "title": "Societal Upheaval and Policy Predictions",
+      "startTime": 1878
+    },
+    {
+      "title": "Final New Predictions and Conclusion",
+      "startTime": 2678
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 37.865,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI, governance and alignment. Urgent need for safe development of AI, governance and alignment. You are beautiful within. You are beautiful without. There's no reason for your mind to be consumed with senseless doubt. There are times we'll remember. There are nights we won't forget. If we value every moment, we will never feel passion, regret.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 38.766,
+      "endTime": 43.575,
+      "text": "Welcome to Preparing for AI with me, david Icke. Oh, and me, david Seaman",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 47.86,
+      "endTime": 72.51,
+      "text": "with me david eich, oh, and me david seaman oh, I don't know why no we're both david. Well, that's how hilarious is that? Yeah, yeah, anyway, um, this is the um best episode yet of preparing for ai. This is the one that everyone has been waiting for me, it's fair to say you especially. I mean you have been basically since I predicted it so well. Since about november, you've been asking to do this episode to revisit our predictions. Um, you've been asking to do this episode to revisit our predictions. Um, you've been asking so much that when I tried to find the episode, I thought it was the end of the year, because that was when you kept saying let's do our prediction.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 72.57,
+      "endTime": 86.699,
+      "text": "So we did some predictions last summer. Um, in episode 23.4. The secret ai 23.4 is it's like a kind of claude star naming rather than a open ai?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 86.739,
+      "endTime": 95.984,
+      "text": "it's not 0.24, it's I was thinking more naked gun oh nice, nice reference but yeah, 33 and a half and it was called what um the?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 96.024,
+      "endTime": 106.644,
+      "text": "secret ai takeover, yeah, so pause. If you're listening now, pause, go back. It's an hour and 25 minutes long, so just list the last 20 minutes of that episode, or don't, because we're going to revisit all those predictions now.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 106.684,
+      "endTime": 108.811,
+      "text": "Anyway, yeah, you don't need to worry about it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 108.831,
+      "endTime": 118.512,
+      "text": "They were all 100, correct anyway well, they were actually fairly accurate, but let's not, let's not um, put any spoilers in. Let's, let should we crack straight on? Yeah, let's crack straight.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 118.532,
+      "endTime": 125.78,
+      "text": "Yeah, what was that? So the first one these were predictions for the end of 2024. I'll let you introduce my prediction okay.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 125.961,
+      "endTime": 140.932,
+      "text": "Well, jimmy's prediction I mean, this was you're really putting, uh, putting it out there, weren't you at this point? So jimmy's prediction was that not much will change. We'll just get better large language models like chat, gpt5 and claude 3.5 yeah, okay, so it was right we were in.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 141.153,
+      "endTime": 176.355,
+      "text": "It was august already. We had like a few months to go. It was christmas time at, you know, open ai. They were kind of chilling um, so you know, I'm I'm completely comfortable with this and it was, it says, largely true. So so the the mistake I made here was not realizing how esoteric um chat open ai would get with the naming of their models, so so like we should have had gpt5, but instead we had 03 04 03 mini chat gpt 4.1, 4.5 um 3.7 if I miss on it. Yeah there's, oh, there's.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 176.615,
+      "endTime": 197.158,
+      "text": "04 oh, four, yeah, oh yeah, sonnet was claw and then. And then weirdly 4.5. And then recently I saw that on um, a kind of enterprise model that I was looking at the other and then weirdly 4.5. And then recently I saw that on um, a kind of enterprise model that I was looking at the other day, there was 4.1. It was like where did that come from? So we had 4, 4 0 4.5, then 4.1 came after 03 01 01 mini and it's now 04.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 197.319,
+      "endTime": 198.261,
+      "text": "They're just teasing us again.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 198.281,
+      "endTime": 203.713,
+      "text": "They are teasing us so, um, because the us government, the us military's got gpt5. That's why so gpt5 hasn't come out yet. Well, the us military's got GPT-5, that's why.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 203.974,
+      "endTime": 205.538,
+      "text": "So GPT-5 hasn't come out yet.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 206.542,
+      "endTime": 209.647,
+      "text": "Well, the US military's got it. It's currently bombing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 209.707,
+      "endTime": 209.968,
+      "text": "Iran",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 216.41,
+      "endTime": 217.512,
+      "text": "Claude did release.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 217.632,
+      "endTime": 223.007,
+      "text": "Allegedly Sorry, allegedly it's not involved at all.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 223.3,
+      "endTime": 226.871,
+      "text": "Donald Trump is actually what's it called GPT-5?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 227.784,
+      "endTime": 237.702,
+      "text": "we should point out here that this is all alleged and the fact that there is someone who used to be a US three star general on the board of OpenAI is purely there for advisory reasons.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 238.164,
+      "endTime": 250.603,
+      "text": "I also predicted that Trump would win the election, but it wasn't in here so I can't count it. So Claude have released a bunch of additional models. I think they released Claude 3.5 a while ago they did release 3.5.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 250.664,
+      "endTime": 252.068,
+      "text": "I can't remember if you were right with that as well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 252.088,
+      "endTime": 256.244,
+      "text": "Maybe that wasn't out when we did it, but they did release 3.5, so I'm taking that as a win.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 260.312,
+      "endTime": 266.965,
+      "text": "Here we go. This is going to be quite quick, I think. Sam Altman, this is your prediction. Yeah, sam Altman will reveal.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 267.305,
+      "endTime": 274.832,
+      "text": "he is the devil or a lizard person it was actually Sam Altman will peel off his face and reveal he's a devil. I want the full prediction.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 275.132,
+      "endTime": 279.796,
+      "text": "Sam Altman will peel off his face, revealing that he's either the devil or a lizard person.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 280.497,
+      "endTime": 280.637,
+      "text": "Yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 282.12,
+      "endTime": 301.403,
+      "text": "I mean I'm saying it's partly right. The um analysis by google that we we put in said it, reviewed it and said it was way off. I disagree. I think he hasn't peeled off his mask, but he is the devil and therefore my prediction is partly true uh, yeah, though controversies allegedly surrounding him continue.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 301.543,
+      "endTime": 302.646,
+      "text": "Allegedly he's the devil.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 302.706,
+      "endTime": 308.8,
+      "text": "Allegedly, allegedly. He may just be a, a young boy from the middle east, I mean the midwest",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 313.409,
+      "endTime": 313.889,
+      "text": "I meant the mid.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 313.97,
+      "endTime": 317.603,
+      "text": "Is he from the midwest? I don't know where he's from. He's not from. I don't mean from the middle east.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 318.104,
+      "endTime": 330.052,
+      "text": "No, I meant the midwest okay, I think he seems like he's probably from a nice family in the midwest and just went astray. Yeah, not the Middle East, although I should point out that the Midwest in the US is in the Middle East of the USA, so actually.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 330.2,
+      "endTime": 336.62,
+      "text": "Yeah, I'm just going to let you keep digging, to be honest. I mean, do we have another prediction, like some sort of horror movie? We can keep this one together.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 336.841,
+      "endTime": 338.087,
+      "text": "I'm not going to play the music again.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 346,
+      "endTime": 355.948,
+      "text": "I think we just this is also the end of 2024. I mean, I don't know if this one's true, actually, but it's equally strange Matt's prediction that he will have re-subscribed to ChatGPT. I presume you were subscribed to Claude at that point, because Claude is too woke.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 356.53,
+      "endTime": 356.67,
+      "text": "Yep.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 358.126,
+      "endTime": 397.047,
+      "text": "I mean, I haven't re-subscribed to ChatGPT I've thought about it because it has multi-modality. I've stuck with claude all the time through and part of the reason is because claude, I'm happy to say, is no longer woke. So I think it's fair to say that when uh, donald trump's donald trump's government came in suddenly, all the models suddenly changed very, very quickly, um, and became, we decided we were not going to call it woke, but I can't remember what we're going to call it, so let's just stick with it for now. But they, they took some of the restrictions off the models and allowed them to be a bit more liberal, uh, with their use of language and, uh, definitely, not liberal in terms of their opinion not liberal in terms of that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 397.068,
+      "endTime": 423.988,
+      "text": "Well, do you know, I don't, I don't think with, like, I don't think claude, I think chat gpt actually, ironically, is the one that has gone the furthest in that respect. I don't think claude's gone as far, but um it's. They've definitely took those restrictions off. It no longer, you know, is afraid to answer things. That it was um and that is, I have to say, like that is largely as a result of the change in the american government indeed, um yeah, which was a fantastic change, as we're finding out.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 424.028,
+      "endTime": 427.9,
+      "text": "I, I mean, we didn't predict that, I don't think. Well, we kind of did actually.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 428.461,
+      "endTime": 431.105,
+      "text": "Well, you literally just said that. You mentioned it, you predicted it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 431.125,
+      "endTime": 437.685,
+      "text": "Yeah, I did predict it. Yeah, Whose is this one? This is 2025. This is me again. Do we need the music?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 437.725,
+      "endTime": 439.496,
+      "text": "for this one.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 442.024,
+      "endTime": 443.79,
+      "text": "There you go. There's the music. Thank you.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 447.26,
+      "endTime": 468.394,
+      "text": "Oh, I need to read it out, don't I? So your prediction was these are all yours, because I, for some reason, I misunderstood the episode in the first place um, so your prediction was that by march 2025, apparently which has already happened. Which has already happened uh, google will release agentic models, putting them in the lead for usefulness. I think, to be fair, we'll give you up until August 2025.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 468.434,
+      "endTime": 477.784,
+      "text": "I don't know why it says that, yeah, it should be August 2025. It may be the same by March 2025. It actually already happened.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 477.804,
+      "endTime": 480.491,
+      "text": "I don't know. It's your prediction, what do you reckon?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 484.321,
+      "endTime": 513.349,
+      "text": "Well, I think they haven't fully released agentic models, right, but they've showcased them, um, they haven't fully released them, and I mean the the developer conference recently. I mean one of the big things was that there wasn't actually any kind of showcasing. It was more of a case of, like this is what's coming, um, like it's coming. I think they are like putting them in the youth for the lead, for usefulness. I think that has happened. So you know, we've talked for a while about how google have, because of the ecosystem they've gotten, because of how like broad the kind of range of things they're bringing out is, that there may be in the lead.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 513.489,
+      "endTime": 526.253,
+      "text": "I think they are in the lead for usefulness at the moment. Um, whether they've released the genetic models or not, like they exist, they may not have released them yet. I mean, I've still got a couple of months, maybe I'll be bang on with this, but I'm getting at least half a point anyway.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 527.055,
+      "endTime": 533.98,
+      "text": "I disagree. I think that this is your best prediction and I'm quite impressed actually, I'm really impressed when I listened to that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 534.061,
+      "endTime": 539.61,
+      "text": "I was quite surprised actually, because I thought generally at that time I was mainly talking nonsense.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 542.933,
+      "endTime": 550.428,
+      "text": "This was an ambitious prediction. If you go back a year, this was an ambitious prediction and at the time, google were making all sorts of boo-boos, like they're just rocks on pizza thing and they're glue, glue on a pizza.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 550.488,
+      "endTime": 552.832,
+      "text": "Whatever it was gluing rocks on a pizza uh, you should.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 553.213,
+      "endTime": 587.544,
+      "text": "No, I think it was. You should use glue to hold your pizza together better. Um, to make sure the toppings don't fall off, that's right so yeah, like I know they've come a long way. Um, we've talked about it on quite a few podcasts recently. Like I think a lot of the best models are gemini. Right now, google's integrated all of its stuff into its um ecosystem. Microsoft's doing the same. I think it's a little bit slower for microsoft. I think this is like. I think it's bang on, like maybe a genetic models. You're a little bit ahead on that, but you're already getting. You know, you've already got options within Google.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 587.564,
+      "endTime": 590.091,
+      "text": "To start automating tasks is one of the things they have.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 590.581,
+      "endTime": 598.503,
+      "text": "They don't necessarily have agentic models. Their models have kind of agentic capabilities. I think is probably it. So, yeah, it's like you must have a 0.8.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 599.244,
+      "endTime": 606.115,
+      "text": "I'm going to, yeah. If I was holding one of those what's it called placards up, I'd give you a nine for this, okay.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 606.989,
+      "endTime": 610.61,
+      "text": "You can give yourself an eight. 0.8 seems a kind of cloudy kind of figure Number.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 610.96,
+      "endTime": 612.687,
+      "text": "Yeah, yeah, 80%, yeah, cool.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 617.282,
+      "endTime": 628.124,
+      "text": "Another one by Matt. This one's nonsense. Frontier open source models like GPT-5 class, will be banned from public release in major developed countries.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 628.586,
+      "endTime": 663.912,
+      "text": "Explain yourself well, I mean I think if you go back and listen to that episode and episodes around there and uh, realize where I, where I was mentally at that point, um, I think it makes more sense that I was. I was very much of the opinion that we would be in a. I I think where, like I think in general, where I've changed my opinion a lot on these sort of not just these predictions, but in general is like I think all these things are happening. I think the timelines is like things to actually come out, the reaction or actually the integration stuff is like is is the thing that's slower. So I think in this, like the frontier open source models, the thing is I put gpt5, class5 class.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 663.932,
+      "endTime": 694.244,
+      "text": "Well, there are no GPT-5 class models, so I was already wrong on that point Like there hasn't been anything yet to happen. I still think this point about like a reactionary ban. So my point here was that like a model comes out and then there's this kind of reactionary ban in major developed countries because there's a kind of fear for whatever reason, like it's either done something bad or they're worried about how much power it kind of has and they're worried about its capabilities. I still think, like I still think that could happen. I think where I was way off is like the models were not maybe where I thought they they would be.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 694.785,
+      "endTime": 719.994,
+      "text": "Um, your argument in the episode like I completely agree with you now um, your argument at the time was about how open source you, you know, like you can't stop it anyway. And I think actually, like when we talked about, I was saying, well, my point is not that they will ban all open source models, they will ban the frontier models. And if you look at the way that, for example, grok has approached things, they've said, six months after we release a model, we will make that model open source.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 720.16,
+      "endTime": 720.381,
+      "text": "Or is it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 720.401,
+      "endTime": 761.633,
+      "text": "six months after we release the next model, we'll let make the last one open source. So this idea of like trying to keep ahead, it doesn't mean that you don't have open source models and that we just stop and there's no open source models ever. It's just that you maintain a frontier model. I still think that could happen. Um, it would involve which I've said is what I think is a likely outcome. It would involve a kind of ai fueled catastrophe, probably, to get to that point um maybe that's a few years away, but I mean I still think that's what happens eventually. Um, but yeah, I, I don't think, I don't think frontier models will necessarily get banned anymore, because I think, as your argument said, it's kind of fruitless, it's kind of pointless yeah yeah I think I did say that um very prescient you did say it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 762.021,
+      "endTime": 770.35,
+      "text": "But um, I mean, since then as well, deep seat came out, which is definitely a hundred percent an open source model. Um, that's not. And actually what?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 770.37,
+      "endTime": 791.869,
+      "text": "you get if you got. So, for example, I talked about major developed countries. I think the example I gave was was um the us. I think I gave us china and japan. Actually, I think if the us banned them, china would just be like, yeah, we're not banning them and would just completely continue to release them. I don't think you would get a complete ban across the world. You'd only maybe get some countries.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 792.77,
+      "endTime": 801.777,
+      "text": "I think this I'm going to say fortunately but AI could have been just the US. I think. If it was, I think if it had come about 10 years earlier, it would have just been the US.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 808.26,
+      "endTime": 826.561,
+      "text": "And actually weirdly fortunately because China Maybe it would have just been the us, um and actually weirdly fortunately because china. Maybe it would have been europe, maybe some europe might have, maybe there's a bit of stuff going on in europe, but like for like, in a way, fortunately, because china's involved as well. Well, I don't know if it's fortunate or not. I mean, it's turned into an arms race. That's not necessarily a good thing, but on the on the side of kind of like openness and transparency and competition, it's actually kind of been a good thing. I think I, I do, I don't know like.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 826.582,
+      "endTime": 848.884,
+      "text": "I do wonder if, like, ai was developed in a slightly different era, if it would have just been immediately just like, been like, we need to protect this it's, it's too, um, it's too important, and that didn't happen. So you know, it's quite an interesting one, um. So there's one more, uh, there's one more from you, I think, for the by the end?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 848.924,
+      "endTime": 864.106,
+      "text": "I'm not. Am I playing music or not? I'm not. I'm not playing music for this one, right? No, okay, it's a bit random now that we just play the music when we feel like, well, these are all your predictions okay why have I got so many? Because, because you misunderstood the episode and didn't understand what you're doing. I, I, think.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 864.146,
+      "endTime": 874.311,
+      "text": "I don't know how that happened, but it sounds ridiculous. Ai will discover at least one more additional antibiotic and allow screening for diseases via photos of the mouth, skin or eyes.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 875.622,
+      "endTime": 876.365,
+      "text": "This has come true.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 877.923,
+      "endTime": 879.711,
+      "text": "Did this come true when you made the prediction?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 880.161,
+      "endTime": 882.789,
+      "text": "On the episode. I think you tried to claim that it had.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 883.23,
+      "endTime": 883.671,
+      "text": "It hadn't.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 884.24,
+      "endTime": 892.85,
+      "text": "So the antibiotic that was discovered, um, I was just ahead of my time. It does say here in early 2024.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 893.171,
+      "endTime": 895.895,
+      "text": "So so yeah, it had already happened.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 896.241,
+      "endTime": 926.371,
+      "text": "That's a good prediction. Um, but there was another example, so, like nostradamus, so you gave the you, you actually gave on one of the episodes I think it was early this year. Actually it was one of the monthly roundup episodes an example of an ai tongue scanning tool. Um, and tongues, like basically the tongue, is something that in chinese medicine um, and incredible, like it is absolutely incredible, you can, you can um, I mean, there are apps that can kind of do this, but you can go online and show a doctor, a chinese medicine doctor, a photo of a tongue and he can diagnose stuff, um, by the kind of color.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 926.341,
+      "endTime": 951.061,
+      "text": "And you can go online and show a doctor, a Chinese medicine doctor, a photo of a tongue and he can diagnose stuff by the kind of colour and you can look up different pictures of different ways. I mean, this is absolutely. I know some people think Chinese medicine is quackery. I personally don't. I'm very much kind of and very recently sort of very much for Chinese medicine, particularly in kind of diagnostic uses. But this tool is a kind of AI tongue scanner that diagnostic uses. Um, but this tool is a kind of ai tongue scanner. That is something that has happened in the last six months, um, and I did say, allow for screening of diseases via photos of the mouth, eyes and skin.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 951.101,
+      "endTime": 963.484,
+      "text": "So even if my antibiotic one had already happened, I think I'm going to claim the point here because the ai sort of tongue scanning um diagnostic app is definitely something that was developed before.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 963.504,
+      "endTime": 968.568,
+      "text": "Since my prediction I'll give, I'll give you half a point. I wish you'd come up with it, because we'd probably be rich by now.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 973.041,
+      "endTime": 993.592,
+      "text": "Well, you're finally back in the game now, jimmy. So predictions for the end of 2025. So what? Six months away from now, agentic models will be relatively commonplace and genuinely doing a whole person's job, and your example was or you gave an example of one, that agentic models will be relatively commonplace and genuinely doing a whole person's job, and your example, uh, was, or you gave an example of one that you didn't say this is the only one, but you gave an example that was you thought was realistic, which was coding.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 994.155,
+      "endTime": 1039.987,
+      "text": "um, I think that's happened already uh, yeah so some level yeah, I I think that, like fully automating, we're still not there yet, but I think I would stand by this. I think, if it's not the end of 2025, which we've still got like six months then it would be very, very close to that. So I think that you will. I think you're probably still going to have supervised. You know you're still going to have agents been supervised at the end of 2025. I'm not that far out with this, but you're going to have effectively. I mean, like you say it's, it's basically already happened. I think right now you need to give quite close supervision and you need to be handholding an AI and making sure it's like not going off the path too much and not making too many mistakes.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1040.829,
+      "endTime": 1068.372,
+      "text": "I absolutely think that by the end of 2025, you're going to have effectively as much as like, as you know, agentic coding. Agentic coding I'll go ahead and say it. I think you're going to have agents. So, to be more specific, actually, I think you're going to have agents that you can leave for. At the moment, you can leave them for about 20-30 minutes at a time. I think, by the end of 2025 you're going to have um agentic coders that you can leave for about an hour to two hours at a time. I think by the end of 2025 you're going to have um agentic coders that you can leave for about an hour to two hours at a time.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1068.773,
+      "endTime": 1094.805,
+      "text": "So we should say when you're talking about you can leave them for that long. You're not saying that after half an hour they'll stop and they won't be able to work. What you're saying is it will need humans to come in and check because you could leave it running for 10 years without stopping, but it would just get itself. Your point is that you need someone to go in check that it's doing the right thing. Maybe tweak it, you know, get it to go back and go over things again. That that's the point here is you're talking about unsupervised time rather than just that. It can only run for that long yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1094.825,
+      "endTime": 1149.887,
+      "text": "So at the moment I can, when I'm doing, when I'm doing vibe coding, which is like it you know it's a very divisive term these days but like when I'm doing vibe coding at home, which basically means coding using an AI, where you're just instructing it, giving it instructions on what to do, if I use my set of vibe coding rules that I have and if I'm like careful about how I use it using cursor AI, which I've talked about on previous podcasts, then I can basically give it, I can give it a carefully crafted instruction which takes me a sort of few minutes to put together, and then I can leave it for 20 like maybe 15, maybe 20, maybe 30 minutes to go off and just do whatever it needs to do and I can like, comfortably, right now, go off and cook some dinner, like go out for a little bit and come back, go to the bathroom, whatever it is, and it will just happily go and work on the problem and when I come back I'll have some questions.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1149.927,
+      "endTime": 1188.817,
+      "text": "I need to answer some problems, I need to solve some things. I need to think about whatever it is right. So imagine it like I don't know, take it out of the coding environment, imagine it like an entry-level PA, something like that, like an entry-level assistant who you, you need to give them quite a lot of guidance. But early on, like fairly early on, you can say to them okay, I need you to go away and like find information about this, book me flights, set me up a trip to go to um, I don't know the Seychelles for a week and do some like really important business that I've got, and then I need to come back and you can leave them to go away and research that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1189.157,
+      "endTime": 1221.184,
+      "text": "And maybe, when you come back, rather than having like booked it all and sorted it all out and arranged the extra meetings that they think you need to arrange with, like your important co-workers, important stakeholders, they've like basically researched it. They haven't booked anything because they're hesitant about doing that. They haven't. They haven't like gone the extra mile, they haven't like thought about, oh, maybe he wants to go and meet such and such whilst he's over there in new york or wherever it is um, whereas, like your expert level pa might have done that right. So at the moment that's what I'm saying it's like junior level.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1221.445,
+      "endTime": 1257.423,
+      "text": "It's junior level, it'll go away and do a lot of stuff. It won't like second guess you, it won't come up with like inspiration. It won't do like any really smart stuff that you'd expect someone who's got like 10 years experience to do, but it'll go away and follow instructions and come back to you when it needs to ask you questions. That's where we're at right now. I think by the end of 2025, you'll be at a slightly more advanced level where maybe it's going off and making a few decisions for itself, like just sort of like thinking about all the possible edge cases and just going off and and and just being a bit more like a, like a more of an experienced member of staff.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1257.777,
+      "endTime": 1288.981,
+      "text": "Let's bring it back to the PA example so exactly that. So like being, you know, maybe going and booking everything and actually making all the arrangements and making all the arrangements according to what you personally want, but then also suggesting oh, while you're there, actually Matt happens to be there and matt is like and this is a bit of a biopsies or a synopsis of what matt does and what he's and what his background is and so maybe you want to meet with him. And these are some of the starter conversations you might have. Do you want me to confirm that, yes or no, and then the next level to that is just doing it and it writes you the briefing and everything.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1289.001,
+      "endTime": 1296.771,
+      "text": "Yeah and so this is like the, that's the progression in my eyes and this is like the progression from like, and that's where I talk about supervised versus unsupervised.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1296.791,
+      "endTime": 1319.503,
+      "text": "Yeah, yeah, my only challenge on it's not really a challenge to you, but in like, when you listen to this is that, like, the pa example gets used by a lot, and the reason it gets used a lot is because I think the pa example is actually just, it's not that it's just one that, like, not everyone has a pa, but everyone can kind of understand how it would work. Because one think the PA example is actually just, it's not that it's just one that, like, not everyone has a PA, but everyone can kind of understand how it would work. Because one of the selling points, from a consumer point of view as well, is you have this thing that can do all these things for you.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1320.216,
+      "endTime": 1353.384,
+      "text": "It is a thing where it would absolutely excel. Like. That doesn't necessarily mean that it will be as easy to replicate in other roles. Now, that's not to say that the pa job is not like a difficult job. It's like a pa job. People who are really good pas are incredibly, you know, like that that talent and that skill level and and and building that kind of relationship with the individual. But it is a job that ai is very well placed to kind of replicate, right, because accessing all those things. You know, the way that you're, you're, you're getting to know someone over time. They're all things that ai is very good at doing.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1353.424,
+      "endTime": 1372.669,
+      "text": "So it's not a challenge to your prediction, but it's just. I think when we use that example it can kind of seem like oh you know, you can really kind of visualize how ai will replace everything. I'm not trying to give people kind of copium here, but I'm just saying I do think that is a. It's a good example, but it's a sort of relatively easy to replicate example yeah, okay, so can I suggest a different one?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1372.709,
+      "endTime": 1375.681,
+      "text": "so right, so like just one more example. I said no huh.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1375.902,
+      "endTime": 1379.817,
+      "text": "I said no, no, no, you can't, I don't know, you just can't I was.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1380.66,
+      "endTime": 1439.177,
+      "text": "I had a really good example my podcast. Okay, what do you mean? That is outrageous. We started this podcast together, we co-founded it, we did we co do it co-hosts co-founders, co-lovers yeah, not that, definitely not that ever happened. Um, so like okay. So so discovery one of the things we talked about ages ago on the podcast was discoveries. Discoveries happen now, like you know, and I don't think it's replaced um junior, um, like lawyers, like like people who are going into that industry because now they're just using ai and they're like amplified and, to be honest, they're they're industries where, like, everyone works long hours anyway, so it probably just means that people can either get more done, go home reasonably on time, maybe, or maybe they just take on more cases, like there's there's tons of that kind of work going around, right, but but right now I presume the way it works is is, you know, you're basically very much instructing the ai like you don't really trust it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1439.197,
+      "endTime": 1472.205,
+      "text": "You're like go and find me this information, then you're double checking it and you're triple checking it and all the rest of it. How long is it going to be before you can trust an ai to go off and do some of the case work for you and actually like come up with like suggestions as to pieces of law that you could bring into the argument that you're making and things like this? Like I don't know much about law, but I I feel like those are the kinds of things where, once you start to trust it a little bit more, once it's hallucinating less, and once it can be trusted to go and, you know, get on with the job a little bit more and and be able to like trust it with the facts.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1472.806,
+      "endTime": 1507.726,
+      "text": "These are the kinds of things that I think agentic AI are going to be able to do more and more and more, and that's exactly what agentic AI means to me is like AI that you can trust to go off and do something and come back and maybe use a bunch of tools like connect to a bunch of tools that it's got available to it, like web search, like document search, whatever else it is and to be able to compile, like maybe compile a document in a specific format, all the rest of it. That's what agentic ai is, and this stuff is creeping in. Already copilot is starting to be able to do this. Um, all of the ais that we use day to day are starting to be able to do this.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1507.826,
+      "endTime": 1525.14,
+      "text": "Open ai's had deep research for a while, which actually, when we made these predictions, wasn't a thing. Deep research is a classic example. Like deep research, you go and talk to it, you go and ask it a question, it gives you a bunch of prompts back, it challenges you and then, once you press go, it's like okay, you can go and do something else. Now I'll come back in half an hour and I'll let you know when it's ready.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1534.015,
+      "endTime": 1556.91,
+      "text": "That say the same thing to me is last night. Actually, I was using the research feature on claude and um and I closed it down and put my music on and went, took a shower and had my phone with it running and I was having a shower and then I looked at the end of it and it was like, yeah, it's finished, it's put it in an artifact for me and I was like it's not a gentic ai and it is like it's not. Maybe it's not a gentic ai that can do everything. It's not a gentic guy that can do everything. It's not a gentic AI that you can. It can go in, you know, on your computer. It can go into every program, open it, but it's a gentic.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1557.391,
+      "endTime": 1570.563,
+      "text": "Yeah, absolutely, and hang on, in that case the gentics already here, so can I have my one point for the Google example then? It was my example, no I mean when I agentic AI will be here and they'll be ahead.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1571.984,
+      "endTime": 1573.065,
+      "text": "So agentic AI is here.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1573.125,
+      "endTime": 1579.97,
+      "text": "I thought I said that was the best prediction ever. It is, but you still only gave me 0. No, you gave me 0.9. I thought I was quite generous Anyway. Yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1580.451,
+      "endTime": 1581.391,
+      "text": "Sorry, I'll give you one.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1581.411,
+      "endTime": 1583.88,
+      "text": "That's right, I'll round it up Because so far you're beating me.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1589.275,
+      "endTime": 1607.047,
+      "text": "Matt's next prediction. This is by the end of 2025, so we're still six months away. Text to video apps like sora will still be a disappointment and a novelty, lagging behind more practical uses of ai. This is by the end of 2025, by the way, so we can't really.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1607.568,
+      "endTime": 1651.81,
+      "text": "I mean, we're now reviewing things have they come true or not but actually the time scale. So I guess we're not reviewing things have they come true or not but actually the time scale, so I guess we're trying to say the trajectory yeah, you can say that okay, um, I mean, I do think they are still somewhat disappointing. At the same time, they're incredible. But I think why they're disappointing is because they're still a novelty, right? I don't, I don't think, although we recently did an episode where we talked about how video is being used to literally create disinformation to you know, to create propaganda about israel versus iran yeah, um, so they're obviously quite powerful, but what I mean is like I don't think that they have been kind of usefully replacing, yeah, usefully deployed to make something better.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1651.955,
+      "endTime": 1688.739,
+      "text": "Like at the moment, if you watch an ai created piece of video, it's not better, it's not adding anything to something that was created by a human at the moment, whether by the end of 2025 it will. I talked about text-to-video apps particularly, but I think for me, more like the point where I think it is coming true is that practical uses of ai are becoming the focus, rather than novelty uses. So that you know, I'm not asking for a full point on this, but I actually think where the text of video apps are going to be disappointing or not by the end of this year, I do think that novelty stuff. I do think that, like when we did this.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1689.1,
+      "endTime": 1713.964,
+      "text": "This was what all the buzz was about. Now it it's about agentic use of AI. It is now about practical uses and about making it actually relevant. The excitement is not around the novelty uses anymore, and where we were when we did that episode was it was all about kind of novelty. You know, suno was new, sora was kind of non-existent. You know, people are still going on about kind of you know, image generation and oh wow, look, you can now use your face and etc. Etc. Now it's about enterprise.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1714.044,
+      "endTime": 1734.246,
+      "text": "Now it's about agentic tools so I think and I don't know whether it'll be by a, I don't know like a, a mainstream company, I genuinely think that by the end of 2025 and this is a new prediction that we will see the first completely ai generated advert.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1735.328,
+      "endTime": 1757.109,
+      "text": "You said there's a new prediction, I thought, because you haven't listened to all of the previous episode. What you were going to say, I thought was what you said in the last one, because on the last, on the predictions, you did predict that by the end of 2025 there would be the first ai special effects generated film so I'm gonna retract that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1757.189,
+      "endTime": 1763.803,
+      "text": "Well, I can't retract it, I've already said it, but I would go, I would. I would take a step back from that, I think you can retract.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1763.824,
+      "endTime": 1780.844,
+      "text": "You can just create a video with you not saying it and claim that you never said it so the the whole a feature film did I say that you said the special effect. You didn't say that it would. It would create the whole feature film. You said that they would use the special effects would be created using ai so I okay, so I'm gonna refine that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1780.924,
+      "endTime": 1803.588,
+      "text": "I think you will see films where some of the special effects have been created by ai that's well, that's definitely true okay, yeah, well, okay, I win that one, though I think that's a new, but your new one, sorry. Your new prediction is my new prediction is there will be a full-length advert that is created by ai, and I don't mean, like the coca-cola, jimmy, jimmy, jimmy, no, no no, this, this happened this week last week.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1803.675,
+      "endTime": 1820.704,
+      "text": "Sorry, did it. Yeah, yeah, this happened last week, so we haven't just paused the podcast and gone away for 20 minutes and tried to find whether what I said was true. I, of course, um had already lined this up for the podcast, so I'm going to play you, jimmy hang on a minute, are we?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1820.985,
+      "endTime": 1826.481,
+      "text": "are we gonna about to start doing react content on of a video, on a podcast?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1826.761,
+      "endTime": 1857.798,
+      "text": "that might be a world's first well, I promise this is not going to be the future of our podcast, but let's, let's play. So there was an advert. I did see this in the news. It was made for two thousand dollars um kaoshi, which I think is an american betting firm. So they um, they unveiled this advert at the nba finals. Now you're only going to get to hear it. You can't see it because we don't do video, because we're we haven't presented ourselves well enough. But let me just play. You can watch it, jimmy, and see your prediction come true indiana gonna win baby.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 1857.818,
+      "endTime": 1881.129,
+      "text": "We're in florida asking people what they put their money on. I'm all in on okc. Indiana got that dog in them. Will egg prices go up this month? I think we'll hit 20 how many hurricanes do you think we'll have this year? Kalshi, kalshi, kalshi, kalshi. Lets you legally trade on anything anywhere in the US. Okc, indy, okc.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1887.121,
+      "endTime": 1894.881,
+      "text": "Kalshi. So there was a man. Basically we're not going to play it again. There was a man sort of riding a crocodile. There was someone in a bath full of eggs.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 1894.901,
+      "endTime": 1897.007,
+      "text": "I have to say it wasn't that impressive, was it like?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1897.135,
+      "endTime": 1920.244,
+      "text": "considering with ai you can make anything it was the perfect use of ai stuff, because as it says it's a high dopamine vo video encouraging people to gamble on things like what's the number of eggs we're gonna produce in the us this year? What's whether we're going to have a hurricane, like I mean? This is what the world's turned into. I'm sorry, I don't want to be like takishi's castle on crack, isn't it?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1920.324,
+      "endTime": 1931.762,
+      "text": "absolutely ridiculous like I mean sorry I. It's okay. Most of you listen to this podcast are people of our age, so I'm sure they're who are quite sensible with their money. They will all understand it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1932.083,
+      "endTime": 1947.743,
+      "text": "Invest wisely people, anyway. So yeah, that was also nonsense, but it was perfect for AI because actually it was like a load of really short clips stuck together that were like three or four seconds each. That had no connection to each other and made no sense.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1948.415,
+      "endTime": 1950.22,
+      "text": "And he took $2,000 to create.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1951.243,
+      "endTime": 1962.304,
+      "text": "Well, yeah, like, like how. I don't know how how much was an advert normally cost like it would cost to have one in a hurricane and a farmer in a bath of eggs and stuff I mean, it'd be like an egg price in america.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1962.324,
+      "endTime": 1965.179,
+      "text": "It would cost a million just to fill a bath with eggs, wouldn't it so exactly?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1966.362,
+      "endTime": 1968.628,
+      "text": "so I think your prediction was completely wrong.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1969.397,
+      "endTime": 1980.622,
+      "text": "Yeah, my prediction was wrong and your prediction about the advert was correct. Um, it's just, it happened to have happened a week ago, but you didn't, I can tell you, genuinely didn't know about it, so I'll let you have that one",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1984.962,
+      "endTime": 2010.741,
+      "text": "right. So now we get to the business end of the podcast. So these are the big ones. So the end of 2026? Um, of course, we don't know where this has come true, but we can see whether we're on the pathway to it. So, jimmy, your prediction was there will be massive societal upheaval from ai replacing jobs, we will start to have robots in our homes doing chores like cooking or cleaning. And in the episode itself, um, I became obsessed with robot sex workers yeah, you can.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2010.921,
+      "endTime": 2029.663,
+      "text": "You've still got that to look forward to. I think I, um, I mean it might be a bit rough, but uh, I think that by the end of 2026, I think I mean I stand by this, I stand by this, I think that I I think that we will have robots in our homes doing chores like cooking and cleaning some people will have robots in their homes.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2029.723,
+      "endTime": 2040.667,
+      "text": "Your prediction was not that everyone's going to have a robot, it was that we'll start to see them. So you know what would we call it? Sort of first adopters, early adopters, which you are an early adopter, so will you have a robot in your house?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2041.437,
+      "endTime": 2066.643,
+      "text": "I don't. I honestly I don't think I'll be able to afford it. I think by the end of 2026 these things are going to still cost like there's now one for 19 grand, isn't there? Yeah, they're gonna cost tens of thousands of dollars. So I think it's gonna be something where okay, I really see the benefit of this. I can afford it, like I've got a bit of a chunk of cash. It's gonna cost me like similar to the price of a car to have one I can wait six months.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2066.863,
+      "endTime": 2068.57,
+      "text": "Yeah, you can wait six months, exactly like.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2068.59,
+      "endTime": 2074.665,
+      "text": "I don't think it's, and also I think quite a lot of people are gonna be quite scared of these things as well, genuinely, and possibly not.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2075.146,
+      "endTime": 2102.928,
+      "text": "My son is terrified of any robot, is he terrified? Yeah he sees any like he sees. You know the one in the hot pot restaurant here that takes the food round and, um, now that you get the cleaning ones, like in the airport the other day, he was wanting me to hold him because he saw the robot and I was like, oh no, it's okay. And then on one hand I was like I want to reassure him, but on the other hand I'm like, yeah, I kind of do want to be slightly scared of robots. I don't want him to think that they're like like I want him to not be afraid of them but also be like slightly cautious.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2103.089,
+      "endTime": 2111.868,
+      "text": "He's like trying to find a balance between him yeah, I think that's fine and that's completely, I should say at some point he goes up to just like any random stranger and starts talking to them.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2111.908,
+      "endTime": 2116.324,
+      "text": "So that's probably more of a concern. But yeah, he's absolutely petrified of robots, petrified of robots.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2116.715,
+      "endTime": 2148.044,
+      "text": "So will there be massive societal upheaval from AI replacing jobs? More importantly, because actually having a robot that cooks for you is probably less important, really yeah, by the end of 2026, yes, like I think we are too ill prepared for this. Still, I think that, but when I made this prediction, it was we'd been doing the podcast for six months. I think we will always be too unprepared for this. So I unapologetically, if I get this prediction wrong by six months or even a year, I'm unapologetic about it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2148.405,
+      "endTime": 2196.12,
+      "text": "Like I think we need to be prepared because anything that happens at like the, the pace of development, the scale is like it's impossible for institutions like I think you said this one episode, like for some startups and small businesses might be able to kind of keep up, but even for them it's going to be difficult. For big businesses and institutions who are not you know big businesses who kind of operate in that space, and maybe sort of giant multi-conglomerates like, maybe for them it's a bit easier but for sort of you know more kind of I guess, big businesses that have kind of complexities and that have you know all kinds of overheads and physical infrastructure in place, and for governments and institutions it's just impossible because it's just too fast yeah and so so, yeah, so, as I say, I think, do I stand by this by the end of 2026?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2196.24,
+      "endTime": 2232.506,
+      "text": "I think so. Yes, um, do I? Am I unapologetic if I get the time scale slightly wrong? No, because whether this happens by the end of next year or by 2027, or even 2028, it is gonna happen. Yeah, anyone who like remotely shies away from that. I've heard, I've heard stuff on diary of a ceo which I think is absolute drivel we talked about it last time which is about, you know, okay, it's just gonna create more jobs and all the rest of it. I don't think that's true at all. I think that ai is gonna do all, it's gonna take all the jobs and then, all, all of the jobs, all the jobs, all the white collar jobs, like first, like almost all of the jobs, all the white collar jobs.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2232.606,
+      "endTime": 2272.421,
+      "text": "Like, first, like almost all of them, yeah, it's going to be a, be a CEO, Like I'm not saying by the end of 2026, what I'm saying is, like, if you think about, like, what we've done with intelligence, what we're doing with intelligence, we are putting intelligence in a machine in terms of, like, how can we make things more efficient? How can we automate all these different types of jobs? Possibly blue collar worker jobs will be last to go, but let's ignore them for now. Let's talk about, like, driverless cars, let's talk about white collar jobs. Ai is just going to take all those jobs and anyone that thinks that the jobs that ai creates can't be done by ai is off the rocker in in my opinion.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2272.662,
+      "endTime": 2274.827,
+      "text": "I'm honest, honestly, but all jobs.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2275.715,
+      "endTime": 2316.041,
+      "text": "Because all jobs suggest that there is no okay, there is no trust barrier, which I still think is the biggest barrier to adoption, the trust barrier. And also that there is no. You know, I always talk about the kind of event that causes distrust or that causes people to kind of freak out, like if you're talking about all jobs you're talking about you don't have any, any people in the loop to manage and to offer what you believe is a level of control. Now, whether that level of control is really there or not. But I just that's the thing I find incredible, don't, don't get wrong, I think it would be a lot of jobs, but if it's all jobs I mean if it's going to take all white collar jobs like the level of societal upheaval is like like I don't know how society sustains that and I don't know how it even gets there.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2316.362,
+      "endTime": 2340.202,
+      "text": "Because, like I've said before before, you get to that point, right, that it's replacing all the jobs. You get the social unrest and then you get the backlash and then you get this oh shit, we need to put in place rules to make sure there are jobs. So I just don't see how you get there. It's not. I don't think it's possible to replace all jobs. I don't see how you get there. It's not that I don't think it's possible to replace all jobs. I don't see how you can get there without civilization and society just collapsing, unraveling, which leads nicely onto my next prediction.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2340.262,
+      "endTime": 2379.589,
+      "text": "Yeah, so, so, so, okay. I mean maybe I'm being like all holds unbarred, like what could AI possibly do, but I think it could be that serious and I do, but I think it could be that serious and I, uh, I think people need to take more seriously. I'm not, I'm not saying this because I'm like I agree, I want all jobs to be taken by ai. I'm not saying it because I want my job to be taken by ai. I'm saying it because I think this is like if you talk about what's in scope, that's what's in scope, yeah, so you're right. Like like, governments can slow it down, revolutions, backlash, whatever can slow it down, but what's in scope is all white collar jobs.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2379.649,
+      "endTime": 2410.953,
+      "text": "In my opinion, and if you, if you want to talk about okay, okay, like. So one of the things we talked about in the past is like a ceo with a company that's just ais. It's just a ceo and a bunch of ais, absolutely like. Can that happen? Yes, will the ceo stay in charge? Yes, but the difference between that and a company that's and a bunch of ais, absolutely like. Can that happen? Yes, will the ceo stay in charge? Yes, but the difference between that and a company that's just a load of ais is like literally nothing. Um, now, do I think that will actually happen? I'm not sure, but like, if we don't really carefully, cautiously approach this, that's, I think that's the scope of what can happen.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2411.314,
+      "endTime": 2418.287,
+      "text": "I totally agree. So I totally agree with what I said back then maybe, but not by the end of 2026, but um cue music,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2422.761,
+      "endTime": 2429.651,
+      "text": "and it wouldn't be the preparing for ai podcast without um devolving into despair towards the end.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2429.775,
+      "endTime": 2472.27,
+      "text": "So matt's prediction. This is the. You've, the you've already dragged this in the pit, so I'm not sure I can. I'm not sure. Mine's much worse, to be honest. Well, this is the outcome, I guess um. There will be full-scale mass protests and rioting over ai job displacement leading to hastily developed government policies by the end of 2026 okay, I mean, that's kind of what I just talked about, I guess where I think the the hastily developed government policies are what potentially stop us getting to the point that you've just talked about. Um, and I think, like this example for me, again, like time wise I don't, I don't know, like I say the end of 2026, because that's what we had.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2472.258,
+      "endTime": 2496.252,
+      "text": "Like I think it could be like this prediction could be early, it could be later. I guess it like the guess really is like how quickly will it develop when we get to that point? Because that's what we had. Like I think it could be like this prediction could be early, it could be later. I guess, like the guess really is like how quickly will it develop when we get to that point? But I absolutely think the only way that we, you know, the only way that we get policy changes, is the Overton window shifting on people caring. And the Overton window shifts on people caring. It then drives that social unrest,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2502.105,
+      "endTime": 2519.03,
+      "text": "it drives protests, it drives riots, etc. Etc. Etc, and then that leads to the change in government policy. If we don't go through that like, I just don't see a way in which this isn't what happens. Like, for me, this is like this is just a matter of timing I think this is how it kind of has to happen. Otherwise, otherwise, what do you have? You just like kill half the people. I think this is the only other way you get there.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2519.793,
+      "endTime": 2564.739,
+      "text": "Well, I mean we've done lots of stuff on optimism and I mean maybe we can revisit that at some point. I don't think that's going to happen in this, these kinds of timescales. I'll be honest, Like I can be as optimistic as I want to be, I don't think we're going to see the overhaul and like of education, like complete reform of education and the way society works within a couple of years. And the sort of timescales that AI are going to like the, the, the. How quickly AI is moving means that this stuff is going to happen over the next. I mean, okay, even if you say five years, that's still a relatively short time scale, I think yeah, so you don't disagree um the.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2565.06,
+      "endTime": 2605.003,
+      "text": "The last two predictions are actually pretty similar, aren't they? yeah to be honest, it's the way in which they manifest themselves is slightly different, um, and it's how, how people kind of, or where the people have a say in it. I guess because this brings me back to, like my, my, my sort of main point now on, on the way that AI is kind of being managed, is it's being done to society, not with society. And the only way that you get to a utopia is if, at some point, like it's, it's done with society and it's done for the benefit. If, at some point, like it's, it's done with society and it's done for the benefit, it's not to say that there aren't benefits to ai, but it's to say this like this kind of transformation, this process that's taking place, is happening in a way that people don't have a say in it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2605.023,
+      "endTime": 2648.507,
+      "text": "It's not happening in a way that people want. It's happening in a way that a very, very small number of people in, you know, at the top of organizations or in big tech, feel they want to do it, and so people at some point will have their say. The question for me is whether, at that point, ai is already kind of so powerful and and is such a tool of control for, um, whatever those institutions or governments are that actually, you know, it prevents sort of protests and rioting and and the backlash from kind of happening, because that that's the kind of danger is you have that kind of dystopian level of surveillance that actually people don't protest because it's kind of stopped before it gets there yeah, yeah, yeah, and so that would be the sensible approach.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2648.768,
+      "endTime": 2656.976,
+      "text": "I mean we'll see. I think we'll get to see over the next. I mean there's a lot of other stuff going on in the world, but but I think over the next couple of years it's going to get pretty interesting.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2661.086,
+      "endTime": 2676.469,
+      "text": "Should we finish with just a very, very quick sort of extra prediction. So for one year from now, so basically the end of June 2026, so you can have one completely new prediction, AI related.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2677.632,
+      "endTime": 2721.676,
+      "text": "One completely new, ai related One completely new, yeah, okay, so I'm going to go back to robots. I think robots are they've probably been slipping under the radar a little bit, especially with all the news that's going on. So I think robots are going to continue to advance and I think that, let me say, I think by the middle of next year we're gonna start, we're gonna see that we're gonna start to see robots being advertised as something you can buy and have in your home and and not something I mean I don't mean like a toy, I mean a robot that can assist you in so and again, I don't mean like a hoover.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2722.277,
+      "endTime": 2751.135,
+      "text": "I mean I guess I'm again like to be really specific a more general purpose robot than a hoover that can perform certain tasks for you around the house that will help you while you're out, wherever it is. So I guess a bit like a hoover, but maybe it can, um, do the washing up, maybe it can put the washing on like a bit of like a maid robot. I guess I think that's good. I think we're gonna see that by the middle of next year for people who can afford it I think that's reasonable.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2752.76,
+      "endTime": 2788.335,
+      "text": "I'm just gonna go for a really boring one with apple. Um, because we haven't mentioned them for months. I mean, they seem to have given up on AI, but I think if they haven't sorted the AI act together by next year, then I think they're potentially like they've got to be almost like out of the game. So I'm going to predict that by next summer, the OpenAI sorry Apple out of the game. So I'm going to predict that by next summer, the open ai sorry apple announced a deal with one of the main frontier model developers. That means they no longer trying to have any of their own kind of ai tools and they end up integrating one of those models.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2788.896,
+      "endTime": 2796.953,
+      "text": "And doesn't necessarily put them, you know, ahead in terms of the kind of ai sphere, but it makes sure that they maintain their kind of hardware relevance.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2798.085,
+      "endTime": 2812.897,
+      "text": "Realistically which one's it going to be? Because this is the challenge for Apple, right? So you've got a choice of open AI, which is Microsoft. You've got Facebook, which owns the open source models. You've got Google. You've got DeepSeek. It's probably not going to be DeepSeek. It's not going to be DeepSeek,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2816.705,
+      "endTime": 2825.073,
+      "text": "so who are they going to go with? I think this is the corner that apple have painted themselves into, in a way, like they didn't do a very good job of coming up with their own models, but anyone else they partner with is their competitor yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2825.313,
+      "endTime": 2841.349,
+      "text": "Well then, the answer is I think they just become more and more sort of irrelevant. All right, apple's going to be irrelevant. Apple's either going to be irrelevant or they're going to do a deal with. Should I just throw one out there? I think it's going to be OpenAI.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2841.97,
+      "endTime": 2851.593,
+      "text": "OpenAI no, I like that, regrettably. I think I would have gone with that. Openai are going to fall out with Microsoft, which is already happening, and then Apple are going to get a little side deal with them.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2851.613,
+      "endTime": 2853.597,
+      "text": "Yeah, there we go.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2859.925,
+      "endTime": 2874.868,
+      "text": "Yeah, there we go. Well, uh, I hope you enjoyed that. Uh, we will be away on our summer holidays soon, so, um, we might not be on our usual schedule, but I'm sure you can forgive us for those of you that can't. You can go back and listen to all the old episodes again and realize how much nonsense we talked in 2024 and how much none of those things have come to fruition.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 2883.053,
+      "endTime": 2890.397,
+      "text": "Nobody knows. Jimmy sees the future bright.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 2900.447,
+      "endTime": 2936.713,
+      "text": "Matt thinks different. In the night, crystal balls are cracking Data streams, attacking Predictions. They are impossible to predict. Predictions. They are impossible to predict. Predictions. They are impossible to predict. But get your freak on with Jimmy and Matt. It's like a meth head's morning hit.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 2954.519,
+      "endTime": 2958.102,
+      "text": "Algorithms learning how to dream.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 2961.331,
+      "endTime": 2964.859,
+      "text": "Nothing's ever what it seems",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 2968.372,
+      "endTime": 2994.496,
+      "text": "AGI or just hype. Time will tell what's real tonight. Crystal balls are cracking Data streams, attacking Predictions. They are impossible to predict. Predictions. They are impossible to predict.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Lovely Lady Voice",
+      "startTime": 2998.285,
+      "endTime": 3065.726,
+      "text": "Predictions. They are impossible to predict. But get your freak on with Jimmy and Matt. It's like a meth heads morning hit. 2027 calling Silicon dreams are falling. Jimmy Matt AI. Jimmy Matt AI Predictions they are impossible to predict Predictions. They are impossible to predict Predictions. They are impossible to predict. But get your freak on with Jimmy and Matt. It's like a meth heads morning hit. Thank you.",
+      "chapterIndex": 7
+    }
+  ]
+}

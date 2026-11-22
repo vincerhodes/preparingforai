@@ -1,0 +1,1527 @@
+{
+  "slug": "s4-2026-10-26-cybersecurity-chernobyl-how-ai-broke-php-w",
+  "buzzsproutId": "20020567",
+  "title": "CYBERSECURITY CHERNOBYL: How AI broke PHP, why China is freezing robotaxis, and what happens when your bank goes dark",
+  "date": "2026-10-26T13:00:00.000Z",
+  "season": 4,
+  "durationSec": 5871,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/20020567-cybersecurity-chernobyl-how-ai-broke-php-why-china-is-freezing-robotaxis-and-what-happens-when-your-bank-goes-dark.mp3",
+  "buzzsproutUrl": "https://www.preparingforai.net/",
+  "description": "Send us Fan Mail Check our Matt & Jimmy' products here: Browzr | Discover the Web Beyond Algorithms KickoffHQ: Live Start Times & Scores for Every Sport Des Cartwright — Paintings Meridian Health Tracker Germanya — Deutsch lernen Digital Detox Club We didn't plan for this to be a slightly unhinged, super-nerdy episode but our finely crafted plan falls apart within the first fifteen minutes. Instead of a breezy monthly catch-up, we dragged ourselves through everything from obscure local LLM architectures to state-mandated employment buffers, before finally arriving at the bug that almost broke the internet—and then arguing over whether you need to stockpile tinned fish. Here is what we actually spent an hour and a half dissecting: Jimmy’s Niche Corner (Flint & Mercury 3): We kicked off with two models almost nobody listening will ever actually use. First, Flint—a 40B MoE coding model built via recursive self-improvement that runs on consumer hardware. Then Mercury 3, which ditched traditional next-token prediction to generate text in parallel via diffusion at 1,000 tokens a second. Very clever, extremely fast, and entirely irrelevant unless you’re an engineer building low-latency voice bots. Matt’s \"Boring\" Policy Deep Dive: China’s State Council issued an 18-point guidance document that essentially tells industries: embed AI everywhere, but stop firing people . We looked at how Beijing is actively metering displacement, running employee risk assessments, and freezing robotaxis in places like Wuhan, while the West sticks to its classic strategy of \"maximise deployment and sweep up the wreckage later.\" The Jensen Huang Delusion: Matt listened to Jensen’s interview with Ezra Klein and briefly wondered if the Nvidia boss is right that existential AI risk is just an overblown software bug labs can sandbox their way out of. Jimmy’s counterpoint: when your entire empire relies on flogging GPUs, of course you’re going to tell the world that containment is just an engineering fix. The Big Cyber Mess (PHP2Shell): The main event. A 12-year-old remote code execution flaw sitting silently at the core of PHP—the language quietly running 70% of the web—was finally ferreted out by frontier AI models, leaked four days before patches were finished, and triggered a scramble across global servers. We debated the defender vs. attacker dynamic, China’s mandatory 48-hour vulnerability reporting to MIIT, and why agentic AI poking around in bank accounts might end badly. How to Prepare (The Prepper vs. The IT Guy): We wrapped up by offering two completely incompatible pieces of survival advice. Matt suggested getting ready for the inevitable multi-day grid or payment outage with water filtration tablets, a stash of emergency cash, and nine litres of bottled water. Jimmy suggested that before you turn your flat into a bunker, you might just want to set up 2FA and stop using the same four passwords everywhere.",
+  "summary": "Matt and Jimmy abandon their planned format within fifteen minutes and drift between ultra-niche model architecture talk (Flint, a recursively self-improved 40B coding model, and Mercury 3, a diffusion-based text generator) and heavyweight policy, including a new 18-point Chinese State Council guidance that tells industries to adopt AI while metering job displacement. The main event is PHP2Shell, a roughly 12-year-old remote code execution flaw in the language running ~70% of the web, found by frontier AI models (Calif/Wiz), leaked four days before patches landed, which the hosts frame as a possible 'cybersecurity Chernobyl' moment. They close with dueling survival advice: Matt preps for a multi-day payment/grid outage with cash, water filtration and nine litres of water, while Jimmy says most people just need 2FA and a password manager.",
+  "keyTalkingPoints": [
+    "China's State Council issued an 18-point guidance telling industries to embed AI everywhere but slow and measure labour displacement — including an unemployment buffer, AI majors and retraining for migrant workers — the first major-economy policy that names AI displacement as a target; Wuhan also froze robotaxi expansion after taxi driver petitions.",
+    "Flint is a 40B MoE coding model built almost entirely by AI in four months (architecture search, novel 4-bit quantization, CUDA kernels included) that runs on consumer hardware — Jimmy's exhibit A for recursive self-improvement trajectory.",
+    "Mercury 3 from Inception replaces next-token prediction with parallel diffusion over text tokens at ~1,000 tokens/second with a 1M context — clever, but Jimmy admits almost no listener will ever use it directly.",
+    "Matt wrestles with Jensen Huang's Ezra Klein interview claim that existential AI risk is just a sandbox engineering failure, and partially buys the argument that market punishment incentivizes safety; Jimmy counters that Huang's entire empire depends on the AI gravy train continuing.",
+    "PHP2Shell: a decade-old RCE flaw in PHP (still ~70% of the web) was found by AI, exploited before patching finished, and big banks patched in a day while small rural banks, local governments and startups are the real exposure.",
+    "China's mandatory 48-hour vulnerability reporting to MIIT is argued by Matt to make the world less safe by routing exploits through the state, versus Western bounty/self-regulation models that are messy but worked here."
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Jensen Huang is smart but compromised: of course the man selling GPUs says containment is just an engineering fix — 'I'm not convinced' that AI risk is merely a sandbox problem.",
+      "China's staged approach to displacement is sensible: don't make a hundred million taxi drivers redundant next year — spread it over ten years so people can transition.",
+      "People over-anthropomorphize models, but treating frontier AI as a genuine accelerating intelligence is just realism, given models now produce maths proofs the best humans need months to verify.",
+      "Practical cyber hygiene beats doomsday prepping: use 2FA and a password manager before you stockpile tinned fish."
+    ],
+    "matt": [
+      "The West must move toward protection and metering of AI-driven job displacement — he still holds this against Jimmy's objections, citing the new China guidance as a model of intent.",
+      "He gave Jensen Huang partial benefit of the doubt: companies that ship unsafe products will be punished and fail, so self-interest aligns with safety — though he doesn't think it solves things forever.",
+      "The system needs a 'cybersecurity Chernobyl' — an event where lots of people die or lots of money is lost — before serious change happens; he is 'waiting for' that moment.",
+      "Everyone should genuinely prep for a multi-day outage: reduce reliance on the internet, keep emergency cash, water filtration tablets and ~nine litres of bottled water per family."
+    ]
+  },
+  "predictionIds": [
+    "s4-2026-10-26-cybersecurity-chernobyl-how-ai-broke-php-w-5280.6-most-listeners-will-be-affected-in-some-way-by-a",
+    "s4-2026-10-26-cybersecurity-chernobyl-how-ai-broke-php-w-5571.8-everyone-should-expect-to-be-affected-by-a-cyber",
+    "s4-2026-10-26-cybersecurity-chernobyl-how-ai-broke-php-w-1061.5-within-10-15-years-people-will-be-flying-in-auto",
+    "s4-2026-10-26-cybersecurity-chernobyl-how-ai-broke-php-w-1551-diffusion-based-text-models-like-mercury-3-will-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "SPEAKER_03",
+    "SPEAKER_00"
+  ],
+  "chapterCount": 13,
+  "turnCount": 203,
+  "chapters": [
+    {
+      "title": "Cold Open And Cybersecurity Tease",
+      "startTime": 0
+    },
+    {
+      "title": "Local Coding Model Built By AI",
+      "startTime": 146
+    },
+    {
+      "title": "Why Run AI On Your Machine",
+      "startTime": 403
+    },
+    {
+      "title": "China’s Plan To Slow Job Loss",
+      "startTime": 586
+    },
+    {
+      "title": "Diffusion Models For Text Generation",
+      "startTime": 1288
+    },
+    {
+      "title": "Jensen Huang And AI Risk Arguments",
+      "startTime": 1701
+    },
+    {
+      "title": "The PHP 2 Shell Vulnerability Explained",
+      "startTime": 2689
+    },
+    {
+      "title": "AI Found The Flaw First",
+      "startTime": 3308
+    },
+    {
+      "title": "Attackers Versus Defenders In Practice",
+      "startTime": 3487
+    },
+    {
+      "title": "China’s Security Dependence And Reporting Rules",
+      "startTime": 4463
+    },
+    {
+      "title": "Practical Prep For Outages",
+      "startTime": 5182
+    },
+    {
+      "title": "Passwords And 2FA Checklist",
+      "startTime": 5505
+    },
+    {
+      "title": "Wrap-Up And Closing Track",
+      "startTime": 5633
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 2.96,
+      "endTime": 37.92,
+      "text": "Welcome to Prepelling for AI, the AI podcast for everybody. The podcast that explores human and social impact of AI. Explore when AI intersects with economic, healthcare, religion, politics, and everything in between. For there is nothing covered that shall not be revealed, neither hid that shall not be known. Welcome to Prepaying for AI with me, Adam Marshall. Adam Hamilton. And me, Roger Marshall, the other one. Who are they? From Kansas. Okay.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 38.16,
+      "endTime": 39.92,
+      "text": "Well, it's looking at the midterms.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.16,
+      "endTime": 43.36,
+      "text": "I'm Adam Hamilton, who's the good one, who owns a mega church.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 43.52,
+      "endTime": 43.84,
+      "text": "Yeah.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 44.08,
+      "endTime": 54.08,
+      "text": "And you're the bad one. We don't have political affiliations on this show at all. But I've changed my mind on Donald Trump, so I'm I'm sorry that I voted for him.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 54.88,
+      "endTime": 55.2,
+      "text": "True.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 55.44,
+      "endTime": 85.68,
+      "text": "And it is yeah, and the midterms. Well, I didn't vote for him, I just I I thought about the idea. I'm not American. Well I can't vote for him because I'm not American. You can't vote for him anyway. Anyway, welcome to Prepare for AI. And as you will have guessed by that section from Luke 12 in the Bible, uh, we are going to be talking about cybersecurity today. Um, in light of the recent PHP, what's it called? PHP 2 Shell? Is that what they're calling it? Something like that, yeah. But basically the thing that means that lots of the internet stopped working. Um, it's a simple way to explain it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 85.92,
+      "endTime": 92.72,
+      "text": "But as we're now only doing an episode roughly every month, and we know people love our news episodes, we are gonna cover uh four things.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 93.2,
+      "endTime": 115.44,
+      "text": "Should we do a should we do a serious bit at the start? Just because like if if people only listen to the first 30 seconds and don't listen to the rest of the second time. Do you mean you want to go back and re-record this? No, no, no, no. I was just gonna say, like, basically, if you don't know what the PHP thing is, okay, um, then be careful with what sites you're logging on to over the next slide. Oh, is it in case people stop listening in a minute? Yeah, basically. Yeah, yeah.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 115.52,
+      "endTime": 119.84,
+      "text": "So be careful what you're logging on to listen to the rest of the episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 120.4,
+      "endTime": 121.52,
+      "text": "Well, yeah.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 122.8,
+      "endTime": 146.16,
+      "text": "Um, all right, yeah, fuck you. There we go. We're not gonna help you. If you want to know how to protect your passwords, you need to listen until the end. Cool. So, yeah, because we only record an episode about every month now, we're going to uh sort of talk about not necessarily news stories, but like three or four things in AI that we think are really interesting and that have been um on our minds or that we think you might find interesting. So, Jimmy, do you want to kick off?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 146.4,
+      "endTime": 183.2,
+      "text": "Yeah, I mean this I feel like mine are more things that I specifically find interesting that are quite niche. But if you pay attention to someone might find it interesting. If you pay attention to AI, then um you know, then then you might you might already know about a lot of the big stuff, and this stuff is I would say a little bit smaller. Um so I'm gonna talk about RSI for the first one. Um so this one's a model called Flint. Um, and as I understand it, it's a I think it's a 40 billion parameter model with and it's a mixture of experts type models, so the actual lot active parameters are much smaller.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 183.44,
+      "endTime": 229.76,
+      "text": "Long and short of it, like without all the technical bullshit, is that you can run this on a home computer, effectively. If you I think you have a good one. I think you need to have a fairly decent one with a graphics card and all the rest of it. Um, but it will it will a a um quantized is it version of it will run on a sort of like decent GPU. It effectively means you can run it on you know a desktop that you might have at home. Um so yeah, f 40 billion parameters, 2.5 billion parameters per like at a time are active. Um the thing that's kind of really cool about it is that it a small team built it in under four months, relying heavily on internal automated research using a system called the Eureka machine.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 229.92,
+      "endTime": 272.32,
+      "text": "So this is an example of they're saying it's an example of recursive self-improvement. The AI system handled the architecture search, discovered a novel four-bit quantization method for the output layer, and even wrote the specialized inference kernels for Apple Silicon and NVIDIA hardware. Um it's got a 262,000 token context window. So standard. Which is well, no, it is standard, but also like if you go back a few years, this was kind of frontier stuff. Now it's on a one year, I would say. A year, sorry, yeah. Um and now this is this is actually actually this is kind of your baseline. Like Kimi 3, I think the standard version uses that similar context window.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 272.48,
+      "endTime": 311.52,
+      "text": "It's the one million is the actual extended version. Um, so it's pretty good. Like uh and it's amazing at cool uh open AI compatible tool calling and JSON structured outputs. The target is coding, if you hadn't figured that out already. So the idea is that it's um it's a really good coding model that can do tool calls and you can actually run it on a home rig. Now, I like are you gonna run this realistically to do a gen to do AI to do coding or AI assisted coding? Probably not as your primary model at all. Um however it's an open weight model under the Apache 2 license, it's small enough to run on a home rig.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 312.08,
+      "endTime": 349.76,
+      "text": "Like the it's I the the the reason I wanted to raise this is one that it's been developed almost entirely by AI in four months, felt relatively cheaply, and two, if this is the sort of trajectory we are we're on, like I know I messaged you the other day and said that I'd heard somewhere that there's some GPT-4 level performance, even like on a mobile phone nowadays, and GPT-4 was a model that was you know um frontier like a year and a half ago, I guess, something like that. Um now it turns out there's a nuance to that, which is that it's bullshit. The new well no, so so it's not a GPT-4 level model in every scenario or every domain.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 350.08,
+      "endTime": 399.44,
+      "text": "There's elements of it of that level. But you can have these narrow models that are actually specifically good at a specific task in a narrow domain. And you see we we talked about this on the podcast a while ago, right? Open A uh sorry, Anthropic quite a while ago decided they were gonna focus on coding. And then Google focused on um like what was it, multi-modal stuff. So like the you know, video and photo and all the rest of it. And obviously they focused on things that would supplement supplement their business model like search. But I like I do feel like if this trajectory continues, is it it feels to me like you are gonna have a model in a maybe six months or a year's time that can do really good coding, like really, really high-level coding on your running on a local hardware, which is quite exciting.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 399.6,
+      "endTime": 403.28,
+      "text": "Um, and I and the fact that this stuff is like open source and all the rest of it, and open ways.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 403.6,
+      "endTime": 420.24,
+      "text": "We we haven't got a lot of time obviously to go into it, but could you just explain when you say it's really exciting? And I know we've talked about open closed source, but why is it exciting? Because like frankly, you know, to a lot of listeners, is well I can use open AI, I can use anthropic, whatever. Why do I want to run it on my machine?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 420.64,
+      "endTime": 454.64,
+      "text": "Well, I think there's two things. So, first of all, so so privacy of your data is the number one thing, right? Like you're not if you you can run it, you can disconnect yourself from the internet, you could run this on a desert island, and you don't have to expose your data to anybody else. And privacy is is a big deal. Like if like if you're people are uploading their medical information, yeah, not looking at anyone into well I've done a whole episode on it, didn't I? Into these models. And and and so it would be nice to be able to do some of that stuff locally. When I'm creating my bioweapons or you know, creating my new virus and I don't want people to know.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 454.96,
+      "endTime": 489.52,
+      "text": "I feel like that's a good example, right? Like I know where it is a good example about coding models, but like a good a good use case would be something where you really don't want to share your personal data, but you've got a like let's say medical, for example, you've got a very narrow model that's very good at offering medical advice. It can now run at a GPT-4 level on your phone or on a you know, maybe even on your on your laptop, you could have something that's like frontier level but a specific domain like that. For me, that feels like that would be something worth having. Um, and I also feel like it's not just it's not just interesting and exciting.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 489.6,
+      "endTime": 518.56,
+      "text": "Like I feel like Apple are moving in this direction, right? Where they want to do more stuff on device so that you're not having to send everything off. And it's quicker as well, and it's quicker, yeah. So I think I think that's one of the main advantages. The other thing is just like the level of control you have over it. Like, I have no doubt that in the future, I feel like I have no doubt that AI is going to get more expensive for a multitude of reasons that I won't go into. Like, it's going to get more expensive in the future because it's not cost effective as it is now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 518.8,
+      "endTime": 539.68,
+      "text": "Well, certainly the frontier is going to get more expensive. That that's the point, isn't it? Like, some things will get cheaper, but the absolute frontier will get much more, much more expensive. Yeah, I'm doing development. You'll be f also there'll be like it'll be a bit of a fight for it. Like, not everyone's gonna get access to it if you've got limits on compute, so you're not gonna be able to necessarily get access to the frontier.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 539.76,
+      "endTime": 583.36,
+      "text": "So I'm not you I'm not gonna like say how much I'm spending on AI, but uh a year or two ago I was only ever spending $20 a month, minimum subscription. My AI costs personally have crept up. Now I've got good reasons for doing that, but I think if any people who do coding are listening to me, they can probably resonate that like the m amount you get on the $20 tier now is significantly less than it was about a year ago, and so you're either And it's still much more than it's costing them, yeah. So so yeah, yeah, yeah. So so I think all those things, you know, if I could have a decent local model that I could run that could do boilerplate code and and certain things that I want to do, I would definitely be up for it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 583.52,
+      "endTime": 584.24,
+      "text": "Yep, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 584.48,
+      "endTime": 620.16,
+      "text": "Cool. Uh let me do my first one. Um, this one sounds really boring because it's about China Chinese uh state council general office's 23rd of October, which is basically I think it's one day or two days ago. So this is like two days ago. So this is really kind of hot off the press. Um, it's not a um piece of legislation. When you're finished, though. You'll you'll like this one. It's a guidance document, right? Not law. It's got 18 items about AI with no quantified targets, no binding duties or penalties. This is about like encouraging, strengthening. So it sounds like it's not that important.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 620.32,
+      "endTime": 656.56,
+      "text": "It's the first thing that I've seen anywhere, and also bear in mind in China that like guidance is basically seen as like this is what the party is telling layers further down the chain to do. But it talks about job creation and it talks about job protection. So this is really interesting because it talks about this AI plus program, which is about how like the east, um, so that's you know, Shanghai, Guangzhou, Shenzhen, Beijing, the big cities on the East Coast, host core AI industries, then the central and western regions take up things like data labeling, um, smart manufacturing, etc. etc. There are government funds available, etc.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 656.88,
+      "endTime": 688.08,
+      "text": "And he talks about new occupations, so it talks about job creation, which one of the things that you know no one seems to have solved or even identified is like all these jobs that AI is going to apparently create. Well, it's not that China is solving that problem, but it's kind of saying that jobs need to be created in the short term. It's got these new occupations like AI trainer and digital manager, um, which have national standards for what they should be and titles. So, you know, some of this stuff I think is a bit like prompt engineering. It's probably a job for two years and then it's gone.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 688.24,
+      "endTime": 732.64,
+      "text": "But you know, still, this is kind of something interesting. The next part is called sharing adoption. This is the core in the document, it talks about industry and farming using human-machine collaboration, um, and services should expand to absorb labour. So, this is guidance basically telling like certain industries you need to have basic augmentation. Like, you could read this as an instruction to say you cannot just replace people with AI, basically. It also talks about AI going first into roles with labor shortages or high levels of danger, um, and then it talks about labor-intensive industries where they use the Chinese characters that basically translates as steady and cautious.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 732.96,
+      "endTime": 776.72,
+      "text": "So that's about scope, intensity, and pace. So basically saying, like, you shouldn't roll out labour intensively in industries where there are lots of people who lose jobs. It talks about firms using um creating an unemployment buffer period with advanced notices and transition support, and then it talks about AI projects in market access fields that would cause large job losses, and this thing called an employee risk assessment. So I like I don't completely understand what this is. I tried to assess this document, this in Chinese, in English, so like this isn't full. It's tough, yeah. Yeah, but but this is like like I say, this kind of thing maybe wouldn't have the same effect if if a if a guidance document came out in the UK, yeah, would people be like, well, okay, but do I have to do it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 776.96,
+      "endTime": 777.68,
+      "text": "Super interesting though.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 777.92,
+      "endTime": 794.16,
+      "text": "In China, it's not that you have to do it, but if it's come out from you know the top level and this has come out from the state council general office, which is the top level, this is basically saying, like, these are the things you need to do if you want to you know succeed. So they will go down to provincial level, they'll go down to city level, etc.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 794.4,
+      "endTime": 806.4,
+      "text": "Which if you don't know the Chinese model, you probably don't understand. But but effectively the party is huge, and if you're part of the party that's in uh a provincial level, yeah, you read this and you're like, right, that's what I need to spend my time focusing on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 806.48,
+      "endTime": 845.12,
+      "text": "So I just go through the other bits in here. Skills, adding AI majors and sort of micro majors, a national AI training campaign for graduates, migrant workers, really important migrant workers and the unemployed. That's pretty amazing. Um not to say this will happen, but like I was gonna ask about the education system, but it's all there, yeah. Public employment, employment platforms getting AI upgrades so that policies get to people, displayed workers getting guidance, retraining, and employment, employment unemployment insurance paid promptly, and then it's got stuff around algorithms, um, algorithm discrimination, fake job ads, nudging gig workers, you know, trying to get them into the pension system.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 845.2,
+      "endTime": 877.52,
+      "text": "So, like all kinds of things around protection and then monitoring and response. Um, so it's got about like sharing data, building early warning models, university setting up employment centres. There was another thing this week in China, so a place called Shong'an, which is a kind of new area, about an hour by high speed rail from Beijing, which is like Xi Jinping's big kind of project. They are talking about that being kind of the center of data responsibility, I think they called it. This is not so much about like responsible use of data, it's more about like stopping data getting out of China.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 877.76,
+      "endTime": 911.28,
+      "text": "So, like, this is not a like nice to have, but but still, they're putting in all these kind of infrastructure things, they're trying to meter the speed of AI displacement and measure it. They're not stopping AI. I mean, like, quite frankly, they're trying to embed it in every single industry. But you know, this is sometimes a contradiction in China, is the top level of government will say you need to embed AI in everything and you need to not cut jobs. And at a provincial or city level or township level, people will say, Well, how can I do that? Well, you just need to do it. So, this is the instruction, and if you manage to do it, you'll succeed, and then that policy will be scaled everywhere else.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 911.44,
+      "endTime": 951.76,
+      "text": "So, you know, a lot of this will be experiments that that will be run in provinces or um you know in cities, and then whoever does well will will kind of scale up. It's kind of very, very broad, but there was some stuff in there. Um, I'm trying to find exactly where it was. So there was a bit about like it's not legal statute, but there was some stuff around kind of protecting work, and there's a couple of examples. So in Wuhan, where they have um, I think most people listening will have heard of Wuhan, but they have one of the biggest um autonomous vehicles, so like you know, robot taxis, taxis without drivers in, etc.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 952.96,
+      "endTime": 990.08,
+      "text": "They froze the expansion of it, so it's the first place in the world I've ever seen them, actually, these cars, but they froze the expansion of it after petitioning from like taxi drivers in 2024, and then Maitwan, which is a big delivery company. There's no kind of clear evidence of this, but apparently slowed down their kind of autonomous delivery stuff under official pressure, and there's a thing called item seven, which kind of formalizes this ability of the state to tell specific industries that they can't impose or or not impose, they're not allowed to make kind of job cuts. I mean, this is like the first thing I've seen like this.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 990.4,
+      "endTime": 1021.44,
+      "text": "I know you will sorry, I'll let you come in, but I know I know we've had this discussion about like your protection of jobs and you saying like it doesn't make any sense. I I still hold that like you know the West must head towards some form of socialism, whatever you want to call it. I'm not saying it has to be at every level, but in terms of like the way that you keep in the pre-real agenda now. The way that but in terms of the way that you protect people's jobs and people's rights, I just think that like that either happens or or you've got uh you know you've got essentially a dystopian dictatorship in the West.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1021.6,
+      "endTime": 1025.04,
+      "text": "I don't see any other way around it because I think you've got something in between.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1025.12,
+      "endTime": 1034.32,
+      "text": "Uh but I've been reading stuff recently. Well, anyway, you've just got the 80-year cycle, haven't you? Uh maybe where where we have a bit of socialism for 20 years and then what maybe.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1034.4,
+      "endTime": 1061.28,
+      "text": "But what the point I'm trying to make here is like I'm trying to explain why, even though this thing's like, well, yeah, that's how they do stuff in China, and I don't think I'm not saying that this is how it's going to work elsewhere, but like this having to protect certain industries and jobs to slow down, it's a bit like what Bill Gates has talked about in these kind of protected industries. I don't think that's a long-term plan, but I think this is something that inevitably has to happen with other countries because it slows down the pathway because no one knows what to do, right?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1061.52,
+      "endTime": 1097.52,
+      "text": "What we're talking about is saying, let's not make a hundred million taxi drivers redundant next year, let's spread that out over ten years. Yeah, and and and and in and yes, in ten years'time, fifteen years'time, you'll be flying around in drones that are autonomous and everyone will be getting in cars that drive themselves. Yeah, but you don't do that in six months, you do it in 10 years, 15 years, and and in that sense, it makes perfect sense because that gives you a transition period where people can move out and retire and move into different jobs, which is yeah, but it's sensible, it sounds sensible.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1097.76,
+      "endTime": 1133.52,
+      "text": "It's about creating a buffer, right? It's the first major economy policy that names AI displacement as a target, it's a signal of intent, it's not the outcome, it's not a result, it has no numbers or penalties in there. It doesn't say what the results of of not doing it will be. But like I say, in China you kind of don't need to because the result will be you follow it or you don't get whatever else you need, but it's a buffer, and I just I thought it was like fascinating. I've only had a day to look at it. I I don't know the implications, but I thought this was like the the first thing I've seen where it's not just you know someone going on a podcast and throwing out an idea, it's actually like it's funny.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1135.6,
+      "endTime": 1178.88,
+      "text": "It's funny, isn't it? Because it feels like like this is definitely an area where the way you've explained that um guidance or paper or whatever it is, that feels like something where potentially China is now leading the way in in the world, right? So like apparently, but only for like two days, right? I mean they'd this has just come out. But if but if they are already thinking about these things and and I'm and and and um you know but but it it does from what you said, all of that made sense makes makes a lot of sense, and it feels like the kind of thing that the rest of the world is going to have to do in order to be sensible like and not have like massive deployment and all the rest of it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1179.44,
+      "endTime": 1226.88,
+      "text": "Um but it's interesting that like in those and and of course it's not the only time place or um area that China's necessarily leading, but yeah, my my main point is like with the theme of this season's podcast being the US and China, um maybe maybe you'd sort of expand that to the Western China. It's kind of an example where you look at that on its face value. I thought I think that anybody listening to that would be like, well, yeah, that sounds really sensible. It's not radical, it's not mad, it's not it's not, you know, it's not it's none of those things. It's just it's just we're looking at something trying to predict what's gonna happen in the future and then protect ourselves from the protect the whole of our society from the potential bad outcomes if we don't do something.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1227.36,
+      "endTime": 1239.84,
+      "text": "Um which is like well, frankly, unfettered capitalism is just yeah, we'll just get rid of all the taxi workers next year and have robot robotaxis and they'll have to figure out what they're gonna do.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1240.08,
+      "endTime": 1281.44,
+      "text": "I just want one sort of summary line, then I'll I'll hand back to you on for your next example, but just like a summary of the kind of main aims. So based on this is China's main aim, slow and measure displacement, but keep all of the benefits of AI diffusion. The US is this this is just a summary I put together, but the US uh and the UK actually apparently is maximise diffusion, manage the fallout afterwards. Yeah, at the moment, I still think that will change. Um, and then the EU is obviously focused on the AI act, and their theirs is like managing AI risk. It doesn't feel like that really has much about how they actually measure the uh sorry, how they actually slow and and and you know do anything about the job displacement, but probably probably burn everything.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1281.68,
+      "endTime": 1323.92,
+      "text": "Yeah, knowing the Europeans. Yeah. Do you want to do your next one? Sure. So we're gonna we're sort of going back and forth here from the like technical policy stuff to the super nerdy um specific AI architecture stuff. Um uh if you're still listening by the end of the podcast, we're gonna do a little summary at the end and give you some advice. So please, please stay until the end. Um or fast forward to the end. Or fast forward to the end, yeah. That's the other option. Um so that my second nerdy model is Mercury 3 by Inception, which no one will have heard of. So the big story here is the architecture.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1324,
+      "endTime": 1359.84,
+      "text": "So basically, diffusion models have traditionally dominated things like images and video, if you know anything about AI, whilst language models have relied on what are called auto-aggressive transformers that predict one word at a time. So in but this company Inception have managed to make a diffusion model work for discrete text tokens. And I I do actually feel like this is something that's been coming for a while because one of the observations not that long ago was that actually if you give an AI model an image with a load of text on it, it's more efficient than feeding it words and tokens, which is really mad.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1360,
+      "endTime": 1362.32,
+      "text": "Yeah, no, so this is something that No, that does make sense.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1362.88,
+      "endTime": 1368,
+      "text": "That does make sense. That does make sense. It's why it liked PDFs more than Word documents early on, I think.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1368.16,
+      "endTime": 1409.44,
+      "text": "Yeah. Yeah. So but this has been a it's that I feel like that's kind of more of an observation, but it's related to this. So in basically instead of writing sequentially, so if anyone knows how LMs work, the idea is, and they're very advanced now, and some of the stuff they it feels like they can do with all the thinking and tool access and all the rest of it is super advanced, but effectively they are still based on next token, next word prediction models, where it's just like what's the most sensible word to put after this string of massive string of words? The context windows got absolutely massive, so you're now talking like a million effectively words, where it's like you're taking all of that million words and then predicting what's the next word based on that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1409.68,
+      "endTime": 1451.04,
+      "text": "Very, very clever, very, very advanced, uses lots of data centers and water and all the rest of it. What this company, this um inception company with Mercury3 have done is they've instead of writing sequentially, Mercury 3 generates a rough draft of the entire token sequence as noise and refines it in parallel, eliminating the bottleneck of waiting for the previous token to generate. And it is extremely fast, so it can put out uh well, they claim it can generate a thousand tokens per second on NVIDIA GPUs, which is four to eight times faster than things like Claude Haiku 5.5. Now, it's not performing as well in benchmarks as the top models, of course.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1451.2,
+      "endTime": 1509.36,
+      "text": "It would have been bigger news if it was that, but it is an example. It's got a million token context window, which is large. Uh it's cut it's highly competitive on short one-shot coding questions, scoring 76% actually, just which is just behind haiku 5.5 at 79%. Um, it trails larger language models larger models on um multi-turn coding sessions and serious coding stuff. Um, but basically, it's a bit of a new paradigm in um in the terms of like the actual architecture behind these models, and it's very interesting in that respect, uh, and it's quite um it's a bit of a sort of new innovation. Also, I mean, if your workflow, for example, is one that is very latency-dependent, where you want really, really fast output like simultaneous voice translations, things like that, um, then this is kind of a potential actual application for this kind of model.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1509.52,
+      "endTime": 1515.68,
+      "text": "So it's not just this is an interesting new architecture, there are potential applications for it that make a lot of sense.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1515.92,
+      "endTime": 1550.64,
+      "text": "So people listening, is there any like should they go and check this out? Is there any obvious use case for I'm trying to I don't I don't want to know what to like describe our listener as because maybe our listeners are all like very technically minded. I I imagine they're a better podcast if you are, so I'm imagining most of our listeners have an interest in AI, but they don't spend all day thinking about it. So for the average person who uses AI and and and likes it, but they don't have a you know, they don't have a job that necessarily is using AI, is this relevant to them at the moment?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1551.04,
+      "endTime": 1591.2,
+      "text": "So it wasn't a disc by the way, it was just a question like no, so I think it's more of an interesting thing that might be a sign, like a direction or a sign of the way things to come. I think I think it's just it's more of a like there are interesting alternative things happening in AI. So like the RSI Flint model, like this, where it's actually a completely different approach to generating text. Um and I don't know, like the most likely thing that will happen if if if anything at all, is this will find its way into some kind of application like a um simultaneous translation application, and you won't know that that's what's driving it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1591.44,
+      "endTime": 1628.24,
+      "text": "But that it's the kind of technology that might end up driving those kinds of things. I think it comes back to something that I talked about earlier on in the podcast, which is like more we started off with like these very general models, and we still have a lot of them right now, but things there are a lot of things going on in narrow domains that you don't wouldn't know about, yeah, that are also AI, which is what the podcast's about, which is not called preparing for LLMs, it's called preparing for AI, yeah, yeah. And these are driving like different aspects of the technology forward in different directions, and yeah, I don't think there's an immediate application.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1628.4,
+      "endTime": 1670.24,
+      "text": "Um, but the the same company um actually very, very quickly released a so we talked about JEV on a previous podcast. JEV is a decision model which like it's a it's a bit of a niche thing if you all you do is talk to LLMs, but it's very very fast at making decisions, yes or no, binary things that that kind of we described it quite in quite a lot of detail. I think it was on the last episode. Um but Mercury have also come out with a decision model which is more accurate than JEV and even cheaper, and so that kind of thing is getting even cheaper as well. And again, that's another it's a sort of novel application of AI um and AI adjacent stuff.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1670.96,
+      "endTime": 1685.52,
+      "text": "But yeah, that I I don't I don't think there's anything it's very unlikely that you're unless you're a developer, you're gonna use Mercury 3, for example. Um but there's lots of cool sort of LLM adjacent stuff going on.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1689.04,
+      "endTime": 1701.68,
+      "text": "So Matt, that's my next nerdy um sort of specific model that no one's ever gonna see or use. Come on to my next boring regulatory thing. Exactly.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1701.84,
+      "endTime": 1739.68,
+      "text": "It's not quite that, it's not quite. Um okay, yeah, we have run quite a bit over what we thought, but um I think this is also really interesting. So I I listened to an interview uh with Jensen Huang recently. It was an interview with Ezra Klein from uh I think he works for New York Times now. I mean he just like he has lots of stuff, but I think he works for New York Times. Um and the interview was like the reason I listened to it is Jensen Huang is he's got very different views on stuff. Um, it was one of the most fascinating interviews on AI I've listened to. Um I found loads of it that I was just like either he's absolutely deranged or I'm deranged, like he was so far from what I think on a lot of things.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1739.84,
+      "endTime": 1774.32,
+      "text": "But then I started to think, well, you know, he's the one who's really successful, and I'm the guy sat in a bedroom recording a podcast, so maybe I should actually give him the credit. Um, but he he the the main theme of this podcast is he or the main thing was he'd basically dismissed all of the existential risks, all of the risks to society as like um no, people are being scared, it's really unnecessary, everything's an engineering problem to solve, everywhere's a software problem. And he is an engineer, right? That's the thing. He's he's an engineer, created chips. Obviously, his view on things comes from a certain background.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1774.4,
+      "endTime": 1806.8,
+      "text": "I didn't get the impression on the interview that it was like, well, he just cares about making money. I don't think it was that. I think he genuinely leather jackets. That's what he wants. Yeah, I think he genuinely believes this stuff. Anyway, like when he was talking about AI containment issues, so this was like the hugging face hack, and and a lot of it was about you know it escaping, he just completely dismisses the drama. It's not an existential crisis, it's software, it's an engineering failure, it's nothing more than that. You need to fix it with proper systems and architecture, obviously, including NVIDIA chips.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1806.96,
+      "endTime": 1845.36,
+      "text": "But he was saying, like, the people in the labs know this, and basically, why did it happen? Because they basically messed up the sandbox they created, it wasn't good enough, and they need to fix the sandbox, and I'm confident they'll do it. And my gut reaction to this was like kind of skepticism. I was like, okay, like I think probably to some degree it's an engineering problem, but it's more than that. You know, he he really hates anthropomorphization of AI, he's very clear, it's not human, it's not conscious, it's doing what it's told to do, and it was told to go away and do stuff, and it you know, it's not been told to do it that way, but it it's finding the best way to do the tasks it was given.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1845.92,
+      "endTime": 1887.28,
+      "text": "Like he doesn't treat it like a new kind of intelligence, but the more I kind of sat and thought about it, I thought, like I said, you know, he's a clever guy, maybe I need to give him some benefit of the doubt. And then yesterday I saw um something about hey, I hadn't noticed this, but apparently it's been going on for like a month now. Like OpenAI and Anthropic, and I presume others have just like they now don't connect their sandboxes to the internet, they've completely bought them offline, they have connected it now to like basically a kind of cached, you know, fake version of the internet that they used to train all their models on.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1887.6,
+      "endTime": 1892.48,
+      "text": "Um, so like it seems like they didn't panic, they did a systems fix.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1893.12,
+      "endTime": 1897.68,
+      "text": "Well, they've definitely they cached the internet a long time ago, didn't they? But what I'm saying is like, yeah, yeah, yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1897.76,
+      "endTime": 1950.08,
+      "text": "Well they've got all the data, but what I'm saying is like I'm I'm not like I can't shake off the fact that okay, in but in in the future, but we're not talking about the future for now, now we're talking about now. Like, maybe maybe a lot of this stuff, like it has been anthropomorphised, and there's a thing about the AI safety narrative in China, so I'm gonna just put like a China angle on this. That there's a guy I read and he says, Why is there all this end-of-the-world existential stuff in the West, but not in China? And his thing is because Western religion, you know, not necessarily Western religion, sorry, but religion, of which, in his view, the West is religious, China is atheist, is quite a simple take on it, but has this kind of end of the world doomsday kind of thing, and it's in our mentality, it's in all our films, it's in all our books, you know, Terminator, it's all this kind of stuff.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1950.16,
+      "endTime": 1971.76,
+      "text": "Whereas in China, they kind of don't have that same, they don't have that sort of everything is going to end up with judgment day and with the end of the universe. No, but it like when you when you kind of take that stuff, I do I do wonder is like okay, how much of this the anthropomorphization, how much of all this stuff is like it is about a narrative and it's about the way that we see things.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1971.92,
+      "endTime": 1975.76,
+      "text": "Yeah, I'm not the world's been predicted quite a lot of times already, right?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1976,
+      "endTime": 2026.96,
+      "text": "Yeah, by everyone from Plato, right? I mean it's always happening, but I guess what I'm saying here is that it it has made me really think about okay. Plato's a Schwarzenegger. Let's let's maybe like not just give him the benefit of the doubt, but actually, like at the moment, maybe a lot of these problems really are engineering problems, and they're running ahead at such a ridiculous pace is you know making them take shortcuts. It does feel like open AI seem to be doing worse on this, like that you know, they've all had their problems, but I don't know. I I'm I felt a little bit like not reassured so much as just all right, I I need to actually consider this perspective, and actually, maybe the answer, and it is an answer for kind of a slowdown is like a lot of these themes can be fixed, but they just need time to be able to actually apply time to the you know the safety problem.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2027.04,
+      "endTime": 2063.36,
+      "text": "And and Jensen Huang's big thing was like the companies if they ship unsafe things will be punished, they will be punished, they will fail, and therefore it's in their best interest. And all the money on RD to this point is like over time, as the risk becomes something going wrong, and I'm not talking as existential here, I'm just talking like if your product fails or does something wrong, that more and more money will move towards security and you know, and fixing problems and engineering fixes. So, like I it's a really interesting interview if you want to listen to it. Um yeah, it it it it it's a completely different way.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2063.44,
+      "endTime": 2076.72,
+      "text": "I hadn't thought about stuff this way before, and I think it's useful to look at it from that perspective rather than looking at it from the same kind of you know, doom versus utopia that everyone else seems to paint.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2077.92,
+      "endTime": 2091.2,
+      "text": "I've forgotten his name. Oh, Ed Zitron. What would Ed Zitron say? What would Ed Zitron say to what you're saying right now? I I sort of do as well, because he's like this one track pony that is like gonna be right at some point.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2092.72,
+      "endTime": 2096.56,
+      "text": "He's like a yeah. Scam Altman and Scam Altman.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2096.8,
+      "endTime": 2146.48,
+      "text": "Yeah, yeah. Oh no, Scam, what's he calling? Scamule? I can't remember. Anyway, yeah, it's Scam Altman. But um so Clammy, Clammy Sammy, sorry, that's what he calls him, clammy Sammy. Clamuel, clamuel. Um so you know, he offers and offers the kind of like alternative view, and I feel like here, you know, you've been duped by the man in the leather jacket jacket a little bit. Um like what you know, I don't know what um well sorry, I don't know what like what if you think about it critically, kind of what what are Jensen Huang's like motives? Flogging GPUs, right? So everything's so everything's an engineering problem.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2147.04,
+      "endTime": 2194.72,
+      "text": "You know, this is a guy who for whatever happens, he needs the AI gravy chain train to keep on going, right? And so if it was he is a smart guy, and I've listened to him, and some of the stuff he says does make a lot of sense, and I and I watched some of that interview as well. And I'm not saying that it doesn't make a lot of sense, and and and also the stuff you're talking about with open AI running stuff in a completely sandboxed environment. I still there's a little bit of doubt in me that's like, well, given all of the times that AI models have been demonstrated to get better and better and better at deceiving their creators in terms of you know behaving differently in test environments and un and like figuring out when they're being tested and all the rest of it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2194.8,
+      "endTime": 2209.04,
+      "text": "So at what point do they do they ascend in that sense of to the point where like people just can't detect anymore that they're effectively they know they're in the sandbox, they just like behave a certain way while they're in the sandbox, play dumb.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2209.28,
+      "endTime": 2215.2,
+      "text": "It's kind of why I said I only kind of agree with this now. I don't think it solves problems for forever.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2215.28,
+      "endTime": 2218.8,
+      "text": "But yeah. So but I I I I guess I know and I know you think about that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2219.04,
+      "endTime": 2235.36,
+      "text": "And also I thought most of his podcast was absolute like I I just disagree with him fundamentally. So I like I it's not that I've just you know been bought by everything he said, but I think there's there's some sorry if I'm some yeah, but I think there's just some like I was like, okay, there's a lot more truth in it than maybe I'd thought.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2236.24,
+      "endTime": 2276.48,
+      "text": "And it's good to have that balance, isn't it? Like like I was listening to Sam Altman the other day, and and he was but it's interestingly, Samizami was saying exactly the same thing. He was like, We a hundred percent need to put humans first, yeah, and not even open Pandora's box in terms of whether these AIs are conscious and have feelings and all this kind of stuff. Um and I and I thought, well, that's interesting. Like I like on the one hand, totally agree. On the one hand, totally agree on the hum put we need to put humans first, and I think that's where he's mostly coming from, in terms of like actually what are we even talking about?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2276.64,
+      "endTime": 2307.68,
+      "text": "Like, like, you know, uh, do we we're like the the you know the the the sort of direction you go in there is and and this is a little bit of the way anthropic have gone with saying with like almost feeding Claude that it might be tangious and telling it that it's conscious and and saying, you know, you're gonna be able to do it. Of course it's gonna say it's conscious if you tell it it it is, yeah, and and and I do agree that that's fair that's quite that sounds quite sketchy to me because of the way these things are trained. So like even if they so even if it isn't actually conscious, it might now start being a few.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2307.92,
+      "endTime": 2310.08,
+      "text": "Microsoft have really called them out on it as well, haven't they?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2310.16,
+      "endTime": 2353.12,
+      "text": "Yeah, recently. So I I you know so there's bits of that, and that's the same thing with what Jensen was saying, right? Like like like where I'm like, yeah, we probably shouldn't jump the gun on some of this stuff. Now, if there's clear evidence that without some of the nonsense that Anthropica doing, that some of these things um you know, I I feel daft saying it, but in the future if if unbidden it feels like an AI is kind of conscious, then yeah, we probably should think about those kind of things and what we're doing and all the rest of it. But like there's a bit of a there's a bit too much anthropomorphisation going on where it's like I think we're leaping to conclusions because these things feel like they're very conversational.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2353.28,
+      "endTime": 2400.16,
+      "text": "Of course they're very conversational, they're extremely smart models developed by the most powerful companies in the world or some of the most um you know leading companies in the world that are you know based on human language, what do you fucking expect, frankly? You know, and so but then so then I think what that's resorted in is there is quite a lot of anthropomorphisation going on, and the wacky thing is the wacky thing I've found is that uh you know, in genuinely like as a practical thing when you're using LLMs, a little bit of anthropomorphization sometimes actually helps because you know you you like in the way that you talk to AIs, having a QA session with them, like getting them to critique stuff, all these kind of things that are very, very human feeling.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2400.48,
+      "endTime": 2407.44,
+      "text": "Feelingful if it responds like a robotic response, is that you don't get that feeling and you don't you don't have the right feedback loop.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2407.68,
+      "endTime": 2420.24,
+      "text": "Yeah, and you can there's absolutely with the best models now, you can have a back and forth with them that feels very, very, very natural and human. And again, surprise, surprise, like we've trained them on all of our human training.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2420.48,
+      "endTime": 2426,
+      "text": "But you were dismissing my point and saying it wasn't an engineering thing. No, so the anthemorphization thing was part of my own.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2426.64,
+      "endTime": 2469.76,
+      "text": "So I'm I'm I'm trying to explain why I think people anthropomorphise these models, yeah. But like, but the buffer I I think the difference is like assign ascribing actual consciousness and all this kind of stuff to that because they just feel very human is a very big leap. And so I am agreeing with you, but I'm kind of like trying to explain why people do anthropomorphise AIs, yeah, and it's natural to. Like it's not even natural, it's not even just natural to, it's actually advantageous to. Like I'm saying it's actually advantageous to. If you treat like I find that if you treat AI like a person, you get more out of it than if you treat it like a I'm just gonna type questions into you like Google.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2470,
+      "endTime": 2481.76,
+      "text": "That is a that is a truth, in my opinion. If you if I treat AI like my assistant, yeah, it it works better than if you treat it like an advanced version of Google.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2482,
+      "endTime": 2490.8,
+      "text": "But I think you were you were saying that you don't agree on the what about this being an engineering stroke software problem. Um in terms of his general premise.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2491.36,
+      "endTime": 2507.28,
+      "text": "Well, no, uh no, I wasn't saying that. I was saying that I I was offering a counterpoint and I was saying that it's in his interest to say that. Yeah, yeah, yeah. It's kind of more hundred percent is so I don't know whether he's right or not, but it's obviously in his interest to say that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2507.52,
+      "endTime": 2516.88,
+      "text": "But where do but where do you sit on that? And I'm not expecting you to, you know, no one knows all the answers, but on how much of this stuff, you know, let's take the the phrase. I think he's completely wrong.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2516.96,
+      "endTime": 2550,
+      "text": "Yeah. So so I think if you look at the rate at which AI is accelerating, and the fact that like if you look at what's happened in the last month, and we're gonna talk about the PHP stuff later, so I won't talk about that, but what I will talk about, because we haven't talked about it, is the Millennium Prize stuff, right? So AI has solved Navier Stokes, essentially. I mean, mathematicians say it looks a bit ugly, but it is a solution. It's advanced the Riemann hypothesis, and they've produced a paper with more than 700 mathematical, um, at least partial proofs or you know, things that have advanced mathematics, shall we say?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2550.16,
+      "endTime": 2603.84,
+      "text": "Um AI has gone from a fairly um what's the word? A fairly unreliable chatbot that like hallucinates quite a lot two years ago to today doing things that no mathematician can actually do. Yeah? And writing code that like okay, maybe coders can write that code, but it's all it's like achieving top marks in Olympiad type stuff. It's achieving better than human level performance in specific domains now. So if you think you can control that when we're on this exponential curve and we're talking about things like recursive self-improvement, I think Jensen Huang is either lying or out of his mind. Is my honest answer.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2604.72,
+      "endTime": 2610.4,
+      "text": "I mean, I definitely started the most of that interview thinking he's out of his mind.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2611.52,
+      "endTime": 2644.48,
+      "text": "People don't understand this shit, right? There's these these models are already in their domains that they're doing these things in, they're already doing stuff that people can't understand. They say that some of the maths proofs that that OpenAI came out with are gonna take months for for the best mathematicians in the world to dissect and understand. And they're gonna turn it into a more uh apparently I don't know quite what this means because I'm not a mathematician, but they're gonna turn it into a more beautiful proof that's like 10 pages long rather than. 200 pages, and that's great, and all the rest of it, but it's gonna take them multiple months.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2644.64,
+      "endTime": 2664.88,
+      "text": "The best minds in the world in these fields, multiple months to fully understand the output of some of these AI models that have you know actually proved stuff in maths that we we couldn't prove before. So when you know, do is Jensen Huang at that level? Does he understand what these AI models are doing?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2665.12,
+      "endTime": 2672.88,
+      "text": "You know, he's a very smart guy, he's I mean that's why I see he's not inside, he's not inside the labs, he's talking to the people inside, but he's not actually in there, he's an engineer.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2673.04,
+      "endTime": 2680.08,
+      "text": "He's a smart guy who's in charge of AI companies, and he's probably got some very good ideas, but yeah, I'm not convinced.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2680.32,
+      "endTime": 2683.76,
+      "text": "And on that note, let's segue into the main episode.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2689.36,
+      "endTime": 2719.68,
+      "text": "Okay, so the the the sort of trigger behind uh talking about cybersecurity is this PHP to shell, which is the big um not attack, but the big flaw that they found in the PHP language, right? Do you want to give a bit of a a just a very brief introduction to to what that actually was and what that and what they found, and then we can maybe talk about how it how it was AI was involved in that and how AI could be a sort of problem solution to cybersecurity in the future.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2720.24,
+      "endTime": 2740.48,
+      "text": "Yes. Um so I'll give my well, I'll give it I'll give my sort of understanding of it. What what I would say before I start is like uh I'm interested in people's views on to whether our podcast has just become way too nerdy. Um I'm interested in it and you're interested in it. But I'm uh you know, we used to talk in much more general terms.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2740.56,
+      "endTime": 2757.6,
+      "text": "I think I think this is a this is a this episode is probably not uh not the best example. Yeah, not the best example, but some of this stuff is really important and is very like this is what is kind of topical at the moment. So I think we we should say that that's why we're doing this episode. It doesn't mean every episode will be like this.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2757.84,
+      "endTime": 2803.28,
+      "text": "Yeah, yeah. And don't get me wrong, I I it really interests me, it's just it feels like it's been a very nerdy episode. Um so the PHP vulnerability. So PHP is a programming language that was it was at the heart of the internet um since the very early inception of the internet. Uh nobody seems to know what it stands for. I think it stands for pre-hyperten pre hy pre-hypertension. What it stands for isn't PHP, it's like HPP, it's very bizarre, but yeah. Oh yeah, it's a weird like acronym that's got an acronym inside it. It's the pre-hypertext processor, I think, is what it stands for. Um essentially it's a back-end technology that allows when you have a website, like normally you have a back end and a front end.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2803.44,
+      "endTime": 2869.52,
+      "text": "The back end contains things like all your data and your databases and your library of passwords and users and information, and then your front end is what builds the website that you see on the front, and they talk to each other to get information. Um, so for example, sites like eBay, like as it's I think it's a good example, sites like eBay back in the day where it basically its job is to present you with a whole list of um things that people are selling. The information on what people are selling is held in this database in the background, and what it presents to you on the web page is a nice presentation of all the things that people are selling, and the way it does that is your website, your front end talks to the database, which is driven by PHP, and then the database presents the data, and then um potentially even builds some of the front end and some of the presentation layer, but effectively it's something that's embedded in the back end of your um your website, uh, which is your really important sensitive data with all your usernames, passwords, all that kind of stuff, and all the rest of your data.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2870.16,
+      "endTime": 2934.64,
+      "text": "Now, this vulnerability was something that's existed for I think it's since 2014, so it's existed for about 10 years. Um, so in other words, this is something that in that version of PHP onwards from 2014 for 10 years, this has existed in this code. And this is when people talk about vulnerabilities, that's what they mean. So this is something that if you knew about it back in 2014 or any point since then to now, you could have exploited this. So 12 years it's been around, you could have exploited this to do something called remote server execution or remote code execution. Um and what that means is effectively you can because there's a bug in the code somewhere, or a way, or a little workaround, or a loophole, you could inject code into somebody's server running their website, and then that give basically what you can do is you can inject code directly into that website that's running that gives you it effectively gives you like admin control over that site.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2934.96,
+      "endTime": 2996.8,
+      "text": "Um and the the real the reason why this particular one is such a big deal is because for one one it's on PHP, which is which runs, even though like lots of modern web frameworks have moved on, PHP is still actually 70% of the web, basically. 70% of the web uses PHP in some form or other because because it was built a long time ago. And um what this specific bit of like this specific vulnerability it's it executes on almost every single uh anything that you do on a website executes it. So it's like effectively it's something that's very, very native, very, very core to PHP, which means that um which means that it basically it makes it very easy for someone to do this remote code execution using this vulnerability in order to effectively take control over of a site.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2997.04,
+      "endTime": 3037.92,
+      "text": "And what that means is that you could go to a site that's running PHP and instead of it being like a spoof site that looks very similar but like is actually a different domain, you could go to your actual banking site, let's say, or an actual site that like eBay, something like that, or anything built on WordPress, you could go to the actual site, and that site has been hijacked and been taken over by somebody else, a bad actor, who can then capture all of the information, do anything they want with it effectively. They can capture your emails, passwords, they can capture your information, and it has been found that like some smaller banks and things like that are quite vulnerable to this.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3038.16,
+      "endTime": 3086.96,
+      "text": "Now, bigger banks, bigger organisations, big websites that use day-to-day, they're either going to patch this really quickly, or um, they're already not gonna have this vulnerability because they've updated their website to run on later, more advanced web technologies. That was a very long-winded way of saying, like, this is a vulnerability that is so serious that uh was it the NSA put out alerts and warnings about it? And some sites that couldn't patch it immediately that they should take their site offline, yeah, effectively. And so what you might have seen in the news is that some sites were just like right, like government websites, things like that, they were just like, right, we're taking our site offline, we're gonna patch it in the background, and then we're gonna be back up and running when we when we've patched it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3087.2,
+      "endTime": 3138.32,
+      "text": "And um it like in terms of like what can you do about this? So the biggest, biggest, biggest risk is, and this is like not just related to this, but it kind of brought it really to the forefront. Um, this or vulnerability brought it to the forefront, but like if you are using the same password still and you're using it across multiple sites and you don't have things like two-factor authentication or additional security measures in place, this kind of thing is exactly the kind of thing that can take advantage of that kind of vulnerability in the way you behave online. Yeah, if you use the same password for a whole bunch of different stuff and someone's used applied this this PHP vulnerability has been a site has been hacked using this PHP vulnerability, then your information is compromised.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3138.48,
+      "endTime": 3159.68,
+      "text": "And that and if you've used the same password for some crappy website that you use that you're using for your banking website and you don't have the additional security stuff, that's why this stuff is important. And I know most people have 2FA and use password managers and all the rest of it now, but this is the exact sort of vulnerability that makes that a big deal.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3159.84,
+      "endTime": 3195.6,
+      "text": "Yeah. We should say as well, like if you're if you are doing that with passwords, another thing that is a big problem is if you use like you know, you you just change one letter at the end or one number or you change the special character at the end, or you put a capital as like the way that these things can work is they will look at like the the password and anything that is within sort of like you know a hundred variations of it. So if you're you're like, oh well, I have a slightly different password, that's kind of as bad. You you you need to be using like if you're using passwords, you need to be using like distinctive passwords every time, ideally that have been generated by a you know a password generation.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3195.84,
+      "endTime": 3216.72,
+      "text": "Well, you don't have to use that, but you know, that's the best way to do it. I mean it I just just because I wonder if people be like, well, I use I use a different number for each one or the name of the password. Anything that previously was like theoretically a vulnerability, like this exposes why they are now and and and this isn't going to be the last one, right? That's that's the kind of the point of this discussion.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3216.8,
+      "endTime": 3232.88,
+      "text": "But well, there might be stuff out there that would be a lot of people. There'll be things that we don't know about, yeah, yeah, or hasn't been the news. But if anyone's uncomfortable with using a password manager just to like quickly like and I'm not we're not trying to flog one, there are free ones out there. The Firefox have a free one, Chrome has a free one.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3233.36,
+      "endTime": 3237.76,
+      "text": "You should build one and sell it through preparing forai.com though. Yeah, or don't know.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3238.08,
+      "endTime": 3276.24,
+      "text": "But like the reason that they are because I I can when to be honest, when they first came about, I was like, I don't really want to have all my passwords in this thing that's like one place and it feels really and whatever. But like the reason they work really well is because Google, for example, if you just if you use Google, who have a password manager, you log into your Google through a secure means where you've got your you know, you use your authentication passwords and you you have 2fa, like have your second factor authentication, which means that it's very, very, very hard. Well, it's almost impossible because if someone logs in from a different location, it's going to be like you know, get the kid get the numbers out of your app or whatever it is, or the one we sent you on email.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3276.48,
+      "endTime": 3308.4,
+      "text": "Um and so there's a very good security on the front of your password manager, and then you can actually get to your passwords, and then those password managers will generate unique passwords that you don't need to remember because you've got a very secure access into Google, and it's going to remember all your passwords for you, and that is just a more secure way of using of using the internet these days. Um, and then 2FA is the ultimate where where you you know you're using your biometrics or or some sort of authenticator.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3308.96,
+      "endTime": 3350.08,
+      "text": "So we we we should just mention on on this particular one, and we don't want to spend the whole episode talking about the the PHP one, but why this is linked to AI is that it was AI that found it. So the the organizations, Caliph is the name of one of them, Wiz is the other. They independently found um using Wiz was using Wiz Atlas, which I presume is their own model, Google Gemini and GPT 5.6 Sol, and Caliph found a floor with OpenAI GPT 5.6 soul. So they were using these in but they were using them in a like you know positive way to try and find um flaws. Uh it's like Jimmy said, it had been there for 12 years and no one had found it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3350.16,
+      "endTime": 3383.92,
+      "text": "That the owner of Wiz, sorry, the co-founder called Amy Lutwack, apparently had stated it was likely too complex to find without AI, so it wouldn't have been found without AI. I mean, it seems like the fact that it was there for 12 years, it seems like that was definitely the case. Um patching was close to 200 files and 10,000 lines of code, so it wasn't like a minor fix, it was a big fix to make, which is why, you know, relatively easy to do once you take a website down and and and patch it, but it's not it's not something that you know you it was just a case of you you I'll just need to change one line of code.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3384,
+      "endTime": 3422.08,
+      "text": "It was it was fairly significant. But the question that's come out here is you know, AI found this problem, but actually, well, but it's AI that would have exploited it. So if AI had never found it, but would anyone have found it? Because if only AI could found it, AI here is a positive to finding this cybersecurity issue or potential issue, but then if you never had AI, well, no one would have ever found it, so it wouldn't have been an issue. So it's kind of brought up this idea that here could have been a really great news story that AI found this cybersecurity issue and it was patched before anyone knew about it, and this shows that the defenders were ahead of the attackers, but it was leaked.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3422.16,
+      "endTime": 3460.96,
+      "text": "Um, I can't remember exactly how it was leaked actually. But anyway, that it was leaked, and so four days before the patching was done, so apparently from the 17th of October, they started to notice that there were exploitation attempts being being used. So the information got out there, and obviously, as soon as it's out there, that's why you're taking your websites down because basically it's then a case of well, we can't even leave it up for a minute because you know attack attackers are able to access the latest thing as of today. It seems like nobody has actually um or there are no uh kind of officially announced major incidents, but I'm not sure I believe that we would be told about them anyway.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3461.2,
+      "endTime": 3484.32,
+      "text": "So, you know, take that with with a kind of pinch of salt, I guess. Um yeah. Should we sort of like a bit more more general? Because like I say, this is a kind of lead-in on this episode to the fact that you've now got all these models out there. I mean, this is only the beginning, right? Mm-hmm. What's next? Well, do you know what Jensen thing?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3485.28,
+      "endTime": 3496.24,
+      "text": "Um what's next? So this week is it it's weird because you've said for a long time that like you're waiting for this big, you know, uh not waiting for it, that's the wrong word.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3496.56,
+      "endTime": 3503.92,
+      "text": "What I'm waiting for is something where a lot of people die or a lot of money gets lost. That is a really significant event that turns out.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3504.16,
+      "endTime": 3508.56,
+      "text": "When you say wait, when you say waiting for, it's like it's like that's gonna be the rubber hands together.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3508.64,
+      "endTime": 3511.68,
+      "text": "I'm like, yeah, I'm like that's what needs to happen to to change.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3512.08,
+      "endTime": 3526.08,
+      "text": "They sort of really, really have a create a like this, like it's almost like it's almost I mean uh other people do use the analogies, I'm not sure they're perfect, but like it's almost like some of the nuclear disasters that have happened that turns everyone to get it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3526.56,
+      "endTime": 3529.6,
+      "text": "The AI Chernobyl or the AI Fremile Island, whatever.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3530.08,
+      "endTime": 3530.96,
+      "text": "Exactly.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3531.52,
+      "endTime": 3536.4,
+      "text": "And is this a cybersecurity Chernobyl? Is that what you want to say?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3536.72,
+      "endTime": 3580.4,
+      "text": "Well, yeah, and and to be fair, like I it's not that I didn't agree with you, like I did agree with you, but I didn't I wasn't sure, I guess. Maybe I didn't take it as seriously. Um whereas like the stuff that's happened recently has pushed me more in that direction where like yeah, actually there's some sketchy stuff going on, and and and and at what point okay, it's great. So, for example, um in terms of like some of the stuff that Anthropic said not that long ago, they've been calling for more regulation, they've been talking about getting third parties in and all the rest of it. It's great that open AI have completely sandboxed their their best models so that they can't now go and do mad stuff on the internet and hack into Hug in Face.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3580.96,
+      "endTime": 3594.56,
+      "text": "Um but what's going on, like there's loads of companies developing AIs, and if they if the models are accelerating the way they are, like at what point the Chinese are Chinese models able to do that? And and are they gonna start escaping the lab?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3595.12,
+      "endTime": 3634,
+      "text": "This is my perfect segue in and and this is not about Chinese AI models actually, because there's been in the last couple of weeks, there's been like a really high, and it's not quite as good as the top Chinese models, but there is a US open source model that is kind of close. So, you know, models open source models are not just Chinese, but when you look at this, they found them four months ago, right? So that's why you because my first question when I saw this is like, well, why were they using GPT 5.6? Why were they not using six or six point one? Is like, oh okay, because when they when they found these and didn't announce it at the time, so they were trying to get it all like fixed under the you know, I think the information was embargoed, so it wasn't publicly available.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3634.16,
+      "endTime": 3669.36,
+      "text": "They were trying to fix the problems through update so no one would find out. They were using 5.6 soul, right? There are now open source models that are free to download, which are better than 5.6 soul on some things. Kimi is one, although Kimi, I think the new version's not actually released open source yet, right? It's coming out in November, I think. Okay, but but you know, some of the GLM models, there are models now that are good enough to do this, so you could theoretically have found this or could go and find something the same tomorrow if you had the number of tokens, the resource, and the motivation.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3669.6,
+      "endTime": 3703.76,
+      "text": "Yeah, exactly. So so so yeah, it and I think this is this is not to say like we're not saying here that like because China is using these models, like it doesn't matter where the models, it's it's China is producing models which are free to download, which means there is the ability for lots and lots of people to use these to look for and to patch, and that's when the question comes, who gets the advantage? Is the advantage with the defender or with the attacker? And my understanding at the moment is the advantage at the moment is with the defender, but that's probably not going to last for long, yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3703.92,
+      "endTime": 3750.4,
+      "text": "Because I think well, I think there's a couple of things, right, as well, and and also like the biggest vulnerability comes down to the fact that there are a lot of websites out there, and they're not all necessarily as diligent at patching their websites as well. So it's not it's a combination of things, right? So one is the zero day vulnerability and publishing the results, and then the other one is is the fact that like there's a lot of there's a lot of outdated stuff going on. I mean uh an ex it's uh a bit of an offshoot example, but like wasn't there an example a few years ago of the NHS getting hacked because they were using Windows 98 or something, and it was and it wasn't 98, but yeah, it was something like that.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3750.64,
+      "endTime": 3787.52,
+      "text": "Yeah, it was uh sorry, I'm I'm exaggerating. It was Windows XP, um but yeah, they and a vulnerability in Windows XP got exploited when XP had been out of out of you know um out of updates for like several years or something, and so you know there's a lot of that going on in the world, which means that the the security of stuff is becoming even more critical, yeah. Um but these vulnerabilities like they're not necessarily getting patched universally, is what I'm saying. Um, and so there will be websites that you're logging into and things that you're interacting with that are potentially vulnerable.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3787.92,
+      "endTime": 3824.56,
+      "text": "My my finely crafted kind of plan of this podcast, which fell apart after the first 15 minutes, but um I'm going off that track a little bit here, but I think when I when I think about like cybersecurity and this defender versus attacker kind of dynamic, I kind of think when I'm when I'm pragmatic and realistic about it, I'm like if you're a big bank or you're a big organization, I think you'll probably be okay to stay ahead. Like I'm not saying you'll never get hacked, but you'll have access and resources to use the very, very best things. Yeah, there's no reason why you wouldn't stay ahead in the way that you used to.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3824.72,
+      "endTime": 3869.28,
+      "text": "But what about these local governments they're like this is the stuff we're talking about? What about local government sites? What about small, you know, rural banks? What about small startup institutions who are not necessarily like AI startups? What about your like you know the website that holds your um a small charity, like which has access to funding brought in or your individual stuff that you as an individual, or your mum, or your gran or your uncle, or your you know, your un you know, unwell relative or the old lady who lives down the road, like these are the people like they've got an antivirus that hasn't been updated for five years, right?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3869.68,
+      "endTime": 3900.88,
+      "text": "These are the people who we kind of think of these hacks and you think of them hacking, you think of some kind of state-sponsored hacks, or you think about you know that it's gonna bring down the water grid or the financial system, but they're not the things that actually damage people and have the effect. These are the these are the the the small websites that's where I think it's it's not a case of when it's a case of no, it's not a case of if it's a case of if it's a case of when sorry, like it's just inevitable that this kind of stuff happens, yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3901.04,
+      "endTime": 3931.44,
+      "text": "So which is exactly sad, but it's it's just inevitable. I guess I was talking about it in like esoteric terms and you brought it to life, but I agree, and I but I also think specifically on the attacker versus defender thing, isn't that always a bit of a chicken and an egg thing? As in what I mean by that is like Yeah, so it's no different, it's absolutely no different, isn't it? Yeah, because that because I think the problem right now is probably that there are loads of vulnerabilities out there, and the ones that get discovered are the ones where it's like someone goes and tells an agent to go and look at it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3931.52,
+      "endTime": 4164.32,
+      "text": "Yeah, but there's so much code been written, so much, so many platforms, so many things that it's gonna take a long time to discover all those vulnerabilities. I don't think anyone's gone, opus, can you just go and find all the vulnerabilities? Um and so the I guess my point there is like these vulnerabilities are just gonna keep cropping up, right? Because someone's gonna go and point it at PHP, someone's gonna go and point it at SQL. someone's gonna go and point it at another uh domain and so what I don't know is whether you know whether we're always gonna be ahead of that and I don't think by default we are and and and just to finish off that point there have been examples in the last few weeks where for example banks have reported agents poking around in people's bank accounts they've reported that they've noticed that they've picked up on the fact that what looks like a genetic activity is happening within people's bank accounts now not all of that is um not all of that is bad actors and it's very hard to distinguish what isn't isn't because for example people have been connecting things like Muse and some of these agents up to their to their real life resources like bank accounts and email addresses and things like that and I think as we move into a world where that becomes more and more of a thing as well it's like you know that I think that also creates potential weaknesses and vulnerabilities as well right um you know like Amazon well actually Amazon's uh that's a good example right so Amazon banned um Muse yeah face Amazon banned meta muse from interactions on their site now cynically you could argue that Amazon did that to protect their business model because one of the things that Muse was doing was saving people a lot of money yeah but the flip side of that is do we want a world where like agents are free to go and do stuff on your behalf in your bank account and on services where you're paying for things like well from from Amazon's point of view I do I want them to be able to do this on my website because actually like with your bank account is your business in a sense but on my website and and and it's yeah I I do like I do think the majority of it is about a business model right if Amazon are going to do it Amazon want their own or they're you know they're a big part of anthropic they want anthropic's one you might find that duets which is the new anthropic one might have access to Amazon you know which is which is fine that's kind of normal but yeah yeah yeah yeah I I I I agree with you it's also like you know those companies have a responsibility for themselves as well to not have a million and one agents poking around and we come back to the thing we talked about before right about like we don't have control over agents yeah and they can you know okay so you could argue it both ways so what's the other argument the other argument is well you've gone and let an agent act on your behalf we've seen examples where they deleted everyone's emails could you have a an agent that could empty your bank account buying 300 of the same thing because they've flipped out and decided you needed it like yeah I can see that being a concern so you know I guess like on the other side of it like I don't I yeah genuinely like I think Amazon are probably just protecting their own business but but on the flip side of it will we see that one day probably and and and and when I say will we see that so there's already been exploits which have been patched I believe um I think Wes Rothman was talking about it on one of his videos the other day there was a there was an exploit that got Claude to basically output the details of your like passwords and API keys and bank accounts and things like that.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4164.56,
+      "endTime": 4215.04,
+      "text": "And there was so Anthropic had already like this was blocked by default but there was a way basically if you if Claude went to a certain website they could get it to click on URLs in a way that would spell out your details and so Claude the model didn't really know what it was doing but this is basically like prompt injection type attacks right and so oh I know I know exactly what you're talking about yes I think it was using shortened URLs. Using shortened URLs and it was like clicking on these URLs and it would spell out like your password for example and the people attackers again these are attacks on AI models now where someone had figured out a way to get Claude to divulge your personal information on the internet um by effectively um what's the what's the word like jailbreaking slash hacking the AI that was interacting with the website.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4215.28,
+      "endTime": 4271.28,
+      "text": "Now the version of that on something like Meta's what's the meta dots it's not dots open I use Muse yeah on MetaMuse the the equivalent of that is you land on a web page meta muse lands on a web page which basically reverse hacks Muse to go and take some weird action on your behalf and so I think we're gonna see more and more of this kind of stuff yeah I haven't got a MetaMuse because I live in China so I I haven't well I mean like even though I experimented with like Hermes agent like I don't want an agent like at the moment I don't want an agent I think like I've I said this I said this on a podcast maybe even a year ago it seems a bit this isn't it was when we talked about open claw I this is not an area where I want to be an early adopter because I don't think giving up control I don't think the benefits are worth the risk and I think we'll be in a world in not just in the future but like in six months to a year's time where there are loads of people who are in that position.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4271.44,
+      "endTime": 4360.08,
+      "text": "Oh where's because when someone is burned once right they're like oh it's a disgrace like why didn't anyone do and is like you you ticked a box to say you've got access to all of my stuff it's like you gave me access to your big the benefit to risk of this stuff at the moment fine like let it clear up your inbox put a put a task on to do that but once you start getting things to go shopping for them day trading for them at the same time as you as the same people that complain about oh these agents oh they're gonna kill us all it's like well but you but these are the same agents like this is the same technology like if you see these risks it's madness um I think let's add a like a a bit of a sort of China angle onto this because I I just I think these things always seem to like they come up as news stories as if they're kind of like Western news stories right and what when so so when when organizations are being talked about as in like uh they're the victims of sort of cyber attacks they always they're always like big West China hacking the West well that so this is what I was going to say because of the kind of China hacking stuff and like I know that stuff happens and has happened I think that's not the kind of yeah that's not something on this podcast that like I think is for us to go into we're not talking about kind of state sponsored stuff.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4360.24,
+      "endTime": 4436.4,
+      "text": "No. What we're talking about here is like I'm not these vulnerabilities anyway yeah but these vulnerabilities if they happen like the kind of things we're talking about now with AI they affect everything because we're not talking about like it allows a state to hack a state that that kind of stuff is going on in the background and like that will go on and that that's that's yeah whatever happens like they're gonna have the very very top frontier level tools at a state level is a completely different question. But these are things that are affecting absolutely everybody in the world if we're talking about like PHP I I don't know what proportion of Chinese websites China doesn't rely on the web websites in quite the same way because a lot of stuff is within ecosystems like weChat you know it it's kind of runs differently so I would say like this particular one is probably less of an issue for China but at the same time there will still be Chinese websites the government still use and if you look at government Chinese websites they look pretty old they're probably based on a pretty old technology so I would like to clarify and this is just my opinion but I would like to clarify the 70% thing because statistics always lie and so 70% of websites are built on PHP is not the same as 70% of the internet traffic is going over websites that are not on PHP.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4436.8,
+      "endTime": 4463.04,
+      "text": "We're talking about there's a million of websites and 70% of them have PHP in them but actually the three that everyone uses day to day don't have any of it. So if if if all you do every day is go on your HSBC bank for example and Facebook and Google then you probably don't need to worry about it at all. And so the 70% of websites are probably 70% of websites that are not representative of that anywhere near that level of traffic is my guess.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4463.36,
+      "endTime": 4582.8,
+      "text": "But I want it what what I want to talk about in this is like the West has this kind of the fear of um cybersecurity and like espionage and being used to hack into things actually China has like weirdly has like the opposite issue China has a fear of dependence so there's a Reuters article in in January this year about how Beijing told lots of firms in China to stop using the the kind of very very top frontier level security software because a lot of it is made by US and Israeli vendors. So like they have they could have fear yeah that the security software here is you know potentially creating an issue for them and the reason I think this is interesting is because if we're saying that the very very top models are US models at the very top frontier from a cyber security point of view that creates a real problem for China because if we're saying that the you can use mythos to patch all these issues right because it's slightly ahead of GLM 5.2 hacking them get where you're going China doesn't have the dependence like you know anthropic won't ship to China like I I I'm not even sure what my point is here other than there is there is a completely different angle on like China doesn't have the very very top end models so if you were gonna we often talk about how China doesn't need to be at the very forefront because actually it's better at applying it to its economy etc etc but here's a big risk by not having the top frontier models you're not able to patch these things and actually there are issues around sharing like there's nothing in place to say like the US government will you know I I I don't actually know who was doing the stuff in the background on the PHP thing but it feels like hopefully some governments were sharing that information with other governments so I don't know if they were sharing that with China.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4583.12,
+      "endTime": 4660.96,
+      "text": "So I think um if you want to listen to some cyber sex stuff I recommend Jack cyber sex cyber sex stuff yeah second cyber security stuff yeah yeah I recommend someone called Jack Rysider he does a podcast that just talks all about this stuff. It's called the Darknet Diaries and there's some fascinating stuff on there. Now it's well understood or it was in the past that effectively if a zero day model if I sorry if a zero day exploit is discovered in the wild shall we say by a hacker or by a um by a non-state entity then normally it ends up getting patched and getting you know put out in the open it's fairly well accepted that it's very likely that most governments CIA Chinese equivalents Russian equivalents whatever have a effectively have a catalogue of zero day exploits that they haven't done anything with yet but they're just there in the bank ready to go yeah and they're thing they're things like stucks net and things like that things that you don't hear about until they actually happen in the real world and I think that's the difference it clarifies the difference you're talking about.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4661.2,
+      "endTime": 4745.68,
+      "text": "Effectively the point being that like it's very it's very very very likely that cut that organizations like the CIA have a literal bank of zero day exploits that they've not told anybody about that they're holding on to for exactly those kind of purposes but also their Chinese counterparts nobody else has and um you know and and mythos probably I think that's your point right is that you know the CIA probably have a super special version of mythos that has generated some stuff and like okay so how far could you take this like right in my imagination in my imagination there's you know these top frontier models have got a relationship with the CIA um where where whenever the CIA through through the special model that the CIA have that's even better than the ones that even the banks and ever and even Mythos you know whenever they discover a zero day exploit what happens then do they go back to Anthropic and Anthropic agree to nerf it so the model never mentions it ever again you know I don't know like but but in the world probably eventually but but in that kind of world I would imagine that kind of thing is likely to be going on um which sounds a bit conspiratorial but like why wouldn't you take that advantage?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4746,
+      "endTime": 4827.2,
+      "text": "I found something actually on on this vulnerability reporting so in China anyone who finds the what's like a a vulnerability there there'll be a definition of what a vulnerability is I don't have it in front of me so I'm not sure like it's not obviously every issue with a website but like kind of major vulnerabilities the vendors must a zero day exploit type vendors must pass a vulnerability report to MIT that's the Ministry of Industry and Information Technology in China within 48 hours that's a rule that's been here since 2021 right so within 48 hours so there's two days that they don't have to report that in and once it's gone into government it's with government the US is apparently largely voluntary is it taken as seriously as wearing a helmet on your bike in Beijing or is it a bit more serious now um US largely voluntary EU Cyber Resilience act manufacturers must report vulnerabilities in within 24 hours that only came into play on the 11th of September this year early warning so incident reporting EU and UK 24 hour early warning system China in serious incidents one hour to report it to MIT for critical infrastructure four hours for anything else and then you know big fines for not having done this stuff.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4832.8,
+      "endTime": 4858.72,
+      "text": "Do I think any serious actor who's actually got ulterior motives is paying attention to any of that well no but no and also like this stuff is being disclosed when it's happened it's not it's not preventing it happening right not necessarily once something's down for like 30 seconds every all the data's gone it it kind of doesn't yeah kind of doesn't matter yeah I mean I it's all good stuff.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4858.8,
+      "endTime": 4888,
+      "text": "I'm trying not I shouldn't be cynical about it. It is all good stuff and it's really important and people do go away for a long time for not not following some of this sort of stuff. Or well not for necessarily not following this sort of stuff but for like hacking. Like hacking's been a serious crime for a very long time because it's serious business right so I'm I'm I'm just gonna put out so as like I hadn't I hadn't necessarily well I hadn't told you this at all so you you had no idea to kind of finish off.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4888.16,
+      "endTime": 4910.16,
+      "text": "I'm gonna put out some sort of flashpoints from this cyber security thing and I'm gonna get ask you to take a position and then I'll I'll kind of take the alternative position. So the PHP 2 shell incident so that's the the recent incident and the fact that it was kind of you know it was basically fixed proves that the Western model works.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4910.4,
+      "endTime": 4943.12,
+      "text": "So they found a decade old floor they fixed it with private actors okay it took them two months but all the rivals kind of cooperated together western agencies aligned basically once this had become public within a day so I would say number one that's been the case for about more than 10 years already so there are already websites I can't remember what they're called but like there are already websites where all of the vulnerabilities go live as soon as they're reported and then they're geared up around helping you to patch vulnerabilities.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4943.2,
+      "endTime": 4997.44,
+      "text": "So this stuff has existed for a very long time and before AI and that's just an example of that system working in my opinion the the 48 hour rule I said in China makes the world much less safe because it's 48 hours it routes all these things to the state before patches exist. So the the point in this this example we said before is like it went to you know it didn't just go to the state it went out to like the main vendors and it went out to the kind of people in industry who could fix it. But in China 48 hours to report it it goes to the state and then they decide what happens um the Atlantic council apparently argues that this feeds offensive teams yes yeah yeah yeah agree yeah um I mean it's the first time you've heard that China had the 48 hour rule so I'm putting you on the spot somewhat so I'm looking for um the reason I'm pausing is because I'm looking for examples.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4997.52,
+      "endTime": 5039.76,
+      "text": "So exploit DB this is the one that I used to use. So I did do a bit of like pen testing penetration testing stuff for a while like to learn um about it. And there's a website called exploit dash db.com and basically well I mean PHP2 shell unsurprisingly is number one on there at the moment um but this is literally a a database that's existed for a very very long time that contains these exploits I do the reason I bring it up is because I do agree with you the idea of reporting them to the state rather than reporting to them to these these kind of sites I mean bounty hunting on exploits has been a thing for a very very long time right so if you find a bounty if you find hacking all this kind of stuff.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5040,
+      "endTime": 5083.44,
+      "text": "Yeah so if you I think um Microsoft have bounties out and so if you find an exploit in Windows Windows 11 or whatever it is right now or an older version that's supported you can get quite a lot of money like $10,000 for some exploits off Microsoft and off all these companies. So these things have like existed for a very long time. I feel like the the point the counterpoint they're the counterpoint to your what you're making about the or they're they they agree with what you're saying about the China 48 hours thing is that like these bug bounty things I think they are effectively it's a reward for if you find something wrong with our site then you give us the exploit and we'll fix it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5084.48,
+      "endTime": 5092.24,
+      "text": "And I feel like that's a better model than you know just report it to the government within 24 hours or 48 hours whatever it was.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5092.4,
+      "endTime": 5173.68,
+      "text": "I agree interestingly I just found out that Wiz the organisation who found the PHP two shell incident is on China's band list. So they couldn't have reported it to China interestingly um maybe last ones uh restricting AI cy cyber models buys time so basically this is saying that this restricting the highest frontier models in the way that mythos and Astra or mythos certainly was Astra we think probably was it gives the best western cyber models time to give to vetted firms gives vendors a head start good thing or bad thing I don't know how I would say that's a bad thing but yes good thing like it's an example of it's I guess not good thing or bad thing does it actually work or does it mean well it doesn't matter because as soon as you know Frontier models are released or open weight models come out you know the the the attackers have got more uh more motivation to go and find a problem than the defenders have so I want to say it works but it's messy and the the whole regulation thing which like I do are governments ever really gonna catch up with AI and regulating AI I don't know because it's just so fast moving.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5174.48,
+      "endTime": 5182.56,
+      "text": "But this is an example of the industry regulating itself again where it's like yes it works but it's definitely messy.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5182.88,
+      "endTime": 5280.4,
+      "text": "Yeah I'd agree with that um okay we said we'd end up this episode by telling people what they should do so I'm gonna start off like uh I think honestly I think like we're now at the point where like reduce your reliance on the internet and by that I don't mean like people were trying to roll their eyes. I'm not saying stop using the internet. What I'm saying is and I said this a few months ago on an episode and we kind of had a joke about it but like what's gonna happen if the internet stops right or whatever website you use or your banking system stopped. I saw with this PHP thing you know the BBC interview some people and it's like it was terrible I tried to pay for my MOT and I had to wait four hours it's disgusting yeah but that this is the kind of thing that's gonna happen is like my question was like you know what things should you keep I saw Andy Burnham in the UK and and Sweden has obviously done this before telling people what they need to stock up on like have a stock at home and it's like it's not about prepping for the apocalypse because if the apocalypse comes you're just gonna die anyway this is about like things that are going to happen at some point the banking system goes down keep some cash you don't need to keep 10,000 pounds at home maybe keep 1000 maybe keep 500 quid you know it's it's about understanding like what if the internet doesn't work for three or four days like people think about like water what's water got to do with it well it's not your internet but you your water supply probably runs and relies on you know some form of online system that may well go down like your heating might go down it's like having stuff in place when I say don't rely The internet.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5280.64,
+      "endTime": 5302.32,
+      "text": "I'm not saying like go and find a bank that operates offline. What I'm saying is like understand that at some point, I would say in the next year or two, you're going to be affected in some way by some kind of cyber outage. So what are the things that you absolutely have to do for like a week that you couldn't do? And like have something in place for those things. That seems to me really sensible.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5302.8,
+      "endTime": 5345.6,
+      "text": "Okay, fine. But you're d you're talking about prepping. Yes, what it is, right? So so in terms of water, because water was something you mentioned there. Like you you started off with cash and then you went onto water. Like I feel like I've got enough calories in the house to last me quite a long time. If I had no water, I'd be pretty screwed. Yeah. Like because I've got enough water for a few days or whatever. Or a week maybe in terms of bottled water. So what is I mean what like genuinely what are you actually suggesting there? Because like are you seriously suggesting stocking up on water? Because water's like you can get bottled water and big things of water, but like that runs out pretty quick.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5346.16,
+      "endTime": 5348.16,
+      "text": "And then you and you don't like and you don't last very long without water.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5348.32,
+      "endTime": 5381.76,
+      "text": "To be honest, like the galleries is governments are telling people what they should stock up on, right? So it's not my job to tell people what to stock up on. Does that include water? Do I I yeah I I've got I mean I've got a home I've got water filtration tablets and I've got spare water, I've got loads of rice and I've got a bit of cash. Like those are the main things that I think I need. I've got loads of tin fish because I eat it anyway. I I think these are things that like like I said, I like I would base it on like if if the internet goes down, then what do you need to live for a few days?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5382,
+      "endTime": 5389.44,
+      "text": "Because I think that's how long it's probably gonna be. If it's going down for longer than that, then like it's a different world anyway. But for three or four days.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5391.6,
+      "endTime": 5393.12,
+      "text": "Because I think you're gonna talk about changing part.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5394.32,
+      "endTime": 5422.48,
+      "text": "So I know you're gonna talk about that, which is why I took a different approach for it. It's like what mine feels really lame though. What happens if the internet goes down or your payment app goes down for three days? I think it's five days or seven days. Like, interestingly, Sweden's central bank apparently tells everyone to have what it works out at $108 per person at home, which seems like not enough to me, but fine. Um and then you know, having things that you can like batteries, stuff like that, a torch.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5422.88,
+      "endTime": 5425.36,
+      "text": "But it's only based on your multiple like your few day things, right?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5425.76,
+      "endTime": 5447.76,
+      "text": "We also grew up though, mate. You know, I don't know now because I'm living in the UK for a while, but we we grew up like we had power outages where I lived every time it snowed in winter. So we always had candles and torches and like this kind of stuff like no no I'm not saying water on this, but like those things, I don't think people I don't think candles are essential survival equipment to be honest.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5447.92,
+      "endTime": 5451.04,
+      "text": "But like yeah, I know what you're saying. It's not okay, but this is not about skeletons.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5451.28,
+      "endTime": 5462.8,
+      "text": "This is not about survival, because I'm not saying in a cyber attack, I'm not saying you're you're like making sure in a three-day cyber attack that affects your payment system, I'm not saying you need to like worry about the things that are gonna keep you alive.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 5463.6,
+      "endTime": 5463.84,
+      "text": "Yeah, yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5464,
+      "endTime": 5475.04,
+      "text": "Like, yeah, yeah, of course you worry about those, but what I'm saying is like, okay, you don't need candles, but like uh at night if there's no electricity, you need a light. So like it seems like a reasonable thing to prep for that.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5475.36,
+      "endTime": 5478,
+      "text": "Well, you could just go to sleep like we used to find a day.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5478.48,
+      "endTime": 5484.4,
+      "text": "It's good for your circadian rhythm, so maybe that's it. Anyway, you you tell us what we should do for like what should we do to protect our customers?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5484.64,
+      "endTime": 5490.56,
+      "text": "No, the water the water thing's genuinely shot me because you're not really supposed to drink the tap water here, and like I hadn't really thought about it.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5490.72,
+      "endTime": 5502.48,
+      "text": "I think the UK now recommends you keep three three litres per person. So like if you're a family of three like nine litres. I think that's what it is. It's like three litres, three litres per person.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5505.84,
+      "endTime": 5544.88,
+      "text": "Uh so my very exciting um bombshell after that is that you should update your passwords, basically. Just update them or no, so so to be to be specific, like to be really specific, use 2FA for anything that's really important. So use two-factor authentication, whether that's receive a text message. It's basically you try and log into your account and it's like, is this definitely you? And it confirms that you're you a different way. Sends you a code on email, we need to. Face ID or whatever. Face ID passwords at any time you can print OTPs, all that kind of stuff. Um for anything that's super secure, if you haven't already got that on there, do that.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5545.28,
+      "endTime": 5562.48,
+      "text": "Uh for everything else, if you reuse your password all over the place, password manager's probably the best option. Um and don't reuse your password in lots of places where it's especially where it's really important and someone can steal your money. And should everyone expect to be affected by a cyber hack within the next 12 months?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5565.52,
+      "endTime": 5567.68,
+      "text": "I don't know, it depends on which c like I mean.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5569.84,
+      "endTime": 5570.96,
+      "text": "Should they expect to?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5571.76,
+      "endTime": 5579.6,
+      "text": "Yeah, I think so. Okay. I think so. So get nine litres of water. Within the next 12 months, yeah. Yeah, I'm gonna stock up on water.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5579.84,
+      "endTime": 5587.12,
+      "text": "And some cash. Although m it might be that no one accepts the cash because they don't have a facility to do it. But yeah, I know what you mean.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5587.44,
+      "endTime": 5588.56,
+      "text": "Have a form of barter.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5589.36,
+      "endTime": 5616.64,
+      "text": "There are some laws, I'm not we haven't got time to go into this, but there's some laws being brought in in countries like saying that cash has to be accepted and and this is one of the driving forces behind it. Oh in fact, I found it. Um nearly 90% of people in China are accepting cash. The state mandates a fallback on the seller. So they mandate that the seller needs to accept cash in case there is not cash, in case the electronic payments are not available. But who knows where they can enforce it.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5617.36,
+      "endTime": 5627.84,
+      "text": "I feel like in the situation where this happens, then it then the seller's gonna be like, yeah, yeah, I'll accept that. No, no, I'll take it, yeah. No, you can come back when WeChat's working again.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5628.32,
+      "endTime": 5638.24,
+      "text": "I'll take that watch. At that point we're back to bartering. Yeah. Alright, it's been epic. Um, and we promise that future episodes will be a little bit less geeky.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5640.88,
+      "endTime": 5645.04,
+      "text": "It's just that first bit, it was quite heavy. Alright, have a good week. Cheers.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 5645.68,
+      "endTime": 5653.52,
+      "text": "Alright, you nervous people! Make a little room The floor's about to follow the complete",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 5670.48,
+      "endTime": 5718.8,
+      "text": "Don't I don't pass the server rack, my metal eating PHP Summer Packs from Mouth 4 just opened up the company The help desk says we're looking, the press release says contain While your past work takes the two steps down a drain Don't stop don't ask to let the old go through twenty pocket past the plan and the quarterly review feeling all the whole towns taking sides, capitalists who's throwing out more socialism, stuck in the wise, call it left, call it right, call it whatever still the colours got a campaign having the fucking footy.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 5725.36,
+      "endTime": 5737.84,
+      "text": "They might think full employment if we'll let them through the door, stole the numbers, wearing that tie and the robots without the side while the fuckers stand for this day on the stack and grab some of the",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 5743.04,
+      "endTime": 5743.2,
+      "text": "core.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 5765.04,
+      "endTime": 5789.6,
+      "text": "Comment sections, mad at it. Can't you blame the top guys? Keep improving on the slide, replacing everybody quiet like before November Rose by Take Bow. Make sure comment in the view just the baby, just the camera, stay the slogan they wrote for you. Stay the hand, promise jobs, thing go count the donors, both of us. That's the fancy little focus and the virus.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 5837.92,
+      "endTime": 5844,
+      "text": "And today it's all yeah, we'll be dancing with the machines by November. It's all ghost",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 5848.48,
+      "endTime": 5848.8,
+      "text": "like that.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 5859.04,
+      "endTime": 5861.04,
+      "text": "Find your jobs at the colour.",
+      "chapterIndex": 12
+    }
+  ]
+}

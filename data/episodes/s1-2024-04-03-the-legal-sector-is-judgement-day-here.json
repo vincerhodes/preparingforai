@@ -1,0 +1,1003 @@
+{
+  "slug": "s1-2024-04-03-the-legal-sector-is-judgement-day-here",
+  "buzzsproutId": "14817471",
+  "title": "The Legal Sector: Is Judgement day here?",
+  "date": "2024-04-03T23:00:00.000Z",
+  "season": 1,
+  "durationSec": 3718,
+  "format": "guest",
+  "era": "early",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/14817471-the-legal-sector-is-judgement-day-here.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Discover what happens when the unstoppable force of AI collides with the immovable object of the legal profession. Is it a game-changer for veteran attorneys yet a potential pink slip for junior staff? We delve into the legal industry's seismic transformation, showcasing how AI-powered tools like ROSS Intelligence and Case Text are revolutionizing workflows, while keeping a keen eye on the human touch—jury persuasion, strategic decisions, and client connections—that technology can't replace. In the second half of today's episode we welcome Kelly Inga, for a view from inside the industry. And for those working in the legal sector make sure to hang on to the very end of the podcast for a bang up to date list of new AI tools specifically designed for the legal sector. Finessing AI tools, a skill becoming as critical as the gavel in a courtroom. Our conversation traverses through the nitty-gritty of crafting effective AI prompts, sharing insights that are essential not just for legal eagles but professionals in any field. We then pivot to imagine a future where lawyers might wield AI as their co-counsel during live trials, and we highlight the egalitarian impact of AI on legal access, empowering David to take on Goliath in ways like never before. In an industry predicated on precision, we confront the specter of 'machine hallucination'—AI's propensity for inaccuracies that could undermine the very foundations of legal trust. The episode contemplates the ripple effects of such errors and the complex dance between embracing AI and safeguarding the sanctity of legal advice. As we unpack these themes, we're not just speculating—we're prepping for a future that's knocking on the courthouse door, ready to redefine the essence of legal practice and the shape of legal careers. Clickable links from the show: A Moral Backlash will probably slow down AGI (Geoffrey Miller) How AI will revolutionise the practice of Law (Brookings.edu) Generative AI and the Law (LexisNexis) The AI Divide (Outro song. Suno, Jimmy Rhodes, Matt Cartwright)",
+  "summary": "The legal episode pits augmentation against elimination: Goldman Sachs estimates 44% of legal tasks can be automated, and tools like CoCounsel and Harvey are already doing research and discovery in minutes, but hallucinated citations (the $5,000 Levidow sanction) show why humans must sign off. Guest Kelly Inga describes in-house teams building 'legal operations' functions around AI — and one employer planning to replace commercial contract lawyers with playbook software — while both hosts see AI regulation itself as the sector's growth opportunity.",
+  "keyTalkingPoints": [
+    "Goldman Sachs 2023: generative AI could automate up to 44% of legal tasks — partners gain productivity, juniors and paralegals face elimination",
+    "Tools: CoCounsel (CaseText), Westlaw Precision, Harvey, Robin AI and more; discovery that took weeks now takes minutes with expert prompting",
+    "Hallucination stakes: Levidow, Levidow & Oberman fined $5,000 after ChatGPT invented six cases; obscure domains (Connecticut land use) are worst",
+    "Kelly Inga: a legal operations team builds parameters so low-risk contracts generate automatically — but sophisticated clients keep humans essential",
+    "One employer's plan: replace commercial lawyers with playbook software, escalating to humans only when the playbook fails",
+    "Access to justice upside: one-click 1,000-word robocaller lawsuits; AI regulation, privacy and cybersecurity law flagged as growth areas"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Binned his ChatGPT subscription for Claude — more genuine conversations and fewer guardrails",
+      "Junior and paralegal roles are the ones that disappear; those already in the profession have a leg up",
+      "There will always be a human in the loop in law — AI biases are a hidden black box unlike visible human biases, so no AI judges",
+      "Of all professions covered, law is one where AI will create as much work as it eliminates"
+    ],
+    "matt": [
+      "Opened with copium (Brookings: AI cannot woo a jury) but the 44% tasks figure frames a sector split unevenly between winners and casualties",
+      "The 'someone to blame' principle keeps a human at the end of every AI workflow — but that human is signing off, not doing the work",
+      "Real-time trial-transcript AI feeding attorneys questions mid-testimony is a fascinating near-term use case",
+      "AI regulation is a call to action: lawyers must help write binding rules — a genuine bright spot for the profession"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-04-03-the-legal-sector-is-judgement-day-here-1285.881-there-will-always-be-a-human-in-the-loop-in-law-",
+    "s1-2024-04-03-the-legal-sector-is-judgement-day-here-1097.361-junior-lawyer-and-paralegal-positions-may-no-lon",
+    "s1-2024-04-03-the-legal-sector-is-judgement-day-here-2556.228-the-legal-ai-risk-timeline-is-one-or-two-years-p",
+    "s1-2024-04-03-the-legal-sector-is-judgement-day-here-2147.521-ai-will-create-a-lot-of-legal-work-as-well-as-el"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Kelly Inga",
+    "Speaker 5"
+  ],
+  "chapterCount": 8,
+  "turnCount": 131,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "AI and the legal sector",
+      "startTime": 220
+    },
+    {
+      "title": "AI's potential to improving access to legal services",
+      "startTime": 931
+    },
+    {
+      "title": "The backlash",
+      "startTime": 1098
+    },
+    {
+      "title": "How to adapt, embrace and get ahead",
+      "startTime": 1880
+    },
+    {
+      "title": "Guest interview: Kelly Inga",
+      "startTime": 2188
+    },
+    {
+      "title": "The AI Divide (outro track)",
+      "startTime": 3478
+    },
+    {
+      "title": "Legal sector specific AI tools (for legal professionals)",
+      "startTime": 3556
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.027,
+      "endTime": 28.72,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human and social impacts of AI making it our mission to help you prepare for the human social impacts of AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 30.4,
+      "endTime": 44.906,
+      "text": "Welcome back to the Preparing for AI podcast. A bit of a switcheroonie this week. This is Jimmy introducing the podcast. This week we're going to be talking about law and the potential impact on the law industry. I'm going to hand over to Matt to do a bit of a brief introduction into sort of the kinds of roles that will be impacted in the sector.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 52.38,
+      "endTime": 81.987,
+      "text": "So I'm going to start off this week with a quote from brookingsedu, from an article titled how AI Will Revolutionize the Practice of Law. So here's the quote. So even with widespread adoption of AI, attorneys will still be vitally important. Ai can't make a convincing presentation to a jury. The technology can't fully weigh the factors that go into many strategic decisions, large and small, that get made over the course of any litigation matter. It can't replace the human element of relationships with clients, and a computer can't play a leadership role in motivating a team of attorneys to produce their best work.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 82.851,
+      "endTime": 117.661,
+      "text": "In short, it would be a mistake to use the extraordinary advantages of AI to minimize the importance of human element in the practice of law. But it would be just as big a mistake to dismiss the role of AI, which will fundamentally reshape the landscape for both providers and users of law services. So we start this week, and unusually for me, with something reassuring, a bit of copium, if you like. But of course, any law firm that fails to capitalize on the power of AI will be unable to remain cost competitive because they're likely to lose clients and undermine their ability to attract and retain talent.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 118.362,
+      "endTime": 164.281,
+      "text": "And I want to give a quote from a Goldman Sachs report in 2023, which estimated that generative AI could automate up to 44% of legal tasks. Now, that's not legal roles, that's about tasks. But that suggests a huge impact on this sector, and automation could extend beyond, you know, purely admin tasks and affect a broad range of legal work. So we thought this was a really great industry to look at, because it's somewhere that AI is really going to need people skills to complement it at the moment. So, you know, there is that augmentation that we kind of hear being talked about, but it's also a great example of where some roles will be far more impacted than others.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 164.862,
+      "endTime": 207.443,
+      "text": "So, you know, perhaps if you're a judge or a senior solicitor or a partner, you might not be impacted in terms of your job. In fact, you may well find that the impact is massively positive in terms of the use of your time, the way that you're able to automate the tasks that previously would have taken a long time. You're able to make them much quicker. But if you're a junior, a paralegal or, you know, in certain secretarial roles, the potential impact here is absolutely huge. So this is a sector where we think it's not spread evenly. It could be a real productivity gain for some people, but for others, you know, this is really going to be somewhere that we are going to see roles we think start to be lost pretty quickly.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 208.124,
+      "endTime": 219.153,
+      "text": "So, jimmy, do you have anything in terms of specifics to law or just developments from the last week or so that you think we should let our listeners know?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 220.841,
+      "endTime": 262.712,
+      "text": "I don't think there's anything been specific to law in the last week, but in terms of what I've been doing, I've binned off my ChatGPT subscription and decided to subscribe to Claude instead, because I seem to be having much more genuine conversations with it. So Claude3, if anyone doesn't know, is the latest model from Anthropic Claude3. Opus is the paid model which, which I think it costs about 20 a month which they, which they all do right now. Um, yeah, and I've subscribed to that because, like it's just, I find it much more genuine. It's like it's willing to answer more questions, it's willing to be sort of open with more conversations, whereas chat gpt seems to have more guardrails in place.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 262.792,
+      "endTime": 275.426,
+      "text": "So, um, I'm having quite a lot of fun with that yeah, I've not used claude yet because I I ended up paying for gemini and uh and chat gpt. But uh, I'm gonna drop gemini, so maybe I'll.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 275.667,
+      "endTime": 336.702,
+      "text": "Maybe I'll pick up claude yeah, like I say, I'm kind of chopping and changing at the moment, and maybe when gpt5 out I'll jump ship again, but let's see. In terms of the specifics around law, though, I think there's already tools that impact in the law industry. So I've got a couple of examples of tools here, such as ROS Intelligence and Case Text, which they're used to sort of quickly scan through legal databases and very quickly do things like discovery and match up to previous case law. So there are a bunch of tools, and I'm not sure AI is the right term for these kind of tools, but the domain that we're talking about in the future in terms of what's going to affect law is clearly large language models, and Clawed is worth a mention there because it has a huge context window, so you could potentially feed all of your discovery into it, like all of your, all of your case into it of course, don't put all your documents into the public model, though.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 337.203,
+      "endTime": 340.431,
+      "text": "Well, no, maybe get an enterprise model before you do it of course.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 340.491,
+      "endTime": 365.376,
+      "text": "yeah, there's enterprise versions that you can use, um, you know, so you're not exposing yourself or your clients. But yes, there's already models out there that have huge context windows now so you could potentially feed all of the text, all the discovery text, into it and actually get that summarized very quickly, find relevant pieces of case law very quickly, that kind of thing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 367.181,
+      "endTime": 404.993,
+      "text": "I mean I looked at similar case texts Co-Counsel, which is the one you mentioned. That was one of the main sort of tools that I came across, and another one was called Westlaw Precision Regenerative AI by Thomson Reuters, which is another integrative sort of generative AI tool to enhance legal research. So this is one where users input questions in natural language and receive responsive links to the kind of sources which is more based around, you know, legal research makes that much more efficient and accurate. So you know, I guess in terms of jobs, we can see quite clearly who that would affect.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 406.001,
+      "endTime": 447.468,
+      "text": "And you talked about the sort of integration with LLMs. I mean, when I looked at this, the main thing that came out was actually chat GPT, but not being used as a standalone, but in terms of how it was being integrated with, you know, legal tech tools. The key finding that certainly we've made when we've researched this is that there are tools out there, there are more being developed and that they all seem to be, or all the kind of useful stuff is is based on integrating a large language model or creating, you know, a more specific, and this is something we talked about a couple of weeks ago in terms of how you make it more focused.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 448.33,
+      "endTime": 459.369,
+      "text": "The more focused you make your prompting, the better the response you're going to get. So you know really good examples that are already out there. I think there are probably a lot more, but these seem to be the the two main ones.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 459.389,
+      "endTime": 494.285,
+      "text": "So co-counsel kind of seems to come up everywhere when you research this yeah, these, these models definitely need fine tuning for for specific, especially for law, like it's a very specific. Um, it's very specific, it's very it depends on which country you're in. Like, there's there's a, there's a absolute ton of dependencies, but clearly there's applications for large language models. Um, I mean just to give a slightly this is an example that maybe people have heard of, but there was a slightly comical example involving gpt last year where um we spoke about hallucinations on previous episodes, so there was an example where a?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 494.987,
+      "endTime": 524.632,
+      "text": "Um, a legal team, actually used chat gpt and it made up six fictitious case citations. Um, so last june I can't believe they weren't just sacked on the spot, but the, the, the law firm leverdow, leverdow and oberman were ordered to pay a 5 000 fine because uh, yeah, because basically they use chat gpt to do their, to write their notes for them, to write their brief for them and, uh, it just made up six pieces of case law that didn't exist. So there's maybe a ways to go yet.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 529.92,
+      "endTime": 566.283,
+      "text": "You mentioned actually in one of our early episodes about discovery, and obviously you know, for a lot of people in this sector that is one of the most time consuming. Tasks in sort of litigation could take weeks and months to do, and one of the examples that comes out is how LLMs can literally do that in minutes or even seconds. But I wonder, if you know, I think, like some examples we've given before, it's probably still a case of you need an expert to put in the parameters and the prompts at the beginning. You need someone to apply the finishing touches at the end, need someone to apply the finishing touches at the end.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 566.303,
+      "endTime": 588.369,
+      "text": "It's we're not yet at a point, and maybe some of these specific tools are, but where you know, discovery could be completely completed. So I think at the moment we're we're still like in many other sectors, we're making efficiency gains, we're taking out, you know, big kind of chunks of administrative work, but there would still be an area where we, you know we need someone to polish, uh and tweak the kind of final submissions yeah, absolutely.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 588.55,
+      "endTime": 624.47,
+      "text": "I mean, I'm not sure that I'll ever change to an extent, because a large language model is is just trained on everything, and so if you, if you're, if you're not specific with what you ask of it like that. We mentioned this before on a previous podcast, but I've seen people being like you had. I've seen people I've spoken to people who've had a go with chat gpt and been really unimpressed by it, and you see examples of this on the internet and quite often what they've done is they've given a really really vague prompt and so it gives a really really vague answer, because you know that's the same as any human would do like it's it's, you need it's garbage in, garbage out.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 624.49,
+      "endTime": 627.097,
+      "text": "That's what I'm trying to say. So I think that will always be the case.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 627.137,
+      "endTime": 668.49,
+      "text": "You either need a fine-tuned model or you need to give really good prompts, or you need to give a really good description of what you're looking for maybe in the short term, then, um, sort of prompt engineering and and being able to know how to manipulate and work with a large language model is probably something that's still very useful in this area Because, you know, we again we talked about this a couple of weeks ago but giving a sort of personality, so telling the large language model to you are a legal researcher, and giving them that much, giving them that information, allows them to you know, think in a certain way and to look at information in a certain way.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 668.51,
+      "endTime": 679.752,
+      "text": "So maybe, um, and I may be jumping ahead in terms of the podcast here, but maybe that's still something that, if we've got people in the sector who are worried and thinking what can I do, is you learn how to prompt?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 680.722,
+      "endTime": 706.413,
+      "text": "oh, massively, I think, I think. I mean, we say this in a lot of our episodes, but I think one of the things that anyone can do right now if they haven't already is is actually have a go with some of these tools and, and you know, try them out. Basically, and exactly that like learn how to prompt them, learn how to talk to them. I mean it is just like talking to a person, but I guess it feels a bit weird at first because you're speaking to a computer or a machine, but effectively, that's how it works.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 707.122,
+      "endTime": 739.801,
+      "text": "I think we say try them out, and I'm conscious that we say this a lot as a piece of advice is just go and try things out, and it is not particularly helpful. You know, go and try it out, Go and do what. That's where I think you know learning how to prompt, and you've given references to you know their own website prompt and you've given references to you know their own website. So openai clawed as well. I'm pretty sure anthropic had some information. There's a yeah, I did a a course from on corsair from vanderbilt, which is a prompt engineering course. Yeah, which takes a bit longer, but all of that stuff.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 740.643,
+      "endTime": 777.285,
+      "text": "It's not difficult to learn how to prompt but but it makes things much, much easier because as you start to understand how the model works and you start to understand that you can either give it a load of information or you can give it a small amount of really key information, like telling it to take on a persona, or like defining the way in which you want it to quote your information back, or even asking it to tell me a better way to give you this prompt. I mean a really. I think a really useful thing is you're asking a similar question and saying I want to ask you this question, tell me a better way to ask this question, and and you know, the large language model can help you learn how to prompt it exactly.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 777.386,
+      "endTime": 819.337,
+      "text": "I mean, as you've been talking, I've just typed that very thing into claude. So, um, I've just typed in how do you prompt an AI and give me some bullet points, and that's exactly what it says. It says be clear and specific, provide necessary context and background information, break it into smaller, manageable steps, use simple, concise language, provide examples or to illustrate your expectations, set specific parameters, and it goes on. I mean, the first thing I would recommend doing is, if you haven't ever used a large language model before, ever, go to ChatGPT, claude, google, gemini there's loads of them available and ask it how to talk to it, because it will tell you and I think you'll be pretty amazed by the results",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 825.02,
+      "endTime": 828.59,
+      "text": "of in line with the singularity we talked about, where eventually you don't need to train because we end up being trained by the ai.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 828.61,
+      "endTime": 834.089,
+      "text": "To tell the ai what to do, and then, at what point are we really telling it now, or is the ai telling us what to tell it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 834.772,
+      "endTime": 850.203,
+      "text": "yeah, there's already been discussion around this. It's kind of policy makers are potentially using ai to write policy and then on, and then they're sending a massive policy document and then on the other end someone's saying okay, can you summarize this into bullet points for me? And it gets summarized back into bullet points.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 850.403,
+      "endTime": 885.628,
+      "text": "It's kind of kind of the way of the world already and it's definitely the way the world's going to be in the future I had another really, I think, really good example and I'm not sure you know I don't have a specific tool that could do this, but another example that I've found of how sort of AI could be used in legal sector is during a trial, using it to analyze the trial transcript in real time and then provide input to sort of attorneys so they can, you know, help choose questions in real time to ask witnesses. I thought that was a really interesting use. I mean, I guess that will depend on how regulation works and what you're able to do.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 885.82,
+      "endTime": 893.756,
+      "text": "I'm not sure how people in the sector would feel about it. Maybe for some people it's a great boost, maybe for others this would be a big concern.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 894.259,
+      "endTime": 899.934,
+      "text": "Yeah, what are we talking about here? We're talking about an attorney with an earpiece in with chat GPT talking.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 899.974,
+      "endTime": 900.395,
+      "text": "That's how I see it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 900.415,
+      "endTime": 905.169,
+      "text": "Yeah, or their ear basically that's how I see it, yeah. Or their ear basically yeah, that's I mean, you know.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 905.46,
+      "endTime": 912.105,
+      "text": "And then they've both got an AI and I guess it depends on you know whether your solicitor's got a better AI than the other person.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 912.8,
+      "endTime": 922.363,
+      "text": "Yeah, or better at prompting, I don't know. I mean, at that point you're not using a robot as an attorney, but like, effectively, you've got a person who's parroting a machine.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 932.093,
+      "endTime": 935.677,
+      "text": "One other way that I think there's a sort of positive in here and it's not necessarily,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 939.18,
+      "endTime": 972.684,
+      "text": "it doesn't necessarily apply to people in the sector so much as members of the public. But positive aspect for citizens is you know, one of the issues with law is and if you take somewhere like the us, for example, you know it costs an insane amount of money to to use a lawyer for you know one hour, let alone for for a whole case. Again from uh, from this brookingsedu website, I saw an example about ai making it much less costly for for people to initiate and pursue litigation. So the example it gave was how it was now already possible with one click to automatically generate a 1000 word lawsuit against robocallers.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 973.967,
+      "endTime": 984.93,
+      "text": "So that seems like to me a really good thing is that you know empowering people you think of small claims courts and things like that to be able to bring cases people who otherwise would not be able to do that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 990.22,
+      "endTime": 996.893,
+      "text": "We know that things like legal aid have been cut across the world in the last few years. You know empowering people to be able to use the law seems like a positive aspect.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1004.68,
+      "endTime": 1027.914,
+      "text": "Yeah, absolutely, I think. I mean there's definitely loads of positive aspects to LLMs and AI, and that's one of them. You know I was thinking. I was actually thinking of one myself. Maybe I shouldn't give it away, but along similar lines. You know, like taking people to small claims court, for example, is quite effective in parts of the world, and I'm pretty sure AI if you wanted to take someone to small claims court, you could just use AI to knock out your claim.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1028.56,
+      "endTime": 1031.229,
+      "text": "And we'll probably make the decision on those kind of small claims.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1032.26,
+      "endTime": 1033.968,
+      "text": "Yeah, yeah, in the future, Absolutely.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1034.54,
+      "endTime": 1075.58,
+      "text": "So we're going to do this week. We're doing a slightly different format, so this will be the first week actually that we have a guest on the podcast. So in the second part, today we're going to be talking with somebody from who works in the law sector and to kind of get their views on what they're seeing, the things that they're worried about and the kind of changes that they're seeing take shape. So maybe that is a time that we'll kind of ask some questions around that and how they think it might impact the ability of those kind of small, because the way I can see it is, it helps you bring those small claims, but it probably also makes those decisions, maybe with a you know a judge rubber stamping it, because some of those simpler to make decisions.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1075.821,
+      "endTime": 1079.151,
+      "text": "That's kind of where this is probably headed, I would imagine.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1079.82,
+      "endTime": 1087.554,
+      "text": "Yeah, yeah, exactly, exactly, and obviously it's great that we're going to get a guest on this week and it'll be really interesting to hear from sort of an expert in the field.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1097.361,
+      "endTime": 1132.045,
+      "text": "One of the things that we obviously talk about each week is the backlash potentially and what people can do to prepare. So shall we? I can kick that off, but we can talk about that a little bit. So I think, same as previous weeks, obviously the backlash potentially is going to be. You know, this could lead to significant job losses, and you've got people going through university right now who are studying uh law, and so what should they do? You know you've got this just around the corner. You know, are the junior positions actually going to be available anymore? Are your paralegal kind of positions actually going to be available in the future?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1132.506,
+      "endTime": 1166.664,
+      "text": "So, you know, in terms of preparation for that, I think law feels like a field where there's always going to be a human element. There's always going to be a human in the loop, as we talked about earlier on. You're probably not going to have a robot at trial. You're going to have a human, even if they're assisted by AI. So I think it's about familiarizing yourself with these tools early, as we talked about before. I think it's, like you know, developing potentially specialized skills, looking at specialist areas that require human judgment, creativity, complex negotiations, trial advocacy, that kind of thing, because that's where there's going to be a future in the industry.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1166.964,
+      "endTime": 1200.982,
+      "text": "Also, anything that involves client relationships, which a lot of law does, anything that requires empathy it's always going to have a human in the loop. So I think those are some of the things you can kind of think about focusing on. I also think that, actually, in terms of the backlash in a legal perspective, there's probably going to be quite a lot in law, because you know, ultimately it's a relatively slow moving system. What, how are you going to have? You know who's going to be responsible if ai's are making decisions. So I think there's probably going to be quite a lot of regulatory challenges which might slow some of this down.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1201.484,
+      "endTime": 1207.064,
+      "text": "So I'm not sure that it's all. I'm not sure that the impact is a short-term thing. It's probably more in the medium term.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1207.766,
+      "endTime": 1248.473,
+      "text": "And when we talk about backlash, there's also. There are really two sort of sides of backlash, aren't there? I mean, there's the backlash from the people within that industry who don't want to lose their jobs. There's also the backlash from society, you know, and whether or not you're willing to accept a robot or an AI who may actually be better and fairer at making a decision. But we know that there are biases in there at the moment. I mean, there are biases in people, right, but we know there are biases in the system. It does feel like I'm not sure whether society or governments maybe some societies won't have a choice, but certainly where you're able to vote in a government, whether you would be willing to accept that level.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1248.82,
+      "endTime": 1271.202,
+      "text": "And that's where it comes back to this idea of you know, if it's a small claim, if it's helping you to write something, if it's researching, there's a difference between that and going into a court and then not being a judge. You know, sat at the table at the top there's just a computer. It feels like that. The backlash is, like I say, the backlash is not just about people working there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1271.503,
+      "endTime": 1281.574,
+      "text": "The backlash is about what people will accept yeah, I, I, I actually think with that, I think that's a step too far and I think we're really far away from that the problem with the problem.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1281.614,
+      "endTime": 1285.66,
+      "text": "What's far away? Because far away is five years 10 years.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1285.881,
+      "endTime": 1331.361,
+      "text": "My view is in terms of judges and law, I think, and I could be completely wrong, but as much as I'm an advocate for AI, I think that there'll always be a human in the loop, because for all our biases, you can see our biases. Our biases are on the surface and so they're known biases. I feel like with AI, unless something changes, you don't actually know what the biases of AI are. It's really hard to figure out. They're like a black box. You know it's been. I think it has been demonstrated that chat GPT is kind of left-leaning because it's been pushed in that direction. And I think in a world where you're training AIs on everything that's on the internet, like, and you don't actually know what it's leaning is, it's it's unless that changes, I don't see this.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1331.502,
+      "endTime": 1343.091,
+      "text": "I don't see this happening. I don't see you having ai judges or you know ai's making decisions on these kind of cases, maybe on like really basic stuff where it's just you know, uh, you know parking ticket type stuff, yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1343.131,
+      "endTime": 1423.404,
+      "text": "But did they do it? Yes, and it's a binary. You can just look at a piece of information or they can look at a camera and see it happening. Yeah, there's a really I think it's a really great essay, which was written actually in May of last year for a competition. But there was an essay written by someone called Jeffrey Miller. I know nothing about this person. It was on a website called greaterwrongcom, which is a lot of the stuff on there is about AI and it tends to take quite a doom of view and talk about alignment stuff. It's a really interesting website, but the article was titled A Moral Backlash Against AI Will Probably Slow Down AGI Development, and I thought it was really interesting because one of the key points that he writes about is that once industries like law, where people are highly educated, politically engaged, prone to adapting new kind of moral stigmas on social media and are pretty well paid and have assets and can maybe afford to take some time off to fight against and rally against AI development, that this is where an anti-AI movement is likely to start, rather than, for example, you know, factory jobs being removed, because, although these are kind of not unionized and he's talking here about non-violent protests and backlash, so you know, kind of cultural, social, political, economical movement.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1423.671,
+      "endTime": 1459.52,
+      "text": "I thought this was really interesting because you you kind of think of a backlash as being a big, you know a sort of protest or unions, but actually these are industries where and okay, we've said, the people at the very top won't be the ones losing their jobs, but these are people who are politically engaged, these are the people who, you know, it's a lot of people from law who go into politics or work in local politics or are involved in that. Um, when they start to see their industry affected, is this where some of that, like I say, a more measured, a more kind of planned backlash could come from, because they have the power to be able to influence yeah, and regulate as well.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1459.56,
+      "endTime": 1486.301,
+      "text": "I mean, like the, you know the law profession is obviously going to be involved with some of the regulations around ai and some of the you know the law profession is obviously going to be involved with some of the regulations around AI and some of the you know some of the cases that are bound to happen in the future. We've already got examples of cases around copyright and around trademarking that kind of thing that are already going through the courts with AI. So, absolutely, I think this is potentially one of the areas where it starts to get more exposure.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1487.971,
+      "endTime": 1530.745,
+      "text": "And you talked in the first section about hallucinations, and it's something that comes up when you look through some of the kind of industry-based articles and websites. So there's one called LexisNexis I am not from the law sector so I don't know if this is a reputable source or not. They seem to be a US-based law journal and there's an article talking about the implementation of AI and it talks a lot about the risks of machine hallucination which I guess not just risks in terms of cases but in terms of, you know, a big kind of case where there was a hallucination would risk the integrity of your firm or the integrity of the whole concept of using AI.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1531.73,
+      "endTime": 1574,
+      "text": "So you know it is going to need these specialized AI tools which are tailored to legal applications and you know, I guess, the more obscure the topic. So in this example, in this text the example was Connecticut's land use statutes they use an example where ChatGPT was hallucinating because, you know, the information in there was obscure. So it's not just about it kind of being a wide, broad question around hallucinations, but also asking about a kind of obscure concept where maybe there's not that much information out there. You know, maybe ChatGPT or Gemini or whichever has not been trained particularly well on Connecticut's land use statute so it starts to hallucinate because it doesn't know what to say.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1574.73,
+      "endTime": 1625.152,
+      "text": "Yeah, I mean, I don't know if that information's even online in some cases. Most stuff is online nowadays, but there must be archives of law information that's just in, that's in libraries, like archives of of cases and case law. But to talk about sorry, to talk about hallucinations, a little bit more like I don't know if that's something that's going to get ironed out of the system with these large language models, I feel like, given what they're designed to do, which is, you know they can they can provide fiction or fact, they can do both then I don't think it will. It feels like it feels like it's kind of built into the system that it's got the freedom to be creative and therefore pinning it down to say, you know, it's always got to be fact-based is is difficult, some of the newer models so.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1625.192,
+      "endTime": 1646.123,
+      "text": "So gemini is actually a good example, although I don't use it and don't like it very much. One of the things it does do is quite often provide sources and provides links to sources. So, in terms of what we were talking about earlier on which large, which models to use, they do all have pros and cons, and I think one of gemini's pros at the moment, from what I've seen, is that it provides links to its information.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1647.07,
+      "endTime": 1666.684,
+      "text": "Isn't it more likely, coming back to the kind of singularity concept as we see more kind of the vicious kind of circle of AI feeding information in? Does that not potentially mean we see more and more hallucinations? Because actually you know, every time an AI hallucinates, does that data not then go into the training data?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1667.35,
+      "endTime": 1704.62,
+      "text": "Yeah, I mean, one of the things that's really weird with these LLMs is like, if they do hallucinate, quite often you can just say to it are you sure that's correct? And it'll correct itself. It'll realize that it's made a mistake, or it's actually just giving you some duff information, basically, or it's actually just giving you some duff information, basically. So it's kind of a weird feature of them is that sometimes they just give out information and then when you feed it back to them and say, is this correct? They'll be like no. In terms of to be honest, it's beyond my area of expertise in terms of so to elaborate on what you're talking about, the next generation of large language models the first generation, effectively, were trained on all the information that was out there,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1707.71,
+      "endTime": 1716.662,
+      "text": "like everything, everything on the internet, like videos as well speech, loads of different loads, like all sources of information you could think of that were freely available, effectively, on the internet and there is, we should add.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1716.682,
+      "endTime": 1743.379,
+      "text": "There is other stuff that wasn't on the internet. So there was also stuff that either publicly available or that they were able to get hold of. So I don't know quite how it works. But you know books, journals, for example, that were not on the internet I'm not sure how how that worked I guess stored on kind of maybe intranets somewhere. I presume it was digital copies. I presume they were not scanning in physical books, but I know there is. There is also other information, isn't there apart from the internet? So it's broader than that it's broader than that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1743.499,
+      "endTime": 1781.08,
+      "text": "I mean, I guess the way to think about it is they scanned in as much information as they could find, basically everything they could get their hands on. They've pretty much exhausted that with the first generation and so and so the. The training was in done in two parts, so they trained it on all that information and then what they would do is have a. They actually had a team of workers who basically were. Their job was to put prompts into the original version of ChatGPT, in this case I'm talking about. Their original job was to prompt it and then rate the answers, rate the responses that came out, and so that was done by humans in the first instance.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1782.372,
+      "endTime": 1817.295,
+      "text": "What you're talking about there is the next generation of language models where they're generating a. They're either prompting the the last bit I talked around the sort of refining of the model so that it's ethically sound and all this kind of stuff, and has the right they call it alignment, so has the right alignment with what we want out, what, what the you know in that, in this case, what open ai want out of the model, so the kinds of responses they want it to give. So, for example I mean a really simple example is if you ask it unethical questions, if you ask it, you know how to murder somebody, how to make a bomb, this kind of thing it won't give you the answer.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1817.656,
+      "endTime": 1858.798,
+      "text": "That's alignment. So you know, obviously if you just train a large language model on everything and don't do any alignment, then it can be potentially quite dangerous and quite unethical. So but that alignment part is now being done by ais and the, and what you're talking about with the training data. So one, the alignment's been done by ais for the next generation of models, but also they're generating fake data. So they're generating more data, that to train the models on using large language models to generate that data. And I I'm kind of unclear on how that works, but apparently it does improve the models and make better models.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1859.179,
+      "endTime": 1869.073,
+      "text": "So that we're in that, in terms of the singularity we're talking about, we're in that kind of like feedback loop now that self-reinforcing loop. It's at the limit of my understanding, but the bit I don't understand is why that works.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1869.595,
+      "endTime": 1871.901,
+      "text": "So maybe someone can let me know in the comments",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1881.159,
+      "endTime": 1922.395,
+      "text": "before we go on to our interview, should we just have a chat about what people can do in this sector? So you know, I guess, like many of the podcasts that we've done so far, it's probably initially about learning to use tools, and specifically the ones which are targeted at law. So, you know, making sure that you understand where there are specific tools, learning to prompt, we said earlier. You know, maybe even get on chat GPT. If you've got the premium one, you can design your own chat GPTs that are specific. So you could, you could, design one that you know does what you want it to do, and then you can share it with other people in the sector, or not, if you prefer not to.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1923.537,
+      "endTime": 1963.191,
+      "text": "But it feels to me this is a sector where, for a lot of roles, the die is already kind of set. And I wonder, if you are a solicitor with, you know, a partner in a practice, what you need to be doing is looking at these tools and thinking how you can ensure your business is not going to be, you know, uncompetitive because you are more expensive than everybody else. But if you're in those admin roles, is it about reskilling and, you know, learning how to use AI, or is it actually thinking about what you can do and, depending on your age and how long you need to work for, about what you know, what you want to do next?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1964.335,
+      "endTime": 2003.171,
+      "text": "yeah, I think. I mean, I think if you're already in the profession, then actually you've got a bit of a leg up on all this. I would, I would worry more about people who are going into the profession, because I think those, those jobs, those paralegal jobs, those more kind of like administrative for want of a better word I mean they're still skilled jobs, but the jobs that we're talking about, that can be replaced by ai, those you know after this generation. Once these tools really kick in, they're going to be much harder to come by. So, as we said before, I think it's around focusing on the human to human interaction, of which there's always going to be a part for that in law.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2003.68,
+      "endTime": 2014.651,
+      "text": "There's always going to be roles there in law in that sense, and I think people who are already in the profession are probably already picking up some of those skills. So you can just look to sort of accelerate that or continue to do that",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2021.1,
+      "endTime": 2021.481,
+      "text": "continue to do that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2021.501,
+      "endTime": 2074.996,
+      "text": "When I asked chat gpt to be a recruitment expert in the law sector and advise clients when to look at alternative employment, it said for those in document review and legal research they should look sooner rather than later. Um, so you know, make of that what you will, I I take sooner rather than later, as your chatPT tends to be in terms of its answers. It tends to be polite in the way that it puts it. So I would take sooner rather than later, as in ChatGPT's opinion you need to look at alternative routes. But it did suggest some new opportunities. So it talks about cybersecurity and privacy law, and I guess there will be, you know, specific elements of law that are particularly influenced by AI, so privacy is one I think there must be others which I can't think of at the moment and it then talks about ensuring you have financial stability for career pivots.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2075.538,
+      "endTime": 2109.271,
+      "text": "One possible bright spot that I could see, that's the regulation of AI itself, which you probably, if you're listening, start to understand. This is something I'm kind of really keen on and it's an area that obviously regulation is going to need legal expertise. You can have people like me that are interested in getting involved in it and maybe understand policy, but it's going to require, I think, a lot of people from the law sector to help deal with this regulation, because you know they are going to have to not only help create the regulation, but the regulation is going to have to be legally sound.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2109.901,
+      "endTime": 2146.149,
+      "text": "So I think there are opportunities there. I don't think we can rely on, you know, ai to regulate itself, so I think this is where you still need people, and maybe here you know AI to regulate itself. So I think this is where you still need people. And maybe here you know a call to action from me for people who you know in the legal field, who care about this, to start getting involved in it, because it feels like the people that are needed. There are people that need, you know. We need people who kind of care, who think this is a an important thing for humanity. We also need people who have skills in kind of policy writing and regulation, but we also need legal people to enter that field, so maybe there's a kind of bright spot in a new area that's opening up for people.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2147.521,
+      "endTime": 2167.041,
+      "text": "Yeah, I mean of all the roles, of all the jobs, professions that we've discussed, I think this is one where AI is going to create quite a lot of work as well as eliminate some parts of the work. So I think there's going to be a huge amount of work generated by AI in the legal profession.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2167.281,
+      "endTime": 2176.202,
+      "text": "So shall we leave it at that and move on to our interview? So thanks, jimmy, keep listening. We'll be back in a few seconds.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2186.41,
+      "endTime": 2206.405,
+      "text": "Okay, welcome back to part two of this week's episode of Preparing for AI. I'm very excited to say we have our first guest. I've got Kelly Inger with me. I'm going to ask her to introduce herself and then we're going to have a bit more of a deeper dive into how people in the industry are thinking about artificial intelligence. So, kelly, welcome to the show.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2206.746,
+      "endTime": 2244.015,
+      "text": "Thank you. Thank you for having me. Well, my name, as you say, is Kelly Inga. I am qualified in two jurisdictions. I'm qualified in Spain and England and Wales. I have over 15 years of experience as an in-house commercial lawyer solicitor and my sector is fintechs, financial technology, car payments specifically. So one of the companies I have worked for is Visa, and I think actually that summarizes very well actually the type of law that I do, which is heavily regulated and also produces a lot of turnover for very big companies.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2245.681,
+      "endTime": 2264.479,
+      "text": "So do you feel that people working in the sector are really thinking about the impact of AI? And if they do, you know, is it all doom and gloom? Is it all doom and gloom? Is it all positive? I mean, is there optimism about the impact, or are most people you know concerned about how it's going to kind of negatively impact on jobs?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2265.001,
+      "endTime": 2313.762,
+      "text": "Well, I think there are definitely two sides to this story, as we will let's call it like that. So, definitely, actually, there is a positive impact. I actually one of the companies that I work for, they just created a legal operations team, three people actually which were going to produce make processes, parameters to fit the machines or the AI, just to produce much better, faster, efficient processes, so that the work of the legal professionals was going to be better, much more efficient, et cetera. So, and this is definitely was a very good starting point, for instance, without saying any names of the apps, but we actually used to use an app for contract management.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2313.963,
+      "endTime": 2349.732,
+      "text": "So what happened? The sales reps, sales representatives or the sales team, actually will start actually inputting client details into sales opportunity, as they call it, then starting, for example, getting pricing approval and then once actually different stakeholders will approve that opportunity, then it will go to legal for creating a template or for actually just input or give approvals according to the policies. But if actually it was a very low risk according to policies once again, then actually that template will be created automatically without actually the need of a lawyer to see it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2350.36,
+      "endTime": 2381.827,
+      "text": "Now, this is very, very simple for, as I said low risk, very simple terms. The problem and the complication starts actually when the client becomes more sophisticated. They have their own policies, they have their own regulations that we have to adapt, we have to change and that's actually where the human factor cannot be lost. So for low risk, as I mentioned, very efficient, faster, but then for higher, much more complicated clients, actually the the human factor definitely needs to be kept and I think that's what you know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2381.847,
+      "endTime": 2418.472,
+      "text": "The research that jimmy and I have done, that's kind of where, where, where we found that that the sector and a lot of sectors are at the moment that you know, at the moment it really is augmenting people, um, but that's not necessarily. You know, we talk every episode about the speed of advancement and it is exponential. And I think sometimes, you know, there's maybe a naivety that, because of how know at the moment, because the parameters have to be set very, very carefully, because of the risk of things like hallucination, areas like law, you know, no one at the moment is going to sign off on a piece of software or an AI tool to do everything.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2433.56,
+      "endTime": 2462.586,
+      "text": "You're still going to need a person. I think Jimmy said to me after we recorded one of the reasons it's going to need a person is because there needsmy said to me after we recorded one of the reasons it's going to need a person is because there needs to be someone to blame if it goes wrong, which which is a really good point. But doesn't you know the things that you talk about? You still need somebody, but actually you only need somebody at the very end to, you know, apply the finishing touches and to sign off on it. You're still taking away a lot of you're taking away a lot of time.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2463.107,
+      "endTime": 2511.117,
+      "text": "At some point that becomes, you end up taking away those jobs yeah, definitely, as, as we were mentioning before as well, is is just the fact actually that double checking needs to be done. I mean, in my work I have you say, for example, let's say, for inspiration, when actually drafting something was very complicated, so you feed parameters to that software, just actually to give you like an example or to give you a close within those parameters that you're saying. But sometimes it does well, sometimes for me, the majority of the times it didn't reflect what I was looking for. So, even though actually I use, maybe like a sentence, the rest I still needed to do, maybe for other cases or for other types of law it will be better because it has been more tested or more samples have been uploaded.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2513.94,
+      "endTime": 2555.767,
+      "text": "But I don't think actually it's 100%. But every time you use it, you know're you're contributing to the training as well. So it's the. The singularity that we've talked about in previous episodes is where you know you feed stuff in but eventually it becomes ai's, training ai's. You know, as you train these tools and as you put information in, that information is, you know a large language model is giving you information. You're also giving it information and training it. So every time you do it, in theory it should be helping it to get better yeah so I I think this is a a really great example because it, you know, it is a positive, but we can also look forward and see from a jobs point of view how it does.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2556.228,
+      "endTime": 2567.148,
+      "text": "You know it does carry risk yeah maybe not, not necessarily now, but I think the timeline for for these does, you know, it does carry risk. Yeah, maybe not not necessarily now, but I think the timeline for for these things, you know, maybe one or two years. Maybe people are thinking it's five years out. It's probably quicker than that yeah, definitely.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2567.228,
+      "endTime": 2619.171,
+      "text": "Well, that's and that's the problem, right, that the gloom part, as you mentioned it before, is actually job security, because I mean one person, or actually in one of the companies I used to work for, the plan, for example, was just to replace the entirety of the commercial lawyers because actually, according to their perspective it was, we were just negotiating contracts and actually a machine can do that. So we can just fit in a playbook saying, well, if the client doesn't accept this, clause A and B can be offered so, and it should be done nothing else. So the plan actually was to replace that negotiation part with a software and then if it doesn't work according to that playbook, then actually that's the moment when it goes to a commercial contracts lawyer and obviously, as we were saying, that actually puts a risk to job security.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2619.3,
+      "endTime": 2656.123,
+      "text": "But, as I mentioned in the beginning, I think it's more about what you want to give your client. If you want to give your client this perspective of well, actually it's take it or leave it. This is just the approach. These are the two different approaches that were two, three different approaches that we're taking. There is nothing else. Or if you want to give your client the approach of. Well, you know, actually, we're here for you, we're going to give you personal support and customer care and we are going to be with you from day one until the day you are no longer with us. Then that's actually a question for the law firm or for actually the big client who wants to provide these services.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2656.884,
+      "endTime": 2715.855,
+      "text": "Yeah, and I think that point about having the soft skills and having people at the kind of interface and serving the customer still having a person who's approachable If you are a high net worth individual has their own lawyer or a company that has lawyers you're still going to want people to deal with at the front, but it's the kind of back end of it. You know that those soft skills are where. Even if you ask an ai now, if you ask a large language model, where should people you know improve their skills? It tells you improve the soft skills, because that's going to be the important bit. Yeah, but I think what you've talked about is that is an absolutely brilliant example, um, the kind of contract thing of where you can see an example, where I don't know when it will be, but you can see how it's not an entire role but it's an entire kind of team could potentially be be taken out, and then you know again, are you likely to see everybody announced we're cutting all our contract lawyers?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2715.936,
+      "endTime": 2721.11,
+      "text": "no, you're not, but maybe you don't replace them over time. Yeah, exactly, it's a really good example they can.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2721.27,
+      "endTime": 2762.512,
+      "text": "They definitely can reduce the numbers, I mean just because of of that, but sometimes actually the reduction of uh lawyers actually happens, but then the workload does not stop. So you're putting more pressure on a very, very small team actually just to produce more contracts, to negotiate, to give that personal support that we were mentioning before. So it's a very tricky situation. Personally, I think that, yeah, ai definitely is a great help because of what I mentioned actually that journey, actually that can create and then afterwards even actually this archiving system that it produces, and then you can go so easily and find so easy a contract that has been signed or create precedence,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2772.372,
+      "endTime": 2783.652,
+      "text": "very, very helpful, the qualified skills of a lawyer. Then I think actually that's where it gets more complicated and it's not going to be like a complete, 100%, perfect outcome.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2785.021,
+      "endTime": 2789.492,
+      "text": "Are you personally using AI tools in your job, Well knowingly.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2791.58,
+      "endTime": 2845.084,
+      "text": "Knowingly. To be honest, actually, I didn't know until very recently. So, as I mentioned before, actually I used it sometimes actually for this inspiration for drafting, when the drafting was very, very complicated, and then I also used another software for getting stakeholders'comments. When you are drafting or you're negotiating a contract, not all of the clauses are going to be legal related. Some of them are going to be compliance, some of them are going to be risk. In my sector, so many of them are going to be credit and risk related, because we cannot contract with a risky client. So when gathering that feedback from different stakeholders, if we can approve or we cannot approve certain changes, that's actually when that AI has become very helpful, because you just point out highlight a clause saying at credit and risk.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2845.105,
+      "endTime": 2872.805,
+      "text": "Can you please confirm this is okay and it was so easy to get that feedback. Now, it was easy for me, but it was not easy for the other stakeholders. Some of them the software did not work correctly. They couldn't see the letters, or they couldn't see the letters or they couldn't see the the text very clearly because it was not big enough. So still, as I said, a work in progress, but, uh, it was very helpful actually when it came to to getting that uh feedback yes, it's clearly not.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2873.186,
+      "endTime": 2929.931,
+      "text": "It's clearly not there yet no but you know, if you look at, if you look at the large language models, if you look at the journey, um, let's just take chat gpt from kind of three, three point, five, four. I think open ai have kind of admitted now, well, they're not particularly impressed with chat gpt4 and and there are, there are a lot of uh issues. I even I managed to um to kind of fall into doing something and I I've got some basic understanding of prompt engineer but I've managed to fall it's, it's not perfect but, you know it's probably one or two iterations from being pretty close to perfect and I think, with you know particular sectors, once you get the the sort of main language model sorted, it's then really easy to apply that because you know, even when you're creating kind of particular platforms or apps or small language models, they're still based on the model, so they still require that model to be better.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2929.971,
+      "endTime": 2960.622,
+      "text": "And as it gets better and better, the apps that come out of it in the specific platforms that you you know you get for industries, will get better. And when we just go back to jobs for a minute, so without getting too personal, I mean, do you, do you have concerns about the impact on, I say, job security? You know your job security but but also people around you, are you seeing or do you expect to see the effects you happen in the immediate future? What sort of timeline are you expecting, if you've thought this much about it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 2961.925,
+      "endTime": 3009.407,
+      "text": "I wouldn't say immediate future necessarily, but in the near future definitely there might be some more difficulties for someone who has no experience to get into the sector. Because right now in my sector once again, because it's about commercial and about what has happened before or other companies or what competitors are doing experience actually is very valuable. But if someone actually just newly qualified, just came out of university or doing a master's, maybe without any experience, I think it can be very tricky. But some of the solicitors actually do training contracts, so actually those can become very valuable because normally that is that breach for getting a position at a law firm or at an in-house team.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 3009.948,
+      "endTime": 3050.964,
+      "text": "So probably that's the best way. I think also about paralegals and because I actually used to work with two wonderful paralegals in my previous company and they all actually they were very young people. They never wanted just to stay being a paralegal forever, they wanted to qualify, they wanted to pursue bigger objectives and get actually promoted at some point to be legal counsel, for example. So their road actually was getting those exams while actually working as well. So probably that's a very good combination because then when they want to access to legal counsel positions then they can show well, actually I have actually experience.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 3051.144,
+      "endTime": 3066.175,
+      "text": "I know how this works and once again prove themselves and be better than the competition, so probably actually the best right now is getting as much experience as as possible quickly, quickly, you, you?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3066.355,
+      "endTime": 3113.362,
+      "text": "I mean that's a really, really helpful answer, because my my next question was actually going to be and this was something that jimmy and I thought about at the end of of of us recording the first part of this episode, which was, you know, most of the people we presume we're not from the sector, but we presume people who are entering as kind of secretaries and paralegals they're not saying, well, this is my career, I want to do this forever. They're going to use that experience and complement it and then hopefully move up. And so, if those are the positions that are going to go and I think you know, I think we can assume fairly confidently that a lot of those positions will go in the short to medium term when do people coming into the sector, where do they get that experience?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3113.403,
+      "endTime": 3129.963,
+      "text": "And I'm putting you on the spot here a little bit, but you know someone who is about to graduate from university or someone who's thinking of studying law, um, you know, do you have any advice for them on how, how they kind of mitigate that and how they make sure that they are still able to get the experience they need?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 3130.705,
+      "endTime": 3164.588,
+      "text": "Well, um, definitely, as I said, the training contract is is a very good route to get that experience that we were mentioning. We said actually that paralegals want to move up, but up to now, that doesn't mean actually that companies do not need paralegals. Paralegals are still actually relevant and still important because, it's true, actually they are not going to do so much legally qualified work, but they are still going to do tasks that we need for legal professionals and to provide what is being asked from us.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3165.189,
+      "endTime": 3205.324,
+      "text": "So training contract definitely a very good idea, and if that doesn't work, then a paralegal or a legal assistant position also gives you that exposure and experience, actually that starting ground that you need actually then to to continue my advice to people was get into ai regulation, because that's an area of personal interest to me and something where I, you know, I want to be more involved, and it's an area where we will need a lot of lawyers and people with an understanding of the law, because, obviously, to put regulation in place, you know, it's not just a case of keen generalists like me or people with a tech background.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3205.585,
+      "endTime": 3226.014,
+      "text": "It's also a case of people who understand law and are able to, to put that kind of regulation and and actually you know make it legal and binding so yeah that I'm not. I'm not the person to probably listen to. I'd listen to kelly, not me, but I think that's an area that I think we're going to see huge expansion, because everywhere is now kind of playing catch-up to how do they, how do they regulate ai?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 3226.174,
+      "endTime": 3241.429,
+      "text": "yeah, what the the steps are actually? The suggestions that I gave before I think are applicable to all areas of law. Well, unless you want to be a barrister, because that's actually a completely different route, um, but um, but then it depends actually what area of law you decide to do.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3241.61,
+      "endTime": 3258.8,
+      "text": "I mean, I think you mentioned actually ai regulation, which actually is a good one, but I think also cyber security is also that yeah, that was another one, I think cyber security um ai regulation, which was one I I sort of put in and the other one that I saw privacy. Privacy, Privacy yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 3259.54,
+      "endTime": 3298.846,
+      "text": "Privacy definitely is another one and it's related to AI and because, once again, the software, the AI, is gathering so much information from us and right now personal information is hugely protected everywhere. Regulation actually is even advancing, changing, being amended, so that actually the protection is higher and higher. So that high protection, how is that going to be combined with the fact, actually, that our information is being saved from everywhere that we are using, from our conversations, from the devices that are listening to conversations? So that is definitely an area actually that is definitely increasing?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 3298.987,
+      "endTime": 3327.285,
+      "text": "And in privacy, for example well, I'm not a privacy expert, but I have dealt with that the teams actually, if anything, are starting to get divided. So there are legal professionals, fully qualified lawyers, but there are also privacy professionals who actually do all of these parameters how the information is being saved, how the information is going to be then stored by different companies and by different users. So it's a very interesting area actually to start thinking about.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3328.781,
+      "endTime": 3371.792,
+      "text": "I'm going to finish with a kind of personal question, and I think the answer having, you know, spent the last sort of 15, 20 minutes talking to you is that you, you certainly have thought about and have a level of understanding of, of kind of how artificial intelligence can, can work with your sector, and you've, you've maybe thought about it more than, um, some other people I've I've spoken to, but what are you currently doing to keep on top of developments? And, you know, as a last kind of piece of advice to colleagues across the sector, is there anything that you would recommend that people start doing in order to, you know, stay relevant, or in order to stay on top of this, in order to make sure that they don't fall behind?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 3372.76,
+      "endTime": 3398.407,
+      "text": "Well, unfortunately actually there is very little time to get updated or to be on top of what's going to happen. I mean, with my job right now and also with personal circumstances, it's actually quite difficult. I will be surprised actually if any lawyer, solicitor says, oh yes, I am on top of all the regulations, I am on top of everything that's happening,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kelly Inga",
+      "startTime": 3403.08,
+      "endTime": 3424.351,
+      "text": "because normally actually the way that I have done that, or I still do that, is actually I join seminars or I join law society events, actually with new updates which are happening in my sector and actually in the general sector. So probably that's a good way of doing it. But if someone actually has enough time after work to do that, then definitely actually it's a good way to keep them on top of the situation.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3425.48,
+      "endTime": 3462.212,
+      "text": "Well, thank you, kelly. That's been really, really interesting. It's added, I think, so much to have somebody as a guest from the sector on the show. I really enjoyed having you on. Really pleased as well that there's some kind of optimism and positivity in there, because I'm quite often the doom run here, but I come away from this with some degree of optimism about, uh, the future. So that's it for most people. If you work in the law sector, do stay on. After the song that we will play you out with, I've got a kind of little bonus, uh, something that literally in the last few hours that I came across with a load of quite specific apps and stuff for the industry.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3462.252,
+      "endTime": 3477.342,
+      "text": "So if you're in the industry, carry on. If not, then we will end the show for you, as we usually do with our AI generator track. Today's is called the AI Divide. Look forward to seeing you all next week. We will be back with an episode on the hospitality industry, but then take care, goodbye",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3487.388,
+      "endTime": 3495.593,
+      "text": "in the realm of legal minds, a new era ensues artificial intelligence, the power it imbues.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Speaker 5",
+      "startTime": 3495.913,
+      "endTime": 3504.758,
+      "text": "The judges, solicitors, partners, stand tall, unaffected by the rising AI call.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Speaker 5",
+      "startTime": 3508.146,
+      "endTime": 3523.202,
+      "text": "But in the shadows of the law, a different tale unravels. Admins and assistants, their position gradually unravels. The automation takes control the task, render mood in this brave new world,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Speaker 5",
+      "startTime": 3536.8,
+      "endTime": 3550.479,
+      "text": "the legal industry's transformation, leaving some to we. For the judges and the partners, it's a seamless transition. For the admins and the robbers Tradition, it's a dismal position.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3557.313,
+      "endTime": 3594.323,
+      "text": "Well, thank you for staying on. If you're listening, I presume you work in the law sector. I actually, in the last few hours, came across an article that was actually a foreign language article which I've translated with ChatGPT back into English, and it listed a load of specific AI apps from the legal sector. So I thought this would be of interest to people from the sector. So I'm just going to go through the summary that I've got and read those out and then, if anyone's interested, maybe you can look into these apps specifically. So the first one is called Harvey, which is a platform that incorporates an NLM layer, a data lake and a mediation layer to accurately answer legal questions.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3594.383,
+      "endTime": 3633.016,
+      "text": "It offers a Q&A service for uploading documents and receiving precise legal advice as useful in legal research, contracts and document analysis. The second one is called Even Up with a capital U automates the creation of demand letters for personal injury cases, significantly improving speed, quality and cost. The third one is called Ironclad, a contract lifecycle management platform that uses ai to draft contracts, monitor execution, ensure compliance and manage the contract renewal process. Launched gpt4 based ai assist to help interpret terms, flag issues and suggest amendments. The next one is called robin ai.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3633.377,
+      "endTime": 3676.971,
+      "text": "Utilizes generative ai for contract drafting, review and aiming to replace traditional CLM with more efficient and modular products, and offers a co-pilot platform, with managed services being its largest revenue source. Lexis Plus AI enhances legal research with conversational search capabilities allowing for drafting, summarization and detailed analysis. Eve EVE eve, a generative ai driven platform designed to assist with document review, case analysis, client acquisition, legal research, specifically catering to law firm clients responsive, without any on the end, aims to be a generative ai driven co-pilot of in-house legal teams, assisting with legal know-how and automation tasks like clause drafting.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3677.172,
+      "endTime": 3716.062,
+      "text": "Policy creation noetica, spelled n-o-e-t-i-c-a, focuses on corporate debt space, reducing term review times and aiding in restructuring terms that serve clients interests using ai powered analysis. And finally, pinsites p-i-n-c-i-t-e-s, a contract review startup that offers a Microsoft add-on product leveraging large language models and proprietary playbooks for contract reviews, focusing on standardized terms and improving contract comprehension. So I think these tools demonstrate, you know, the versatility of AI in the legal sector and maybe for some of you there's something of interest there that you can do a bit more research into.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3716.362,
+      "endTime": 3718.024,
+      "text": "Thanks for listening. Take care, goodbye.",
+      "chapterIndex": 7
+    }
+  ]
+}

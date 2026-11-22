@@ -1,0 +1,1263 @@
+{
+  "slug": "s3-2025-11-30-the-great-coding-revolution-how-anyone-can",
+  "buzzsproutId": "18273094",
+  "title": "THE GREAT CODING REVOLUTION: How anyone can harness the power of programming in the AI age",
+  "date": "2025-11-30T15:00:00.000Z",
+  "season": 3,
+  "durationSec": 4005,
+  "format": "deep-dive",
+  "era": "recent",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/18273094-the-great-coding-revolution-how-anyone-can-harness-the-power-of-programming-in-the-ai-age.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Imagine describing an app, stepping back, and watching working software appear in minutes. That’s the promise of vibe coding, and it’s no longer a party trick. We take you from zero to shipped, showing how anyone can build a website, prototype a product, or launch a tool without memorising syntax or wrestling with frameworks. Along the way, we share where AI coding stands today, which tools actually help, and how to think so agents do useful work for you instead of creating tech debt. We start by demystifying the landscape: Google AI Studio and Replit for no‑code creation and instant hosting, then AI‑integrated IDEs like Windsurf and Cursor for those who want more control. You’ll hear how to set guardrails, store a short spec, and keep your tech stack consistent so the model doesn’t wander. We walk through e‑commerce basics, authentication, and rapid iteration, emphasising the one skill that pays everywhere: clear prompting with constraints. If you can write a good brief, you can ship a good app. Then we zoom out to the work you do every day. Agentic AI is coming to your inbox, calendar, and tools, and the people who thrive will think in processes: define outcomes, rules, and checks; delegate to systems; verify results. You don’t need to be a developer to benefit, but you do need to get comfortable turning ideas into specs and testing outputs. We also talk frankly about jobs, from design already reshaped by gen‑AI to code bases now written partly by machines, and what that means for quality, speed, and opportunity. Ready to try it? Build something small this week—an image tool, a product page, a text adventure—and notice how iteration improves results. If this helped, follow the show, share it with a friend who has a big idea, and leave a quick review so more curious builders can find us.",
+  "summary": "A deep dive on vibe coding: Jimmy, a self-described casual developer, explains how AI has made it possible for anyone to build websites, apps and games from plain-language prompts. The hosts demo Replit live to build Matt's fictional kids' nutrition e-commerce site from one prompt, contrast serious tooling like Windsurf and Cursor with free playgrounds like Google AI Studio, and wrestle with why non-coders should still care as agentic AI arrives.",
+  "keyTalkingPoints": [
+    "Vibe coding defined: describe what you want to an AI, never review the code, and 'trust me, bro' that it works - and with the latest models it mostly does",
+    "Meta said AI writes 30% of its code; GitHub Copilot, Cursor and Windsurf are now ubiquitous in professional development",
+    "Total beginners can start free today: Google AI Studio ('vibecode GenAI-enabled apps') and Replit, which plans, builds and hosts a working site from a single prompt - demonstrated live with the 'Kid Nutry Taylor' concept",
+    "Jimmy's serious workflow uses Windsurf with custom rules files, product requirement documents and tech-stack guardrails to stop the AI importing random frameworks",
+    "Coding becomes the 'ready meal' of content: most people want the outcome, not the graft, though Matt insists watching code form in Claude still teaches you something",
+    "Jobs impact is already visible: freelance graphic designers are losing work to good-enough AI images (Matt estimates ~90% of WeChat article images are AI-generated) and Amazon's announced cuts of 600,000 loom over white-collar work"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "You won't need to learn to code, but you will need process-oriented thinking to instruct the agentic AIs that will handle workplace tasks",
+      "Vibe coding feels like a superpower rather than cheating - AI builds in 20 minutes what would otherwise take him weeks",
+      "Standalone apps will dissolve into an 'omni-app' that builds whatever you want on the fly once agents get fast enough - probably a couple of years away",
+      "People should just go and create something fun; Google AI Studio is the best free place to start"
+    ],
+    "matt": [
+      "Much of the AI democratization narrative is bullshit, but this is the rare case where it is real: anyone with motivation can now build something they couldn't before",
+      "People still hide AI use at work out of 'cheating' shame; the mindset shift matters as much as the tools",
+      "Most people just want the product, not the process (gym and Beethoven analogies), but understanding code stays useful because it is a legible, readable language"
+    ]
+  },
+  "predictionIds": [
+    "s3-2025-11-30-the-great-coding-revolution-how-anyone-can-838.1-once-ai-agents-get-fast-enough-you-will-be-able-",
+    "s3-2025-11-30-the-great-coding-revolution-how-anyone-can-2337-agentic-ais-that-schedule-meetings-check-emails-",
+    "s3-2025-11-30-the-great-coding-revolution-how-anyone-can-774.8-individual-apps-on-phones-will-eventually-go-awa"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "AI Song Vocal"
+  ],
+  "chapterCount": 16,
+  "turnCount": 164,
+  "chapters": [
+    {
+      "title": "Setting The Stage: Why Coding Matters",
+      "startTime": 0
+    },
+    {
+      "title": "What Is Vibe Coding",
+      "startTime": 104
+    },
+    {
+      "title": "How Good Are AI Coders Now",
+      "startTime": 320
+    },
+    {
+      "title": "Real-World Use: Tools And IDEs",
+      "startTime": 523
+    },
+    {
+      "title": "Why Non-Coders Should Care",
+      "startTime": 756
+    },
+    {
+      "title": "Omni-App Futures And Agents",
+      "startTime": 998
+    },
+    {
+      "title": "No-Code Paths: Google AI Studio",
+      "startTime": 1255
+    },
+    {
+      "title": "Replit And One-Prompt Apps",
+      "startTime": 1540
+    },
+    {
+      "title": "Hosting, E‑Commerce, And Moats",
+      "startTime": 1805
+    },
+    {
+      "title": "Guardrails, Stacks, And Control",
+      "startTime": 2060
+    },
+    {
+      "title": "Prompting Versus Understanding Code",
+      "startTime": 2352
+    },
+    {
+      "title": "Is Using AI “Cheating”",
+      "startTime": 2660
+    },
+    {
+      "title": "Speed Ups: Weeks To Minutes",
+      "startTime": 2890
+    },
+    {
+      "title": "Jobs Impact: Design To White Collar",
+      "startTime": 3140
+    },
+    {
+      "title": "Learn Now Or Wait For Later",
+      "startTime": 3420
+    },
+    {
+      "title": "Process Versus Outcome: What To Learn",
+      "startTime": 3680
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.12,
+      "endTime": 38.88,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. The podcast that explores the human and social impact of AI. Explore where AI intertakes with economics, healthcare, religion, politics, and everything in between. I still feel you beneath my skin. I'm tempted to throw my senses in, because it's easier to fly than to face another night in southern sun. Welcome to Preparing for AI with me, Paul Oakenfold. And me, Steve, was Nyak. The was. Was not was, some might say.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 39.12,
+      "endTime": 41.68,
+      "text": "Yeah, is the question. Is the question.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 41.92,
+      "endTime": 66,
+      "text": "Right, so um preparing for AI. This is the deep dive episode, and we're going to be talking about coding today. And it's far more interesting than you think, because we're going to not only teach you how to code and make you uh teach you how to make your own websites, but we're going to tell you about how coding is important to you, how it matters to you, how it's going to influence your life, and why you need to know all about it, even though you don't need to be a coder. Is that right?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 66.24,
+      "endTime": 67.28,
+      "text": "That sounds spot.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 67.76,
+      "endTime": 68.56,
+      "text": "Summary of the episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 68.72,
+      "endTime": 70.24,
+      "text": "Yeah, unless you're already a coder in which case.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 70.64,
+      "endTime": 71.44,
+      "text": "Don't listen to this episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 71.6,
+      "endTime": 73.12,
+      "text": "Well, no, you know, you might find it interesting.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 73.44,
+      "endTime": 74.72,
+      "text": "Well, listen to it whoever you are.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 74.8,
+      "endTime": 86.32,
+      "text": "Yeah. Um and get in the yeah, and and subscribe and all the usual stuff and use my and use that subscription link. Yeah, yeah, that advocate AI chat LM studio thing.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 86.48,
+      "endTime": 110.96,
+      "text": "Yeah, and follow my health um blog in China where you can also buy some supplements and listen to that in Chinese. Send me a 5R and B gift. It's called Longo by Huatang if you want to search for it on WeChat. Shameless plug. Anyway anyway, yeah, let's get back to the AI episode. Uh about coding. About coding. So I'm just gonna hand over to you to start. Well, I'm interviewing you, but I'm just gonna tell you to introduce the episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 111.28,
+      "endTime": 136.64,
+      "text": "Alright, so yeah, so uh I mean I'm a developer, if you didn't know that already. I'm a developer. Um I'd I'd say I'm a kind of fairly casual developer in that I do lots of developer-y stuff, um, but I'm not I've never been I've never been employed just as a developer, I suppose. Um, you know, so I'm not I'm not knee deep in Python or any of these other languages.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 137.12,
+      "endTime": 143.12,
+      "text": "So you might need to just explain being knee deep in Python. So for anyone not listening, Python is a kind of programming language.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 143.6,
+      "endTime": 184.24,
+      "text": "Yeah, Python is a very worth expressing that. Yeah. I'm not yeah, so I'm not knee deep in Python or JavaScript or kind of snake or any yeah, any snake or Indonesian island. Yeah, exactly. Um but I did learn to code. Uh I am really interested in it. I think I think the thing with me is that I'm more interested in the outcome than I am interested in sitting down and writing lines and lines of code, which is why vibe coding for me was pretty cool, because I could have a basic understanding. Uh vibe, yeah, you're gonna have to say coding is so vibe coding is what we're about to talk about, which is um effectively coding with an AI assistant.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 184.4,
+      "endTime": 233.52,
+      "text": "So they call it vibe coding because in the most uh extreme example of it, you literally just uh effectively ask an AI to write all the code for you, you don't review it at all, and you just trust me, bro, that it's gonna work, um, and then you get to see the results. And to be honest, with the latest AIs, um over the last I've been using, I've been vibe coding, I suppose, for about uh probably about six months, maybe about nine months now. Um, and with the latest AI models, it works pretty bloody well. Uh, you need to as there's a bit of a learning curve if you've never coded before, if you've never written code before at all, if you've got no prior knowledge, no prior experience whatsoever, then it's yeah, it's definitely gonna be a bit of a learning curve.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 233.76,
+      "endTime": 291.04,
+      "text": "That being said, um, you can just ask AI to explain everything to you like you're five years old or six years old or have no coding experience uh and an an adult, um, and it will sort you out. Um, so that's why I'm pretty excited to talk about it in this episode. Um, because because I think that if you've got like if you've ever been like, oh, I really fancy having a crack at that, I really fancy having a go at some coding, or I'd I'd like to make my own website, I'd like to do some of these things, but I just don't have the skills, I don't have any of the knowledge, I don't have any other background, then I genuinely think with a if even if you've got zero coding knowledge, I think with a little bit of effort, um, you know, and you will have to learn some stuff, you will have to read some things, you will have to work with an AI, for example, on sort of understanding what you're doing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 291.2,
+      "endTime": 301.84,
+      "text": "But if you do that, and it's not that much effort, then you can probably actually create something that you're you've always fancied having a crack at, but you don't have the skills to actually create yourself.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 302.16,
+      "endTime": 343.84,
+      "text": "Should we start off by just giving a kind of background? Because I think in terms of like the format for these kind of deep dives is I mean, it's it's a bit of a yeah, we can we can kind of choose how we do it, but like to give a bit of background on coding, like it would be I guess what is coding? No, as long as they have to go back that far, but like to say, like what is AI like what is the kind of state of play in terms of what AI is now doing and and can now do in terms of coding? Like what in the kind of real world is AI now like is it doing all coding? Is it helping pure code? Is it you know it's doing some of it and not all of it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 344,
+      "endTime": 357.44,
+      "text": "Like what what's what's kind of the current state of play with AI and coding? Because I think it's like it's fair to say that this is the place where AI is the most advanced in terms of like you know, in terms of any industry or job, right?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 357.68,
+      "endTime": 406.88,
+      "text": "Yeah. So I mean AI has actually won so in uh not this isn't specifically coding, but in terms of uh I think it entered I think we talked about it on a previous episode where ChatGPT and Claude maybe, I can't remember, they um they entered them into a maths Olympiad, like one of the hardest maths um maths tests in the world that they that people do, and they got gold awards. And there's been similar examples with coding, so like I think I think the best version of chat GPT was something like it was in the top 100 uh in terms of like coders in the world, like in in certain benchmarks, so they are really advanced.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 407.04,
+      "endTime": 433.36,
+      "text": "I think the nuance comes within you know you have to explain to the AI what you want to build, um, and within like within that context, it's going to like give you a output and it's gonna depend on your ability to prompt it and all the rest of it. So so but in terms of what the c what the actual capabilities are, they're capable of being really, really doing really really sophisticated, accomplished stuff.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 433.52,
+      "endTime": 442.88,
+      "text": "Um in in like the workplace, is is most coding now done by AIs or is it still done by people? Is it 50-50? Like how what what's the current split?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 443.28,
+      "endTime": 458.88,
+      "text": "So I don't know about all workplaces. I know that tech heavy companies are like Facebook, for example, came out, and this was like three to six months ago. Facebook came out and said that they were literally using AI to write 30% of their code.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 458.96,
+      "endTime": 476.8,
+      "text": "I think only 30%. Because for me that's quite shocking. Like I I would expect, I mean, I'm saying I would expect I know it's about that, but what I'm saying is like I if I if I didn't know, I would expect that now it's like, well, AI is probably doing all the coding, or it's like doing most of it, and it's like that people are just doing a bit. So I would think it would be like 70, 80%.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 477.44,
+      "endTime": 495.52,
+      "text": "So I think if I didn't know it was 30%, because I kind of Well, they said this a few months ago, so I think I think now we're in a situation where I would be sur So I don't know the exact numbers and they change all the time, but most developers have used or are using AI to write code.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 495.84,
+      "endTime": 507.12,
+      "text": "And the holdouts are like you know, the kind of people who refuse to use a calculator. Yeah, that's a really good example. I was just saying refuse to use a knife and fork.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 507.44,
+      "endTime": 510.16,
+      "text": "Refuse, yeah, what they just eat with their hands, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 510.4,
+      "endTime": 519.2,
+      "text": "They're they're down with technology. I refuse to be take away my right to eat with a hand. Yeah, yeah, those are those kinds of peoples, though.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 519.44,
+      "endTime": 561.6,
+      "text": "They're those kind of peoples, yeah. Um, so yeah, I think I think I think most I I would be surprised if there are any developers who haven't used AI at some point for writing code and have like actual like published code. So like it's ubiquitous in the world of coding right now. So you've got Copilot, you've got GitHub Copilot, which is the version that's used for coding, which is Microsoft, you've got versions of um AI coding IDEs, um, which is an integrated developer environment, which is how you actually it's basically the bit of software you use to write code. Um so there are like they they pretty much all have a AI plugin right now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 561.76,
+      "endTime": 629.68,
+      "text": "You've got AI specific coding developer environments, which the main ones are cursor and windsurf, but there are there are probably about 20 now, like because they keep popping up every day. Um, and effectively what these do is they they they give you a developer environment. Like think of a developer environment as an like if Microsoft Word is an app for doing word processing, it's an app for writing text and formatting text. An integrated developer environment is the equivalent of Microsoft Word, but it's what you use if you're a developer writing code. And the latest ones, um, which the ones which have AI integration, effectively they have a chat box on the right hand side, and you instead of writing code yourself, although you can write code yourself, most of the time you'd basically just ask the AI to write the code, and you're you've got a folder open which has got your project in it, and the AI can just create files, amend files, update files, even run terminal commands, which is how you um effectively test your code and and uh run your for example run your servers and things like that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 630.08,
+      "endTime": 641.52,
+      "text": "So if I'm if I'm my dad's friend Martin who always beats me at golf, or I'm Jonathan who hates conspiracy theories, or Trevor Herndon from Bournemouth, why should I give a shit about this?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 641.92,
+      "endTime": 680.24,
+      "text": "I mean you you shouldn't necessarily, but like if you've ever I think if I think it's I think it's getting to the point now where if you're even slightly interested in, for example, having a bit of having a bit of a creative moment where you're like, Oh, I wonder if I could create a a website for my dog or for or for any purpose, it could be for your family, could be something where you've been like, oh everyone's been everyone's been on the hype train creating websites and like I've never had a go. And this is a way that like you could just do that. But most people don't want to do that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 680.48,
+      "endTime": 723.52,
+      "text": "Most people don't want to do that. So so so but but isn't there an argument here? Because I I I'm I'm not trying to you know plug the episode in for people to listen, but I I think part of the reason why I think we wanted to do this episode, or why I thought this episode was really important, was if you're not going to be using coding, but the world that you live in, right, if you're gonna live for longer than two or three years, right? The world that you live in is going to be massively affected by coding. So I think you still need to understand like how it works and what it does, because I think it's it's fundamental to understanding like the AI things and tools and apps and agents that will become part of your life.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 724.08,
+      "endTime": 770.56,
+      "text": "So like does it I get I guess in a sense, like, does it matter to people whether it's AI that's doing the coding or a person, or does it only matter to the people who are doing the coding? So is it actually like, well, there's coding happening that's creating all of the digital products and platforms and applications, whether that's from your your TV, your smartwatch, the car, the the the driverless vehicle you're going in, someone's coding it. Well, I don't care whether it's a person or an AI, it's just someone doing it. Or does it matter? Like, is that is there a fundamental reason why people should care about the fact that it's an AI that's doing it, other than you know, that there's there's there's like not necessarily a trust in every individual, but like there is a difference in the trust.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 771.12,
+      "endTime": 774.48,
+      "text": "Is there something there that people need to to be aware of?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 774.8,
+      "endTime": 828.88,
+      "text": "I don't think so. The only thing I would say on that, and this is something that I predicted in the past, but so even if you don't want to go away and actually have a go at doing some coding yourself, so to speak. And when I say coding, if we're talking about vibe coding, it's it's literally like describing what you want to an AI, and then it just goes and does it for you, which is pretty amazing in itself. Like I I always find this amazing, but and then again I'm a techie person, and so I'm interested in that kind of stuff. Um, but even if you're not like I made a prediction a few years ago or a year ago that in in the not too distant future, the concept of an app um on your phone, the concept of having like different individual apps that do different things, especially where they're like quite basic things, I think at some point it's gonna it's almost gonna go away because you're going to WeChat.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 829.36,
+      "endTime": 831.36,
+      "text": "Well, it's called WeChat in China, yeah.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 831.76,
+      "endTime": 837.84,
+      "text": "Which is what Elon Musk has said he wants to create, like WeChat. So like everything in one place, which makes sense, right?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 838.08,
+      "endTime": 879.6,
+      "text": "But even within WeChat, like there are different bits of WeChat that do different things. I can envision I can envision envision a future where once these AI agents get quick enough, because that's probably the bottleneck right now, is they're not quick enough, but once they get quick enough, you'll almost be able to just say to your phone, I want to be able to do this, and it can just build what you want on the fly. Um, and so I think in that sense, if that I mean there's a lot of ifs, if that reality comes true where you can almost have the omni-app which can just build whatever you want on the fly, coding matters to people at that point because it it empowers them to do tailor whatever they want.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 880,
+      "endTime": 917.04,
+      "text": "Yeah, exactly. Yeah, and I can see that being a thing. Like, I I I'm probably we're probably getting a a bit of ahead of ourselves in terms of like A, that hasn't happened yet, and it's it's hypothetical, and B, it's probably a couple of years away still. But if that does happen, then to be honest, I think that's what I love about it. It's like that that idea that like you can have an idea and you could bring it to life through your imagination. Like you can be like, well, and that's a bit like I mean it's like it's like the same for use of video, like VO3 and and AI that can create video and pictures and even text.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 917.12,
+      "endTime": 935.68,
+      "text": "Like it's the same concept, but you can get it to create a game or a a you know, some idea that you've had in your head, it can just create it because that's what coding is for, right? It's for creating programs and games and turning ideas into reality, like in that sense, like uh you know, so I think that's what's kind of exciting about it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 941.84,
+      "endTime": 978.24,
+      "text": "Okay, so one thing I wanted to ask you was whether so I'm thinking from the point of view of people listening here, is like, are we still at the point where if you want to do coding, even if it's kind of vibe coding, you still need to find something where you know you put a bit of you give an instruction and code goes away and writes a bit of code and you add a bit more to it, and you need to have some degree of understanding of how code works. You don't necessarily need to be able to write code, but you need to be able to understand and and and understand how you know the whatever the um Anaconda or whatever the the kind of application that you're gonna use, the platform that you're gonna use.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 978.4,
+      "endTime": 1005.28,
+      "text": "Or are we at the point where people can just basically download an app on their phone and just say to it, I want to make a website that is for selling uh antiviral nasal sprays, like my antiviral nasal space. I'm looking at one on a shelf, that's why I said it. Um my antiviral nasal spray is called um immune boost. Um make me a website, and it just does it. And then the website's there, and then it's like I just pay some money and it just exists.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1005.76,
+      "endTime": 1043.92,
+      "text": "So I think the best example of this, and this is probably the most fun one that people can ever play with. Um, so the you know, some of the like there's there are definitely there are definitely um vibe coding platforms that are more and less involved. So if you want to do serious coding, you can use things like Windsurf and Cursor, which I think I've mentioned before on the podcast. Um, and there are real there are loads of other examples. Now that's gonna require you to install a bit of software and then understand how it works, create rules and create you know a whole bunch of like a bit of a framework around it, probably pay for it, and they're quite involved.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1044,
+      "endTime": 1088.64,
+      "text": "You're gonna be like building apps on your desktop and testing them and building them on your desktop. That's what that's probably like the more the more developer-heavy end of things. Um, but then you've got stuff like and so the example I've got here is Google AI Studio, which if you search Google AI Studio, one of the first things it comes up with on the home screen, it literally says vibecode gen AI enabled apps in build. Um, and so I've had a go with this, and some of the examples of stuff that I've built. So the the this is like literally where you give it a text prompt and it will build you an app using AI, uh, and usually they'll integrate AI into them as well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1088.8,
+      "endTime": 1130.72,
+      "text": "So some of the examples on here are like nano banana powered app, so app to allow users to add objects, remove backgrounds, and change a photo style by typing. So that's a photo app using nano banana, which is Google's uh one of Google's photo apps, um uh AI uh image apps. Um creating conversational voice apps, so using the Gemini Live API to give your app a voice and make your own conversational experience. Now I've created a few on on this site, and uh one of them that I created was actually I created a Zork clone, I think, uh which was a text adventure game from the uh Spectrum. Um nice, yeah, yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1130.88,
+      "endTime": 1172.88,
+      "text": "So I created a Zork clone. Right, I mean that's right in the wheelhouse of our listeners, right? So I got it to create a Zork clone, but the the nice so basically it was a text adventure game in the style of Zork with a bit of that story. But the cool thing was the story was generated by Gen AI, and it would generate like an image a lot to go alongside each step of the game. And I literally gave it like one text prompt and it gave me a text adventure game. It was pretty cool. Um, you can do a whole bunch of stuff with this. So I think if you're like if you're not a developer and you wanted to have a crack at this, then something like Google AI Studio would be really good.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1173.04,
+      "endTime": 1181.44,
+      "text": "There's another one, um, it's it's Matey Boy, innit? It's Steve Bartlett again. Are we promoting him? I don't know if we want to promote him. I like him.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1181.6,
+      "endTime": 1226.56,
+      "text": "I I like him, it's just I don't like how he promotes everything. I don't I don't like how he's a slave to all of his products, but I do like him. I'm gonna I'm gonna find his vibe. I am a fan of his. Um with caveats, with caveats, I guess would be my my answer. And and also like his Huel product. A fan now, as I told you earlier, his Huel um whey protein product is full of lead. So um yeah, which is he might prosecute me for this, but um pretty scary. It was in a report in the US where they investigated many, many plant-based whey protein products, and they were all found to contain lead, and the one with the most lead was from Huel.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1226.88,
+      "endTime": 1232.48,
+      "text": "So um yeah, sorry, Steplett, because I like you, but I don't like a lot of the products you promote.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1232.72,
+      "endTime": 1252.96,
+      "text": "Yeah, Replit was the one that I was thinking of. Yeah, Replit. Replit Replit is the one you recommended to me, actually. So I haven't actually I haven't even tried Replit. Yeah, that's exactly what I said on the. Um, but Replit, I think he's invested in it, isn't he? Or something. Is he? Well he's invested in everything. Yeah, he's invested in everything.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1253.2,
+      "endTime": 1256.32,
+      "text": "You can assume that if something exists, Stephen Bartlett's probably invested in it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1256.64,
+      "endTime": 1290.48,
+      "text": "He's involved. But yeah, this this is a no-code app creator that's online, so I don't know if there's a free tier. I mean, I'm just clicking on it now. I haven't used it because I am a proper developer, so I've kind of like been doing the more serious stuff. But um, if you try Repli, it's basically a completely online um no code like vibe coding uh solution where you can just write a prompt and it all it'll I think it'll even I think it generates and hosts whatever you're whatever you're trying to describe. So it probably it might be an even better option in that regard.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1290.72,
+      "endTime": 1296.88,
+      "text": "Um there are a ton of solutions in the let me just ask you like okay, so I want to make a website.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1297.2,
+      "endTime": 1298.08,
+      "text": "Wanna make a website?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1298.24,
+      "endTime": 1333.68,
+      "text": "I want to make a website. I've I've got this idea, right? I've got this idea that I want to create um tailored um nutrition products for children, right? Which is sounds like the worst idea, right? I mean but also say like I wouldn't create any tailored thing for children because it's just too dodgy, but I want to create this tailored nutrition product for children, um, and I want to produce it and sell it. Like okay, Replit and any coding websites can't help me to produce a physical product, but let's say I can get hold of this product and then stick it in a tin and put a label on it. Yeah, what what do I need to do with Replit?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1333.76,
+      "endTime": 1367.04,
+      "text": "Do I do I need to just tell it I want to do this and it will just do everything? Or do I need to start, you know, uh do I need to kind of like prompt it? Are there sort of stages at which I need to intervene in the process? Like how how much can it just do this? And and and if it can do it all itself, like is the output going to be decent or is the output just like because I guess the the thing here is like okay, if I'm making this thing with an app that I just give it a text prompt and it just creates it, and other people have got skill in coding, aren't they just gonna make much better things than me?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1367.68,
+      "endTime": 1406,
+      "text": "I don't know. It depends how well so it depends whether you're doing it because you want to have a bit of fun and because you want to be a bit creative or you want to create an actual business idea. So, well, I mean if you want to make money then you need to have a business plan and then you need to have a um you know, you need to have a bit of a mote around it, right? So if someone hasn't already created the thing that you're trying to create, then that's your that's gonna determine whether you can make money off something, not whether you've got a nice website or not, probably. Um so like in terms of that, if you've got an I but but it Matt makes a good point.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1406.08,
+      "endTime": 1438.32,
+      "text": "Like if you've got an idea that you think you do have a bit of a moat around, but you've never been able to create it because you don't have the skills, then some of these things might actually be a really good solution. Like I've just Matt asked how hard is it? I've just typed it into Replit and at the moment it's taken me through the planning stage. It came up with a couple of questions. So I give it the prompt I want to make a Taylor Nutrition Project product for children, I want to produce it and sell it. It's come up with a bunch of questions. So, what type of digital tool are you looking for?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1438.48,
+      "endTime": 1471.76,
+      "text": "This is using Replit, like I say. Um, an e-commerce website, a web application, something else, marketing like a product information and marketing website. What's the core functionality you need? Online ordering and payment processing, personalized nutrition plan generator, product catalogue and information display, customer accounts track orders. This is how they work, right? So it's designed to like help you go through a planning stage and then build the website. Um, and it will just build it for you. So you answer a few questions, it will guide you through the process, and then it will build something.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1471.92,
+      "endTime": 1490.32,
+      "text": "And maybe it won't be a 100% finished product, but it's probably gonna be it's probably gonna surprise you, and it's probably gonna be pretty cool. I don't disagree. Yeah, um, I don't know we can build it. I mean we can build it later. We'll put a link in the podcast.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1491.52,
+      "endTime": 1522,
+      "text": "I mean I guess like the the thing the thing that I we probably need to make clear to Peel though is like you create it on here, but like when you create it, then it doesn't exist as a website, right? You've created the code, but it doesn't exist as a website. So someone hasn't built it and it's like great now my website exists. You've still got to host a website, you've still got to maybe, but with Replit you can, I think it does all that for you. So you can do that. Yeah, okay. I mean that's pretty amazing because that that really does open it out to anybody.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1522.24,
+      "endTime": 1533.12,
+      "text": "Yeah, so it's a bit like it's a bit like Shopify, where like Shopify is a very similar thing where you can build a website on the Shopify platform. The difference there is doesn't Stephen Bartlett promote Shopify.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1533.36,
+      "endTime": 1538.56,
+      "text": "Probably he does. In fact, I'm asking he 100% he promotes Shopify. He loves it. They've enabled his business.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1538.8,
+      "endTime": 1576.96,
+      "text": "Shop it got Huel on there, yeah. He's shopping Huel on Shopify, but yeah, like so Shopify, Shopify is a sort of similar example where you can actually build a no-code website on Shopify now, and they probably have an AI builder actually. Um I guess the difference is in this case you're a bit freer to kind of build whatever you whatever you want as opposed to something that's uh a Shopify shop, so to speak. I don't know, like if people are even remotely interested in this stuff, I recommend having a bit of a play with it, because you'll be you'll probably be like, oh wow, I can actually create something half decent very easily.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1577.12,
+      "endTime": 1606.8,
+      "text": "And the thing is there's so many websites online that what the design um the sort of design principles and the um the templates are already all out there, so most of the time you're gonna be building something that yeah, okay, it's gonna look fairly similar to a lot of the stuff that's already out there. But if you've got a if you've got a unique idea, then that's what's that's what's worth money, right? The the web just becomes a the web's just a platform for for flogging it, essentially.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1607.2,
+      "endTime": 1654.56,
+      "text": "Yeah, I don't know. I mean that I mean like if that's true, that that that is where this so you know the the the pro-ai argument, right? The really kind of pro-AI argument, which is about how it's going to enable all of this your ability for it is sort of democratization and allows everybody to be creative and anyone can do this, and and and and I think a lot of it's sort of bullshit, but to some degree, like this is this is saying, well, if you've got the motivation and like just enough what's the word gumption to like get off your ass and actually spend a bit of time doing it, actually, like it's sort of true, like it this is allowing you to do that stuff, like it's not that simple, and of course, if everyone can do it, you're competing in a bigger market, right?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1654.64,
+      "endTime": 1672,
+      "text": "But if you have a brilliant idea, you can do it now, and you and and you couldn't do that before. Like, you probably sit to scale it up is a different matter, right? You still need investment to scale it up, but there's a difference there, but you can still create something. So I think there's like this is really powerful, actually.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1672.24,
+      "endTime": 1678.56,
+      "text": "Yeah, yeah, totally, totally. I think I mean having I've never used Replit, but I'm getting it to build your website now.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1678.8,
+      "endTime": 1685.68,
+      "text": "And we should say, like, we're doing as on this podcast, which we hadn't planned. We're we're doing this. It's called it Kid Nutry Taylor, yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1685.92,
+      "endTime": 1688.16,
+      "text": "Like Taylor is in like someone who sorts your clothes off.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1688.32,
+      "endTime": 1701.44,
+      "text": "If anyone listening to podcasts, steals this idea and monetizes it. I will come after you, I will see you, and I'll send Sam Altman to gobble you up in his lizard. No, I'm not uh Stephen Bartl. I think Stephen Bartlett owns us.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1701.68,
+      "endTime": 1702.16,
+      "text": "Oh yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1702.32,
+      "endTime": 1737.76,
+      "text": "I think he owns everything. He owns, I mean he owns all of these businesses, so but like I say, I don't I like Stephen Bartlett, even though it he pisses me off. I hate I hate Sam Altman. It's not just pissing me off. I I I you know I believe he's the devil that incarnates, so there is a difference for me. Stephen Bartlett, if you're listening, um we'd love to give us some subscribers. Yeah, yeah, interview us, yeah. I'm not sure what we'll add to your podcast, but um there we go. Insight. Insight into how much lead is in your cure products. Absolutely. Um we digress. Yeah, what we what were we talking about?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1737.84,
+      "endTime": 1760.08,
+      "text": "Uh well, I was asking you about the difference between the the sort of tools that allow you to completely like just basically put in a text prompt, and you have zero you know background and the the the tools that still require you not not to understand how to write code but to be able to intervene in the process a little bit. Yeah, so I think are they still better?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1760.32,
+      "endTime": 1763.2,
+      "text": "I think I think the stuff that I do, so ultimately they're best.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1763.6,
+      "endTime": 1774.48,
+      "text": "What you do is is definitely not like you just say you don't use replic. You wouldn't normally just put in a prompt and leave it to work, right? You would expect to have some level of control over the coding process.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1774.8,
+      "endTime": 1813.68,
+      "text": "Yeah, like I'm normally reviewing it, I'm keeping an eye on it, like, and and obviously to review it you have to have the skill to review it. So just the I mean I use Win personally, I use Windsurf, and I'm having quite in depth conversations with it. I've got a I've got a my own process where I've developed my own set of rules that I've given to Windsurf, and Windsurf has a mechanism where you can put rules into it which give it certain. It's like your own set of guardrails around how it's gonna behave, um, when it's gonna come to you, when it's gonna ask you questions as opposed to just going off and building Can you just give it like when you say it's gonna ask you questions, like can you give us an like what would a question look like?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1813.84,
+      "endTime": 1820.72,
+      "text": "Would it literally be like, Hello Jimmy, can you help with this or is it like I'm st like how how what what's a question look like?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1821.04,
+      "endTime": 1864.72,
+      "text": "Well, so I think this this is quite a common thing in prompt engineering. So it's not just in uh in these kind of coding IDEs, um coding examples. So so what a a good example of a of a prompt, a system prompt you might want to use if you're asking, if you let's say you you put a system prompt into a um a custom GPT that's going to help you work on business plans. So what one of the things you might want to say to it is if the user comes to you with a very like fuzzy business plan, like the one we just came up with, I want to create a uh nutrition project for kids, instead of just going off and building it, ask clarifying questions first.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1864.8,
+      "endTime": 1874.16,
+      "text": "So, like ask what what you know what platform do you want to build it on, what country would you like to market it in, what ages of children? So uh you'd have to be.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1874.32,
+      "endTime": 1887.04,
+      "text": "It's very much like a large language model. If you're if you're brainstorming with a large language model, uh a business idea, like frontier models will do the same thing as that and will ask you like to give more information.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1887.36,
+      "endTime": 1924.32,
+      "text": "Yeah, exactly. But you can yeah, so within my within my rules within Windsurf, I've got a very specific set of rules which say, I mean, it's it's getting into a lot of detail, but for example, I will say to it, like always stick to for example, I always create something called a product requirements document and a knowledge file and a to-do list, and it and part of my rule says whenever you're doing anything, always refer to those files first, because those files contain all the essential information about the project. And one of the things that those files contain is here's the technology stack that we're gonna be working with.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1924.4,
+      "endTime": 1971.44,
+      "text": "So it might be like whenever you develop anything, you're working with a tech stack, so that'll be like a front-end, back end, and API, and then it could be other stuff, but like it's a it's a technology stack that's quite specific to your project. Now, there's with that you've made a choice. You've said I'm gonna work with React and with um Svelte and with uh Superbase Um database software, or whatever stack you've chosen. Now, one of the rules that I have is like do not go off and just import additional technology unless we've agreed it beforehand. Because one of the things that I mean, this is something from a few months ago, but one of the things these AIs had a tendency to do was just come up with a workaround.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1971.6,
+      "endTime": 1995.52,
+      "text": "Basically, if they couldn't figure out how to solve the problem that you'd given them in code using the technology in your stack, they would just go off and import some additional uh some other framework or something to and then start using that instead. So it's a lot effectively your rules are a load of specifics that keep keep the AI on rails according to what you want it to do.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1995.84,
+      "endTime": 2033.6,
+      "text": "I'm I'm sort of I'm thinking at this point like we might have lost some people, yeah. In terms of in terms of use. I mean, I think maybe we pull it back to for most people listening, you know, and you listen to that and like I don't know what we're talking about, is okay. Well, you don't need to think about that because what we're trying to say to you here is like you you you use something like Replit where you don't have to worry about this, you just type stuff in. But for people who have a bit more of a fundamental level of knowledge, we're explaining the tools where you have some level of control.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2033.84,
+      "endTime": 2078.56,
+      "text": "It's not necessarily that they're better, but it's like if you think about like uh video creation, if you type in a text prompt, say make me a picture of a dragon drinking soup, and in your head you've got this like the dragon from Game of Thrones, but but in in its view, you've got a traditional Chinese dragon and it's drinking a consom soup, and you think it's drinking chicken soup. It's like yeah, it's it's like what you imagine is very different from the output. I think the concern for me about like where you're just putting in a text prompt and you're just leaving it to go away with stuff is like the interpretation is not going to turn out how you want it, exactly.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2078.72,
+      "endTime": 2112.64,
+      "text": "So you're gonna have to accept that. Whereas when you have some control over it, that allows you to, you know, kind of it's like a funnel, isn't it? It's like you're getting it down to more and more closer to your product and more and more closer to your product. So it's it is much better, but that's not to say that you can't do this without and and frankly, like a year ago, you had to understand code to do this. So this is the difference, is like this is something that no one who didn't like people who didn't know code a year ago couldn't there was there's no way you could do this, you'd have to pay someone to do it for you.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2112.88,
+      "endTime": 2133.12,
+      "text": "Now you can do it yourself. Like anyone listening to this, I think I mean we're just watching this working in the background. Anyone listening to this podcast could go to Replit and could type stuff in, and with a little bit of help and maybe you know a few tries because it's maybe not going to work the first time, could create something here.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2133.36,
+      "endTime": 2175.04,
+      "text": "Yeah, totally, totally, yeah, totally. Like I and I and I think uh one of the really useful takeaways for me of all this stuff with coding as well, is what I was talking about before, where it's actually developing your skills uh prompting an AI, so it might be even an interesting experiment just in that respect. Like Matt was saying, like getting really getting down to the specifics of what you actually want an AI to do is the same set of skills that you have to have when you're doing AI AI coding as well. But anyway, there's some really cool tools out there that are available right now. Um I think Google AI Studio and Replit are good places to start.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2175.2,
+      "endTime": 2184.72,
+      "text": "I actually I actually would say out of the two of them, for me, Google AI Studio is the one to have a crack at because you can Can I just log into that as someone who knows nothing at all?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2184.88,
+      "endTime": 2196.16,
+      "text": "Yeah. And and I don't it like it opens, the page opens, I'm like, right, what do I do now? Yeah. Will I be faced with that or will it be clear to me what I need to start doing on on the kind of home home page of Google?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2196.64,
+      "endTime": 2221.84,
+      "text": "On Google AI Studio. Yeah. Yeah. If you go to Google AI Studio and just go to on the home page, I think it says vibecode Gen I enabled apps in build. You can click on that and then it's got exactly Do I need a subscription? Do I need to have a Gemini Premium account to do this? Or can anyone do it? It's free. Totally free. Totally free. We can have a go in a bit at creating a text adventure of your liking.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2222.16,
+      "endTime": 2224.08,
+      "text": "Of my nutrition for kids app.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2224.24,
+      "endTime": 2226.88,
+      "text": "Yeah, yeah, yeah. Definitely.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2232.72,
+      "endTime": 2278.24,
+      "text": "The next question I had for you, I wanted to sort of pull this back, and you you I think you talked earlier in the episode about like the original purpose of the podcast. Um, preparing for AI was all about getting ready for AI, and particularly in terms of like the workforce and how it would affect people's jobs. So I think a lot of people listening to the podcast, if they are you know below the age of sort of 60 or maybe late 50s, their real concern in the short term is like, okay, what am I gonna do with my work, like like my career? How do I work in the future? Like, regardless of how quickly we get to sort of AGI, and regardless of how quickly you know AI sort of takes over jobs, it presuming that I'm gonna have a job of some kind.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2278.8,
+      "endTime": 2285.36,
+      "text": "Um am I gonna need to code? Do I need to understand coding for my work, or is this just something for me to do in my spare time?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2286.08,
+      "endTime": 2336.88,
+      "text": "So I think the application, I don't think you're gonna need to learn to code. I don't think you're gonna need to learn to code, but I think what we're gonna see is agentic AI, which we've talked about before on the podcast. So this is AI that can take, like do complete actions for you in the world. Now, what sits behind that is like how do you think about processes? How do you think about um how do you like what doesn't how does an AI work when you like ask it to check my emails once a day for any emails from Matt? And when he when you see an email from Matt, put it in the bin. Like, what like that's a kind of like that's the kind of things that you're gonna have to get used to interacting with AI agents to basically improve your efficiency at work.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2337.04,
+      "endTime": 2372.56,
+      "text": "I think that's gonna be a real thing in the very near future. Um, it's already it's you know, you can already do this kind of stuff. Um at the moment you can't do it with natural language, like you have to sort of dig around in some of the more advanced features, but it's gonna be a real feature very, very soon. Yeah, it's gonna be you're gonna have AIs that can schedule meetings, agentic AIs that can schedule meetings for you, that can interact with your colleagues, like on Teams or on on email or what in you know, on chat, all this kind of stuff. Um, that's gonna be a real thing in the not too distant future.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2372.64,
+      "endTime": 2393.44,
+      "text": "And so you're not gonna necessarily specifically need to be coding, but you're gonna need to be thinking in that you're gonna be need to be thinking in that kind of process-oriented way, I guess, in terms of how you how you work with AIs and work alongside AIs, how you instruct them, how you talk to them, how you for want of a better word, how you program them.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2393.84,
+      "endTime": 2440.88,
+      "text": "So essentially there we're talking about prompting then. So what we're saying here is like the way that you'll work with for most people, the way that you'll work with coding is is your prompt. Yeah. And the coding will happen, yeah. And you'll need to know how to prompt. But to be able to do that properly, because what you talked about in your example is how you know you need to spot um errors in code. And I I I talked sometime last year, like I was doing a master's last year, and I had to do a um a module that was on um data analytics, right? And use that, I was using R Studio, which is a kind of you know analytics code, and by the end of that module, which is only two months, like using it, I was able to look at code and be able to be like, oh, I can spot the error in there.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2441.04,
+      "endTime": 2481.04,
+      "text": "Like that's quite often being and then it was only a couple of months, and I was using it like I don't know, 20 hours a week. So, what's that? Over two months, 2060. Quite a lot of hours, quite a lot of hours, and it when I counted up, that's a lot of hours. But I wasn't spending the whole time using R Studio. But my point is like over a couple of months of pretty heavy use, I was able to view code. Do people need to do that, or do they just need to then focus on like how to prompt something to do code? Because it still seems to me that like if you don't know how to spot the errors, you're relying on and trusting the AI to be doing it right, or or is that okay?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2481.28,
+      "endTime": 2488.16,
+      "text": "Like, I guess I guess it's not like a high risk, it's not like we're building a nuclear launch system, yeah, yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2489.04,
+      "endTime": 2494.64,
+      "text": "I haven't got to that yet. I was gonna do that next week. Yeah, um on RepLit. On Replit, yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2494.8,
+      "endTime": 2496.88,
+      "text": "Um build me a bioweapon.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2497.28,
+      "endTime": 2512.96,
+      "text": "So again, like I think uh it's a bit tricky. Like if I think if you're remotely interested in this stuff, like honestly, I I when I'm vibe coding, which I do do quite a lot now, I pretty much just chuck the errors back into the AI, and then it would be like a channel.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2514.24,
+      "endTime": 2528.4,
+      "text": "I imagine you're just someone's lay in like reclining in a chair with the with a joint in their mouth, and they're just kind of like rocking back with some tunes on, and they're just like hit a few keys and see what it does, hit a few keys and see what it does. Is that basically what vibe coding is?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2528.56,
+      "endTime": 2540.16,
+      "text": "Yeah, yeah, yeah, yeah, yeah, yeah. Sounds fun. So I just ask it to do something, it goes away and does it, and then I'm like I get really satisfied with myself because I created a great prompt. The smoking cannabis is optional.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2540.32,
+      "endTime": 2546.08,
+      "text": "Um definitely in China, yeah. Oh, yeah, it's basically illegal in most countries now, isn't it?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2546.16,
+      "endTime": 2564.96,
+      "text": "But exactly. Um no, I mean that is vibe coding. Like it feels like it feels like cheating, it feels like it's a superpower. Because you're especially with some of the faster models now, like you're you ask them to do something, and it goes away and like boshes out it go boshes out like a thousand, two thousand lines of code in about a minute.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2565.28,
+      "endTime": 2594.72,
+      "text": "You've identified like sorry to take us off track, but you've identified something though that is like fundamental to the use of AI in like in the workplace and actually in like a personal context as well, is like moving away from the idea that AI is cheating. Right? Yeah, because it is still something like people are hiding the fact they're using AI in the workplace, they don't want people to know because you know they'll think it's cheating. And I I you know I said to you, like I use AI to help me to create articles, which I still spend a lot of time writing, but I use them in the background.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2594.96,
+      "endTime": 2621.76,
+      "text": "Images I create, I have a workflow where I use like voice creation and all kinds of stuff, and I do feel like a lot of time when I'm doing it, I'm like, it's I feel like I'm I'm cheating to some degree. I guess with coding, is like if you don't know how to code, well you probably don't feel like you're cheating, but for someone like you that does know how to code, so you do you do feel like you're cheating? You still have that feeling?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2622.08,
+      "endTime": 2631.76,
+      "text": "No, I don't I'm sorry. I it feels well, I'd say it feels more like a superpower, right? Because like there's no way I could write code that fast, it writes code insanely fast.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2632,
+      "endTime": 2645.12,
+      "text": "And could you so the things you're doing with code, because you have done them anyway, it would have just taken you an amount of time that you just don't have. Some of them or is it like it can code better than you and you couldn't you just wouldn't be able to do this without a mixture of both.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2645.76,
+      "endTime": 2689.44,
+      "text": "Like some of it I could do a lot of it, I would still need to like look up how to do it, or look at the docs or whatever, like but that's the same thing that AI is doing. Um, some of it I don't know how to do, so I'd have to either learn how to do it or figure it out, which is part of your job as a programmer. Like, I would I definitely would be able to figure it out, I think, in most cases. Um, in terms of like how much time it saves. I mean, if I was to give AI a prompt to build a website from scratch with Google login integration and superbass integration using React and a whole bunch of other technologies, it I could probably give it a a bit of a monster prompt that would describe all of that.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2689.6,
+      "endTime": 2728.16,
+      "text": "Um, let's say it's for this kids'nutrition website. It could build that. I'm not joking, like it could build that in 20 minutes and build a pretty good functional version of that, maybe with some bugs, and then you have to go and tweak it and give the bugs get the bugs sorted out. But you could probably build a like fairly functional version of something that would take me weeks to build in in in a single prompt. In a single prompt? Probably, yeah, I think so. That's how good it is now. I mean, especially if there's real-world examples out there, like if you asked AI to build a Twitter clone, it would probably knock that out.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2728.32,
+      "endTime": 2750.08,
+      "text": "Like you could literally give it that prompt and it would just like and give it a different name. Call it Matter and and and um make it a Twitter clone, and it'd probably it wouldn't be perfect, of course, it wouldn't have all the functionality and features that Twitter has and the app and whatever, but you could probably build a web version of Twitter in one prompt,",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2754.96,
+      "endTime": 2755.36,
+      "text": "all right.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2755.44,
+      "endTime": 2795.36,
+      "text": "Let let's finish off um just to explore a little bit because again, sort of coming back to the original idea of the podcast and the impact on on jobs and kind of you know society in general, I guess. Um most people listen to this podcast, unless you're a coder, I guess you probably think, well, I don't really care if coders all lose their jobs. So you know, I doubt I doubt many people listen to this podcast, the coders who are worried about their jobs, but like let's just talk about like the effect on one on the industry, like on coders, but also like how coding is going to affect other people.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2795.52,
+      "endTime": 2827.44,
+      "text": "Like, is it going to be that this automated coding, for example, like I don't know, I guess an obvious one is like graphic design, right? Like graphic design, like why would you pay for someone to design graphics when you can just use code to create that? But let's break it down to two parts. The first bit is like, what is it replacing now, and then what is it gonna replace you know in the next one or two, three years that people listening to the podcast need to be need to be worried or aware of.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2827.76,
+      "endTime": 2865.84,
+      "text": "So I think so. I think that AI is already like in terms of graphic design, there are we've given examples even a year ago on the podcast where where people have literally been made unemployed by AI because they work in graphic design and now you can do something that's good enough using an AI gym AI image generating um software. And like that's definitely the case. Like even if you didn't lose your job because of it directly, if you're a freelance graphic designer, you get less business, you've got less business now because everyone's just like willing to pay you less. Willing to pay you less, yeah, exactly.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2866.08,
+      "endTime": 2883.68,
+      "text": "Like, and it's not like you don't have a role to play because there might there's still some nuance and there's still some things that you can't get AI to do if you've got a really specific A idea. But if you've if you're doing some sort of like I mean like our our logo for our podcast, for example, we generated with AI.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2883.92,
+      "endTime": 2892.08,
+      "text": "I mean you're looking at the one on your t-shirt, we have a new logo now. Yeah, but they're both generated by AI. No, I I handcrafted them with my own fair hand, Jimmy.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2892.32,
+      "endTime": 2907.76,
+      "text": "Yeah, exactly. Yeah, um so exactly I'll make you a new t-shirt as well. If you want to launch a podcast, then you probably just go on chat GPT. You get what you want a logo for your podcast, you go on Chat GPT now. And I mean, how many people are doing that? It must be absolutely tons.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2908,
+      "endTime": 2948.56,
+      "text": "In terms of like Well, I mean you just look at I'm I'm just thinking of like WeChat, which most people listen to podcasts probably don't access WeChat. I look at WeChat more than other social media because it's the thing I use the most day in, day out. I'm sure this is kind of the same for most, but when I look at articles in my sort of official accounts, um well, it's an algorithm it's an algorithmic feed. Yeah, it's an algorithmic feed. And I look at the picture that is in the kind of you know front page of the article, I would say 90% are AI generated. I think it's that high. Oh yeah, yeah, yeah.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2948.64,
+      "endTime": 2954.88,
+      "text": "Yeah, totally. So actually my own articles, every single image is AI generated. Every single image.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2955.12,
+      "endTime": 2987.28,
+      "text": "Well, how much of how much of um uh not Twitter, um, how much of like TikTok is now AI generated images and Instagram and stuff like that? Like bonkers amounts, I think. Yeah, yeah. So so like that sort of stuff's already happening. I think if you're a developer, like Amazon, the biggest cuts, the biggest set of cuts that have been announced from ever, potentially, that I've heard of is Amazon have announced that they're making 600,000 cuts recently by I think it was 2000. 600,000.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2987.36,
+      "endTime": 3002.64,
+      "text": "I mean, that's like okay, in China it's a village, but like in Europe, the US, that's a a small city or something. Not a small city, it's it's the second biggest city in your the third biggest city in your country. It's capital cities, isn't it?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3002.8,
+      "endTime": 3047.2,
+      "text": "Yeah, big cities, yeah. It's an insane amount. So I think they said by 2033, so it's obviously over a number of years, but a significant chunk of them will be white-collar jobs working like do like and it'll be through AI automation on white-collar jobs, which is partly through coding, but a big chunk of it's just through AI that can just deal with queries and inquiries and like moving stuff from one place to another in the virtual world. Uh, I'm pretty sure a big chunk of it must be also like automating their factories and uh sorry, not factories, warehouses, um, and things like that, which uh you know is also a thing now because you've got robots are starting to be a become a thing.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3047.44,
+      "endTime": 3055.76,
+      "text": "Um, so what was Meta's announcement around coding? So like they reckon well, this was a while ago, but we talked about it.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3055.84,
+      "endTime": 3076.4,
+      "text": "But like 30% of all their code is written by AI, which is But okay, sorry, my question was the 30%, because you quoted this earlier, but the 30% is written by AI. Does that mean you have everyone's doing less work, or does that mean you have 30% less people working for Meta doing coding? I think it's a bit of both, isn't it? Like I Well in it or if it's not eventually it'll be 30%.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3076.96,
+      "endTime": 3114.4,
+      "text": "Well eventually it'll be eventually it'll be more, yeah, because because they're all they're getting everything done by AI. So that's uh you know, I do I think it's gonna replace your job specifically, not necessarily, but if you can if you can learn how to use AI and if you wanna and if you want to try and understand it better, then I think it's this is one of those areas where you could have a bit of fun with it. And actually, while we've been chatting, I've built a this was this is YouTube studio. Magical food adventure, right? Yeah, so we can have a go at this after the episode, but it's a text adventure based on that concept that we talked about earlier on.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3114.56,
+      "endTime": 3135.28,
+      "text": "So I think kids understanding nutrition is the concept behind it, and it generates images and it generates like a little story for you. Um and it's it's pretty cool. Like there's some cool stuff you can do on AI Studio, which uh they're more gimmicky, I suppose. Um, but it is it once you give it a prompt and it writes code and it builds this stuff for you.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3135.36,
+      "endTime": 3144.08,
+      "text": "So um but it's coming coming back to my point is like it's doing this, but then should I look at the code and work out how it did it?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3144.16,
+      "endTime": 3147.36,
+      "text": "No, does it matter? No, I don't look at the code when I'm vibe coding.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3147.52,
+      "endTime": 3170.72,
+      "text": "I look at the code if I really have to, because it's made it's made a howling mistake and I can't um and it needs someone to go and look at it, but most of the time it doesn't even require So the point is I guess that previously writing code in itself was you know, you needed to be able to write code, whereas now actually all you need to worry about is the output.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3171.04,
+      "endTime": 3178.48,
+      "text": "Yeah, yeah, yeah. You just need to you ask it to write the code and then you just check to see if it aligns with what you wanted.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3179.28,
+      "endTime": 3223.04,
+      "text": "Is it like previously I needed to make I don't know, a toy or a cupboard for myself, and then there came the point where I could get one made for me. Is that like is this the way because I'm thinking like we're viewing this as this analogy, life-changing kind of thing that like oh my god, it can it can create code and then and then like it can just do all this stuff, and but is it like a historical analogy for this? Is there a historical analogy where like people had to make things for themselves and then maybe food is an example, like you had to get all the ingredients and then suddenly there were ready meals.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3223.2,
+      "endTime": 3226.72,
+      "text": "Is this like the ready meal of yeah, I think it is content?",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3226.96,
+      "endTime": 3228.24,
+      "text": "Yeah, yeah, I think so, yeah.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3228.48,
+      "endTime": 3232.64,
+      "text": "You go to a supermarket and it's convenient. It's convenience, right?",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3232.88,
+      "endTime": 3265.76,
+      "text": "Yeah. Yeah. Yeah, I guess so. Like it's just the yeah. So uh I mean as I say, in the future, I think I mentioned it earlier on, but in the future we'll in the future we'll be able to, you know, you'll be able to create an app that does that works exactly the way you want to do it, want it to work. That might be I don't know, that might be something simple, like it's just in the colour that you want your to-do list to be in. But it but it might be something more complex where you want a to-do list that also has an alarm clock built into it. I don't know.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3266.08,
+      "endTime": 3303.44,
+      "text": "So my final challenge for you is on something you just said, is you know, eventually or at some point soon, it will be able to do all these things. So if it's gonna be able to do all those things in a year or two years'time, why don't I just wait? Why why do I need to bother with any of this stuff now? Well, you don't should I just wait? I guess it's the argument with all of AI is like it's gonna get better, so I just don't but but it feels like with coding is like, are we gonna get to a point in a year's time where I can literally just put in a prompt and tell it a few things and it will literally just be able to do ex everything I wanted it to do.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3304.08,
+      "endTime": 3306.16,
+      "text": "And if that's the case, should I just wait?",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3306.32,
+      "endTime": 3308.8,
+      "text": "Or you can, yeah.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3309.36,
+      "endTime": 3347.52,
+      "text": "Because I s I still feel like for me there is something about like we don't know how large language models work completely. There's to some degree they're a black box, but we do understand how code works, and the reason why large language models are good with code is because code is predictable, right? It is it is perfectly aligned with LLMs because it is text, essentially, it's a language and it works perfectly with a large language model. That's what large language models models do. So I kind of still feel like for me, like understanding the text and how it works, I think it is still useful.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3348.88,
+      "endTime": 3381.52,
+      "text": "It'll probably always be useful. Like it's is it? I I yeah, I I I feel like it is, but I yeah, I I I just don't know. Like maybe for someone who who cares more than most people about AI, like I'm not a software developer, I'm not an expert, but I care more than most people, maybe it still does for me, but for most people does it matter enough to learn to understand code, or should most people listen to this just focus on going away and creating something fun?",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3383.52,
+      "endTime": 3422.08,
+      "text": "I think go away and create something fun, but you'll probably learn something about code along the way. Um the the the whole I mean I'm going back to earlier on in the episode, but the like although I am a developer and I do understand a bit of code, I get frustrated with the actual process of writing the code because I just want to like see what I've I've got in my head, I just want to see it happen. I just want to I wanna I wanna I I like in my head I've been like I want to make this app and all I want to do is get to that outcome. And maybe that's impatience, or maybe it's because the act of writing the code is not actually that interesting.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3422.32,
+      "endTime": 3463.68,
+      "text": "I've I've got a I what I think is a good analogy actually for some people maybe this doesn't work, but if I want to have a if I want to have a great body, right? Do I do I really want to engage in the process of going to the gym every day and eating the right food at the right time and sleeping at the right time, or do I just want to get the good body? And I think for some people like the process is is fun, right? And and and there is a thing about like I've I've done this, yeah, exactly. I I've I've earned this body, but for most people,",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3467.12,
+      "endTime": 3488.24,
+      "text": "yeah. And maybe that's the analogy for this, is like for most people they just want the product, they don't want to feel like I wrote I worked that I I worked hard to create this. Like maybe music's another example. Like, do you want to just be able to play Beethoven's Fifth Symphony, or do you want to go through the whole process of learning it? I'd bet most people just want to be able to play it.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3488.56,
+      "endTime": 3534,
+      "text": "Yeah, like if I could I mean maybe this is a good use for AI. Like if I could read the next Ian M. Banks novel and Ian Banks passed away and isn't gonna write any more novels, I would love for him to write another novel. I would love for uh Douglas Adams to write another Hitchhiker's Guide to the Galaxy, or for Mercury to write a new song. Yeah, but so like if I could get that, that would be fantastic. Maybe that's a bit of a stretch right now. Um but but you know, and uh but like but but yeah, it's exactly like you kind of want the end result, you don't necessarily need to understand all the bits in between, or you don't necessarily want to have to do the graft.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3534.24,
+      "endTime": 3558.56,
+      "text": "I I'll be honest, like if if anyone fancies having a crack at it, have a go, it's quite interesting. If you're interested in how it all fits together, I think AI can also talk you through that as well. And like as you said, you did a bit of coding for a little while, and you it's kind of readable, legible, you can understand it. It's not actually as big a naphema, it's not as big a black box as you think it's gonna be.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3558.8,
+      "endTime": 3600.96,
+      "text": "Well, just I'm something I'd forgot to say on this episode is like going back to like Claude. So if you create one thing I I I kind of equally like it and don't like it because I think I like it, but I think it's like maybe sort of unnecessary. But actually, for people listening to this episode, it is quite useful. Is on Claude, ask it, like ask or any AI, but I know Claude does this, is say, like, I want to create a visual diagram that um shows me um you know how the Silk Road um between 200 and 400 BC developed, right? And when it creates it on the right hand side, you'll see the code forming.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3601.36,
+      "endTime": 3636.32,
+      "text": "And I'm not saying for everyone like you want to read all that code and try and understand it, but when you see that code forming, like even as a beginner, you can kind of see certain like you can understand okay. Right, so that's also that's what it looks like. It uses those brackets. It uses the you know it uses that that key seems to be really important. Oh I didn't realise that the um you know the understand key is so important. I wonder what that does. Like even doing that gives you an insight into how the code works because fundamentally it is a language right that's the thing is like it's no different in a way to be like I can't understand Spanish.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3636.56,
+      "endTime": 3680.4,
+      "text": "And I think back to like if my dad's listened to this episode he'll he'll kind of like this anecdote. When I was really young I'm talking like seven, eight nine we used to get books from the library on a ZX Spectrum computer. We used to get books and they would give you a set of code 10 like cyan 4 like these are the colours that the because the spectrum had the 12 colours whatever and you type a load of code and I'd sit there and I'd sit there in my school holidays. Maybe I was a bit older than nine I don't know maybe 10 eleven but I'd write no I would have been about right now and I'd write all this code and then there'd be a 50-50 chance where the when you pressed enter at the end of it it either created the product that it was supposed to or it just crashed.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3680.56,
+      "endTime": 3720.16,
+      "text": "And then you'd record it on a cassette. And I think about like the process of writing up and it's that question again about like was the process the thing that was amazing or was it the thing at the end that was amazing. I think it's kind of a mixture of both. Yeah. And I think it depends what it is. Like there is definitely something that we shouldn't move like we shouldn't forget about the process of creating stuff. So like with music for example like if you can just play something without any effort it's meaningless and you know there's a lot of things like that learning a language maybe learn a language actually is the opposite maybe learn a language is like the process is meaningless you just want to learn the language.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3720.4,
+      "endTime": 3751.6,
+      "text": "Being there to cook a meal like the feeling of I've spent four hours in the kitchen I've created this masterpiece is amazing. But there are also times that you just want to have a nice meal so it's yeah so it's not it's not either or it's like sometimes maybe you want to like the coding itself and the process and knowing you've created this thing is important. But other times it's like I want this thing that can do this for me. Like why would I want to spend any more time than I have to on it and that's where I think this is maybe really useful for people is like you just want to create this thing.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3751.76,
+      "endTime": 3764.72,
+      "text": "It's not about the feeling of like I've earned this it's just about I just want this thing and now you're in a world in which you can yeah that I've imagined exactly in my imagination and I can I could never create it before and now I can make this thing real.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3765.04,
+      "endTime": 3766.96,
+      "text": "Yeah I think that's the coolest thing about it.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3768.48,
+      "endTime": 3769.2,
+      "text": "And on that note",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3782.16,
+      "endTime": 3803.84,
+      "text": "Here you go post punk angle a bit sarcastic a bit heroic like a mentor ship anthem for someone who didn't even know they wanted to code I was asleep walking through the syntax of my teeth scrolling empty streams drifting in a dead end mate",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3807.04,
+      "endTime": 3814.16,
+      "text": "of four choice did a dream machine Till my voice come through the static",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3860.32,
+      "endTime": 3872.8,
+      "text": "out of the way to hear the sketch where the level code of starting with the systems for the day for you to say",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3877.2,
+      "endTime": 3878,
+      "text": "it's just another",
+      "chapterIndex": 15
+    }
+  ]
+}

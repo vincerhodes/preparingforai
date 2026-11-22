@@ -1,0 +1,741 @@
+{
+  "slug": "s1-2024-04-24-the-sustainability-series-energy-ai-with-a",
+  "buzzsproutId": "14945514",
+  "title": "The Sustainability Series: Energy & AI with Anders Hove",
+  "date": "2024-04-24T02:00:00.000Z",
+  "season": 1,
+  "durationSec": 3224,
+  "format": "guest",
+  "era": "early",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/14945514-the-sustainability-series-energy-ai-with-anders-hove.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Prepare to have your perspectives on AI and energy sustainability reshaped, as Anders Hove from the Oxford Institute for Energy Studies takes us on a journey through the transformative potential of artificial intelligence in the struggle against climate change, as well as the potential of AI as a barrier to achieving energy and climate goals. This episode unpacks AI's role in enhancing energy efficiency, sparking innovation in energy technologies, and the hunt for renewable resources. Anders brings his deep knowledge to the table, showcasing how AI could revolutionise renewable energy operations and fine-tune grid performance. Yet, as we closely examine these advancements, the conversation doesn't shy away from the pressing need for policy frameworks to effectively harness AI's capabilities for a greener future. Venture beyond the surface and explore the subtleties of AI's impact on green technologies; it's a story of refinement rather than revolution. We contemplate how AI has the potential to improve the efficiency of solar and wind power, with titans like Google DeepMind leading the charge in wind power forecasting, and the implications this has for reshaping energy demand management. The dialogue doesn't stop there, tackling head-on the concerns over AI's own energy consumption and the delicate balance between investing in renewable energy sources and staying true to broader climate objectives. AI emerges as an evolutionary catalyst rather than the inventor of unforeseen breakthroughs, prompting a reflection on what that means for the future of sustainable technology. Finally, we cast a critical eye on the burgeoning energy appetite of data centers and the strategies tech giants are employing to preserve the planet while maintaining their digital dominance. The episode navigates the complex waters of data center locations, the strive for energy efficiency, and the innovative steps being taken to align with carbon neutrality ambitions. We also address the broader implications of AI on society, from the potential upheaval of the job market to the psychological effects of increasing employment volatility. Join us as we dissect these challenges, with a focus on informed policy and transparency, and what it all means for paving the way towards a sustainable, AI-enhanced future.",
+  "summary": "Matt interviews Anders Hove of the Oxford Institute for Energy Studies, who argues AI's climate role is iterative — solar and battery costs fell 90-95% through manufacturing scale-up, not AI-discovered materials — and that the real barriers are policy and capital structure. Data centers (~2% of global electricity, on par with aviation) may reach 620-1050 TWh by 2026; the 85 TWh AI-server forecast for 2027 is scary but meetable by incremental renewables, and green certificates are largely accounting fiction. His fixes: mandatory disclosure and 24/7 clean-energy matching.",
+  "keyTalkingPoints": [
+    "Enabler side is real but 'playing around the edges': wind/solar forecasting (DeepMind), grid flexibility, building optimization — no silver bullet",
+    "2010→2024: 90-95% cost cuts in solar and batteries came from scale and learning-by-doing on 1950s-90s technology, not new materials",
+    "Data centers: 460 TWh (2022) to 620-1050 TWh (2026, IEA); image generation uses ~60x the energy of text; the AI share is a mystery",
+    "Altman's $7tr chip ask does not divert climate capital — VCs never funded energy; the transition needs debt, subsidies and government R&D",
+    "Green certificates let firms buy the cheapest renewables at times and places they are not needed — green claims can worsen grids",
+    "Data centers prize speed and reliability over carbon; Berkeley time-shifting experiments hit a brick wall; retraining programs historically disappoint"
+  ],
+  "hostStances": {
+    "jimmy": [],
+    "matt": [
+      "Admits a recent journey toward more positivity about AI tools in the medium term, away from pure doom",
+      "Expected a big energy silver bullet from AI and is disappointed the gains are iterative",
+      "Altman's $7 trillion chip demand is crude but the diversion of capital and attention from climate is a real concern",
+      "Likes the Economist webinar point: decarbonizing data centers is easier than aviation because it is 'just electricity'; the green transition must create jobs"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-04-24-the-sustainability-series-energy-ai-with-a-692.38-solar-and-battery-cost-reductions-will-continue-",
+    "s1-2024-04-24-the-sustainability-series-energy-ai-with-a-3019.93-in-the-next-few-years-ai-energy-consumption-will",
+    "s1-2024-04-24-the-sustainability-series-energy-ai-with-a-1137.902-forecasts-put-data-centers-at-potentially-20-of-",
+    "s1-2024-04-24-the-sustainability-series-energy-ai-with-a-2627.726-ai-job-anxiety-is-already-taking-a-psychological"
+  ],
+  "speakers": [
+    "Matt",
+    "Anders Hove",
+    "Suno AI-generated outro track (no human speaker)"
+  ],
+  "chapterCount": 7,
+  "turnCount": 95,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 3
+    },
+    {
+      "title": "Guest interview- Anders Hove",
+      "startTime": 57
+    },
+    {
+      "title": "AI as an enabler of climate and energy goals",
+      "startTime": 110
+    },
+    {
+      "title": "AI as a barrier to climate and energy goals",
+      "startTime": 946
+    },
+    {
+      "title": "The impact on people and jobs",
+      "startTime": 2545
+    },
+    {
+      "title": "Anders Hove experiences with AI and recommendations",
+      "startTime": 2901
+    },
+    {
+      "title": "Bytes of Progress (Outro song)",
+      "startTime": 3120
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.568,
+      "endTime": 31.793,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human social impacts of AI. We're making it our mission to help you prepare for the human social impacts of AI. Hello and welcome back to what is a very special episode of Preparing for AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 38.38,
+      "endTime": 56.29,
+      "text": "So today I have with us Anders Hovey, who is the Senior Research Fellow at the Oxford Institute for Energy Studies of what I hope is a kind of ongoing sub-series of preparing for AI on sustainability, where we will look at how potentially AI can be both an enabler and a barrier to climate solutions. So I'm going to start off by letting Anders introduce himself. Anders.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 56.9,
+      "endTime": 101.873,
+      "text": "Yeah, thank you very much and I'm really glad to be here and this is a topic which is very interesting and it's sort of a new topic for me personally. I have been working in research-related roles connected to the energy sector for more than 20 years, both on Wall Street initially and then for the last decade or so in China, looking at policies on renewable energy, electric vehicles, low-carbon energy, transition topics like this, and it includes a little bit of work related to the data center industry and the connection between the data centers and renewables, as well as corporate procurement of renewable energy for matching against the electricity consumption of data centers, for example.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 102,
+      "endTime": 108.43,
+      "text": "So it's a new topic for me, but I do have a little bit of surface knowledge and I'm looking forward to the exchange today.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 110.08,
+      "endTime": 148.572,
+      "text": "So I thought maybe we'd start off, and partly because I you know, I sort of have a, I guess, a reputation of being the pessimistic one on this podcast, as opposed to Jimmy being more optimistic. So, although in the last week, uh, not necessarily feeling any more optimistic about the world in general, but in terms of AI I've, I've been through a bit of a journey of starting to see a lot more positivity, certainly in the medium term sense, in, you know, taking out the existential threats, but seeing how a lot of the tools that are coming in, if we look past the gimmicks and actually look at some of the useful ways in which I think AI tools can be used.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 149.072,
+      "endTime": 186.083,
+      "text": "So, in a long-winded way, I thought maybe we could start off by looking at AI as a potential enabler of climate solutions and obviously, with yourself here there's a focus on energy. So I'm going to read out a few examples which I got from chat, gpt and maybe Anders, you would kind of respond by critiquing these examples. So the first one is energy sorry, efficiency improvement. So, for example, enhancing the efficiency of renewable energy sources like wind and solar, optimizing grid operations, forecasting energy production and demand. The second one is innovation in energy technology, so AI actually assisting in the development of new materials and demand.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 186.012,
+      "endTime": 208.415,
+      "text": "The second one is innovation in energy technology, so AI actually assisting in the development of new materials and technology. I think the big one there would obviously be, you know, advancing battery storage and carbon capture systems, and not just in terms of reducing greenhouse gas emissions but also advancing the kind of overall sustainability of energy systems, so advancing the kind of overall sustainability of energy systems. The third one is exploration of renewable resources,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 216.42,
+      "endTime": 249.461,
+      "text": "so using AI to help map and predict the viability of renewable energy and then therefore kind of adding, aiding in the exploration and utilisation. And finally, I think I'm giving you four things in a row here, but advanced energy storage, so machine learning and predictive models being used to improve and innovate energy storage technologies, which, of course, are going to be absolutely critical for the kind of you know, the nature of renewable energy that we need. So you know I've reeled off four things in a row there. I know that's quite a lot for you to critique, but do you agree on? Some of those things are potentially positive at least?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 250.223,
+      "endTime": 277.277,
+      "text": "Yeah, I think it's basically a fairly plausible list, and I would just note that that's almost exactly the same list that I came up with from a Google search and I turned up a report this is a report from last year by David Rolnick, university of Pennsylvania, as well as some top AI researchers and executives from Google, microsoft, deepmind, other award-winning scientists involved in the AI sector,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 284.265,
+      "endTime": 308.853,
+      "text": "and basically that's the that perhaps AI could help with. Precision agriculture, and agriculture is a part of the sustainability dilemma of carbon globally, even though the energy sector, which you mentioned pretty prominently, I would say, is by far number one in terms of importance to the climate sector-wise, by far number one in terms of importance to the climate sector-wise. So I think that AI will make a contribution in each one of those areas,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 314.04,
+      "endTime": 358.972,
+      "text": "and AI is already widely enough available that it's probably going to be very difficult to disentangle what the contribution of AI tools will be. I mean, how could we estimate the importance of Google? What's the importance of Google searching on the efficiency of research and development? I don't know if we could ever figure that out, and probably it will be the same with AI, but I do think that I am going to come down a little bit more on the negative side, as you forecast as well, which is to say that a lot of the low-carbon things that we as a society need to do are primarily dependent on having policies and incentives in place, and the reason why we don't have those policies and incentives in place is not generally due to the absence of technologies, for example, the absence of breakthrough materials.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 359.453,
+      "endTime": 378.497,
+      "text": "Now, it's true, of course, that as these technologies have become more cost effective and you know, for solar and batteries and might be cost competitive with the incumbent industries, that helps policymakers adopt the policies that will enable them to scale up and become more widely available.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 386,
+      "endTime": 425.476,
+      "text": "I think that most of those changes have already happened as a result more of manufacturing scale up and not so much as a result of discovery of new materials. And I base that on actually direct experience, and not as a scientist but as a market analyst and watcher of the solar industry, where for many years and including I on Wall Street we're looking to invest in new materials for solar that could somehow surpass the dominant materials, which were deemed never likely to become competitive back 15, 20 years ago, and what happened ultimately was just scaling up. The technologies from basically the 1950s was what was necessary in order to achieve the cost reductions, not the development of an amazing new process, an amazing new material.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 426.1,
+      "endTime": 473.069,
+      "text": "Thin films that were the great hope back then are essentially still the same share of the solar industry, and the same thing, I think, would be the case, generally speaking, for batteries. It's the 1970s 1990s technology. It's not something where we need a totally different chemistry or manufacturing process. In fact, it is the relative ease of manufacturing these technologies that has enabled them to scale up and reduce costs so effectively. That's the technology breakthrough side. And then on the forecasting side, where obviously there's regression, since the development of statistics has been used for forecasting and AI is to some extent an elaboration of that Forecasting.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 474.031,
+      "endTime": 518.086,
+      "text": "It's basically playing around the edges of understanding what the need of the grid would be, as opposed to really changing the game in terms of what the grid can or needs to do. In terms of the efficient buildings, I think there it could be quite interesting. But there again, you know, I read for decades about the most awesome, you know, optimized, automated building, energy control technologies, all these green buildings showcase examples across Europe and the United States, and how often do we go into one of those buildings that has those, and when we are moving into a new apartment building that has such a gizmo in place, how much use do we get out of it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 518.608,
+      "endTime": 556.293,
+      "text": "A lot of the stuff that we depend on for making our buildings more efficient are things like you know, how well insulated is it? You know very boring technologies. So I think that all of those are valid, and I do think that the technology progress in general could be accelerated by AI, including optimization of freight or optimization of supply chains. That could help reduce costs. But I think that most of the things that we need on that front to happen are already well underway, even prior to AI, and the main barriers to the sustainable energy transition are more adopting policies that will give incentive to use those technologies.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 557.38,
+      "endTime": 592.78,
+      "text": "I mean, you make a point that I think we've discussed a couple of times so far on the podcast, where we realize that drawing the line between technology and AI, you know what is AI? When did it become AI? Actually, sometimes is it even AI? Some of the things I think we've we talked about on the last translation episode that we put out last week, you know, we realized that maybe actually quite often it's not AI, maybe it was AI before we even realized it. You know, even if it was AI, so that kind of blurs between the two, the sort of blur in the line that's there. I mean, take some of what you've said.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 594.263,
+      "endTime": 629.456,
+      "text": "We need, you know, let's say, artificial super intelligence, and then, you know, is that going to just tell us how to harness all the energy of the sun and then we can fix all of our problems? You know, if we have these huge breakthroughs in artificial intelligence, maybe we do get the silver bullet miracle cure. But actually, in its current guise, and even with the development that we're probably going to see in the next few years, it seems like it's a bit of an iterative game, isn't it? It's not a silver bullet that's miraculously and magically going to discover. Hey, you know, ai, we just put this thing in and now it's told us how to make a battery that can store, you know, gigawatts of energy forever.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 630.041,
+      "endTime": 642.082,
+      "text": "It feels like the AI advances help, but what you're saying is they're actually just helping to continue to evolve existing technologies. You know they're not bringing about a truly radical change.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 643.166,
+      "endTime": 684.586,
+      "text": "Yeah, I totally agree with that perspective and I think it's going to be difficult to look back at this time 10 years from now and, as I said, it will be difficult to identify the role of AI and what it actually was. But on that point about incremental technology improvement, if I went back into 2010 and told you, you know AI is coming and we're going to have, by 2024, a 90 to 95% reduction in cost for battery technology and solar technology, and that's really going to change the game for these technologies, you would assume, just based on the construction of that sentence, that AI had enabled a major technology breakthrough, but that, first of all, was not the case.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 684.666,
+      "endTime": 688.299,
+      "text": "Had enabled a major technology breakthrough, but that, first of all, was not the case. But secondly,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 692.38,
+      "endTime": 723.012,
+      "text": "it's the same technologies that we had in 2010 that we have now. It is merely the cost reduction achieved by scaling them up and gaining more prosaic learning by doing More people just know how to do this. More people can compete in this space, more people can gain access to these technologies. So I would predict I think it's a very safe prediction that those cost reductions will continue and that any new material or fantastic new invention developed by any super intelligence will be competing with a dramatically cheaper technology than they expected to be competing with.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 724.08,
+      "endTime": 756.002,
+      "text": "So just to finish this part off, before we move on, I also looked at whether there were particular kinds of platforms and tools that have been developed, and what was kind of spat out to me was that there were tools to develop and support the green energy revolution, as it called it. And, to be honest, all of these I mean they're examples of platforms, but they're kind of really the same examples we've just given. So google deep mind, which you you mentioned before, significantly improves the forecasting of wind power. Again, as you say, it's improving the forecasting of it, but it's not inventing something new.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 756.022,
+      "endTime": 805.652,
+      "text": "Uh grid, which uses ai to transform electricity demand into flexible energy resource for utilities, applying big data analytics to manage and optimize energy consumption. So, again, a better way of doing something, but it's a technology that's already incredibly advanced. Ibm Watson, predicting renewable energy availability and demand. Microsoft AI for Earth, which apparently one of the aspects of that is projects on energy, such as building AI models to forecast performance of renewable energy resources, optimizing energy consumption patterns in buildings and factories. And then Energix, an energy weather analytics platform powered by AI, which provides solar and wind energy production forecasts, helping renewable energy companies to utilize and better manage their energy output.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 807.321,
+      "endTime": 838.452,
+      "text": "So you know all those examples to me they're great tools on their own, but they're really the same as the four examples we gave before in terms of enablers. So, yeah, I mean I want to have a positive and the stuff in there that's potentially going to make things better. But I think I was hoping, when I researched this and when I spoke to you, that there was going to be a big new technology in the offing, and it feels like we're not really at that point where we're just at a point in which AI is helping to iteratively advance the existing technologies that we have.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 839.44,
+      "endTime": 887.686,
+      "text": "Yeah. Well, I think it's possible to be very positive about these technologies in their present state, sufficiently positive that you don't need a breakthrough technology. That would otherwise be a big case for AI. On the forecasting, I'm not trying to say that this is not important at all. Definitely, having more and better granular knowledge of wind and solar output is important, and the way that that makes the grid potentially more sustainable is that you can need fewer resources to be up and spinning, if you're talking about thermal generation, and you can have better utilization of battery energy resources, which are there to absorb excess supply and shift that supply to other times when it's needed, and you can potentially then modify the load at some level.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 887.947,
+      "endTime": 934.195,
+      "text": "In certain industries or certain consumers might be able to modify their load and if you're the utility company, you could pay them to do so, and then that would help better balance renewable energy. However, again for the fluctuation the daily fluctuation, the seasonal fluctuation of wind and solar, that does not need AI. That needs massive amounts of either flexible resources which currently we don't have enough flexible resources either supply or demand side, or storage, and storage is not the main need here, but there will be increasing needs for energy storage, whether through your own personal EV or through grid-tied storage, and just having the capacity online is the big hurdle, not optimizing it per se",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 951.2,
+      "endTime": 953.546,
+      "text": "so let's move on to where I imagine um will be the kind of meat of our conversation today.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 953.566,
+      "endTime": 993.54,
+      "text": "so we're going to flip it around now to concerns about artificial intelligence, and I think for me there are really two obvious ones that stand out. One, which I think is the one obviously particularly pertinent to this podcast is, is the energy use of AI, and the second one, which I think is also relevant, maybe less directly, but the potential for AI to divert capital away from achieving climate change goals, and I think there's a really kind of it's a crude example, I know, but Sam Altman's asked for $7 trillion for AI chips. Now, if that money goes to chips I'm not saying 7 billion is ever going to go there, but if 7 trillion is going to go there, but then that 7 trillion doesn't go somewhere else.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 993.961,
+      "endTime": 1018.992,
+      "text": "So I think for me that is one big concern. Obviously, you know, in terms of your area of expertise, let's maybe address energy use first, but I think that's the one where you're obviously an expert. I'd really like to know where you stand. I'm just going to leave that out there. Let you kind of roll with it with your thoughts on both those issues, I guess the energy sector has always been a very unappealing sector for venture capitalists.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1033.22,
+      "endTime": 1065.194,
+      "text": "It wouldn't be a surprise to me if I went to a VC conference and sustainability only came up as an advertising theme, as opposed to something that was actually investable. That might have changed in the past few years due to just the global trends and enthusiasm over clean energy and electric vehicles in particular. But in general, the energy sector, whether it's the hot new technology or the old technologies, is a technology that requires large capital investments in long-lasting physical equipment, and that is not where venture capitalists play. It's not even where most equity investors",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1069.181,
+      "endTime": 1114.413,
+      "text": "you know the widows and orphans. It's a bad phrase, but investment professionals often use the phrase to refer to people who, the people who invest in your utility company, your electric power company, your water company. Still, most funds that are needed for the energy transition come in the form of boring debt and potentially even more boring subsidies and just out and out government R&D research, not research that's taking place as a result of venture capital investment, and indeed the original development of both lithium ion and solar really does trace back to government R&D connected to semiconductors and the space race and these sorts of things.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1114.513,
+      "endTime": 1130.472,
+      "text": "So I don't think that venture capital is needed and again because I don't think that technology breakthroughs are essential. Instead, it's very large expenditures of capital to transform the energy system that are needed, and that's not going to come from Sam Altman",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1137.4,
+      "endTime": 1137.882,
+      "text": "to come from Sam Altman.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1137.902,
+      "endTime": 1173.866,
+      "text": "Yeah, I mean I completely agree. So, in terms of the impact of AI energy use and I mean I've got a few facts I think at the moment, data centers use estimated 2% of energy use, which it surprised me, but is the same already as the aviation industry and obviously growing faster than the aviation industry. There are some forecasts that put it at potentially 20% by 2030, or certainly 20% at some point later than that. But whatever it is, I think we can say it's going to be a huge strain on energy markets. I hear that all the big players are buying up, you know. So maybe this is the answer they're buying up sources of renewable energy, which obviously is better than them buying up fossil fuels.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1174.908,
+      "endTime": 1196.749,
+      "text": "But then I guess the argument with that that I would make is well, that's great, that's moving. If they're investing in the use for data centers, that investment is not going to use the same renewable energy for something else. So are you concerned that the use of energy for these data centers is going to take away and divert energy that would go somewhere else? What are your main concerns on this?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1197.431,
+      "endTime": 1242.97,
+      "text": "Well, I am concerned about it. I don't think that it's up to me or energy analysts to decide what the most productive sectors of the economy are that should be allowed or granted quotas to use electricity. So it is simply a fact that data centers are consuming more electricity and that's going to continue, and it's a source of both uncertainty and we need to figure out ways to address it in a sustainable way. I saw this report from IEA said that data centers are going to grow from 460 terawatt hours in 2022 to 620 to 1050 terawatt hours in 2026. So that's somewhere between 50 and 150% in four years, and it's a pretty big range.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1243.43,
+      "endTime": 1277.932,
+      "text": "So it gives you some idea that there's a lot of uncertainty and you know talking about how AI is going to be able to forecast things a little bit better. It'd be interesting to know what the forecast here of data center energy consumption would be. But then what's? The question is, what's the percentage of that that would go to AI specific? And that's one of the big mysteries, because it's really hard to tease out what data center energy consumption is being used for. I mean just the most simplistic level how much is being consumed for cooling versus using electronic equipment at the data center.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1278.353,
+      "endTime": 1329.374,
+      "text": "Even that is not something where it's really easy to get that information, even for an existing data center not going to necessarily disclose that publicly, let alone for the industry as a whole. Now there was this paper it's widely cited out there and unfortunately it's not free online by Alex DeVries in Juul, who just forecasted that, based on the present rate of NVIDIA AI server sales, that AI servers would consume 85 terawatt hours of electricity by 2027. So just remind you that we just said that 460 terawatt hours total for data centers overall, and then AI is going to go from approximately not very much or nothing a few years ago to a significant fraction of that, but definitely not the majority of that by 2027.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1329.414,
+      "endTime": 1383.089,
+      "text": "So it's growing, but data centers as a whole are growing in absolute terms more than this very large forecast from this jewel paper. I did a bit of a back of the envelope calculation and basically 85 terawatt hours. That does equate to about 39 gigawatts of solar PV capacity average and that's more than the United States added solar last year, but it's not like an order of magnitude more. And then, similarly, if you did it all with wind, it would be 25 gigawatts of wind and, of course, the world is adding both wind and solar at rates annually far larger than that. So it is not something. It is a scary number, but it is not something out of line with what renewable energy could meet if we just talked in again absolute terms and didn't worry about when the energy is available and this sort of thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1384.241,
+      "endTime": 1439.147,
+      "text": "So, yeah, it is possible that the AI data center energy consumption could be met with the incremental renewable energy that is being added, with plenty left to supplant the regular electricity that we're already consuming for other purposes. Another interesting thing I thought was to think about how the different AI applications affect the energy consumption, and there's a lot of different things. When we talk about AI, we just group all of these things that we know AI can do together as if they're sort of all the same. But there's a very interesting study by some scholars at Carnegie Mellon and elsewhere that found that if you took a thousand requests for generating text, that would consume 0.047 kilowatt hours a thousand requests Whereas if you did a thousand requests for generating an image, that would consume 60 times more than that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1439.308,
+      "endTime": 1484.263,
+      "text": "So to use as much energy as a 100 watt bulb for generating these generating tests, requests like what, what you did in prep for this podcast? Perhaps, um, you need to make 2000 of those requests, whereas you know you need to make 30 image requests to do that same amount of. So we don't know what AI is going to be used. Is it going to be used more for the text generation as opposed to more for, hey, making cool videos that we think that could could go viral but don't actually serve any function of society other than addicting people to their smartphone, maybe? So, yeah, it does depend, I think, to some extent, on what ai gets used for, and there again, we don't even know what it's being used for right now in terms of energy consumption.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1484.744,
+      "endTime": 1493.141,
+      "text": "The companies that are managing the data centers they don't know how their data centers are being used. All they know is what requests they're getting and from where you.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1493.161,
+      "endTime": 1528.503,
+      "text": "you actually beat me to a point I was going to make there, although you've done. Centers are being used. All they know is what requests they're getting and from where. You actually beat me to a point I was going to make there, although you've done far more calculations than I have. But the fact I've been musing on and quoting was an image on DALI. So I imagine mid-journey and stable diffusion and any of the others are pretty much the same. But the creation of one image, the energy use, is the equivalent to that of charging a mobile phone, which, when you put it like that, is incredible. And you think that if and when Sora becomes available for public use I mean think of it in a way some of the technology or some of the use is coming out now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1528.604,
+      "endTime": 1572.244,
+      "text": "Video generation is one. It's great, it's fun, people are being blown away, but actually it's not really where I, I is going to have an impact. It's, you know, it's a kind of fun thing and it it's not. I I wonder, with some of these things, where they're actually. If you're creative and you, you're potentially going to lose your job, but that's, that's obviously awful. But if you're going to keep your job, you're going to use these tools. Uh, but for others. You know I'm making images, maybe because I can at the moment and it's fun to do, but actually, surely I'm going to grow tired of that. You know, actually I I need to make an image for something from time to time, but I'm not going to be spending my nights playing around with image creation tools and and video creation tools all the time, like I will at the beginning.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1573.527,
+      "endTime": 1589.566,
+      "text": "Some of these technologies where I think, yeah, if everyone's going to make a video on Sora every night, obviously the use of energy is going to be huge, but actually, if people can use it, they won't be using it all the time. Um, I also think at some point it will be charged for and and you know this, this false economy of it",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1595.74,
+      "endTime": 1626.072,
+      "text": "false economy of it you're basically appearing to be free at the moment will change, um, but but anyway, you know, you're going to see, I think, better chips that are far more efficient. Data centers will be cooled in different ways. Uh, they're already using water to cool them. Although the argument there is, of course, it cuts that energy. But there's a separate issue in that we're going to potentially, in many areas, have a shortage of water and that that diverts water away from from other uses as well, unless you can find a way to use you know, salt water perhaps. Um, anyway, I think maybe we don't need to get so far off in this episode, but you know even the technologies that are potentially reducing energy use.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1626.092,
+      "endTime": 1684.711,
+      "text": "Uh, it just means we're using another resource. So I wonder whether this idea know that the big players are being responsible and they're investing in renewables. Obviously you know again, openai. I think Sam Altman's invested in nuclear fission technology, or is at least trying to. They're all looking at nuclear because they realise they're going to need to have their own sources. Perhaps that helped and perhaps, as more renewable energy sources are created, some of that can, you know, be used and fed back into the grid, and maybe it's not all used by them, but in a long way. The point I was making is if you're building x amount of wind farms on the basis that they, that they were there to meet our climate targets based on a certain amount of energy use, I'm assuming that we didn't expect that we're going to add in this 20% increase in demand and all our calculations work on the basis that, of course, demand for electricity was going to increase, but the rate that it was going to increase has now gone up exponentially.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1684.92,
+      "endTime": 1697.344,
+      "text": "And this potential extra 20% of energy use has that been factored in? Do we know that? I mean, maybe we don't know that, but do you think that's been factored into calculations?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1697.745,
+      "endTime": 1726.076,
+      "text": "Well, I think in the past few years, the assumption that the electrification of the economy transportation to start with, but industry as well would lead to a substantial increase in electricity consumption in developed economies as well as in the developing world, that has been increasingly the view. It hasn't happened yet. So actually, it would, uh, simply fulfill something that we've been expecting for quite some time, but, um, but isn't this another 20?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1726.296,
+      "endTime": 1734.008,
+      "text": "you know, on top whatever was built in, this is another 20 on top of that obviously, if it had not been built in then it had not been anticipated.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1734.048,
+      "endTime": 1757.815,
+      "text": "But yeah, I think that it does somewhat work against the energy transition to see a massive spike in energy consumption from a field that was not expected. But at least if it's electricity it's not. Hey, we're expecting a 50% increase in air travel because people have so much free time that they're all flying to Bali every year.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1759.26,
+      "endTime": 1797.71,
+      "text": "So I actually listened to a webinar it was an economist webinar as a follow-up to their Babbage podcast series on AI last week, and one of the questions put to their deputy editor was exactly about this point on on energy use and ai and and he argued back sorry, in terms of data centers, he argued back that actually it's pretty easy to decarbonize data centers because it's just electricity. So you're using that aviation example again and the argument you made I'll take this side of it, although it's not necessarily my view, but for the interest of this podcast was that the example of the aviation industry.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1798.171,
+      "endTime": 1811.485,
+      "text": "The aviation industry's got to find new technologies and then it's got to find the electricity, whereas with the data centers, well, they just need to find the renewable energy. So actually the argument is that the transition itself is not that difficult.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1812.327,
+      "endTime": 1840.488,
+      "text": "Yeah, I agree with that and I think to say that it's not that difficult. It's difficult but it's not as difficult as the aviation industry and several other. You know quote unquote hard to abate or hard to address sectors in industry, but yeah, it is hard and of course, the amount of electricity consumption, as we already mentioned, is quite large and I think a lot of people the first question out of the box about you know two, 3% of your electricity",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1855.041,
+      "endTime": 1897.107,
+      "text": "use of a large data center from rooftop solar and that would be like in the most sunny location, and then of course, that uh, solar energy is not going to be producing all the time, whereas the data center loads tend to be very flat and tend to be very inflexible. Um, so basically it's, it's like your base load factory that's always operating three shifts a day as opposed to a load that's coming on eight hours a day and it's predictable and it can potentially match better with solar. The interesting things the data center industry is some of the most active in various efforts related to ESG and carbon accounting to try to offset that electricity consumption.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1897.588,
+      "endTime": 1932.126,
+      "text": "You probably know that Google and Amazon Web Services are some of the biggest procurers of renewable energy globally, both through power purchase agreements and then buying these traded renewable energy certificates that are available in some states and some localities, and so they've done a lot of research on trying to figure out how they could procure renewable energy and how they could potentially own it themselves around the world to offset their consumption, and one of the basic findings from those studies has shown that it's really more the location of the data center that matters for energy consumption.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1932.227,
+      "endTime": 1981.756,
+      "text": "So if it's in a cool climate, obviously, I know that Microsoft some years ago was even looking at putting some data servers underwater off the coast to potentially reduce the cost of cooling, and so that is important. Unfortunately, the location of data centers is not as flexible as people sometimes imagine. Like all our data centers will be in Antarctica or something, the location of data centers really does rely on both the data networks, which are expensive to build, even though we don't think about it too much anymore, as well as the availability of electricity through transmission lines, and basically because the data center operators, their main performance indicator that they use to sell their services to clients is their speed and their reliability, not their carbon accounting.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 1982.201,
+      "endTime": 2031.983,
+      "text": "So that means that they do tend to locate near to the largest and most developed cities, for example in California, might be in Texas, might be in Shanghai or Guangzhou, if you're talking about China, and so efforts like in China, where there was a very important national policy to seek to relocate data centers to Guizhou or Inner Mongolia, places with better climate or energy efficiency purposes and basically both the power sector and the data networks kind of work against that. And there's also the possibility, a very intriguing possibility, that data centers could be part of the solution in the sense of becoming more flexible to match what energy we're receiving from renewable energy, and that would obviously help them with their sustainability goals.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2033.064,
+      "endTime": 2068.98,
+      "text": "A bunch of different actual experiments have been done on a very small scale by Berkeley and others that showed that it was possible to time shift very low priority tasks from one period to another and that would help absorb renewable energy, or to shift them locationally. So you're sending tasks with lower priority to Inner Mongolia while you're doing the hard urgent ones in Shanghai, for example. And unfortunately, testing that out with the data center industry ran up against a total brick wall because, as I mentioned the data centers themselves, they say they don't know what types of tasks they're receiving.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2069,
+      "endTime": 2073.131,
+      "text": "They have no indication of priority on the tasks that they receive,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2078.94,
+      "endTime": 2122.583,
+      "text": "only their customers. And those customers are several links down the chain, so there's no way for them to prioritize in the first place. And then, secondly, I mentioned reliability and speed. Those are the main things that customers demand. So any incentive around the time of use, electricity prices or regional electricity prices is completely insignificant. I mean, data centers, located in Texas, is related to lower power prices, but that's very low down on the list compared to the speed and reliability. And then finally, the data centers overall their demand is just relatively flat. So they only have even in the best case scenario where they were totally incentivized and totally aware, they really only have limited demand for some kind of flexible data requests.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2122.844,
+      "endTime": 2155.033,
+      "text": "And you know, I think that we heard from one data center operator who said like maybe there's a five to 10% boost in daytime demand related to when people are awake, they're gaming more, they're watching videos more, they're calling more, but most data center operations are just flat throughout the day and so that really limits the flexibility and the ability to integrate renewable energy, unfortunately, Well, I guess if Trump wins in November and tries to buy Greenland again, maybe they can move all the data centers there and build some of the small nuclear reactors next to them.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2155.2,
+      "endTime": 2163.413,
+      "text": "So you know, maybe there's a certain silver bullet there, if things go a certain way in November with the election.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2164.14,
+      "endTime": 2173.511,
+      "text": "I have a feeling that the US territorial control of Greenland is a very small factor in the degree of connectivity of Greenland.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2174.46,
+      "endTime": 2209.121,
+      "text": "Yeah, I think so. Just one thing that you touched on that I think is probably worth saying is all the big players and I'm talking Silicon Valley here. I don't have any data on the sort of Chinese players at the moment, but all the Silicon Valley big players are aiming to be carbon neutral, and Microsoft's targets are to be carbon negative. So, yeah, they've set themselves the targets and the goals and you'd like to think that they will be responsible in that respect. I guess we should have a look, or I should ask you, rather, what you think we can do to address these concerns. So it's quite a broad question, but do you have any advice?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2209.161,
+      "endTime": 2220.464,
+      "text": "Do you have any things that you're working on or advice on how we address the concerns around either capital, uh, or, you know, around around any of these views, really?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2222.406,
+      "endTime": 2279.557,
+      "text": "Yeah, I think that disclosure is pretty basic, that countries do not know how much electricity is being consumed by data centers, and, although an individual data request coming from a consumer is obviously private information, how much electricity is being used by data centers is basically something for the public domain. It's not a corporate secret, I don't think, and there are definitely. China, for example, has performance requirements for data centers. I think that most countries should also have those requirements. There should be. There is definitely an industry standard for the performance, energy efficiency, performance of data centers, but I think, even more than that, it would be good to have more granular knowledge and data available on how electricity is being used, when it's being used, and I think that that would then feed back into the exact type of forecasting.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2279.597,
+      "endTime": 2318.676,
+      "text": "Models that we were talking about are necessary in order to estimate when renewable energy is going to be available. Estimating future demand is really important, just as important as estimating future supply of renewable energy. So it's sort of ironic to say that one contribution of AI could be to estimate future renewable energy production, but meanwhile, we have to keep secret how much electricity AI is consuming. That's a proprietary thing that we couldn't reveal to you if you're outside the walls and often if we can't reveal it, it's because we don't know ourselves. So I think that disclosure.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2319.137,
+      "endTime": 2363.266,
+      "text": "And then on the renewable energy side, I think it's great what the companies are doing, and I would also mention that Amazon and Google have made serious commitments not just to consume renewable energy in general which a lot of companies do but also to really seek to match when they're consuming electricity with when renewable energy, when and where renewable energy is being produced. And that's very challenging technically to do. As I mentioned, their own load is quite flat. So how do they match then with renewables? And I think there is where policy has to come in and really link renewable energy claims to when and where the renewable energy is produced.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2363.306,
+      "endTime": 2406.155,
+      "text": "And I'll just give you an example that's completely ridiculous to show how important this is, which is there is a large company, a large industrial company, global Brand, which has an extremely massive facility located in Iceland which gets all of its electricity from renewable energy, especially geothermal, and they do not purchase green certificates to claim their renewable energy production because the country of iceland is selling those certificates to european factories to make such similar claims. However, this company says they feel, morally, they should get some credit for the fact that their operations are zero carbon,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2410.685,
+      "endTime": 2449.987,
+      "text": "but they feel they would be paying twice if they then had to purchase these certificates to verify. By the way, there is no power cable between Iceland and Europe, so there is physically no connection between those people who are claiming the consumption of this renewable energy and Iceland. That is very common. That most companies that claim to be offsetting their renewable energy, their electricity consumption, with renewables, are simply taking their annual consumption and netting that out versus the number of certificates, which are very cheap. They're basically free to purchase, because these technologies are already quite cheap compared to the regular electricity sources.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2450.548,
+      "endTime": 2498.433,
+      "text": "And then, in addition, there's a paradox, which is that if I am incentivized by the ability to make these green claims, to purchase green certificates on the open market, well obviously I will purchase the cheapest ones. And those cheap ones will be available at the exact times of day and in the exact locations where renewable energy is not needed otherwise. So think of California. In the middle of the day there's a surplus of solar. Solar is actually priced negatively. We will pay you to take this electricity. And if I am then artificially increasing the production of solar energy at that time, but not increasing my actual physical consumption of electricity at that time, I am worsening that oversupply situation.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2498.554,
+      "endTime": 2522.247,
+      "text": "So I am making a green claim but I am actually making things worse down the line. So this is more related to the policies around green claims of companies those need to be improved in order to make sure that those leaders, like I mentioned Amazon Web Services and Google that are really seeking to do the right thing here, that they are not the outliers and everybody else making green claims is then just getting a free ride on their backs.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2523.109,
+      "endTime": 2534.848,
+      "text": "I mean, I find that not surprising, but incredibly interesting at the same time. I mean, we could, I guess, talk for hours on some of these points. I think, in the interest of time, though, we probably will have to move on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2544.857,
+      "endTime": 2584.316,
+      "text": "And just in terms of this particular podcast, you know, usually we try and focus somewhat on the impact on people in the job market. So, while I appreciate this is not your area of expertise, but I'm interested in your opinion on both the energy sector or, you know, sustainability more generally, but also just your general views in terms of the impact of AI on jobs, and it can be a positive or negative. We can talk about the use of tools. If you're a believer in this huge boom in productivity or if you believe we're going to see mass social unrest, I'm interested in your thoughts wherever you stand on the issue.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2585.725,
+      "endTime": 2616.356,
+      "text": "Yeah, I think that I am a little bit more on the concern side. I think that these issues around the changes in employment are real the disappearance even before I was born, but during my own lifetime, the change of the way jobs and job markets are constructed, I think has led to a lot of precariousness in society, which has really changed the politics in a lot of countries, changed the feeling of security that people have about their own lives. Greater industrial turnover, greater uncertainty. That affects lives negatively. Even if people",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2627.726,
+      "endTime": 2660.546,
+      "text": "in terms of, you know, gdp growth or their own personal disposable income is not doing that badly, uh, maybe psychologically it takes a toll. So I think that even the even if it's not a threat to people's jobs right now, uh, probably psychologically it is already having an effect on people's mentality. Is worrying that, hmm, this is you know within is already having an effect on people's mentality. Is worrying that this is you know within, not just within my lifetime, but within a few years I could actually lose my, not only my current job but my whole livelihood. Will have to change that really.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2660.846,
+      "endTime": 2699.418,
+      "text": "And, you know, for policymakers that also is a big concern because you know when you're a policymaker that you get not only more political benefits from seeking to protect those jobs that already exist, but if you want to make a bet that you are going to create jobs in new industries through development of those industries, well you as a leader don't have any idea physically where or what type of people or what type of qualifications those will be. Very likely. It will not be people who are middle-aged and above type of employment opportunities, so that's challenging as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2700.806,
+      "endTime": 2735.773,
+      "text": "I mean, at this point in time, you know, we don't even know what those skills are going to be. I think that's one of the points. Here is five certainly 10, 15 years ago you wouldn't have known or you wouldn't have said that a mobile app developer or a YouTuber or an influencer, tiktok, would be the career that many young people would want, and so we don't even know what these skills are going to be, because we don't know what the jobs are going to be. I think for policy makers, part of the problem is how can you make a policy when you don't know and let's be honest, you know, we really are in a period where we just don't know.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2736.394,
+      "endTime": 2748.117,
+      "text": "If you're talking about retraining and that seems the obvious thing is you need to retrain people early, but retrain them for what you know. What are the skills we're training them for? I think we don't know what those skills are completely yet.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2748.946,
+      "endTime": 2794.855,
+      "text": "I mean, I've looked into related to the energy transition, not AI, but I've looked into some of the retraining policies that were connected to past free trade agreements, for example, and a lot of these retraining policies sound good on paper but in terms of their actual impact, it's quite depressing to see what their results are. And you know, a lot of times the people whose careers are affected are those who, honestly, their qualifications may be so rusty or out of date that they don't qualify for the retraining programs that are made available to them through government programs. I mean, that's just one example, but, yeah, I think that retraining is often thrown out there, but there needs to be some specifics and how can we have them, as you said?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2795.306,
+      "endTime": 2836.612,
+      "text": "I mean, doesn't the energy sector? If we're talking about the need for the huge transition, the increases in energy that we're going to need, I mean surely this is an industry where you would see there are a lot of opportunities and that there is still a lot of growth to come. So I mean I hope there is, because it's the green transition. Really, if that doesn't create jobs that governments are promising, then where are the jobs going to come from? Because not everybody can go and work in the field of AI. It feels to me there should be some degree of positivity within the energy sector that that will create some of the jobs that we need that is true, generally speaking, clean energy jobs are.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2837.474,
+      "endTime": 2890.656,
+      "text": "There are a large number of jobs available in clean energy industries relative to their electricity production, and that is not in the actual physical manufacturing of these technologies, but rather in the installation and the design of systems that incorporate them. And so, yes, renewable energy and clean energy in general is a creator of jobs, even if those jobs, as we discussed, are different in terms of qualifications and background, but they're not necessarily high-end technical jobs, research, lab-type jobs. There are a large number of jobs at different skill levels in this field that, unfortunately, they're not necessarily those lifetime jobs that might have been promised by those incumbent industries in the past, but there are a large number of jobs, and they're not physically dangerous jobs necessarily either.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2900.946,
+      "endTime": 2920.697,
+      "text": "So what's your own personal experience using AI tools and this can be professionally or personally. I I mean, if you use things professionally, that would be interesting. But you're are you an early adopter? Are you someone who's been using these tools for a while, or are you someone like most people? I think you still you're really trying to feel their way through and and work out what's going to be useful to them.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2921.506,
+      "endTime": 2933.898,
+      "text": "I would say the latter. I am definitely a late midlate adopter, and not due to a fear or lack of belief, but more just I haven't experimented enough.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2934.527,
+      "endTime": 2936.405,
+      "text": "Lack of time is most people's answer actually.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 2937.067,
+      "endTime": 2983.815,
+      "text": "But I've heard other people, and I would have to say that it's similar to my being a late adopter of cell phones, where I am already a beneficiary of the tools, even if I myself did not become an early adopter simply because I am receiving the benefits from others, and I do spend a lot of my time editing documents, including documents that were not initially written in English or by an English speaker, and so I do believe that AI is already helping me there, and I just don't have any way of identifying for certain where exactly, because I'm receiving documents that are already much cleaner than what I would have received in the past, and I think that that will only continue to be the case, but I do anticipate very much so that I will be using these tools regularly, just in the same way that I use Google regularly now.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2985.825,
+      "endTime": 3019.389,
+      "text": "I thought maybe we would try to end the podcast on a positive note, with some recommendations from you. So this doesn't need to be about AI, I presume. I hope People listening to this podcast have got an interest in sustainability and energy and the transition as well. So, if it's things to read or watch, if it's AI tools, yeah, like I said, I'd just like to end the podcast with something positive. Anything you'd like to recommend to our listeners and, of course you know, a recommendation for your own podcast, Of course. This would be a good opportunity to let people know about that as well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 3019.93,
+      "endTime": 3066.854,
+      "text": "Right, yeah, I would definitely put in a plug for the Environment China podcast. It's available on all your podcast platforms and, of course, our focus is on sustainability, on the environment, on the energy sector as it relates to China, but we do have a lot of different content within those realms and in terms of AI, I'd say I'm not an AI expert, but I'd say that we do need to kind of look at what the companies are doing and saying in regards to energy consumption and sustainability and continue to monitor this Because, as we just heard, in the next few years it's going to be a very large increase in energy consumption for these tools and probably whatever pattern of energy consumption gets locked in, it will be locked in in this period of most rapid growth.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3068.065,
+      "endTime": 3089.734,
+      "text": "Okay, well, anders, thank you, it's been an absolute pleasure. I am, as always, blown away by your knowledge and expertise and the amount that you know. It's been a privilege to have you on here, so thank you for giving me your time on a Saturday and I hope people have enjoyed that. I think it's been very different from other episodes, but but but fantastic, really good.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Anders Hove",
+      "startTime": 3090.395,
+      "endTime": 3091.797,
+      "text": "Glad to do it. Thank you, Matt.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3093.12,
+      "endTime": 3118.631,
+      "text": "Well, thank you everyone for listening. We will end, as we usually do, with our AI song on energy and artificial intelligence today. I hope you've enjoyed this episode. Like I said, we'll have more of these as part of this sustainability sub-series and we'll also be back with a normal podcast as well, looking at another industry. So thank you for listening, anders. Thank you again for joining us. Have a great day everybody. Keep listening, subscribing and telling your friends about the show.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Suno AI-generated outro track (no human speaker)",
+      "startTime": 3118.912,
+      "endTime": 3138.056,
+      "text": "Take care, bye, bye in this small town where the trees sway, folks work hard night and day, but there's a whisper spreading wide about a future that can't be denied.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Suno AI-generated outro track (no human speaker)",
+      "startTime": 3149.29,
+      "endTime": 3187.686,
+      "text": "They say AI's a mighty force, but it needs power to stay on course. 80 centers hung night and day, gobbling up energy come what may. Oh the bites of progress, oh, so grand, bringing changes to this land. But to fuel the dreams we must find a way. Harness new green tech For a brighter day. Thank you.",
+      "chapterIndex": 6
+    }
+  ]
+}

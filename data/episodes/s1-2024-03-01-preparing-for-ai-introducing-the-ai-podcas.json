@@ -1,0 +1,678 @@
+{
+  "slug": "s1-2024-03-01-preparing-for-ai-introducing-the-ai-podcas",
+  "buzzsproutId": "17339135",
+  "title": "PREPARING FOR AI: Introducing the 'AI Podcast for Everybody'",
+  "date": "2024-03-01T11:00:00.000Z",
+  "season": 1,
+  "durationSec": 1913,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/17339135-preparing-for-ai-introducing-the-ai-podcast-for-everybody.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Two British friends and self apointed 'AI experts', sitting in China and watching artificial intelligence transform the world from a unique vantage point. This is 'Preparing for AI- The AI Podcast for Everybody'. It's not your usual AI podcast, this is not about benchmarks or clickbaity takes on the latest AI news – it's all about bringing a fresh perspective that explores the human and social impact of AI, bridging Eastern and Western approaches to technology development, delivered with honesty and accessibility. Matt Cartwright and Jimmy Rhodes have reimagined their podcast journey with this reset episode, candidly admitting their original first recording was \"rubbish\" while highlighting how far they've come. With Matt focusing on human and social impacts and Jimmy bringing his software development expertise, they create conversations that balance technical understanding with broader societal implications. You won't find impenetrable jargon or ivory tower discussions here – just straightforward explorations of how artificial intelligence is reshaping our world. Their British humor shines through as they tackle everything from utopian possibilities to dystopian risks, maintaining critical perspectives particularly toward industry giants like OpenAI and Sam Altman. Living in China provides Matt and Jimmy unique insights into a society where AI is already deeply embedded in daily life. They describe scenarios most Western listeners might find futuristic – robots delivering room service food that was ordered through AI systems and delivered by algorithm-guided couriers – while examining the broader implications of the technological race between global powers. The hosts recommend several standout episodes for new listeners, including their exploration of AI Utopia versus Dystopia, interviews with everyday AI users who've transformed their work through these tools, conversations with China-focused researchers, and an innovative episode where they interviewed AI systems directly. Throughout these discussions, they maintain a critical but balanced perspective on both tremendous potential and serious risks. Whether you're AI-curious or seeking deeper understanding of how these technologies affect society, \"Preparing for AI\" offers an entertaining, thought-provoking entry point. Join these two friends as they guide you through the rapidly evolving landscape of artificial intelligence with honesty, humor, and genuine insight.",
+  "summary": "The reset 'episode one' explains the podcast's purpose and picks its best back-catalogue. Matt — the human-and-social-impact half, a self-described 'complete conspiracy realist' who thinks Sam Altman 'may be the devil' — and Jimmy, the software-developer optimist now 'vibe coding' hand-in-glove with AI, frame the show as the accessible 'AI podcast for everybody' from their vantage point in China, where robots deliver hotel takeaways and algorithms run daily life. They recommend the Utopia/Dystopia two-parter, Tech Optimist, election interference, the AI interviews and the China episodes.",
+  "keyTalkingPoints": [
+    "The original first episode was 'rubbish' and got three times more downloads than anything else — hence this reset introduction",
+    "Personas: Jimmy the technical optimist who went from janky GPT-3 chats to vibe coding; Matt the social-impact doomer who 'hates Sam Altman'",
+    "Model journey: early Claude fandom, DeepSeek experimentation, and now Gemini as probably the best ecosystem",
+    "China vantage point: AI is already embedded in daily life — delivery algorithms, and hotel robots that bring takeaways to your room",
+    "Best-of picks: Utopia v Dystopia two-parter, Ben Cook's Tech Optimist, election interference, Interview with an AI, Healing Trust, China episodes with Christy Loke and Grace Hsiao",
+    "Matt's information-overload warning: the 'dead internet' now exceeds 50% AI-generated content, and his own spiral is the cautionary tale"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Self-taught software developer and the show's optimist — from banging his head against GPT-3 to vibe coding in the evenings",
+      "Current AI capability is the worst it will ever be; the trajectory is what matters",
+      "Open-source proponent: Meta, Hugging Face and smaller voices like Cereberus keep the ecosystem honest",
+      "Recommends the election-interference and interview-with-an-AI episodes as eye-openers for new listeners"
+    ],
+    "matt": [
+      "Leads on human and social impacts; a 'complete conspiracy realist' who thinks Sam Altman is 'very slimy' and possibly 'the devil'",
+      "Anthropic fan who now concedes Google's Gemini has the best ecosystem — while distrusting OpenAI the company, not the model",
+      "The podcast exists to keep listeners informed of dangers because reaching utopia requires pushing back on unregulated big tech",
+      "China residency gives the show a unique East-meets-West perspective: AI already runs couriers, medicine and hotel robots"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-03-01-preparing-for-ai-introducing-the-ai-podcas-1181.7-more-than-half-of-all-information-on-the-interne",
+    "s1-2024-03-01-preparing-for-ai-introducing-the-ai-podcas-1013.76-most-people-have-probably-already-had-a-conversa",
+    "s1-2024-03-01-preparing-for-ai-introducing-the-ai-podcas-199.868-today-s-ai-capability-is-the-worst-it-will-ever-",
+    "s1-2024-03-01-preparing-for-ai-introducing-the-ai-podcas-1603.78-patients-do-not-want-an-advanced-ai-they-want-a-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Chat GPT voice",
+    "Dr Gilbert Xie",
+    "Dope Beats"
+  ],
+  "chapterCount": 7,
+  "turnCount": 85,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 0
+    },
+    {
+      "title": "The Podcast Reset and Evolution",
+      "startTime": 163
+    },
+    {
+      "title": "Hosts' AI Journey and Perspectives",
+      "startTime": 330
+    },
+    {
+      "title": "Models We Like and Dislike",
+      "startTime": 680
+    },
+    {
+      "title": "The China Connection and Perspective",
+      "startTime": 1027
+    },
+    {
+      "title": "Best Episodes and Recommendations",
+      "startTime": 1228
+    },
+    {
+      "title": "Final Thoughts and Song",
+      "startTime": 1725
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 37.91,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. So, needless to say, I'm odds and ends, but I'll be stumbling away slowly, learning that life is okay. Say it after me. It's no better to be safe than sorry. Welcome to Preparing for AI with me, Matt Cartwright.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 38.291,
+      "endTime": 41.424,
+      "text": "And me, Jimmy Rhodes. So this is episode one, right.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 41.725,
+      "endTime": 55.789,
+      "text": "This is episode one, or episode 52, depending on how you look at it. So we started recording this podcast in March 2024. And, frankly, we listened to the original episode and it was rubbish.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 56.311,
+      "endTime": 61.869,
+      "text": "Yeah, it was. I mean, we were inexperienced. It was our first ever episode of a podcast, yeah it was terrible.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 62.361,
+      "endTime": 63.847,
+      "text": "It was basically two monologues, wasn't it?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 64.721,
+      "endTime": 69.552,
+      "text": "But to put a more positive spin on it. I think we've improved um since then. Is what?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 69.632,
+      "endTime": 83.846,
+      "text": "I do, but we should explain why we're saying all this. So, basically, lots of people downloaded our episode. Uh, in fact, three times more people downloaded that episode than any other episode, and so we were starting to get frustrated at the fact that everyone was downloading our worst episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 83.866,
+      "endTime": 87.451,
+      "text": "So we thought and then probably not downloading anymore maybe.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 89.714,
+      "endTime": 117.406,
+      "text": "So we wanted to do a reset and an introduction again and then, um, use this episode. So, if you're listening to this, this is episode one, because we're re-recording and we're going to give you an introduction, a kind of summary of, um, what we've done over the last kind of year or so, and then introduce you to what we think are the best episodes that we've done. That you should pick up on before you join our kind of latest episodes. So, jimmy, do you want to sort of introduce yourself again and the kind of journey that you've been on in the past year?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 118.369,
+      "endTime": 135.501,
+      "text": "Yeah. So I think since we started the podcast I mean, when we started the podcast, we were both just like the podcast. We were both just like yeah, we're interested in ai, like why don't we? I think at that time it was gpt3 that was out, or gpt 3.5, um, and I think you said to me like why don't we just record a podcast? I was like, yeah, why not?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 135.582,
+      "endTime": 140.62,
+      "text": "I mean, we spent a lot of time planning and working on it. Oh yeah, to begin with sorry.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 140.72,
+      "endTime": 185.173,
+      "text": "Yeah, absolutely like um and we put a huge amount of effort into it, of course, but um, but yeah, so. So in terms of my background, like I'm not going to go over the whole lot, but software developer for a very long time, but really just super interested in anything new, tech wise, I think and been playing with ai for the last year and a half, like getting frustrated with it, getting banging my head against the wall with it, but then you know working with it and and and sort of seeing the evolution and talking about it on the podcast every week and gone from you know, having an interesting chat with a chat bot and something that can, you know, tell you a nice story, but it's a bit janky and, um, you know, a bit cliched and stuff like that to um.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 185.515,
+      "endTime": 194.532,
+      "text": "You know literally sitting and vibe coding, sometimes in the evenings. Now like working with ai hand in hand, glove in hand, hand in glove is that the right expression?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 194.553,
+      "endTime": 199.748,
+      "text": "yeah, it would be weird if there's a glove in your hand. But I mean, you've got a weird hand, so only one.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 199.868,
+      "endTime": 235.052,
+      "text": "You've got one normal hand and one weird hand glove in hand is sort of a modern jeremy bead like you. It's probably something gpt3 would say, or like a small open source model I could a joke from a one-year-old large language model yeah, exactly so. So, yeah, I've been working with it now for like a long time, super impressed with like some of the stuff that you can do with it. It's still got a long way to go, but, as everyone in the ai sphere always says, this is the worst. It's like what it can do now what, like, is the worst it'll ever be, kind of thing. Um, so yeah, I'll hand over to you to introduce yourself.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 235.072,
+      "endTime": 266.233,
+      "text": "Well, we should say first of all, though, like when we started, and I think to a degree now is like, you know, you're the sort of, or you took the persona of, of the sort of technical one who has the background, like you said, as a software engineer. I mean, you know, the two of us have worked together for for years and been friends, but you know, in that was how we kind of got to know each other is, you were helping me with stuff technically, where I was kind of look at the process. You were helping on that, and over the years, um, you know, both of us have kind of been interested in in sort of technology and and, and I think our focus is slightly different.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 266.293,
+      "endTime": 303.873,
+      "text": "So for me with ai, it's like the human and social impact was the bit that I was kind of drawn to. So I use ai tools. At one point I think I was using ai more than you, but using it probably in different ways, like not using it to do so much coding, although I've, you know, I have started doing coding over the last six months and and I'm using code now in a way that I never thought that I would. But I think you know when we approach these podcasts is you will try and pick up more the kind of technical side. I'll try and look at the impacts. You know, over the last year I've just become a complete conspiracy realist, so that influences my thoughts about how AI may be used.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 304.02,
+      "endTime": 335.203,
+      "text": "But having said that, you you know I also see like amazing uses for it. I mean, I was sat last night with two large language models running separately with the kind of workflow and I was just like this is just incredible, like the stuff that I'm able to do in an hour that would have taken me like several evenings to do previously yeah um, and so that, yeah, I mean just in terms of the way we approach it. I think you know, we've kind of had it as you as a technical person and me kind of looking at the human social side, but I think actually the two of us do both. It's just that's maybe what more where our backgrounds were.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 335.765,
+      "endTime": 361.488,
+      "text": "And the other thing I wanted to talk about in this point was just like the models that we like and that we've liked over the past year, because one thing that runs through this is a um, a dislike of open AI as a company, not chat GPT, chat GPT as a large language models, but open AI as a company. I hate Sam Altman. I think that's an important thing. It's a theme that runs through the whole thing. I think he may be the devil, um, I think anyone who's as Swami as that and",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 365.86,
+      "endTime": 395.586,
+      "text": "one who's as swami as that and and not as obviously like elon musk, is just up front. You know, with the kind of person he is, sam altman, it's very slimy and and that does run through this. So we've we've sort of never been recommending chat gpt, although like it's probably in many ways the best model. In fact, as we record this podcast, it's now the best model again, but we were big fans of claude, so if you listen to previous episodes you'll hear us. You're really liking the interface of Claude. And then over the last few months, as deep seat came out, we've kind of toyed with that, and then now we would probably say at this point that Gemini is probably I mean, it's definitely your favorite model.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 395.68,
+      "endTime": 400.929,
+      "text": "I think I'm certainly come around to the idea that Google have the best ecosystem of things at the moment.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 405.06,
+      "endTime": 428.805,
+      "text": "Yeah, things at the moment, yeah, yeah, totally like we've we've experimented with all of it and, and you know, if we're talking about stuff that you don't, um, haven't heard of or you're not sure about, then, um, definitely go back and list some of the old episodes. But, yeah, it's um, I mean, it's topical even I mean altman's always in the news, but I think he's beefing with someone on twitter today about their um, about their opinions, about ai or something some altman's like really come down on them. I didn't actually read the article, but, yeah, that's like most of the podcast, to be honest.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 430.349,
+      "endTime": 454.412,
+      "text": "So, yeah, like it's. I think, the other thing I would probably say in this bit of the intro. We're going to talk about some of the episodes later, but I think it's fair to say that I've probably we switched places a few times, but I think I've been probably more the optimist where I've used whereas you've had to be, because otherwise the podcast, otherwise you'd have probably ended up never recording any more episodes yeah yeah, no, that that's that's that's fair to say.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 454.532,
+      "endTime": 493.589,
+      "text": "I mean, I think that you know that's intentional, but, as I said, you know I see the positives. I also just think it's it's really important and as we we have, you know, not huge listeners, but we have a pretty significant amount of people who listen regularly to this podcast that we keep them informed and people understand the sort of dangers, because the only way that we're going to address it and we're going to reach a utopia is if there's enough people pushing back against a completely, you know, unregulated big tech. So you know that, I guess, is the thing behind this is you. You have to point out the dangers, even though there are so many, um, you know, fantastic impacts and and fantastic ways that people can use ai at the moment.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 494.091,
+      "endTime": 529.736,
+      "text": "Yeah, the last thing I'd say on the podcast is it's kind of a, I mean like, like you say, I think to begin with we had a sort of very specific idea about going industry by industry. It's very, it's very much evolved since then and so it's what we're interested in talking about, combined with what's topical. So we actually talk about a lot of stuff that's very topical. We've done emergency podcasts on deep seek and things like that, when that, when that was in the news, and many other things, um, but I would say it's more of a. It's a back and forth chit chat about AI, you know, rather than going deep into technical stuff and all the rest of it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 529.82,
+      "endTime": 556.911,
+      "text": "Like, there's a load of stuff that does that. On YouTube. I watch a load of geeky stuff like that, like you know, podcasts that just talk about the latest model and talk about benchmarking them and what they, how they score in the latest benchmarks, and comparing models side by side, scoring the latest benchmarks and comparing models side by side. We, I think, have a bit more of a kind of approachable sort of I think conversation about the you know, like you say, the societal impacts, what we think, what, just our opinions on what we think about latest we still.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 556.971,
+      "endTime": 591.263,
+      "text": "We still want to be different from other podcasts and that's I like. That's one thing I want to emphasize here is you know, if you listen to this podcast, you'll I think you'll like one of us at least. You'll probably dislike one of us and like the other one, or you might like both of us. Very unlikely that you'll hate both of us. I think you'll like at least one of us. So, yeah, do give some episodes a listen. But the thing that we try to do differently is look, you're genuinely. I mean, we haven't gone for clicks. We've done a few titles which may be a little bit clickbaity, but we've tried to genuinely like, discuss things that are relevant rather than things that gets the most clicks.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 591.383,
+      "endTime": 623.514,
+      "text": "We call this we sort of rebranded it halfway through as the AI podcast for everybody, because we're not for people who are experts in AI. We're not for people who know everything about AI. To be honest, if you are, you know, if you know enough about AI and more than us we're not the right podcast solicitor, because we're trying to make it accessible. We're trying to make sure that we do still focus on the human and social impacts. So, like I said, I sometimes go down the rabbit hole of these conspiracies. Jimmy tries to keep me sane and actually talk about AI, but we still talk about jobs. We look at industries and how we think it will have an effect.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 624.074,
+      "endTime": 661.227,
+      "text": "We look at threats. Like I said, we try and bring safety in. We did a mini series about sustainability. We do now a regular kind of monthly roundup episode where we do look at those news things. So we try and do a bit of everything, but by making it, you know, between two and four episodes a month. They're reasonably long but hopefully, you know, if you listen to us and you don't listen to anything else, it'll keep you up enough on kind of ai to to not necessarily be ahead of the game but at least not be falling behind others and, um, yeah, I think give it a listen. The other final thing I want to say before we just have a look at our best episodes, is like one thing we didn't mention is yeah, we're based in China.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 661.527,
+      "endTime": 701.621,
+      "text": "So both of us are British, as you can probably tell by our accent, but we both live in China and because we kind of cross those two worlds, I think we do bring a really kind of unique perspective on the development, because for us's not all about us. China, I mean, let's face it, you know there is an arms race now which is making things pretty dangerous, but there are also ways when you strip it back that those you know the two are driving different ways of developing ai. They're pushing each other, but they are developing in a different way and we see here like ways in which a is embedded in life here in a different way, for good or for bad, you know, in both ways but it's embedded in life in china in a very different way.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 702.182,
+      "endTime": 739.874,
+      "text": "It's in apps already, it's in daily life already. Until deep seek, you much, much less saw people using a kind of large language model chatbot in the same way, but you already had algorithms running everything from delivery drivers to couriers to you know how you get your medicine. You know everything like that was already being done by AI. So in some way bringing those two things together, we did episodes on DeepSeek. We've done episodes on China development, on China shedding. We've had interviews with kind of China experts. I don't think many people have done that. I know Dvarkish Patel has done some stuff where he came to china, but um, I think you know it's something that if you're in the west and you're listening.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 740.595,
+      "endTime": 771.604,
+      "text": "It's really worth you listening, I think, to those episodes because understanding it in the context of not just being an arms race, but understanding it in the way that you know china is, is innovative in different ways, ingenious in different ways and it will blow your mind, to be honest, I mean yeah one of the episodes I talked about. When you go to a hotel here you can order your takeaway, which will be delivered by a courier which is using ai to guide them here. When they bring it, it will go to reception, it'll be put in a robot and that robot will bring the takeaway up to your room, ring your doorbell and then he'll open up and you'll take the takeaway out.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 772.025,
+      "endTime": 795.346,
+      "text": "I don't think you get that in many places, so I just think, to give that kind of perspective, um, those of you listening outside of china, which is 99 of you um, I think, hopefully that's um part of the kind of approach that we take that that might be of interest. So, should we go through these episodes, we'll introduce, I think, six or seven episodes and then we're going to shut up and you can go and listen to a proper episode of the podcast.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 795.746,
+      "endTime": 840.568,
+      "text": "Yeah, I don't know, um. So I'm quite excited about this part, because going back over them is um, give me a bit, gives me a bit of nostalgia. So here we go. The first one was a a banger. Uh, it's actually a two-parter on ai, utopia versus dystopia series one, episodes 11 and 12. This was like I think this is some of the most fun I had doing the podcast, because this is kind of like half half of it was some of the most fun. Half of it was the most depressing yeah, but it was just like I think we let ourselves go a little bit because this was quite early on, but we were like we were moving away from the sort of original just doing a different um industry week by week, which I mean it was fine, it was, I think it still but we this was where we kind of started to branch out a bit and be like let's do our own thing, and I just really enjoyed these episodes.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 840.929,
+      "endTime": 857.052,
+      "text": "I mean, the name sums it up. We did one episode which was talking about the possible utopia, like all the best things that could come out of AI, and then we had the dystopia episode where basically we looked at what's the worst case scenario. I mean, I think it wasn't quite.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 857.373,
+      "endTime": 863.888,
+      "text": "We drew back a little bit. We looked at several possible worst yeah, possible realistic, worst case scenarios.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 863.928,
+      "endTime": 871.9,
+      "text": "I think we looked at yeah, it wasn't like super sci-fi, terminator 2, matrix style stuff, although I think we might have mentioned it, but it was more. What are the really bad things?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 871.94,
+      "endTime": 880.808,
+      "text": "It's maybe the best introduction for people, because it highlights all the good and all the bad of AI and you can do it all in two hours. So that's our first nomination.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 884.761,
+      "endTime": 888.167,
+      "text": "If you are our mission, you're listening. Stop listening, it's naughty.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 888.668,
+      "endTime": 904.495,
+      "text": "Yeah, I'm going to go and I'm going to tell the rest of your community, or you can join our community because we need your skills at putting horseshoes on and whatever other things people can do.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 909.421,
+      "endTime": 951.102,
+      "text": "So my first one, series two, episode three, was the Tech Optimist with um, with ben cook. So this episode the reason I recommend it is ben is someone who, like this sounds like, sounds like a criticism is a normal person. It's not criticism. He's a perfect example of someone who has used kind of ai as a generalist to really kind of get ahead and to really kind of, you know, make his work and his life kind of more um, I don't want to say productive, because I hate that word, but more effective and more interesting. So it's a good episode because, like I say, it's someone who doesn't have a particular technical background, who has just embraced ai and found ways to get ahead at work, in their personal life and to basically do everything with ai.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 951.142,
+      "endTime": 966.31,
+      "text": "So I think for people who are in that position and like I don't know what, what to do, I'm just, you know, I'm just a normal person. Well, listen to Ben Cook, because he wasn't well, he is a normal person. He's a good person, but he's a normal person. But he's using AI in ways which anyone listening to his podcast can do.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 966.891,
+      "endTime": 967.393,
+      "text": "And he wasn't.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 970.606,
+      "endTime": 978.506,
+      "text": "I think he would admit like before. So you know it's real. It's quite a nice sort of down to earth, realistic way you could start using AI and actually upskill yourself.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 982.662,
+      "endTime": 997.603,
+      "text": "Do you agree that there will be less jobs in total and that there will be the need for a change in the economic system? No, basically I'll scrap my question about UBI and economic models then, Basically, I'll scrap my question about UBI and economic models then.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 999.926,
+      "endTime": 1011.671,
+      "text": "So my next recommendation is this very next episode election interference. So I can't remember when we did this. It was quite a while ago, but it was prior to the Trump administration getting in.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1012.421,
+      "endTime": 1013.629,
+      "text": "Series two, episode four.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1013.76,
+      "endTime": 1055.773,
+      "text": "So it would have been last week summer last summer yeah, yeah, so a little while ago, but this was all about exactly what it says so ai being used to interfere um in elections around the world. It wasn't just the us um, and this is like a really dangerous thing that hasn't been solved. It's going on all the time. You know, when you're on twitter, when you're on reddit, when you're on a whole bunch of platforms, any social media platform you're potentially having, when you're on a whole bunch of platforms, any social media platform you're potentially having conversations with, being influenced by, you know AI at any point, like any of the, you've probably had a conversation with AI and not realized it at some point in a YouTube comment, in a Twitter uh, roast, whatever it is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1055.813,
+      "endTime": 1077.123,
+      "text": "So I think it's worth a listen. It might open your eyes as to some of the things that are going on, whatever it is. So I think it's worth a listen. It might open your eyes as to some of the things that are going on, because obviously, the channel four documentary was more of a documentary. It was illustrative, it was trying to open people's eyes to this, but I'd be interested to know if any of these have actually ever got past mainstream media and when that's happened. And the other thing is do you trust?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1077.143,
+      "endTime": 1113.502,
+      "text": "mainstream media, jimmy, because you know what is mainstream media and I, whether you do or not. I mean we had an episode with with Dan Lyons a few weeks ago. We talked about trust. I think one of the problems is there isn't trust in mainstream media. So you know even the kind of fact checks and you know that's another example the fact checking websites. They've got their own agenda, own agenda. So so do we believe the fact-checking websites? If you believe the theory, you think the fact-checking web spite is the kind of conspiracy, so it's a tangled web of you know, when you're saying about getting past the mainstream media, getting past which mainstream media?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1113.522,
+      "endTime": 1115.764,
+      "text": "Because they don't all have the same agenda anyway, do they?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1120.529,
+      "endTime": 1181.47,
+      "text": "And my next one, uh, series 2, episode 10, is information overload. Uh, this is quite a personal episode, to be honest, because this is kind of me, I think, very, um, sort of frankly admitting my own kind of difficulties with social media and technology and AI and how kind of the modern sort of information overload pretty much sent me over the edge. It's not necessarily that I've completely recovered myself from it, but I certainly have found better ways to adapt to it. But you know, I think that episode and, like I say, for me, like it's a very sort of personal one, but the reason I recommend that is, I think you know people either know and don't want to admit it or maybe they really don't know, but how much social media and the amount of sort of clickbait and bad news and, and you know, stuff that's out there, how much it's affecting them, um, and so the linking with ai there is how ai is just, you know it's continuing to just amplify that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1181.7,
+      "endTime": 1208.816,
+      "text": "We talked on a recent episode about the dead internet. We think now that it's reached more than 50% of all the information ever created. So all the information on the internet is now artificially generated by the bots or AI. You know it's not to say that it's not true, but it's not been generated by people and so that kind of journey. There's a lesson in there. You know, don't go down the rabbit hole that I've been down, but hopefully it will show people how to be sort of more careful",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1220.16,
+      "endTime": 1225.293,
+      "text": "you can see some lessons on how to avoid it but also to understand just how much that information is being controlled and how much you're being overloaded and how much as humans we have not evolved to be able to deal with that much information.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1225.313,
+      "endTime": 1237.452,
+      "text": "I don't even like the word conspiracy theory because it immediately it's one of those little badges that you put on something which basically says it's a conspiracy theory, so it's obviously nonsense yeah, I mean I I've said this now, but I just like to call them theories and that's not.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1237.841,
+      "endTime": 1256.033,
+      "text": "You know that that kind of plays into that. Oh well, matt's a conspiracy theorist. Well no, I just think it's arrogant to decide what is and what isn't true and, like you say, this idea of labeling it conspiracy theory is actually to to kind of push into a basket, that is, if you believe this, you are x yeah, I think and this is the problem, isn't it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1256.26,
+      "endTime": 1283.567,
+      "text": "there's a conspiracy theory. A conspiracy, the conspiracy theory basket is something that lots of stuff gets chucked into. Now, you know, if you talk to me about flat earth, for example, and I'm, you know, sorry if we've got any, prove it, jimmy, prove it. Well, I can't prove it, but I would say I've got, I'm pretty confident, um, and there's lots of very good evidence in that particular example that, um, that we are obviously on a flat earth,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1287.875,
+      "endTime": 1309.287,
+      "text": "um. So, series 2, episode 19, interview with an ai, if you just want to like have your mind blown by what ai can do, um, and and this is what it could do, like six months ago as well, nearly, or five months maybe yeah, so this was an episode where we interviewed an ai um two ais.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1309.427,
+      "endTime": 1311.556,
+      "text": "Actually we interviewed two different. Oh yeah, that was it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1311.576,
+      "endTime": 1353.025,
+      "text": "yeah, we did two different ais, so cerebrus and chat gpt. I'm sure you've all heard of chat gpt um, unless you've been hiding under a rock, but cerebrus, uh, is actually like a, a much smaller company that um have a voice model that runs on open source. But basically they brought out the capability to um for chat gpt to be able to have a conversation with you um, to just speak in natural language, and it's really really responsive um. And as soon as they brought that out, we had the idea of doing this episode Um, and then, like, while while we were considering the episode, cerebrus came out as well, and so what we did was and we've we talk a lot about um, we talk a lot about open source models in our episode.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1353.365,
+      "endTime": 1380.99,
+      "text": "Like, I've always been a big proponent of open source and some of the things that it's done. Okay, deep seek's not the best example, but there's loads of stuff being done by meadow and on hugging face and things like that. Anyway, it was a really cool episode. It was loads of fun and you can listen to us actually interview two different um voice ais real time. Uh, and if you haven't already, you know you don't worry. Where are those capabilities, then it's quite an interesting episode, and and we should say we didn't prep the AIs.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1381.191,
+      "endTime": 1396.866,
+      "text": "We set them up, we prepped our questions, but we did it all live. There's no editing to it, so there's no gaps. So you get the sort of five second gap between but essentially we set up the AIs and then the two of us, you know, went back and forth and then compared the result.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chat GPT voice",
+      "startTime": 1396.926,
+      "endTime": 1399.09,
+      "text": "It was really, really good fun, really good fun.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1399.17,
+      "endTime": 1404.184,
+      "text": "I really recommend that one. I think that's my dad's favourite episode my dad's, I think, our number one fan.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1408.093,
+      "endTime": 1421.78,
+      "text": "Thank you, just for a little bit of fun. At the end, do you think you could compose and, well, I guess, recite for us a Shakespearean sonnet about the contents of this episode? Absolutely, I'd love to for us a Shakespearean sonnet about the contents of this episode.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chat GPT voice",
+      "startTime": 1422.7,
+      "endTime": 1471.254,
+      "text": "Absolutely. I'd love to give it a try In realms where zeros, ones doth intertwine. The AI's voice doth echo through the air. A modern quill with coated ink doth shine, crafting tales both wondrous and most fair. Yet in this dance twixt truth and falsehood's guise, a challenge rises from this artifice the deep fake's mask doth fool the watchful eyes, and bot's deceit doth twist the mind's device. So must we learn to navigate this maze with skepticism as our beacons blaze? How's that for a shakespearean twist on our ai tale?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1476.269,
+      "endTime": 1513.194,
+      "text": "I'm just just going to give an honorable mention here, because we also did a mom who's also a big fan my mom is also a big fan, so honorable mentions and jonathan and jonathan, but um. Also, we did a christmas episode where we got two different ais using 11 labs to talk to each other. Um, cloned as our voices that we cloned ourselves by ai yeah, we cloned ourselves and one was um sort of jimmy the optimist and the other was matt the pessimist. Got quite extreme personalities, but it's also worth a, I think, a little shout out and then the last episode recommendations are my one.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1513.26,
+      "endTime": 1553.469,
+      "text": "Series 2, episode 20 is called healing trust, um, and this is an interview actually with with a friend of mine and and my one well, one of my doctors it's not that I have a team of doctors, but a doctor that I regularly. I regularly use um, but this was ostensibly an interview about using ai in healthcare, which is what we did start off talking about, but it became much more than that. So my other kind of interest is sort of functional medicine and and everything from grounding, red light therapy supplements you know all the kind of stuff that I'm into and sort of holistic health care stuff, and we talked about the kind of health care system we talked about using chinese and western medicine stars together.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1553.509,
+      "endTime": 1593.925,
+      "text": "We talked about how he's embracing ai, about how he's trying to become, essentially, rather than telling people what to do, his acknowledgement that with AI, people have all the information themselves and he's there to help guide you on that journey rather than just to kind of tell you what you need to do. It's a fantastic interview. For me it was the most fun interview that I did, because I was quite moving actually, but to listen to how someone has embraced AI, not in in a way of, you know, just using AI to cut corners, but using AI in a way to actually try and make things better. I just thought it was such a great interview and, for people who don't like the way our healthcare system has gone, I think it gives you a lot of hope that there are good doctors and good people out there as well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1594.98,
+      "endTime": 1597.769,
+      "text": "Yeah, and the best thing about that episode was you weren't there.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Dr Gilbert Xie",
+      "startTime": 1597.869,
+      "endTime": 1598.03,
+      "text": "Yeah,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Dr Gilbert Xie",
+      "startTime": 1603.78,
+      "endTime": 1618.626,
+      "text": "that is the best thing about that episode was you weren't there? Yeah, that is the best thing. Doctors'role may become more and more AI-like, and that will only generate more satisfaction from the patient side, because they do not want an advanced AI, they want a live doctor.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1623.841,
+      "endTime": 1653.493,
+      "text": "Yeah, I sort of hope so. So I hope that we drive that rebellion because I think actually almost like adopting it too early can cause some of that rebellion and cause people you know to move away from, from this style of medicine. So I, you know, as someone with a background in western and chinese medicine, you, you, obviously you talked at the beginning about how you kind of combine those two things I think more and more people I don't know the numbers, it may just be the circles I kind of frequent and they may not represent the majority but I think there are more people who are interested in alternative.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1653.713,
+      "endTime": 1679.427,
+      "text": "It may not be Chinese medicine, but alternative ways of doing things, whether it's focusing on diet, whether it's supplementation, whether it's acupuncture, moxibustion, whatever different ways, whether it's focusing on diet, on the microbiome. But people have realized, I think the box has been opened. People have realized that going in and just getting something to fix you and being put on statins or antidepressants for the next 20 years is not the answer.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1684.053,
+      "endTime": 1711.807,
+      "text": "And then we wanted just one final recommendation. So we talked about china earlier. So series two, episodes 23, 26 and 27. So china's ai revolution, part one and two, which is with an incredible ai researcher called christy loke, and then of the Systems, which is an interview with Grace Hsiao, who's based in Hong Kong. Those are another two cracking episodes, but particularly if you want to hear about China from like real experts in the field, then that's a kind of final recommendation.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1712.429,
+      "endTime": 1719.046,
+      "text": "So yeah, I've got one more thing to say, which is the best thing for me, and don't cry.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1719.58,
+      "endTime": 1720.544,
+      "text": "He's meeting me, the best thing for me.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1720.564,
+      "endTime": 1746.133,
+      "text": "And don't cry, the best thing for me about doing this podcast has been that, like Matt actually recruited me a long time ago, like 10 years ago, and we we worked together for ages and then Matt sort of moved on and was working in a different place and I guess we sort of didn't catch up as often. Well, for quite a long time, I think, and doing this podcast we like get together once a week and we've just sort of, you know, had some really good times oh, thank you.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1746.333,
+      "endTime": 1778.869,
+      "text": "I don't think anyone else cares, but I'm, I'm, I'm quite moved by it. So, yeah, so crack on with some episodes and you can listen to others if you want, if you you have a particular industry that you work in or interested in. Maybe these are not the best episodes, but we wanted to give a kind of start as recommendation for people who are maybe listening for the first time, um, and enjoy it, and there's always a song at the end of the episode. So always stay to the end, because we use ai to generate a song and we try and make it, um, quirky, let's say it should be able to come up with something pretty mint now, because suno 4.5 or something is out.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1779.11,
+      "endTime": 1790.311,
+      "text": "Yeah Well, I don't pay for it, so I've only got the rubbish version. It's all right, I'll do it this time. All right, take care, guys. Enjoy whichever of the 52 episodes you decide to listen to",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1805.702,
+      "endTime": 1806.75,
+      "text": "52 deep and we back at the top.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Dope Beats",
+      "startTime": 1806.79,
+      "endTime": 1843.669,
+      "text": "First speed was a mess, yeah, had to get dropped Year and a half. Now the mic game tight. We remix the stars, set the future to life. Rewind the clock. Hit. Reset on the show. From the dust to the flop. See the glow as we grow. New intro intro clean slavery. Ride, refine, elevate the vibe, leave the past behind. Rewind the clock here. We set on the show. From the dust of the flop. See the glow as we grow. New intro clean slavery. Find the fine, elevate the vibe, leave the past behind. Came from the static. Now the signal is clear. No rookie jitters. We, the vets of the sphere, convos like gems, polished till they gleam.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Dope Beats",
+      "startTime": 1843.981,
+      "endTime": 1875.049,
+      "text": "The start was a draft. Now we live the dream. Playback, the cringe, yeah, we laugh. It's a trip. Found the rhythm, found the groove. Now we tighten the grip. Legacy rebuilt. New story to tell. From the ashes of the awkward. We rise and excel. Rewind the clock here. We set on the show. From the dust of the awkward. We rise and excel. Rewind the clock here. We set on the show. From the dust of the flop. See the glow as we grow. New intro clean slate. We find the vibe, elevate the vibe, leave the past behind, evolve with the craft. Now we flex the finesse. First episode was chaos. Now we channel success.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Dope Beats",
+      "startTime": 1875.44,
+      "endTime": 1880.961,
+      "text": "Listeners tuned in. The momentum is real. The reboot is the launch pad. The mic is the wheel. Thank",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Dope Beats",
+      "startTime": 1913.17,
+      "endTime": 1913.25,
+      "text": "you,",
+      "chapterIndex": 6
+    }
+  ]
+}

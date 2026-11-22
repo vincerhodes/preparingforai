@@ -1,0 +1,1227 @@
+{
+  "slug": "s3-2025-10-11-sora-slop-claude-on-the-rise-the-llm-wall",
+  "buzzsproutId": "17993392",
+  "title": "SORA SLOP, CLAUDE ON THE RISE & THE LLM WALL: Jimmy & Matt debate their favourite AI stories from Sept/Oct 2025",
+  "date": "2025-10-11T12:00:00.000Z",
+  "season": 3,
+  "durationSec": 3946,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/17993392-sora-slop-claude-on-the-rise-the-llm-wall-jimmy-matt-debate-their-favourite-ai-stories-from-sept-oct-2025.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Referal link for Abacus.ai's Chat LLM: https://chatllm.abacus.ai/yWSjVGZjJT What if video you see tomorrow is indistinguishable from reality—and untraceable to its source? We dive straight into Sora 2’s jaw-dropping leap in video generation, why watermarks won’t save trust online, and how newsrooms and regular viewers will need new verification habits to avoid being fooled or, just as dangerously, dismissing inconvenient truths as “AI.” Oh and also it's basically, probably just an AI generated slop factory. From there, we pivot to the quieter revolution: Claude 4.5’s meaningful step toward agentic workflows. Better translation, stronger recall within a large context window, and improved coding performance add up to a tool that’s less about chat and more about getting real tasks done—drafting emails, coordinating web actions, and running longer autonomous bouts with checks and retries. We also follow the money. The AI economy is riding an enormous capital expenditure wave in data centres and GPUs, accounting for a striking share of measured GDP growth. That’s powerful—and precarious. If returns lag or the paradigm stalls, the correction could be sharp. Meanwhile, China’s open source momentum with Qwen accelerates capability diffusion, reshaping the competitive map. Against this backdrop, we tackle a provocative question from reinforcement learning pioneer Richard Sutton: have large language models hit an architectural ceiling? If true intelligence demands goals, world models, and continual learning, then simple scaling may not get us there, and a different stack—heavier on RL—might define the next era. Across the hour, we balance excitement with caution: the creative upside of on-the-fly software and content, the productivity promise of agentic assistants, and the societal cost of a world where “seeing” no longer means “knowing.” If you’re curious about where practical AI is actually useful today, where it could mislead you tomorrow, and what might come after LLMs, this conversation will help you navigate the noise. Enjoyed this one? Subscribe, share with a friend who cares about AI’s real-world impact, and leave a quick review to help others find the show.",
+  "summary": "The October 2025 roundup: Sora 2's photorealistic video (self-cameos, persistent faces, realistic fake CCTV) pushes the world to the 'can't believe anything you see' era, and the hosts argue OpenAI's real play is owning a TikTok-for-slop platform with on-the-fly per-user generation. Claude 4.5 impresses for coding and agentic browser work (30-hour autonomous coding claims, Imagine), but Opus pricing remains bizarre; AI capex at ~45% of US GDP growth plus circular Nvidia deals scream bubble; Alibaba goes all-in with open-weights Qwen topping the open leaderboards; and Richard Sutton argues LLMs are a dead end.",
+  "keyTalkingPoints": [
+    "Sora 2 eliminates most physics glitches and keeps faces consistent through mirrors and reflections - but it sits behind a $200-300/month tier, its watermarks were stripped within a day, and realistic fake CCTV footage is genuinely scary",
+    "OpenAI's endgame is the platform, not democratized creation: a slop TikTok it owns and monetizes, eventually generating content on the fly per user - 'I'll create a video that perfectly fits exactly what video you want to see next'",
+    "Claude 4.5 (Sonnet): strong coding and agentic browser work; Anthropic claims Claude Code worked 30 hours autonomously versus ~30-60 minutes for prior models, and Imagine generates software from a prompt",
+    "The economics: $430B+ 2025 data-centre capex with trillions committed over 10-15 years; AI capex contributed ~1.1 percentage points - roughly 45% - of US GDP growth; Nvidia invests in customers who buy its GPUs, dot-com-style circularity",
+    "Alibaba's Jack Ma is 'all in' on AI with tens of billions in investment, and open-weights Qwen 3 Ultra tops the open leaderboards - a deliberate disruption strategy since Western firms won't touch native Chinese models but will adopt open ones",
+    "Richard Sutton's 'bitter lesson' case: LLMs lack continual learning, world models and goals, so scaling is a dangerous bandwagon; Dwarkesh counters that RL-grounded successors may vindicate him anyway"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Within a year you will have to take every video online with a pinch of salt; verification becomes a nightmare for news organizations",
+      "LLMs approximate the internet's average knowledge and never generate truly new ideas - his espresso-tamping example showed GPT-5 parroting wrong consensus until shown the study",
+      "The bubble will burst, but established big tech (unlike dot-com moonshots) will largely survive it; DeepSeek-style efficiency undermines the valuation story",
+      "Alibaba's open-weights strategy is aimed at disrupting US incumbents rather than winning Western consumers directly"
+    ],
+    "matt": [
+      "Sora's real product is the platform: OpenAI will own, monetize and algorithmically generate slop rather than empower creators",
+      "'Best model' no longer matters for most people - Claude 4.5, GPT-5 and Gemini are interchangeable for everyday use, so switching costs and habits decide",
+      "The real bubble risk is architectural: nearly all investment assumes LLMs keep scaling for 10-15 years - if they hit a wall, or RL successors take over, the whole thesis unwinds and spooks investors",
+      "Fact-checkers become the arbiters of truth once video is unverifiable, and that concentrates dangerous power in outlets like Reuters"
+    ]
+  },
+  "predictionIds": [
+    "s3-2025-10-11-sora-slop-claude-on-the-rise-the-llm-wall-451.1-within-a-year-people-will-have-to-take-everythin",
+    "s3-2025-10-11-sora-slop-claude-on-the-rise-the-llm-wall-2133.8-the-era-of-downloading-many-different-apps-will-",
+    "s3-2025-10-11-sora-slop-claude-on-the-rise-the-llm-wall-1783.8-if-models-can-work-autonomously-for-30-hours-on-",
+    "s3-2025-10-11-sora-slop-claude-on-the-rise-the-llm-wall-2725.4-betting-trillions-on-the-current-llm-architectur"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "AI Song Vocal"
+  ],
+  "chapterCount": 10,
+  "turnCount": 162,
+  "chapters": [
+    {
+      "title": "Cold Open, Tone Setting, Housekeeping",
+      "startTime": 0
+    },
+    {
+      "title": "Sora 2’s Leap in Video Realism",
+      "startTime": 101
+    },
+    {
+      "title": "Watermarks, Deepfakes, and Trust Crisis",
+      "startTime": 466
+    },
+    {
+      "title": "Claude 4.5: Coding, Context, and Agents",
+      "startTime": 754
+    },
+    {
+      "title": "Agentic Workflows in the Browser",
+      "startTime": 1332
+    },
+    {
+      "title": "Economics: The AI Infrastructure Bubble",
+      "startTime": 1584
+    },
+    {
+      "title": "China’s Push and Open Source Qwen",
+      "startTime": 2088
+    },
+    {
+      "title": "Have LLMs Hit an Architectural Wall?",
+      "startTime": 2364
+    },
+    {
+      "title": "Reinforcement Learning vs Scaling LLMs",
+      "startTime": 2900
+    },
+    {
+      "title": "Final Reflections and Close",
+      "startTime": 3300
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.04,
+      "endTime": 31.92,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. The podcast that explores the human and social impact of AI. Exploring where AI interstakes with economics, healthcare, religion, politics, and everything in between. There's a guy in a place got a bittersweet face and he goes by the name of Ebenezer Good. His friends call him easer when he is an main geezer. He could vibe up a place like no other man could. Welcome to Preparing for AI with me, Ebenezer Scrooge.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 32.24,
+      "endTime": 37.04,
+      "text": "And I and me, the ghost from Christmas Past Um and Christmas Future and Christmas Present.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 37.2,
+      "endTime": 40.8,
+      "text": "I thought you might go with that. I was thinking when the intro music was playing for this.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 41.12,
+      "endTime": 42.16,
+      "text": "Did you make that yourself?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 42.32,
+      "endTime": 43.28,
+      "text": "Well the intro music.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 44.16,
+      "endTime": 46.8,
+      "text": "No, the not the music, the the lyrics.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 47.04,
+      "endTime": 78.56,
+      "text": "Yeah. Yeah. So in that in that thing at the beginning, um, and it said about all the things that we're going to cover now in preparing for AI, including politics and religion, which are the two things that me and you have agreed we're never going to cover. So when we do our deep dive episodes, we're definitely never going to do religion, especially after we talked about religion tonight. And we're never definitely not going to do politics. No. So yeah, we're just to let you know that we're breaking the promise of the intro. We're going to do healthcare because we're going to do that next week, and we're going to do economics because we've done it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 78.72,
+      "endTime": 121.68,
+      "text": "And then the other two things that I said we're going to do, we're never going to do. So there we go. Anyway, this is not that episode. This is the um well the roundup. Yeah, this is the one that everyone loves. The roundup episode. It is. I've looked, I've looked at the back end as um as Stephen Bartley. You shouldn't say. And uh yeah, over 89% of people who listen to this podcast don't subscribe. So please do subscribe, um, which I think we've said before. But yeah, this is our roundup episode. So um let's get straight into it. I think the biggest news story in AI at the moment that probably is of interest to most people is Sora 2 um from OpenAI, which came out as we record this, probably like a few days ago.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 121.76,
+      "endTime": 131.28,
+      "text": "Um I don't sound so excited about it. Well, I'm not, so I'm gonna let you talk about it first because I'm not excited, but I think it's just gonna create loads more slop. But um, it's already doing that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 131.76,
+      "endTime": 171.68,
+      "text": "So uh I think it's simultaneously really, really exciting. Um I d I can't afford uh well I can't I can't justify um paying for a subscription for it because I think it's on the top top tier. How much is it? I think it's 200 or 300 dollars. Oh, it's in that subscription, okay. It's the really it's the really mega subscription, yeah. So if you want to actually use it, it's very expensive. Uh understandably so it probably costs OpenAI a fortune to actually run it. Um but this is if you in case you've been hiding under a rock, because I think it has been in the news everywhere. Um, but in case you have been under a rock, uh Sora 2 is um unsurprisingly the sequel to Sora.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 172.08,
+      "endTime": 176.96,
+      "text": "Um Sora 1. Sora 1, yeah. Not Sora 1.7 or something. Well they didn't call it Sora 1.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 177.12,
+      "endTime": 183.92,
+      "text": "No, it's also it's good that they've called it Sora 2, not Sora Z 2.6 or something bizarre like they usually do.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 184.08,
+      "endTime": 217.52,
+      "text": "So well done to OpenAI for that. For the naming scheme, they got it right this time. Um but yeah, like it's really, really good, basically. Um so even until recently, video models couldn't like one of the examples they use, and and obviously we're talking on a podcast about a uh video um creation AI software, so that's what Sora 2 is. Um up until very reason obviously if you want to go and check out what it looks like, then the best place to go is pop on YouTube or type it into Twitter or whatever, something like that. Social media.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 218,
+      "endTime": 226.32,
+      "text": "So just saying you can't go on to if you've got a £20, dollars, Euros a month Chat GPT subscription, you can't use it at all.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 226.56,
+      "endTime": 227.36,
+      "text": "I'm pretty sure you can't.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 227.44,
+      "endTime": 234.08,
+      "text": "Like, because with Google Gemini, you can use their video model for I think they let you do five a day. Yeah. Yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 234.32,
+      "endTime": 276.24,
+      "text": "But this is the big boy. This is like this is so so basically, I mean, comparing it to Google's model, for example, Vio, um, or other models, some of the things they struggle with are like uh complex gymnastics, like as a demonstration that you see online. Um, anything where like you've got uh humans or animals kind of intersecting with themselves or with objects. So another example they use is like dogs doing like an obstacle course and going and out of things. Like what happens is they the model just really get the models, previous models just get really mixed up and they'll like gymnastics kind of just get all messed up, they look like they're flipping through themselves and doing all sorts of crazy inhuman um things.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 276.64,
+      "endTime": 328.4,
+      "text": "Sora is effectively seems to have eliminated 90%, 99% of that um kind of behaviour, and so it's generating like extremely realistic videos. Like people have been at some of the nicer examples I've seen, um, and it all seems to have massive copyright issues, but uh that aside, like some of the best examples I've seen of people like reproducing like anime and South Park and different art styles and things like that. Um and you can create whatever you want if you've got $200 a month to chuck at it. Um and then obviously it'll do like realistic video film stuff as well. So the the the thing, what people are saying online is you know, you'll be at a it won't it's not far away being able to create your own ending to Game of Thrones that actually was good, uh you know, and your own ending of Dexter, I think, is the one that I always hated.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 328.48,
+      "endTime": 336.08,
+      "text": "Yeah that's good as well. Which I love Dexter, but yeah, the ending was really bad, wasn't it? So this is what people can spoil it for anyone who hasn't watched it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 336.24,
+      "endTime": 345.68,
+      "text": "Yeah, but the other shocking thing is um one of the things people have demoed with it is very realistic looking CCTV footage, so that's scary.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 345.92,
+      "endTime": 384.16,
+      "text": "Well, but you can you can put in, can't you as well, like yourself. I'm not sure how it works that it knows you, but like you create a kind of profile of yourself and then it can do it can put you into stuff, but it can't just put other real people in. I'm not sure how that works or how how exactly it works in terms of your account and setting up your profile, like you how you could not just set up your account to be like, Well, I'm Jimmy, and therefore I can just create stuff of you by saying I'm you, but uh yeah, we haven't tested this out, but apparently there's a way you can do it, and so what it can do with you, so like with Vio, um, so I made a video actually, I made one of you, um, where the one where you get kicked in the balls and then you produce some whiskey bottles out of your stomach.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 384.32,
+      "endTime": 417.68,
+      "text": "I mean, it's a bit weird, but it was quite realistic that it kept your face fairly consistent. Whereas most videos you do like that with Vio, as soon as it moves, like use a still image as the basis of the video, but then as soon as anything changes, the face just completely changes. So, my understanding from from Saw is that they can basically can keep the face persistently the same, and there's all kinds of stuff like mirrors have a realistic image and balls that spin round have the if there's a reflection in the ball that's correct and stuff like that. So it's like it's a massive, massive step on.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 417.76,
+      "endTime": 450.64,
+      "text": "And I mean, I guess this is a step closer as well to the world that we've been forecasting since we started this podcast, which is the world where you basically just can't believe anything that you see anymore, or you know, people will believe it, but I think we'll pretty quickly get to a place where you can it's not necessarily you can tell, but you just decide, well, I believe that because it fits my bias, or I don't believe it, I'll just say that it's AI. And actually, that's also another danger is like not only do people believe stuff is not true, but now anyone can just you know reject anything they don't want to believe by saying, Well, I think it was just made by AI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 451.12,
+      "endTime": 485.44,
+      "text": "Yeah, I agree. I think I to be honest, I think the more dangerous thing is that like I think the more dangerous thing, and to be honest, the call out I would make is that there's a point at which people do have to just stop believing anything which is video that you see online, which is it's really sad. Like it's the last thing like at the moment you can watch something online and you can believe it. Like now, I think we're nearly uh we're very, very, very close now to that point. I think it'll be within a year where you have to take everything, literally everything, with a pinch of salt. Like everything that you see.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 485.52,
+      "endTime": 519.84,
+      "text": "Yeah, you know, I I wouldn't be surprised. So there was that there was the the um paragliding example not that long ago, which I don't know why anyone got fooled, but like the news outlets got fooled by or were you the one that No, you didn't get fooled, you're the one that called it out. We looked at it, I was looking at it the day before it kind of like came became mainstream, but it was AI, and I'm sure other people were as well. I'm not saying I'm a genius, but like, but like it was quite obviously AI, but news organizations published the story already, like even when it was a really crap version, they got duped, and that's probably because news has to go out so quickly.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 520.08,
+      "endTime": 535.52,
+      "text": "I can see this is gonna be an absolute nightmare for news organizations in the future in terms of verifying stuff, because probably one of the ways they verify things right now is it's a video, right? And so what do you do in the future? Like, I mean, I guess if you've got Reuters Well, they're sort of already at that point, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 535.76,
+      "endTime": 570.08,
+      "text": "Like where they're having to to but but there are ways to currently verify because you can look and be like, oh well that couldn't happen. But once you've got past the um like like the fact that it I'm gonna talk about laws of physics because me and Jimmy have had a conversation about physics today, um, you're gonna be able to see things and and at the moment it's like it doesn't yeah, exactly. It doesn't it doesn't comply with the laws of of physics. You can then say, Oh, well, it's obviously not real, but actually, once you've got to the point that well, the video is good enough that it is always or pretty much always complying with those laws, there's not really an easy way to tell.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 570.24,
+      "endTime": 601.52,
+      "text": "And it becomes essentially all this like verifying video becomes the same as fact checkers, which as you know is my like one of my biggest hates in the world, because it just becomes someone is deciding, well, I'm telling you whether the video is real or not, they're no more believable than the person who has put the video out, or you know, you get to a point where you just choose to believe in certain sources or certain media outlets or whatever. So you believe in Reuters because you trust Reuters, and that's okay as long as Reuters are trustworthy, but then you know, once Reuters have got that trust, then like how much can they be manipulated?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 601.6,
+      "endTime": 616.4,
+      "text": "And so you you get to a point you you're either cynical and suspicious of everything, or you're kind of not necessarily being naive, but like have to take a bit of a leap of faith and say, I believe in that organization or that that person and I and I'm gonna trust them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 616.72,
+      "endTime": 650.72,
+      "text": "This is all very ironic given the conversation we had earlier, but I won't we won't go down that um alleyway, I think, just yet. It's not ironic, by the way. It's quite ironic that you it's it's you that's saying all this. Um anyway. Well I said leap of faith. I mean I was someone who said leap of faith in that conversation, so yeah, that's two two different slightly different contexts, apparently. Um so uh anyway, one of the interesting things is that uh I'm winding you up here, by the way. Interesting. I know I'm winding you up as well. Um I thought I was. I thought I was now I started it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 650.96,
+      "endTime": 661.36,
+      "text": "Um so uh lost my train. And this is great for anyone listening who none of whom listened to the conversation before, so this makes zero sense to them whatsoever.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 661.6,
+      "endTime": 704.56,
+      "text": "It does make no sense. It's making less and less sense to me. So let's to bring it back on track. Um one of the things that OpenAI did was they um rightly so uh put a little basically whenever you get create something by Sora, it has a watermark on it. But I think within one day, so like most like loads of videos on YouTube. Yeah, well no, well, not just that, like loads of the videos on YouTube are like how to get rid of the watermark on Sora videos, like immediately. So it's not even that difficult to get rid of, and I'm sure you can probably do it using another AI as well. Um so yeah, uh that's the summary is if you still do, then you can't believe anything you see online um or here, including this possibly.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 704.8,
+      "endTime": 745.2,
+      "text": "And there's one even more fun bit that they basically the main purpose for um the model seems to be that they've decided to create a new version of TikTok that is run by is it open AI or is this run by Meta? I think this is OpenAI launching their own version of TikTok, which is only for AI slop created material. So basically, like you know, to save the internet from being flooded with slop by just creating their own and monetizing their own version, which is completely AI, which you know most people will probably reject or be not interested in for a first year or so, and then eventually people will just stop caring whether it's AI or not, and it will just become even more trash than than the current version of TikTok.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 745.28,
+      "endTime": 753.52,
+      "text": "But at least the algorithm is owned by um by OpenAI and not a Chinese company, so you know, as long as an American company runs it, everything's fine, right?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 753.84,
+      "endTime": 787.84,
+      "text": "That's no danger with that. That's what I've heard. Um, yeah, that's the most important thing, is that a Western company or other creates the algorithm? Countries and governments with algorithms. Um yeah, it's it's it's gonna be a brave new world of slop. Um I mean the one thing I do agree on is that that we're sort of I think even with the actual human-generated content, because of the algorithm and with it drives more and more towards slop already, and that's human-generated slop. Yeah. Now this is just like, well, you can create as much as you want.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 787.92,
+      "endTime": 791.28,
+      "text": "I also sort of argue what's the difference, it's slop, it's slop.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 791.52,
+      "endTime": 823.52,
+      "text": "Yeah, but there's a bit of me that sort of thinks that once you get to that point as well, it's a bit like the Tesla self-driving car, right? So people, you know, at one some people were saying, Oh, you you know, get a Tesla because once they release full automation, you'll be able to turn it into a taxi and make money off it. It's like once you get to that point, if it's more profitable to turn Teslas into taxis than sell them to people, then Tesla will just own a fleet of robo taxis. They're not gonna use they're not gonna allow you to be an intermediary in that. And um, I do sort of wonder if that's the direction with OpenAI.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 823.6,
+      "endTime": 826.96,
+      "text": "Like if they create if they create the platform, absolutely that's what I think this is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 827.12,
+      "endTime": 834.72,
+      "text": "If they create the platform, it's not gonna be for people to create their own slop, it's gonna be for open AI to plug in the slop, have a slop generator.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 834.96,
+      "endTime": 874.64,
+      "text": "That was actually my notes about this was like the ultimately, like for all of the kind of amazing, you know, and it is amazing technology, whatever the use case for it is, it's amazing technology. The biggest thing that came out of this for me was like what they've decided, and this will come back to a thing we're gonna talk about later about sort of AI infrastructure spending and the the potential kind of AI bubble, etc. Um, but is this idea that I yeah, I think it's exactly that. I think AI, open AI have seen an opportunity here to be like, well, if we're gonna create all this stuff, rather than allow people to create it and democratize creation, which is the thing that we you know we hear about AI is it democratizes creativity because any idiot can now create something rather than someone with an actual skill.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 874.88,
+      "endTime": 905.44,
+      "text": "We've now got well, we can own the place where all this content is, and I'm sure when you put your thing on there, which is created using their tool, put on their platform, there'll be something in there that says, Well, we actually have the right to do blah blah blah and monetize, and there'll be a way that they'll make money. So absolutely, I think the main thing I took away from this is they've identified that the main use of this, the main use particular from a financial point of view, the main usefulness of this is a platform, is a platform to make money from crap because ultimately this is not a useful.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 905.84,
+      "endTime": 914.32,
+      "text": "What I mean by useful here is useful in terms of it's not solving a problem that we need to solve as as sort of humanity and society, it's just creating something.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 914.8,
+      "endTime": 940.96,
+      "text": "It is. We need more content. We do need more content. We we need we need a better algorithm where instead imagine this, imagine the algorithm. The algorithm now is like I'll find you a similar video. The algorithm of the future is I'll create a video on the fly that perfectly fits exactly what video you want to see next based on everything that OpenAI know about you, and they'll just be able to generate that video on the fly. Yeah, that's quite frightening.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 941.2,
+      "endTime": 944.4,
+      "text": "So it sounds like you agree with me that that is the primary reason for this.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 944.8,
+      "endTime": 955.28,
+      "text": "I'm I'm I'm yeah, but I've just had a thought. Like I'm uh I'm imagining what that algorithm would look like for Trump. It would be like videos of himself, wouldn't it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 955.6,
+      "endTime": 956.4,
+      "text": "It'd be a few years ago.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 956.56,
+      "endTime": 958.32,
+      "text": "Because he's a he's everyone knows he's an artist.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 958.56,
+      "endTime": 969.68,
+      "text": "It'd be a video of him playing he'd be playing golf with Kim Jong-un, Xi Jinping, and the King of England, and he'd get a hole in one on a par five and win the Ryder Cup. Exactly.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 970,
+      "endTime": 981.52,
+      "text": "That's basically what would happen. But it and and and stuff like that. Like that would be Trump's um like open AI AI generated algorithm. Yeah. I'd quite I'd actually quite like to see that. Yeah. Anyway.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 985.84,
+      "endTime": 1015.76,
+      "text": "So next up, Claude 4.5. Yeah, they weren't they're only going up half a increment this time. But at least they're going up in 0.5s, rather than the the 3.7 was a weird. I don't think I don't think you can praise what you can praise anthropic for not having 15 different versions all at the same time that you have to choose from on the same platform. Um, but I don't think you can praise them for their numbering system, which could have just gone one, two, three, four, five, and we'd be on like 10 now. Anyway, take it away.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1016.08,
+      "endTime": 1054.8,
+      "text": "Yeah, so I mean, I like we we at the beginning of this podcast, we were both I think at the beginning of this podcast we were both anthropic Claude fans. Um, I've stuck with it, so so I've kept my subscription. Um, and I just decided to be honest that like I like it because a lot of the stuff that I do with AI now is actually we talked about slop and content creation is content creation. Um, and I think it like it's really good. Also, because I've got a lot of projects in there where I've got like system prompts, I just couldn't be bothered to do it again. And I also think like it's sort of interchangeable if you're not doing the very, very top-end coding, which we'll talk about in a minute, but it kind of doesn't really matter.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1054.88,
+      "endTime": 1066.16,
+      "text": "Like Club 4.5 is maybe now on some levels is ahead of GPT-5, on some, it's not. Gemini 3 might come out next week. We're hearing that'll probably be ahead, you know. It it sort of doesn't matter now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1066.24,
+      "endTime": 1070.4,
+      "text": "But I think you know if you're a developer, yeah. That's what I'm saying. It doesn't for most people.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1070.56,
+      "endTime": 1108.16,
+      "text": "I'll talk about that in the for most people. Um, so it's supposed to be an advanced particular encoding. Again, we won't talk about that now, and agentic tasks. Um, it's got increases in kind of multi-step reasoning, the way it comprehends code, the way it plans. Um, some of the feedback is that it is not as consistent as GPT-5. Some is that it's better. I mean, it does seem a little bit mixed, which again they all seem to be like this now because none of them are like a huge leap forward that that you know they're not doing something that none of the models have done, like when when, for example, Deep Thinking Mode came out or you know, when things became multimodal.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1108.32,
+      "endTime": 1150.32,
+      "text": "Um it says they all seem to say it drastically improves accuracy. Um, interestingly, I couldn't find anything that tries to quote an improvement percentage figure in hallucinations, which I quite like because they all seem to quote that. Um it can extract data from documents better. I've seen that it can output data in more document types. I haven't tried that myself yet, and I'm not sure what you know what formats it can do. One of the really annoying things previously is was it was outputting a lot of things in in sort of formats that were to sort of general people would not necessarily be useful, and you have to kind of choose to export something in HTML format.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1150.4,
+      "endTime": 1190.16,
+      "text": "For example, you can't um generally create the sort of visual diagrams and stuff in JPEGs or PNG files, you have to export them and then turn them into an HTML file and screenshot them, which to me seemed a little bit weird. Um I mean, yeah, I I I have noticed one thing since I started using it, and it's only been a few days that it's been out. The one thing that I've noticed is the translation. So one of the things I use it for a lot, I have a like a Chinese social media account. If you want to follow it, it's called uh Long or Bai uh Bai Huatang, um, which is like a a kind of health and lifestyle um basically.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1190.64,
+      "endTime": 1220.32,
+      "text": "They're they're long kind of science popularization articles. Um and I've been using I used to use Chat GPT. I started using Claude because on Chat GPT, because I had a I didn't have a paid account, I would have to do like I'd have to keep starting and stopping and stopping and starting it to do translation. So I started using Claude and I had two or three people that I'd ask, like, because I'm translating it to Chinese, I'm writing it in English, I'd say, like, can you just when I put it out, can you just let me know if there are any mistakes, I can change them? And I'd always get two or three.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1220.64,
+      "endTime": 1259.36,
+      "text": "Since I used it the other day, it's perfect. So like I've seen an improvement in that in terms of translation. In fact, people saying to me there was not a single, you know, even kind of syntax or grammatical error, everything was was was absolutely perfect. So, you know, that seems to be a slight difference and improvement, and I think all of this stuff now is kind of iterative improvements, right? Um, it seems like it is better, um, and it's better than Opus, which is again Opus is weird because they have Opus as like the top model, and it came out Opus 4, then there's Opus 4.1, so it would have been the best model for a bit, and now Sonnet as a which which is their kind of mid-range model has leapt ahead of it again.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1259.52,
+      "endTime": 1290,
+      "text": "Like, I just like Claude, I like the way that it works, I like the way it talks to you. It doesn't have the the wokeness that I used to criticize, so like it's better for that. But I I couldn't sort of say as a kind of general model, it was necessarily the best. Um, it seems to be slightly quicker, it's good at integrating with the likes of sort of Google files and stuff, it is better at documents, it has a bigger context window, it's still not as big as Gemini. So, like it seems to me it's better, but there's nothing for me that was groundbreaking in it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1290.32,
+      "endTime": 1298.48,
+      "text": "Yeah, on some observations from me. So on the context window, one of the things that I have seen is that although it so this is another new thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1298.8,
+      "endTime": 1303.52,
+      "text": "So can we just say, and we've said this before, but just explain what the context window is in case people are not not sure.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1303.84,
+      "endTime": 1345.6,
+      "text": "Yeah, so c in case they can't remember, ironically. But yeah, so context their context window is not exactly not long enough to stretch back several months. Um so context window is how many tokens, which effectively are similar to words, um, that the model that that when you're having a conversation it can keep in effectively short-term memory in its memory for that conversation at one time. A standard now is like 200,000 plus, and I think Gem Gemini, which we were just referring to, is one million. One of the interesting things though is that what they're saying, so there's also this concept of like accuracy within the context window.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1345.68,
+      "endTime": 1381.6,
+      "text": "So even if it's one million tokens, how accurate is its recall of something within that one million tokens, for example? And Claude 4.5 has been demonstrated to have a very, very good recall within its 200,000 token context window. So even though it's got a smaller context window than Gemini, for example, it's got better, more accurate recall within that context window. So that's one of the things that I have seen about it. Um I don't I also don't get the Opus models. Like so the so one of the things about the claw really expensive Opus as well, wasn't it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1381.76,
+      "endTime": 1382.96,
+      "text": "Exactly, ridiculously expensive.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1383.2,
+      "endTime": 1387.04,
+      "text": "Well, well, Sonnet's already expensive, so so 4.5 is the same cost.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1387.28,
+      "endTime": 1411.12,
+      "text": "So when we're saying expensive, we're talking about API, which is basically where um users are paying by the token. So we're not talking about a subscription, we're talking about where you're using basically a a clawed model in the background through the API, so you're using it to run your website or you're in your business or whatever. So when we're talking about expensive, that is charged per token. Yeah, and I think Opus was the most expensive of the kind of major models, wasn't it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1411.36,
+      "endTime": 1439.2,
+      "text": "It was it was it was more than Gemini, more than GPT-5, I think. So from memory, I think that Sonnet is still expensive, it's three dollars per million input tokens and fifteen dollars per million output tokens, which is a lot. But if you're doing like things like I mean, for example, coding uses a lot of tokens, hell of a lot of tokens, actually. Um and then I don't know the cost of the other models, but Opus is like more expensive than that. Might even be double. It's really, really expensive.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1439.44,
+      "endTime": 1441.92,
+      "text": "I think it wasn't quite double, it was it was a lot more.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1442.16,
+      "endTime": 1486.48,
+      "text": "Yeah, and so it's a bit of a strange one, Opus, because they yeah, I feel like anthropics sort of don't know what to do with it a little bit, where it's like I'm sure some people do use it, but it's it's pretty slow, it's very expensive if you're using APIs, um, and so it's probably not very not used very much. Um so I've been using I started using 4.5 for coding um almost as soon as it came out. Um one one of the things I will say, uh, and we are gonna stick this in the show notes this time, I think. So uh I've mentioned it before, but I use LLM Studio uh by Abacus AI. It's one of these alternative providers, I suppose you'd call it, that um if you're a light user and but you're like isn't it called root LLM?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1486.96,
+      "endTime": 1530.16,
+      "text": "Root LLM's the the the like main so root LLM is the is the mode you choose where it automatically roots. So it's called LLM Studio and it's by Abacus AI. Um and it's 10 it's basically $10 a month where most of the subscriptions to the models are $20 a month. It has access to all of the different models. Um like well when I say all, like it's got access to 30 different models. So you've got like GPT, you've got Claude, you've got Gemini, you've got all the major ones, plus a bunch of others. Um we will stick the uh referral in the show notes. If basically, if you use LLMs enough that you're going over the sort of free limits, but you don't want to pay $20 a month, this is quite a nice interview.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1530.4,
+      "endTime": 1567.36,
+      "text": "And you want or or and or you want to have access to different models and be able to move between them and play around with them and just have fun. I would say, like, actually, this is perfect. Like the the kind of people who listen to this podcast who have like an interest in using AI, but probably it doesn't, it's not the main thing for them. This is actually kind of perfect because then when we talk about different models and you're like, well, I don't want to pay to try this new model, but you don't have to. But if you're not coming up against like the limits of a paid model all the time, because if if you will use up the limits of this in the same way as you use up a paid model, yeah, but this gives you the kind of flexibility, it doesn't give you all the features, it probably gives you like the best of both worlds.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1567.52,
+      "endTime": 1587.28,
+      "text": "I would say like this is the perfect thing for for a lot of our listers. Like I'm thinking of people who like friends and family of mine. This is I think the ideal kind of thing for them because it gives them access to try different models out. It means they can, you know, don't have to spend a huge amount of money, they get better than the free version, but they're not paying a lot of money for something that they don't use, quite frankly, use.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1587.36,
+      "endTime": 1595.12,
+      "text": "Yeah, yeah, yeah, yeah. I mean that's why I have it. Because even I use I'm quite a heavy user and I don't go over the limits on it. And and I do I get it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1595.36,
+      "endTime": 1602.56,
+      "text": "You don't use it for coding, do you? So, like that's your your heavy use is really on coding. So for you, like your day-to-day use, this covers all your bases, basically.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1602.8,
+      "endTime": 1639.36,
+      "text": "Yeah, yeah. But it also means that uh what I was doing before was switching between providers like uh whenever a new model came out. But I know that next week I'll get Gemini, whenever it comes out, I'll get Gemini 3 because it'll just pop up on here. Um, but yeah, we'll stick a referral and then um that helps us out a little bit as well. Um so Claude, um yeah, I've been using it for coding and it like in the same way that like Claude 4 blew me away with how good it was. I've actually got really familiar with using Claude 4 and sort of run up against its limitations, started using GPT-5 for certain things.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1640,
+      "endTime": 1683.44,
+      "text": "I went I revisited a project that I've been working on to tweak some things, popped Claude like started using Claude 5, and it was just phenomenal, like blew me away. And one of the things um that Anthropic uh talked about when they were um talking when the when they released uh 4.5 so and Anthropic have their own um coding like uh model which is it codex or is that the open AI one? I think that's the open AI one, but clawed code, clawed code code, it's just called clawed code literally. So the clawed code um is like a terminal version of uh of basically a clawed um sorry, a developer environment that uses the clawed models.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1683.76,
+      "endTime": 1730.08,
+      "text": "They said, and I can't verify this, but they said that they set Clawed 3.5 to work on a like a big, big, big task, and it was able to work for 30 hours by itself um on this coding task. And if you don't follow all this stuff closely, to put in perspective what that means, like you were only able to get these models to go off and work on their own on a task um for sort of 30 minutes to an hour previously, and a lot of the projections were that that would like double every six months, something like that. So this and it's just a it's it is just a tech demonstration, and it is by anthropic themselves, but if that's true that like in certain circumstances it goes back and checks its own errors and stuff, doesn't it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1730.24,
+      "endTime": 1761.68,
+      "text": "That's the way when we're talking about like being able to work on its own, because I think that's the reason you can't leave models to work on their own is because they they'll make mistakes or they run up against problems, and that's where the user steps in. What they're saying with the 30 hours, I think some of the feedback is well, yeah, it would require a lot to go right for it to be 30 hours, but it's able to identify mistakes, it's able to double check its work, go in and find things, so it's able to kind of work on itself. That's the reason it's able to potentially do 30 hours, and whether it's 30 hours or not, like to be honest, because I think that the leap is like, what was the best model before this?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1761.76,
+      "endTime": 1783.36,
+      "text": "Was it like five? Very short, yeah, comparative or four, like something like that. This is if it's true, even if it's halfway there, it's like three times longer than anything else. And this is an example of what we call agentic, basically, because it is it is you know pulling in different tools and it's checking and it's doing stuff on its own without a human needing to be involved until 30 hours later.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1783.84,
+      "endTime": 1826.96,
+      "text": "Yeah, exactly. I mean you can easily imagine this kind of thing, um, frankly, you know, in a in a positive way being very productive, in a negative way, but you know, being something that could replace um you know chunks of people's jobs if not. Not entire people's jobs, if it can go off and work for 30 hours, you know, that was on a coding task. If it can go off and work on sending emails, compiling things, creating presentations, like it's not that big a leap. Um, in fact, it's all very similar in the same sort of ballpark. So I think that's the kind of thing we're talking about, which is quite scary, but from a sort of, I guess, a technologist sense, quite exciting as well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1827.04,
+      "endTime": 1830.64,
+      "text": "Um, depends on which side of the fence you sit. We sit on both.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1830.8,
+      "endTime": 1872.32,
+      "text": "Yeah. There they're also the so they've got um a uh it's like a Google Chrome extension, which doesn't sound that sexy, but actually like you can have a look if you go onto anthropic.com and have a look. Or go on YouTube, Claude for Chrome brings AI. Um, I can't see the rest of the title um on the page here, but basically there's a YouTube video that will show you um basically how it can work in the browser. So in in Google Chrome. Um, it can so so in the example they give it an instruction um and it's about a home repair job, and it goes into emails and it will ask, it doesn't do everything on its own, it'll then ask you a question, then you prompt it again and say, Can you work out how much it costs?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1872.4,
+      "endTime": 1906.16,
+      "text": "This is my budget, and it actually goes in within those pages and does everything. And then it says, You do you want me to draft an email that says this? Again, it doesn't just draft it, you have to say, Yeah, I want you to, and you have to tell it you want it to reply to this person, put in the code, the um, like the quote price and my budget, and it takes it out of another email and off a website and puts that in. I mean, it's it's a really like it's an example of agentic AI. Now I'm not sure how much the video is like one of those examples, like you know, Apple and Google on their um commercials used to have a thing at the bottom saying, you know, some steps are shortened for the for the video.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1906.24,
+      "endTime": 1919.2,
+      "text": "Like how how much can it actually do this stuff? Wow. But it is, you know, with this browser extension is is doing some of it. I haven't tried it yet. Um I am gonna try it. Yeah, yeah, but but this is something that that sounds pretty amazing.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1919.44,
+      "endTime": 1935.6,
+      "text": "This is exact and this is exactly the kind of thing. I mean, I know we just plugged it literally, but this is the kind of thing I won't get with my abacus AI subscription, right? Because you probably need Claude. You'd need to have a Claude subscription. You'll need to have a Claude subscription. But I'm um I'm super interested in that, it sounds cool.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1935.92,
+      "endTime": 1972.08,
+      "text": "They also said, as I mean, this is interesting, they said it's our most aligned frontier model. So people remember that like anthropic are supposedly, you know, one of, or supposedly their thing is that they are more interested in safety than others. Now, I think we can kind of laugh at that and scoff a little bit because they're still developing a frontier model that you know is quite potentially quite dangerous. But I do think they are doing more than other frontier developers. Um, they've talked about having, I mean, you can have a look, there's a safety uh an evaluant uh safety alignment evaluation, um, which let me try and find what it says here.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1972.24,
+      "endTime": 2009.52,
+      "text": "Um, they have something which safeguard uses filters called classifiers that aim to detect potentially dangerous inputs and outputs, in particular things like chemical, biological, radiological nuclear weapons. So sometimes they're saying that these classifiers might mean that some normal content gets inadvertently flagged up. Um, so they have kind of worked with or they are able to work with kind of you know organizations that work in that space to try and give them a bit more freedom on what they can do, but it does potentially lower some of the risk. I mean, I think it's probably minimal because I think the problem is you've got people who can break all these things.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2009.84,
+      "endTime": 2010.08,
+      "text": "Yeah, yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2010.16,
+      "endTime": 2011.44,
+      "text": "I was gonna say, what does Pliny think?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2011.68,
+      "endTime": 2052.4,
+      "text": "Yeah, yeah, exactly. Well, that was my first thought, but they're trying to do something. Um, the other thing is something called Clawed Agent SDK. Um, I don't know if you've seen this, so you can only access this at the moment if you have the whatever it's called, the premium um the equivalent of the OpenAI Ultra Pro, whatever it is. So no, that's sorry, that is um that is Imagine with Claude. So Claude Agent SDK, you can use. So this is something that ships with um clawed code. Um, and basically it gives you, you know, kind of it gives you basically as a developer, so this again won't appeal to most people, but it gives you access to the infrastructure that powers clawed code.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2052.56,
+      "endTime": 2089.68,
+      "text": "So you can basically design it. So they're saying they built clawed code originally because the tool they wanted for coding didn't exist, and agent SDK means that you can build the basic the coding system in a way that can solve problems the way you want to do it. So as a developer, it allows you to kind of build essentially a coding agent in the same way as they did. So I think that like amazing for people who work on that. Imagine with Claude was a really interesting one. So this I mean, this is pretty mind-blown, even on the video. It basically just generates software on the fly, so you basically just give it a prompt, yeah, and you just watch it create software from the prompts.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2089.76,
+      "endTime": 2120.64,
+      "text": "Now, obviously, because the prompt's not accurate, it's not going to give you exactly what you want. But this is a kind of step on. And they're saying at the moment it's a bit of an experiment, it's something to, you know, it's an imagine, so it's kind of looking at what can happen. At the moment, if you have the Mac subscription, they're allowing you to use it for five days, which may have even run out by now. Like it was a very, very short-term thing. Um, but I'm sure like this kind of shows you in the future, it basically allows you to just be like, you know, I want to create this. You put a simple prompt in, a text prompt, and you just watch it creating software.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2120.96,
+      "endTime": 2125.28,
+      "text": "I I mean, I haven't seen that. I'm gonna check out the video later on. I'm not gonna pay for it. The video's pretty rubbish.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2125.84,
+      "endTime": 2133.52,
+      "text": "Oh, is it yeah, the video doesn't really show you much. I mean, well, it's not rubbish, but it's not the video is mind-blowing. I think you need to do it yourself to to find out.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2133.76,
+      "endTime": 2166.88,
+      "text": "Yeah, yeah. Which I'm not gonna pay for. But um I I predicted this, I think. I mean, I didn't I don't I don't know whether I predicted it on the podcast, but um and I'm not saying it's a genius prediction either, like, but one of the things I said was there'll come a point where you don't need to have all these different apps on your phone. You don't like I mean you'll still you'll still have some apps because obviously it'll make sense to have apps that you use regularly, but it there'll become a point where like if you want to play a game that you've just got in your imagination, um I don't know.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2167.2,
+      "endTime": 2201.2,
+      "text": "Let's use let's use an example like a really simple thing, but let's say this is the example that everyone uses online on any AI channel, so I'll use it. But if you want to play Snake right now, and you can probably do this right now on Claude, if you want to play a game of Snake, you don't need to download Snake, you can just say to Claude, I want to play Snake, yeah, um, and it'll write the code, and then you can be playing the game Snake. And if you want to like tweak it, add enemies, make it a funny shape, whatever you want to do, um, like you can just do that on the fly because it's a really simple concept.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2201.44,
+      "endTime": 2225.2,
+      "text": "Um, but to expand on that, like that's just a that's just a sort of gimmick. Um you can imagine a future where you want we've talked about it with the video stuff, right? So you'll be able to watch your version of Star Wars, you'll be able to watch the ending of Game of Thrones that you wanted. You'll be able to you know, I read fantasy books that aren't Lord of the Rings, that aren't famous enough to get films made of them. I'll be able to watch the film or something.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2225.6,
+      "endTime": 2272.24,
+      "text": "Even software is like we use Audacity to record this. Like, I want you to create me a program that will allow me to record things, but I want it to record in this way, and I want it to have this function, and I want it to have this, and I want it to be able to um turn both people's voices into you know this and this, and it will just create the software to do it rather than having to find the software and therefore again monetize because you'll then pay them to create the software rather than paying someone else to download their software. So you you're you're in in in an economic way, a bit like the kind of platform control we talked about with Sora, you're creating a stream where rather than me paying for all these subscriptions and things, once I if I use Claude, I just get Claude and Anthropic to do everything for me and I just pay them to do all that stuff and to create my versions instead of paying different companies to do yeah all the stuff themselves.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2272.48,
+      "endTime": 2308.48,
+      "text": "Yeah, and so I think I think you end up in a place where anything anything that's content, roughly speaking, you can generate on the fly. Um, and this is probably a few years down the line. Anything like there's a lot of functional apps you use on your phone right now that like I don't know, you've probably got an app to book a train and an app to book this and an app to reserve a space here. Like all of that stuff is agentic AI, right? So instead of having all those 10 different apps, you know, you've got an agentic AI that's connected to the internet that can just do those things for you. And so you so okay, you want to book a train in the future, you ask the AI and it just goes off and does it in the background.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2308.72,
+      "endTime": 2312.8,
+      "text": "I won't want to book a train because I'd just be at home, I have my mind numbed by Sora videos.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2313.12,
+      "endTime": 2316.72,
+      "text": "Well yeah, in the short Well, we don't want to build bo go on a train.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2316.96,
+      "endTime": 2326.24,
+      "text": "In the well, okay, in the short space of time where there'll be an intersection where like you still need to go somewhere. Right. You can get a Tesla robo taxi by imagining.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2326.56,
+      "endTime": 2337.36,
+      "text": "Or for those of us that have you know distance ourselves from the AI world and still use traditional things like trains and and and transport and meeting humans.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2337.6,
+      "endTime": 2353.04,
+      "text": "In the physical world, yeah. Yeah, yeah. You'll be able to do all that. Um you'll be able to well, dating. I mean I hadn't really thought about this until just now, but I think you can already kind of do this if you pay somebody some money, but like you'll just be able to I I would imagine in the prostitute.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2353.28,
+      "endTime": 2358.56,
+      "text": "No that wasn't what I mean is the original original industry, isn't it?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2358.64,
+      "endTime": 2364.56,
+      "text": "So I what I was gonna say is like you can probably pay somebody to like find somebody with the type of profile you want to.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2364.8,
+      "endTime": 2369.28,
+      "text": "Okay, right. So we but this is still people we're trying to find, or well yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2369.36,
+      "endTime": 2391.44,
+      "text": "But anyway, what I was gonna say is I can imagine I just mean that most people are not interacting in the human world anymore. So No, probably not. But there'll be a there'll be some people who still want to, and and you'll have an agent that sits in the you'll probably have an agent that does the equivalent of sits on Tinder and swipes left and right for you that basically and then and then you just get told you're going on a date.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2393.04,
+      "endTime": 2395.28,
+      "text": "Yeah, you will go on a date.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2401.6,
+      "endTime": 2435.84,
+      "text": "So this should be a a pretty quick uh section. I mean, we always say that, but I but I promise this will be a fairly quick one, which is um basically a kind of AI bubble. Um, and it's particularly about infrastructure spending. So, you know, to suggest an AI bubble, we've talked about it before, and like is AI hitting a wall, and you know, is it is it kind of as high, is it overhyped? This is not so much about that, this is just about the bubble in terms of the amount of investment. So the current kind of AI boom in terms of the economics of it, um, because none of these, you know, none of these, we talk about open AI, anthropic, etc.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2436,
+      "endTime": 2469.2,
+      "text": "None of these are making money out of AI at the moment, right? They're investing enormous amounts of money and losing absolutely incredible amounts of money, they're just burning through cash because this is all about you know the the sort of jewel at the end of it. But the thing at the moment that's driving the kind of growth is this massive wave of infrastructure investment. And I I saw like a picture of um one of the big centres in the UK, which I, you know, because I wasn't sure, but UK's got is is actually one of the the bigger um sort of destinations for um data centers. I think I think Ireland and the US are the biggest two.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2469.6,
+      "endTime": 2510.16,
+      "text": "Um but the UK is pretty big, and looking at them and they're like some decent discounts on electricity. Yeah, you know these Amazon, you know these Amazon sort of warehouses. I mean they look like like 10 of them basically joined together, they are enormous. Um, and basically these kind of like hyperscalers, GPU, you know, basically massive GPU centres and stuff. This is accounting for um, I think the figure I saw was 430 billion in 2025, just on in the UK. No, no, no, overall. Overall, overall, not not just in the UK. But they're talking about the overall, because don't forget this is like they don't they don't just build them in a year, like this is a kind of long-term plan.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2510.56,
+      "endTime": 2544.64,
+      "text": "They're talking about trillions in terms of this is what's already committed in terms of the investment in data centers and and and these massive projects. And they're talking about this is like it's on a par with the amount of money that was basically spent in kind of World War II in terms of expenditure, which is like historically, you know, I think it's comparative is the biggest um spend, although it's over a slightly longer period. So this spend is like forecast over, I think it's sort of 10-15 years. Um so the problem with this is like it's proven to be, although it's kind of massive, it's very fragile.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2544.72,
+      "endTime": 2575.36,
+      "text": "Um, it's a kind of stimulus into the economic system, but it's very, very fragile. Um, this was the bit that kind of blew my mind. So AI related capital expenditure contributed an estimated 1.1% of US GDP growth, which outpaced all consumer spending. And this means AI investment has accounted for uh I think it's a 45 or 46% of all US GDP growth this year. Yeah, also and this is not AI, this is just AI infrastructure investment.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2575.68,
+      "endTime": 2577.04,
+      "text": "That was me thinking it was tariffs.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2577.92,
+      "endTime": 2617.36,
+      "text": "So like you take that out, uh which you know is is sort of possible, or you you get that bubble burst, and and you've got 50% of US GDP is just wiped out in a second. And let's not get into like GDP and whether we agree with it or not, but that is like massive. And we're now seeing this like concerns of an AI bubble. Basically, we're already seeing like the stock market valuations are like off the charts, volatility, high high rate of failure for these pilot projects, and just the fact that this growth is reliant on like a very, very small amount of companies which are creating just like this hugely imbalanced development, basically.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2617.84,
+      "endTime": 2664.88,
+      "text": "So it seems risky. I'm gonna provide the sort of counter-narrative, I suppose, which is like well, what's the prize here, right? So what's the prize? And I think I think it's pretty obvious that the prize is you're you know, if you uh create uh the ultimate version of this, then you can start automating workforces. Yeah, you can automate jobs, which has got to be worth I mean, even if you don't automate existing jobs, and even if you create new growth, this is that's got to be worth insane amounts of money. Yeah, so like the prize is really the prize is big. I don't know if the prize is there or not, because we're obviously heading towards it and we're starting to see jobs being displaced by AI, which isn't a great thing, like that's not actually necessarily contributing to GDP growth.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2665.04,
+      "endTime": 2695.6,
+      "text": "In fact, um it is hugely risky, obviously. Any anyone, any sensible uh this is not investment advice, but just a caveat, I'm definitely not the best person to take investment advice from, but they always say like you should diversify and all the rest of it, and this clearly exactly this clearly isn't diverse in terms of like that sensible uh uh investment strategy. Um however, you know, the the maybe the size of the pie sort of justifies it. I don't know.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2695.76,
+      "endTime": 2725.2,
+      "text": "I mean, I think the next story we're gonna talk about, which is about the sort of the the final story, which is about the kind of potential brick wall on LLMs. I mean, I think that's that for me is like the big risk in here is like let's just go back to the Deep Seat moment at the beginning of this year, right? Deepseat came in and was like this oh shit moment that maybe scale is not what we need. And so I think this is the problem is what if we decide LLMs are running up against a brick wall, or what if someone comes up with something new? Or you know, what if quantum computing takes off in a year's time and that becomes the next big thing?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2725.36,
+      "endTime": 2744,
+      "text": "Yeah, and all the focus shifts to that. That's the problem is like all of it, it's not just that all this investment is in AI, all this investment is in large language models, the current large language model architecture continuing to just scale up for another 10 to 15 years. Like that seems risky, right?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2744.32,
+      "endTime": 2759.68,
+      "text": "It does. I mean, I I don't know, like given the things we've talked about, like can't AI already automate significant chunks of stuff, and it's just it's just like realizing that and actually embedding that a bigger war, a nuclear crisis, you know, there are other things that could bring it down. Oh yeah, yeah, yeah, yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2759.92,
+      "endTime": 2761.12,
+      "text": "Another pandemic.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2761.52,
+      "endTime": 2762.96,
+      "text": "Yeah, I hope not, please.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2763.2,
+      "endTime": 2769.28,
+      "text": "All of these things, please. COVID 20 hasn't finished yet, but be 25. We're not in 2020, no.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2770.32,
+      "endTime": 2772.8,
+      "text": "I thought they just you just like uh is it not 19.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2773.2,
+      "endTime": 2776.4,
+      "text": "I think it was the 20th COVID. No, it was the year 2019.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2777.04,
+      "endTime": 2829.2,
+      "text": "It's these AI numbering schemes that have got me. COVID 19.7 is the next one. Exactly. Um yeah, I mean I'm not gonna add much more to this other than that. I think it would I think it is it's obviously a huge risk. I I do think there is a huge potential in it as well. I don't know. We're gonna talk about the AGI thing, and I'll make the the argument then I'm not 100% sure that you need to get to AGI to realise a lot of the benefits, yeah. Um but yeah, just I mean, just briefly, like the Alibaba um have just had a um their big um symposium conference, whatever it was, last week, and the basically the way Jack Mars put it, because he's he's now back, Jack's back, um he's he's uh basically Alibaba are all in, all all in on AI.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2829.28,
+      "endTime": 2838.32,
+      "text": "They're investing something like 50 billion, I think it's like 57 billion, it might be 40 something billion, like it's in the it's ten it's in the tens of billions numbers.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2838.48,
+      "endTime": 2841.2,
+      "text": "Um that's part of that 430 billion, then maybe.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2841.52,
+      "endTime": 2890.96,
+      "text": "Yeah, exactly. And well, but the interesting thing is, I mean, there's all this weird stuff about I've seen some stuff recently about there's been some big exposes on how China are actually getting um like the the chips through the black market and all the rest of it. So all that kind of stuff's going on anyway. Like basically it's really hard to contain this stuff. Um, but yeah, like the the the interesting thing with Alibaba is again, like they've got this Quen 3 Ultra model, which is a trillion parameter, very, very big. Um just take that as uh open source model, open source open weights called Quen 3 Ultra, um, which is actually the like top top of the leaderboard by quite a long way on the open source leaderboards, which is it's kind of wacky that like China's got this open source um kind of uh slant um going on.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2891.12,
+      "endTime": 2922.56,
+      "text": "I mean I'm sure they've got closed source models as well. Um but open source Which we don't know about, which we don't know about, obviously. But like but yeah, like Alibaba are pushing out these open source models, and I guess that's because they're trying to disrupt things in the US um as much as anything else, because they can't compete directly in a lot of ways. Um because you know, Western companies aren't going to use these, they won't use Chinese models that are native Chinese models, whereas they'll take the open source ones and tweak them and do stuff with them, and so they it's a it's more of a sort of disruptor type activity.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2922.88,
+      "endTime": 2982.48,
+      "text": "Just a final word on that, because I I've I've probably talked about it before, but QN. So I use Tongyi. Tongy is the kind of um I guess like you know it's the interface, like it's the name of the app. So it's the it's the consumer interface version that uses QN. So it's it's Alibaba's consumer interface name is Tongi, even though the the model in the background is QN. And I use it for ages. Um I don't really use Deep Seat because I don't really like it. There are various reasons why I don't really like it, but I use QN like a lot of time in China I can't be bothered to turn my VPN on. Um so I just use QN and I've noticed like again massive leap forward in the last month or so in terms of like how quick it is, um how good it is, and again, not just in terms of like answering things, but in terms of doing translation and stuff, but it is lightning fast, like it's really, really fast, almost kind of like Grok with a Q, which the one the non-Elon Musk one, in terms of how quick it is at doing stuff.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2982.56,
+      "endTime": 2988.16,
+      "text": "So yeah, just a shout out to to Alibaba's QN or Quen. Um, it's a it's a really good model.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2988.4,
+      "endTime": 2992.08,
+      "text": "Oh, I've just asked, I've I've realized I've got it on my um LLM Studio.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2992.16,
+      "endTime": 3001.28,
+      "text": "So I asked another flag for LLM Studio. If you get LLM Studio, the one that we've linked in the uh in the show notes to this, uh you can try QN3 Max.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3001.6,
+      "endTime": 3028.56,
+      "text": "I asked it if it's better than Claude. It says it's a tough one. Both of us have our strengths. Uh I'm QN3 Max hosted on blah blah blah, and I'm designed to be highly responsive, up to date. It's kind of like oh, if you want real-time info, file generation or tight integration integration, he it reckons it's better. If you're doing deep philosophical reasoning or working with long documents, Claude might shine. Admire its honesty as well. Yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3036.16,
+      "endTime": 3075.84,
+      "text": "Right, so the the final thing I wanted to talk about in this episode. So um, this is a story, basically, I don't know what we want to call it, like, have have large language models reached a dead end. In fact, I think what it's punchy. LLMs don't make substantial predictions is actually like the basis of of this. So there's a guy called Richard Sutton who is the he's known as the pioneer of reinforcement learning. So all of these people seem to be the godfather of, you know, Jeffrey Hinton, Jan Lequin, all of these kind of, they're all the godfather or the originator. I'm not sure, but he is seen as kind of, I think, the first person who came with reinforcement learning.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3075.92,
+      "endTime": 3111.52,
+      "text": "And he wrote this uh thing called the bitter lesson in 2019, which apparently is a kind of seminal um sort of paper about AI and about limitations. So he's been really active in the recent weeks, um, notably, or where I picked it up was on the Dwarkash podcast. I don't know if people listen to it, Dwarakesh Patel podcast, which was released on the 26th of September. So he's basically argued that large language models are a dead end on the path to true intelligence. Now, you know, this is not the first time that people have argued this. Um, there is a cracking uh response. So Dwarakesh Patel, who did the episode, said he got so much feedback.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3111.68,
+      "endTime": 3145.84,
+      "text": "He wrote down his own thoughts and sent them out in an email. It's on his Substack as well, but I read his email. I'm not going to go through all of that. Um, but he was sort of saying, you know, I don't agree with everything he said, but like, yeah, wow, this guy's kind of really kind of challenged even his thoughts on it. So basically, these the premise of this is large language models, and this is why this links into the last story about this kind of infrastructure build, they have fundamental architectural limitations that scaling cannot overcome. Lack of continual learning, so they're incapable of learning on the job or continually updating their knowledge through real-world experience.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3146,
+      "endTime": 3181.04,
+      "text": "They were primarily developed during initial massive training phase, and they can't build on that without suffering from what he calls catastrophic forgetting. And true intelligence, he argues, must be able to learn on the fly. Second thing is absence of world model and ground truth. They're designed to predict what humor would say next based on their training data, not to predict what would happen in the physical world. This means they lack a kind of world model, they have no concept of a ground truth, objective right or wrong, to correct their beliefs against without a goal or the ability to be surprised by an outcome they cannot learn from unexpected results.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3181.2,
+      "endTime": 3217.2,
+      "text": "And the third one is they have no goals. So he defines the essence of intelligence as the ability to achieve goals, whereas large language models'primary objective is next token prediction, so they don't have external goals. Um, so basically his belief is like this fixation on scaling, which is building this up, is a dangerous bandwagon. It ignores basically core principles of real intelligence. And his argument is not that AI is not going to develop, but that the next breakthrough has to come from a new architecture which is based on reinforcement learning, and that would render the current large language model approach obsolete.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3217.52,
+      "endTime": 3273.6,
+      "text": "There were bits of right, there were bits of that that I feel like I disagree with, but like or I would question. However, I agree with the general thrust of it. Like I'd probably the way I would put it is probably a lot simpler. Um, and sorry if I'm like you know usurping this genius. Um but like it feels to me like what we've done is we've taken all of everything, all of the knowledge that humans have ever come up with ever, effectively, is what we've done, which is basically what I mean it's uh okay, I'm dumbing it down, but it's what's on the internet, it's what's online, right? It you take all of that historical, all of that current, all of that all of that um that whole library of evidence and knowledge and everything that humans have got, and then you effectively pop a very sophisticated um data center brain powered brain over the top of it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3273.92,
+      "endTime": 3317.04,
+      "text": "And and and I I experienced this again the other day with the very with the very best models that are out there where I asked it a question. I asked it a question where I knew the prevailing let's say um what's the word? Like uh the prevailing sort of general knowledge and general information on the internet was I knew what that was, I knew what it was. Um and and unsurprisingly that AI gave me the answer that is kind of the average of everything that's on the internet. I then but I knew there'd been a very recent scientific study which had tested very accurately whether this thing is true or not, and found that the prevailing knowledge on the internet is just incorrect, it's just wrong.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3317.2,
+      "endTime": 3353.92,
+      "text": "It's just like um wives'tales, it's just like kind of you know the consensus uh on forums. Um and so I plugged that in and I said, Can you go and search the web? Because I think this is incorrect because there's been this, this, and this. And it went off and found it and then said, Oh yeah, I'm completely incorrect. Actually, it was the it like there's been this scientific study, and actually what you said is completely true. And then I said, Well, why did you give me the wrong answer to begin with? Is it because I I did prompt it, I said, like, is it because that's the prevailing kind of like winds on the internet, so to speak?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3354.16,
+      "endTime": 3389.52,
+      "text": "Uh and it came back to me, and this was GPT-5 thinking, so it's like one of the best models in the world. And it came back to me and it was just like, yeah, like that was what that was the like if you average out all the information that's on the internet, there was more information on this kind of like general principle side. I'll tell you what it was. It was something very, very boring. I make coffee at home, and when you make coffee, when you make espresso, you grind the coffee, and then you um it's called tamping, where you like squeeze it down. For years and years and years, people were like, don't tamp too hard because it'll make the coffee come out, it'll make it inconsistent, and all the rest of it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3389.68,
+      "endTime": 3422.32,
+      "text": "People did some studies recently where they like tested the pressure that you use and found that it makes no difference whatsoever. And the re and there's a reason for that, it's because all you're doing is you're squeezing the air out. Once you get the air squeezed out, it doesn't matter how hard you press because you can't physically compress the coffee. Yeah, um, so there's no point in pressing too hard, there is no point in doing it, but you can't also it also doesn't make any difference, you can't compress too hard. And so I asked it this question knowing that like most of the information out there was wrong, but there is this small study where they've tested it, blah blah blah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3422.48,
+      "endTime": 3450.48,
+      "text": "And so so so the reason I'm like telling this story, and sorry to ramble on, but like that's my feeling with LLMs, is they are still they seem very smart, but I've said this since the beginning, yeah, they seem very smart, but they always seem to be approach approximating, approaching a hundred percent of the intelligence that's already out there. They're just it's just popping a big brain over the top of all the knowledge that we have, but it's not coming up with new ideas, they don't come up with anything new ever.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3450.8,
+      "endTime": 3485.44,
+      "text": "Can I just give I'm just gonna give another example like that, and I'm gonna finish off with Dwarkesh Patel's concluding thoughts on the email he sent out in reference to that interview, which uh you know anyone can go and do not think my coffee puck thing was better than what he said though. I think it was better than what he said, but I'm gonna come back to your coffee puck thing with a similar example. So this was one that someone showed me today. So I I uh you'll like this because it was actually um on a um it was on a is it a website or a YouTube channel, which basically is like a it is a religious channel, but basically it's called questions.org or something like that, or or azquestions.com.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3485.52,
+      "endTime": 3524.48,
+      "text": "I can't remember exactly what it's called, but anyway, the the the they were talking to Chat GPT, a bit like when we did that interview with an AI, and they were asking various questions, and they were I I think on this thing, I have to be honest, they were trying to kind of prove um that evolution was not necessarily um was not necessarily a true theory, but what they asked Chat GPT, they said um they asked it how much DNA uh humans shared with chimpanzees, and it said 98 to 99%. And they came back and said, Well, no, that was what used to be thought, but more recent evidence has said that it's more like 80%, or I don't know exactly what the And if you'd asked me I would have said 98% because I've heard that so I'm not sure.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3524.56,
+      "endTime": 3571.44,
+      "text": "So and and chat and it said, Did you not know that? And Chat GPT said, Yes, I do know that. And it was like, Well, why didn't you say it? And it said, Because my default answer is that the general consensus in training is 98 to 99%, and it said, but you know that it's been proven to be incorrect, and it said, but unless my the prompt asks me to answer within particular, um, you know, a particular what will be the word time period, like no, not time period, but to answer within a particular kind of framework of my answer or gives me a particular specific prompt, I will give like users the default answer, which is 98 to 99 percent, even though the model knows, and I put nine knows in kind of you know inverted quotes, yeah, um, that that was an that is not the correct answer.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3571.68,
+      "endTime": 3610.96,
+      "text": "That's another example of how it's quoting what is the you know the most common answer in the data, even if it knows that something else was a better answer. I thought that was a really interesting one. I'm just going to finish on this um concluding thoughts, and then we're just over an hour, so we'll finish then. So, this is the concluding thoughts from Dwakish Patel. Um, evolution does meta reinforcement learning to make a reinforcement learning agent. That agent can selectively do. Imitation learning. With large language models, we go in the opposite way. We first make a base model that's imitation learning, then we do reinforcement learning on it to make a coherent agent with goals and self-awareness.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3611.12,
+      "endTime": 3647.68,
+      "text": "Maybe this won't work, but I don't think these first principle arguments, for example, about how they don't have a true world model, prove much. I also don't think we're strictly accurate for the models we have today, which undergo a lot of RL um reinforcement learning on ground truth. But even if Sutton's platonic ideal doesn't end up being the path to AI, he's identified genuine basic gaps which we haven't even noticed because they're so pervasive in the current paradigm. Lack of continual learning, abysmal sample efficiency, dependence on exhaustible human data. If large language models do get to AGI first, the successor systems they build will almost certainly be based on his vision.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3647.92,
+      "endTime": 3690.96,
+      "text": "So I think the point here is maybe we will still develop and get AGI, whatever that means, with large language models. But this idea that Sutton had about this reinforcement learning thing, if a large language model that got to AGI built its own successor, it would almost certainly use his logic. So check it out. It sounds quite technical. I think our explanation here, probably if you're not um someone who has a basic understanding of what reinforcement learning is, probably quite difficult to understand. But I think this is really, really interesting to check out and listen to this podcast because this is talking about a potential sort of architecture change, which could be the thing that triggers the economic crash that we just talked about and potentially kind of upends the current scaling AI model.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3691.2,
+      "endTime": 3714.08,
+      "text": "Yeah, and I guess that's because it'll shake the sort of foundations and so it's not necessarily scaling and just add more and more compute and go bigger and bigger. That'll scare people, yeah, that'll scare investors. So it's i and it's not that we won't end up getting there necessarily, it's that like that you need that stability. Like at the moment, if if if everyone's just like, yes, LLMs are gonna get us there, and investors can believe in it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3714.24,
+      "endTime": 3733.2,
+      "text": "When you start again with this reinforcement learning model, it might take 20 years to get it to the right, you know how long it's gonna take to do that. Whereas now it's like, oh, if we keep building, in one year we'll be here, in two years we'll be here, in five years we'll be AI, in ten years we'll be yeah, no one needs to work again. You have to keep that. If that doesn't work, you're like, okay, it's kind of like starting again. We've had a we've had AI for 50 years.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3733.44,
+      "endTime": 3735.52,
+      "text": "Yeah. Well, yeah, it's Altman's vision.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3735.92,
+      "endTime": 3741.12,
+      "text": "Yeah. Anyway, as usual, we may have a song, we may not have a song.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3741.44,
+      "endTime": 3744.4,
+      "text": "Um I fancy making a song, although we'll have a song then.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3744.72,
+      "endTime": 3748.16,
+      "text": "So uh I hope you enjoy this episode and uh see you next week.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3771.76,
+      "endTime": 3788.96,
+      "text": "Flicker a screen City bleeding the on rain, drops cut like static, eye waste with snow ending sight Coded blue",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3792.32,
+      "endTime": 3805.04,
+      "text": "Recussion echo Phantom shadows allowed temple whisper build it burns my throat",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "AI Song Vocal",
+      "startTime": 3808.24,
+      "endTime": 3840.24,
+      "text": "Falling through the winds, climbing out a flying.",
+      "chapterIndex": 9
+    }
+  ]
+}

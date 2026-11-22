@@ -1,0 +1,1339 @@
+{
+  "slug": "s3-2026-04-22-inflection-point-claude-mythos-cybersecuri",
+  "buzzsproutId": "19056418",
+  "title": "INFLECTION POINT: Claude Mythos, Cybersecurity Shocks and the State of AI",
+  "date": "2026-04-22T01:00:00.000Z",
+  "season": 3,
+  "durationSec": 3875,
+  "format": "guest",
+  "era": "recent",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/19056418-inflection-point-claude-mythos-cybersecurity-shocks-and-the-state-of-ai.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail A leaked frontier model called Mythos sets off the kind of panic that usually comes with “AGI is here” headlines, but the real story is sharper and more practical: AI that can find zero-day vulnerabilities at scale, then chain exploits together like a seasoned pen tester. We break down what’s actually being claimed, what might be artefacts of a controlled test environment, and why it still changes the cybersecurity landscape for governments, companies and ordinary people who just want their devices to work. From there, we widen the lens to the economics of AI. Compute is no longer an invisible background resource. It’s showing up as rate limits, shrinking allowances, higher prices and design choices like model routing and “adaptive thinking” in Claude Opus 4.7. We talk about what this does to real workflows, why token efficiency suddenly matters, and the oddly effective hack of forcing ultra-brief outputs with tools like Caveman Claude when you’re burning context on coding and agents. We also connect the dots between fragile digital infrastructure and everyday resilience: how to think about outages, local backups and cash without turning life into an apocalypse role-play. Finally, we compare Western frontier pricing with China’s fast-moving model market, where GLM, Qwen, Minimax and the looming DeepSeek V4 rumours point towards near-frontier capability at a fraction of the cost. If you care about AI safety, AI economics, cybersecurity, and where this race is actually going, hit subscribe, share the episode with a friend, and leave us a review with your take on whether we’re underreacting or overreacting. Comparison of AI models as mentioned by Jimmy: LLM Rankings | OpenRouter",
+  "summary": "A 'state of the nation' on AI anchored by Anthropic's leaked frontier model Mythos, withheld from release after finding roughly 180 zero-day vulnerabilities (versus two for Opus 4.6) and autonomously chaining exploits into real attack paths, then handed to big tech via Project Glasswing. The hosts weigh genuine capability against hype timed to Anthropic's rumored October IPO and a regulatory agenda that favors closed models, agree Mythos is not AGI but a real cyber leap, and map the new compute rationing: Claude rate limits, shrinking allowances, Opus 4.7's adaptive thinking, and token hacks like Caveman Claude. They close on creaking infrastructure (GitHub pushing six times last year's volume in two months, possible Iran war supply-chain effects) and China's opposite playbook — a model price war with GLM 5.1, Qwen 3.6 and rumored DeepSeek V4 at a fraction of Western cost.",
+  "keyTalkingPoints": [
+    "Mythos: Anthropic's leaked frontier model was deemed too dangerous to release after finding ~180 zero-days versus Opus 4.6's two; the scary part is it autonomously chains exploits into end-to-end attacks like a seasoned pen tester.",
+    "Project Glasswing gives Mythos to AWS, Apple, Cisco, CrowdStrike and others for defense first; both hosts agree you can't keep it in the box — someone, somewhere, will build and release something at least as powerful.",
+    "Hype vs reality: the panic coincides with Anthropic's rumored October IPO and a regulation push that advantages closed models; Jimmy guarantees the safety principles get diluted once Anthropic is publicly traded.",
+    "Compute is being rationed everywhere — Claude rate limits after the Pentagon surge, shrinking allowances, Opus 4.7 'adaptive thinking' routing easy queries to cheaper effort (echoing the GPT-5 backlash), and Caveman Claude cutting output tokens by ~75%.",
+    "Surrounding infrastructure is creaking: GitHub did six times last year's push volume in the first two months of the year, and Matt suspects Iran war supply-chain knock-ons (hydrogen, phosphate, nitrogen for chips and cooling) — advising people to buy electronics now.",
+    "China is running the opposite playbook: a price war giving near-frontier models away (GLM 5.1 at free-to-cheap prices, Qwen 3.6, Minimax, DeepSeek V4 rumored on Huawei chips at ~1/20th Opus cost) to embed AI in the economy and export it to the developing world."
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Initially cynical about Mythos — the sandbox-escape demos are staged — but serious cybersecurity reporting on the autonomous exploit-chaining convinced him it is a genuine leap.",
+      "AGI-for-coding is close: rate limits aside, he could leave Claude running four to five hours autonomously, and he now plans projects by asking Claude what to do rather than telling it.",
+      "Caveman Claude genuinely works — he implemented it on Claude Code and gets far more out of his allowance; he even had Claude reprogram its own setup to be more token-efficient.",
+      "He stopped paying for Google but uses the free Gemini tier (and AI Studio) for non-coding queries to preserve Claude credits, and recommends Claude Code over OpenClaw-style agents since Anthropic banned OpenClaw on subscriptions.",
+      "He expects much more compute-efficiency tooling (model routing, offloading), suspects Iran war supply-chain effects and China's spare energy capacity sit behind the compute crunch, and sees China's 'good enough at 1/20th the price' strategy as the drone-versus-tank analogy."
+    ],
+    "matt": [
+      "Historically the more pessimistic host, he still thinks the Mythos meltdown was overblown — a real leap, but laced with marketing hype ahead of the IPO and a regulation play that strengthens closed models.",
+      "Large-scale cyber attacks and blackouts are now inevitable; he advises cash at home, local backups, updating everything day one, and buying electronics now before prices rise.",
+      "Believes there has to be a rollback from 'everything digital' — an all-digital world cannot be secured against frontier models, let alone future quantum computers.",
+      "Recommends Gemini Pro (~£10/month) as the best-value single subscription for non-coders, keeps non-code queries off Claude to preserve compute, and found GLM 5.1 'pretty good' via Windsurf.",
+      "Admires China's model: brutal price competition producing near-frontier models designed to be routed invisibly into apps, robots and developing-country infrastructure rather than admired."
+    ]
+  },
+  "predictionIds": [
+    "s3-2026-04-22-inflection-point-claude-mythos-cybersecuri-646.5-a-large-scale-cyber-attack-driven-blackout-inter",
+    "s3-2026-04-22-inflection-point-claude-mythos-cybersecuri-1219-anthropic-s-safety-principles-get-diluted-once-i",
+    "s3-2026-04-22-inflection-point-claude-mythos-cybersecuri-2280.4-electronics-prices-phones-computers-rise-signifi",
+    "s3-2026-04-22-inflection-point-claude-mythos-cybersecuri-3150.96-chinese-models-settle-at-roughly-two-months-behi"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "SPEAKER_07",
+    "SPEAKER_03"
+  ],
+  "chapterCount": 18,
+  "turnCount": 173,
+  "chapters": [
+    {
+      "title": "Welcome And Studio Chaos",
+      "startTime": 0
+    },
+    {
+      "title": "What Anthropic Mythos Actually Is",
+      "startTime": 97
+    },
+    {
+      "title": "Zero-Day Claims And Glasswing Plan",
+      "startTime": 206
+    },
+    {
+      "title": "Lab Testing Versus Real Threats",
+      "startTime": 262
+    },
+    {
+      "title": "Practical Security For Everyday People",
+      "startTime": 558
+    },
+    {
+      "title": "Preparing For Internet And Power Blackouts",
+      "startTime": 646
+    },
+    {
+      "title": "Is Mythos AGI For Coding",
+      "startTime": 829
+    },
+    {
+      "title": "Hype, IPO Pressure And Regulation",
+      "startTime": 1045
+    },
+    {
+      "title": "Opus 4.7 And Adaptive Thinking",
+      "startTime": 1260
+    },
+    {
+      "title": "Compute Shortages And Price Rises",
+      "startTime": 1477
+    },
+    {
+      "title": "Caveman Claude To Save Tokens",
+      "startTime": 1810
+    },
+    {
+      "title": "GitHub Strain And Creaking Infrastructure",
+      "startTime": 2032
+    },
+    {
+      "title": "Iran War And The Chip Supply Chain",
+      "startTime": 2126
+    },
+    {
+      "title": "Gemini’s Tool Ecosystem Gets Serious",
+      "startTime": 2361
+    },
+    {
+      "title": "Agents, Claude Code And Safer Workflows",
+      "startTime": 2742
+    },
+    {
+      "title": "China’s Cheap Frontier Model Surge",
+      "startTime": 2922
+    },
+    {
+      "title": "Comparing Models By Price And Ability",
+      "startTime": 3325
+    },
+    {
+      "title": "Risk Appetite And The Innovation Gap",
+      "startTime": 3546
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.2,
+      "endTime": 31.28,
+      "text": "Welcome to prepare for AI. The AI podcast for everybody. The podcast that explores the human and social impact of AI. Explore where AI intersects with economics, healthcare, religion, politics, and everything in between. Here is my name. Worshipping Peacocks is my game. My children at Ares and more from Zeus, I nearly tore. Welcome to Preparing for AI with me, Georgios Karagunis.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 31.52,
+      "endTime": 32.88,
+      "text": "And me, Roy Walker.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 33.12,
+      "endTime": 42.08,
+      "text": "And everyone will know from the introduction there that this episode we're going to start off by talking about Mythos, which is the new model from Anthropic.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 42.32,
+      "endTime": 50.72,
+      "text": "Yeah. I like our new recording studio vibe. It's getting worse. We're now holding our microphones. Why do you need to tell people that? Because it's just funny.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 50.8,
+      "endTime": 54.72,
+      "text": "I'm just like why why why are we holding our microphones though, Jimmy?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 55.2,
+      "endTime": 58.64,
+      "text": "Because yeah, because we're uh why why are we holding them?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 58.8,
+      "endTime": 95.44,
+      "text": "Oh, because you forgot to bring the stand and we're recording it in Studio B instead of B. Anyway, uh, yeah, we're gonna talk to begin with. Well, actually, this episode is gonna be a kind of um I guess I can update on the current state of AI. Um, so we're gonna talk a bit about Mythos, which is the new model from Anthropic, and that's gonna kind of lead into um looking at where we are in kind of AGI hype, um the kind of new models that have come out and are coming out, issues around compute. So we're gonna talk about all of the things that we think are kind of really important in terms of identifying where AI currently is.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 95.52,
+      "endTime": 138.48,
+      "text": "So a kind of state of the nation episode on AI. So I'll I'll talk to begin with just a little bit in case people are not aware what mythos is. So mythos is a it was originally a leaked model, so it was a model that was basically being um sort of developed by Anthropic. It is their sort of number one frontier model, and it was identified as being too dangerous to release, basically. Um, and that was predominantly around how it could be used for cyber attack. So they stated that when they'd been testing it, it had found all of these zero-day vulnerabilities. So that these are basically vulnerabilities that um an organization would well, they're so significant they'd have zero days for an organization to solve them before they cause a problem.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 138.64,
+      "endTime": 173.52,
+      "text": "It had found, I think, 180 of them, whereas the most powerful model before, which was Opus 4.6, had only been able to find two. So this was this huge thing, they couldn't release it. Um, and then of course, you know, the the world goes into kind of meltdown around what this actually means. I, as someone who has been, you know, historically more pessimistic about AI than than Jimmy. I mean, I actually saw this and was like, okay, this is this is being overblown a little bit. Um, I think it is a big deal, but I think there's probably also some kind of marketing hype in here, which we'll talk about a bit later.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 173.6,
+      "endTime": 189.6,
+      "text": "But they didn't release the model um to the public. So I don't think they didn't leak the model, they they leaked the fact that the model was being developed. Yeah, I get I get I get what you're getting at here. Presumably anthropic, as all these models seem to be, you know, they they also leak their own code, like there's a lot of things that are being leaked.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 189.84,
+      "endTime": 195.84,
+      "text": "What was his what's his name? Dario. Yeah, Dario. He's he's starting to become as suspicious as Sam Altman these days.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 196.08,
+      "endTime": 250.48,
+      "text": "I mean, I wouldn't go that far, but but I mean we'll talk about it again later, but you know, there's talk of anthropic having their IPO in October this year, so that couldn't possibly be anything to do with this. But but it is an incredibly powerful model. It has, you know, it has been able to identify all these vulnerabilities. Um, and they haven't released it to the public, but what they have done is they've put in place this thing called Project Glasswing, which is basically they're giving it to all of the sort of big uh tech companies, so Amazon for Amazon Web Services, Apple, um Cisco companies like that, and and CrowdStrike, the big um sort of cyber security organizations, and giving them time to use it as a kind of defensive force for good before it kind of gets out into the public because their view is also even if we never release it, there's going to be models that are going to be this powerful or more powerful that are being with released in the future.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 250.72,
+      "endTime": 262.64,
+      "text": "So the pitch is we you know use it for defensive capabilities first, otherwise we give the uh sort of we we're giving the power over to the the kind of criminal and the hacker.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 262.96,
+      "endTime": 295.2,
+      "text": "Does this yeah, so just to just to sort of um clarify something on the on the vulnerability thing. So I think I uh to be to be fair, when you first told me about this, I was really skeptical. I was like, oh, this has happened before. They've talked about you know Claude trying to escape from its box in the lab and sat its sandbox in the lab and stuff like that. Um and it turns out that when you look into it, it's you know, it's a very what's the word? It's an it's a it's a very specific environment where they've given Claude some specific instructions and they've basically asked it to try and break out.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 295.52,
+      "endTime": 296.88,
+      "text": "Well, Mythos also escaped.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 297.04,
+      "endTime": 306.4,
+      "text": "Yeah, but and they've also given but they've also given it access to tools that would allow it to escape. So it's a very um artificial, like artificially constructed environment.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 306.56,
+      "endTime": 312.24,
+      "text": "And so they're telling it to try and escape. It's not that it just escaped one day, it's they've told it try and escape to test it. So yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 312.64,
+      "endTime": 356,
+      "text": "Exactly. So that history was why I was like quite cynical. But since then I read, I've seen more stuff come out about the mythos stuff from from serious um serious people and serious cybersecurity experts. And um it actually found thousands of exploits in every major OS, uh, and in um apps like Firefox and things like that. Apparently that's not even the the sort of like the smart part or the dangerous part. The dangerous part is the fact that it it then autonomously chained together these exploits in order to at like carry out what would be real-world exploits on these on these apps, um, and that's something that is an actual like a pen tester's job, like someone who does penetration testing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 356.16,
+      "endTime": 381.12,
+      "text": "So what my question was gonna be like, do you think this means the end? Like, do you think we're not gonna get any new frontier models now then? I mean, Claude, for we were gonna talk about Opus 4.7 in a bit, but for various reasons, Opus 4.7 isn't actually a huge leap forward. Yeah, and it's definitely not mythos. Is this it? Is this it now then? Have we reached the point where literally there will be no more new frontier models because they're all too powerful?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 381.6,
+      "endTime": 387.68,
+      "text": "Well, that I mean that we say no frontier new frontier models. I mean they have released it, they just haven't publicly released it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 388.16,
+      "endTime": 391.12,
+      "text": "Sorry, sorry, that's I mean, yeah, available to you know the plebs.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 391.44,
+      "endTime": 424.48,
+      "text": "Possibly. I mean, an another cynical way to look at this is this is an incredibly strong case to say we need you know closed models, not open source, and it's really, really important that you allow us to be the only ones who pursue frontier models and therefore maintaining the lead. And look how dangerous it is that you know Meta, open source, China, etc. etc. develops these. No, I don't think so. I mean, I I uh like you can't put it back in its box, right? So it's impossible to do that. And and and I do agree, you know, uh for me, I I hate the way that they make it. It's it's if we don't do it, China will do it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 424.56,
+      "endTime": 474.88,
+      "text": "But it doesn't matter who it is the they, someone will develop a model, right? Someone will develop a model at some point that is more powerful. I mean, I think this idea that we need to be more we need to be ahead of things. I mean, I I also think like going off track a little bit here, but but all of this stuff and the fact that you know quantum computing might appear one day, I think for me is like there's just this danger that we're moving to a world where everything becomes digital. I genuinely think at some point there has to be a rowback that says, okay, not everything can be digital. We can't we can't rely on everything being digital and protecting it digital because it will be capable of you know, you you you can't secure everything if everything, if all money is just stored digitally, you know, even if it's not then the this frontier model that's able to to bring it down, then you know, quantum is able to bring it down.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 474.96,
+      "endTime": 510.4,
+      "text": "I mean, I d I do think this. It'll be a really chaotic event one day. I mean, what not not one day? I mean, I think what this says is like, you know, there are going to be blackouts, right? And what I mean by that is like internet blackouts or power blackouts or the banking, you know, your ATM doesn't work or whatever whatever it is, there's gonna be blackouts because there's gonna be more and more cyber attacks. Like that that's now inevitable. The question of where they can stay ahead, you know, maybe they can, but then it will swap the same as models don't always stay ahead, right? So maybe maybe this does put cybersecurity ahead and then it then it isn't, and then it is again, and then it isn't.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 510.48,
+      "endTime": 518.48,
+      "text": "But the ability to create massive scale cyber attacks. Oh yeah, and there's no doubt just that that is the big risk here.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 518.72,
+      "endTime": 555.52,
+      "text": "Yeah, and I have no doubt that on the one hand, Mythos has been given to the access to it has been given to Microsoft and Apple and other people that build these software products that have got vulnerabilities in them, and I'm sure that's all for a very good reason, and they're probably busy patching all these zero-day exploits. Um, however, I can also bet it's been offered up to the military um and it will get into the maybe not a drop because they're in their uh disputes with the Pentagon, but maybe something like this. Yes, the GPT or whatever. Yeah, exactly. And then they're gonna be using it, and obviously China will do the opposite as well.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 555.68,
+      "endTime": 557.44,
+      "text": "So yeah, sketchy.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 557.76,
+      "endTime": 570.56,
+      "text": "Yeah. I mean what you know what what do you think what does this mean though, in terms of like for your average person? In terms of like, do you do you think they need to do anything differently?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 571.36,
+      "endTime": 600.8,
+      "text": "For your average person. Um I don't well, it's hard to say really. I assume so although this is might affect I think the vulnerabilities they were talking about could affect operating systems and things like that. So I think just follow, you know, make make sure everything's always up to date, which is good advice anyway. So keep everything up to date. If your phone's pestering, you're you're you know, I I I know it is irritating getting Microsoft updates that bloat your computer with copilots.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 601.04,
+      "endTime": 602.72,
+      "text": "You need to be updating stuff the day it comes out now.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 603.04,
+      "endTime": 639.84,
+      "text": "But a lot of those are security vulnerabilities. Um, you know, I'm on Linux, but actually Linux is just as vulnerable, and you need to update that as well. Um in fact that you have to manually update that, so that's something to keep an eye on. I think I think all you can do is stuff like that, don't do silly stuff with passwords. It's all stuff that was applicable before, but now you know what what does this stuff mean in reality? Well, if if if if you fall prey to one of these vulnerabilities, then it could mean someone gets a keylogger on your computer and gets access to your password. So if that's becoming more of a danger, then you just have to be more and more vigilant, I think.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 639.92,
+      "endTime": 646.24,
+      "text": "But I don't think you can do anything other than that. There's nothing you can do specifically to protect yourself from the next zero-day cyber attack.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 646.48,
+      "endTime": 675.36,
+      "text": "No, I mean I'm gonna say something now that's gonna make me sound like I'm wearing my tinfall hat, but you know, I turn off the internet. Well, no, what I was gonna say is like I think for people is like you need to be prepared now for it's you know, it's not like now this idea of like one day there might be a sort of blackout is like, oh, it might happen one day in the future. It's like I I think you work on the assumption in the next year, year and a half, like it's probably gonna happen. Now, what that means, I don't know if it means the internet goes down for a month or the internet goes down for a day, right?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 675.52,
+      "endTime": 712.4,
+      "text": "Or your electricity goes down for a day. I mean your everything is connected, water's connected, electricity, power, etc. etc. You should be anticipating. You know, I I don't think this is about like prepping for the apocalypse, but I do think it is like you should probably have some cash at home. You should probably have like some basic supplies because when you think about how reliant you are on the internet for everything, and you think about how reliant on you are, you know, uh on on things that are basically digital, is like just work on the basis that it has now become incredibly likely that sort of large-scale attacks that have an influence not just on you as an individual but on society.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 712.64,
+      "endTime": 748.08,
+      "text": "Do you want to be one of the people who's chasing around having to beg and steal and borrow, or you want to be the person who is prepared for that eventuality? Yeah, yeah, yeah, exactly. Do you want to be the one? Yeah, do you want to be the one with the food who's being murdered for it? The one with a pilot. Well that's what I'm saying. I'm not talking about this apocalyptically, I'm just saying, like, you know, your banking system goes down, like all these all these businesses that don't accept cash, like you you don't usually accept cash. You know, that that okay, if you're in a business who accepts cash at a time when, you know, electronic banking is down for a few days, you got the whole market.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 748.32,
+      "endTime": 785.68,
+      "text": "So I mean there's just like a clever advantage here. I just I just I just think it is what this has made not just possible but inevitable, is large-scale cyber attacks. And there was one a few years ago, wasn't it? Was it last year or the year before that brought down sort of banking for in some countries for a day or so? You've seen the ones that were stuff airports and stuff like that. So yeah, like just be prepared for I would say that is the one thing to do, and also like if you've got really, really important documents and stuff, like store them locally if you can, like keep your stuff backed up locally if you need access to it at all time, if you can't go two or three days without it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 786,
+      "endTime": 802,
+      "text": "I'm definitely an advocate of that. I think I I yeah, I'd I I agree not to get too apocalyptic, but I can't agree with anything that I can't disagree with anything you've just said, because like uh it's all sensible stuff, and I can't really disagree. At some at some point it will happen, probably.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 802.4,
+      "endTime": 805.36,
+      "text": "Podcast's pretty rubbishy for you and if you don't disagree with me.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 805.6,
+      "endTime": 828.24,
+      "text": "Well, no, but it's it I I don't know whether I don't know whether the time frames, I don't know when it will happen, but at some point something like that will happen, so you'd rather not be, I told you so. But in terms of doc docs, maybe I'm old school, but I'd I hate it when all these cloud services are like you need to pay up now to keep storing your data in the cloud. Um I yeah, everything I have I have backed up locally as well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 829.76,
+      "endTime": 867.84,
+      "text": "Is this Opus 7? Well, no, it is I was gonna ask you the question, I know the answer, but is is this AGI? Is Mythos AGI? I I again like I because I think people are probably asking us questions like, well, if it's this big thing, what what exactly is it? What it is is an incredibly, incredibly powerful model at basically finding exploits, which means it's incredibly good at working with code, and code is not just about you know building stuff, code is what everything is based on. That doesn't mean for me like it's not AGI. This is not that when it's a leap forward, it's not a leap forward in that respect, I don't think.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 868.08,
+      "endTime": 876.32,
+      "text": "Well, it's not. It's not, I don't think. I don't think anyone is saying it's AGI. I've lost track of what the definition of AGI is, as usual.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 876.56,
+      "endTime": 924.88,
+      "text": "I think I think I think I think that fundamentally the intelligence in all these things is increasing. I put like okay, for an AG for an AGI analogy, I've been doing vibe coding for about a year and a half now, maybe two years, and the le like like I can see the level of capability. In in my opinion, and again, maybe this is a narrow definition, so it doesn't work for AGI, but for an for an AI to be AGI at coding, I think we're getting pretty close now, and I think that's probably what Mythos can do. And what I mean by that is I you know, apart from usage limits, so I can't I keep getting rate limited on Claude and things like that, but if the rate limits weren't a thing, I'm pretty confident I could leave Claude running like for four or five hours at a time now by itself, just doing stuff.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 925.36,
+      "endTime": 960.16,
+      "text": "In definitely you could run for four. But it's but it won't lose the thread and it will actually be and it will actually be able to work by itself for that long. And so that I I almost think whatever previous definitions we've had of AGI, if you were to sort of say, right, in terms of like replacing a human doing a job, like these a lot of these AIs are already doing that. Like they're they're they're agentic, they're able to access tools, they're able to search the web, they've got skills, they've got all these things, they're able to work for multiple hours by themselves, and they're able to be more productive than an equivalent human would be in a in that job.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 960.48,
+      "endTime": 992,
+      "text": "Now they don't have will and they don't do you know, you have to tell them what to do still, but you're also I mean you now have or you now have AI systems where you can have an orchestrator and that can orchestrate a whole project, and and and you don't really need to tell it what to do. In fact, I find myself the way I plan out projects with Claude is I don't tell it what to do, I ask it what to do, and then it comes up with a plan, and then I go, Yeah, I like that plan, and then I tell it to go and execute the plan that it's come up with. And all I've said you ask it to change something slightly.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 992.32,
+      "endTime": 1022.88,
+      "text": "Tweak something slightly, yeah. But all uh but but again, like when I'm asking it to tweak something slightly, that's probably my inability to explain it properly in the first place, as opposed to because Claude got it wrong, because it's that capable now. Um, you know, examples like using Gemini. So I I use Gemini now to do a screen share of an app that I've built. I can I do a screen share and I talk to it, I talk it through the changes I want to make so that it can write a prompt so I can put that prompt into Claude code and it comes up with a better description of what needs changing than I ever could.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1023.04,
+      "endTime": 1042.48,
+      "text": "You know, so that's it still requires me to be manipulating these AIs, but I don't think we're far off. You know, maybe with something like Mythos, the claw anthropic could just say to it, go ahead, do whatever you want to do, what do you want to do, just go and do it, and and what would happen? Maybe that would be AGI, I don't know.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1042.72,
+      "endTime": 1073.28,
+      "text": "Yeah, you're right, it's definitions again. I th the the next question I was gonna ask you because when we initially talked about this, I think your view was slightly different. So I was gonna ask you about you know how much of it was hype. And I think while we've while it's not all hype, and uh the model is obviously incredibly powerful, there are a couple of angles here, aren't there, that are quite important to to mention. One is, as I mentioned before, the IPO that's coming. Yes, yeah, multiple IPOs. I mean, but but for I mean specifically for mythos.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1073.6,
+      "endTime": 1075.68,
+      "text": "Yeah, for for clo for anthropic, yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1075.84,
+      "endTime": 1113.52,
+      "text": "And the the other one is just creating fear about AI and about what it could do definitely plays into the model that you know, and and and although you would say, well, these companies don't want regulation, no, actually they do want regulation for two reasons. I think look, anthropic want regulation to some degree because they do kind of care to some degree about safety, but also regulation will strengthen the hand of the sort of closed models rather than developers of open source. Yeah, so you know, if you create that fear that AI has now spiraled out of control and then you start regulation, it's a way to protect the advantage of those models.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1113.68,
+      "endTime": 1144.48,
+      "text": "I'm not sure. Like, I almost wonder if we should we give Dario credit and say, actually, no, he understands that this is really, really dangerous and he genuinely is doing this for the right reasons. I think maybe there's a bit of that, maybe a bit of the kind of IPO thing, and a bit of the um we want to, you know, ensure regulation works for us. Maybe it's a mixture of all of those things, but there's definitely a hype element here to some degree, because the first couple of days it was, you know, people like it's like being told as aliens and you know this is the end of the world and nothing's actually changed at the moment.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1144.64,
+      "endTime": 1149.92,
+      "text": "So that there's there's probably a balance between hype and yes, this is a massive leap forward.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1150.24,
+      "endTime": 1181.84,
+      "text": "Yeah, and is it possible to separate those things out? I don't know. Like the you know, as a company, Claude are going to be under so much pressure because they, you know, actually ironically, because of what happened with the Pentagon and uh military um and anthropic and open AI, because that got in the news and then Claude's become more popular, they clearly don't have the compute resources now, so they're having to like rate limit people, people are finding that they get rate limited and stuff. So we're gonna talk about that in a minute. Yeah, we'll talk about it. Don't get ahead of yourself.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1182.08,
+      "endTime": 1218.8,
+      "text": "Oh sorry, but but like but they but the but yeah, we'll talk about it in a minute. So, so but but all of that led to that, and then and then lo and behold, now potentially anthropic having uh having an IPO which might be a trillion dollar plus IPO, it's probably gonna be the biggest IPO ever. Maybe open AIs will be bigger, but it's like so so my point is like you can't really separate that stuff out, right? Because because Claude is really popular, therefore they need to push the hype. Um but then also there I yeah. Do I think there are the the principles that are there around the safety? Yes.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1218.96,
+      "endTime": 1245.76,
+      "text": "Um, do I think that's mixed up in it? Yes, definitely. Yeah, but I think it's gonna become more and more diluted. And I guarantee you, once they've had their IPO and they're a public traded company, forget about it. That's out of the window, you know. Look at Google who weren't gonna be evil and then literally took that away as their tagline once you know multiple years later. But this but that's the thing, right, isn't it? Once you're a publicly traded company, if you don't if you don't do the right things to make more money, then they'll just get somebody else in.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1245.92,
+      "endTime": 1282.08,
+      "text": "Yeah. The irony of capitalism, right? Yeah. Alright, last question on this section though, is what does it mean for what comes next? To what is next after? Well, I mean, uh okay, Opus 4.7 has has come out this week. So Opus 4.7 is you know, is kind of real question, is it a distilled version of mythos? Is it somewhere between 4.6 and mythos? Is it completely different? I mean, it's a more advanced model, but it's it's not the leap forward that mythos is, although it is a big leap forward. But what is like what is coming next? Is it that someone does release a model like mythos but doesn't hold it back?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1282.24,
+      "endTime": 1284.16,
+      "text": "Is that the is that the next step?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1284.48,
+      "endTime": 1296.16,
+      "text": "At some point, I don't I think that might take a little while because because I mean does any AI company really want to be the company that's responsible for releasing a model that can be used in cyber attacks?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1296.48,
+      "endTime": 1308.64,
+      "text": "But also at that point, yeah, but at that point, that's when regulation does come in massively, like f like an over over regulation, and then they can't do anything. So yeah, it's it's against their interests, isn't it?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1308.88,
+      "endTime": 1344,
+      "text": "Yeah. In terms of four point seven, from stuff I've read for or seen, people've been using it, haven't you? Yeah, I plugged it into clawed code straight away. So the the tricky thing with four point seven is Again, it's being used by Claude to solve some of these compute problems, so it's got adaptive thinking, which is one that which is it's effectively a bit like model routing, but it's within the model itself, and that basically what it is is it makes a decision on how much effort to apply to a problem by looking at the problem initially itself and doing a quick scan of it and saying it's basically is this a hard problem or is it an easy problem?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1344.16,
+      "endTime": 1364.24,
+      "text": "If you ask it who the president of the United States is, it'll it'll route it to haiku. Something like that, yeah. And it'll just go and search the web quickly and route it to haiku. So this stuff's been around for a while, but Claude and our anthropic, sorry, are building it into their model so that I think GPT did this and they had a backlash, didn't they? They did, yeah. So GPT was a little bit more than that. No, it's GPT 5.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1364.4,
+      "endTime": 1391.92,
+      "text": "GPT when GPT 5 came out, people were unhappy because they were getting worse responses, and it was because it was routing whereas before in 4.4.4.0 or 4.5, whatever it was, was putting everything through the new 03, 01, through the new model. With 5, it selected so for a a question or a query or whatever that didn't require that model, it was going through a a very basic, I think it was going through like 3.5, even, and people were getting answers on 3.5.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1392.32,
+      "endTime": 1415.04,
+      "text": "Yeah, yeah. It's uh really crap responses. But yeah, I mean mythos is a good name for a a model that we're never actually gonna see. Um but that doesn't exist, it's also like a better naming convention than they've come up with for the last 10 generations. Like instead of calling something Opus 4.7.3, they just gave an they just came up with a new name for a model.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1415.52,
+      "endTime": 1431.6,
+      "text": "Yeah. Well the the the next one, OpenAI have a model that under development it was called SPUD, but apparently that's not the one that they're releasing next. So they'll probably release I mean they're at 5.1, 5.2, 5.3, 5.4, maybe 5.65. Who do you reckon would win that?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1432.24,
+      "endTime": 1441.36,
+      "text": "Mythos and Spud. Yeah, it doesn't exactly. He doesn't sound like he's um up for the challenge, does it? The I wouldn't call my most intelligent model yet.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1442.32,
+      "endTime": 1454.88,
+      "text": "She's a is myth mythos is is it is it a he or a she? Uh uh he, I think it's a he, isn't it? Yeah, so maybe Spud is Spud sounds like a young kind of boy to me.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1455.44,
+      "endTime": 1466.32,
+      "text": "I'll be honest, Spud sounds like something you'd call somebody if you thought they weren't very intelligent. I was thinking how how to say this and not make it so so yeah, it's a good uh name for a AI model, frontier AI model.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1472,
+      "endTime": 1518.24,
+      "text": "Right, so you started touching on what I wanted the next section to be, which I didn't touch you at all. You didn't touch me, but you touched the section. Oh yeah, okay. Slightly. Sorry. Um which was talking about these issues around compute, um, which you know you and I I think it was that me actually said this to you first. So I started noting this and before I'd kind of seen stories about it, and then it became so obvious that it was kind of you know, it wasn't even being hidden anymore. But this issue around like just the lack of the lack of compute being available, the reduction of credits in you know, in in in AI driven apps, the price increases, the restriction of of you know um bandwidth compute during peak times, just every possible way, it just kind of all came one by one.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1518.4,
+      "endTime": 1520.4,
+      "text": "Um but but you know, there is there is uh",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1523.6,
+      "endTime": 1551.2,
+      "text": "in the background, I think, around compute. Like you say, anthropic just suddenly have become so popular they don't have necessarily the amounts of compute that perhaps you know some of the other um developers have got. They've obviously got a lot, but when you suddenly become twice as popular and then everybody's using you know the frontier model to do coding and stuff, this is having a real impact, isn't it? Particular people who do development.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1551.52,
+      "endTime": 1588.56,
+      "text": "Oh yeah, yeah. And I have to give a I have to give a shout-out to one of my mates, Ben, on this, because we had a a few of my mates had a call about AI a few uh about a month ago, and he pr basically on that call he was like, My prediction is that AI is gonna start getting way more expensive. And I don't know whether he'd picked up on something doing the rounds, but as far as I remember, it was he said this just before everything all of a sudden started ramping up in price, and it's really noticeable. I mean, we've been talking about this for a while as well, like the when you do when you work on when you use AI for coding, it was insane the value for money you were getting, really.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1588.64,
+      "endTime": 1628.64,
+      "text": "Like if like about if you went back two months, even where the models were just getting better and better, and you the allowances were very, very generous. Um I initially had a backlash to Windsurf changing their pricing and when the way their model their tier works, the way their sorry allowances work. I'm actually less I'm I sort of I've I've sort of forgiven the. It's not only them. The thing I don't like about it is the way they dictate how and when you're gonna use stuff, which is a bit annoying, but I can also see why if if they basically say you can use it whenever you want, and then everyone just comes on on the weekend and spams it, that's also gonna create a problem because that's gonna create a bottleneck at that time.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1628.72,
+      "endTime": 1664.96,
+      "text": "So they're trying to spread out the demand, which does make sense. It's like with clawed code now, it'll be like you've been cut off until an hour's time, and and now I'm just like, okay, that just has to be part of my workflow. I'll just set an alarm, come back in an hour, go and do something else for a bit, whatever. It's you know, it means you have to fit in around the models, but I but obviously they're able to space out their demand that way as well. Um, so you know, but anyway, Ben literally predicted this. He was like, it's all gonna get way more expensive. And if you think about the value that they're providing you, being able to write apps and build things with code, of course it's gonna get more expensive because it was so insanely cheap before.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1665.2,
+      "endTime": 1702.56,
+      "text": "Yeah, and also I I think we talked about this on the last episode, was about how initially, you know, they wanted data, right? So therefore there was a kind of trade-off as well, you're gonna use this, you're gonna be training it, and we're gonna give you some compute, and we're also gonna buy your sort of you know, you as a consumer. Um but they were not making any money out of that, and now the models, you know, although the models have become more efficient, they're also becoming so much better that even though they're more efficient, they're still bloody expensive, you know, like Opus 4.6 now is not cheaper than Opus 3 was a year and a half ago.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1702.64,
+      "endTime": 1732.16,
+      "text": "It might be cheaper than you know Opus 2, but they're getting better, so they're getting more efficient, but then they're not they're not necessarily becoming cheaper. And the amounts of compute, because there's a limit on the amount of compute, it's also where do we want this compute to go? Do we want it to go to the person who's spending $20 pounds a month, or do we want it to go to this enterprise who is going to pay you know a huge amount of money? And the thing that like someone like me, I've I've had you know a subscription to Claude for I don't know what two, three years, two and a half years, whatever it is.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1732.32,
+      "endTime": 1780.64,
+      "text": "Um, I'd never run up against limits. Yeah, and even though I'm doing sort of I'm using it to to write code now, so I'm using it for different use. Even on days that I haven't done that when I've done other stuff, I've done some research and I've run up against the limit, and never run up across the limit, ever, never on any model. And and now I'm doing that quite regularly. And it does make you do things differently. I mean, like you know, I said if I'm using WindSurf, I'll switch between models a lot more, and probably that's a good thing, it's a good thing for the environment as well, because I'm not using the most powerful model, you know, and I'm saving you know resources and I'm I'm using it more efficiently, but it's just a change, and all of these reductions, you know, I I've put like a backup credit for if I go over on Anthropic and I'm in the middle of using something, I would never have even thought of that before.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1780.8,
+      "endTime": 1810,
+      "text": "They've stopped you from being able to use your your sort of um subscription tier and use the kind of that as an API key and use it for you know running agents, etc. So in every possible way they're limiting the way that you can do it. I think the other thing here is like I said, pushing people away from expensive models if you're doing some like you basically use it like a Google search, because that then keeps that compute for useful stuff, which let's be honest is enterprise users.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1810.32,
+      "endTime": 1844.88,
+      "text": "So at this point, I uh I think I get to talk about caveman, which um I was told about this by I think you told me I told you credit for actually telling you about something for once. Yeah, so this this did the rounds in the news. Um it's called like caveman clawed. I think you can use it with other models as well. Um, but this when you first told me about it, it was another thing. I'm maybe maybe I'm getting too cynical, but anything that's on the internet now, I just immediately assume it's like nonsense and until I check get to check it out. So initially I kind of dismissed it. Um but what caveman it cave caveman's a real thing and it actually works, caveman Claude.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1845.12,
+      "endTime": 1892.16,
+      "text": "Um and what it is is it's effectively it's a GitHub repo. Um, and you can find it in GitHub under is it Julius Brussi slash caveman. Um and what it does is it basically it tells Claude to speak like a caveman, and by doing that, um, it actually cuts your output by 75% of tokens. Um so the exam the example like Claude is very descriptive. A lot of AI models are, right? So when they finish working on something for you, or even when you just ask them a question, they'll be very verbose in the output. Usually they'll fully explain themselves like I am right now. Um but the example here is is so if you're using normal Claude, the reason your React component is rendering is likely because you're creating a new object reference on each render cycle, dot dot dot blah blah blah, another paragraph.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1892.32,
+      "endTime": 1914,
+      "text": "Um once you implement caveman claude, it uses a third of the tokens and it just comes up new object ref, each render, inline object prop equals new ref. So it basically takes out all the propositions, takes out all the bloat in in the normal language that Claude would use. But it's a really novel, it's cool. Like I it actually works. I've implemented implemented it on Claude Code myself now.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1914.24,
+      "endTime": 1951.36,
+      "text": "It's it's worth saying, like, there are use cases for this. Like if you're having a conversation about like you've just discovered some spiritual, you know, new spirituality, and you're having a conversation where where you're you're you know basically going through all this stuff in your head and you're using AI to kind of like rationalise it, caveman Claude is probably not the thing to use when you're trying to get an output that you you know you you you need to understand and you don't need all of the kind of surrounding you you basically you don't need it to be something you're chatting with in a natural language setting, but that's when using this is useful.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1951.44,
+      "endTime": 1965.52,
+      "text": "And you should say as well, like most of them, so even on on on Claude, you can choose different, you know, you can have more concise answers. Yeah. But this is taking it to an extreme because you are trying to limit the amount of tokens tokens you use, obviously.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1965.84,
+      "endTime": 1979.52,
+      "text": "Yeah, yeah. And coding uses tons and tons of tokens and gets you very limited, but there's uh a link to how you can install it as a windsurf as well. So give it a go. It it definitely works. I've been getting way more out of Claude since I implemented it.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1980.16,
+      "endTime": 1993.84,
+      "text": "Do most people need to use it if they are No, no one needs to use it. It's just a function. No, no, but I mean if if you're listening to this podcast, you're like, well, they use it to you know help me write letters, do some conversation, blah blah blah. You know, you're not you're not coding, you're not building things.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1994.4,
+      "endTime": 1994.88,
+      "text": "Probably not.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1994.96,
+      "endTime": 2002.8,
+      "text": "It's it's I guess the question is do you run up against your limits? If you do, then you might need to consider it. If you don't, then you probably don't need to think about it.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2003.12,
+      "endTime": 2031.12,
+      "text": "If you run up against your limits regularly, I would definitely uh maybe I wouldn't implement Caveman Claude, which is specifically targeted at coding, but you could do something similar. You could give Claude some custom instructions that is like really reduces the amount of output it gives you if you just want concise answers. Um you could tell it that if you use a certain phrase, then you want it to use a certain response style. There's lots of very clever ways you can use AI to get more out of it for less, yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2032,
+      "endTime": 2058.72,
+      "text": "One one of the other things I wanted to mention was like GitHub and other repositories, but particularly GitHub is like basically creaking under the weight of, you know, they they also I think uh what did I I heard this the other day? They they've had a last year they they'd increased the amount of of basically pushes to GitHub into the sort of however many billions. I can't remember how much it was. It was like it increased like triple.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2059.04,
+      "endTime": 2059.6,
+      "text": "I can imagine.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2059.84,
+      "endTime": 2101.92,
+      "text": "And now in the first two months of the year, they've already done something like six times what they did last year. Oh, yeah. So the amount of code that's being pushed onto GitHub is basically like, you know, this is not about compute, but this is like showing the whole surrounding infrastructure is you know, it it it it it's kind of not not ready for it. There's just not the capacity. It like takes a bit of time to build this stuff, like all these data centers and stuff, they're like lots of them are half built, right? Yeah, not already, but also a lot of these other organizations, like their success is like it's not that they didn't expect to be successful, but the way in which coding, vibe coding has just pushed up the amount of code that's been created, like all of this stuff is creaking as well.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2102,
+      "endTime": 2112.56,
+      "text": "So you're seeing like there are therefore delays in terms of like loading, so like everything is just slowed down. It's not just the case of of the compute behind models, like all of the surrounding infrastructure is affected by it as well.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2112.88,
+      "endTime": 2125.76,
+      "text": "Yeah, totally, totally. It'll take them a while to catch up. I mean, I always like you keep everything locally anyway, but GitHub's but g I can imagine GitHub are struggling, yeah, a little bit. It's alright, they're owned by Microsoft. You don't need to mention them too much.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2126.64,
+      "endTime": 2148.24,
+      "text": "Um the one last thing I wanted to just mention on this section is the Iran war and whether you know, putting my conspiracy theory hat back on, it's like is any of this stuff I didn't know you ever took it off, Matt. Is any of this stuff impacted? Do you think? Is there a link?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2148.88,
+      "endTime": 2151.44,
+      "text": "Is there a link between AI and the Iran world?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2151.6,
+      "endTime": 2190.56,
+      "text": "Well, is there a link between the seemingly sort of suddenly constrained compute um that is affecting the ability of because it's not just a case of they've put price up because they want to make more money, it's like all of these things have been put in place primarily because they're almost like rationing the compute, right? So what I'm saying is, you know, hydrogen is massively affected by the Iran war because it comes through the strait, phosphate, nitrogen, all of these things that you're like, what's that got to do with it? All of this stuff that is part of chips, all of this stuff that is part of you know the cooling mechanism for data centers, etc.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2190.72,
+      "endTime": 2212,
+      "text": "etc. Like, how much of this is an an impact? Because yeah, we're kind of being led to believe, oh well, there's a bit of an impact to some stuff that comes through the strait and it's about oil, it's about oil. But actually, like the knock on effect of this supply chain, and it's gonna and it's gonna affect it for you know a year, two years, like the knock-on effect of this, even if it finished tomorrow, is is months if not.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2212.4,
+      "endTime": 2244.56,
+      "text": "We already know that I know you know, I know the UK is always the worst hit by any power spike in power demand, uh power um costs. But the power costs have already increased, right? So like if you're running big data centres and presumably their biggest ongoing cost is power, um, then anything affecting the price of price of electricity is gonna have enough quite a big effect, I would have thought. So so yeah, it's defin it's definitely gonna have an effect. Um if you want to buy a conspiracy part of it though.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2244.8,
+      "endTime": 2280.16,
+      "text": "No, no, the conspiracy part is that like it's not so much a conspiracy, is that that part of the driving, the driver behind these, the lack of compute, is not just a case of oh, we didn't expect it to be so successful. It's actually, well, actually the supply chain effects of what's happening in Iran are so significant that this is having an effect on the ability to like I said, it's not just about you know energy, it's not just about creating new stuff, it's also that cooling of data centers, right? Like phosphate, nitrogen, hydrogen, all of these things are used in cooling, they're used in creation of chips.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2280.4,
+      "endTime": 2304.96,
+      "text": "If the less chips being created, there's more pressure, they're more expensive. Who's the biggest bidder? Who suffer who is not able to buy them? Yeah, that price is passed on. I mean, I would say, like, again, my sort of like advice on people like stock up on some cash, etc., is if you're gonna buy a phone or a computer or any kind of you know big sort of purchase of electronics, is like do it now. Don't wait six months because the prices of all that stuff is going up.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2305.12,
+      "endTime": 2315.6,
+      "text": "Yeah, and up a lot. We should have opened a store before you need to just bought where we just like sold computers and stuff and then I've bought all Mac minis now. I own all of them.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2315.84,
+      "endTime": 2316.56,
+      "text": "Get everyone to put it.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2317.92,
+      "endTime": 2326.16,
+      "text": "Yeah, we can stock up, we can have toilet roll in there as well. Yeah, go to preparing forai.org forward slash shop. Toilet paper.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2333.28,
+      "endTime": 2340.08,
+      "text": "We stopped that section and then we had an interesting conversation. Do you want to introduce your new novel preparing for AI merchandise?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2340.4,
+      "endTime": 2342.64,
+      "text": "Yeah, well, yeah, and preparing for AI toilet paper.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2342.72,
+      "endTime": 2353.12,
+      "text": "Yeah. I suspect most people listen to us on the blog, so stock up for the next crisis and you can wipe your bum on um I was gonna say our faces, but the preparing for AI logo.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2353.52,
+      "endTime": 2357.92,
+      "text": "Well, it's not yeah, it's not it's a it's an AI image in the image of our faces. Yeah, closely.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2358.32,
+      "endTime": 2397.92,
+      "text": "I wasn't suggesting that we will actually let's let's move on. Um this section we were gonna just round up on on kind of other um AI tools and and sort of you know new models that have come out. So we talked about OpenAI Spud. I mean Gemini, although Gemini haven't bought out sorry, Google haven't bought out new um sort of public model, they do have these new Gemma models. Um and also I think the interesting thing with Gemini, which is it seems like a really small thing, but they've embedded um notebooks now in the Gemini app. Notebooks are the thing that you use with like um LM Studio. Yeah. No, Notebook LM.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2398.16,
+      "endTime": 2410.88,
+      "text": "So yeah, yeah, yeah with Notebook LM. But they're embedding that stuff because one of the criticisms of of Google has been they've got so many different features. Um what's the new one as well that you introduced me to that helps you with like the UI?",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2411.44,
+      "endTime": 2416.32,
+      "text": "Oh, you can do the screen recording on your phone, yeah. It's just built into the Gemini app, I think, yeah.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2416.56,
+      "endTime": 2422.8,
+      "text": "But but that was a separate app. So this allows you to basically create like the user interface that you want and then like screenshot it.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2423.12,
+      "endTime": 2427.36,
+      "text": "Oh, sorry, that I know which one you're talking about. It's a different thing we talked about last week. I forgot what it's called.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2427.6,
+      "endTime": 2456.32,
+      "text": "Yeah, so have I. But anyway, it's it's it's one of the many. And this is this actually perfectly illustrates a point that Google came up with so many of these kind of features and they're all kind of separate. So they've got this um massive suite of stuff, but it's not integrated, and they're now integrating that together. And so the multimodality of Gemini, which was always going to be Google's advantage, they've got like the whole ecosystem, they're now bringing it all together. I think this is actually for most people, is actually more important than a than a new model. Stitch was the name, right?",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2456.64,
+      "endTime": 2492,
+      "text": "Stitch from design with AI, yeah. So they're bringing these things together. So, you know, one thing that you told me, which is brilliant, was you're looking at an app, you do a video of the user interface, you then put that in, create a gem, you then get it to analyze it. They've got all of these tools. Like Anthropic is very good at having these connectors to external tools. What Google have is they have all of their own stuff. I think, I think, like I say, for most people, it's like if you are just gonna buy one, you're gonna pay for one model and you're gonna have one model. I would definitely say Gemini is the one to get now, especially because you can get like the pro plan on offer for about £10 a month.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2492.32,
+      "endTime": 2503.36,
+      "text": "And with that, you know, you've got video creation, you've got image creation, you've got Notebook LM, um, you've got the main model, you've got the Google Gems that you can create, and they're they're getting better at integrating all that stuff together.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2503.68,
+      "endTime": 2543.92,
+      "text": "I yeah, it's it's a tricky one. I I I'm always flitting about. I've stopped paying for Google because I don't want to be paying for multiple things at the same time. However, um I do like and that's because I do coding. So like my main use case right now is coding. Google like Google has anti-gravity, but I find clawed code I'm finding clawed code very, very good for coding, and it is known anthropics known to have the best models for coding. So that's my rationale. But actually, I find it hard to again, I find it hard to disagree with you if you're if you want a relatively affordable access to like really powerful AIs um that have got that multimodality, and you also get things like workspace chucked in and stuff like that.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2544.16,
+      "endTime": 2546.96,
+      "text": "Because I think Google, it's like a tenner a month or ten dollars a month.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2547.12,
+      "endTime": 2574.24,
+      "text": "Well, that's exactly like I was I was getting rid of my subscription, and then you said, Oh, well, they've got the like whatever the tier is is like below pro, it's like plus or whatever, it was like eight pounds a month, and I was like, uh, actually, because it's got image creation, maybe I'll just get that. And then then like three days later, they're like for nine pounds a month, it was literally like a pound X. You can get the Pro model. I mean, the Pro Model is the best value of any of the the sort of Western frontier models in terms of what you get, I think.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2574.72,
+      "endTime": 2591.52,
+      "text": "I feel I feel really guilty now a little bit, but I shouldn't feel guilty because these are massive of corporations. But since I stopped paying for Google, they have a reasonably generous free tier. So what what I use Google Gemini for now is when I don't want to use Claude because uh I'll use my Claude credits up. Yeah, so I just if I've got like general questions on the code.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2591.68,
+      "endTime": 2619.68,
+      "text": "Oh, that's exactly no, that's exactly what I do. It's exactly what I do. I keep anything that is now not code or project based off Claude because I don't want to you waste it. So I do all of that stuff on Gemini. But but what I'm saying is for most people who are listening who are not doing coding or not building anything, and it's like I want a model, but I want to create images that like they've got music, it's kind of rubbish, but it will get better. They have all of that stuff, and for £10 a month, you get the Pro Tier, which you're probably not going to run up across the limits very easily on the Pro Tier.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2619.84,
+      "endTime": 2622.96,
+      "text": "You can, but it's not easy to do it. So I've been it's probably the best.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2623.52,
+      "endTime": 2625.68,
+      "text": "If you don't use AI very much, just use the free stuff.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2625.76,
+      "endTime": 2632,
+      "text": "I mean, if you I don't know, I I don't think anyone now can can I don't think anyone can just use the free tier.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2632.08,
+      "endTime": 2661.44,
+      "text": "And there's a lot of people in the West use AI all the time. And and also if you're happy to have. Happy to have like Gemini, Claude, and GPT next to each other. You can easily use them for your general day-to-day stuff, I reckon, on the free tier. Um but I agree, like they they do run out, uh you run up against limits quite quickly. Um AI Studio as well. If you really want to just use it something free all the time forever, just use AI Studio because it doesn't stop you. Yeah. It doesn't have rate limits on it.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2661.92,
+      "endTime": 2700.08,
+      "text": "What what about things like um you know like Hermes Code, which is slightly different, but a a kind of alternative to OpenClaw. So you're seeing uh more of or you're seeing rivals to OpenClaw that are differentiated in general in like they're not quite so unsecure. Um like Hermes code is something I want to I want to use because you can it it still has risks if you don't sandbox it, you know, you need to control what it has access to, but it is it is built to be more secure, it has you know a lot more checks in place. It feels like that is also a a big growth at the moment, and it you know, as as as we record this, I'm sure by the time people listen to it there are more um similar models or something.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2700.4,
+      "endTime": 2706.88,
+      "text": "If you go back to our open claw podcast episode, we predicted this. I think I said I think it was pretty easy, yeah.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2707.04,
+      "endTime": 2708.96,
+      "text": "Oh, it's pretty easy to predict that.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2709.28,
+      "endTime": 2715.36,
+      "text": "Well, yeah, of course it's pretty easy to predict, but it's uh but it makes Yes. Alright, well, fine, fine, whatever. I'll show it.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2715.68,
+      "endTime": 2722.8,
+      "text": "I'll give you some credit. You're right, we did predict it. I just think we c I just think it was a pretty easy prediction compared to some of the predictions we've had over the years.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2723.52,
+      "endTime": 2724.96,
+      "text": "Well, still you heard it here first.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2725.2,
+      "endTime": 2728.32,
+      "text": "Yeah. We we did say it first, so we should we should get credit for that.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2728.56,
+      "endTime": 2763.92,
+      "text": "But yeah, like obvious like anything that's more secure than open claw, um, which is completely unsecure, basically, if you install it the wrong way, um is obviously a good thing. Uh I don't know, do you need these agentic things? Like the Okay, so I know that I'm a power user, but I'm using Windsurf and Claude, and now like ba like I said to you uh just before the start of this, I've had multiple instances where I just need to do something, and either I don't want to pay for an app that does it, or I just want to make something convenient, and I just do it now. I just build it with Windsurf and Claude because it can just do it.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2764.08,
+      "endTime": 2795.6,
+      "text": "It's mad, like the caveman mode thing. So the caveman thing I was talking about, I want basically I wanted to make Claude more token efficient. It got to the point where I was running up against rate limits quite often. I didn't do any of it myself, I just said to Claude, I want to make you more efficient. Here's a few examples of things I want to use. So I want to use agents, I want to use subagents, I want to use skills, I want to use workflows, and I want to use caveman, and I pointed it at caveman GitHub. Claude came up with a plan and then did it and then executed all of it. So it reprogrammed itself essentially to do all of this stuff.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2795.68,
+      "endTime": 2804.88,
+      "text": "Yes, clawed code. Yeah. Now I know that I'm a power user, but effectively that's the same as what Windsurf, uh sorry, it's the same as what um the these open claw things called.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2805.2,
+      "endTime": 2823.92,
+      "text": "Claude Code is kind of an agent, isn't it? Yeah. I mean that's the thing, claude clawed code, isn't it? I was gonna say that it's like clawed clawed code, you've got clawed cowork, you've got you know, as you say, you've got the ability for Clawed to use basically all these tools, and you can control it from your phone. So it essentially is an agent.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2824.16,
+      "endTime": 2846.32,
+      "text": "Yeah, yeah. I mean I've not done it, but I could I I run it on my laptop and then leave my laptop in and then access it from my phone if I want to do that. You could obviously, it's a terminal, so you could run it on a VPS in the cloud, and then it's effectively doing the same. It's it's effectively the same thing as open claw. Um, but I kind of trust it a bit more to be honest for sure in a way, because it seems to have better protocols in place by default.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2846.56,
+      "endTime": 2863.04,
+      "text": "Yeah. I mean I was saying to you, I my my plan is to put you know, get a Mac Mini and then use that and then try and create an agent on there. And I was thinking, but do I even why do I need OpenClaw? Why don't I just use Clawed code? I might use Hermes, but actually it's like, what are you trying to do with this?",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2863.52,
+      "endTime": 2875.12,
+      "text": "Well, since Claude have banned you using OpenClaw with Claude as well, with a with your free with your allowance. I would I would strongly I would recommend do that. Get it up and running with Clawed code and get it just running terminals. Yeah.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2875.36,
+      "endTime": 2884.16,
+      "text": "If I wouldn't get it running, I guess I wouldn't get it necessarily working on anthropic API. I would use OpenRouter and Maybe, yeah.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2884.24,
+      "endTime": 2915.6,
+      "text": "Although the when you pay for we'll have to get into this afterwards rather than having a complete debate on it now. But basically when so the the the the even though it you run out of allowance quite quickly, the allowances you get built into your $20 a month plan are much more generous than using API key tokens. Much, much more. You'll probably it probably everything will cost you like ten times as much. Anyway, that was an in-depth discussion on token usage and clawed code. It's a bonus, yeah, a bonus for the episode.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "SPEAKER_07",
+      "startTime": 2915.84,
+      "endTime": 2916.48,
+      "text": "Yeah.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2922.96,
+      "endTime": 2961.52,
+      "text": "Right, I wanted to finish off on uh on a sort of Chinese models update. Um I mean we do we do always try and talk about Chinese models, but the particular reason I wanted to do it here is we talked earlier about the sort of compute challenges and the increase in prices and and stuff like that. We've seen the exact opposite of that here. So in China we're engaged in basically a price war. Right? They are basically giving models away. I mean, all of the sort of frontier labs here, if you purchase their coding you know, app, um, and the costs are a lot less. I mean you pay like, you know, like ten ten pounds a month, I guess would be the the basic one.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2961.84,
+      "endTime": 2998.8,
+      "text": "Um you then get like their frontier models. I mean, some of them where you've got like maybe Alibaba runs one which you can use several models, the frontier developers, so like Z.ai, their GLM 5.1 model, that's the one that has been like just behind Opus 4.6 in terms of coding. You can basically just get it for free. Like that's obviously not going to last, but you're seeing uh QN 3.6, Xiaomi, they've come out with this, what is it called? Uh MIMO. MIMO is the name of their models. You've got Minimax that we talked about in the last one. I mean, is it like there's now so many of them. Deep Seek 4 is apparently about to be launched this week.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2999.2,
+      "endTime": 3031.12,
+      "text": "You've got all of these Chinese models, and at the moment, they're doing literally the opposite of of the US models who are pushing their prices up. They are just trying to get as many users as possible. It's just a completely different approach to it. And I and I I I felt this was the case. I researched it, and it is absolutely true. You know, they are on a completely different, I mean, I guess they're in a completely different part of their development, but also it's a completely different I I I think it's a completely different way that they're trying to do this because they are just trying to get themselves integrated in as many things as possible.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3032,
+      "endTime": 3072.96,
+      "text": "I do wonder as well, with with you know we talked about energy prices earlier on, like we energy is significantly cheaper in China anyway. But also there was I know a few months ago there was talk of actually they've built spare energy capacity into the system in China over the last few years because they've just been building, building, building as they do. And so they've also prepared for shocks like they were expecting them. But it means it's they're in a situation where actually they've potentially got spare capacity that these AI companies can use up as opposed to you know, com cons regular consumers are competing with AI companies for compute for electricity, which is what's happening in the US, and and there's no capacity to build it out.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3073.2,
+      "endTime": 3093.76,
+      "text": "So I think maybe m that's probably gotta be a part of it, right? If you're if you're if once you've built your data centre, your your main cost is energy, then that must be that must factor into it. But also I'm quite excited. I mean, there's a lot of hype going on around V deep Sea V4 at the moment on the on Chinese media. It's obviously coming relatively soon.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3094,
+      "endTime": 3099.92,
+      "text": "They've it sounds I heard this week, but I mean Chinese New Year it was coming then, so yeah.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3100,
+      "endTime": 3111.04,
+      "text": "The rumours that I've seen, and it's all just rumours, so I'm not gonna get too excited about it, but the rumours I've seen are that it's they've built it on Huawei chips or something like that, and i they think so.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3111.12,
+      "endTime": 3113.92,
+      "text": "This GNM 5.1 was also trained on Huawei chips, I think.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3114.16,
+      "endTime": 3124.56,
+      "text": "Yeah. And so the the the the rumours are it's gonna cost about one-twentieth what opus costs to run and have comparative, comparable abilities, which will be very interesting.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3124.88,
+      "endTime": 3146.72,
+      "text": "There's definitely an argument that I've seen quite a lot that that China is now like China is not I'm not saying they're not aimient, of course they'd like to be ahead, but their focus is not on getting ahead, their focus is on being so close to the US models. You know, they so what if they're two months behind? Like being at the front, you know, it doesn't mean it's not it's not like the races won, I got to AGI, that's it, it's finished.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3146.96,
+      "endTime": 3150.64,
+      "text": "I think being two months behind costing a like a twentieth the price. Yeah, yeah.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3150.96,
+      "endTime": 3187.68,
+      "text": "So previously it was like they're years they they will be years behind, or they'll be six months behind. Now it's like they might be two months behind, but actually they're gonna be a twentieth of the price. So actually, yes, the US model might be at the frontier, and maybe that's more important if you're using it in military or you're using it, you know, to create AGI. But actually, China is embedding these models in the economy. That's their aim, right? They want to export these across the world. Who who, you know, African countries, South American countries, you know, Southeast Asian countries, uh who are they going to choose to embed in their infrastructure as long as they decide that the security risks are not too high?",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3188.08,
+      "endTime": 3229.2,
+      "text": "Well, even if they do, maybe if it's one-twentieth of the cost and it's slightly less efficient, you know, China is more um focused on how it integrates with the economy, they're more focused on robots, they're more focused on you know, the things that will will make sense to developing countries, whereas most of the Western models are incredibly amazing for, you know, knowledge work and for creativity, etc. It's it it's a different focus of the models. And also people don't necessarily understand how like how China runs things, you know, even with things like telecom companies with provinces, they make them engage in this incredibly sort of incredible level of competition so that only the strongest survive.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3230.32,
+      "endTime": 3246.8,
+      "text": "So you just get the very best models and then they just compete and compete. They have to compete, they have to offer more discounts. And then at the end of it, you see which are the best models and you see which which you know are the the success stories. And it that that level of competition creates this kind of incredible efficient product to the end.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3247.44,
+      "endTime": 3284.16,
+      "text": "Yeah. For some reason, the analogy I've got in my head is the the one that's going round at the moment of using a $20,000 drone to take out a $10 million tank. Yeah. Um but it's sort of a similar idea in a way, isn't it? Like doing building something that's nearly as good that's just costs a fraction. It's way it's way more efficient. Um I definitely think there's a lot. There's gonna have to be a lot, and if uh what would you call it, like an efficiency crunch. Um but I think these I think the IR companies should do more in that respect as well. Like if you if people are using too much compute, figure out ways of offloading them onto cheaper models and doing stuff like Opus 4.7.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3284.4,
+      "endTime": 3286,
+      "text": "I think there is gonna be more stuff in that space.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3286.32,
+      "endTime": 3325.6,
+      "text": "So some of these models that I mean like GLM 5.1, I used it yesterday in Windsor for the first time. It was it was it was pretty good. Um like they're not cheap. These are not like they're not the cheapest. They're not cheap models, but where they might be four dollars per million token output, you know, Claudopus is twenty. So it's it's still a fifth, and they are five percent, you know, five percent less, whatever you want to call it. I mean, I don't like they're five percent lower on a benchmark. So the difference for for most users is just irrelevant, basically.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3325.92,
+      "endTime": 3372.16,
+      "text": "Yeah, if anyone it's not loading for me right now, but if anyone wants a really good in the show notes. So there's a a site that I go to which is openrooter.ai slash ranking. And um basically it ranks the models by price and intelligence. Um and it's really cool. I I really like it. You can just I've got it in front of me now, I'm not gonna try and describe it, but it's a graph that shows you how expensive models are versus how intelligent they are. And if you look at it right now, like you know, GPT 5.4, for example, on some intelligence benchmark, is as as intelligent as Opus 4.7 just amount, but it costs um costs like £2.50, £2.50, $2.50 per million input tokens and jokes and Opus is $5.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3372.72,
+      "endTime": 3384,
+      "text": "So it's half as expensive, but and by a lot of measures nearly as intelligent. Now this has the option to like look at coding scores as well, and then the picture changes. Super interesting.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3384.16,
+      "endTime": 3429.36,
+      "text": "I I genuinely like people listening, even if you think like you don't care about coding, whatever, it's not about that. Like have a look at this. This is one of the most interesting things you can see to show the difference. Like you you've got no model goes more than 50% on the y-axis. The y-axis, right? Yeah. Uh no model goes more than 50% on the y-axis apart from clo uh anthropic, where you've got almost x-axis. So it's sorry, x-axis, and it's not it's not 50%, but like halfway across. Yeah, nothing is in the second half apart from Claude Opus 4.6 and 4.7, I think. And and then Nexus Sonic 4.6, and then GPT, and then you look down and you see all the other models, and you can look at like the fastest models as well and see you know the value for money.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3429.68,
+      "endTime": 3439.92,
+      "text": "Because for most people, whatever you're used to, you don't need the absolute best model most of the time. You find the most efficient models, and it's just fascinating to see like where these models come out and how much cheaper they are.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3440.4,
+      "endTime": 3456.48,
+      "text": "Oh yeah, like different like ten times like the one you're talking about, GLM5, which I think is the older one now, but that one's 72 cents per million input tokens. So you can literally do 10 times more with it for the same price. And then it's just a trade-off of like how much intelligence do you need?",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3456.56,
+      "endTime": 3479.04,
+      "text": "Um and but this is also not about like what an individual is using. It's saying if you're a business or you're a country or an infrastructure, like and you're making a decision on what model to use, how can you possibly justify using the best model when it's going to add you know 50% onto you the cost of doing it? It's it's it's incredible how how cheap some of these models are relative to the difference in their performance.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3480.16,
+      "endTime": 3481.76,
+      "text": "Yeah, it's cool. We'll stick it in the show notes.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3482.24,
+      "endTime": 3522.32,
+      "text": "And of course, just just just fine, I think the other thing just to say in China is like we're seeing now I think more so than I I definitely see in the West is like people who are like want to try out open claw, want to try out coding, want to do stuff. It feels like still for me my friends in sort of the UK, the US, etcetera, if they're not already into this, they're not really you know, they're using AI, but they're using it like Google and they're doing like maybe a few little things in projects, but they're not using this in the way that in China now people have just gone mad for like basically vibe coding and um and creating agents, like building agents.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3522.72,
+      "endTime": 3543.36,
+      "text": "And that is gonna spur this kind of creativity as well. Like there's all these security risks around things like open claw, which you know I I'm not comfortable with taking those risks, but Chinese people's mentality is generally much more willing to take those risks, they're much less worried about data security in general, and therefore it's gonna cre you know the the the positive side of that is it's gonna create lots of innovation.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3544.24,
+      "endTime": 3544.96,
+      "text": "Absolutely.",
+      "chapterIndex": 16
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3546.08,
+      "endTime": 3555.68,
+      "text": "Okay, uh we've managed to keep it under an hour, so uh let's finish off by 30 seconds. By 30 seconds, let's finish off there, and that as always have a good week, everyone.",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3555.92,
+      "endTime": 3560.4,
+      "text": "Yeah, have a nice time. Why did I say that?",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3565.44,
+      "endTime": 3575.52,
+      "text": "You've been listening to Ghosts in the Radio State Talking black out blues like it's bound to turn tragedy",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3579.76,
+      "endTime": 3587.04,
+      "text": "half made a black One good shake and it all goes to a",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3596.4,
+      "endTime": 3598.56,
+      "text": "follow you on the scene of the",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3602.88,
+      "endTime": 3605.04,
+      "text": "frog like a shot through the high",
+      "chapterIndex": 17
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3608.48,
+      "endTime": 3612.96,
+      "text": "stuff and you fall down, tell me what your confidence was.",
+      "chapterIndex": 17
+    }
+  ]
+}

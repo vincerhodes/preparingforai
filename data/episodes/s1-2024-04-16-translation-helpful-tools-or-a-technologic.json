@@ -1,0 +1,1005 @@
+{
+  "slug": "s1-2024-04-16-translation-helpful-tools-or-a-technologic",
+  "buzzsproutId": "14905158",
+  "title": "Translation: Helpful tools or a technological takeover?",
+  "date": "2024-04-16T23:00:00.000Z",
+  "season": 1,
+  "durationSec": 3641,
+  "format": "special",
+  "era": "early",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/14905158-translation-helpful-tools-or-a-technological-takeover.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Uncover the transformative role of AI in the translation industry as we are joined by Chris Ward, a seasoned freelance translator, to navigate the waves of change brought forth by technologies from Google and DeepL. We dissect the increasingly symbiotic relationship between human translators and machine translation tools, spotlighting why the human touch remains irreplaceable (maybe?), particularly in fields where precision is paramount. Explore the art of translation in an AI-dominated landscape, where the nuances of emotion, cultural idioms, and the legal weight of every comma are at stake. We share anecdotes from the trenches of professional translation—where responsibility for a mistranslation doesn't just mean a red face but could lead to serious legal consequences. As we delve into the potential of AGI to revolutionize content creation, we also consider the ethical boundaries and the uncharted territory of AI's role in translation and localization of content as deeply cultural as anime. Looking ahead, we scrutinize the future of translation careers in the age of AI advancements. We1 learn why a deep-seated passion for language may be the most critical asset for future success in the industry. While we ponder niches where human translators could thrive against the backdrop of AI, we also reflect on the importance of adaptability, specialization, and the irreplaceable value of human interaction in a world where machines are fast becoming our co-workers. Join us for a compelling journey through the intersection of AI, language, and the ever-adapting job market.",
+  "summary": "With freelance translator Chris Ward, the hosts test whether translation is a helpful tool or a takeover. DeepL already handles whole documents and is 'probably where it's at', but Japanese punctuation, contract party references and unreadable kanji names still demand a human — especially because nobody will take legal liability for machine output. Low-stakes gist work has already vanished, Chris himself is quietly leaving the industry, and Matt sees a local-chip 'babel fish' device one or two years away.",
+  "keyTalkingPoints": [
+    "Gemini 1.5 Pro: million-token context window and Google's agents — first big-tech agent release; agents likened to the dot-com boom wave",
+    "DeepL beats Google for Japanese and takes whole documents; translators now sell machine-translation post-editing (MTPE) under NDA permission",
+    "Failure modes are contractual: swapping party A/party B can void a billion-yen deal; kanji name readings require asking the person",
+    "Liability keeps humans in the loop — DeepL's terms will not cover your legal translation; 'you need a person so there's someone to blame'",
+    "Low-stakes gist translation jobs are already gone; universities' language departments are shrinking (Sheffield Japanese cohort down to five)",
+    "CAT tools have discounted translator rates for a decade; the AI pin demos real translation but only a local chip makes it truly instant"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Agents are the next platform wave — real-world actions from coding to call centers, built on LLM backends",
+      "The low-stakes translation jobs are already gone; what remains needs a human to carry legal responsibility",
+      "Simultaneous interpretation survives because it is interpersonal — though robots may eventually undercut even that",
+      "This is an episode worth revisiting in six months to a year because the tools are moving so fast"
+    ],
+    "matt": [
+      "Surprised how little has changed at the high end — precision work still demands trusted humans",
+      "The bottom end (thank-you letters, gist translations) has already dropped away to apps, and official-document translation follows next",
+      "The next stage is an un-networked device with a local AI chip — a babel fish one or two years away",
+      "Specialization in security-sensitive or too-controversial-for-LLMs content is where human translators keep an edge"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-04-16-translation-helpful-tools-or-a-technologic-2873.146-a-20-year-old-starting-a-language-now-is-unlikel",
+    "s1-2024-04-16-translation-helpful-tools-or-a-technologic-2222.018-human-interpreters-will-be-needed-for-the-forese",
+    "s1-2024-04-16-translation-helpful-tools-or-a-technologic-2398.876-a-standalone-local-chip-real-time-translation-de",
+    "s1-2024-04-16-translation-helpful-tools-or-a-technologic-994.536-machine-translation-post-editing-discounts-will-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Chris Ward"
+  ],
+  "chapterCount": 7,
+  "turnCount": 132,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 3
+    },
+    {
+      "title": "Introduction to AI Agents",
+      "startTime": 65
+    },
+    {
+      "title": "Guest Interview: Chris Ward",
+      "startTime": 382
+    },
+    {
+      "title": "AI Translation and Localization",
+      "startTime": 1689
+    },
+    {
+      "title": "Simultaneous translation and the trust issue",
+      "startTime": 2192
+    },
+    {
+      "title": "Advice for translators of the future",
+      "startTime": 2768
+    },
+    {
+      "title": "Linguistic Architects (Outro Track)",
+      "startTime": 3583
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.568,
+      "endTime": 40.109,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change, the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human social impacts of AI. We're making it our mission to help you prepare for the human social impacts of AI. Children of the revolution. Welcome back to another episode of Preparing for AI. He's Jimmy Rhodes and he's Matt Cartwright, and today we are going to be looking at translation.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.269,
+      "endTime": 56.518,
+      "text": "So another guest interview. This week we've got Chris Ward with us, who is a freelance translator. I'm going to be asking him to introduce himself and say a bit about himself in a few minutes, but I think we'll start off because, as we kind of always say, it's been an interesting week in AI",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 61.74,
+      "endTime": 64.051,
+      "text": "and I think Jimmy has got something very specific that he's going to talk about to start the episode today.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 64.071,
+      "endTime": 105.012,
+      "text": "Yeah, thanks, matt. So this week I mean I say this week by the time the podcast goes out I'm sure there'll be new news. But as we record the podcast, there's been an announcement from Google just yesterday, on the 10th of March I believe 10th of April, sorry where they're talking about the release of Gemini 1.5 Pro I presume the Ultra version will be along shortly which is a new mixture of experts model with a 1 million token context window. And also they've been talking about their Google agents. So this is the first time that we've seen one of the big tech companies basically talking about releasing a agent based model.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 105.072,
+      "endTime": 148.888,
+      "text": "And and to talk a little, we talked a little bit about agents. We talked about devin on a previous podcast. But to talk a little bit about agents, basically, if your large language models are like the development of the internet back in the day, agents are probably the dot-com boom in terms of like, all the companies that come out of came out of the, the, the, you know, the internet, um, you aid, like the, the spawn of agents is kind of like, like I say, like the equivalent of that dot-com boom where you're going to see a lot of companies and a lot of new tech being based on these ai agents is it's effectively a more easily accessible way of using AI models and these large language models.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 148.949,
+      "endTime": 181.645,
+      "text": "So what you can use these agents for is actually performing real world actions like, for example, doing a coding job, like doing an actual coding job, and that's what Devin's been designed to do, and Google has started releasing these agents now that, can you know, interact in all sorts of ways so they can potentially be in call centers, like answering phone calls from from customers. They could be booking flights for you. They could be actually taking out actions in the real world on the internet using large language models as their kind of backend. Um, and I touched a little bit like on Google Gemini 1.5.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 181.725,
+      "endTime": 184.733,
+      "text": "So for people who don't know what the context window is effect",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 193.76,
+      "endTime": 224.47,
+      "text": "and we've uh. So for people who don't know what the context window is effectively, the context window is how long a conversation you can have with an AI before it forgets what you're talking about, and this new 1 million token context window is absolutely huge. I think previously, claude had 200,000 tokens. Before that, gpt-3 has like 4,000 tokens. With this new 1 million token context window. What Google is saying is you can upload a whole movie, you can upload books and you can have a conversation with an AI around those around all of that you, so you can. It's a mixture of experts model where you can feed in movies, you can feed in images, you can feed in audio, you can feed in text and you can in images.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 224.531,
+      "endTime": 231.98,
+      "text": "You can feed in audio, you can feed in text and you can have, and you can just have, a natural language conversation with the llm around any of that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 232.02,
+      "endTime": 264.952,
+      "text": "And this context window kind of is one of the things that opens, opens that capability up so, jimmy, the agents will, um, because google have said they're they're kind of concentrating on on the enterprise market, aren't they? I mean, that's where the money is, I guess, is commercializing them. But is this where you think we see essentially your own kind of personal assistant, you know, that can do everything for you, that can book things for you? Is this where we see something that's able to do multiple tasks, or is this about a specific agent to do each individual task?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 267.045,
+      "endTime": 298.062,
+      "text": "uh, I think so. I I don't fully know, but I believe that these agents are capable of interacting with a range of um, a range of different um pieces of software. So, for example, one of the things you can imagine with google and this is why it's interesting, coming from google, because google, you already have gmail, you've got google calendars, you got Google maps and people are used to using those kinds of things, so you can. What are these agents are going to probably do is interact with all of that, and so you'll be able to say you'll be able to ask an agent to send an email to actually explain.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 298.303,
+      "endTime": 313.287,
+      "text": "You know all the emails in your inbox to you. You'll be able to get them to book appointments, book transport, you know, find places on maps for you. All that kind of stuff all rolled up into one. That's kind of the capability that we're talking about and with Gemini as well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 313.307,
+      "endTime": 344.99,
+      "text": "there's another piece of news that came out in the last sort of week or two is that, um and this is rumors at the moment, but that Apple are potentially talking with Google about, about using Google's as I don't know if it will necessarily be as a kind of alternative to Siri or as the basis of Siri or as an alternative tool, but you know the announcements in the last few days and the fact that it feels like Google is, you know, considering Google invented the kind of transformer model and then fell behind. It feels like this is kind of their catching up, and so for me it would kind of transformer model and then fell behind.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 344.931,
+      "endTime": 358.791,
+      "text": "It feels like this is kind of their catching up, and so for me it would kind of make sense that if Apple are thinking of a kind of big announcement in June with, with, you know, the new devices that tie up with Google, it feels like now it's a more attractive idea than maybe it was, you know, even a week ago.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 359.62,
+      "endTime": 372.492,
+      "text": "Absolutely yeah, and and. And. Apple definitely needs to play catch up as well, because things like Siri and Cortana and things like that are old hat now. They look pretty incapable next to some of the large language models.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 381.881,
+      "endTime": 397.213,
+      "text": "So I think some of the stuff we've just been talking about possibly applies to translation as well. But at this point I'd like to introduce our guest on the podcast this week, chris. So, chris, would you like to introduce yourself and talk a bit about your background as a translator?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 398.34,
+      "endTime": 438.231,
+      "text": "Yeah, hi guys, thanks for having me on. It's great to be here. So I studied Japanese in Sheffield between the years 2000 2005 um, I actually had a chance to live abroad for one year, in 2003 as well, where I really tested myself out. Couldn't understand a word to begin with. It took about six months and eventually people couldn't understand what I was saying, and vice versa. Um finished that, like I said, 2005, moved to london, decided to work in property for 10 years because I didn't know what the hell I was doing with my life. Um, and during that time I was thinking about well, I did a degree in japanese, so at some point I should probably use that um.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 439.393,
+      "endTime": 483.708,
+      "text": "I did actually use it a little bit as an agent um, taking people around houses that come over from japan as expats and whatnot. Um, but eventually my grandfather kind of gave me some money and so I decided to go and do an ma? Um around 2014 2015, at which point um I finished that. So, like I say, september 2015, I finished that ma um. I should also point out that I was working during that time as an in-house translator for a company called Poll to Win, doing games, translation and games revision. Enjoyable that was. I decided that freelancing was probably more my thing. I've never been a company man",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 490.35,
+      "endTime": 492.2,
+      "text": "my Toyota history will attest to that",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 496.862,
+      "endTime": 521.586,
+      "text": "Set myself up as a freelancer from about 2014-15. So I've been doing this for about 10 years, started off working on anime and subtitling and things like that, and eventually moved on to slightly more specialized stuff uh, building contracts, memorandums, uh, memorandums of understanding, family registers and official documents like that for japanese expats and and big businesses in japan cool, so like.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 521.606,
+      "endTime": 527.255,
+      "text": "So the translation you've done is is all is you used to do. Used to do translation for anime and games, right.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 528.64,
+      "endTime": 541.956,
+      "text": "Yeah, initially, um, it was easier to find people who were willing to to give me work in that domain, because problem with translation, as most jobs is, they always want experience, right? So how do I get the experience without having to work? It's a chicken and egg situation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 546.42,
+      "endTime": 614.153,
+      "text": "Having to work it's a chicken and egg situation. So I worked for a company that gave me a lot of different um animated series to translate in the in the beginning, and because I'd been part of the anime society at sheffield university and um had a bit of a penchant for should we say for animation, um, it was quite an easy one for me to walk into creatively. It really did. What's the best way to put this? It was, it was really interesting on creatively to work out how to, to turn a certain phrase, how to describe certain cultural things that are only really understandable to someone who who's lived in japan, who's who's got a bit of the experience of being surrounded by Japanese people, and then working out how to best express those things in a way that can be really grasped by a non-native but also that remains faithful to the language and the culture, something which, as we'll probably just discuss in a minute, ai is going to struggle with doing well anytime soon.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 614.454,
+      "endTime": 615.221,
+      "text": "It probably will eventually.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 615.281,
+      "endTime": 643.005,
+      "text": "But yeah, I'm sure we'll cover that in a bit we'll definitely cover covering a little while, but I think I feel like you're underselling yourself a bit in terms of your language abilities, chris, so, like, tell us how many languages you actually speak so french, spanish, english, german, italian, but I wouldn't say I can speak any of those fluently anymore, mainly just japanese and french yeah, but you're fluent. You're fluent in like three languages, right, so you know your stuff.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 649.98,
+      "endTime": 680.544,
+      "text": "So you were talking about I mean, you kind of already got into some of the stuff we're going to talk about a little bit later on, but before we get onto that, I mean, well, sort of getting onto that, I guess you know, like I know it's not an AI tool, but you've probably used things like Google Translate and things like that over the years. I mean, what translation tools have you used and where do you see that they're useful and where do you see that they're kind of less useful? And why? Because I'm not, uh, I, I only speak one language. Basically, I don't really, um, I can speak a little bit of chinese, but I'm by no means fluent, um, so yeah, just sort of like welcome your views on that yeah, um.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 681.125,
+      "endTime": 695.865,
+      "text": "well, it's funny because I was just thinking about this actually in the run-up to this discussion and I remember when I first started studying Japanese, it was just books, you know, massive dictionaries. I mean, I've got one here for you.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 698.42,
+      "endTime": 699.345,
+      "text": "You know this sort of thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 699.94,
+      "endTime": 749.648,
+      "text": "You used to go to the library and get these out and then you needed another dictionary in order to be able to actually read what's written there. So you'd get one dictionary to find out what that says and then get another dictionary to find out what that means. Now you can just type it into Google and it will tell you immediately. So, worlds apart, in just 10, 15 years. Worlds apart in just 10, 15 years. And in terms of Google Translate, so even just four or five years ago when it really started taking off maybe a little bit longer than that I remember typing something in and it was just M-U-M-U-M-U, which gives the characters moo-moo-moo-moo-moo in Japanese, and it spat out a completely coherent English sentence and obviously what I typed in was complete gobbledygook.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 751.906,
+      "endTime": 791.505,
+      "text": "So it's come on a long way and I think Google is doing a good job. But actually, deepl is probably where it's at at the moment in terms of translation. So machine translation wise you're looking at, especially for Japanese, it beats Google hands down. So Google DeepL, I don't think there are really any. There are obviously others, but those are the two main ones at the moment that people will be using and in terms of like in terms of day-to-day in your job, like which, where do you use ai?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 791.666,
+      "endTime": 804.886,
+      "text": "or where do you use these tools and where can you not use them? So, like you're talking about depo there, like can you apply that? Is it you're just translating single words, or is it you're translating whole paragraphs? Like what, where are the limitations?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 806.388,
+      "endTime": 840.866,
+      "text": "the limitations? Um, currently it's there aren't really many, because you can actually upload an entire document to to depot. Um, I actually have a professional subscription to it because these days, some, some customers are just asking for me to to what they do, uh, what they call um machine translation, proof editing, so, so MTP. Gone are the days now where it was just, you know, I have to sit down with a bunch of different dictionaries or online dictionaries to have to do this. I can input an entire paragraph into DeepL, so long as it's, you know, the customer is happy for me to do that. I have to get their permission first.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 842.921,
+      "endTime": 844.628,
+      "text": "Things like NDA-wise, for example,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 848.4,
+      "endTime": 882.243,
+      "text": "get their permission first. Things like NDA wise, for example. Deepl has an agreement with subscribed members that it won't divulge anything at all, whereas if it's the free version, there's no such restrictions from DeepL to prevent that from happening. But you also agree to that in their user agreement at the beginning, when, when you sign up. So you know what you're doing and, uh, either way, but quite a few of my customers these days are happy for me to to to use deeple because it's just that good, depending on the kind of thing that you're putting in there. Um, and going back to your question, it could be a, it could be a few words.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 882.785,
+      "endTime": 895.904,
+      "text": "If it's a character or a small sentence I've never seen before, then I might put it in there as a standalone or I might look it up in a separate online dictionary. But I can just put in an entire document, so long as it's",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 899.051,
+      "endTime": 903.282,
+      "text": "it's legible so forgive the question, but what are they coming to you for then?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 903.683,
+      "endTime": 912.752,
+      "text": "if you're, if you're just putting it into deeple and uh, sorry that sounds like a bit of a hard question where I was about to ask the same question well, this is the.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 912.932,
+      "endTime": 955.022,
+      "text": "This is the point, like at the moment it's, it's still necessary for me to be there. It's not perfect, um, by any means, and so deeple is getting very, very good um, but the problems that I've found with it have been mostly around the um uh, it's around the punctuation. So the way that japanese sentences are punctuated tends to cause deeple a problem, and I've found a little bit of a workaround in that, in that, uh, removing certain commas, rejigging a little bit the original Japanese in a way that's still, you know, the same sense and the same meaning, will actually output a better English translation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 956.707,
+      "endTime": 985.285,
+      "text": "And so there really still currently is a need for a human there to check and make sure that what's happening in the translation is accurate. You couldn't. Just, I've had companies send me translations that have gone through DeepL, they've done themselves, and they want to charge me a third of my normal rate and I'm like, no, I'm going to have to rewrite this entirely yeah, that's, that's interesting.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 985.426,
+      "endTime": 992.912,
+      "text": "So you do so like, as opposed to coming to you and asking you to translate it, you've had customers come to you and say here's a translation, can you just basically check it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 994.536,
+      "endTime": 1040.566,
+      "text": "yeah, yeah, that has happened. Yeah. But you do also get agencies that understand that the translators know how to use these tools better than the end client does usually, and so they would rather still be the middleman and say to the client look, this translator is going to be using MT, but he will be, or she will be, proofing it and making sure it's all up to snuff. But at the moment that there's not too much of a discount for that. But I can anticipate one coming in the next few years when, when it's almost perfect on its own surely that depends, I mean, maybe that says something about the, the kind of client that you you have, though, but it feels like you.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1040.548,
+      "endTime": 1063.465,
+      "text": "We always, I think, talk about the kind of top and bottom end of markets that you have, though, but it feels like we always, I think, talk about the kind of top and bottom end of markets, and if you absolutely need something to be 100% accurate and you absolutely can't accept a mistake in it, then that kind of makes sense. But have you seen a drop-off in the amount of sort of general translation, where the accuracy being 100 accurate is not not so important?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1064.026,
+      "endTime": 1100.018,
+      "text": "I rarely um that. There have been cases where it's more a question of we just need to get the gist. But if you're talking about an mou or a contract for building construction uh, that's going to be, you know, worth billions of yen um then they're going to need that to be as accurate as possible. Some of the noteworthy issues even with DeepL good though it is I've found have been things to do with referring back to parties within a contract.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1103.106,
+      "endTime": 1128.73,
+      "text": "To do with referring back to parties within a contract party one party two, party a, party b. Sometimes it gets that wrong. Now that's huge. Yeah, you put party a where it's supposed to be, party b. Everything's null and void, even once or, you know, twice. So that's where it becomes really critical for a keen eye to to have a good scan of the document and make sure that there's no issues and there are still issues with that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1129.472,
+      "endTime": 1163.311,
+      "text": "I mean that makes sense. But that's what I'm saying about, you know, the difference between different markets and maybe this is because of the nature of the people that come to you for that work. But I'm thinking, for example, you know, I I had a, I work for a business and a japanese um ceo came over to visit me and I want to write a thank you letter to them. Um, and okay, that's important. But you know, I can, I can put that into a translation app and if it's not 100 accurate, maybe I don't really care. So did you used to have that kind of work because it feels to me that's the kind of thing that would drop away.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1163.351,
+      "endTime": 1182.137,
+      "text": "And your my own experience working and you know having to send letters in a previous job to you know ministries in another language. We would get a local member of staff to do that. I could probably do a basic version myself, to be honest. But then you know,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1187.005,
+      "endTime": 1196.938,
+      "text": "in the last few years I'm talking even a couple of years ago I would just use Google Translate and then have a look at it myself or get someone to have a look at the last part of it. So it feels like you know that area of translation. Surely you would see a drop off in the demand for that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1202.425,
+      "endTime": 1245.069,
+      "text": "I can't really say that I've had that many jobs that sound like what you're describing. I tend to get things like family registry, visa applications, um, business documents, official sort of uh embassy documents, those sorts of things, and so there are, there are instances where you know uh there. There are certain things within those documents like, obviously, birth, dates of birth, getting the name right, for example, there's another big one for you. In Japanese, you could have two characters read. I don't know you can have multiple readings for different kanji in Japanese for the names, and there's literally no way of knowing that without asking the person, and there's literally no way of knowing that without asking the person.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1245.089,
+      "endTime": 1274.708,
+      "text": "And so at some point maybe you know we're not discussing ai just yet, but ai may be able to recognize that this is something that it can't know without checking, and so there may be some sort of an automation within the llm uh to go to the client and check with them. By the way, is this the correct reading? If not, how am I supposed to read it? But currently I don't think it can do that and I don't think it's going to be able to do that for a little while yet. And so again, there's a case in point where you need a human.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1275.751,
+      "endTime": 1312.873,
+      "text": "I think the visa, the visa example, is quite interesting because I know, for example, the UK, you know, I know, for example, the uk, you know, requires any documents that are not in english to be translated into english. Now, other countries don't do that. You know, schengen, um, some schengen countries accept, uh, some documents to be in foreign languages. It would seem to me that a very, very quick fix that will come quite soon, if it's not already in places, is, you know, those documents that are needed to be translated. Well, actually, your decision maker can use a piece of translation software, ai tools, to translate that and that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1312.893,
+      "endTime": 1347.967,
+      "text": "That's the kind of thing that will will potentially go fairly quickly. I mean, it's really interesting listening to you. I'm quite surprised at some, some things that haven't changed already. But then, listening to you, I guess also what it feels like you're saying is most of the work where people are seeking professional translators are things which you know. These are really really important things that can't be gotten wrong and therefore there's going to have to be an absolute trust for probably a fairly long period of time before people agree with it. It's quite, quite similar to the law episode where we said you know, for the law sector, the.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1348.369,
+      "endTime": 1360.411,
+      "text": "The implications of something going wrong are so huge. The same with what you're talking about. You know a billion dollar contract. I mean, I guess a lot of the translations you do are legal translations and therefore there's a real overlap with the law industry.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1360.812,
+      "endTime": 1405.555,
+      "text": "Yeah, I mean there is um. I can't claim to be uh massively specialized I've done a lot of contracts now so I know how they work and how they they're written. But there are people I'm part of, um, a network of Japanese translators called uh JNET, um, which is is a member, which is a group that's part of the iti, the institute for translators and interpreters. Um, I'm actually their treasurer, believe it or not, but um, the people that are part of j net have a degree in japanese, a degree in law, and know how to write patent, read and write and know biomedicine. You know, some of the people I'm surrounded by can do all those things together.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1405.575,
+      "endTime": 1412.101,
+      "text": "I'm not one of those people, but I understand certain aspects of my industry well enough to do okay,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1421.265,
+      "endTime": 1447.465,
+      "text": "but for sure you need a real firm grasp of multiple different fields and sectors, and ideally within certain specific industries, to be able to do this job really well and command an ex. Some of them command an extremely high salary, particularly the interpreters, and so, like you say, I don't believe that those are going to go out of um. They're not going to go out the window any day, anytime soon. It's going to take a while for the the ai to to really be able to be trusted to a point where we can do away with people it also.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1448.007,
+      "endTime": 1482.687,
+      "text": "So to me it also sounds more like a like a legal thing where. So it's a bit like with self-driving cars, a lot like I know self-driving cars still aren't a thing yet and they've been promised every year for you know god knows how long. But one of the problems yeah, exactly, but one of the one of the problems that was always quoted with self-driving cars was kind of like the legal aspect who's liable, who's responsible? All the rest of it, and I'm presume I haven't read all of depil's terms and conditions but I presume somewhere in their terms of conditions it says we're not liable if you use this for like legal, like formal, legal translation or something like that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1483.068,
+      "endTime": 1521.136,
+      "text": "So part of the part of the human part is actually, even if you are using these tools and using these kind of like applications and ai and all the rest of it and and deep obviously is ai, like I've had a look it's, it's a, it's an ai model, um, in the background, but they're not going to start like until you get an ai model, that's saying, yeah, we'll take full liability. For if your legal translation goes wrong, which I guess is partly what you're doing Even if you're a bit of an intermediary between you know, these legal companies and something like DeepL and you're using that as a tool, even if you're using that for the majority of translation, you're on the hook basically as a human in the loop.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1521.196,
+      "endTime": 1558.238,
+      "text": "There's a great point that jimmy made in the law episode um or he didn't actually make it, but I quoted him on it afterwards which was that you need a person in the loop so that there's someone to blame at the end of it. And it feels like this is very similar, doesn't it? You know you you're never well, not never, but you're not anytime soon going to have an ai tool or translation tool, whether it's, you know, ai based or not. That says, like you say, we take responsibility for this, so you're going to have to have either a person in your own organization or somebody else to blame. So it feels like, you know, maybe the job is is taking the responsibility yeah, yeah, that's a.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1558.319,
+      "endTime": 1608.435,
+      "text": "It's a good point, um, in a sense. Um, I'm responding. I'm very much responsible for the work that I put out there. When there's an issue, usually the agency is the one that acts as the intermediary. If I'm working for an agency, which I typically do, legally speaking, I haven't, fortunately, touched wood, faced any such consequences, and so I couldn't really comment too much on how that would work. I hope never to have to find out, but I will say this when I've worked without an agency in the past, it's caused me more headaches than it's been worth, because it's typically been with a direct client in japan who, um and this is this is a weird issue.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1608.516,
+      "endTime": 1649.033,
+      "text": "It's not particularly legal one, but it's interesting nonetheless. Um, often the ceo of the company for whom I'm doing the translation, or someone of that uh, of that um ranking um, seems to think they know English better than I do and will quite aptly rewrite the stuff that I've typed up and go. Doesn't this sound better? And I just have to shrug my shoulders and go? It sounds absolutely terrible. Sorry, I can't help you if you're going to just rewrite everything. There have been times where it's been very frustrating because there's always someone in the in in between between me and this person, the CEO or the MD or whatever.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1649.073,
+      "endTime": 1679.472,
+      "text": "But um and, and so I I do have to kind of at some point, wash my hands of it and go look, I've given you what I believe to be an accurate and correct rendition of your Japanese website, for example, but it is now your translation. Because I've given it to you, you can do what you want with it, but I can't be responsible for any backlash if you choose to amend the work that I've done.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1692.886,
+      "endTime": 1704.878,
+      "text": "In terms of we've talked quite a lot about the industry you work in and some of the sort of legal industry and stuff like that. Like how do you see it affecting other aspects of the industry? So, like I mean, you talked about some localization work that you did in the past. Where you were localizing, I think it was video games and movies. Is that right?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1704.898,
+      "endTime": 1749.976,
+      "text": "yeah, yeah, that's right, yeah, um. So I actually weirdly because on your podcast and you know, um out there on youtube, the first wave of ai seems to be taking over a lot of the creative content out there, um, and there's a discussion around whether it's going to hurt the music industry as well and things like that. I'm not so sure that it's going to affect the creative side of translation in the same way, because you know, as we spoke about on the phone the other day, actually the the creative side of things where it's um, video games or whether it's animation how is AI going to be able to hold on to any contextualized information in a way that it can refer back to it on the fly?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1750.368,
+      "endTime": 1784.259,
+      "text": "I mean, I know there are a lot of LLMs at the moment that are creating these huge context compendiums, if you will, that it can look back to. But how is it going to look at a specific character's face within the context of a certain episode, which is maybe 13 episodes in, and know that that has a specific meaning in relation to the person that they're speaking to? Do you know what I mean? It's? How can, how can ai get to that point where it understands all these different parts and moving parts within an anime.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1784.685,
+      "endTime": 1804.094,
+      "text": "So some of our readers won't be familiar with kind of the industry and with the nuances of the translation, the localization industry. So I was just saying like just to dig into that a little bit more, when you're doing that kind of work, is that nuanced where it could come down to facial expressions and micro expressions, things like that?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1804.334,
+      "endTime": 1841.197,
+      "text": "to some degree. Um, I'd say so, yeah, um, and jubilee is the word I'm looking for when you, when there are certain specific words said in japanese, um, it can mean a whole ream of different things. Um, you know, this isn't going to mean a lot to to many of the people out listening here, but the word yoroshiku in japanese could be thank you, um, I'm glad to meet you, or it was nice hanging out with you, or you know, and it really does depend on what's just happened and what the relationship is, um, between the two characters or between the group of people,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1846.925,
+      "endTime": 1865.846,
+      "text": "and so those sorts of things are. At the moment I can't wrap my own. I'm sure AI will be able to figure it out quicker than I can, but I can't wrap my head around how that sort of thing can be easily understood by, essentially, a computer and then put into the complete, correct translation for someone to read.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1865.886,
+      "endTime": 1904.125,
+      "text": "I still think you're going to need people for a long time for things like that my challenge on that there would be we're sort of basing it on on the idea that a computer or that it is a computer and that it's not a neural network the same as a person's brain. And you know, if we just take agi to mean that it is equally as intelligent as a human or slightly more intelligent, then you know, the sort of counter argument is well, you might not understand how it can happen, but if you can do it, why won't the ai be able to do it? It's sort of I think it's it's sort of the concept of what is an ai and and how clever will it become.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1904.185,
+      "endTime": 1933.95,
+      "text": "And I think we, you know, we don't know. I mean that some people say we'll have agi this year. You know, yan lecun still says it's maybe 10 years away. So it depends who you listen to, and I think it's potentially all of this stuff is all of us, and I think even the people who are you're working in this sector, because, let's remember, they don't actually really know how an LLM works completely. None of us know how it's going to work, but it feels like the rate of progress is exponential that I don't see how it won't be able to do that at some point. It's just a matter of when.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 1934.653,
+      "endTime": 1972.812,
+      "text": "To me, yeah, I don't disagree with that. It's obviously impossible for well, not impossible, but it's hard for a human currently to see how that is going to unfold. Even AI hasn't unfolded to the point where it understands how that's going to unfold, so how can we, mere humans, conceive of that? So I suppose my point is will generative AI be able to pass images on a screen or through its neural network in order to be able to interpret the things that it needs to be able to interpret in order to output a proper subtitle?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1981.335,
+      "endTime": 2023.386,
+      "text": "part of the announcement from google yesterday is like is a mixture of experts, models that can take in video, audio images, and then basically chuck the whole lot into a large language model and then you can ask it questions around it. Now don't get me wrong, I'm not saying like. I'm not saying like um, it's around the corner where localization can be just done by an ai. And actually the more interesting stuff was around the legal ramifications, with some of the translating legal documents and all the rest of it, and I think there are some areas. So, if we talk about sort of several different areas of translation, my feeling from this conversation is you know, if you just need something translating and it doesn't really matter, it doesn't have any legal ramifications you can already do that with Google translate and things like depot and you can just chuck it into chat, gpt right now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2023.466,
+      "endTime": 2040.524,
+      "text": "Right, so if there were jobs yeah, exactly so, if there were, you know, if there were jobs doing that in the past, those jobs are already gone right, like pretty much, I guess. When it comes to things where there's legal ramifications and it basically needs a human to take responsibility for it,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2045.235,
+      "endTime": 2056.288,
+      "text": "that's probably a little way off. We're probably, in fact, maybe maybe a long way off. Maybe it'll always be a requirement to have someone who's basically taking some kind of responsibility for it, because I don't think companies like Deeple will take that responsibility or it's unlikely.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2057.256,
+      "endTime": 2089.787,
+      "text": "I personally think that what we've just talked about so you know, your kind of localization and your translation from image to text I think that's maybe a little way off, but it will be done at some point in the future I, I agree and you know that I'm playing devil's advocate here, but I do and I do think that you're right it will be able to interpret things on screen, probably just analyze whatever the animators decided to to make a facial feature. They may even, it may even. They may even come a time where animation is incorporated with AI to a point where that is more feasible. Do you know what I mean?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2090.237,
+      "endTime": 2112.03,
+      "text": "So they're animating in a way where they know that the AI will be able to interpret these things more easily, or on the fly. But actually I was just thinking about, um, I was just thinking about comedy, I was thinking about things like puns and jokes. Um, do we I haven't done enough research into it, but do you guys know if? Is ai doing jokes just yet?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2112.17,
+      "endTime": 2115.419,
+      "text": "because I think, I think claude has a culturally laden one.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2115.439,
+      "endTime": 2137.292,
+      "text": "You know, um, how to, how to interpret a joke from japanese or french or greek or or or Spanish or whatever, and spin that around on its head because it just doesn't work in the native. It literally translated from the native language into into the target language. How's it handling that at the moment? I've not seen any evidence to suggest it's very good at it currently, but maybe I'm wrong yeah, so.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2137.536,
+      "endTime": 2170.275,
+      "text": "So it's just an interesting anecdote, but if you could get real-time translation, I think that would be uh, really, really helpful in a specific situation. My friend was in the other day when he went to see june 2 in the cinema and half the movies in fremen, half the movies in harkonnen, and it was translated into chinese and he did so. So it was uh quite a, quite a disappointing out into the, out into the movies. I think I'm waiting for it to come out on dvd, or, yeah, dvd. Do we even have dvds anymore?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2172.941,
+      "endTime": 2175.087,
+      "text": "the head of ai who uses dvds",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2178.12,
+      "endTime": 2179.142,
+      "text": "it's a it's an anecdote.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2179.643,
+      "endTime": 2182.889,
+      "text": "It's an anecdote. Yeah, I'll extend the anecdote on vhs. Yeah,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2191.987,
+      "endTime": 2207.323,
+      "text": "one of the things we haven't talked about, and I won't I won't extend this too much, but I think and I know you don't, I know you don't do this for a job, but one thing in translation is kind of simultaneous translation, which is probably, I think, safe for a little while house?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2207.383,
+      "endTime": 2212.287,
+      "text": "do we trust them enough to be saying whether this, describing what this person's um",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2222.018,
+      "endTime": 2266.526,
+      "text": "talking about accurately and certainly at a business level and, you know, with all the legal implementation implications that you described earlier? I just I think you're gonna need a human there for the foreseeable future. I don't know. There's going to be a point, a tipping point, where possibly you know that the human that's there assisting the AI translator has a checklist of some sorts going yep, that's fine, yep, this is okay, this is okay as well, and initially maybe it'll be something like 70%, 75% or less, I don't know. And then, gradually, as the years go by, you might have a checklist that's 98%, 99% accurate, and so when that point is reached, possibly people will just be done away with in terms of translation and interpreting.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2266.735,
+      "endTime": 2269.625,
+      "text": "I don't really know, but it's uncertain, isn't it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2278.456,
+      "endTime": 2314.924,
+      "text": "We're talking here, jimmy, about real-time speech, translation, so kind of an interpretation. Right, we're talking about interpreters, because I, I think, thought quite a bit about this and almost sounds like a broken record. We say the same thing over and over again about how you know, at the top it won't be, you know, you'll still need people. I think this is an example. If you're a world leader or a ceo, you're definitely not going to going to be able to not trust that, that trusted translator who's not, because in those cases it's not just someone who's you know, doing a one-off job for you, it's someone that that is almost like your pa, that that lives, you know, their life with you.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2315.284,
+      "endTime": 2358.017,
+      "text": "The same with professional sports people, professional japanese baseball players in the US their translators are usually their best friend and their confidant and their manager, and so that kind of thing probably doesn't change. But there was something that's been released, I think in the last couple of weeks, called the AI pin. You can look this up on YouTube, which it's a kind of clip on piece of hardware which is probably I mean, that's an Apple headphone case slightly bigger than that which clips on, and some of the comments are okay. Why would I have that when I can just use my phone. It's slightly different in that it has, you know, specifically to use AI, and one of the examples that they give is when you land in a country, it automatically knows which country.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2358.358,
+      "endTime": 2398.187,
+      "text": "It's got a 4G, 5g subscription, it knows which country you're in and then it's ready to listen to people talking in another language, and the example they they showed was they asked it to use Catalan, the lady using it, who was a CEO, spoke, and then, you know, with a few seconds delay, it spoke in Catalan, and so that would absolutely solve the problem of you know going on holiday or you know being able to have a kind of normal interaction. It won't solve the problem of of Xi Jinping and Joe Biden having a, you know, important meeting, because, of course, there's no way that that's going to be trusted, but we're already kind of at that stage.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2398.876,
+      "endTime": 2432.56,
+      "text": "I think the next stage where this really works is you have a standalone device which is not networked. You have an ai chip, and so you know that piece of kit is purely the. The information that's in there is purely language, and therefore it doesn't need a connection. In the same way, as, you know, computers are going to have ai chips in them so that you can do stuff locally for that kind of level of of simultaneous translation. You go on holiday, you have your little clip-on device and it real-time translates for you and the and the delay is, you know, seconds, if not a second. I think we're not.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2432.841,
+      "endTime": 2444.943,
+      "text": "You know, we're a year or two away from that. I think it's made. It's almost like the babel fish in um hitchhiker's guide to the galaxy, but it's on the outside instead of in the inside. But that, you know, that feels to me like it's, it's.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2445.906,
+      "endTime": 2451.252,
+      "text": "We're on the cusp of that very, very soon nice reference, the babel fish being a fish you put in your ear.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2451.413,
+      "endTime": 2452.035,
+      "text": "To translate",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2456.403,
+      "endTime": 2462.91,
+      "text": "I'd like the fish more than the uh than the clip, to be honest, but I think it will probably be a clip rather than a rather than an ai fish rather than the than the clip, to be honest, but I think it will probably be a clip rather than a rather than an AI fish.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2463.975,
+      "endTime": 2495.96,
+      "text": "Rather than the AI fish that you stick in your ear. Yeah, I mean, I think it's been. I think it's been like a really interesting episode. I almost feel like this is one where we should maybe schedule a revisit in six months to a year's time and just kind of like, you know, have a just see where, see where things have gone, because it feels like it feels like there's a lot of potential ai applications and it also feels like ai has definitely had an impact on the industry already in terms of the speed, which which you you talked about earlier on right, the amount of time it would take to go through books, whereas now, presumably what you do is a lot quicker.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2496.622,
+      "endTime": 2604.442,
+      "text": "So, unless there's more translation to do, you know you one translator can do the work of what two or three or four could previously right well, I mean, yeah, the thing is is, these days I'm using it a little bit to my advantage, because I think there will be a day that comes where using ai and using machine translation will come at a cost to the translator. Currently, the rates that I'm charging are massively affected by being technically undercut, but maybe one day that will happen, I don't know. One other thing which I forgot to touch on is the use of CAT tools. So Computer Assisted Translation, which you know that's been out since probably around about 2015, 2013, something like that, so 10 years or so where basically they were creating translation memories out of certain texts and from that point, a um, the program would register any translations that you input for each relevant segment and then tell you whether it's a complete match, 100% match, fuzzy match at 70% or 50%, and then what the agencies typically used to do well, they still do, sorry is offer you a discounted rate depending on how much of the document matched it within itself to sort of what, depending on what degree there was there were many matching how many matching segments there were within the within the document, and so that's one way that the industry has sort of discounted translators in the last 10 years or so is by recognizing certain specific paragraphs, uh, repeating themselves and then offering a discounted rate to the translator because they're saving time.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2605.226,
+      "endTime": 2632.987,
+      "text": "To be honest with you, I found that it hasn't always saved a lot of time. It's just added more time to first of all, you have to learn how to use a tool. It adds that time as well, and so that there are there are pros and cons. I suspect that if you, once you've learned how to use it well and you get repeatedly the same sort of texts appearing, then it does save you time and you can do more translations more quickly and it probably works out a little bit better for the translator.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2633.595,
+      "endTime": 2668.281,
+      "text": "Would it be right to assume, though, that you you can't do this job if you don't understand and use the tool, so the people who are going to survive in the short term are the ones who are going to embrace and and understand them. I mean, that's definitely what. So my research for this episode that's what it suggested is that, you know, translators, who are experts in the use of translation and ai tools, will be the ones that stay ahead and the ones that don't embrace it and I don't don't just mean using it, but I mean keeping on top and and learning how to use them to their advantage. They're the ones that, in the short term, are going to really suffer.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2668.321,
+      "endTime": 2674.586,
+      "text": "Is that? I mean, is that what you? You're finding? It sounds like you do use them, but do you? Do you try and keep on top of it as much as you can?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2675.997,
+      "endTime": 2719.125,
+      "text": "I'm a little bit. I'm in a little bit of an awkward position because currently I'm actually looking to sort of move out of translation. If I'm being completely honest, I won't say that I've embraced it as fully as some of my colleagues have. They've got all the software. They've got all the different levels within the software For SDL Trados. I think there's like five different levels you can achieve of understanding and you get qualified in them. I actually got level one qualification a few years back but I haven't gone all in personally. But I could see how if you did and if you were really specialized in a certain field and you got repeats on on the type of documents that you're used to working on, that it would probably speed things up.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2719.967,
+      "endTime": 2754.986,
+      "text": "Um, and the really specialized translators, as I said earlier, they can really command quite a high rate anyway. So it's debatable whether it affects them negatively. I'd say it probably helps them more than it hampers them. I'm in a little bit of a strange position where I'm a little bit more too much of a generalist to be able to to make real use of the software. But yeah, I mean going forward. I'm probably going to move out of translation anyway in the future. So it's not necessarily because of AI, but there's a part of it which is to do with AI as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2755.235,
+      "endTime": 2758.38,
+      "text": "I suspect it's going to take a little bit of market share away in the future",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2767.854,
+      "endTime": 2793.641,
+      "text": "you know, a lot of what we've talked about today sounds quite positive for the translation industry and that there's still going to be a lot of jobs around. It's going to take a while some there's definitely certain segments that people will still be able to go into, like. What do you think that, like translators, can do to prepare for some of the things that are coming around the corner? And you know, what would you, what advice would you give to somebody who's like go, who wants to go into the industry?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2793.701,
+      "endTime": 2831.147,
+      "text": "I guess the fact is is I never actually really studied languages or or Japanese specifically at university to become a translator. It's just as a consequence of enjoying the, the act of learning a new language, that that's come about, and it took a while to discover it, and I'd say that that's probably the case for most professional translators. I don't want to speak on behalf of the entire translation community, but I suspect that a lot of the people who are now professional interpreters and translators have started out just really enjoying language learning rather than seeing it as a career.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2831.247,
+      "endTime": 2872.404,
+      "text": "So you know, like dentistry or medicine or whatever, I think that when you go into those different industries you'd probably think, well, I'll be able to make a lot of money doing it. Medicine law, for example, translation I never thought I'm going to get rich doing translation. And so back to your question about what people can do to to sort of stay in the industry. Like car mechanics had to retrain to basically learn how to work all the electronic components within a modern car, you have to reskill and and uh, keep abreast of all the new stuff that's coming out and learn how to use all these tools if you really want to make a a long-term career out of it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2873.146,
+      "endTime": 2900.77,
+      "text": "I don't want to sound overly pessimistic, but there is a part of me that wonders whether a 20 year old going to to learn a language like Japanese, chinese, russian or whatever is really all that likely to have a career 25 years from now. I think people of my sort of age 40, 45, certainly 50, 55 they can expect to carry on into retirement, I'd say. If you're younger",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2904.475,
+      "endTime": 2920.184,
+      "text": "I don't know that I would necessarily recommend picking translation for a career path. Do it because you enjoy it, do it because you like learning a new language, going to meet people from different cultures and enjoying travel, and if you can make it a career for a while why not?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2920.615,
+      "endTime": 2966.781,
+      "text": "My feeling is that you know, I know you've talked about there's make it a career for a while. I know my feeling is that you know, I know you've talked about there's probably not a career in it, but my feeling is that translation you talked about meeting people and I feel like that's something where actually, you know, we've talked a little bit about some of the sort of legal sides of translation earlier on. But the surely face-to-face translation, like the sort of things we're talking about before, like I know, I know you don't do it for a career, but simultaneous translation, like translating where it's there's a, there's a very much a kind of personal interaction going on, surely that's still a valid career, whereas you know, maybe some of the things you're talking about, I think, and I think people do probably go into that as a career, where they want it, where they actually are aiming for that career and they do want to go into that industry.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2967.082,
+      "endTime": 2989.168,
+      "text": "For that reason, you know, perhaps perhaps translating documents and things like that is going to become less and less because it doesn't have that interpersonal aspect. But what do you feel about that? I, I mean, I, do you think that? Do you think if a robot becomes good enough at translation. We'd just do away with simultaneous translators and just have a robot doing it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 2990.492,
+      "endTime": 2995.759,
+      "text": "As we touched on earlier, I think that's going to take quite a while, um, if it ever comes about.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2996.18,
+      "endTime": 2998.146,
+      "text": "So I, I, I'd like to,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3004.295,
+      "endTime": 3010.473,
+      "text": "I'd like to say we're always going to have people doing these sorts of jobs, but we just don't know. We flipped the script here.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3013.735,
+      "endTime": 3016.496,
+      "text": "I thought you were going to be like I thought you were going to be pro translator and like pro?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 3016.516,
+      "endTime": 3070.132,
+      "text": "Yeah, in a sense I really am and I do hope that that's the case. I'm just very aware, especially, you know, in terms of business, when it comes to money, when it comes to businesses making, saving money. I don't know how much the interpersonal aspect of that holds up versus the. It depends. It depends if it's personal, if it becomes cheaper to employ people to do interpreting than it is for AI to, for whatever reason, but also the interpersonal side of things. Like you say, there may be people who just prefer the idea of having a person there and that will always be there. So there may always be people interpreting, because there will always be people who prefer to have another person next to them doing it versus a robot or an AI.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3070.572,
+      "endTime": 3105.469,
+      "text": "I still feel that you know I'm trying to bring a positive here and I'm known for for not necessarily, you know, always taking the positive bin on things on this podcast. But I think there are specializations and for translators, and maybe you're right you know this is not about new people entering the industry, but this is about people who are already there, about, you know, specializing folks in where you can add value. So, areas where security is a concern, you're not going to get a random translator to do your work, but you build that trust over time. You have someone who signs, you know, a non-disclosure agreement.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3105.95,
+      "endTime": 3144.393,
+      "text": "You build up the. You know the knowledge of a particular industry. Your translation tools might refuse to translate some really controversial things. So you know, specialize in terrorists and criminals and maybe you've got a good career there because you know the, the, the, the barriers that are put in on apps and large language models mean that they can't do that translation. So, joking aside, there will be things where maybe they're too controversial for a lot of these models to allow them and even if it's just a very, very small part that's controversial if you've got a language model that won't allow you to get into that area.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3144.793,
+      "endTime": 3177.508,
+      "text": "I think in those areas you may maybe your knee pill. So I don't feel it's necessarily I'm in the position to, to you know, give career advice to people in the translation industry. But it feels like listening to you and and the research I did before, that you know that specialization and identifying where, where there will still be the need for a personal interaction and why it's not necessarily just about, oh well, I like to have a person. Actually, there are some ways in which you might need a person for security reasons. You might need a person for reasons of confidentiality, data privacy that you just even though the you know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3177.548,
+      "endTime": 3201.205,
+      "text": "You gave the example before about how you have a paid model that says it doesn't share the data. But if I've got something really, really sensitive, I mean I probably don't want to share it with you either, but I definitely don't want it to go into a model that I can't be 100% sure that it's not going to leak out. So, you know, maybe there are areas that people could specialize in where there'll still be translation for longer than maybe we think.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 3202.288,
+      "endTime": 3253.568,
+      "text": "I think you're right and at risk of continually sounding pessimistic, which I really don't want to. The one thing which just occurred to me is the fact that, in order to have translators carry on translating and interpreting for people, you actually need them to be studying in schools and universities and, sadly, from my experience, even going back to Sheffield, not five or six years ago, I saw that the Japanese language department had absolutely shrunk down to. I think they'd had 20, 25 people in the first year and there only ended up being five. No, sorry, More than that. About ten people graduated, so about half of the people drop out over the course of four or five years, and I asked them how many people were in the first year and they said five.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 3254.15,
+      "endTime": 3296.46,
+      "text": "I don't know if it's a. I don't know if it's because people are already aware of the fact that they don't necessarily need to learn a new language to be able to communicate with other cultures because they have their phones. It's almost like translation, ai and and neural machine translation is a is a victim of its own success or it's causing. Maybe that's not the right way to put it, but it's meaning that people are innately less inclined to feel the need to learn a new language, and therefore you're just naturally going to end up with a smaller pool of people who are able to speak these foreign languages, and therefore the need for ai to be able to do that becomes even greater.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 3297.303,
+      "endTime": 3299.25,
+      "text": "So is that another possibility?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3300.073,
+      "endTime": 3335.503,
+      "text": "there's a lot of discussion out there at the moment about that I've seen about whether it's worth learning a language, and and two different sides of the argument. One is no, there isn't because, like you say, you know you can get by and I've seen this for for years. You know I can speak. I can speak chinese. When I first studied chinese, you, you still had books, although we did have like flashcards and stuff on apps, but you couldn't translate in the way that you can now. Now I I've seen a number of people use apps to be able to get by but to not have any understanding of, like you were saying, the nuance and the concept that I'm able to understand.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3336.125,
+      "endTime": 3373.48,
+      "text": "But actually, you know, do they need to if someone's going for a week on business, as long as they can do all the bits that they need to do? So I think that's one side of the argument is practically you don't need to. The other is kind of why you learn in languages and and we talk on on previous podcasts about you know, in the future, in, in, in an ideal world, in a kind of the nirvana, is that? Um, you get to a point where you're not having to do everything because of the financial benefit. You're not having to do everything because of the financial benefit, you're not having to learn a language just because that's a way for me to make money and that it becomes enjoyable and as a way to understand the culture and a way of training your mind, and I think that is a fine argument.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3374.202,
+      "endTime": 3411.468,
+      "text": "But it does come back to most of the time when you're choosing to study, certainly at you know, bachelor or A-level, whatever you're thinking of what it's going to bring to you in terms of your future earnings. And you know, if you're learning a language, it means you're not learning something else. I think that's the problem is you can't. You could learn a language. I'd love to learn every language in the world, but I can't, so I have to pick one. I love Japan, absolutely love Japan, and I actually chose to study chinese instead of japanese. After studying japanese for um, a sort of year and a half in evenings, I chose to study chinese because actually, practically, it was going to be more useful for me.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3411.97,
+      "endTime": 3446.284,
+      "text": "So you know, even as someone who likes learning languages, in the end I took the practical route and would I do the same thing now? Maybe not. You know, seeing what's happening with, with language tools. So I don't know if I've just argued for something and then argued against it straight afterwards, and but I guess we're all, we're all kind of trying to work our way through this at the moment. I'm not sure. Any of us are completely sure what our views are it's hard, it's. It's hard to imagine the careers advice nowadays being yeah, going to translation all these podcasts we do not take career advice for me and jimmy on anything?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3447.045,
+      "endTime": 3475.269,
+      "text": "absolutely not, but I can't, you know, in all seriousness, with the like, like, translation seems like something where actually, yeah, there's ai and large language models in the last few years, but actually it predates. It predates that by quite a long time. We've, or we've, seen like pretty good translation software and even ai based stuff by quite a long time. We've seen pretty good translation software and even AI-based stuff for quite a long time before the recent wave of large language models, and so I guess what you're saying is it's already having an effect on the industry really.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 3475.78,
+      "endTime": 3494.626,
+      "text": "DeepL's been around. I think it's 2017 they came out, or maybe it was Google, I'm now forgetting, but NMT Neural Machine Translation has been around for close to 10 years you know, and actually it predates AI by quite a long way, and so AI is the next. You know, the cherry on top, I suppose you could call it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3495.781,
+      "endTime": 3499.131,
+      "text": "Yeah, predates the current set of large language models. Yeah, yeah, yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Chris Ward",
+      "startTime": 3500.041,
+      "endTime": 3517.913,
+      "text": "And so I still you know personally fall back to my point of learning language because you want to learn a language and if you can make a career out of it, because there's still translation around as an option for a career. Once you've done that great, why not Perfect?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3519.134,
+      "endTime": 3542.672,
+      "text": "Thank you, chris, thank you Jimmy. I think that's been thought-provoking. If nothing else, in the next few weeks we'll be starting a new kind of sub-series where we look at AI and sustainability, both in terms of AI as an enabler on to help try and introduce people to some of the new tools that are out there, some advice and tips on ways to prompt and things like that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3555.12,
+      "endTime": 3564.147,
+      "text": "So hopefully a kind of useful, practical episode, and then we'll continue with the industry episodes and try and cover as much as we can. I think music is another thing we're going to cover.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3568.88,
+      "endTime": 3591.729,
+      "text": "So keep listening. We will try and include any industries that people are interested in. So, as we always say, drop something in the comments if you're interested, keep following, pass it on, get others to listen and thank you very much. We will leave, as always, with our ai and jimmy generated sooner. Thanks so much, guys. Goodbye. It's own swag, it's own style. The machine's trying to keep up, but it's gonna take a while.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3605.081,
+      "endTime": 3624.97,
+      "text": "Yeah, they got the algorithms, they got the data, but when it comes to translation, we the real creators, ai by thought, trying to spit rhymes In every language on our earth, but they lack the soul, they lack the birth. Translating words Is more than just construction. It's an art form. It's an art form, it's a junction.",
+      "chapterIndex": 6
+    }
+  ]
+}

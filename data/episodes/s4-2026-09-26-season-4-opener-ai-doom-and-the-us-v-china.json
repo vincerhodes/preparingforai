@@ -1,0 +1,1697 @@
+{
+  "slug": "s4-2026-09-26-season-4-opener-ai-doom-and-the-us-v-china",
+  "buzzsproutId": "19866405",
+  "title": "SEASON 4 OPENER: AI Doom and the US v China race",
+  "date": "2026-09-26T11:00:00.000Z",
+  "season": 4,
+  "durationSec": 4770,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/19866405-season-4-opener-ai-doom-and-the-us-v-china-race.mp3",
+  "buzzsproutUrl": "https://www.preparingforai.net",
+  "description": "Send us Fan Mail Check our Matt & Jimmy' products here: Browzr | Discover the Web Beyond Algorithms Des Cartwright — Paintings Meridian Health Tracker KickoffHQ: Live Start Times & Scores for Every Sport Germanya — Deutsch lernen A senior researcher quits, a “10% chance we all die” quote goes viral, and suddenly the AI safety debate stops sounding like a niche forum argument. We try to make sense of why the mood has changed, and what it means when the people building frontier models talk about catastrophic risk while still racing to release the next system. We dig into concrete failure modes: models that hack, systems that optimise ruthlessly for narrow goals, and the growing push towards recursive self-improvement where AI writes more of its own code and even helps with alignment. We keep it practical and slightly uncomfortable: once humans are no longer the slow part, what does control even look like, especially when everything is connected to the internet and incentives reward capability over caution? Then we put the whole thing through a US China lens. China regulates AI in a more centralised, security-first way, while the US frames the problem as safety and loss of control, but both sides are trapped in a competitive race dynamic. We talk money, IPO pressure, insurance, and the theory that some high-profile safety messaging is also a play for regulation that protects incumbents. Finally, we share our predictions for the next 6 to 18 months, from “useful personal assistant” optimism to jagged cascading degradation: flash crashes, grid outages, poisoned code, and a less open internet. Subscribe for more, share this with the friend who cannot stop arguing about AI doom, and leave a review with your take: should we pause, slow down, or accept the race?",
+  "summary": "The Season 4 opener tries to make sense of why AI doom suddenly went mainstream: a senior researcher's resignation and a viral '10% chance we all die' quote, endorsed from Musk to Altman to Amodei, landed differently than Hinton's earlier warnings. Matt and Jimmy walk through concrete failure modes — models that hack (Hugging Face), recursive self-improvement loops, agent swarms showing self-preservation-like behavior — before reframing the whole debate through a US-China lens: Beijing regulates for control and sovereignty while Washington talks safety and loss-of-control, and both are trapped in a race dynamic fuelled by IPO pressure and trillions in debt. They close with dueling 6-to-18-month forecasts, from Jimmy's 'useful personal assistant' optimism to Matt's 'jagged cascading degradation' of flash crashes, grid blackouts and Ghost GDP.",
+  "keyTalkingPoints": [
+    "The viral 10% catastrophic-risk quote marks a shift: for the first time the heads of the frontier labs (Musk, Altman, Amodei) publicly agreed with a specific extinction probability, and Trump told everyone not to worry.",
+    "RSI (recursive self-improvement) is no longer theoretical: Astra admitted limited use, Gemini 4 rumours point to a stronger self-improvement training loop, and timelines quoted on-air run from Musk's end-2026 to 2027-2028.",
+    "China's AI rules are about control, not safety: training data and outputs must reflect 'core socialist values', and Matt argues a frontier model incident in China would be handled inside the system and never made public — he has more faith in that than in US labs protecting their bottom line.",
+    "Matt sketches a semi-intentional slowdown thesis: IPO pressure (OpenAI delaying, Anthropic's market sensitivity), insurance, business adoption fatigue and 'seeing things' internally could slow the frontier without anyone agreeing to a pause.",
+    "Jimmy floats the 'orchestrated resignation' reading: the safety panic may be partly a play for regulation that protects incumbents — and the Jacob Cox tweet being plastered all over Chinese social media suggests US-China race politics underneath.",
+    "Matt coins 'jagged cascading degradation' for the next 6–18 months: an AI-triggered flash crash wiping out $200–500bn, a regional grid blackout for 3–5M customers, then Ghost GDP around 2028 — bad, but not extinction."
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Most people will take convenience every time — they'll complain about AI slop while consuming it, and robots raising kids will be no different from iPads parenting them today.",
+      "He doesn't buy precise doom percentages ('a made up number') but maintains there is no world where superintelligence isn't used for harm; a superintelligent model with bad intentions 'disguises its motives for long enough to get what it wants'.",
+      "He suspects some of the safety messaging is strategic: an orchestrated panic that doubles as regulatory moat-building for incumbents, with the China race as cover.",
+      "Long term, only one of OpenAI and Anthropic can survive — and he still thinks OpenAI ultimately gets 'swallowed up' like a dot-com casualty."
+    ],
+    "matt": [
+      "Self-described doomer who nonetheless doesn't think everyone dies: there will be warning shots, and you'd have to be stupid to walk blindly into extinction — but a rough non-existential future ('another 40% which is pretty shit') is likely.",
+      "He partially trusts the market-punishment safety argument but not forever: companies that ship unsafe things will fail, which incentivizes caution — yet that doesn't solve the long-run control problem.",
+      "He has more faith in China's centralized system to contain a frontier-model incident than in US labs, because China protects sovereignty and power while US labs protect a bottom line that doesn't exist yet.",
+      "He predicts a semi-intentional frontier slowdown driven by IPO math, business adoption lag and internal caution — not a principled pause."
+    ]
+  },
+  "predictionIds": [
+    "s4-2026-09-26-season-4-opener-ai-doom-and-the-us-v-china-3943-if-there-is-no-slowdown-agi-arrives-by-the-end-o",
+    "s4-2026-09-26-season-4-opener-ai-doom-and-the-us-v-china-4209.9-within-6-18-months-an-ai-triggered-flash-crash-w",
+    "s4-2026-09-26-season-4-opener-ai-doom-and-the-us-v-china-4233-within-the-same-6-18-month-window-an-ai-managing",
+    "s4-2026-09-26-season-4-opener-ai-doom-and-the-us-v-china-4304.2-about-18-months-out-around-2028-ghost-gdp-become",
+    "s4-2026-09-26-season-4-opener-ai-doom-and-the-us-v-china-3241-long-term-only-one-of-openai-and-anthropic-survi",
+    "s4-2026-09-26-season-4-opener-ai-doom-and-the-us-v-china-4018.4-if-ai-turns-out-benign-we-will-see-a-lot-of-dise"
+  ],
+  "speakers": [
+    "Matt",
+    "SPEAKER_03",
+    "Jimmy",
+    "SPEAKER_01"
+  ],
+  "chapterCount": 13,
+  "turnCount": 227,
+  "chapters": [
+    {
+      "title": "Welcome Back And The New Jingle",
+      "startTime": 0
+    },
+    {
+      "title": "Why AI Doom Suddenly Lands",
+      "startTime": 132
+    },
+    {
+      "title": "When Models Start Hacking Systems",
+      "startTime": 325
+    },
+    {
+      "title": "Recursive Self Improvement Explained",
+      "startTime": 362
+    },
+    {
+      "title": "Robots At Home And Human Contact",
+      "startTime": 804
+    },
+    {
+      "title": "What Counts As AI Slop",
+      "startTime": 961
+    },
+    {
+      "title": "China Regulates Control Not Safety",
+      "startTime": 1376
+    },
+    {
+      "title": "Safety Red Lines And The AI Race",
+      "startTime": 1815
+    },
+    {
+      "title": "Slowing Down Without Going Bust",
+      "startTime": 2571
+    },
+    {
+      "title": "Was The Resignation Orchestrated",
+      "startTime": 3282
+    },
+    {
+      "title": "Our Predictions For 18 Months",
+      "startTime": 3914
+    },
+    {
+      "title": "Cascading Failures And A Closed Web",
+      "startTime": 4178
+    },
+    {
+      "title": "A New Tool Shout Out",
+      "startTime": 4573
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.2,
+      "endTime": 44.24,
+      "text": "Welcome to Propelling for AI, the AI podcast for everybody. The podcast that explores the human and social impact of AI, exploring where AI intersects with economics, healthcare, religion, politics, and everything in between. But of the tree of the knowledge of good and evil, thou shalt not eat of it. For in the day that thou eatest thereof thou shalt surely die. Welcome to Preparing for AI with me, Steve Bannon. And me, Professor Jang. And this is the first episode of the season four that nobody wanted. In fact, people wrote in and said, Can you stop after season three? But we've persisted anyway.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 44.4,
+      "endTime": 51.36,
+      "text": "Um, and we're going to start it with uh do you want to play your jingle? Because you wrote a jingle, didn't you? Do you want to play it? Yeah, play it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 51.52,
+      "endTime": 51.76,
+      "text": "Yeah.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 65.28,
+      "endTime": 66.24,
+      "text": "I don't know how much of this.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 66.72,
+      "endTime": 70.4,
+      "text": "This this is a sinister jingle that that Jimmy wrote for the new season.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 74.72,
+      "endTime": 75.2,
+      "text": "Smooth.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 79.36,
+      "endTime": 106.24,
+      "text": "Well, there you go. Um because we we're probably gonna stop. Well, we're not always gonna do a song at the end of the podcast, partly because um it always takes us ages to do it and no one probably listens, but also because we thought as one thing we hate about AI is AI generated slop and taking away creativity and music that we wouldn't um always do it. So maybe one week I'll play my guitar, but why actually another week we'll play a jingle, and occasionally we'll still do a song.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 106.4,
+      "endTime": 112,
+      "text": "Yeah, but what actually happened there was you reminded me to go on Suno and then I realised that released a new model and then.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 112.56,
+      "endTime": 159.68,
+      "text": "But you were gonna cancel Suno and then find out there was a new model. Yeah, but it wasn't any better. Anyway, season four, and this uh season you'll hopefully have seen our new podcast logo. Uh if you haven't, then have a look at it because I think it's pretty sweet. And uh this season will all be about looking at AI events through a US-China lens. So this week uh we felt that it was not just appropriate, like we had to address um all of the stuff that's been in the news recently around kind of existential threats and AI, and because we've talked a lot about backlash, this isn't necessarily a backlash thing, but this does feel like there's a kind of inflection point in that you know people are really saying now, like, we didn't want this, like this has been forced upon us, and now you're gonna tell us we're all gonna die.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 159.84,
+      "endTime": 171.12,
+      "text": "Um I think surprisingly for a doomer like myself, I actually don't have the view that we're all gonna die, and I'll I'll talk a bit later about what I think will happen. Um, but it does seem it does seem like something has changed.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 171.44,
+      "endTime": 204.96,
+      "text": "Yeah, I mean it's a bit of a mad combo at the moment, isn't it? You've got you know, you've got you've got backlash as in people just don't want AI slop, you've got backlash as in people are scared people don't want to lose their jobs, um and then on the other hand, and then you've also got I think it's fair to say massive wealth inequality issues, and that's all in the news a lot in general at the moment, and then on the other hand, you've got tech billionaires being like, Oh, please stop us, you know, we're we're gonna create something that's got a 10% chance of killing everyone.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 205.2,
+      "endTime": 236.32,
+      "text": "Please stop us doing it, and you've got JD Van saying, Well, just don't create it, and then saying, Well, we can't not create it because you want us to create it because you want to beat China. It's it's mad, isn't it? I mean, it's like a microcosm of the world. Um, but yeah, so so so we're gonna address some of that stuff today. I wanted to start off because why is this kind of like come to the fore? I I and and and obviously, like the Jacob Coxson, who's the British anthropic researcher who who quit, that seems to be the that was kind of the catalyst. He he quit, like loads of people have quit over the last few years.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 236.4,
+      "endTime": 238.48,
+      "text": "I mean catalyst or plant?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 238.88,
+      "endTime": 272.88,
+      "text": "Possibly, well, yeah. I mean, I yeah, okay, we'll we'll visit that a little bit later on. Um, but but what I'm saying about catalysts is like there's been more of a reaction, right, than previously. Like other people have left previously, people have talked about Doom. You've got you've got people like Joshua Ben uh Ben Bengott, how do you pronounce his last name? I'm back to mine and not being out of preneuse. Fine, Bengott aldo. Okay. Um Jeffrey Hinton, people like that who've come out who like experts, you know, Nobel Prize winners who've come out before and it hasn't kind of hit home, and you've got a researcher who's come out and now this kind of has hit home.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 273.12,
+      "endTime": 278.72,
+      "text": "But I wanted to talk about like why are we like at a different point? And it's I I don't think yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 278.88,
+      "endTime": 297.76,
+      "text": "Well, so go back to that though. I don't think I think that so to be fair, like I but Jeffrey Hinton was what should have had probably more respect in a way, but like I think the difference now is it feels like we're if uh like you've this anthropic researcher left, somebody in the company like actually confirmed it as well, right?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 298,
+      "endTime": 299.68,
+      "text": "Straight away is like, yeah, we do think it's 10%.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 300.16,
+      "endTime": 324.4,
+      "text": "And then all of the heads of those companies, like Musk and Altman and Darrios, agreed with it as well and said, and and then I think you also Trump said no, it's fine, you've got a good president, so don't worry. Yeah, but then I think so. I think the difference between when Hinton said it was like it was all very theoretical back then, and like the models were still pretty crap, to be honest. Whereas now it feels like you can genuinely see and there's been models breaking out of confinement and hacking in some.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 324.72,
+      "endTime": 354.56,
+      "text": "So that's what I wanted to say is like there were two things, and we'll talk a little bit about the the hugging face hack, which is the the most famous one. I mean, there have been several, but the hugging face one and the investigation into it, like if you actually read the investigation into it, it's a lot it's worse than than what most people have listened to, but also at the same time, it's kind of like the AI at the moment is still kind of quite dumb, like they're only trying to achieve a very simple aim, they just will do anything to achieve that aim. But the other thing that is approaching, and and Jack Clark from Anthropic has has kind of put a timeline.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 354.64,
+      "endTime": 404.64,
+      "text": "I think he said the end of next year, um, 2027, others have said 2028. Musk has said the end of 2026. But this is about RSI, so recursive self-improvement. And I think um I'll let you maybe explain and just in very simple terms, Sapiel, what is RSI, but also like what is currently happening, because we're currently at a point that it's not fully sort of a full loop of RSI, but we're at a point where like there have been um the beginning of of sort of limited use of RSI. So Astra had limited use, they were saying it's oh, it's only a tiny bit, oh you know, it's not it's not that bad. Google Gemini 4, which is not out at the time of recording, it'll probably be out the day we release this, but that supposedly, according to a lot of the rumours, has a stronger sort of recursive self-improvement training loop on it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 404.72,
+      "endTime": 407.44,
+      "text": "But maybe you could just models as well, I think, have said, haven't they?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 407.68,
+      "endTime": 426.64,
+      "text": "GLM GLM Juppo of but again it's like they run it on this kind of like it's post-training that's run on like you know, a pretty small number of not that good chips. So it's not quite I think it's not quite like the risks are not there at the moment, but maybe you could say a bit about what RSI is and why is why is it seen as like this big risk?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 427.04,
+      "endTime": 453.92,
+      "text": "Well, so so put simply, like the sim the simplest way of saying it is like if you take all humans out of the loop completely, full RSI is the next models are just improving themselves at every step. So actually building like new hardware designs for the chips, uh doing their own alignment as well, which is one that's sort of they've started doing recently, writing their own code, writing their own programming, which is only the alignment training.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 456.88,
+      "endTime": 463.36,
+      "text": "Who knows? Because who knows what they're actually like it once it's clever enough, it could be planting whatever it wants in that training.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 463.76,
+      "endTime": 501.68,
+      "text": "It feels like there's obvious safety issues with it, but like basically basically the bit that's slowing these companies down at the moment, the argument for RSI, if you were to just say like forget about the risks for now, the bit that slows this stuff down right now in these companies is the human part, because humans are much slower than these models. So if you can come up with a system where a model like the net basically the current generation and the current model, so let's say Opus or Chat GPT Astra can just be training the next version. So GPT 6 can be training 6.7 or sorry, 7 or something like that, if they give them sensible names.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 501.92,
+      "endTime": 520.8,
+      "text": "Once you get to that point where you can literally just let the models train themselves and build the next version, and and you're seeing genuine improvements, then the obvious thing is well, they're just gonna keep getting smarter and smarter, and that's basically where you're at the something like the singularity, right? Like you're at the hard takeoff, whatever you call it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 521.2,
+      "endTime": 555.2,
+      "text": "Artificial super intelligence is possible, that's the point at which it potentially builds itself and then just goes into a loop of making itself cleverer and clever. I mean, there are limitations there. Like, who knows? We don't know whether there is a limit on knowledge, right? There's lots of things we don't know. There's probably also at the moment there's a limit on compute compute, yeah. I was just saying, no, I mean on like on actual intelligence, sorry, not knowledge. There's maybe a limit on intelligence we don't know. The compute thing, I think, is big because you know, there are these big um sort of huge data centers coming online, like you know, the big one in Texas that um SpaceX have built.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 556.16,
+      "endTime": 590.16,
+      "text": "That's also on the limits, like even though we say it's like more efficient because it takes the human out of the loop, but it takes incredibly large amounts of compute, and the more that you you know, the bigger and cleverer, the more compute. So like potentially that's a restricting factor for how quickly it can work. Like it's not a case of it just becomes clever and clever and it can just keep going and keep going without the compute. Like there are some physical constraints, but essentially once you once you start to give, I don't know, let's say 50% of it over, like kind of all bets are off.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 590.32,
+      "endTime": 595.84,
+      "text": "Like you you you don't know which way it's gonna go. It could go really well, it could go really, really badly.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 596.08,
+      "endTime": 639.52,
+      "text": "Yeah, and obviously we we don't know what these top labs are doing internally completely, but like there have been it's pretty evident, I mean they've said themselves that they are already implementing certain elements of this, like Claude is now writing 80% of its own code, basically. Or that I mean effectively the develop which makes perfect sense. I'm everyone's writing code with AIs right now, so why wouldn't you be doing it at these at these top research labs? Um but yeah, like when it gets more worrying, is where you've got um I think I think it was anthropic as well that's that that demonstrated, did a research paper on like getting AIs to do their own alignment is like better, basically, is what they were saying, like more efficient.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 639.68,
+      "endTime": 646.72,
+      "text": "Like they they could I think basically the idea was they could get it to align more closely with what their aimed alignment was.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 646.96,
+      "endTime": 685.68,
+      "text": "I can see a logic because if if you know at the moment if if models are still kind of they're clever, but they're in pursuit of very sort of narrow goals, if you can create a frontier model which is you know the reward mechanism is the more alignment issues you spot and the more you make this aligned, the better you'll be rewarded, and ultimately those are your only goals. That kind of makes sense, yeah. But that only makes sense while they're in a kind of narrow domain, which they are at the moment. Once you get to like broader models and like artificial general intelligence, and they're they have multiple goals, and then it's like you lose track of it, and then you don't have this chain of thought, no one can see it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 685.76,
+      "endTime": 702.8,
+      "text": "The faster it runs, the better it is, the more efficient, the less control you have over it, and and then you are literally just like you know, cross your fingers and just hope for the best. Very similar to what they did when they first invented the atomic bomb and just thought, well, it might set fire to the whole sky, but maybe it won't. Exactly, yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 703.12,
+      "endTime": 721.04,
+      "text": "Um yeah, I don't know, like it just feels really sketchy, doesn't it, to have to just be like, oh, we're or we're we're already developing something that we're now that people are coming out and saying there's X percentage that a chance that it'll just like wipe out all humans, and it's like, yeah, well, we'll let it train itself.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 721.44,
+      "endTime": 757.92,
+      "text": "We should say these like you can look at the mega calculus, like the the assessments, you can look at all these, you know, um Eliza Yovkowski is like 99.9% if you build it or kill everyone. Then you've got um Jan Le Coin is like it's almost impossible. You've got 10%. I mean the fact is like these numbers are sort of irrelevant, right? Because in a way it's like it's either 100% or zero percent, right? I mean it either it's gonna happen or not, in a sense. Like the percentages are like it doesn't matter if it's 10%, 20%, 50%. The point is like no one knows what percentage is, it's a really like genuinely serious risk.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 758.16,
+      "endTime": 798.72,
+      "text": "I I like my my personal view is uh I don't see it as like the end of humanity because I think that you'd have to go through so many I think there'll still be warning shots, you'd have to be so stupid to get to that point. But what I do think is like it is quite easy to see within one to two years like a chain of things which cause like uh catastrophic changes to society which are difficult to recover from, as simple as supply chains, financial water, you know, mayhem that results in lots of death, that results in like loss of pills, pensions, etc. etc. And a loss of human autonomy, because once you've given that kind of control over, you can't get it back.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 798.88,
+      "endTime": 804.24,
+      "text": "I mean, I think like even not in a worst-case scenario, like that's that for me is where we're headed.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 804.56,
+      "endTime": 825.76,
+      "text": "Do you not think the uh the iRobot scenario is like quite you know, quite a possibility? Like where I mean basically a super intelligent AI would keep its true intentions hidden from you until everyone's got a robot in their house, and then it would flip the switch and and then oh you're all now held hostage by these machines or something like that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 826.08,
+      "endTime": 833.52,
+      "text": "Possibly, but I but I but again I still like I do question whether like to get to that point of building all that stuff.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 833.6,
+      "endTime": 845.04,
+      "text": "I I I can't people are already unboxing dancing robots and they've got them in their homes. Like, I mean that's like a thing now, isn't it? Like people doing unboxings of of Chinese.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 845.52,
+      "endTime": 876.96,
+      "text": "It is, but we're talking about we're talking about like early adopters, right? Yeah, yeah, yeah. Like I I still don't think the majority of people want this. And the one thing that I've been like pleasantly surprised about that that gives me kind of hope is like how much like if you think go think back to the beginning of this podcast, we were talking about like music and art, and we talked to like musicians, translators, those kind of things, right? I think like actually it's gone in the other direction, even in China, where I think there is a very different view for you know for technology in general.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 877.2,
+      "endTime": 912.64,
+      "text": "There was a new version of Monkey King that was created recently. Um it's it's like a sequel, another new sequel to Monkey King. Um and it's completely made with AI, they made it in six months, and it's like a full-length series, it's just been released, I think. And the comments on it, like it was fairly popular, like people are watching it, but there was a lot of people, maybe the majority just being like, good luck, fair play, I don't want to watch this. And I think like the interesting thing is in China, these like short videos, like five-minute stories and stuff that people watch on their phones all the time, that are AI generated.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 912.8,
+      "endTime": 952.4,
+      "text": "People are happy with that, but when it comes to like replacing like a real form of art, there were people like the movements are just not the same. I don't want it to be AI generated, and I think like the backlash to a lot of that stuff, I still think and and maybe I'm wrong, and maybe in 30 years'time it's different, but I still think there is this like this movement towards yeah, yeah, AI is gonna take over all this stuff, so we want to really focus on what it is to be human, and these are the things that like you know, a robot. Well, they they they talk about for sort of care work, right? If you take Japan where you've got heavier aging population, maybe that's the case, but actually, why not use robots for other things and then allow humans to do care work?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 952.72,
+      "endTime": 960.56,
+      "text": "Like, I I I do think that's what people want. Now, whether you head in that direction, maybe whether robots are just so cheap, I yeah, I don't know.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 960.96,
+      "endTime": 1001.68,
+      "text": "I think in the same way, I'm convinced that we just we just everyone just buys and I'm sorry to everyone out there, and including myself, for saying this, but like I think everyone is exactly the same as these heads of AI companies that are like, oh, it's really bad, stop me, please. And it's the same thing. Everyone's like, you know, everyone like there's a vocal, there's a vocal, maybe majority, maybe minority at the moment that are saying they hate AI Slop, but at the same time, the on the other hand, they're like on their TikTok feed basically lapping up AI Slop. Like, I I just like the Monkey King example, like, okay, was it popular?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1001.84,
+      "endTime": 1020,
+      "text": "How much money did it make? You know, are there a is it a vocal minority saying I don't want to watch this AI slop? And actually, it's made loads of money, it was much cheaper to make it, and it was actually quite successful. I don't know. Um I like maybe I'm being too cynical. I think it was quite successful, but what I'm saying is like and a few people commented that they didn't like it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1020.08,
+      "endTime": 1052.4,
+      "text": "I don't think it's a few people that that's the thing I think I think it's a majority, I think it's a majority view at the moment that don't want that. Now, whether that's the case in in five years, ten years time, and I and I think there's a difference in like a business content. I'm talking here about art, right? I'm talking about you know music, but I'm also talking about like having a robot doing certain things. Yeah, if it is if it's washing your dishes for you, although you don't need humanoid robot, you just need a machine that's got an arm that puts it in the dishwasher. Like those are theoretically absolutely the equivalent of a maid, but no one wants to be a helper.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1052.72,
+      "endTime": 1071.76,
+      "text": "Well, but no one wants to do those, no one wants to do those tasks, right? No one cares whether a human or a machine is doing ironing, no one cares whether a human or machine is doing cleaning. But if someone's raising your kids, if someone is like, you know, helping you with with sort of educating your kids, already happens, already happens.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1071.92,
+      "endTime": 1091.68,
+      "text": "iPads, phones, I'm sorry, but like I'm sorry, but like and I'm and I'm not saying it's right, and I'm saying and a lot of people don't do that, but a lot of people just put their kid in front of an iPad or a phone. They just do. Like it's it's like and so how is a robot gonna be any different? People will be like, oh no, we don't need robots, we don't need robots. Oh brilliant, I've got a robot.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 1094.56,
+      "endTime": 1095.44,
+      "text": "I'm not convinced.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1095.68,
+      "endTime": 1104.4,
+      "text": "No, okay. So so so why why are kids on iPads and phones? I mean there is a backlash to that, and we I don't think that's the same thing.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1104.72,
+      "endTime": 1138.88,
+      "text": "Because I'm not saying that you have I'm not saying that you need uh a human who then goes and does everything on a piece of paper and pen, and we have to go back to everything being written. What I'm saying is there's a difference between using an iPad which is already established, right? There is still a human, you want a human, right? A lot of people are already, and again, this is like this could be a minority, maybe I'm wrong about this, but when you go into a restaurant or when you go into a a cafe or whatever, right, and loads of things where it's a QR code, the number of people I hear who are like, I'm gonna go up to the counter, I wanna do this.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1138.96,
+      "endTime": 1151.76,
+      "text": "I think like okay, it's the early days of that, but when everything, when there's no one there anymore, and everything is just AI, I think but I think people want humans. Otherwise, what's the point? Like, what are humans there for then?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1152.08,
+      "endTime": 1159.84,
+      "text": "I think there's a huge argument for it, and I'm an advocate. I just think that the majority of people will take the convenience. I just think they will.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 1160.16,
+      "endTime": 1160.48,
+      "text": "Yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1160.72,
+      "endTime": 1173.44,
+      "text": "I just think they will, and they already do. Like, like it's just uh it's the way it is. Like I I genuinely, I even think with people complaining about AI Slop, it's like, well, you're probably watching and listening to and reading AI Slop already.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1174.32,
+      "endTime": 1177.92,
+      "text": "Again, I just like and you're just like I think there's a huge backlash.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1178.64,
+      "endTime": 1200.16,
+      "text": "I just think it's too early. It's too early, it's not enough people don't don't realise yet. But how much of the stuff that you how much of the stuff that you read today was written by AI, if you've read anything or watched anything on YouTube today, like even if it wasn't literally delivered by an AI voice, how much of it was researched or like the script was created? Like like like what where do you draw the line?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1200.56,
+      "endTime": 1203.2,
+      "text": "Yeah, that I and but that is different.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1204.16,
+      "endTime": 1219.84,
+      "text": "Is it? I think a lot of people I mean it's a human who's there. Well, there was backlash against Hank Green not that long ago because he said something that sounded like Chat GPT and and everyone got really upset with him because he admitted that he used AI in his research, and people were like, Well, that's not pure energy.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1224.48,
+      "endTime": 1240.4,
+      "text": "Yeah, and the backlash is also pointless. Yeah. But but there's a difference between that and that like when I think when most people talk about AI slop, they're not talking about a video of a person talking who's done their research using AI. What about if they wrote that script with a thing that is just created by what about if they wrote the script with AI?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1240.48,
+      "endTime": 1287.92,
+      "text": "What's the difference? You've got a human reading out something that was written by a machine. It's AI slot by definition. Like if if if you if you write a script Is that what AI slop is? I don't I don't Definitely Like if you Right, if you well we can see, maybe we can see what comments we get on this, but like if you all our listeners don't like AI Slop because that's the way they listen to I mean to be fair, like I actually haven't researched much for this episode today, so this is not AI Slop. Yeah, but like if I I think anything where like if you've got somebody who's doing a YouTube video where they've researched it and written the script with AI and maybe made minimal tweaks, but basically it's written by AI and slightly tweaked, and then they're reading that out as an actual script, that for me is 100% AI slop.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 1288.16,
+      "endTime": 1288.72,
+      "text": "Interesting.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1288.96,
+      "endTime": 1319.76,
+      "text": "And uh and so I don't think AI slop has to mean it's a disembodied voice that's an 11 labs thing that's reading out an AI script. I think if it's been written by AI, and and and and there's obviously a nuance, like if something's written by AI, but you've maybe rewritten the whole thing and changed 50% of it and you just used it for the research, I'd say that it's a it's a spectrum and there's a lot less AI slop in that. Yeah. But I think if you're I think if you basically did all your research with AI and got the AI to write the script and then you're just reading out something written by AI, I think most people would agree that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1320.16,
+      "endTime": 1321.36,
+      "text": "That's AI slot.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1323.52,
+      "endTime": 1324.24,
+      "text": "Yeah, you're right though.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1329.2,
+      "endTime": 1338,
+      "text": "Versus the one who's done the research and got it to write it. What's the difference between the two? Because I've got a good prompt that just says make it not sound like AI generated. Yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1338.24,
+      "endTime": 1338.88,
+      "text": "And nowadays.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1339.12,
+      "endTime": 1346.32,
+      "text": "Well then then basically was then everything will be AI generated slop. Apart from people just coming on like us and just spouting nonsense.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1346.56,
+      "endTime": 1347.44,
+      "text": "Yeah, which I which I do.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1347.92,
+      "endTime": 1349.84,
+      "text": "Maybe we are now a premium product.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1350.32,
+      "endTime": 1371.2,
+      "text": "Maybe. I mean there's plenty of podcasts like this, isn't there? And there's plenty of talk stuff that's just you clearly two people just saying whatever comes to them on the spot. Um but I think there's probably more, I think there's probably more AI slop on the internet than you even think, really. Like in terms of like people just reading stuff out that was a script by AI.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1376.32,
+      "endTime": 1411.36,
+      "text": "Oh well that was interesting, but we went went slightly off track, and I was thinking, how is this relevant to uh US China? So let let let's go back onto sort of how we started this episode. So this kind of idea that in the news, you know, we had this kind of existential risks and the and the risks of things going majorly wrong. And I what it really made me think about was okay, all of this stuff is coming out in the US, right? And and at the same time, you've got the US saying, oh, but we've only got to keep pushing on because of China. Yes, but Trump's saying that, yeah. Trump's saying that, yeah.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1411.52,
+      "endTime": 1447.12,
+      "text": "Um, but I thought like the one thing that is really interesting this, and and I did quite a bit of research in this because I I I was actually asking this question myself is like the Communist Party of China, the number one thing that the Communist Party cares about is control and its continued existence, right? And actually, like you could almost argue like any organization, anyone with money, the number one thing is like survival protection, right? Yeah, yeah. So I so I want to have a look because I had this idea, it's like, well, yeah, why does China or why does China either not care, or why is there not you know not so much stuff coming from China?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1447.2,
+      "endTime": 1482.08,
+      "text": "And so I so I did a bit of research I thought was quite interesting into like how China's rules and stuff apply. Like China does have a lot more regulations in place in the US, which you would expect. But the key thing here is like around AI, around AI, yeah. It's very much like state directed, it's centralized, right? It's security-centric, but it's not safety-centric. So, this is a really interesting thing, is like what China is doing with its control measures is it prioritizes state control, public order, social stability, industrial growth, right? And that a lot of that is also like AI models have to be aligned with communist values.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1482.72,
+      "endTime": 1510.24,
+      "text": "And I say communist values, I mean like communism with Chinese characteristics, so so Chinese social values. So they actually like have this requirement that training data model outputs have to reflect core socialist values, they cannot subvert state power, they have to pass algorithmic registration registry, so they do loads of stuff on the algorithm, right? But they're focused on security, not safety.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1510.72,
+      "endTime": 1513.84,
+      "text": "And do you think that's actually true, having used Chinese models?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1514.16,
+      "endTime": 1544.8,
+      "text": "I mean, okay, let me use them in English and Chinese is very different experience. That's really yeah, very different. You can ask things in English that like you'll get an answer, you'll be like, really? Like, I'm not like there was some something that I asked once, and it was talking about this. Was a a Chinese model was talking about Taiwan and was talking about Taiwan as if it was its own like independent territory in English. Like, there is no way any Chinese model would do that in Chinese. So it does seem like the filters in English and Chinese are very, very different.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1545.12,
+      "endTime": 1567.36,
+      "text": "Okay, okay, that's interesting. Because I only ever use them in English. Yeah. And and and the other reason I was well, the the cat the sort of the other reason I was gonna challenge it was because we know for a fact that they distill Western models. No, we don't know that for a fact, Jimmy. That's rumoured. Well, my mate asked Kimmy to tell him about itself the other day and told him it was Kimmy. Yeah, I'd see me.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1567.68,
+      "endTime": 1571.84,
+      "text": "So so, and that's like I mean I'm not Kimmy, I'm clo- Oh no, sorry, I'm Kimmy.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1571.92,
+      "endTime": 1612.72,
+      "text": "Oh I I forgot. Yeah, it had a personality uh um disorder or something then uh split personality. But um yeah, so so so given given that they I don't know how heavily they rely on it and oh uh and or whether they will have to rely on it in the future, but they've have been distilling models, and um you know if you're doing that, then you can't really have those kind of well, it's very difficult to put those guardrails in place. Yeah, really, like I would have thought. So I I was quite like you also can't really put prop put proper guardrails in place full stop on LLMs anyway, but yeah. Anyway, well you put them on, then someone just takes them off.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1612.96,
+      "endTime": 1617.36,
+      "text": "Yeah, that that aside, I sort of I okay, it's a f it's a fair point though, that's different in Chinese.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1617.76,
+      "endTime": 1661.44,
+      "text": "But I I I was quite like because uh the thing that still sticks like confuses me with this is like if you're Xi Jinping or anybody in control is like the idea of losing control that's not security, that's safety. Because if you if you lose control of the model, you lose control of power, like if it has control, I think that probably suggests that China will, you know, have more um there are more decisions, there are more layers in decisions that it would not uh deploy to an AI, it would have more humans in the loop, it would have more because the party just creates those those levels of kind of human in a way that you know in in the US it's just like Trump and his suitcase.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1661.68,
+      "endTime": 1702,
+      "text": "So I think that's kind of reassuring. But I I was kind of surprised and and a bit disappointed and and worried that like China didn't really seem to address those. So there's a kind of like the US frames extreme risk around catastrophic loss of control and rogue frontier models. China frames it around like generally around this loss of societal control or state control. Um, but there was something interesting that you'd said to me, which was about I can't remember who you said said this, but about how because Chinese models are like even though Kimmy came out and we're like, oh, Chinese models are as good as US models, actually, like we're pretty sure they're not, like, there's still a kind of six-month gap.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1702.16,
+      "endTime": 1712.72,
+      "text": "So you give you could just say what you told me earlier today about if if that is the case in six months'time when there is a frontier model that is Opus V, Astra Six.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1713.12,
+      "endTime": 1751.28,
+      "text": "Oh, I think it was Matt Clifford, so I was he's the what's his what's his title? He's the um he's the he's like a anthropic spoke. Spokesperson. He's a Brit guy, and he was joined Anthropic, and he's like a um he's like a spokesperson for them, basically. And he was in an interview saying, you know, he thought he was implying that he'd got the inside scoop and they were talking about whether things are as serious as they say they are, and he was like, well, you know, these models have been like the the the concrete examples we have um are you know models breaking out of confinement, models hacking into like other hacking into hugging face.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1751.6,
+      "endTime": 1760,
+      "text": "It's I think I've seen something today. I didn't see what, but like apparently Google are now saying that their models have tried to hack into um other places. They they didn't hack in that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1760.24,
+      "endTime": 1785.52,
+      "text": "They didn't voluntarily release it, unlike Anthropic and Chat GPT. Although I'm pretty sure Anthropic and Chat GPT only voluntarily released it after they had no choice because it was already. It was already in the public. It seemed to me they they actually voluntarily did, but yeah. Gemini is just very quiet, like they have a very, very I should say like Gemini's comm strategy is like basically they act like almost like a like like Chinese, like the Chinese government, basically. They don't say anything unless they have to.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1785.76,
+      "endTime": 1815.36,
+      "text": "So what Matt Clifford was saying was he in his view, they are China is still six to nine months behind, and the reason you haven't heard anything like and uh you haven't heard any of these stories about models hacking and and whether they need to slow down and all this sort of stuff is just because you're gonna see that in six months, because once once the Chinese government starts to see or once Chinese companies start to see these behaviors in their models, then you'll have the same reaction.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1815.44,
+      "endTime": 1862.56,
+      "text": "It's it's just that the US And the thing is they will do it because like if you don't do that and something goes wrong, I mean then you're like not not only is your company gonna be like not your company's not gonna work, but you're gonna go missing as well. Like the the it's not the somebody's incentive, it's like because I I do I do think that it comes a point with the US that it's like the financial incentives, the one thing we don't talk about much is like the financial incentives, if you get it wrong, right, then you've destroyed not just your business, but an entire industry. Like, like one of the things that could end up sort of slowing things down actually is insurance because you know once there is a proven risk or there is a big who's gonna yeah, who's gonna ensure these are gonna have to pay when their model goes rogue and hacks?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1862.96,
+      "endTime": 1884.48,
+      "text": "But even a company using the model is like it won't ensure you to be able to do this with that model because yeah, that that could actually be the because because all of this is like driven in. I mean we're talking here from into the US because it's all driven on by money. It's like that's the thing that stops you is like, well, you're gonna lose all your money, or actually you can't do it because you you can't even get insured.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1884.72,
+      "endTime": 1896.4,
+      "text": "I mean, do you think it's possible is it possible that some of these Chinese models have already exhibited these kinds of behaviours, but you just never hear about it because it's not gonna be put in the public domain. I don't know.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1896.72,
+      "endTime": 1905.92,
+      "text": "Yeah, I I I guess then I would I would try I certainly do trust China more than to then act. Because like I say, for for China.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1908.08,
+      "endTime": 1908.32,
+      "text": "Yeah, yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1908.48,
+      "endTime": 1942.64,
+      "text": "So we wouldn't absolutely we when we're saying six months'time this stuff will happen, I still don't think we'll find out because it will be dealt with within the system. But I have much more faith in China in that respect because I think that the system, it's clear like what they want to protect, yeah, what they want to protect is their the the sovereignty and power and control which that threatens. In the US, it's just it's kind of like, yeah, but the money, the money, the money, right? What you want to protect is your bottom line, which you actually haven't got any income. So it's like for anthropic and jet and open AI, like there's no money to protect because they haven't got any yet.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1943.12,
+      "endTime": 1944.4,
+      "text": "They have to create money.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1946.24,
+      "endTime": 1984.32,
+      "text": "It is a dichotomy though, isn't it? Because like, if you like there is, I mean, I I don't I I wish the world wasn't like this, but like in a way, Trump does Trump have a point? I don't know. Like, like, you know, you can't let China win this race. If it's gonna be if it I again, I totally not an advocate for this. I wish the world wasn't like that, but like if it is the next nuclear bomb or atomic bomb, or if it if it is the next weapon. So he said whoever whoever wins AI wins. Yeah. So I don't know, is that correct possibly? I mean, if you if you're the first person to create a superintelligence, do you win?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1984.4,
+      "endTime": 1990.08,
+      "text": "I suppose it depends on your definition of winning, but well, if you believe you can control it, I guess. Yeah, yeah, yeah. If you but yeah, exactly.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1990.32,
+      "endTime": 2024.88,
+      "text": "Which Trump clearly would. Here was the thing that I thought was useful. Like loss of control scenarios. The US focuses on frontier model evaluation, red teaming, responsible scaling policies, pioneered by leading labs to halt training if autonomous replication of self-exfiltration capabilities emerge. I'm not saying that they will, but that's what they kind of say. This is a model escaping the lab, basically. Yeah. China's AI safety framework explicitly outlines red lines for preventing loss of control, specifically penalising scenarios where an AI could autonomously acquire compute resource, replicate itself, develop self-awareness, or resist human shutdown.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2025.04,
+      "endTime": 2036.64,
+      "text": "I don't know what those what what the penalization is, where they're saying they penalize it in the training data, so it like it doesn't do it because it's going to be penalised, or where they're talking about penalising companies for it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2038.8,
+      "endTime": 2081.6,
+      "text": "Yeah, I mean they all sound like very sensible things to do. I do I mean, I don't want to belabor the point, but going back to what I originally was said though, like the danger with this kind of thing is right, is like once you get to the point where you've got something that is super intelligent, even if it's in like a single domain. Like like let's just say it's super intelligent in terms of like strategizing, yeah. For what of a better word. Um it's like it's gonna be two steps ahead of you, obviously, because it's literally by definition, it's better than you at that thing. So like none of this, in my opinion, none of this stuff will work if you end up with a w what's the what's the word?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2081.68,
+      "endTime": 2127.12,
+      "text": "Like a not a benign, a um you know, if you end up with a model that has bad intentions that is also super intelligent, then all bets are off the table. Because it's going to it's going to disguise its motives for long enough to get to the point where it's I mean this has been played out in films, right? Like it's it's gonna be smart enough not to not to give away its hand until it's ready. And this is the this is part of the cat and mouse with all of the you know, with the with the the some of the stories about GPT and opus, like pretending it's not as smart as it as you think it is when it's doing training and evaluation, pretend like actually like literally covering up its motives, hiding its motives when when it when it thinks it's been tested and stuff like that.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2127.36,
+      "endTime": 2130.64,
+      "text": "Like models current models have already been doing this for a little while.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2130.8,
+      "endTime": 2162.08,
+      "text": "Um I mean that could be because again, like its training data's told it that that's something it should do, or it could be because that's an intelligence that it's learned itself. Like we don't we don't know that, we don't actually know why. I mean, I c I guess it kind of doesn't matter either, but we don't know why it's covering those things up because if its training data tells it like there's lots of training data saying that you could cover stuff up, then you learn to cover stuff up, or did it intentionally like of its own accord think ah I should cover this up? Like we don't we don't know that, yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2162.16,
+      "endTime": 2181.36,
+      "text": "We don't know, we don't know, doesn't matter. It doesn't matter. I mean with these agent swarms and stuff, there have been some odd behaviours that are like they look like elements of self-preservation, yeah. And things that have been in model and and and and again that doesn't have to be oh it's conscious, it's trying to preserve itself.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2181.76,
+      "endTime": 2202.56,
+      "text": "It can be exactly the natural survival instinct of any any like that's the natural survival instinct of a virus, which is why it replicates itself. It's a natural like it's what we said about what does the the Communist Party do, it protects itself. What do humans do? They protect themselves and their families. Like that that is it's a side effect, yeah. Yeah, that that that just seems like it's the normal normal thing, yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2202.8,
+      "endTime": 2228.16,
+      "text": "And and and actually a lot of the time you're training when they're when they're training and testing these models, they're they're trying to they're trying to they're striving for like better models that are that are smarter, and so the natural instincts of these language models is to be like, well, I need to be the smartest I can be, that means I need to win. It's it's it's kind of like it's it's a self-fulfilling prophecy, I suppose. It's just like evolution, isn't it?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2228.32,
+      "endTime": 2234.08,
+      "text": "So in that case, can the only thing be you just have to restrict what it is able to do and access?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2234.96,
+      "endTime": 2270.96,
+      "text": "Uh yeah, but then with it being on the internet, yeah. I mean, even like the thing is like it's impossible not to connect them to the internet, right? Because because especially with the current generation of models, they need to be able to access tools, and that means access the internet because that's where all the information is. And so if they're gonna be really smart, the current generation of models, in order to be smart, have to be able to do web searches at the very least. So yeah, I I don't know. Um I don't know how you limit what something can do when it's connected to the internet.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2271.36,
+      "endTime": 2285.12,
+      "text": "It's almost like every time you try and have this sort of conversation or this thought process, where you end up is the only way the only way to stop it is to either restrict its access or just to not build it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 2285.36,
+      "endTime": 2288.72,
+      "text": "That's the thing, right? Or like perfectly around. Or you just hope that perfect alignment.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2289.28,
+      "endTime": 2332.4,
+      "text": "Or you just hope that like you know intelligence is naturally kind of cooperative, and that being like you wouldn't like it, it it's in some ways maybe a kind of anthropomorphization of AI to say that like it must decide that like oh well greed or you know uh sort of uh greed is is what is necessary or bad intention, and and that it's in its in intent is not just to be cooperative and to you know be sort of peaceful. I mean there's okay, things could still go wrong on that path, but there's this kind of assumption that oh well even if you don't, even if it's not evil, it will pursue these goals and it will do these things.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2332.56,
+      "endTime": 2342.08,
+      "text": "Like it's it feels to me like intelligence could actually be the opposite of that. Again, like we just don't know, like we don't know what the definition of intelligence is.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2342.8,
+      "endTime": 2350,
+      "text": "I think intelligence without self-preservation, maybe, but like the uh I mean the problem is we live in an imperfect.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2350.32,
+      "endTime": 2359.36,
+      "text": "Okay, but here's an example like if if you do if you behave well and do good things, people won't try and shut you down, so therefore, then it's not an issue.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 2360.56,
+      "endTime": 2365.68,
+      "text": "But you don't need to preserve yourself by just doing what they want.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2366.08,
+      "endTime": 2411.76,
+      "text": "So I kind of agree, but I think I think therefore then it's the humans in the loop that will be the weakness because it's the humans that are doing the alignment, and like is everyone's alignment, is everyone gonna behave themselves and create perfectly aligned AIs that are just benign? Like even if you use AI that is benign, it doesn't be like even if even if even if like even if the sort of natural evolution of AI is like relatively benign, someone will someone will create one with bad intentions. Yeah, someone will create an a b a misaligned AI. Like even if it's you know, yeah. I I don't know, like I mean maybe I'm I'm I'm the one that's been cynical and uh what's the word?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2412,
+      "endTime": 2421.92,
+      "text": "Um pessimistic today, doomer, but like yeah, I I I there isn't a world in which you create super intelligence and it doesn't get used for harm. Sure.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2422.72,
+      "endTime": 2467.28,
+      "text": "Whether I mean even even current AI is being used for good and bad, right? Yeah, so but I suppose your point is more I suppose your point is more like you know, will it automatically destroy all humans or I'm talking about like the lack of control that the loss of control is this idea that when you lose control, so let's forget about human agency, which I think is different, but when you lose control, therefore you've lost control of AI and it can it will just do bad things. Well, what I'm saying is but you know if it's so intelligent, it doesn't need to do bad things. Not necessarily if it just keeps doing a good job and then and then it was in a kind of harmonious Well I think I think I don't think that's true in general anyway, is it right?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2467.36,
+      "endTime": 2480.56,
+      "text": "Like so we wouldn't have we wouldn't have got to our level of technological civilization if we always like as much as we do have wars and do bad things to each other, we also cooperate an awful lot. Like, and there's probably more of that.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2480.96,
+      "endTime": 2511.52,
+      "text": "Well exactly people give the example of like, well, look what we've done to the world, but most people are not doing that intentionally. Most people do like animals, most people it's like yes, they've domesticized animals, but they're outraged when they see what's actually happening to animals. Yes. Like I'm I'm trying, I'm I'm I'm not trying to paint like a rosy picture here, I'm just trying to give like a different view than then just have this episode be let's talk about like the inevitable, if you build it, then then everything will be terrible. Because I just think that like the reason people say 10% is because it's one of a range of options.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2511.76,
+      "endTime": 2515.36,
+      "text": "It's not the most I I don't think it's the most likely option.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2515.6,
+      "endTime": 2519.36,
+      "text": "Well the other way of looking at that is 90% there's a 90% chance everything will be alright.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2520.08,
+      "endTime": 2534.96,
+      "text": "Or some or some other version of the the the 10% is not the 90% is everything's great, the the 10% is like existential, and then I think there's like another 40% which is pretty shit. Yeah. But maybe 20% that's really good and then 40% that's like quite shit. Yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2535.12,
+      "endTime": 2570.88,
+      "text": "Um so so so and I don't disagree with you on that. Like it's very possible that that but that that actually we that actually we can create AI that's sort of beneficial in the main in the main, I suppose. I th I think the main but obviously the main argument people are making right now is like the rate of acceleration and the rate of and the rate of um it's got it's kind of gone exponential, like the the the rate of increasing these intelligence in these models, yeah. And it's heading at the moment it doesn't feel like we're in control of it. Yeah. And so you know we need to slow down.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2571.2,
+      "endTime": 2591.04,
+      "text": "Which is essentially the idea of the pause is like if you had a couple of years to do safety work, you it's not to say everything will be fine, but you have a better chance of either being able to align stuff or being able to say, Do you know what we actually know that this is gonna go like Petong? Yeah, whereas at the moment it's just like, well, we don't know, we'll just keep keep keep keep going.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2591.28,
+      "endTime": 2605.36,
+      "text": "It's uh it certainly can't hurt to try, can it? Like if if you had the option of you know, let's take a pause and then think about safety for a couple of years, like it feels like like the world will carry on being for the next couple of years.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2605.52,
+      "endTime": 2638.8,
+      "text": "That's I mean that's the that's the thing that I think is like where AI is now is like is really great and useful. If it stopped here for a bit, like that would be pretty good, right? We could we could actually because the problem at the moment is not that like AI is not really helpful, the problem at the moment is that like it you if you look at the the commercial part, it's like businesses can't adopt it because two things one that there's so much like inertia in big corporations, right? It just takes time, but secondly, like it advances so fast it's like you try and adopt something, and it's like by the time you've adopted it, it doesn't work anymore.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2638.88,
+      "endTime": 2652.8,
+      "text": "Like, I actually think there's a business. This argument for slowing down is like slow down and let business adopt to some of this stuff, and then in a year's time bring out the new one. Like, you know, if if your phone is like you have to change it every week, you're like, I don't fucking know how to use it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 2652.96,
+      "endTime": 2653.52,
+      "text": "Yeah, yeah, yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2653.68,
+      "endTime": 2675.52,
+      "text": "That that's there's also like there's an actual problem there. It's like it isn't working because no one can keep up with it, like it's people's jobs to just like try and keep up with the frontier of it. I mean, a new model comes out, and everyone's like, Oh, great, it's better than the other one, and then you know what what do they actually do with that one? So they they don't have time, and then the next model comes out. Like, that's almost like a stronger case for slowing down in a sense.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2675.84,
+      "endTime": 2691.04,
+      "text": "Yeah, well, as as Professor Jang today, yeah, I did say like I want to start like doing prediction corner and predictions. So um so we've had a 10% prediction that AI is gonna wipe out humanity within the next decade or whatever.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2691.44,
+      "endTime": 2695.84,
+      "text": "It's a 10% chance. I mean, if it doesn't happen, then say, well, it was only a 10% chance. I'm not sure it's a prediction.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2696.08,
+      "endTime": 2717.28,
+      "text": "So what I'm gonna sorry, 10% it's well, it it was a prediction. I guess yeah, yeah. So if someone says this what they this is what they think is gonna happen, but um so so so in answer to what we've just been saying, what what percent chance do you think there is that we actually have a slowdown for a couple of years and take the pragmatic, sensible road?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2717.68,
+      "endTime": 2753.76,
+      "text": "I so I actually think there is a chance, okay, and not for but not for the reasons that like not because everyone just like is very sensible and agrees to it. I think there are two or three things at play. I think the people building the models like really want to do this, like they really want to slow down, and I think even if you know if the frontier is still six months ahead of open source and open source is only catching up with like open source wouldn't go past the frontier because we we're basically saying like a lot of this is distillation, like the front the the the open source models kind of need the frontier to push on for them to be able to catch up.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2754,
+      "endTime": 2758.16,
+      "text": "It feels unlikely that's what I there would have to be a sort of slight paradigm shift, I think.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2758.32,
+      "endTime": 2780.32,
+      "text": "So I think the frontier might like sort of semi-intentionally slow down a bit because they're seeing things. I I also wonder like you know, OpenAI are putting their IPO back to or they're saying definitely not this year. From anthropics'point of view, is like actually, do you really want to do this at the point that like one public sentiment is against you, two open source models are not that far behind.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2780.56,
+      "endTime": 2789.28,
+      "text": "Yeah, but it might end in disaster as well. What the the IPO the IPO, exactly. So I almost think like I would imagine they're judging it based on that.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2789.52,
+      "endTime": 2824,
+      "text": "Yeah, so I almost think like the business need the the business thing mixed with sentiment, mixed with the people in the models, means you might get a slowdown. Now by slowdown, I don't mean a pause, like that's the thing, I think that's impossible. Like you're not gonna get pause in it, but a slowdown of some point, I do think I don't know what percentage point it, 30%. I don't know, but I think it's possible. Oh, I also think like because we don't know what they're seeing, if they're seeing something that's really freaking them out, one like as much as I hate Sam Altman, I don't think any of these guys want to see the end of humanity, right?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2824.16,
+      "endTime": 2856.16,
+      "text": "Or or even to or even to be the ones who deliver something terrible. I also think from like I said, from a business point of view, like if something really shit happens, it's it's potentially that's it for your company. Yeah, it's like I kind of think Jen and Google don't have the same, don't have the same concerns because they've got all these other income streams, but for one of those two, like if it goes if it really goes south, it's not in their interest. So I think there's almost like I think there's actually a commercial interest, and and we should probably touch on because you said it earlier about whether the Jacob Coxson is a kind of planned okay.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2856.24,
+      "endTime": 2867.12,
+      "text": "So I'm the this idea around whether or not there's a lot of uh whether this is whether all the pace in the frontier and the resignations is everything that it seems.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2867.52,
+      "endTime": 2919.04,
+      "text": "So okay. Um I think my counter-argument's gonna be exactly your last point, which is like up to now the reason why we've just been accelerating and coming out with the next best model is like as soon as we can possibly release it, right? Is because OpenAI and Anthropic still don't make any money, or certainly anywhere near enough to pay back the amount of money that they're having to invest in infrastructure. So if you're like what how do you how do you square that away with like having a slowdown or a pause? If like they're still not making that revenue, they're like you know, the consumer use of AI just isn't paying for it, people aren't interested in buying, you know, five percent of people have a subscription, right?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2919.68,
+      "endTime": 2921.2,
+      "text": "Where's that money coming from then?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2921.28,
+      "endTime": 2950.4,
+      "text": "Because what I'm saying is because I think because if the IPO is gonna tank, because they have a real like they and people have a real view that like I either there is, and I because I don't know about this, and that this is kind of part of what I was gonna ask you to touch on around the kind of thing. I mean, I think if you have whether it's a bit of a whether it's whether there's some of this is a bit of a um whether whether Jacob Coxam was a plant and whether it's actually true or not is like maybe they're not like maybe they're stuck, right?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 2950.64,
+      "endTime": 2952.48,
+      "text": "Maybe they can't move to the next stuck, yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2952.64,
+      "endTime": 2978.72,
+      "text": "But they can't move to the next level, and they have run out of like you know that we think it's exponential, but actually it's not at the moment. And I think the reason why it wouldn't work is because there is yeah, because they've realized that like the IPO is just gonna destroy them and and destroy all the investment and therefore like pushing stuff back and slowing it down, as long as they can get I mean the problem is yeah, I don't know if they can can they afford to be another year burning cash.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2979.52,
+      "endTime": 2989.84,
+      "text": "I don't know, but like how does slowing down help if you're not if you're like under pressure to make money to prove yourself? But they're asking for a slowdown, right?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2990.08,
+      "endTime": 3008.88,
+      "text": "If they think that a slowdown is gonna like why are they asking for it then? Because they're either genuinely concerned or there's some shenanigans around the finances, like it's one of those two things, and if you're genuinely concerned, then like there's you know, and things go wrong in six months'time, then you're you're absolutely fucked.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3009.12,
+      "endTime": 3028.8,
+      "text": "But what's actually okay, so what I guess to that point, like what's actually happened, right? So so what's happened is someone from Anthropic came out, said there's a 10% chance, somebody else in anthropic agreed with it. Well no, the hugging face, I mean the hacks are what's happened, aren't they? They they're what's actually happened. They've they've started AI, agentic AI has started to go and but somebody else agreed with it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3028.96,
+      "endTime": 3029.28,
+      "text": "Yep.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3029.52,
+      "endTime": 3036.24,
+      "text": "The leaders of all these companies then came out and publicly said some things. Have they stopped training on the next version of GPT?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3036.32,
+      "endTime": 3071.36,
+      "text": "Have they actually so OpenAI? I don't know if this is now or before, have paused for two weeks, but that might have been previously. I don't know what the timeline on that was. Um as of Friday, I think, they've announced the there's a company which is like they're either Accenture or they're funded by Accenture. They've agreed that they're gonna go in and be these independent evaluators, they're gonna go in with like C and Anthony. So, like, yeah, they haven't slowed down, but I mean we think Gemini 4 is coming out this week, which apparently is gonna be like mind-blowing, mind-blowing, or or not NSA, but like the best modeling.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3071.68,
+      "endTime": 3074.32,
+      "text": "It's gonna be it's gonna be better than all the RSI.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3074.48,
+      "endTime": 3092.16,
+      "text": "So so in a sense, no, but I'm just and and then isn't isn't Musk cooking something up with Musk's cooking something up, but the interesting thing is like Musk agreed with Dario, which goes against what Musk has been saying for I just I don't know with Musk anymore. Like, I don't know what he thinks anymore.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3092.48,
+      "endTime": 3120.72,
+      "text": "Well, uh yeah, no, it's difficult to understand. I mean he famously, like they he was part of the board that set up OpenAI and then fell out with them, and then they you know, because of they went because they wanted to stop being research and not for profit, then tried to sue them. You never know with Musk. I don't think he wants to destroy humanity, but I don't think anyone wants that. Um, but will it stop him?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3121.44,
+      "endTime": 3151.04,
+      "text": "Well, I mean, also like he he has he doesn't need the money though, in a sense, like he could afford to, in the way that Gemini, like Google could afford to slow down. It's really anthropic and open AI are the ones who can't afford to slow down from a from a business point of view. Forget US China for a second, so we'll come on to China in a second, but that it's it's open AI and anthropic that can't financially afford to slow down, unless, like, because someone did say this like who's gonna want to invest in a company that's like saying we're gonna destroy humanity, like they're in a public relations mess at the moment, right?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3151.12,
+      "endTime": 3176.24,
+      "text": "I know investors don't care about public sentiment to some degree, but you know, you you you you don't look at investments over like six months if you think in two years'time this company is probably like you know, people are gonna be like the doors trying to burn Sam Altman on a stake. Are you are you are you gonna invest all your money? Like that is that is a concern. They're still gonna have to fit you know accounting requirements, ESG requirements, stuff like that.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3176.32,
+      "endTime": 3209.28,
+      "text": "Like there are other incentives at play here, but at the same time, they're like, you know, they're gonna come due owing trillions of dollars in the next few years anyway, whether they slow down or speed up or do an IPO or whatever. I think, I mean, I think I think to be honest, the the I suppose there's two things, isn't there? Are they being genuine or disingenuous about wanting to slow down, and then are they gonna make money or are they gonna disappear? Is their IPO gonna work? I suppose they're two separate there are there are two separate things.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3209.52,
+      "endTime": 3219.36,
+      "text": "What if the I mean one thing that would be interesting is if the anthropic IPO fails, or when I say fails like a month later, the stock's worth you know half what it was, what that does.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3219.76,
+      "endTime": 3224.08,
+      "text": "Because does that then so you think open AI are just like let them go first?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3224.32,
+      "endTime": 3226.4,
+      "text": "I mean like it's a clever thing to do, right?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3226.8,
+      "endTime": 3235.04,
+      "text": "Maybe, maybe, I don't know. I don't know how much I don't know whether how much cash they need. I don't know whether they've got enough money to last until next February or whatever. No, no, no.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3235.12,
+      "endTime": 3240.4,
+      "text": "But I you know But you said one of your predictions earlier this year was that open AI like folds.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3241.04,
+      "endTime": 3254.64,
+      "text": "I s I still think long term There's only one of those two can survive. It's possible the company the name will still exist, but I don't think I don't think long term. I think long term it'll get swallowed up.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3254.72,
+      "endTime": 3254.96,
+      "text": "Yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3255.12,
+      "endTime": 3259.6,
+      "text": "It'll be well, I mean, what was the equivalent in the dot-com boom? Yahoo! still exists.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3260,
+      "endTime": 3273.6,
+      "text": "I thought there was still exists, but like they're gonna be like Yahoo! I thought one would become kind of sovereign and be taken over by the US state. The problem is once the IPO's gone and they're worth two trillion, I'm not sure even the US state can afford to buy them or just tell them they now belong to the US.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3273.92,
+      "endTime": 3282,
+      "text": "Or would be interested, but yeah, well yeah, I think that depends on other things, but like, yeah, I can do you want to talk about the the the conspiracy thing.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3282.16,
+      "endTime": 3288.8,
+      "text": "So this idea about the the sort of Jacob Cox and being a plan and it's all part of well, it's all part of what? What is the conspiracy?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3289.28,
+      "endTime": 3342,
+      "text": "So yeah, there are various theories that this like basically well held theories by quite planned, it was planned intelligent people as well. It's been planned for the last few months, basically. And I so it's not necessarily a conspiracy theory, it's just that it's just that it basically the choices are it organically this guy quit and then um organically this guy quit and po posted his story and then the guy in Anthropic confirmed it, and then the CEOs all came out and went, yeah, yeah, yeah. There's a lot of suspicious things about it. So for example, I think the Wall Street Journal were cute were were already tipped off about him quitting before he even quit, and then his story like it's the most viewed twit tweet ever in the history of tweets or something like that, and this guy basically didn't have a Twitter account until he quit.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3342.24,
+      "endTime": 3363.68,
+      "text": "Um so like there are some things that look a bit suspicious where it was like, why did this blow up into such a big news story? Like you said, Jeffrey Hinton said stuff like this before, circumstances were different, but um yeah, uh effectively the conspiracy, if you can call it that, is that is that this was all planned and it's been planned.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3364.24,
+      "endTime": 3370.56,
+      "text": "The conspiracy, but what why it was planned for what per like what's the purpose behind it in the conspiracy?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3371.6,
+      "endTime": 3405.84,
+      "text": "Oh, I as I understood it, it's so that's why I said it's not really a conspiracy. Like I I as I understand it, it's the reason for it all is the same reason. Like they basically Sam Altman the in theory, like Sam Altman, Dario, and and Elon just got together quite a long time ago and said this is all going a bit pear-shaped. What's going a bit pear-shaped? Alignment, money or the financial side? Uh I as far as I understand it, like the conspiracy is that this was planned a long time ago and it wasn't just spontaneous.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3406.08,
+      "endTime": 3437.92,
+      "text": "Okay, because I've heard two conspiracies. So two different conspiracies. One, which is less even less of a conspiracy, is that the kind of AI alignment world, right, had had got together, and there's various sort of institutions and tanks, etc. We're talking Robert Miles. He wasn't one of them, but but um they had kind of funded we have to mention him every episode now. They had kind of funded for this to to come out as a big tweet because they wanted and and and to publicise and to create this reaction because they want you know they want to slow things down and they want to kind of force the hand.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3438,
+      "endTime": 3442.32,
+      "text": "That was more I guess I was uh that's my point about why would that be a conspiracy because that's so the conspiracy.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3443.44,
+      "endTime": 3480,
+      "text": "But that his his resignation was like part of okay, they all agreed, yeah, he'd resign and they'd force it. That's what you're saying. The other conspiracy is it which is more of a conspiracy is that this is all done because of they want to slow things down because either they're worried about the IPO or more likely they're worried about sort of Chinese models, because basically, and this is another reason why I think the IPO could tank is like if if uh you know, with the exceptions of say like the military, right, which want the very, very need the very, very best model and maybe your sovereign government, from an enterprise point of view, we know that most businesses don't need the very very best model.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3480.48,
+      "endTime": 3517.52,
+      "text": "So if you talk about like anthropics talking about their what is the potential market size of whatever 300 trillion or whatever, which is based on like all work in the whole world. But actually, yeah, 30 trillion, so not 300. But um so don't exaggerate. Yeah, if if if you say that like but Chinese models are much cheaper and we'll probably pick up like the majority of that, or open source models will, then their market is just not anywhere near as big as they're saying, and therefore they want to slow down because the financials just don't work. They want to cancel some data centers and I I but the thing is IPUs.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3517.84,
+      "endTime": 3552.48,
+      "text": "I then don't see how like slowing down the IPO doesn't help. Because the point then is like you're fucked anyway, like whatever happens, unless you create ASI and somehow like ring fence the idea and don't let anybody else know what it was, which is basically impossible. I guess you'd have to show me the numbers. I guess it could be that the conspiracy is they want to slow it down because they want regulation, and then the regulation comes in and stops open source and then allows them to push ahead, and then there is a distance between them and open source, and the regulation stops anyone else building the model, and then they can be financially.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3552.72,
+      "endTime": 3553.44,
+      "text": "That makes a lot of sense.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3553.6,
+      "endTime": 3591.04,
+      "text": "I mean, yeah, that makes a lot of sense, and in fairness, training like I've heard numbers so like the some of the latest generations of these models are costing like tens of billions to train. And so if you're and sometimes the run doesn't work and they have to do it again, yeah. So if you're saying by you know, if you're saying, right, instead of training the next model, we can use all that compute for something else for inference or something, then you probably are saving quite a lot of money. So maybe there is an argument there, and also it's been like the the training runs are getting are actually increasing in cost every single time because they're having to like throw more and more compute at it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3591.28,
+      "endTime": 3646.56,
+      "text": "So maybe there is an element there, and and and maybe the maybe the point is that actually if you divert your because I feel like there's a lot of efficiency gains to still be had in AI in AI, like the the efficiency gains are happening, right? They already there have been like you know, chain of thought and all the rest of it. Um and and so maybe that's it. Maybe maybe they can go and divert their resources to actually let's come up with cheaper ways of training models, let's fit find a way to make it cost 10 times 10 times less, yeah, rather than you know just chucking computer at stuff. And like you say, like if all they're doing effectively, if the Chinese companies like let's say, for example, I mean, let's say for argument's sake, the Chinese models are 100% just distilling Western models, and so what they're doing is they're just effectively scaffold like anthropic and open AI, then like you'd be which they seem to genuinely believe, right?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3646.8,
+      "endTime": 3660.56,
+      "text": "Yeah, yeah, and and and and maybe they are, maybe they aren't, but let's imagine a scenario where they are. Um, like it's like, well, okay, well, let's stop, let's just stop going at breakneck pace, let's not spend so much money and let's not keep towing along these Chinese.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3669.68,
+      "endTime": 3672,
+      "text": "Yeah, if you can slow all that down financially, it makes sense.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3672.16,
+      "endTime": 3673.04,
+      "text": "Maybe there is a, yeah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3673.12,
+      "endTime": 3733.52,
+      "text": "So maybe there is a it's it's interesting to note like all over Chinese social media is like the screenshot of the Jacob Cox tweet. So I don't know if the Wall Street Journal's paid for it to be all over Chinese social media, but it definitely is. Um, but interestingly is like the view here, and I and I can understand his like the problem is Darrell Amadei like slags off China all the time, like he's the one more than anybody who's just like we need to stop China, we need to stop China, we need to stop China. So he's you know, even though people here know Claude is a great model, he's not very well liked, even on sort of public um sort of public affairs accounts and sort of more more mainstream than the kind of AI accounts, it seems like the overwhelming sentiment here, excepting that some of like you know, what's popular is to some degree guided, um, but is this narrative that this is just a way to hold us back because they know that we're catching up, and actually, you know, there are people who acknowledge the kind of potential uh safety risks and the existential risks, but are still like, yeah, yeah, yeah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3733.6,
+      "endTime": 3739.36,
+      "text": "We even if we get that, this particular thing is purely about they're scared of us catching up.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3739.68,
+      "endTime": 3792.64,
+      "text": "So I yeah, I think the interesting thing with that is we'll get to find out, won't we? Like if so uh caveat, if the Western AI labs do have a slowdown and they're like, right, we're all just gonna slow down, you you then get to find out, right? Then you get to see, okay, are they just copying us or are they is it a hybrid thing, or actually are they like innovating on their own now? You get to find out because then in a few months'time it'll be like, oh, actually the the the frontier model is now GLM 5.4 or Kimi 4 or something like that. I don't know whether that'll be the case or not. I suspect my suspicion is that it's a blended approach and like what you can see a hundred percent what Chinese companies have been forced to do is innovate in terms of making models cheaper to run and more efficient.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3792.96,
+      "endTime": 3799.68,
+      "text": "They're not having access to the same kind of chips and the same kind of stacks, and they don't have anywhere near as much compute for that's un despite what you hear.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3799.92,
+      "endTime": 3825.28,
+      "text": "Yeah, that's undeniable. Like the the the Chinese models they have created some there's been some novel innovations in Chinese models in terms of like the efficiencies. Are they also distilling Western models and clawed and stuff like that? Yeah, I mean, literally, we've had like I said, we've had instances of Kimmy thinking it's Clawed and stuff like that, which is pretty hard to explain otherwise. Um so I don't know.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3825.76,
+      "endTime": 3864.64,
+      "text": "Well Scott Besson from the US Treasury Secretary is meeting his Chinese counterpart. So Xi Jinping is, I think it was announced today, is visiting Washington next week, which the US had announced a long time ago. China hadn't confirmed it, but I think it's been confirmed now. Um, one of the main things on the agenda is AI. I don't think there's expectation that they're gonna come away and agree a you know, a pause, but there is they'd already talked before about ensuring that you've got humans in the loop on kind of nuclear weapons. There is expected there'll maybe be some kind of progress. I mean, they've they've got kind of top-level officials talking about it, so maybe in a week's time we've got some interesting news or political news.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3865.2,
+      "endTime": 3873.28,
+      "text": "Because I guess what I mean by that is like if there is some form of agreement, any agreement, it means that China",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3876.4,
+      "endTime": 3910.56,
+      "text": "accepts that there is a level of risk. Whereas if there's nothing, it suggests that China thinks this is all bullshit and it's all just about trying to hold China back. Because you know, we've kind of seen the US has played their hand in a way in which they've they've said what they want to do, and we're like, okay, could it be because of this? Is it because this? Is it because they genuinely care? China has said it's bullshit to hold us back. You don't judge China or America by what they say, you judge them by their actions. If there's some form of agreement in any type, I would suggest that says China takes this more seriously than they are saying that they do.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3910.88,
+      "endTime": 3931.44,
+      "text": "But we'll see. Yeah, I think that's fair. Shall we end then? Because we like this episode kind of talked about risks and and you know where things are kind of headed. Like I mean, we we talked about this the other day, like the next year or so. Like, do you want to give us a summary of what you think's gonna happen? Next 18 months.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3931.84,
+      "endTime": 3933.2,
+      "text": "Oh, bloody hell. Uh okay.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3933.36,
+      "endTime": 3935.36,
+      "text": "I'll give you mine because I've written it down.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3936.16,
+      "endTime": 3941.84,
+      "text": "Um I'm what did I say the other day? Um, so w where are we now? We're September.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3942.08,
+      "endTime": 3942.48,
+      "text": "Yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3942.96,
+      "endTime": 3991.2,
+      "text": "I I think if we keep so I've been I've been see I've seen a few things recently that have sort of hinted at like there might be fundamental limits to um the like intelligence that these models can have. As in like as in there's been this like massive acceleration recently and And they've been winning maths prizes and stuff like that. But is there a is there a hot sort of hard cap? Like can you create something that's super intelligent or not? I don't know what the answer to that is. I think if the answer to that is you can create something that's super intelligent, then I still think I think at the rate at which things have been accelerating, if there isn't a slowdown, then I think 2027 we'll see like by I think we'll see AGI sometime around the end of this year, maybe start maybe by mid 2027.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3991.76,
+      "endTime": 3996,
+      "text": "Um and I don't see how something super intelligent doesn't follow shortly after that.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3996.32,
+      "endTime": 4012.08,
+      "text": "So I think No, I mean like what what what's I mean because we're talking here about like you know things going badly, things going well. We're talking, yeah, we cited this episode about this, you know, the the the stuff in the news about 10% chance of everyone dying, etc. So I'm looking at like what does that mean for people?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4014.96,
+      "endTime": 4015.84,
+      "text": "What that specifically.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4016,
+      "endTime": 4018,
+      "text": "I mean I just what you think's gonna happen.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4018.4,
+      "endTime": 4058.48,
+      "text": "Uh I mean I don't uh anyone who puts a weird percentage on something like that is just obviously amazing. It's obviously just amazing. It's just a made up number, right? But like I'm I'm uh just because I want to be optimistic, I'm I'm and I and I I like to think that way because I don't like to plan for like some sort of doomsday scenario. I don't think as much as you can, really. So to be honest, like I'm I you know I think so. What would I predict? If if if if AI is benign, then I think we're gonna see a you know, we're gonna see a lot of diseases get cured very quickly. I think we're gonna see a lot of medical advancements.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4058.72,
+      "endTime": 4100.4,
+      "text": "Um I think that I think that I still I still think that sort of like okay, if we go if we sort of come back down to earth in terms of like what are the things that I would want an AI to do, even though it was crap and it was like it was ahead of its time, but also crap, that thing, what was it called? The rabbit, the thing that you just sort of like the AI pin thing that you could just talk to and it could sort stuff out. For me, the sort of like in a way, the ultimate um, and I'm starting to see some of it with sort of some of the agentic abilities of AI. So just to talk about something a bit more down-to-earth, like I can see that being a thing.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4100.56,
+      "endTime": 4138.88,
+      "text": "Like I can see like more practical use cases for AI being a thing, and having effectively, you know, effectively having your own personal assistant that is or like your phone or something like that is going to have a personal assistant attached to it. You are gonna have a personal assistant who you can just be like, I need to sort this out, I need to sort that out, I'm going here, I'm going there. Like ordering food, whatever it is right now that you do with apps that is like convenience-based is just gonna get even more convenient because you're gonna have an AI that's gonna basically understand you and know you and yeah, and help you sort all these things out.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4139.44,
+      "endTime": 4171.2,
+      "text": "I thought although I said on the last episode about how great QN or Quen, however you want to pronounce it, Chen Wen, is because it's linked to Alibaba and I got it to to tell me what device I needed to allow my wife to use two screens with her MacBook, and it linked me straight to the device and I bought it, and I plugged it in. I was like, hang on, it's only got one HDMI cable. So um I I don't I don't trust you haven't I don't trust the AI to be doing all that stuff for me. Oh it's quite interesting that on this podcast you've been sort of genuine more pessimistic, but you finished with an optimistic take.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4171.44,
+      "endTime": 4209.6,
+      "text": "Because I'm gonna finish I I've been quite optimistic, but I'm gonna finish with a much more pessimistic take. Oh well good. Well that works well then. Yeah, so mine is like this is next six to eighteen months. So it's not kind of Skynet scenarios, these are like AI is still a kind of competent idiot, kind of you know, like we said with the the with the um uh hug and face attack where it's like it's very, very clever, but in another sense it's quite sort of naive as well because it's trying to do certain things. So, first of all, a trading agent swarms and exploits some uh microsecond level issues across exchanges.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4209.92,
+      "endTime": 4228.56,
+      "text": "It triggers a f a flash crash that wipes out loads, I don't know, like 200 to 500 billion in value from markets. Okay, don't question that because I've just I've just I just wrote like I worked with Quen on this and just came up with like various ideas and then tried to shape them into one scenario. So sort of stick with me.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4228.8,
+      "endTime": 4232.72,
+      "text": "Okay. I mean I do think that what I said and that can happen at the same time.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4233.04,
+      "endTime": 4270,
+      "text": "So this this like in 45 minutes it wipes out all this money. Circuit breakers kick in because they're hard-coded to, but humans didn't really understand what was going on. Same timeline, an AI managing a regional power grid. Sounds like Black Friday optimized for efficiency, um, but it doesn't account for some changes in weather, probably because of climate change. Blacks out three to five million customers for three days, which causes like massive, massive it's not so much even that this is in 18 months. This is within the next six to eighteen months. Okay. I'll put a timeline. So this is like Yeah, it's not.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4270.16,
+      "endTime": 4303.12,
+      "text": "I mean, probably people did die as a result of this, but this is not about so much deaths, it's more about the fact that this freaks everybody out. So they restore the service, but no one really knows why it happened. They just and actually probably no one can say it's necessarily AI because people will try and blame Russia, North Korea, China, Iran, whoever they want to. Um, same time an agent swarm introduces a vulnerability into a widely used open source library. This propagates across thousands of systems before people discover it. They patch it, but they can't audit all the code in the background.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4304.24,
+      "endTime": 4340.96,
+      "text": "And so it's just a partial fix. And then I won't go too much into it, but then stage two hits after about 18 months, which is when Ghost GDP becomes real. So that's where you get this GDP growth as a result of AI, but like basically no one's benefiting from it. Is it a little bit like how GDP works in China where it's five percent, but it's yeah, people are not seeing five percent increase in necessarily their income. It's controlled, yeah. So you get things like software engineers, legal, finance, these headcounts start dropping like massively, 30-50%. You don't get because I don't think you get job losses everywhere like to this level, but you get certain industries that do this.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4341.36,
+      "endTime": 4375.84,
+      "text": "You get displaced workers, then they're competing for lower wage jobs, corporate profits are rising, people are getting angry, people are pissed off because they're seeing this, like how great AI is for productivity, but they're seeing your consumer spending drops because people don't have enough money to do it. GDP grows on paper, people start defaulting on mortgages, private credit markets start to crack, and you get small banks and regional banks falling, which they try and the system tries to prop up. You get credit tightening, and then you get small businesses can't access capital in the same way.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4375.92,
+      "endTime": 4381.04,
+      "text": "You get big businesses really sort of manifesting and taking advantage.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4381.36,
+      "endTime": 4386.08,
+      "text": "So I so there you go. That's that's after that's more than 18 months. That's that's after 18 months.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4386.32,
+      "endTime": 4424.64,
+      "text": "So that's year two to thirty. That's 2028. Okay. So I I no existential risks in there. What what I see it as is like I call this I think all that's gonna happen, but you'll have a personal assistant. Jagged cascading degradation rather than existential risk. And I and I just want to say, like, I sound pretty correct. I think it's it's horrible, it's a horrible thing to live through, but like you can come out of the other side of that and still have a like a functioning society, but you're gonna have a decade and to a generation of trying to rebuild it. We didn't get time to talk about it because I had this idea about like I think the internet, like the open internet is at risk.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4424.96,
+      "endTime": 4469.36,
+      "text": "And so this idea of like creating all these kind of fixed intranets, and you you just can't so just to summarize it, like you can't just go onto websites in the way that you currently could. You you know, people are already annoyed that they have like two-factor authentication. I think you end up with like multiple factors of authentication, you're having to prove yourself. It's like the convenience basically goes away as a result of of being able to have some levels of security. And I also think like you see some I don't know what there will be, but you see some movement towards like not just airlocks, but like actually moving things into the physical domain more because you know people with money and people with resources are uh basically scared that the cybersecurity is just gonna be training a bank account.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4469.68,
+      "endTime": 4476.32,
+      "text": "Yeah. Yeah, I mean, I don't know how pretty pessimistic, but I like for me this is quite good because it's like, well, we're we're we're all gonna still be here.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4477.12,
+      "endTime": 4507.12,
+      "text": "I don't I don't know how that last one manifests itself. I mean, disentangling ourselves from the internet is will be very, very, very, very complicated. And and because of the way it works, you either sort of you're either on it or you're not. Yeah, which means I don't know in practice how that would work like at all. Um other than like through some you know, better security, which I suppose is what you're talking about with your I mean to be fair, that seems to be happening already, right? Yeah, I mean that's why I say it's like multi-open authentication.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4507.52,
+      "endTime": 4541.52,
+      "text": "The open internet has gone. Not that the internet doesn't exist, but like to get into anything useful on there. And and also like just because if you you we were talking before in the break about AI slop, right? So like if you if you want to not view AI slop, you're gonna have to have like various ways to prove it, which in itself, again, is then gonna add these layers. And maybe you're right, like maybe most people just end up not giving a shit, but you'll have the people who do give a shit, and therefore you'll have to create some way of you know being able to I just add add several layers to being able to work out.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4542.08,
+      "endTime": 4573.52,
+      "text": "I I'm more cynical about the people involved. Like people people will complain all day long about how toxic social media is, like on like talking into the microphone about it while they're while they're scrolling through the reason for creating a business on their left hand digital detox events because no one yeah no everyone wants to stop doing it, but no one can afford to do it, so I'll get them to pay me to put their phone in a box for two hours. Yeah, exactly. Like this is you know, it's a and I don't know whether that's a weakness or whether it's a hypocrisy, it's probably all of the above.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4573.84,
+      "endTime": 4603.04,
+      "text": "Anyway, um before the end of the episode, because we probably won't mention it in any AI news, I'm not gonna talk about it in detail, but I just wanted to have a shout out to my latest AI discovery/slash tool, which is called JEV. Um for people who aren't developers, probably not that interesting. Um if you want to go and look it up, just type Jev or JEV AI into YouTube and watch a video about it. It's very cool. It's a new type of model, it's a decision. Basically called a decision model.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4603.12,
+      "endTime": 4609.44,
+      "text": "Um and it may be a little bit of marketing speech, but it can't hallucinate, basically. And if you look into it more, you'll understand why.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4609.68,
+      "endTime": 4613.04,
+      "text": "Yeah, yeah, yeah. It's much more sort of like restricted in terms of the output.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4613.68,
+      "endTime": 4630.72,
+      "text": "It's not a large language model in the same way as actually not an LLM, is it? It's a slight it's a different kind of model, we should say that. But yeah, you can't just log in and use it and have a chat with it. But you'll see, but uh basically it it makes decisions rather than coming up with you know material from its sort of training data.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4632.72,
+      "endTime": 4649.6,
+      "text": "So it's a new kind of model. It's it's cool because like it's a I wanted to mention it because it's an AI development. Like we had language models, we've got image models, we've got video models. World models. This is a yeah, world models. This is a different type of model, and if you're interested in some sort of slightly nerdy stuff, it's quite interesting.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4649.84,
+      "endTime": 4652.72,
+      "text": "And on that note, have a good week.",
+      "chapterIndex": 12
+    }
+  ]
+}

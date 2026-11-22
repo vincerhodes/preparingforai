@@ -1,0 +1,1190 @@
+{
+  "slug": "s1-2024-03-28-robotics-foundations-of-future-labour",
+  "buzzsproutId": "14777260",
+  "title": "Robotics: Foundations of future labour",
+  "date": "2024-03-28T08:00:00.000Z",
+  "season": 1,
+  "durationSec": 4078,
+  "format": "guest",
+  "era": "early",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/14777260-robotics-foundations-of-future-labour.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail An hour long 'Brucey bonus' episode this week (and make sure to listen to the bitter end for our first AI created outro track ' Robot Visions ') Join Matt Cartwright and Jimmy Rhodes as they unfold the future of robotics and its intersection with everyday life. This week, we're tearing down the walls between human and machine, exploring the burgeoning potential of robots like Figure 01 by Figure AI and their integration with large language models. Witness the thought-provoking discussion on how companies like Boston Dynamics and Google are not just shaping the aesthetic of tomorrow's robots but also paving the way for these machines to seamlessly mingle with our environment. As we sail through the captivating world of AI development, we'll tackle the concept of reward functions and their role in the astonishing advancement of AI capabilities. NVIDIA is at the forefront, pushing the boundaries with virtual training environments and AI-driven chip design – but at what cost? This episode isn't shy about addressing the dual-edged sword of data control, consumer autonomy, and the looming question of AI sustainability in energy consumption. Matt and Jimmy take you beyond the code, into the ethics and societal impacts of AI in our homes and workplaces. But what is human cost? As automation redefines the workforce, we grapple with the redistribution of labor, the potential of a 32-hour workweek, and the influence of collective action in an automated era. From the quiet revolution in agriculture and logistics to the potential backlash against domestic robots, the conversation gets real about the future of jobs in the AI age. Are human-centric professions safe? Can universal basic income be the answer? Matt and Jimmy don't just ask the tough questions – they confront the realities of a world on the brink of an AI work revolution.",
+  "summary": "The robotics deep-dive covers Figure 01's demo with OpenAI, Boston Dynamics' drumming robot and Nvidia's virtual training worlds, concluding that robotics lags LLMs by roughly a year but is accelerating through the same neural-network paradigm — reward functions now being written by LLMs. They wrestle with Amazon's 750,000 robots and its opaque 'safety' math, debate UBI versus robot taxes on model providers, and land on gradual displacement, union-driven backlash, and safety as the gatekeeper for home robots.",
+  "keyTalkingPoints": [
+    "Figure 01 (OpenAI-powered) and Boston Dynamics' drumming robot show multimodal embodiment arriving; Nvidia trains robots in virtual worlds",
+    "The singularity feedback loop is visible now: reward functions for robots increasingly written by LLMs; we do not program neural networks, we let them learn",
+    "Amazon's Sequoia announcement: 750,000 robots and a confusing safety claim that robots reduce injuries — the hosts cannot parse the math",
+    "Displacement math is crude: 100 million robots a year is not one-per-one replacement, and rollout will be gradual like the car fleet",
+    "Finances: Matt floats UBI funded by taxing AI providers rather than robots; offshore model companies make that hard",
+    "Backlash will run through unions; home robots live or die on safety and trust — 'maybe in 10 years the robots will have gone ape'"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Robotics is further away than LLMs but heading the same way — the pace of recent announcements is exponential",
+      "The gradual path is like the global car fleet: robots enter piecemeal, and companies will never admit cuts are because of AI",
+      "Genuine copium: robots can take jobs people do not want — exploitation jobs, dangerous work, underserved industries",
+      "Social jobs grow, not shrink, in a robot world — even if that includes robot masseurs and counselors"
+    ],
+    "matt": [
+      "Humanoid robots still look frightening; the replacement arithmetic in the news does not add up and deserves scrutiny",
+      "Every PC and data center without AI integration is now effectively obsolete — chips are evolving that fast",
+      "Funding the transition needs radical options: UBI, or a robot tax levied on the model providers instead",
+      "Unionization is the realistic brake on robotics; people will not allow unsafe robots into their homes"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-03-28-robotics-foundations-of-future-labour-729.292-the-singularity-style-feedback-loop-is-already-v",
+    "s1-2024-03-28-robotics-foundations-of-future-labour-2448.453-companies-will-cut-workforces-because-of-robots-",
+    "s1-2024-03-28-robotics-foundations-of-future-labour-3769.164-social-and-human-interaction-jobs-will-not-disap",
+    "s1-2024-03-28-robotics-foundations-of-future-labour-3483.269-in-10-years-home-robots-may-be-commonplace-but-o",
+    "s1-2024-03-28-robotics-foundations-of-future-labour-1249.088-every-pc-and-data-center-without-ai-integration-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Suno AI-generated outro track (no human speaker)"
+  ],
+  "chapterCount": 11,
+  "turnCount": 156,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Current trends and developments in Robotics",
+      "startTime": 88
+    },
+    {
+      "title": "The Singularity and reward functions",
+      "startTime": 680
+    },
+    {
+      "title": "What about Mr Musk?",
+      "startTime": 1056
+    },
+    {
+      "title": "Other technologies driving change with Robotics",
+      "startTime": 2009
+    },
+    {
+      "title": "The Amazon warehouse example",
+      "startTime": 2243
+    },
+    {
+      "title": "Impact of Automation on Jobs",
+      "startTime": 2644
+    },
+    {
+      "title": "Potential backlash",
+      "startTime": 3125
+    },
+    {
+      "title": "How to get ready for being replaced by robots",
+      "startTime": 3568
+    },
+    {
+      "title": "Jimmy's been musing...",
+      "startTime": 3842
+    },
+    {
+      "title": "Robot Visions (Episode outro music)",
+      "startTime": 3996
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.567,
+      "endTime": 24.632,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change, the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human social impacts of AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 24.901,
+      "endTime": 30.36,
+      "text": "We're making it our mission to help you prepare for the human social impacts of AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 33.96,
+      "endTime": 71.115,
+      "text": "Hello and welcome back to another edition of Preparing for AI with me, matt Cartwright and Jimmy Rhodes, and this week we are going to be talking about robotics. So a little bit of a departure from the way we've done things previously. We said we would do an industry every episode, but with the amount of changes and news that we've seen in the last couple of weeks on robotics, we thought that it would be timely for us to look at the advantages, the advances that are happening here and also to look at how that kind of applies across various sectors. So, rather than a kind of industry specific look, this week we're looking at robotics and we will, of course, apply that to industry and to jobs, but across the board rather than on one particular industry.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 71.4,
+      "endTime": 87.403,
+      "text": "So hopefully this should be really fun and interesting and hopefully not too scary. So, jimmy, do you want to bring us up to date with what's been going on? Because it's been, even by AI standards standards, I think, a kind of incredible couple of weeks yeah, sure.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 87.483,
+      "endTime": 142.015,
+      "text": "So, um, in terms of the most recent announcements, there's uh been figure 01, which, uh, you can check out on the internet. It's a, it's a robot that's been created by figure ai and it's kind of their first version, hence the 01. They've got investment from OpenAI and they've been working on robots and robotics for a while, but this is the convergence of large language models like GPT-4 and robotics. So previously, and I definitely recommend checking out, if you search for Figure 01 and watch some of the videos on the internet, you'll be able to see what it can do. So it's doing things like recognising objects, being able to understand natural language, obviously using GPT, being able to make decisions on what to do based on fairly vague sort of language.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 142.035,
+      "endTime": 175.45,
+      "text": "So the example on the online is the example that they gave in their demonstration video was can you give me something to eat? And there was an apple on the table and the robot was able to correctly select the apple and also explain and rationalise why it made that decision based on the fact that it was the only thing. Edible, like I say, definitely recommend check out the video. I won't explain all of it here. Edible, like I say, definitely recommend check out the video. I won't explain all of it here, but it's pretty impressive and, as I say, it's the. The reason this has come about now is it's the convergence of these large language models with robotics.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 175.49,
+      "endTime": 204.527,
+      "text": "So what they've got now is a robot which has got the ability to touch and feel and has vision and has um enabled and has microphones so it can pick up sound inputs and then it can also talk and it's basically connected up to chat, to chat gpt or gpt4, with obviously some configuration and some software engineering in the background, so that it can interact with you in the same way that one of these large language models does. Kind of looks I don't know.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 204.607,
+      "endTime": 233.791,
+      "text": "I I always find that it kind of looks a bit frightening, like the way that they seem to still be trying to make the robots look human, but look anything but human, I mean it's, it's incredibly impressive. I guess, like anything, there are two groups of people though the people who are like wow and the people who are like oh, you know, oh god, this is awful. I I just think, for all the advances, like, when are we going to see, um, something that looks less?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 234.692,
+      "endTime": 274.76,
+      "text": "dystopian? I'm not sure. I mean I'll talk a little bit more later on about some of the other examples we've like recently, but, um yeah, like they've definitely taken inspiration from iRobot or something like that um, so I think I think obviously in the future there's going to be all sorts of different sizes and shapes of robots, but they seem to have anthropomorphized them quite a lot, like you've got Boston Dynamics who've created a dog like robot and a humanoid robot that they've both demonstrated dancing and things like that. So I think I assume the reason for that is because it anthropomorphizes it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 274.78,
+      "endTime": 282.005,
+      "text": "It feels less scary when the dog robot mauls you to death instead of the human one. Right, yeah, exactly, it's a cuter way to die.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 282.266,
+      "endTime": 322.947,
+      "text": "It's a cuter way to die, but yeah, I think in the future. I mean there's also examples. So google have a robot that can can get around on wheels but it's kind of also on legs, so it's got four wheels but it's it can stand up on two legs or it can roll around on four wheels like a dog. I think that also they're taking inspiration from evolution, like I've heard various industries, pundits talking about you know our wheels or bipedal better and actually for interacting with the environment we live in, they think that bipedal is probably optimum over, like all different kinds of terrain and surfaces, or quadrupedal, like dogs.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 323.448,
+      "endTime": 332.119,
+      "text": "So yeah, it's, I think it's heading that way because that's, because that's why evolution got us where we are. You mean, we didn't evolve wheels.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 332.521,
+      "endTime": 345.51,
+      "text": "I kind of like those dogs that have. I always think they're really cute. The dogs that have wheels where they've lost a leg Might be going off track a bit here, but maybe I'd like a robot that's got two wheels and two legs, or three legs and a wheel.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 345.78,
+      "endTime": 362.15,
+      "text": "Yeah, I actually think, like I said, that Google robot that's on wheels but also has limbs, so it's got wheels on the end of limbs. Essentially, I think that's pretty smart because it seems like it can obviously get around very quickly, but then it can also maneuver over objects and that kind of thing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 362.861,
+      "endTime": 400.011,
+      "text": "So the other big thing that we've seen, um, which, as we record this, was kind of hot off the press, but, um, nvidia, their big conference, probably the most groundbreaking thing in there actually was their, their chips. And you know it's not the kind of sexy stuff, um, that's actually really important. But there was some robotic stuff in there. And also, you know, they've got they've got this concept of the omniverse, which is a they describe it as a training gym for robots where, like, multimodal models are telling the robot what to do next. And if you kind of watch the video on this, you can see robots learning by following human actions and movements.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 400.091,
+      "endTime": 455.403,
+      "text": "There's an example of someone drumming and then the robot is copying them. Um, apparently it kind of learns by literally following the human behaviors. Um, and then they had these kind of wally robots as well, which I guess was also to make it look cuter than it was. There was actually in the background, um, there was a robot that it was still a human looking robot, but it was much smoother. It almost looked like it was kind of texturized and it it still looked like a human, but it didn't look that kind of clunky, like, I say, kind of dystopian um robot. So, you know, I wonder if they were um doing that intentionally, uh, and then they've got this project gr oot, which you know seems like it must be um named after grootot, although they pronounce it G-R-O-O-T or G-R-double-zero-T, I think they called it um which is their foundation model for developing, controlling these humanoid robots, um.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 455.503,
+      "endTime": 493.065,
+      "text": "And then they use a foundational model like GPT-4, stable diffusion, um, as the kind of underlying AI model in which they can, can, can, build those cases, and then that pairs and I'm I'm trying to remember as best I can it pairs another piece of nvidia tech, which again was a kind of reference, called jets and thor, which is a system on a chip that's basically designed to be the brains of a robot, um. And I think you know the goal here is these kind of autonomous machines that can be instructed using normal speech, like an LLM, and can be trained to kind of carry out tasks. It looks like a lot of it is by, you know, impersonating tasks.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 493.326,
+      "endTime": 518.531,
+      "text": "I kind of wondered with that, though you know if you're impersonating somebody. Drumming, for example. Yeah, quite easy, you can pick up the motions of drumming, but you know drumming to make sound you need to understand the sound you're making. I don't know. I mean, maybe you know, maybe I'm focusing in on too much of a particular point, but it kind of looked too good to be true, to be honest. Someone was drumming and a robot was watching it and copying it. It feels like it can't be that simple, right I don't know that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 518.732,
+      "endTime": 548.064,
+      "text": "Yeah, that was a that looked like one of those tech demos that was more for the internet and for the masses rather than necessarily something useful in that. I'm not sure that we need robots drumming, so I think it was more just of a tech demonstration. Presumably. What they've got going on behind the scenes is a combination of humans demonstrating to robots certain actions, and then the robot actually learns or has some kind of understanding of the meaning behind that as well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 548.144,
+      "endTime": 577.244,
+      "text": "So it's not just going to be a mimic, it's actually going to learn to, to carry out some kind of action in the real world maybe the thing with, you know, robot drumming is just so that we can make sure absolutely everybody knows that their jobs are, that the robots are coming for their jobs. I mean, it's like you know they maybe they should have had a plumber, a gardener and a drummer, just to make it really clear. Hey, you know, nobody's safe here yeah, they've definitely got everything covered.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 577.786,
+      "endTime": 582.003,
+      "text": "Even if you want to just have a hobby, it's probably going to be done by a robot instead in the future.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 582.464,
+      "endTime": 620.791,
+      "text": "I think that we, we think and I think generally in comparison to things like you know, the way that large language models are being used and the last episode that we did around kind of white-collar and office work Although if you look back I don't know how many years, maybe even five years you know, people thought that when AI came in, what they saw was robots and automation and the kind of displacement of sort of manual jobs, warehouses, stuff like that. Although this technology is here, in terms of the kind of application in the job market, I mean it feels like this is not as acute a problem, it's not as imminent a problem in terms of job displacement.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 620.851,
+      "endTime": 629.904,
+      "text": "Is that right? Or are we actually seeing the kind of speed up that it's so exponential that actually you know it, it maybe it's a year later, but it's actually only a year or two years away.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 630.466,
+      "endTime": 670.665,
+      "text": "I think it's definitely a bit further away than some of the obvious implications with large language models, because large language models and some of the things we've talked about previously, like Sora and Mid Journey, they're they work in the digital space. So, obviously, in terms of replacing remote workers, if you just work on a laptop, if you just work in the digital space, it's clearly we're further ahead with that already, because you just need, at some point, you'll just need, you'll just be able to plug in one of these models or one of these agents and it will be able to, you know, one for one replace parts of or all of someone's job, the robots and this kind of thing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 670.946,
+      "endTime": 673.913,
+      "text": "It's a more recent development and it's going to take more time.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 687.86,
+      "endTime": 728.25,
+      "text": "No-transcript. Something at the center of a black hole, um, the singularity, refers to the fact that we're, like, exponentially accelerating towards um, like ai is exponentially accelerating and it's starting to, and there are there are people that think we will have a singularity or we won't have a singularity. And so what? What? The idea here is that ai is teaching ais and making smarter ais just accelerates and accelerates and does that increasingly fast, so exponentially. You know, in a year's time, in two years time. We just don't know where we're going to end up because things are accelerating so quickly.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 729.292,
+      "endTime": 765.23,
+      "text": "And some recent things that point to that potentially being, you know, happening right now is is the fact that, in terms of what you were talking about with NVIDIA so their virtual world that they're training robots in, they're actually training something called the reward function and, not to get too technical, but the reward function is something that basically is the objective of the robot. So if you put a robot in the world and you say, how do you give that robot an objective and sort of make it want to achieve that objective? Because it's an AI and that's how AIs work they have to want to sort of achieve something.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 765.711,
+      "endTime": 793.746,
+      "text": "Now, recently they've started writing reward functions with large language models, because it turns out they're much better at actually writing the reward function for these robots and it's something that historically has been a really difficult challenge, and so we're starting to see large language models training robot models and then a feedback loop gets created where the output goes back into the large language model. It robot models and then a feedback loop gets created where the output goes back into the large language model. It goes and refines and corrects its errors and then trains these robots, and does that increasingly quickly.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 794.461,
+      "endTime": 821.602,
+      "text": "It was also part of NVIDIA's announcement yesterday where they were talking about these. The way they do, chip design has now been accelerated by AI as well. So, again, like, ais are actually speeding up the increase in performance of the next generations of chips, and that's happening increasingly quickly as we get more and more powerful AIs which are fed by these chips. So you're starting to see it across a lot of this space. But when you talk about rewards.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 822.704,
+      "endTime": 853.251,
+      "text": "I mean, I think for a lot of people that probably hopefully the kind of people listening to this podcast, if we've got the audience that we think are people who maybe, you know, don't have a technical background and we're going to help them out with that. So when you talk about rewards, what are you talking about? Is it like giving a dog a bone? Why do you need a motivation? I mean if, without getting too much into the kind of sent sentient, but if you're not sentient, why do you need a reward? Because a lot of the conversations I've had with people who don't understand ai say oh, it's a computer, so you know it doesn't, it doesn't need a motivation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 854.153,
+      "endTime": 859.46,
+      "text": "I've said it maybe needs a motivation to survive. I mean, is this a motivation and is that what we're talking about?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 859.5,
+      "endTime": 898.55,
+      "text": "it's giving it a form of motivation yeah, we're talking about a motivation and the dog example is a good example, right, because you can train a dog. A dog has a brain, which is works, you know a neural network the same as an ai yeah, so the other way around. So neural networks are designed to model, like the way the human brain or or other brains work. Now you don't program an ai, you you have. What you do is you have a neural network, and the neural networks are becoming increasingly complex and sophisticated, and then what you do is you train that neural network in the same way that, if you want your dog to behave, you can.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 898.57,
+      "endTime": 927.716,
+      "text": "You know there's, there's, you know there's the carrot and the stick right, so you can either reward, or you can either encourage or discourage. I'm losing my mind today I've had a busy day, so so, yeah, so you can encourage or discourage certain behaviors in, in dogs, in children. That's how you. That is effectively training a, you know a neural network and that's what they're doing, obviously in a quite a different way, but that's what they're doing with these robots and anything powered by an ai brain.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 928.016,
+      "endTime": 938.711,
+      "text": "What are the rewards? Well, that, can you give an example of, of what they're giving. Is it, is it some energy, you know? Is it? Is it another problem to solve what? What's the reward?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 939.713,
+      "endTime": 966.052,
+      "text": "yeah, so in terms of robots, if we're talking about, like, applying something to a job, then if a robot's working in a factory or, let's say, a warehouse, for example, if a robot's working in a warehouse, then the reward function would be you know, if you manage to move this box from A to B, that's you sort of score one point. For what of a better word. So, they're competitive. So they're competitive, yeah, it's, it's. It's it's saying you know it's when you're training them, you're saying",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 970.72,
+      "endTime": 1003.73,
+      "text": "you know you get points for achieving this objective. So, moving the box to the right location, getting the you know, getting the packages shipped out, whatever it is. You I mean I'm really oversimplifying but you you essentially give the AI a reward in terms of the in terms of an AI, it's kind of points for doing it, for doing it right, and that what that does is that then not to get too technical again, but it it, it. It actually sort of embeds that pathway within the neural network, so it encourages. It encourages that behavior in the same way as the sort of the dog or the child example in a way.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1004.211,
+      "endTime": 1046.157,
+      "text": "So the overall point is that we don't program neural networks, we let them learn, and that's exactly the same way that chat gpt has learned. So they have different models for this, but they're all based on neural networks. Chat gpt uses a transformer model and it went through months of training and learning on all of the information on the internet and the output. The outcome of that, the sort of the reward function in that sense, is outputting things that you would expect, outputting strings of words or tokens that you would normally see in the context of, like all human language, or or everything written on the internet.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1055.982,
+      "endTime": 1092.165,
+      "text": "We talked about um, I guess the two big announcements recently, and then you've mentioned Boston robotics. I think we should probably give a bit of a mention to um, mr Musk and Tesla, because I think they, you know, until the last couple of weeks anyway, that was where sort of AI was entering the physical world. That was kind of where it was, you know, moving from the kind of software data side into something physical. So where are they in terms of robotics? Because I think when we planned this episode before the last couple of weeks happened, we were kind of talking about Tesla in terms of the most advanced robotics.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1092.225,
+      "endTime": 1095.34,
+      "text": "Now, maybe that's not the case now, but where are we with that?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1095.581,
+      "endTime": 1112.408,
+      "text": "So it's interesting. I don't actually know where exactly Tesla are, but the approach that Tesla and, up until quite recently, the approach that most robotics companies have been taking, as far as I say, with things like Figure 01,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1126.661,
+      "endTime": 1173.106,
+      "text": "is it's this convergence where and it seems to have been really successful I'd say more successful than things like the Tesla robot where Figure 01, as an example, shows this convergence of large language models and, like you say, things like like stable diffusion, sort of more general purpose models that have developed the capability to sort of not only see things and hear things but also apply understanding to that, and that's what I think the large language model approach brings to these robots, which hasn't been there before. So I think tesla have designed a nice looking bit of hardware. I assume what they'll do quite soon is pivot to plug in that into a large language model of some kind and this is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1173.788,
+      "endTime": 1204.69,
+      "text": "This is just a great example of, like, the speed that things are moving at is, you know, we planned, like I said, we planned this or an episode around robotics, maybe three, four weeks ago, um, and at that time we sort of of saw that, okay, well, llms, that was kind of a separate thing. And then that's why we were like, okay, we now explore robotics and it's the other side of it. Well, now, actually, the two things are not they're the same thing, but it is the integration of LLMs with the physical side of robotics that has brought this kind of massive kind of advance right.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1210.2,
+      "endTime": 1248.948,
+      "text": "The kind of scary thing right now is that where that's going, you need huge computing resource to run large language models, so that's why they're running the cloud by companies like OpenAI and Google and Facebook or Meta. So actually it's looking more and more like what you're going to have in your home. Unless you know, unless home home computing technology evolves quite quickly, what you're going to have in your home, if you have a robot, is something that's connected via the internet to chat gpt, so that everything that's going on in your house is getting uploaded to chat gpt so that chat gpt can decide what the robot does next, which is a bit of a weird idea but one of the other things that was announced this week by nvidia or not not so much announced, but declared was the end.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1249.088,
+      "endTime": 1287.031,
+      "text": "Well, every pc is now obsolete and every data center is obsolete because they don't have ai integrated. So my understanding is that the new kind of generation of computers that will come out will have kind of better chip infrastructure that will allow ai to be run locally off your PC. So isn't there then, you know, a way in which, if you've got a robot in your house, actually you're kind of hosting? It wouldn't be an LLM, it would probably be a kind of smaller language model, but you're hosting that locally. I mean, is that possibly a kind of bridge to that? I guess the other thing is, if you're one of those companies, why would you want to not have all of that data fed back to you and have that control over the robot?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1287.071,
+      "endTime": 1297.561,
+      "text": "Maybe if, um, if an organization like amazon is willing to pay you enough money, you'll give them. You know, you'll give them the keys. But if it's someone in their house, why would you? Why would you give up that control?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1297.981,
+      "endTime": 1336.14,
+      "text": "yeah, I'm not. I mean, I'm not actually sure where it's going to go. You're right, the like the chips are evolving so fast, the everything's evolving so fast that it's possible that in a few years time, running a large language model, you know, inside a robot will be like pretty straightforward and it'll all be built in um. That was the one thing that I thought when I saw this, this, this figure 01 demonstration. That was the one thing that I thought was obviously it's, it's a robot, but it's not a disembodied robot like. It can't do anything by itself. It's connected via the internet to like chat, gpt, or it's connected directly to gpt and you've actually got a massive data center somewhere.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1336.28,
+      "endTime": 1351.791,
+      "text": "That's that's kind of running the brain behind it right now. That's the. That's where we are right now, whereas I guess the difference with the tes Tesla robot is it is actually independent. But I think the advances we're seeing by connecting these things up to LLMs mean that's the way companies are going to go right now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1352.712,
+      "endTime": 1356.676,
+      "text": "I also wonder about how much you know. This is a potential holdup, though,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1370.24,
+      "endTime": 1395.306,
+      "text": "and it's something that I'm hoping you know. Later on that we'll explore, hopefully, a kind of series of stuff on where kind of sustainability and AI kind of work together but also contradict each other, and one of the big things is this kind of massive increase in energy use, and you know whether that is a potential kind of hold up, not on the progress of the technology, but in terms of the scope of rollout. I just noticed something it was on comments to a dave shapiro video today but and this is quite a crude figure but you know two billion manual jobs in the world, it would take 20 years to replace those jobs.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1395.366,
+      "endTime": 1429.251,
+      "text": "Assuming you can create 100 million robots a year now, okay, that's also assuming a one per one replacement, but it's also negating the fact that you're also building robots for other things. So you know, I think this is is one of the things where, when we said at the beginning about how this will maybe take longer in terms of job displacement, is not necessarily because the technology won't exist, but actually, unlike you know a large language model or a piece of software where somebody can run it quite easily. If you need a physical robot, you need physical robot. You need, you know, you need the chips, you need the energy.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1429.825,
+      "endTime": 1445.932,
+      "text": "It's going to take a long time to build all of that. There's a limited amount of resources, you know. I guess it takes AIs to build AIs eventually. But you know, in the short term, surely you need people to build the first robots, to then build the later ones I haven't seen.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1445.952,
+      "endTime": 1471.214,
+      "text": "I mean, it's the first time I've heard that. Um, I do follow dave shapiro, but the one the immediate question that springs to mind is is have they factored in the fact that a robot will probably work 24 hours a day without breaks and potentially might maybe not the first generation, but do things a lot quicker than humans? I'm curious about that, that's all, that's what I said.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1471.234,
+      "endTime": 1494.85,
+      "text": "I think it's a crude number because it's not a like-for-like replacement, but it's also not there's not just going to be a robot for every job. So so if we're also talking about having house robots right, that that is additional robots. If you say every family is going to have a robot, I'm not saying that we are saying that. But if every family is going to have a robot, I'm not saying that we are saying that. But if every family is going to have a robot, how many families are there on earth? You know there's several billion at the moment. Who knows if there'll be that many in the future, but there are at the moment.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1494.89,
+      "endTime": 1520.092,
+      "text": "So I don't know it. Just it feels like the technology is not the only issue here, because, like I say, it's not like where you have a piece of software or something that you can, you can use fairly easily. You need to create something physical as well, and surely that creation I mean the factories don't exist yet. Right, you've got to build the factories to build the robots, so you can't roll out a billion robots in in three years time absolutely not.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1520.152,
+      "endTime": 1527.343,
+      "text": "No, and it's obviously going to be gradual. But the the thing I would say there is like how many cars are there in the world?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1527.363,
+      "endTime": 1535.274,
+      "text": "give us some copium here, jimmy, give us something to hold on to some. Some people listening will will have have jobs for a few years, right?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1536.216,
+      "endTime": 1574.743,
+      "text": "yeah, sure, I'm not like. I mean, we'll talk about jobs a little bit later. I think there's also a massive in terms of the copium. There's also massive potential benefits to all this. We've talked about industries that are underserved, understaffed, like industries where, frankly, people don't want to do those jobs like they do them because someone needs to do it. But you know, there's a lot of jobs out there that I think if you replace them with robots you know, child labor, making shoes yeah, there's tons of stuff. There's a whole. There's a whole sort of. There's a whole. Yeah, it's a pretty dark place to go, but yeah, there's a lot of.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1574.944,
+      "endTime": 1578.201,
+      "text": "There's a lot of things that there's a lot of problems that robots can actually solve.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1579.544,
+      "endTime": 1584.194,
+      "text": "So it's not the case with all all the things that we were talking about, though. You",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1598.769,
+      "endTime": 1659.875,
+      "text": "know there is potential, there's great potential, and actually it almost always falls that the issue is people and the sort of Terminator you know, ai or ASI just kind of takes over and enables all the robots and goes on a killing spree and, you know, kills everybody. Let's take that scenario out for a moment. Whatever scenario you get to, whether it's a utopia or a dystopia, depends on people and how they control it, and I think in this respect, it's. You know, all of those examples is we can see productivity gains in the short term, and how are they passed on? Right, so are they passed on? Bernie sanders in the us, I think, a week or two ago was talking about putting in legislation for a 32-hour working week, but I mean that you know that's only a measure for a few years, because if we think the things that we think will happen well, actually, if you're going to work, it'll be two days a week or three days a week, not four, um, but know that kind of relies on the fact that all those things get passed on to people and those savings get passed on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1660.176,
+      "endTime": 1696.849,
+      "text": "The example we just gave that robotics replaces jobs that people don't want to do or that people are being exploited in, but isn't the more likely scenario that they just replace jobs where they can create the most you know revenue? So actually they just replace jobs where they can save the most money and they can create the most efficiency and generate the most profit if corporate entities are allowed to do what they want, then yes, they'll, they'll, that's, that's what will happen. I think this is where you know it's, it's it's all the people to rise up right yeah, it's gonna, it's or we need the people to wake up at least and start.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1698.09,
+      "endTime": 1706.141,
+      "text": "Like we said we're not telling people to get out on the streets, but demanding action and change and taking note and actually trying to shape this in a positive way.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1706.745,
+      "endTime": 1744.509,
+      "text": "Yeah, and we've already seen that. It's not like we haven't already seen that. I mean, we've seen it. In the Western world, there aren't necessarily good advocate groups for people who are getting exploited in, you know, third world countries in cobalt mines and things like that. So that's something that needs to be solved. But in terms of recent examples, you've had the writers strike, you've had the Actors Guild in Hollywood striking over AI and been successful, and already you know Hollywood striking over AI and been successful, and already you know they've already had agreements from unions in the US in those two areas where they're not going to get significant parts of their jobs replaced by AI.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1745.051,
+      "endTime": 1786.175,
+      "text": "I think that's one of the first steps, so it's not like it's not already happening. You've also got players in the industry and in the government in in the US talking about regulation, and definitely the EU and the UK as well the EU are, you know, are fairly keen to regulate. I think so. So some of these things are already starting to happen. I don't know if they'll happen quickly enough, but they are starting to happen. And even I mean I don't know what I think about this, but but Sam Altman was on the Lex Friedman podcast for about two and a half hours within the last week and he seemed genuine, like I'm always sort of you know, obviously fairly sceptical.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1787.245,
+      "endTime": 1787.767,
+      "text": "Yeah, I'm just not.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1787.988,
+      "endTime": 1820.402,
+      "text": "I'm not sure what to think on Sam Altman. I guess I also want to believe the best. I sort of think it's difficult for you to get to that level and that kind of position unless you've got a kind of darker, meaner side. But then at the same time I think even some of the things like the way in which Sora was leaked I do think there's something there that he is someone who's trying to at least get people ready by kind of drip feeding stuff so that people, you know, know he wants that reaction and he understands that it needs to come. So maybe he's, maybe he's the the, the less bad guy?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1821.768,
+      "endTime": 1859.025,
+      "text": "I certainly hope so. I mean obviously ai are gonna sorry, open, ai are gonna get put under huge amounts of pressure. They are still a not-for-profit organization. That's 51 owned by that not-for-profit board, so they do have that profit, aren't they cap? profit. So they cap the profit, but they well no, but the actual board there's. They still have 51 controlling rights of the of the smaller board, which I mean it doesn't sound great in that context. But one of the things sam altman talked about is how he wants to be answerable to all of humanity and all this kind of stuff. And OK, let's, let's take him at his word for a minute.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1859.165,
+      "endTime": 1885.699,
+      "text": "So you know, if he is being genuine, then if he is being genuine, then I think what he's talked about is releasing things slowly and sort of having a what's the word? Just doing it ethically and actually taking like allowing humanity to get used to some of these, some of these things that are going to happen very fast, and so, if you take him at his word, it sounds like a good principle.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1885.899,
+      "endTime": 1923.516,
+      "text": "But even if I take him at his word. The problem is this you know the competition is being driven. Even if you just take Silicon Valley, you know he's got to be good to his word. So is elon. You know so of google, so of all the other big players. And if they don't carry on, then you know, well then china will catch up. Well then you know someone else will catch up. So isn't that the problem? You know they all kind of need to agree. I do agree that he is, or seems to be. You know the way they're progressing things. There are obviously things that are being held back. Right, and I'm not sure if that's necessarily the case with google, uh, or alphabet, it looks like some of this stuff is not being held back.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1923.536,
+      "endTime": 1942.29,
+      "text": "They're actually trying to maybe release stuff too quickly, but with open ai, it feels like they're holding stuff back. Um, but you know, once they fall behind, or if they fell behind, then surely they will no longer do that. So it's not just about them. That's the problem. You need all of those people at the top to all have that same kind of moral conviction.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1943.272,
+      "endTime": 1954.22,
+      "text": "I agree. So, to wrap this point up, I think that, even if he's been disingenuous, he's promoting the right kind of conversations and basically",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1957.825,
+      "endTime": 1989.474,
+      "text": "in the right kind of conversations and basically it's for government to take it up next. So so the government in the us needs to wake up, needs to pay more attention to this and needs to think about some of the questions they're posing. I mean, one of the questions that one of the questions I believe they're debating at the moment in the? U is whether open source models, for example, should be capped at a certain point so that, like you know, anything above a certain power or intelligence is not actually allowed to be released to the public because it's almost too dangerous, because, because the potential, you can imagine the potential implications there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1990.005,
+      "endTime": 1994.628,
+      "text": "So I think some of those debates are happening. There's obviously a huge. There's a long, long way to go,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1997.745,
+      "endTime": 2000.014,
+      "text": "but Sam Altman seems to be promoting the right kind of conversation and debate around it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2009.645,
+      "endTime": 2047.211,
+      "text": "So maybe we can just have a quick look at kind of some of the other aspects you know that are linked to robotics but are not actual kind of robots as such, which are a driving change in, I guess, manual work. You know we said we're not going to define industry, but robotics and automation, I guess you know, generally kind of in terms of work context, is replacing manual work. So we can't completely separate machine learning and deep learning here because they kind of form the core of a lot of the ai advancements that enable these kind of robotic systems to learn from data and recognize patterns and make decisions without human intervention.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2047.612,
+      "endTime": 2074.237,
+      "text": "Computer vision is another one that's quite important. So obviously those kind of robots, one of the things that they need to be able to do is to be able to see and interpret visual information. And the example we gave with the kind of robots, one of the things that they need to be able to do is to be able to see and interpret visual information. And the example we gave with the kind of NVIDIA one you know it was copying people. I'm not sure how it's doing that, but obviously there has to be an element of computer vision that's being used there and they're doing this in things like they use it for quality inspection and control",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2081.985,
+      "endTime": 2114.991,
+      "text": "In medicine, obviously using robotics or, I guess, computers with this computer vision that are able to look at things and are able to analyze MRIs and stuff like that. In agriculture, they use it at the moment for monitoring crop health, automating, harvesting, etc. So you know some really good examples in there of, I guess, kind of positive ways in which it can kind of be integrated with robotics. And then finally, Internet of Things, IoT. So these are the devices that are collecting kind of data in the physical world. So you know the thing on your fridge or your air purifier, on a kind of basic level that I guess people have got in their own homes.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2115.071,
+      "endTime": 2141.806,
+      "text": "But obviously, you know, in logistics these are used, uh, they can be integrated with blockchain, um, and these are the kind of this is where a lot of the data comes on, optimizes these processes. So these will obviously work with manufacturing, the. The technology here is kind of vital in the manufacturing smart agriculture, smart cities, etc. So you know those are kind of areas of development that they're kind of driving change and that that align with the robotics and the automation.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2152.02,
+      "endTime": 2165.158,
+      "text": "How about we have a look at where we're seeing an impact on jobs. So obviously that's primarily our focus on this podcast. Do you want to start off, Jimmy, if you've got any examples of where we've kind of seen an impact already?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2166.205,
+      "endTime": 2214.394,
+      "text": "Yeah, so I think you've already seen. So what you've seen so far is more like examples like Amazon, where they haven't got humanoid robots that can interact properly with any kind of environment yet. So what they've done is they've started designing warehouses that are designed around robots. Where you've got robots, like basically the shelves, and the warehouse itself is all designed so that fairly basic robots that run on wheels can pick up packages and move them around and take them to the right place. They're not fully automated. So I think that's one example. I've also seen that we talked about NVIDIA earlier on and their virtual environments for allowing robots, for actually developing robots and training them and all the rest of it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2214.765,
+      "endTime": 2242.279,
+      "text": "I know for a fact that they've been working with BMW on designing, actually in a virtual world, fully fleshing out a BMW car production plant, which involves much more automation. Again, I don't think it's fully automated, but trying to automate everything they can and perfecting that in this virtual environment before building it in the real world, so obviously saving tons and tons of money in terms of like developing a car manufacturing plant.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2243.906,
+      "endTime": 2272.994,
+      "text": "So, as we talk about Amazon, so in October last year, and I'm going to read their press announcement so, from our latest robotic arms, like Sparrow and Cardinal, to our first autonomous mobile robot, proteus, we're excited to see the impact our technology is having in Amazon operations. We now have over 750,000 robots Remember this is October last year Working collaboratively, of course, with our employees, taking on highly repetitive tasks and freeing employees up to better deliver for our customers.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2274.177,
+      "endTime": 2274.979,
+      "text": "Sounds very positive.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2276.045,
+      "endTime": 2318.707,
+      "text": "Exactly. I mean, what could go wrong right um? A new robotic system, sequoia, was installed in houston um ahead of the kind of holiday christmas rush last year, which apparently allowed them to identify and store inventory at their fulfillment centers up to 75 faster, faster than we can today. So all positives there in you know, the replacement of sorry, not the replacement, the collaborative working with employees. I guess that's the augmentation that we hear about a lot. I had a quote from MIT which highlights the sort of tangible impacts of robots on manual labor jobs, particularly in manufacturing.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2318.727,
+      "endTime": 2355.189,
+      "text": "So this I found actually quite difficult to understand this statement. But it said for every robot added, per 1000 workers in the us, around 3.3 jobs are replaced, leading to a net decrease in wages by approximately 0.4 percent. That's not uniform, obviously. That's a kind of average, but that means every robot being added the way I took that is, every robot being added is taking away 3.3 people, which, if I've interpreted that right, I mean that that doesn't feel. In some ways that actually feels okay. That's not that bad, because we're talking about, you know, 24 hours a day and how many people can they replace.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2355.69,
+      "endTime": 2366.579,
+      "text": "But equally we're saying, okay, if you can stick two million robots in this year, uh well, that's 6.6 million jobs, so you can spin it both ways, I guess yeah, definitely.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2366.619,
+      "endTime": 2375.791,
+      "text": "I mean, that was quite a confusing um paragraph. I guess this is one of the things that we keep coming back to on the podcast, which is.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2375.965,
+      "endTime": 2381.951,
+      "text": "Hopefully our listeners are more intelligent than we are and maybe someone can put in the comments because I also found it difficult to explain.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2382.051,
+      "endTime": 2416.409,
+      "text": "Maybe someone could can try and explain it back to us yeah, I'm gonna have to read that again afterwards, but I think overall we do, like you see a lot of these kind of statements, and it brings me back to something that we talk about a lot on the podcast already, which is the erosion of jobs by stealth, which is, I think, going to be a continuing theme, because a lot of the times it's like it's like with Amazon's press statement there about what they're doing with these robots and the positives, and not really talking about any of the negatives. But I think that's what we're going to see more and more.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2416.49,
+      "endTime": 2448.032,
+      "text": "Is you see robots entering the workplace? Or you're going to see, you know, llms starting to automate certain tasks, and there's not necessarily going to be a direct oh, we're plugging in chat, gpt today, so we're losing a thousand jobs. I've never seen that as a statement, but we know it's already happened. Thousand jobs I've never seen that as a statement, but we know it's already happened. So the reason, quite often the reasons that are given for these job losses and for the for the cuts are, as I said, as we've said before, you know, at the moment they're based, they're like based on the fact that we're in hard economic times, that kind of thing.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2448.453,
+      "endTime": 2463.719,
+      "text": "I think that'll continue to happen and then it'll just be like okay, we don't, we're going to lose a thousand people, we're going to lose 10% of our workforce because X, y and Z. I don't think anyone, I don't think you'll ever see a press statement saying because robots, because AI, because it's just like not a good look, right.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2464.079,
+      "endTime": 2505.246,
+      "text": "Well, it's not. But I mean, these are examples where you don't. I think it's a little bit different, where we're talking in previous episodes about losing jobs by stealth because of a you know, the use of a large language model, because it's about efficiency gains, right, and we're saying, oh okay, you can now do more, um, more with less, or you can do, uh, loads more with the same. But here what we're talking about is you know, if you've got those robots and then you haven't got the people, you can actually that. You can't argue. There's a direct displacement there because it's not like the. I know they talk about augment, augmentation, but it's not like you know, in those warehouses we've got now people walking around holding hands with a robot, right, when the robot's there, the people aren't there.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2505.426,
+      "endTime": 2513.698,
+      "text": "It's quite easy to see that displacement. So, although we say this comes later, I think in many ways it's easier here to see because it is a direct replacement. The person is not there anymore.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2519.945,
+      "endTime": 2530.187,
+      "text": "I agree, but I still think that what you'll see, especially initially, what you'll see is more like what amazon have said there, which is basically that's press statement is all rosy right, they've got robots working alongside people to automate, but anyone can read like anybody reading that statement.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2530.207,
+      "endTime": 2546.301,
+      "text": "We've just read that statement. I saw your face as I read it out. You know, I imagine everyone listening is is you know, not many people read that statement and are actually going to go. Oh wow, this is great for me. I'm, you know, I'm so happy that my you know, my order is going to be fulfilled up to 75% faster",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2554.925,
+      "endTime": 2556.893,
+      "text": "why we've got this podcast right to sort of raise awareness and to have some of this debate.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2556.913,
+      "endTime": 2566.339,
+      "text": "I'm not sure I'd have to look at news stories around the time, but I don't think I've seen a news article saying you know, thousands of jobs lost in amazon due to robots yeah, and this is october last year.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2566.345,
+      "endTime": 2575.623,
+      "text": "And when you read this article and you hear 750 000 robots, you realize that at some point jobs must have been lost because 750 000 robots are not doing a.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2575.643,
+      "endTime": 2615.733,
+      "text": "You know, they've not moved everyone else to just doing a, a nicer job training a robot or something on their zero hours contract exactly like you know, amazon's probably an example where they can just lose a load of people without anyone even noticing, because probably they're technically not job losses, because they're on zero hours contracts, as you say. But I think that, and you know, we're getting quite, we're getting quite doom and gloom now with this. I think that, to go back to my point before, well, and to go back to points we've made on previous episodes, I think I think the time now is for for raising awareness, for making governments aware, for, you know, asking governments to start putting this on agendas.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2615.934,
+      "endTime": 2643.728,
+      "text": "Like you say, in various countries around the world there are elections coming up in the near future. So you've got the UK and the US prominently. In the next year, this kind of thing should be on the agenda and my view, more and more every week, is that we need to start exploring some kind of benefit system like universal basic income I still come back, though, to this point that you know from from the point of view of of a.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2644.39,
+      "endTime": 2684.637,
+      "text": "You know any business, a particular business like amazon, because you know small businesses maybe not got a niche market, but a business like amazon, mass market, relies on as many consumers as possible, right, and? And all of these jobs that are going out are consumers going out of the markets, and most of the people who work in an amazon warehouse probably and I'm not making a sort of judgment here, but probably shop at amazon, just because most people in the countries that have amazon warehouses, you know amazon is the leader, so they're taking away customers by doing this. Are they just relying on governments to come and sort this out?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2685.64,
+      "endTime": 2698.512,
+      "text": "I mean, I guess it isn't. You know, in the market, in the sort of system that we live in, it is not up to business to solve this problem, but it does feel like you know, the more jobs that you take out, as we've said before, you take people out.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2698.613,
+      "endTime": 2703.437,
+      "text": "You know, you take away incomes, you take people out of the economy, you take away purchasing power",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2710.1,
+      "endTime": 2738.864,
+      "text": "but the arguments I've heard are that well, one one for starters if amazon replace all their work like, let's say, hypothetically, amazon replace literally their entire workforce with robots, things are going to become a lot cheaper. If the things that are manufactured, that have been sold on amazon are all manufactured by robots, think they're all going to become a lot, lot cheaper, like to actually buy things in the future. They are is going to become much, much, much cheaper. So that's one thing. So you need less money, so you'll need less money to buy things, so you're just in massive deflation.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2740.028,
+      "endTime": 2749.361,
+      "text": "I'm not sure we're getting quite political and Economic Economic now. So yeah, it's not my area of expertise but I guess so.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2750.022,
+      "endTime": 2785.501,
+      "text": "Yeah, I do think that is probably the case. You need less money, you know, and there's becomes like we said it. Maybe it's not, maybe money is not the same as it is now, but at some point, maybe, this concern about how much income you've got well, you need much less income. I mean, we could get to a point that we solve, you know, let's say, there's a utopia where we solve energy. Well, if you have abundant energy and ai is able to help us to be able to, you know, harness all the energy from the sun, we don't need to pay for energy. Well, we need a lot less money. Um, you know that that's kind of a level of utopia, I guess yeah you talked about ubi and we've talked about this in another episode.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2785.862,
+      "endTime": 2825.728,
+      "text": "One thing that I did think about was, you know, for a lot of these jobs it would be easier and I'm not, you know, I'm not making any aspersions here that that you know people in manual jobs, working warehouses deserve to earn less money. I'm just stating the fact that you know they earn less money on average than some of the perhaps you know specialist white collar jobs that we talked about in previous episodes. So if you put in place, let's just say, a universal basic income in the, let's say, in France, which was worth you know, two and a half thousand euros per person a month, which is roughly the equivalent, I think, of some of the kind of furlough schemes For some people working in warehouses.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2826.23,
+      "endTime": 2862.066,
+      "text": "That's probably fine because actually you've replaced someone's salary and they now have that universal basic income and they don't really need to do much. And if they want to do a bit more they can. But you know, that's fine. It may be that's easier than replacing. You know the income of someone who earns 7,000 euros a month, because you know, if you're offering a universal basic income, perhaps it's, perhaps it's an easier argument for some of these jobs to replace them and it's more affordable. Actually, you know you can tax Amazon, because it's quite simple to say you're using robots, you're using AI.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2862.347,
+      "endTime": 2894.794,
+      "text": "There's no argument. That is AI. We're going to tax you 98% and we're going to, you know, funnel all that back into people's pockets, whereas if you look at the use of other tools in an office job or in a tech job, it's kind of more difficult to argue. What's AI? Well, they're using the computer. They were using the computer before. There's still some people in my office. I guess my point here is it's not really a question, it's more a kind of hypothesis that maybe the replacement of these jobs with a UBI or with some form of income is easier",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2912.021,
+      "endTime": 2913.865,
+      "text": "maybe in the future there's such thing as a robot tax.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2913.885,
+      "endTime": 2923.948,
+      "text": "So for each robot you employ, that's displaced somebody who is getting paid two thousand dollars a month exactly a tax for using a large language model, because I think it's more difficult to see what.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2924.088,
+      "endTime": 2970.137,
+      "text": "What is the difference? We talked on last one about systems that automate expenses. Right, if my, If my system previously automated expenses at a very basic level by you know, just allowing you to capture information and input it, but now there is literally a piece of software that scans and carries out the whole process. At what point did that become AI? At what point was it not AI and what point did it become AI? At what point do I need to tax it If it's a robot? I think it's quite clear. If a robot is now moving around a factory and moving boxes and it used to be a person that is the use of artificial intelligence is you tax at the moment the way it works.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2971.058,
+      "endTime": 2976.94,
+      "text": "you tax the source of the large language model. So you tax OpenAI or you tax Google, or you tax Meta.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2977.944,
+      "endTime": 3005.846,
+      "text": "Then we come to that problem that we talked about before. That, then who's taxing them? If they're based in Silicon Valley, is it just the US? Or if they sell their large language models to Croatia, they pay that tax in croatia. I mean, we're just going to have the same problems we get with tech companies. Now, right they, they just base themselves in places with a lower tax regime. Yeah, or we need to overhaul the whole system, which is probably the answer, to be honest yeah, that probably is the answer.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3006.527,
+      "endTime": 3039.393,
+      "text": "Um, just to bring it back to, to jobs, so we we wanted to talk specifically about some, some specific jobs where we see this having a potential impact in the, I guess, the short, medium and long term. I guess long term it could be anything but in the. In the short term, we've talked about amazon and I think it is the. The first jobs that I think, in terms of robots, the first jobs that I can see being affected are jobs in factories and warehouses, where you're in a, where you're in a.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3039.881,
+      "endTime": 3043.479,
+      "text": "But they are being affected, aren't they? So they are being affected already, but more and more?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3043.619,
+      "endTime": 3049.683,
+      "text": "right? I think so. So, for example, in factories right now you don't have robots that can assemble things, because that's more.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3049.703,
+      "endTime": 3088.127,
+      "text": "That requires more dexterity and more it's more complicated, which is why plumbers and electricians are probably safe for a while, because you require that dexterity and the kind of muscle fibers which will be the last thing I mean you. You look at those videos now of the one that you talked about with the apple and it kind of looks. You can tell that it's holding it very gently, but it also still looks like a robot holding it very, very gently, because if it didn't hold it very gently it would crush it in a way that the human hand doesn't. So I it feels like there is still work to do. I mean, maybe for those kind of jobs like a plumber, you know, in a couple of years you can have a robot that can help you to tighten fixings, right, but they're not going to do, they're not going to do all the work.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3088.168,
+      "endTime": 3093.035,
+      "text": "So that really would be a case of augmenting and helping you rather than replacing you completely.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3094.042,
+      "endTime": 3115.908,
+      "text": "Yeah, absolutely so, yeah, and I think so, so it's so. It's those controlled environments. If you think about controlled environments like a factory or a warehouse, car factory, manufacturing facility, things like that, I can imagine those are the kinds of places where you don't even need a humanoid robot. You need an arm with a thing on the end of it, like digits on the end of it, not even a hand, necessarily, but something like that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3125.981,
+      "endTime": 3164.048,
+      "text": "I think it's been a couple of weeks since we really talked about backlash, and it was one of the things that I, you know, when we set up this podcast, that I was really kind of interested in in how it will happen. I think that these industries that we've sort of talked about you know talking about manufacturing, for example. Take countries like the US and Germany I think one of the challenges that there's going to be and this is, you know, also a potential scene of kind of the backlash is that a lot of these industries are heavily unionized, and you've talked quite a bit about the writers in the US and how you know how strong their union has been.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3164.068,
+      "endTime": 3201.29,
+      "text": "And so I think, you know, perhaps there's some kind of you know, hope here that those unions in some countries I mean, unfortunately it doesn't work everywhere but can either, you know, push back and manage this change or can you know, slow it down somewhat, because I think, with a lot of it, we're just going to have to accept the pathway that we're on. We don't know where the outcome's going to be, but actually what is the most concerning in terms of jobs is, you know, the glide path to get there and how that is managed. And, you know, can we really rely on governments to be proactive? It doesn't seem like it, because it hasn't happened so far.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3201.44,
+      "endTime": 3209.652,
+      "text": "So there's going to be a lot of kind of reactive measures, but do you think the sort of unionization I mean, do you think this is an area where we would see that backlash?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3215.32,
+      "endTime": 3230.806,
+      "text": "We see a lot of strikes at the moment. You know, farmers are striking across europe, australia. We see a lot of industries where there is, you know, there is sort of unrest against things which are less impactful than ai. So, you know, does that matter or do the big organizations? Well, it doesn't really matter that, they're going to just do it anyway yeah, I think it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3230.887,
+      "endTime": 3258.172,
+      "text": "I think it depends. I think a lot of my guess is that a lot of these industries are going to require the cooperation of their workers in order to introduce robots. So what I mean by that is and this is an assumption but with manufacturing, for example, you know some of the people that have the best understanding of how to manufacture things and the process and all the rest of it. They are the workers, presumably. So they, in that sense, the workers, do have this kind of power.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3259.001,
+      "endTime": 3276.973,
+      "text": "Quite often people talk about manual workers as being unskilled, but actually, like, I think it's completely wrong. Actually, it's most of the time it's the manual workers that are skilled. Actually, it's most of the time it's the manual workers that are skilled and a lot of the people we talk about being replaced, the people who've built up, you know, masses of of knowledge in specific areas, and a really skilled workers we're talking here, aren't we?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3277.836,
+      "endTime": 3295.861,
+      "text": "yeah, absolutely. If you talk, I mean, there's obviously a a broad range. But if you're talking about people who you know usually in china are manufacturing iphones and things like that, it's very dexterous, complicated work where the workers probably don't get paid appropriately, but they, you know, they do actually have a lot of value.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3296.482,
+      "endTime": 3332.766,
+      "text": "There was one other sort of point I had about the backlash and that that was just this idea, like will people really accept robots in their in their home? So moving away a little bit from from work, I guess, but it it is still work because it's replacing either people's home chores or domestic work, et cetera. You know you look at those robots like, do you really trust that robot to come and live in your house? I, I, I wonder whether that's maybe a generational thing and people growing up with that will will have less of an issue. But I just find it, you know, I find find it fascinating. People look at it and say, oh, wow, that's really cool.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3332.866,
+      "endTime": 3363.228,
+      "text": "Okay, do you want to have that in your house, that you know when you're sleeping that robot's in your home? And you know, is there a backlash? Maybe in terms of I want things made by a person? Probably not because it will cost more, but certainly in terms of this replacement of kind of domestic work. Plumbers, electricians, you know handy people come into your house. Do you want a robot doing it? I did interest in have a conversation with someone in uh in china this week about uh replacing domestic work. I was kind of making the comment that, you know, domestic workers would be kind of safe for a while.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3363.308,
+      "endTime": 3375.335,
+      "text": "And they said, well, no, I don't think so. And their view was well, I would trust a robot more than I would trust a person. Now, I guess that's individual and maybe someone's had a bad experience, it's a hot take.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3379.187,
+      "endTime": 3389.07,
+      "text": "Yeah, well, it's one person's opinion. Maybe it kind of depends on your trust of government and who is going to be in control of that robot. Maybe I'm too much of a control freak. I can't see myself wanting one in my house anytime soon.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3389.52,
+      "endTime": 3425.128,
+      "text": "I'm an early adopter with a lot of stuff. Um, I think that if you go back and look at like what piece of technology that you've? got in your home. Didn't somebody at some point say, you know, why do I need that in my home? And there's been these arguments. So, like you already have, for example, things like alexa in your home, which listen to and record, potentially, and everything that you do, and there's been examples where you know people have been listening to conversations on alexa in you know amazon's back offices and having a laugh about what people are saying and things like that. So is the idea of having that been a robot, that that sort of much of a leap?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3425.348,
+      "endTime": 3427.9,
+      "text": "I guess I mean you already have robot privacy issue, isn't it?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3427.92,
+      "endTime": 3443.597,
+      "text": "people different people value privacy, but there's a safety thing here. I mean, just looking at comments on you know AI boards and videos, you know, and it is, like anything in the world, very divisive, but there are enough kind of doomers out there",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3452.16,
+      "endTime": 3465.522,
+      "text": "amongst them are concerned enough about AI that, even if they accept it happening, it feels like having a robot in your own home. If you're thinking that there's a 30% chance of you know robots existentially wiping out humanity, that you would be a little bit cautious about having one in your home while you sleep.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3466.905,
+      "endTime": 3481.462,
+      "text": "Yeah, maybe. I mean there's going to be there. There's obviously gonna be a range of views. I think there'll be enough people like myself that would be like, yeah, I'll have a robot it can do my dishes and laundry while I'm out at work and then I see on the other side sorry, I'll see you on the other side.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3482.446,
+      "endTime": 3483.228,
+      "text": "Good luck to you.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3483.269,
+      "endTime": 3501.589,
+      "text": "I mean, you know, who knows, maybe in 10 years time you're right, maybe maybe the robots will have gone ape, like in in iRobot or something like that. I just don't see how they're going to be allowed into people's homes if they're not safe as well. I think safety will be like first.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3502.301,
+      "endTime": 3534.301,
+      "text": "But who's safety? Who's deciding that it's safe? Do you trust your government Big tech? Do you trust big tech? You know, that's the problem is who is deciding that they're safe? There's so little trust in the world. There's so much mistrust, so much disinformation that it involves you. You know, trusting an organization or a state to have your best interests at heart, I just I mean, it's not everybody. There's a lot of people who, you know, convenience trumps everything, right, but there I think there are just a lot of people out there. I'm not saying that it won't have an impact.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3534.341,
+      "endTime": 3553.686,
+      "text": "I just I don't see it being a case of everybody adopting this kind of technology in their home because I just think there is so much distrust yeah, I think you're right, but I think there'll be enough people that will want a robot or have a robot or be you know or be convinced by other people having them, that it probably won't matter in the long run.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3554.107,
+      "endTime": 3556.953,
+      "text": "In the end I'll have to pretty much",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3567.551,
+      "endTime": 3609.27,
+      "text": "so, just to keep us sort of in line with previous podcasts, we talked about what people can do and in this area, you know, maybe we're not talking so much about practical steps that people can take to kind of upskill, because if you're going to be replaced in your work by a robot, you're going to be replaced in your work by a robot and I don't think any amount of upskilling is ever going to make you as capable as, as future robots will be. But, you know, are the things that people should be doing who work in industries where they, you know, are likely to be replaced or augmented by robots yeah, I would say, if you're not in a union already, probably join one.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3610.031,
+      "endTime": 3642.331,
+      "text": "Um it's yeah, like, like, I think it's making sure that you don't get displaced unfairly, and so that's where unions come into it. That's where having the conversation, spreading the word about this podcast, for example, so that more people can get involved in the conversation and start to think about what this, what the future, looks like well, I asked gemini and chat gpt and they both agreed with you, um, and they both suggested so sort of advocacy for workers rights was the term.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3642.412,
+      "endTime": 3677.705,
+      "text": "They actually gave very similar answers. It was quite quite strange. Yesterday I was just testing out different models with the same question and I was really surprised that how formulaic some of the answers were, that that between the different models really really almost looked like they just borrowed from each other, um, but they talked about advocacy for workers rights. So you know discussions and movements that advocate for policies that protect workers who are displaced by technology. We also talked about retraining programs and universal basic incomes. I think retraining programs, you know, yes, obviously, if your industry is going to be replaced, you're going to need to retrain.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3677.846,
+      "endTime": 3711.953,
+      "text": "But you know you're not necessarily some of the jobs that we're talking about now. Where we're talking about you know, warehouses, et cetera. Those are not necessarily people who are trained. So it's maybe a case of looking at completely different industries and at the moment you don't know what to go into because you don't know what is safe if you are a technical person and it's about retraining in different areas. I guess then what you're looking at is what industries are going to be affected later and, depending on your age, you know, you might only be trying to get yourself another few years of work.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3712.013,
+      "endTime": 3731.03,
+      "text": "If you're 25 years old, it's a different question to if you're 50 years old. If you're 50 years old, maybe you can, you know, move into an area that's going to be automated a little bit later. If you're 25 years old and you are a technical person, then you know, maybe you are looking at retraining in a completely different area and it unfortunately kind of sucks.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3732.071,
+      "endTime": 3769.124,
+      "text": "You know, and not to give too negative an outlook on it, but I think if some of the things that we've talked about earlier on the podcast align, then it might not be such a critical issue. Um, because hopefully governments catch up and there's a bit of a bit more support from government there, and potentially some of the things like ubi, because I think that in terms of robotics, I think it is further away than some of the things we've talked about in previous podcasts. It's a little bit more complicated, it's in its infancy at the moment. One thing I would also say is if you, you know, if you have a interest in anything, that's kind of you know, human to human.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3769.164,
+      "endTime": 3790.748,
+      "text": "So social type jobs, then I don't, you know, I don't think any of that's going to go away anytime soon. In fact, that's probably an area that's going to grow, if anything, because you know, if you've got robots and llms doing all the jobs and things, you still want human interaction and I think that's going to become more and more prevalent, maybe become like a robot masseur or a robot counselor.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3792.793,
+      "endTime": 3814.229,
+      "text": "Maybe we switch it around and we need to come up with you know, you talked about the rewards for, for, for you know lms and and um rewards for robots. Maybe we need to work out kind of physical rewards and then we can all go and work in jobs where we, you know we keep the robots safe, we keep them entertained. Maybe we still play music, maybe we still produce art, but we just produce it for the, for the robots. Now.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3815.471,
+      "endTime": 3833.427,
+      "text": "Maybe, maybe, have I solved the problem possibly, possibly, but genuinely like on a serious note, I think there will be. You know, if all of this comes to fruition, then there'll be a lot more people with a lot more time on their hands, so there'll be more of a demand for social spaces and that kind of thing. So it's something to think about.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3842.541,
+      "endTime": 3849.031,
+      "text": "So just to finish up, today I was musing on I think it's a scene exactly from Taken From iRobot.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3863.328,
+      "endTime": 3882.478,
+      "text": "I can't remember the name of the robot, but Will Smith's mother in the in the film had a robot that was basically keeping her company, and I think this is an area where can actually keep somebody company and have a conversation and possibly stave off things like dementia for people who are in that unfortunate situation where they're lonely, then that's an example of a massive, massive positive,",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3891.34,
+      "endTime": 3933.215,
+      "text": "as we have a increasingly well, we have a problem with, you know, a potentially looming problem with aging populations all over the world and there won't be enough young people to take care of them. Now, going back to what we're talking about, about retraining and jobs if robots take a lot of the manual jobs and a lot of the, a lot of the jobs we've talked about in factories and even white collar jobs, then actually that will a free up people to look into some of those more. You know the social services type jobs, like looking after people, making sure that older people are all right, so so people will be freed up for that, but also, potentially, robots have a part to play in that as well, which is quite interesting because in that sense, in a sort of really to think of it in a really positive light, maybe this AI revolution that's coming has come just at the right time.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3934.701,
+      "endTime": 3971.772,
+      "text": "Okay then. Well, that feels like a good note to end on. That's been really fun this week. I've had a really good time doing this Bit of a bumper episode. I'm not sure we planned to go on so long, but there's just so much I guess you can talk about in this aspect of AI. Next week, we'll be back with an industry specific episode. We'll be looking at the law sector, and there should be stuff in there that's relevant, even if you're not someone working in that sector, things you can apply across the board, and also maybe some positives about how the price and the kind of availability of law services might be easier to access as we see AI tools used more and more.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3972.28,
+      "endTime": 3995.08,
+      "text": "We're going to end on a slightly different note this week, so some of you may have heard of Suno, which is kind of the new big thing where you can make your own music. So Jimmy and Suno have put together a track called Robot Visions that we're going to end on this week. Subscribe to the show, follow the show, share it with your friends, comment, get involved and, hopefully, see you next week and enjoy Robot Visions.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Suno AI-generated outro track (no human speaker)",
+      "startTime": 3996.308,
+      "endTime": 4066.802,
+      "text": "In the land of automation, where the robots take control. They're stealing our jobs, breaking down our soul. The future is uncertain, but we'll rise above this plight. We'll prove our worth, show them we can fight. They say they're more efficient, they're faster or precise, but they can't replace the passion that's in our eyes. We'll adapt and innovate, find a new path to explore. The human spirit won't be overtaken by a chore. No, the machines won't take us down. No, we'll overcome. We'll stand our ground Together. We'll rise like a phoenix in the sky, a human touch we'll always defy Bye.",
+      "chapterIndex": 10
+    }
+  ]
+}

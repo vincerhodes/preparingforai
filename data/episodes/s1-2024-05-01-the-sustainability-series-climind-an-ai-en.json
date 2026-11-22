@@ -1,0 +1,815 @@
+{
+  "slug": "s1-2024-05-01-the-sustainability-series-climind-an-ai-en",
+  "buzzsproutId": "14990756",
+  "title": "The Sustainability Series: Climind- An AI Enabler of Climate Solutions with Karen Wang",
+  "date": "2024-05-01T15:00:00.000Z",
+  "season": 1,
+  "durationSec": 3326,
+  "format": "guest",
+  "era": "early",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/14990756-the-sustainability-series-climind-an-ai-enabler-of-climate-solutions-with-karen-wang.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Join the ranks of the enlightened as we sit down with Karen Wong, the mastermind behind Climind, a Large language model (LLM)-enabled copilot exclusively for climate change, which bridges the gap between data and effective climate actions for business. With the precision of AI and Karen's drive to innovate, we venture into a future where sustainability isn't just a buzzword but a tangible target. From the picturesque streets of Dali to the cutting-edge climate sector, Karen brings a story that's as much about the transformational power of data as it is about the resilience of our planet. Imagine a world where questions float to the surface, answered with the clarity and speed only AI can provide. This episode doesn't just shine a light on AI's potential; it's a beacon, guiding industries through the complexities of climate risk and the mysteries of emissions calculations, all while keeping our feet firmly planted on the ground of solid, reliable data. As we wrap up our journey, we don't shy away from the paradoxes and potholes on the road to a more sustainable future. The digital divide, AI's carbon footprint, and the shifting sands of the job market are under our microscope, as we dissect the societal changes AI ushers in with the finesse of a surgeon. The big picture is clear: AI might be the ally we need in our battle against the climate crisis. So, let's gear up, join forces, and let AI lead us through the fog towards solutions that are as innovative as they are necessary.",
+  "summary": "Matt interviews Karen Wang, founder-CEO of Climind, a climate-focused LLM copilot built on curated datasets with RAG citations, extracting ESG data back to 2013 and answering climate-risk questions a general model would fumble. Wang argues access to information is productivity, while her biggest worries are the digital divide — climate-vulnerable regions lack frontier-tech access — and election-year chaos derailing climate policy; on jobs, she takes the optimistic line that AI creates more roles than it kills.",
+  "keyTalkingPoints": [
+    "Climind's moat is a climate-specific dataset plus RAG citations; agents automate repeatable work like ESG report extraction (HKSE filings back to 2013)",
+    "Karen's thesis: access to information is productivity; users do not care if it is AI, only that the problem is solved",
+    "AI as enabler: climate-risk modeling is the real gap (short disaster histories); gains are iterative, not a silver bullet",
+    "Concerns: data-center emissions claims lack solid papers; the digital divide maps onto climate vulnerability, driving polarization",
+    "2024's elections threaten climate policy for half the globe; China skills/innovation vs US bottom-up dynamism shapes AI development",
+    "Jobs: Wang's standard view is AI will create more jobs than it kills (Jensen Huang: CS is not a great major); Matt cannot agree but hopes he is wrong"
+  ],
+  "hostStances": {
+    "jimmy": [],
+    "matt": [
+      "Wanted a big AI climate breakthrough and is disappointed the gains are iterative rather than revolutionary",
+      "Accepts AI can crunch climate risk where human analysis is too slow, and credits Climind's citation-grounded approach",
+      "Cannot see how more jobs are created than lost this time, though he hopes Karen is right and he is wrong",
+      "Worries AI diverts capital and attention from climate; wants regulation that keeps entry channels open for small founders"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-05-01-the-sustainability-series-climind-an-ai-en-2514.104-ai-will-create-more-jobs-than-it-kills",
+    "s1-2024-05-01-the-sustainability-series-climind-an-ai-en-1923.44-the-digital-divide-will-compound-climate-vulnera",
+    "s1-2024-05-01-the-sustainability-series-climind-an-ai-en-2669.164-job-losses-from-ai-will-not-happen-as-fast-as-th",
+    "s1-2024-05-01-the-sustainability-series-climind-an-ai-en-1116.4-climind-is-in-the-process-of-opening-its-platfor"
+  ],
+  "speakers": [
+    "Matt",
+    "Karen Wang",
+    "Suno AI-generated outro track (no human speaker)"
+  ],
+  "chapterCount": 8,
+  "turnCount": 105,
+  "chapters": [
+    {
+      "title": "Introducing Preparing for AI",
+      "startTime": 3
+    },
+    {
+      "title": "Guest Interview- Karen Wang: Introducing Climind",
+      "startTime": 45
+    },
+    {
+      "title": "AI as an enabler of climate solutions",
+      "startTime": 1180
+    },
+    {
+      "title": "AI as a barrier to climate solutions",
+      "startTime": 1658
+    },
+    {
+      "title": "Regulating AI",
+      "startTime": 2194
+    },
+    {
+      "title": "The effect of AI on jobs",
+      "startTime": 2468
+    },
+    {
+      "title": "Karen's recommendations for listeners",
+      "startTime": 2768
+    },
+    {
+      "title": "The Power of Words (Outro track)",
+      "startTime": 3247
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.568,
+      "endTime": 42.174,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change, the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human social impacts of AI. We're making it our mission to help you prepare for the human social impacts of AI. It's always darkest before the dawn. Everyone, welcome back to Preparing for AI, the Sustainability and AI Sub-Series. So last week, we looked specifically at energy use and the potential of AI to enable and to be potentially a barrier to the energy transition.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 42.916,
+      "endTime": 87.344,
+      "text": "Well, today, our specific area of focus is going to be on a large language model enabled co-pilot called Climind, which is designed specifically for climate change solutions and which bridges the gap between data and effective climate change actions. But, of course, we will talk about much more than that, I'm sure. Unfortunately, we've got no Jimmy with us today, so let me introduce our very special guest and I have to say genuinely, I'm honored that you've agreed to come and talk with me today. Karen Wong is the CEO and founder of Climind. She is a UN Sustainability Development Goals Young Leader, a Schwarzman Scholar, a board member of UN Live, and well, I guess I will let her introduce a bit more about herself and also about the Climind platform.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 87.364,
+      "endTime": 94.449,
+      "text": "So, karen, thank you very much for joining us and please, you know, give our listeners a bit of an introduction to you and what you do.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 95.473,
+      "endTime": 140.569,
+      "text": "Thank you so much, matt, and hello everyone. My name is Karen. I'm from China. I actually came from, I would say, one of the most beautiful places in China. It's called Dali. I guess I rooted that kind of bridge. The like where I'm working on right now is the climate change field. So I have a background actually not climate change, but in computer science statistic way ago when I just started my career. It was kind of coincident how I got into this and then followed up with a rapid hole just going into climate and then what we're doing right now. So it's a startup ClimbMind. Climbmind is a combined word.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 141.291,
+      "endTime": 142.494,
+      "text": "It's climate in the mind",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 146.32,
+      "endTime": 177.215,
+      "text": "word um, it's climate in the mind, uh, we got the name. So it started a year and a half ago, like almost two years. Uh, I was still at, uh, cambridge, uh. So back then I was working at imperial college, uh, london, as a researcher, uh, in the climate green finance center, uh, and I live in cambridge, um, so it was a like. One day on the street I saw a really cool company. It's called Second Mind. I think it's an autonomous vehicle. We were starting the idea of Climate Mind having what we can do to really accelerate the whole field of climate change.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 181.514,
+      "endTime": 235.646,
+      "text": "That's how it got the name for. Let's just get back a little bit. Somind is 99% of my energy right now. From this startup, we're building the large language model, the data infrastructure to facilitate, accelerate the transition. So it goes beyond like a chat LGBT. The product is the software itself, but now a lot of, for example, like financial companies, education institutions, are using it for a varied purpose, from education to certain knowledge research and then ES report analysis and a lot of this going on. And then we're still exploring, apparently, like how climate as a young company can actually bridge a gap the exciting word of AI but, on the other hand, is climate change apparently a big problem.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 236.1,
+      "endTime": 273.907,
+      "text": "They need to accelerate the process. So this goes to also spend a lot of time in the public sector. So I got really lucky to be selected as one of the 17 stg young leaders, its official appointment under the youth envoy office uh, this office is originally from the secretary general office and then now uh trying to like uh to open the door to young people to access the United Nations decision-making activities, etc. So through that, I think life has been pretty intense in the climate sector and I cannot wait to share more today.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 276.541,
+      "endTime": 317.312,
+      "text": "And I can confirm that where you're from is one of the most, if not the most, beautiful parts of China. So for people who come here, then do it sustainably, but definitely travel to Dali and around the lake and spend time there. It's a wonderful place genuinely. So I guess maybe we start off by trying to kind of take a positive and look at the potential for AI to be an enabler of climate solutions. So you know, in terms of climate, I think you've said a bit about where the idea came from, um, but do you want to explain a bit about how the platform works? I mean, what's, what's the advantage of a focus model like this?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 317.56,
+      "endTime": 326.091,
+      "text": "You know, why would somebody not just use a general model or, you know, tailor their own open-sourced model? What, what's the advantage that Climind could offer?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 327.6,
+      "endTime": 393.593,
+      "text": "Yeah, that's a great one. I think a lot of misunderstandings of AI's impact in different sectors, not necessarily in climate, is we emphasize too much on the AI rather than the problem that we're actually solving. So the beginning point was I started well, I was at the Imperial College and doing research on carbon markets, physical risk, and it was really obvious how slow this industry has evolved. And if you look into climate finance, for example, what other players, what kind of value, what actions people are doing data is the building block for many decisions, either insurance, product building, or a simple example like how you're doing access, accessment for portfolio, like the stress testing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 394.52,
+      "endTime": 434.752,
+      "text": "And then it was quite shocking how old school, like back then, if you look into more in this area, like people running around Excel, excel, and then we call it the scenario analysis for climate risk uh, not even prediction. Oh well, I think it's. It's a really wise use of the, the vocabulary here, because it's true, like today we know so limited uh about what's going on for the climate risk. Uh, there's two types of climate risk, like transition and physical. So that was a big importance. I really hope there's a tour at least can save some time for researchers of literature review or just in general like finding information.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 435.857,
+      "endTime": 497.255,
+      "text": "Large-language model was not a big thing yet back then, but we kind of started early like exploring the NLP solutions to apply into this like knowledge-intense field. So back to the question. I think the additionality of ClientMind is we're not positioning ourselves as an AI company, because our users they don't care if it's AI or not AI. What the users care more about is whether we can help to solve the problem. And one opinion I have is I think access to information is productivity and the productivity is where you can save costs and you can increase the growth. And then, especially in this area of climate that we're talking about, literally like last year at the united nations general assembly we look at the numbers, are shocking, like how far we are, uh like until all that goes, um, like scg or like the climate goes.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 497.797,
+      "endTime": 540.962,
+      "text": "So that was really naive. Uh, motivation, like we hope to be something people can save the time to just work on things that really matter. But down to the practical level, clientmind functions as for now. It's like a chat GPD, but we're creating more interface. The idea is everyone can. If you can speak a type of language, you can play around the software and I think most of the entry-level work are completely can be done by the platform we're using right now and we keep exploring what else we can do. And besides, like a question answering, we also create different agents, so task-solving agents.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 541.042,
+      "endTime": 584.089,
+      "text": "For example, like a recent one is how to extract a lot of information from the esg report, uh. And then that goes to like, if you scale that it's, it's actually much harder uh than you saw that it can be, uh. So now our user can just use climate like click a couple buttons and then to get all the esg answers they hope to get, for example, from hong kong stock change, all the ESG answers they hope to get, for example, from Hong Kong Stock Exchange all the way back to 2013, until today. So we save a lot of time for them, not just the money, and I wouldn't say this is the beginning of what's possible and I think the final thing I want to address on this, the product also doesn't matter.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 584.984,
+      "endTime": 613.25,
+      "text": "So we hope to be a solution provider. At the end of the day, especially if we do a B2B our users, the consideration they have is sometimes it's more complicated for decision-making, especially if it goes to corporate for the decision-making process. We're still in the early stage of exploring product market fit, but so far we've got a really good serving a couple of big clients in the different sectors.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 615.06,
+      "endTime": 640.748,
+      "text": "So I mean agents is obviously, you know, this year seems like although I'm sure there'll be many other developments, but it feels like it's the year of agents. You know that's the next big step, and already Google obviously have you, you know, started to advance that. So is that where your focus is at the moment in developing specific agents? That will be, you know, then, of of more specific use to your, your clients um, yes and then no.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 641.209,
+      "endTime": 685.444,
+      "text": "I think we spend half half of our data set and then function. So data set is what differentiates ClientMind compared with like chat, gpt, publicity or other tours in China, and the agent part is really well the way I think a large-scale model also change. What it changes is the format of software. We don't need that much complicated design in the future. So agent-wise we're trying to find the common ground whether it's repeatable and really labor-intense. Tasks like climate can jump in. So far we'll find a couple.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 685.745,
+      "endTime": 731.915,
+      "text": "Uh, if it can be predicted like be scalable, then we're gonna like tailor it into more user-friendly and then be part of the platform in the future so if I I think from the point of view of you know we, we think our listeners, if we have the the right target market are not experts around the use of large language models or AI. They're people who you know are interested in and are trying to learn about this. I wonder, because what I would think at this point is well, okay, that sounds really nice, but I don't really understand. You know practically what is the use of that. How is it useful? So I know it's obviously you know there may be sensitivities around discussing your clients, but maybe you could give us a few examples of practical uses of Climind with you know specific ways in which it's being used at the moment.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 733.12,
+      "endTime": 780.333,
+      "text": "Yeah, I mentioned one example with just a bit more details on that, like how the financial rating comes up. Either it's climate related or not. You basically need a lot of data point to tell you like how's the performance of this public company, or like private company. Traditionally you find information from like financial report, like news, different source information, and then now the majority of the sources are from carbon disclosure, esg disclosure, so environmental, social governance, and the one pain point here is those reports are not really readable. It's well-designed, but it causes additional level of issues for the user.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 781.383,
+      "endTime": 825.415,
+      "text": "Like, the useful information is actually limited. So what happened is previously you basically need to hire a lot of researchers, entry-level interns, to gather the data from a bunch of ES report and then consolidate the data point into the actual reading part to calculate the score. For us it's not necessary Right now. Our user can just upload a report, or we upload a report for them, and then what they can do, what they need to do, is just to ask the question and then we'll generate the answer for them. It's accurate, it can give you the citation of where it's coming from. So that's one really concrete example.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 825.495,
+      "endTime": 867.407,
+      "text": "And then this is recurring as well because you need to do that every year and the more companies are doing disclosures, I imagine this market can just go rapidly. And then the second example I think research is something we're figuring out. We did some benchmark. So when you search a really specific climate-related question on Google, on Chachibiti or Publixity and then NUS, there are a couple of differences that can make climate really different from the others. So that scenario applies for more like researchers, for example, as researchers doing scissors, or simply someone working a bank to look into climate risk.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 868.141,
+      "endTime": 905.984,
+      "text": "I can imagine a lot of moving piece like small questions. Traditionally you need to like search from a bunch of materials, maybe a lot of calls, and now we can just ask a question and then we give some difference. One is the citation part, so credibility is the number one thing for us to build a product. And then second is how comprehensive and up-to-date the answer can be. And then third, so we did a lot of fine-tuning and making sure the answer speaks the climate language. So, for example, if you ask a physical risk, it would not give you something about sports and then you will get a sports answer.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 906.024,
+      "endTime": 920.989,
+      "text": "If you're doing that in chat GPT, like without much prompt, yeah, so that's, I think, a really structured way of answering unstructured questions. So two examples I can give right now.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 921.261,
+      "endTime": 961.187,
+      "text": "So presumably then it's not hallucinating references, um, because I can imagine that would be something for you. That would be, you know, a real risk to the kind of integrity and the trust in the model. So, yeah, we've talked in previous episodes around the risks of hallucination and particularly if you work in, you know, sectors like the legal sector or you're talking about essentially accounting, you know you cannot afford to have a hallucination of a you know a reference, for example. So using your kind of data set rather than an open source model means that hopefully you've managed to, you know, ensure as much as possible that the information that's going to be given out is correct.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 961.227,
+      "endTime": 970.566,
+      "text": "So that's one of the selling points I would guess from your model over a you know an open source model or even a closed model that's going to be given out is correct. So that's one of the selling points I would guess from your model over an open source model or even a closed model that's got a bigger data set.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 971.609,
+      "endTime": 1018.836,
+      "text": "Yeah, exactly, I can absolutely imagine how people search information in the future and fundamentally, I don't think people have a need of searching. It's finding information you need and hallucinations partially can be solved by this technology we're using right now. It's called RAC, but purely using some RAC is not enough. So RAC the full name is Retrieval Augmented Generation, so this is a sort of way you can generate the citation, but there are like nuance there, for example, how comprehensive your source is, and then all those information really from the source, so the relevance and also like the how updated those information can be.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1018.896,
+      "endTime": 1065.009,
+      "text": "So that's definitely, I think, make climate really different from other tours we have and in this world you're absolutely right this field has been evolved so quickly. We see a lot of open source projects coming out and I think the trend is that we see the trend that the cost can be driven down, moving forward and also the integration of AI and then vertical sector. We saw many examples in legal, for example, like people doing legal LIM solution on the climate. Potentially, I think one of the first companies actually created the product, not the research paper level, but do something like users are using right now.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1065.581,
+      "endTime": 1094.408,
+      "text": "And is this something that the public can use? You know, if an individual who is interested in climate change so I'm, you know again, I'm assuming that people listening here there may be people who have a particular interest. Maybe they're studying, maybe, you know, they don't work for an organization which is going to pay to use the platform. Is there a way for people to test it out? Is there a way for people to try it? Is there, you know, a way they can sign up and have a go with with Climind?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1095.331,
+      "endTime": 1114.161,
+      "text": "yeah, we uh. I mean we're online, it's really easy to find climindco, um, but unfortunately we haven't opened, like fully open to individuals yet. So there are a couple of considerations. One is we're like a professional sector, so I don't imagine we kind of like to B2C, feel like.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1114.201,
+      "endTime": 1116.329,
+      "text": "Yes, it's a B2B focused model. I understand.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1116.4,
+      "endTime": 1164.949,
+      "text": "Yeah, and then most of the users are professionals. So we have a form waiting list, so kind of screening the waiting list and making sure this is actually a user in the sector we can help them. So now we got actually a couple hundred, I think almost a thousand users back in and it goes across the globe, not just in China, but people speak different languages. That gives us really good feedback on the model updates. But, moving forward, we are in the process of opening this to the general public, and also not just climate. They can search anything Just for a climate question. We're better. Yeah, so we're in the process of slowly opening this to the general public because we really want to expose us to the market and see how people react with such a tour.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1166.601,
+      "endTime": 1172.131,
+      "text": "Regarding business model, we do B2B as the main financial source.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1181.862,
+      "endTime": 1236.69,
+      "text": "So we've really focused there in the beginning, on Climind, which we said we wanted to do today, because obviously that's your model and that is where you have a specific background and understanding. But I wonder just sort of more generally, before we move to the other side of it, how do you see AI in general as an enabler of climate solutions? Do you think there are other areas where you're enthusiastic and you think there is a way for AI to make a really positive change? I mean the last podcast that we did, which Anders Hovey, who is a research fellow in Oxford. He's a specialist on energy, and I think the thing from that conversation that came out to me was AI is going to continue to kind of iteratively help with a lot of the tools that are already in place, but there isn't a silver bullet that we could think of.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1237.04,
+      "endTime": 1263.308,
+      "text": "You know there's not a magic solution that AI is going to come in next year and just suddenly fix. You know it's not going to tell us suddenly how we can harness all the energy from the sun, but maybe further down the road there are you know there are developments that are going to make a huge difference. Is there anything particular that you're excited about or that you, you know, are expecting to happen in the next you know kind of few years um, absolutely, and then that's actually the origin.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1263.829,
+      "endTime": 1323.291,
+      "text": "Uh thought, uh, we're thinking to have climate mind. Uh, it's not just helping people, uh to write reports or doing like tax stuff. I think the sector I'm really hoping to get, or be part of it, um, is climate risk uh. So how you measure, how you understand, uh, physical transition risk at an asset level or a level that's really useful for people who need to access it, and why this is so important. Climate disaster we have a limited history of recording the climate disasters, so that caused a lot of challenges when it comes to model nature disasters, things like that. So there's a technology limitation, but also this area has been evolving slowly, but now I think it's experiencing exponential growth.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1324.34,
+      "endTime": 1364.143,
+      "text": "As you mentioned, energy is a really exciting field because there's a lot of computation stuff you can do to either simulate to do work with a lot of upfront cost but you can kind of simulate what's going to be happening in the future if you have the new grades or new format, new format of energy source. So back to climate example. We hope to do something in the climate risk field, um, so by that I mean, uh, with the really complicated source information, how you can precisely calculate the risk. Uh, what does that mean to your company or to your supply chain or to your like? Even like a policy?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1364.584,
+      "endTime": 1408.606,
+      "text": "Uh, like a risk to asset? And I also saw the big gap, like today we're still doing scenario analysis for that layer and insurance sector, perhaps like the frontier to push forward that, because you need to build new product based on understanding of climate risk. But there's so much more can be done, like either collect more alternative data or the way how you process the data. Then you're right, like the other field, we have such a matured application of ai already, like medical or like job discovery in climate is still quite new. But I think the good news is also I saw more and more attractions in the sector, but also perhaps because I'm working in this field, so I got fed by the information.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1409.28,
+      "endTime": 1446.835,
+      "text": "Oliver, it's definitely a big topic right now the hype of AI for climate science. We check out Microsoft AI for Guild, a lot of topics under this umbrella, same for Google, and then there are a couple of other organizations that I interviewed previously for our podcast. Like climate change, ai, osper is a great institution that we used to work with closely at imperial. Yes, I think that that's something we imagine we can do, especially for multi-modules or beyond the tax. Uh, we also can deal with imagery like different unstructured data. That can be really exciting.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1447.46,
+      "endTime": 1464.255,
+      "text": "I mean again, I guess it's on the reporting side rather than as a kind of solution in itself to climate change. But one thing that I think would be really useful, that AI could do and I guess maybe this is something you're thinking about, because it's obviously something super important",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1485.28,
+      "endTime": 1506.663,
+      "text": "but a better way or an easier way for companies to be able to calculate their scope for emissions through their supply chains. More and more that at both a national level and a company level, organizations and governments and regulatory authorities are trying to get out of some of the regulations around how they report scope three. So I don't know if that's something that is being considered, but it feels to me like that is somewhere that AI could make a huge difference and make it much easier, and therefore you make it easier, then you make it less attractive easier and therefore you make it easier.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1506.683,
+      "endTime": 1513.19,
+      "text": "Then you make it less attractive for greenwashing, you make it less attractive for organizations to manipulate data Accounting is well?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1513.59,
+      "endTime": 1519.856,
+      "text": "the simple answer is yes. You can do really complicated reasoning and calculation",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1523.62,
+      "endTime": 1564.226,
+      "text": "and then carbon accounting is actually just linear algebra, uh. So the computation part is easy. The really hard part is how to collect, well, the granularity of the data. I had worked on a couple of mortgage accounting uh case like for bank uh back to uk, um, and then spent much of the time actually trying to get data, for example from buildings, electricity consumption. And then you realize, like those data point is not owned by the financial institution, it's not owned by even the household it might own by the electricity company or somewhere else. So scope three is quite hard. But there's a research actually done by a researcher from Oxford.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1564.44,
+      "endTime": 1608.342,
+      "text": "I think I kind of really agree with him. Accounting, common accounting, is more important than one. It's consistency. How a company reports consistently by one or different standard cannot change every year. It's hard to compare. You cannot compare Apple with banana. And the second is through one industry, like you're expecting company report by the same standard, so really good, horizontal. Whether scope three is necessary, I think it depends on the usage of the emission number and how much effort you need to spend into that, and then how accurate the data can be, whether that makes sense for costing issue.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1608.804,
+      "endTime": 1637.891,
+      "text": "I think the key thing is people are trying to figure out where you can access or you can evaluate whether a company has more greenhouse gas emissions or not, and the future is more important than the past. There's so much can be done. I think, like synthetic data, the estimation might also be a than past. There's so much community. I think, like since I did the data, the estimation might also be a way out. That's definitely a area, and there are a couple of companies I know like doing common accounting software which is already unicorns, so, but I think today, if we repeat the same thing, that will be a little bit difficult.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1637.96,
+      "endTime": 1650.191,
+      "text": "So we're not really on the accounting side right now. We do have clients asking whether we can do accounting for them using different standard. Um, we're still exploring that. So maybe, and we'll see.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1650.212,
+      "endTime": 1650.332,
+      "text": "yeah,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1659.428,
+      "endTime": 1712.138,
+      "text": "shall we flip it around now then? I mean, we've we've tried as much as possible, I think, to be positive about how artificial intelligence can be an enabler, but how about in terms of concerns around AI as potentially a barrier to climate and sustainability goals? So I don't want to go too much into detail of these two examples, because we discussed them quite a lot in the last episode, but the the two that I had and that myself and anders talked about. One was your energy use from data centers, and obviously you know that if we're looking at potentially an additional 20 percent of of world energy use, then that you know that potentially diverts from uh gains that we would have made in terms of moving over to to green energy sources, for you know, for for other um users of of electricity and power.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1712.499,
+      "endTime": 1751.863,
+      "text": "The second one is the diversion of capital that you know, money that would otherwise have gone to helping achieve climate goals, does it then go to you, you know, purchasing GPUs and chips instead? I mean, anders told me and this was quite useful that in his view, nobody who's going to invest in those chips is going to invest in energy, because they're just not. You know, they're not rivals. You're not going to find hedge funds? You're not going to find hedge funds. You're not going to find. You know, venture capital invested into energy in the same way, because it doesn't have the same you know, it doesn't have the same gains it doesn't have.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1752.284,
+      "endTime": 1785.829,
+      "text": "It's so kind of long term so that in a way, I guess is is kind of quite reassuring, um, but on the other hand, it does mean there's only so much capital to go around. I still think, if money is focused on ai, because that's where all the growth is, does it divert even if it's not necessarily money, but it diverts people's attention away from, from climate goals and sustainability? So is is there anything that you have as particular as a concern? If it's, you know even better. If it's not one of those two examples, or if it is one of those two, then maybe you'd like to expand on on where your concerns are that's a.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1785.93,
+      "endTime": 1828.095,
+      "text": "That's actually a brilliant comment, by the way. Um, I well, I don't think the attention to large language model ai will dilute attentions on climate. Uh, we're living in a really busy world, uh, and then, uh, the amount of uh, well, the capital flow, if you look into it, I think last year, uh, perhaps is a also the peak of uh climate, uh investment in in UK. Uh, like, from the pitch book I saw what I do, what I I want to address on that, and before I give you a think of my concerns on this and I, I'm currently finishing the SAAC at the Schwarzman College on AI large-engine model for IPCC, so it touches a little bit on climate science.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1829.54,
+      "endTime": 1851.308,
+      "text": "It is too early, I think, to make the statement like new AI will bring more emission due to data center. It's a complex issue and I don't think there's a solid paper on that yet. And then I don't think like there's a solid paper on that yet because I think company running the data center is also figuring out like energy source be more green to run the center.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1852.1,
+      "endTime": 1868.612,
+      "text": "And they're going to be more efficient as well. I think we understand there's going to be efficiencies around the way they run around cooling. So yeah, I appreciate it's almost impossible, isn't it, at the moment, to actually forecast the different. You know how much is that increase in technology going to mitigate the additional need for energy?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1869.214,
+      "endTime": 1922.89,
+      "text": "Yeah, I mean, it's a totally different perspective. Like I might be wrong, but I guess, like some people might look into it, like crypto mining and the emission issue, it's a positive collater but it's actually not the case and my concern. Speaking of concern, I think I saw a couple. So last year I had a chance to travel a lot. I went to like three times in New York, three times in for Europe for UN conferences, all about AI and climate, and I think there's a digital divide. That's the first thing I noticed Regional countries being able to access the latest technology comparables cannot. If you map it out, I can imagine there's a potentially correlation of access to technology and impact on climate.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1923.44,
+      "endTime": 1980.586,
+      "text": "So we know from the IPCC reports for example, in Southeast Asia, some region might be the place suffered most, but they're not a big contributor to emission and then they happen to be, I think, not really prestigious on accessing the firsthand of large energy model or similar technology. So I'm really worried about that because if the dynamic of society change, like how all society get lift up, how the tour the future generation can access, then it's hard to align the same level of education and the next generation. So the divide would just be bothered. Combining the aging issue, I think it's hard to imagine, like, where we are going to like with such a really challenging world and then, once you have the digital divide, it goes to like, I think, the polarization of society and then, like all the conflicts will be happening.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 1981.161,
+      "endTime": 2026.975,
+      "text": "So not coming on the wall, but I think, like what happened in Ukraine, like Russia and like now in Middle East, a lot of also gets to the anger that people have to like nature resource, like to well, the limited resources we are accessing as human. So that's one. And then second is the thing the like, the prediction of how stable the society can be, like we're in the election year. It's going to be chaos and then that will significantly impact the climate policy, almost for more than half of the global population. So much work like potentially like I think it would be hard to say, especially for a large economy like US.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2028.101,
+      "endTime": 2083.491,
+      "text": "So I was actually invited to a panel with John Curry in Oslo for a couple of months ago. In Oslo, I have really like some great lessons to take, and also a really interesting moment that I'll share here is he made his remark saying so he's in his 80 this year and said like I'm 80 this year, but I'm not living this out here and by that standard you can imagine like I'm 28 this year. So it's like more than half a century. I can still work in the sector, but all the climate goes, it goes to like 2050, 2060. So I think this field has so much uncertainty, like it's it's really tough to imagine. So I guess that's also why you need more computing, like data digital tour, to give reduced uncertainty level and then give a more short answer like how we should design the policy and then what kind of technology you should invest in.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2083.761,
+      "endTime": 2127.769,
+      "text": "I think it's a great point. I mean it's, you know, not only is it an election year at the moment you sort of touched on war but there are, you know, two or three active hot conflicts in the world at the moment. There are proxy conflicts, there's instability. We're still in a pandemic that people want to pretend doesn't exist. But is you know, there are more people dying and being infected with COVID at the end of last year, beginning of this year, than any time other than the kind of big Omicron peak we have, you know, bird flu potentially on our doorstep. There are so many things to worry about and to think about, and it often feels to me that climate change in many ways, is the big one, but it's also the one that feels furthest away.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2129.583,
+      "endTime": 2173.228,
+      "text": "And you know AI. You know we talk about existential threats from AI and the sort of real doomers about the existential threats from AI. Well, actually, you know, it depends on how far that is off. There's so much instability that will you even get there, you know, is that the one you need to worry about? And I think it's the problems that are further away, and keeping people focused on those is incredibly difficult when even down to a micro level, your cost of living and people's own daily struggles. It's very, very difficult when people have got so much in their lives to keep people focused on climate change when, like you say, we're looking at things that, even though it's happening now, in people's heads it's about 2050, it's about 2040.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2173.289,
+      "endTime": 2185.211,
+      "text": "It's not about imminent, when actually a lot of the things are a lot more imminent than people think. So I share your concerns about society and how we keep people focused on it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2194.141,
+      "endTime": 2206.813,
+      "text": "Should we talk a little bit about regulation? So I just, you know I'm interested in your views on this and in particular, I guess, on large language models. But do you feel we're moving in the right direction?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2212.16,
+      "endTime": 2215.44,
+      "text": "Do you support acceleration or are you someone who would like a slower approach to the development of AI, with more guardrails in place?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2217.023,
+      "endTime": 2253.27,
+      "text": "Well, it depends on where we're commenting on. The AI competition really just happened happening a couple of countries now and I think there's no difference like with any other technology, like chips or like synthetic biology things, um, because it's hard to foresee what ai will make, uh the impact. So it's kind of scary like for I think, in that way to look into policymaking. What I can navigate right now I think, like China,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2256.7,
+      "endTime": 2303.49,
+      "text": "like one thing China is really good at is skill and innovation, and not just AI but for a lot of manufacturing stuff. But US is like you have a more dynamic market that carried the bottom-up innovation. So my previous startup was invested by YC China, now named as America Plus. So from that example you can see like the really early stage AI companies now the US might give you more chance to grow. China is a bit hard but on the other hand, china is easier. It's like capital concentration is higher, so government is leading a lot of the investment in the AI field. So I think the public policy impact on AI will perhaps be the biggest decision.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2304.662,
+      "endTime": 2369.663,
+      "text": "Biggest factor is to change how the sector will evolve. But the second kind of uncontrollable factor I think is the talent. Like we're well in the end, like all the things, are based on the access to talent. It's interesting that in China, you see, like the top five LRM companies are basically located in the nearby Tsinghua, or like Peking U, here in Haidian, I guess the thing that you ask, like Western and Eastern coast, and yeah, I think like that's kind of. I don't think I have a position to comment on, but from purely observation I do hope like more like like well, incentive, incentive can be created, uh in ai, but not just concentrating on a couple of big players, um, but actually trying to create a entry bar, entry channel, uh for founders and then for uh smaller capital providers, um as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2369.704,
+      "endTime": 2397.91,
+      "text": "I talked with some vCs. For them it's also hard to access some deals because the barrier has been increased a lot to get into a round of LIM company. Special fundamental layer, application layer, is slightly different. I don't think it's just pure AI thing and also not just AI. I think public policy is for climate as well. So when you combine the two topics together, I think that's quite an interesting topic.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2398.555,
+      "endTime": 2444.822,
+      "text": "I think it's interesting that it looks like the US in the summer is likely to, if not ban, but restrict a lot of open source models. So obviously Lama 3 just came out from Meta, which I think, certainly for price, is the best performing open source model. But I think very much like it looks like the EU will do the US will regulate what an open source model is able to do, how big an open source model can be, and maybe if China doesn't do that, then it allows China to catch up in many ways. That then it allows China to catch up in many ways. I think we'll definitely do a future episode around AI tools in China and particularly large language models, because I think it's something that in most of the Western media certainly you don't see or hear about, but actually we maybe see the robotic side.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2444.842,
+      "endTime": 2451.264,
+      "text": "I think that's the one where you know you can see that China's ahead. But I think for most people they only know of Silicon Valley and maybe Mistral,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2458.575,
+      "endTime": 2476.612,
+      "text": "but maybe don't know any of the Chinese large language models or anything about the kind of level of development and innovation that's happening. I would like to ask you just I know it's not your area of expertise, but you're. You know, because in this podcast we, this podcast we focus on the impact on jobs and on people.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2482.935,
+      "endTime": 2490.668,
+      "text": "So I just wonder your views on the effects of jobs in your area, obviously, but just in general. I mean, are you in the field that thinks that AI will just fuel a huge productivity boom and we are headed to a utopia,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2494.815,
+      "endTime": 2499.375,
+      "text": "productivity boom and we are headed to a, you know, a utopia? Or are you more concerned, particularly about, you know, the, the short-term loss to people's jobs and and how those are replaced?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2499.836,
+      "endTime": 2504.692,
+      "text": "yeah, so we're not doing education, but I think I have lost a lot to share in this topic.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2505.174,
+      "endTime": 2512.26,
+      "text": "My simple answer is and it's not a binary question, so it doesn't have to be one side or the other. You know I appreciate most people it's, it's somewhere in the middle.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2514.104,
+      "endTime": 2518.734,
+      "text": "Well, my standard view is AI will create more jobs than killing.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2518.754,
+      "endTime": 2520.795,
+      "text": "more jobs Do you really believe that?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2521.637,
+      "endTime": 2572.543,
+      "text": "Yes, and then by a couple of evidence or a thought experiment. Ai is not the first wave we're facing the kind of structure change in job markets we used to have industrialization, like several waves. So a couple like one is like I think it's Jensen Huang who gave the comment on computer science is not a really good major compared with like a fundamental science, a biologist. I completely agree, I think, like AI created a job because one it's making change, basically for all the sectors that are touching on internet and data. And then you will create a lot of missing gaps. You need people to come to solve those gaps, like how you prepare the data for AI, how you can understand the data for AI, and how it would be the new software.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2573.135,
+      "endTime": 2613.668,
+      "text": "So those are like new, new job market opportunities. And the second is also change the way of education. It's like even how we teach, not just students but I think like for teachers, professors, so and then we don't want to like, I think, a stay in the original point, like making no change All the generations. That's getting better. And then, third is like one thing I think AI really well, this wave is different from the others is the scale and the speed of the change and this is code on John Doerr's book, but I think the scale and the speed of change really encouraged everyone to look into the future ways of living.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2614.736,
+      "endTime": 2659.026,
+      "text": "And then, yeah, so that goes to, I think, endless discussions in sectors of how that will evolve. But this also links back to the point I raised about digital divide. So, for example, like my grandmom she's kind of like a cool grandmom, so she used WeChat page. She was like tiktok uh to watch stuff, ordering food from taobao, but a lot of the uh grandparents, like they don't even have a smartphone yet. So I think, like as we, well, there's gonna be a concern uh, so how how we can make sure, like this digital world, it is still inclusive for uh people without a lot of internet or data access. That's perhaps like a something hard to avoid.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2659.487,
+      "endTime": 2668.863,
+      "text": "Yeah, I don't think that this is the first time like human beings are facing challenge, like the structure, society change, so I should be fine I like your attitude to it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2669.164,
+      "endTime": 2698.877,
+      "text": "I wish in some ways, I was in the same place. I mean, I do think even since we started this podcast and the more you know I've learned about it, particularly the, the, the sort of course I'm studying at the moment, um, which is an AI governance course I have started to feel like you know some of the kind of scare stories about you know you know everyone's going to lose their job Eight million jobs are going to be lost and actually about you know everyone's going to lose their job 8 million jobs are going to be lost and actually you know it's not going to happen as fast as maybe some people think for various structural reasons.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2698.897,
+      "endTime": 2734.805,
+      "text": "You know you talked before about you know having the right people. You know you're going to need people to put things in place and it's not going to be immediate and therefore for a lot of sectors it's going to be a slow, iterative change. It's not going to be about huge job cuts. But where I just can't agree is this is different from other revolutions. I cannot see a way in which there are more jobs created than lost Now. I think you can mitigate that and I think there will be ways in 20 years'time that the structures will change. We've talked before about things like basic incomes or, you know, alternative social models, economic models.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2735.286,
+      "endTime": 2759.291,
+      "text": "Things will obviously have to change, but I don't see a way in which there are more jobs created than than lost. I think it will have to be more radical, um than just about replacing jobs. But we will see, because none of us really know and I hope I hope that you're right and I hope that I'm wrong. So thanks for being positive, because it's good to have positive voices on the podcast. Definitely,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2767.836,
+      "endTime": 2805.239,
+      "text": "I wonder if you could just talk just for a few minutes about your you know, your personal experience of using AI tools and then you know anything that you particularly find useful that you would want to recommend. So you know, I feel that often the focus you know is is on, you know, image generation tools and music generation and and kind of really creative gimmicks which are fun to use but they kind of take away really from the real potential benefits and the potential harms of ai. But you know, are there any things that you use? Do you have a recommendation for a large language model or a you know an agent or anything that you would recommend people try?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2805.701,
+      "endTime": 2850.226,
+      "text": "I I actually well, besides a climate, of course I uh. One thing recently I use most is actually well, I tried a couple but I don't think I have one particularly I'm attached with because I don't think like the products right now are perfect yet. I can name a few. So there's the one called the monica uh, it's. I like the product design. Uh, it's, it's like a really little pump up on your browser that can help you to answer questions from the page you add. It's really light regarding the format of the product, but it's for a quick searching. It's not for really deep analysis. Also, there's the publicity.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2850.266,
+      "endTime": 2897.467,
+      "text": "Publicity is quite fast. I think it's a great product. Uh, they build the product and then they continue to build the model, so kind of benchmark them, like for some answer. Climate is generating, uh, besides chachi pt. And then there are a couple of chinese uh companies products, really good too. Uh, like I'm actually hosting event later today was triple uh, so triple is the chinhua-born company doing lm. They have similar like chat, gpt, but performs better in chinese, and those are like a tech space. Well, other module, because I don't really do a lot of design uh, I am early adopter kind of um, but I think, like for video generating or like image you're generating well it's I still feel like there's a missing part of those.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2897.888,
+      "endTime": 2939.287,
+      "text": "Uh, including me journey. Uh, it's beautiful, it's um well, it's magical, save a lot of costs, I guess, like time as well, but it's too perfect. Uh, that makes sense like everything's right, which is not right also, depending on how you use it for, but at least for well, we do have a couple of uh image, uh photo we have in our article. Some are generated by ai, uh, but you can't easy to tell like those are generated by the same ai because it's too perfect, and then like it's consistent, uh, so, but I'm really looking forward actually to domain-specific usage in field like EV, like Anit you mentioned.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 2939.455,
+      "endTime": 2948.923,
+      "text": "You don't have to fill the AI, but it actually helps you to change the industry. I think that's a key thing here how we can really make meaningful usage of AI.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2949.657,
+      "endTime": 2984.223,
+      "text": "I completely agree with your point there. I think for sort of image generation and music generation tools. It sort of reminds me of a few years ago they came out with. There were apps where you could take a picture of yourself and show what you're going to look like, you know, in 50 years time or as a baby, which I guess were kind of actual early AI image tools. And they also, you know, if you think, about things like Suno, where you obviously generate music. I mean, I think we generate some good tracks for the end of the podcast, but they all have a style that sounds like a Suno generated track.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2984.615,
+      "endTime": 3021.927,
+      "text": "And all those images like you say, the image that we use for this podcast they look like they're generated by, you know, by an image creation tool and they have a style, but they don't at the moment, anyway they don't, for me, replace, you know, other works of art or music. But I guess we don't know at what point does it become undistinguishable and at what point does it kind of make that leap? Because I think we've always got to be cautious of the fact that what we're seeing now is, you know, the beginning. You look at apps like the AI pin, which has been absolutely slated and it looks terrible, but you can see that, okay, that's the first iteration.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3022.475,
+      "endTime": 3059.917,
+      "text": "What that's going to look like in two, three iterations, time is completely different. So I hope, actually in a way, that they never become perfect and that allows, you know, humans to keep the creative side. I think I, you know, like looking at my daughter's hand-drawn pictures, more because of AI images rather than less, which you know, maybe there'll be an effect or maybe it would just be sort of my generation and above and younger people won't care about it. Remain hopeful anyway. How about other sort of recommendations? So, apart from ai tools, I mean on the kind of sustainability side, or you know, you've obviously talked about climb mind.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3060.378,
+      "endTime": 3068.516,
+      "text": "I know you have a podcast as well which I have been listening to. I mean, do you have anything else as a sort of final uh recommendation that you'd like to give to people listening?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 3069.098,
+      "endTime": 3094.415,
+      "text": "yeah, so I think I have a couple of chinese uh to to recommend that, but I'm not mentioning this one here, given the audience. I am a big fan of the um well, I forgot his name the mit researcher. He has a podcast like a really long one. Let me just find the name, but I'm, like, really addicted to podcasts lex friedman, and then there are a couple of episodes I highly recommend. Uh, is I also recommend?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3094.475,
+      "endTime": 3110.317,
+      "text": "next friedman. But you need to, you need to give it. It's like reading a sunday newspaper for people in the uk. It's like you need to give two and a half hours of your time to focus in on it. But but they're fascinating because he goes into like a level of depth that nobody else does it is.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 3110.558,
+      "endTime": 3113.325,
+      "text": "It's really long and, uh, there's a reason why he sounds like.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3113.345,
+      "endTime": 3118.08,
+      "text": "Batman as well. I think he sounds like Batman, which I find kind of weird and cool at the same time.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 3118.1,
+      "endTime": 3118.883,
+      "text": "He's in the picture.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3120.818,
+      "endTime": 3126.462,
+      "text": "I wish I had his voice anyway for doing podcasts. I'd be far more successful if I sounded like Lex Fridman, I'm sure.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 3126.695,
+      "endTime": 3172.602,
+      "text": "Well, yeah, I'm sure you will. There are a couple of sustainable sustainability ones, and then one is called Bloomberg has a couple. There's a Switched On, and then I also listen to a lot of David Robinson show Shorter, more about investment, pox and Google you haven't even mentioned your own podcast yet, so maybe promote your own one we have Pox at Climb, but that was like purely by accident, because I was just one day came to me like why don't we record, like make a recording of the fascinating chat we have with all the researchers? So everything about Climb and the data, the first couple of sessions is a little bit challenging because it's too technical.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Karen Wang",
+      "startTime": 3172.815,
+      "endTime": 3193.459,
+      "text": "We even had a speaker office speaker was a researcher from Breakthrough Anage, so the organization created by Bill Gates, and he went to too technical. Like it had a PowerPoint telling the greed and then like we'll figure out. It's not a really good way for people to listen on the way, so it went easier, but we'll keep working on that, yeah.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3193.861,
+      "endTime": 3229.868,
+      "text": "Brilliant. Karen, thank you so much for giving us your time. I know you're incredibly busy with all the many, many things you do, but thank you for joining us. It's really interesting and positive and, like I said you know, it's really nice to have someone on who is well not just positive but is actually doing something positive and trying to make a change. I think, you know, the things that you do are genuinely inspirational and I imagine that the kind of listener that we will have today will probably feel the same and hopefully be inspired to go out and sign up for a trial for Climind and shout about it and yeah, thank you.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3230.328,
+      "endTime": 3246.476,
+      "text": "So that's it. That's a wrap for today. We will be back next week, myself and jimmy, with a normal episode of the podcast and, as always, we will leave you with our suno and matt and jimmy generated outro track. So thank you all for listening, have a great week and see you next week.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Suno AI-generated outro track (no human speaker)",
+      "startTime": 3247.417,
+      "endTime": 3264.226,
+      "text": "Stomach fingertips, a language co-pilot ready to rip, searching for solutions one line at a time, harnessing the power to save our planet's prime. Digging deep into the data, the facts,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Suno AI-generated outro track (no human speaker)",
+      "startTime": 3268.723,
+      "endTime": 3296.863,
+      "text": "unleashing words that'll leave you smacked. I've got the knowledge. The answers are told. With this tool in my hands, we'll break through them all. No ignorance. It's time to unite. Let's face the climate crisis. Turn on the lights. I'll use this AI of fire to ignite the stage During my subvergency. No time to engage.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Suno AI-generated outro track (no human speaker)",
+      "startTime": 3309.944,
+      "endTime": 3311.065,
+      "text": "No time to engage.",
+      "chapterIndex": 7
+    }
+  ]
+}

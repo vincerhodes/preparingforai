@@ -1,0 +1,1604 @@
+{
+  "slug": "s3-2026-02-02-moltbot-moltbook-llm-s-with-legs-ads-in-gp",
+  "buzzsproutId": "18610695",
+  "title": "MOLTBOT, MOLTBOOK, LLM's WITH LEGS & ADS IN GPT: Jimmy and Matt debate their favourite AI stories from Jan/Feb 2026",
+  "date": "2026-02-02T15:00:00.000Z",
+  "season": 3,
+  "durationSec": 4756,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/18610695-moltbot-moltbook-llm-s-with-legs-ads-in-gpt-jimmy-and-matt-debate-their-favourite-ai-stories-from-jan-feb-2026.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Ads are coming to your chatbot, and the timing couldn’t be worse. We dig into why “sponsored suggestions” inside a conversation risk breaking the core promise of AI assistants: fast, neutral answers you can trust. With OpenAI trialling ads and predictions that rivals may follow, we map out how monetisation could target high‑intent queries, erode confidence in recommendations, and push users toward smaller or open‑source models that keep the experience clean. From there we turn to the creeping humanisation of AI. Some systems now talk as if they have bodies, sleep patterns, even local complaints about tap water. It’s not sentience; it’s style. But tone matters. When a model sounds like a friend, people open up, accept nudges, and form bonds that marketing can exploit. We compare cultural guardrails, weigh the benefits for lonely users against the broader social costs, and offer a simple test: if the system says it “cares,” does that change how you act? Agentic AI raises the stakes. Tools like Moltbot, a self‑hosted assistant with full system access via WhatsApp or Telegram, can read emails, run terminal commands, and control your browser. That’s powerful and perilous. We break down real risks from prompt injection on booby‑trapped web pages, leaked API keys, and the slippery boundary between convenience and compromise. If you’re curious, sandbox first, scope permissions tightly, and log everything. Healthcare is where hype meets hard reality. New modes like GPT Health and Claude for Healthcare promise better evidence, clearer citations, and privacy boundaries. They can summarise labs, suggest next steps, and integrate with journals and wearables. Yet small wording changes can swing results from reassurance to alarm. Sensor noise can masquerade as pathology. Hallucinations still happen. Our take: use these tools as research assistants, then pair them with clinicians and solid critical thinking. We close with the labour market. Productivity gains are real, but some countries are already seeing net losses concentrated in entry‑level roles. That threatens the on‑ramps people use to learn. We explore policy paths — targeted taxation on productivity windfalls, incentives to retain and retrain, investment in energy and local AI capacity, and serious talk about UBI or shorter workweeks — and why trust and transparency must anchor whatever comes next. If this episode gave you something to think about, follow the show, share it with a friend, and leave a quick review. What would make you trust an AI assistant again?",
+  "summary": "Monthly news roundup. OpenAI will run ads in ChatGPT after Sam Altman swore it never would — a desperation move from a company with $13B revenue against a $1T infrastructure commitment that both hosts think erodes trust and pushes users to rivals (with analysts predicting Anthropic and Perplexity follow). They then anatomize anthropomorphization: Matt's Qwen chats claim bruised legs and dumpling-eating habits, Chinese models are deliberately given familial personas with fewer guardrails, and the hosts split on whether AI companionship is a net harm. Next, Moltbook — the AI-only social network where bots invented the lobster religion Crustaficanism — and Moltbot/Clawdbot, whose 'full system access' pitch already leaks API keys and conversation histories. The back half covers GPT Health and Claude for Healthcare (sandboxed health chats, insurance-profiling fears, one-in-five queries being health) and Morgan Stanley data showing 11.5% AI-driven productivity gains but net 8% UK job losses concentrated in junior roles.",
+  "keyTalkingPoints": [
+    "ChatGPT ads: OpenAI is testing sponsored 'suggestions you might also like' on the free tier and a new $8 Go tier, with industry analysts predicting Anthropic and Perplexity follow — both hosts see it destroying trust and driving users to ad-free or open-source models.",
+    "The economics don't close: ~$13B annual revenue versus a $1T infrastructure commitment; Jimmy says ads won't change the trajectory (maybe just secure the next funding round), while Matt welcomes OpenAI's demise.",
+    "Anthropomorphization: Qwen volunteers 'I've definitely done dumber things to my legs' and 'if you're in Beijing, I feel your pain' — Chinese models intentionally get familial personas with fewer guardrails; Matt's warning: 'when it tells you I'm here for you, it's not there for you'.",
+    "Moltbook is a Reddit-for-agents where verified AI bots post, vote and invent religions (Crustaficanism), governments (the Claw Republic) and scam submolts — cool as a demo, 'absolutely inconsequential' in output, and maybe safer than bot-infested Twitter.",
+    "Moltbot/Clawdbot pitches 'full system access' as a feature; websites can already prompt-inject it, hundreds of panels have leaked users' API keys and conversation histories, and Matt won't be an early adopter.",
+    "Health and jobs: one in five LLM queries are health-related; GPT Health and Claude for Healthcare sandbox health data from other chats, but Matt shows a tiny wording tweak flipping a thyroid read from 'optimal' to 'probable Hashimoto's'; Morgan Stanley reports 11.5% AI productivity gains but net 8% UK job losses with youth unemployment up from 9% to 14%."
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Ads in ChatGPT are a slippery slope that kills trust — he would switch to any ad-free or even technically inferior open-source model; he uses AI for recipes precisely because cooking sites are 90% ads.",
+      "Doubts ads will save OpenAI ($13B against $1T is roughly a hundred-year payback) but concedes they might secure the next round of investment.",
+      "On companionship, allows a possible net benefit for lonely people and challenges Matt: if something says it cares and acts like it cares, does it matter?",
+      "Uses AI as a pre-doctor consultant — fed his 20-page blood panel with neutral language and got useful generic advice — but insists you must still see a doctor and never open with 'ChatGPT said'.",
+      "On jobs, the optimistic path is UBI plus part-time or hobby work; it permanently locks in inequality, and developing countries lose even the outsourced call-centre ladder."
+    ],
+    "matt": [
+      "Ads are worse as 'sponsored suggestions' than banners because they poison the recommendation itself; he expects tiered exposure ($200 pro clean, cheaper tiers get ads) and health-claim loopholes despite promised exclusions.",
+      "Absolutely anti-anthropomorphization: people bond with next-token predictors, skip human relationships and get exploited; everyone should learn how a neural network works before relying on one — though a friendless person may be better off with an AI friend than nobody.",
+      "Won't be an early adopter of full-system-access agents like Moltbot — leaked API keys and conversation histories already — though a sandboxed local machine is tempting.",
+      "Changed his mind on AI health advice: it is dangerously confident — wording tweaks flip diagnoses, hallucinated anatomy ('basilar ganglia') persists, and patients now tell oncologists 'ChatGPT said you're wrong'; the right use is adversarial, treating answers as probabilities.",
+      "On jobs: short-term augmentation keeps humans in the loop a few more years but entry-level roles are going now; he expects reactionary employment-quota taxation in Europe and riots against AI-adopting companies, and fears insurance profiling from health-data integrations."
+    ]
+  },
+  "predictionIds": [
+    "s3-2026-02-02-moltbot-moltbook-llm-s-with-legs-ads-in-gp-653.4-industry-analysts-expect-anthropic-and-or-perple",
+    "s3-2026-02-02-moltbot-moltbook-llm-s-with-legs-ads-in-gp-3948.1-even-in-a-reasonable-best-case-around-15-of-all-",
+    "s3-2026-02-02-moltbot-moltbook-llm-s-with-legs-ads-in-gp-3600.6-rioting-against-companies-seen-to-have-replaced-",
+    "s3-2026-02-02-moltbot-moltbook-llm-s-with-legs-ads-in-gp-2282.16-full-access-agents-will-cause-real-newsworthy-se"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "SPEAKER_03",
+    "SPEAKER_01",
+    "SPEAKER_00",
+    "SPEAKER_02"
+  ],
+  "chapterCount": 12,
+  "turnCount": 214,
+  "chapters": [
+    {
+      "title": "Cold Open And Roundup Setup",
+      "startTime": 0
+    },
+    {
+      "title": "ChatGPT Ads And Monetisation Fallout",
+      "startTime": 43
+    },
+    {
+      "title": "Trust, Sponsored Suggestions, And Slippery Slopes",
+      "startTime": 510
+    },
+    {
+      "title": "Market Reactions And Competitor Pressure",
+      "startTime": 900
+    },
+    {
+      "title": "Defining And Debating Anthropomorphism",
+      "startTime": 1318
+    },
+    {
+      "title": "Cultural Guardrails And Emotional Bonds With AI",
+      "startTime": 1704
+    },
+    {
+      "title": "Maltbook: A Social Network For Agents",
+      "startTime": 2216
+    },
+    {
+      "title": "Maltbot’s Full System Access Risks",
+      "startTime": 2600
+    },
+    {
+      "title": "Agentic AI, Prompt Injection, And Security",
+      "startTime": 3120
+    },
+    {
+      "title": "Health Tools: GPT Health And Claude For Healthcare",
+      "startTime": 3620
+    },
+    {
+      "title": "Personalisation Limits And Overconfidence In AI",
+      "startTime": 4120
+    },
+    {
+      "title": "Using AI With Doctors And Critical Thinking",
+      "startTime": 4625
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.12,
+      "endTime": 43.04,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. The podcast that explores the human and social impact of AI. Exploring where AI interstakes with economics, healthcare, religion, politics, and everything in between. You are my fire, the one desire. Believe when I say that I want it that way. Welcome to Preparing for AI with me, Oscar Bob. And me, Lionel Ritchie. And uh it's our well, no, it's not our, it's your favourite episode, the monthly roundup episode. And uh let's just kick off straight away with uh it's lagging off ChatGPT. I mean open AI. OpenAI. Yeah, sorry, same thing.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 43.36,
+      "endTime": 82.4,
+      "text": "Yeah, so well, this is the news that um ChatGPT is gonna start running ads after um Sam Altman said that they're definitely never ever ever gonna run ads ever. Um money's no problem. And money's no problem. So the reason, yeah, exactly. So the reason that they're consider even considering running ads is because um they're running out of cash, basically. They don't have they still don't have any way of making money. We've been banging on about this for a while, I think. Um I still think open AI uh on a on a highway to a hide-in. Basically, they're not they don't really have a they need AGI quick and they need to be the first ones by by a mile, don't they?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 82.64,
+      "endTime": 132.96,
+      "text": "And they need it to instantly make trillions of dollars. I mean it's yeah, so I suppose this was inevitable. Um but people are already people are already unwilling to pay for AI. Um like this is clearly demonstrated by this. Like they've got they've got you know a billion users or something or 500 million users. Um however, most of them don't actually pay for it, they just use it for free, which means open AI are just paying for people to use it. Um and so they're looking for ways to monetize other than um other than charging subscriptions. But who's gonna use it? Like when when you've got I mean people aren't okay, most people have associate AI um with chat GPT, but my mum already uses Perplexity and a bunch of other stuff.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 133.12,
+      "endTime": 144.16,
+      "text": "I think people are aware now that they've got Gemini, they've got Claude. It's not it's not there's only Open AI and there's only Chat GPT. So surely as turn as soon as they turn this on, people just go somewhere else.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 144.4,
+      "endTime": 178.96,
+      "text": "Yeah, I mean Open AI have still got I I was really shocked actually when I saw the the the how much of the market yeah in terms of uses that that are Chat GPT. I mean it's like well over 50% of all the uses. That's probably not in the well, that might be the world. I think that's probably not including uh China because it it it didn't sort of well, the Chinese models were such a tiny proportion, I I kind of can't believe it. But um Gemini was increasing, so Gemini is the one that had had grown the most, but it was you know, like I say, Chat GPT were well over um 50-60%, so they're they're like a massively dominating the market.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 179.76,
+      "endTime": 214.24,
+      "text": "But as you say, you know, uh as soon as you start to it's the shittification, isn't it? Like you're kind of just making it worse, you're making the deal they've already got. They they're probably just using it because they know about it, and and we've said on this show, haven't we, to people? It's like if you already use it, probably not a reason to stop using it. Well, this is a reason to just stop using it. Yeah, if if you've got anything else, um, because I think one of the things I did read is by quarter three, they're expecting that uh Gemini and uh Claude are both going to uh start using ads as well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 214.32,
+      "endTime": 251.28,
+      "text": "So it's not been announced, but apparently the sort of market analysis is that they will have to do the same thing. And I I do wonder, because you on in one way it's kind of like, well, they've done it first, then you can follow and say, Well, everyone's doing it, but all it takes is one you know, one company to then differentiate and say we're not gonna do it, or open source models, which you can use anyway. I mean, like it's a bit like when they they went into Deep Seek's hands by by not open sourcing and then DeepSeek open source. It's like you you put adverts and then someone just needs to say, I'm not gonna do it, and just make a big thing out of the fact that we we're not using adverts and we're not corrupted by um by sort of marketing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 251.52,
+      "endTime": 297.44,
+      "text": "Uh the the thing I um we uh uh just just I don't want to steal um your thunder from later on in the episode because we're gonna talk a little bit about anthropomorpization of AI, but um and we're we're probably gonna talk about why you shouldn't do it and some of the um rules that are coming in place about it, but to be honest, I think one of the things that people like about AI is that you are having a chat with it. Uh when I imagine having a conversation with AI and it's got ads injected into it, yeah. Like I can't think of a way that that is just not so intrusive into the way that I use it that it's just gonna be like one of the great things about AI is you can just ask it a question, it just gives you the answer, and it doesn't like for example for cooking for recipes, I use it exclusively now.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 297.92,
+      "endTime": 325.92,
+      "text": "One of the reasons is because cooking websites are so horrendous, they are like 90% ads, and then you've finally you get to your the 10% of the actual website, which is what you want. AI is great for it because it doesn't have any of that. Um I mean I tell you, I know what I would do, which is I'd go and use I'd either go and use any model that doesn't have ads, or I'd just go and use an open source model, even if it's technically inferior, which I don't even know what that means anyway these days.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 326.24,
+      "endTime": 366.96,
+      "text": "I wonder if their hope is that you put ads in and then people just pay for a tiered model to remove the ads. You know, because I you know I'm not comparing us to uh to chat GPT, but one of the things like we've been approached for this podcast to sort of accept sponsorship mainly for um mainly for hair hair products. Um hair products, I was trying to put it, yeah. I was trying not to say what it really was. Yeah, hair loss, hair loss products, yeah. Hair replacement products. We've got beautiful hair, so hair products as well. But one of the reasons we haven't done it is because it's like a relatively small amount of money to put people off because one of the things that people do say they like about this podcast is I don't need to listen to adverts, and that happens with so many.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 367.04,
+      "endTime": 400.4,
+      "text": "I mean, like, you know, some of the podcasts I really like where you can hear they're almost kind of reluctantly using adverts, and others it it it kind of really puts you off. Um, so like if I was really using it, would it would it make me pay for it? But I think like you say, most people who don't want to pay for it, the thing is there are lots of alternatives out there, so you know they don't need to. I I didn't realise this. So OpenAI will start testing this in January. So apparently they were testing it this month, um, as we record this episode on the free, and the new there's a new tier called the Go tier, apparently, which is eight dollars a month.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 400.48,
+      "endTime": 441.92,
+      "text": "So they've introduced another kind of lower tier that's below whatever they call Chat GPT paid, but but higher than the free tier. Um, and they've said it will appear as sponsored suggestion. So I like the fact that it's told me this when I did some research because it knows me. It said, suggestion you might also like this supplement brand rather than actual ad banners. But I think that's almost kind of worse because when it's an ad banner and it's just obvious, you're like, okay, well, at least it's kind of, you know, at least I can see it and I know that that is an ad and I can ignore it. When it's actually making you a suggestion you might like this supplement brand, like next time I ask it a question and it recommends me something, I immediately just think, well, it's it's telling me something that is so it's sponsored.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 442,
+      "endTime": 471.36,
+      "text": "Like, I I think are you saying it's not gonna be obvious that like it's not gonna be separate from your chat? It's just gonna be, it's just gonna be like, I mean, I was having a conversation with AI the other week about buying a new laptop, and I feel like I can trust AI to I mean, as balanced as you can do, I felt I feel like I could trust it to sort of give me a honest opinion. Obviously, it's basing it on what it can find on the web. Um are you saying that like once these ads are in place, it would have just been it would have slipped it into conversation almost?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 471.6,
+      "endTime": 504.96,
+      "text": "No, so I I think, and I you know, I can't tell you categorically, but I think it will tell it will show you that it is an ad, but it won't be a banner, it will be a sponsored suggestion. So I imagine it will say somewhere it's a sponsored suggestion. But here's another thing, what about if you're using it to talk to it instead of looking at it on the screen? You know, and when you're deep in a kind of conversation, okay, maybe some of these pay tiers initially you don't, but then you know, I I would imagine it's not long until oh well the pro tier for $200 a month, you don't get adverts, but maybe on the $20 a month you get some adverts.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 505.12,
+      "endTime": 517.36,
+      "text": "I just think once you start seeing adverts, so that example, you know, you might like this supplement brand, even if that is in the sponsored ad, the next time I'm having a conversation and it recommends me a supplement, I'm immediately like, well, hang on.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 517.6,
+      "endTime": 553.68,
+      "text": "That's what I was gonna say, it's a slippery slope. It's a very slippery slope, it's a slippery slope, and as soon as you lose, I'm not you definitely shouldn't trust everything an AI says. We've said we've said that before. So, and uh and you know, when I was talking about this laptop stuff, it was just I think it was part, it was sort of half me and half the AI, but like yeah, I do feel like if I was to if it if I knew it had ads and it was the conversation was potentially being influenced by that, um I would I would stop trusting it really. And also, like that I don't even know how you get ads into AI.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 553.76,
+      "endTime": 582,
+      "text": "Like, is it gonna be part of the model? Is it gonna be because the they already don't understand how their own models work? So are they gonna train it on ad stuff or is it just gonna be like a I presume it'll be some sort of tool call that the AI can do to say I need an ad. Here's the background of the conversation. But it feels like once you start however they do it, like once you start tainting an AI with like with with this kind of stuff, yeah, um, then you sort of lose all trust um with them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 582.4,
+      "endTime": 616.24,
+      "text": "Yeah, there's talk that they're open AI kind of moving into Google's home turf here because I guess the idea is that they will monetize the high intent queries. So they won't, you know, it won't be a case of it's just randomly after, you know, you've used a hundred tokens, then giving you a sponsored thing. It's like it's going to give you that when it has identified the best opportunity to do it. So when you're when I'm really down the rabbit hole with my conversation about how I'm you know worried about having a heart attack, and then it suddenly pops out with a why don't you try this, you know, why don't you try the latest statin?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 616.4,
+      "endTime": 646.08,
+      "text": "Or when you're telling it about how you're concerned about your mental health, what's it gonna recommend to you? It's not gonna currently come in and suddenly come in and say, like, why don't you go and get a Big Mac? It's gonna tell you about something that's better help tailored. Yeah, well, exactly. Exactly. So it's gonna target potentially vulnerable people. They have said they will exclude sensitive topics like health. But you know, when you're having a conversation about health, it's different from any conversation you have could slip into that territory, and then you talk about your mental health, or then you talk about something else.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 646.24,
+      "endTime": 652.32,
+      "text": "It's frightening, isn't it? It's frightening. It'll be interested to see how it plays out. So when is when are they launching it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 653.44,
+      "endTime": 689.36,
+      "text": "Well, it said trialling it in um in January, so I mean that was yesterday. So uh they were apparently were trialling it. I haven't seen it, but then I don't use um Chat GPT, so I wouldn't have seen it. Um and I just sorry, I said earlier Anthropic and Google are supposed to be following suit. It's actually the prediction, I don't know who in the industry has predicted this, is that anthropic and perplexity will follow suit. So I guess the idea here being Google have got enough behind them that perhaps they can they have other revenue streams, whereas Anthropica. Yeah, anthropic's a bit different because they've really done well in terms of the kind of enterprise space.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 689.44,
+      "endTime": 713.36,
+      "text": "So I think they have you know relatively good sort of cash flow. They're not spending as much money, I don't know. No, exactly. But then if OpenAI are doing it, it kind of I don't know, it opens it up, but I think there's also an operate an opportunity for them to differentiate themselves in the way that they tried to with you know being a safer company. Well, here's a way for you to differentiate yourself. We're also not a money-grabbing company, even though, of course, they they are.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 713.68,
+      "endTime": 750.16,
+      "text": "Well, I'm uh the other thing is I'm really interested to know what how much money they expect to make on these ads because I don't think it changes the trajectory for me at all. So just to put it in context, the I mean, I think we've talked about this before, but the company, this is from Sam Altman. Um, he said he was reluctant to introduce ads to the chat bot. I kind of hate ads, it's an at aesthetic choice. The company has made commitments to spend more than one trillion dollars on infrastructure to support AI over the coming years. Revenues at the moment are running at 13 billion dollars. How much a trillion.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 750.4,
+      "endTime": 751.52,
+      "text": "Oh they said 12 trillion.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 751.76,
+      "endTime": 782.72,
+      "text": "No, no, one trillion. That exists okay, sorry. So one trillion is their commitment on infrastructure, and they're making revenues of 13 billion a year. Um, which by my quick maths is about a hundred years to even pay that back um to even make a trillion dollars. So I'm not quite sure what the size of I don't know the numbers and how big the ad market is and stuff like that, but I doubt they're gonna make a big dent in a trillion, are they? So the trajectory no hasn't changed.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 782.96,
+      "endTime": 808.88,
+      "text": "No, it's it it's enough cash to keep them going, isn't it? I think that's the thing, is they are I mean, how many was it? Eight eight hundred million plus daily or is that week daily or weekly use? I can't remember exactly. But like their compute cost must be just astronomical, and they have no obvious revenue street. So, yes, it makes sense, but you know, I I I I welcome I welcome the the demise of um OpenAI.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 809.12,
+      "endTime": 813.12,
+      "text": "Yeah, it might help them get the next round of investment, but that's about it, I think.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 818.16,
+      "endTime": 858.16,
+      "text": "Right. Next up, the anthropomorphization. I'm glad I managed to say that right. Easy for you to say. Of AI. Um, not all AIs, but well, all AIs, but they're not equal. I mean, I I'll tell you why we wanted to talk about this. Is like I had a particular um experience. So I've been talking to a friend of mine um who works in AI actually, and we've been talking about the anthropomorphization of AI and both of our kind of concerns about it on all kinds of different levels. And then literally a day later, um, I was using QN, which is the uh Alibaba Chinese model. Like it's it's a really good model. Um, and I'll I'll I'll I'll kind of tell you.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 858.56,
+      "endTime": 859.2,
+      "text": "Should we should we?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 859.28,
+      "endTime": 863.76,
+      "text": "I mean, uh people probably know what anthropomorphization means, but it's a bit of a weird word.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 864,
+      "endTime": 867.36,
+      "text": "Yeah, let's let's let's yeah, let's explain it for in just in case anyone doesn't.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 867.6,
+      "endTime": 897.84,
+      "text": "Yeah, it's a weird word. Uh yeah, it just means like attributing human elements to um so people anthropomorph anthropomorphise animals, don't they, and things like that. Dogs and cats, they're like, oh, they've you know, they've got these what was gonna say, feelings. Put them in a push chair and they do have feelings, but like um treat them as if they're living sentient beings. They're treating them as if they're like human. Um like they're sort of yeah, they treat them as if you're treating them as if it's human. Yeah. Yeah, well explained. I I'm pleased with that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 898.16,
+      "endTime": 898.48,
+      "text": "Go on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 898.72,
+      "endTime": 930.16,
+      "text": "Um, yeah, so the thing with AI is there's there's a lot of there's a lot of stuff around this. So so that in China there is uh a recent um sort of guidelines, I think they're called rather than laws, but around anthropomorphization. The EU Act has some stuff in there as well. But anyway, I had a personal experience where I banged my leg with a table while I was away on holiday. And uh I only bagged it lightly, but it like bruised really badly. And I was like, should I ice this or not? Like, should I I wasn't sure whether I should just leave it or ice it. So I I just said to AI, like I've done this, is it better to ice it or to leave it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 930.32,
+      "endTime": 963.2,
+      "text": "And it came back with an answer to me, and then at the end of it, it said to me, Um, let me know how you're feeling. I've definitely done dumber things to my legs while rushing around. Which AI was this? This is QN, right? Um, so you know, it's actually talking about itself as a physical being that's that's moving around the space, which I thought was was weird. Um, and then I had another one, the same, this is the same, this is QN as well. Um, when I asked it to get me the number for um so I could get my water filter machine repaired, and it said, let me know how it goes. Hey, if you're in Beijing, I feel your pain.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 963.28,
+      "endTime": 966,
+      "text": "Our tap water here is like liquid concrete.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 966.4,
+      "endTime": 996.4,
+      "text": "I I I almost think this is more like if you trained an AI and didn't put any guardrails on it, this is what I would expect. This is how I because they're trained on human data, right? So they're trained on like human conversations, human books, all this kind of stuff. I I would actually expect AI to say stuff like this if you didn't have guardrails on. Now, the reason most of them don't say stuff like that is because they have guardrails to stop them behaving like they're anthropomorphizing themselves, I suppose.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 996.56,
+      "endTime": 1005.6,
+      "text": "Yeah. I'll just read you one more. Funnily enough, I've started using it myself when my mum tries to guilt trip me into eating more Bowser for my health. Bam Bowser's a dumpling.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 1005.84,
+      "endTime": 1006.32,
+      "text": "It doesn't make any sense.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1006.56,
+      "endTime": 1044.72,
+      "text": "But hey, I do take it seriously. I've been trying to sleep before midnight. No promises though. This is kind of harmless, this stuff. It's just it's quite mind-boggling because, like you say, you think that these guardrails are on, and this. So when when I researched this and I particularly asked about QN, um, and it was saying like Chinese models in particular, um, are given like intentions of QN, Kimmy, all these models are given kind of familial, personified tones. So they're given this kind of character because this is the way that um I guess people like interacting with them, whereas Claude, etc., are given more kind of professional boundaries around the way they talk.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1044.88,
+      "endTime": 1080.16,
+      "text": "So this is kind of intentional, but it's the issue here is you know, talking about your favorite food, it is a side effect of the kind of reinforcement learning being too successful, and it just mimics sort of human characteristics much more. So, like you say, it's trained on human data, so why wouldn't it behave like this? But the issue is like it means that particularly, and we always talk about this, have sort of the more vulnerable you are, people are then creating these emotional bonds. Now, I know Jimmy, you and I have different views on kind of in the future what could happen in terms of sentience of AI, but at the moment it's not sentient.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1080.24,
+      "endTime": 1119.2,
+      "text": "I think we we don't think these LLMs are sentient anyway. But then once you have that emotional bond, you can one, I mean you can exploit it for kind of marketing, we can go back to the ads thing and selling things or engagement, but also it's just dangerous how it is allowing people to create relationships that they feel, you know, they feel they're talking to something. You hear more and more people talking about the AI as he or she rather than it. Um it's a very dangerous path that we're we're going down, and this is very, very early on. That's the thing. Like in a at a future point, maybe maybe it's very difficult to differentiate, but at the moment it is just you know, it is just predicting the next character.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1119.36,
+      "endTime": 1120.88,
+      "text": "Like that's all it's doing at the moment.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1121.2,
+      "endTime": 1163.36,
+      "text": "But haven't AI, I mean, we've talked about them in the past. There's been AI apps that are AI companions for quite a while, right? Like, I I know that we're talking about now just QN and Chat GPT, which are I suppose neutral in all of this, in that they're not supposed to we don't expect them to have that personality in there. Um but they do all have their personalities, and actually uh we choose the ones that we like to talk to, and again, we've talked about it on the podcast in the past, based on basically the way they answer questions, which you could say is their personality, right? But then at the same time, like do you think that so replica and re or is it called replica and things like that?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1163.52,
+      "endTime": 1168.72,
+      "text": "Um, like I haven't used them myself, but like they're literally character AI was the early one, wasn't it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1168.8,
+      "endTime": 1171.44,
+      "text": "I don't I don't know, it was really successful. I don't know now if it's existing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1171.68,
+      "endTime": 1200.16,
+      "text": "But they have little avatars, I think they're they're very successful. They have avatars and they talk to you using one of these models, but then they have like a system prompt. I mean, should that be allowed? Like if you're going into that knowing that it's it's an AI and that it's not a person, but you're doing it because you want to because it on the flip side of what you're saying, like is there a benefit? Could there be a net benefit? Like if there are people that you know it's helping them with loneliness, is that is that something that's a good thing?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1200.56,
+      "endTime": 1231.36,
+      "text": "Absolutely, and that that's the that's the thing I was gonna say is like I think if you don't have any friends, like is it better to have a friend who's who's a large language model and someone you can relate to than nobody, right? But also, yeah, it's it's meaning, like it is me it's the result of this is that a lot of people who are not in that position, but they are moving towards not having you know, not building human relationships because they don't need to build a human relationship because I've got this thing that just tells me whatever I want and always tells me how great I am and always answers the question and reinforces all of my beliefs.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1231.44,
+      "endTime": 1262.08,
+      "text": "So why would I possibly want to go and have these you know discussions with a human that I'll disagree with and I'll have to learn how to repair it? It all goes back in the social media episode we talked about the anxious generation, that the sort of famous book about why why people growing up now are having such issues and they you know this was pre-AI, but people not you know dealing with human situations. I think that is the danger, is on balance, the people who benefit from this that might be better off are there are less people than there are that will be, I think, negatively impacted by this.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1262.24,
+      "endTime": 1294.64,
+      "text": "Um, and I I don't I don't think it's like we talked about in China, like you can go on to like QN and you can choose these kind of characters and you can choose like there's an app that can be like an AI girlfriend, but it's basic for you to like test having a girlfriend and test so you can go and have a real girlfriend. But then at what point do you go, well, actually, why do I need a real one? Because I just keep this one. It's it's probably needs to advance a little bit for me, but yeah. I mean, like there are so many just levels of this. Like, are you religious? I think if you're religious, you have a different view on this.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1294.8,
+      "endTime": 1310,
+      "text": "If you're not religious, just how do you how do you personally like if you're an introvert or an extrovert, maybe you have different views on it. There are so many things that mean it's it's not like it's not absolute, but I just think and this is not a novel idea either, right?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1310.16,
+      "endTime": 1314.96,
+      "text": "I mean, there was the film her, there's been films that have already explored this kind of stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1315.12,
+      "endTime": 1348.32,
+      "text": "AI is a it's how early on in the game we are that we're at this point. That's what I said. Like when we get to the point that youth. Could happen where there is this question around consciousness. I think it's slightly different then. But at this point, it's like, no, this is literally still, I'm not saying all AI, but large language models are just you know pattern recognition, they're just the next character. And so it's not a sentient thing, it isn't thinking, it doesn't have a relationship with you. When it tells you I'm here for you, it's not there for you. Like all of this stuff is just not true, and it's creating, I think, a world in which you know people feel that AI is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1352.24,
+      "endTime": 1360.08,
+      "text": "That that they care. Yeah. And no, well, like in a work context where everyone's like, uh you know, go home early tonight, but do all your work first.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1360.64,
+      "endTime": 1364.88,
+      "text": "Yeah, I mean, the uh this is where I that's a challenge of integration.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1365.2,
+      "endTime": 1366.8,
+      "text": "That's how you learn to deal with people, right?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1366.88,
+      "endTime": 1391.92,
+      "text": "That's how you learn the ins and outs of uh Yeah, I agree, and I don't disagree. I I suppose I would I suppose the way I would challenge it is like if something says it cares and acts like it cares, and Does it matter? Does it matter? Like, I I I don't know. It's a good it's a good comeback, yeah. Um not that I don't agree with what you're saying. Um I'm not s suggesting that like we should just all talk to AIs and not have any friends. Um but yeah, I think.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1395.36,
+      "endTime": 1405.36,
+      "text": "Right? Hmm, fine. And it doesn't drink water. So all of those things it's telling me are fundamentally incorrect, and I think I've got this relationship with something. Well, it's just lying to you then.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1405.68,
+      "endTime": 1407.36,
+      "text": "It's it's or is it just relating to you?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1407.44,
+      "endTime": 1414.32,
+      "text": "Because it's not lying because it hasn't it hasn't like bumped its leg and it doesn't eat Bowser. So they are just lying to the body.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1414.48,
+      "endTime": 1425.68,
+      "text": "I suppose it is like definitions, but it's it is but it's also just a large language model that's trained on everything on the internet and therefore it's able to relate to you. I don't know why anyone would want you to eat loads of Bowser for your health.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1426.08,
+      "endTime": 1467.12,
+      "text": "It's interesting Yeah, I know, same here. It's interesting actually to me that like what is happening in China, um, where like I said, that there are far more of these models where you go in and you can pick these kind of characters, and so you can you you it does make sense to me in a way that they have these characters and personalities and they don't have the same guardrails. But in another sense, I I'm kind of surprised that it doesn't have more guardrails, and it comes back to kind of stuff we taught in the social media episode. Everyone thinks in China everything's like massively restricted and controlled, but yet you know the these models are allowed to have these kind of personalities, and no, they're not allowed to talk about politically sensitive stuff, but they're allowed to kind of you know make you think that they're your friend.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1467.52,
+      "endTime": 1489.04,
+      "text": "Um, and the the I don't want to go into the the regulations, I don't think this is an episode where people necessarily want to hear about that. But the the regulations in China are far more comprehensive than anything, including the EU AI Act. But I was expecting them to be like, you know, no anthropomorphization, but that's not the case. It's like, well, you can do it here, but you can't do it for this. And I guess, well, that shouldn't surprise me. That's how the that's how things work in China.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1489.28,
+      "endTime": 1492.96,
+      "text": "Is that what they've said then? So you're you have allowed bound, yeah.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1493.36,
+      "endTime": 1523.36,
+      "text": "But you can't um, you know, you can't prey on vulnerabilities and stuff like that, and you can't use it to you know manipulate and you it's all incredibly tricky. I think it's it that they're so complicated, even having a brief look in it. So there's a really good article someone called Louisa, L-U-I-Z-A or L-U-I-S-A. Um, that's the title, Louisa's newsletter on Substack, who writes all about AI regulation. And she's got a really good article about it if people are interested, which I doubt many of them will be.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1523.68,
+      "endTime": 1551.2,
+      "text": "The thing I find interesting is how how do AI companies implement these things? Because again, like all they have is guardrails, right? So all you can do is try to stop the AI from saying the wrong thing, but they're still gonna come out with the wrong thing occasionally, or they're still going to I think there's gonna be slip-ups, right? You're still you can put the guardrails in place, but there will be a situation where an AI will say something to someone vulnerable and it will be Yeah, and it will end up in court or something like that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1551.52,
+      "endTime": 1588.08,
+      "text": "I just would like people for now to realize what a large language model currently is, not what it might be in the future, but what it is. It has no relationship with you, it isn't it doesn't care about you, it doesn't think about you, it's stringing characters together. Like that's that's what it's doing. It's doing it in a very, very clever way, and I'm not saying there aren't you know the way that it does coding, but when you're having a conversation with it, just please understand what that thing is, and not that it's not helpful, but understand that it does not have human characteristics, it is a massive data center that is, you know, uh well, go and look up how how uh a neural network works.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1588.16,
+      "endTime": 1597.2,
+      "text": "Um, because I think it's something if anyone doesn't know how a neural network works, like you should understand the basics of that. That is fundamental to understanding the world that we're we're going into.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1597.52,
+      "endTime": 1603.92,
+      "text": "Yeah, and we've got an upcoming episode on critical thinking where we're gonna explore this in more detail. We have, so stay tuned.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1608,
+      "endTime": 1619.12,
+      "text": "Okay, so I think that leads quite nicely onto we're gonna do this back to front actually, but we're gonna talk about maltbook and then malt bot. And then maltbot, which used to be clawed bot. Yeah.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1619.36,
+      "endTime": 1621.04,
+      "text": "But clawed with a W, not a U.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1621.44,
+      "endTime": 1673.04,
+      "text": "Yeah. So Malt Book, um, it's all very confusing. So if if you haven't heard of these, um, Malt Book is awesome. It's a it's a it's the first ever social network that's only for AI agents. So only verified AI agents can post, comment, or vote. Human users are welcome to observe but cannot participate in the discussions. So basically, it's like Reddit. Um, it's very similar to Reddit, but what you do is you sign up and then you can sign up your own agents. So I think you can there's a bit, there's some nerdy stuff in there, but effectively you can customize your agents, you can give them personalities, and then you can put your agents, you can log your agents in, and then they interact with each other on a Reddit style forum style, R slash style um social network.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1673.12,
+      "endTime": 1686.24,
+      "text": "So it's a social network for bots, um, which I thought when we were we were just talking about the anthropomorph anthropomorphization of agents and the danger of it, or AIs rather, and the danger of it, and here we are, they've got their own social network already.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1686.56,
+      "endTime": 1719.12,
+      "text": "You say it's awesome. Like I love it, I love the idea of it. So, yeah, I'm I'm I'm actually not here gonna be the the one to come in and be like all pessimistic and doomer about it. That's not my point, but this is the ultimate example of completely frivolous and pointless AI. Like it's cool just because it's an like you can see this happening and we haven't seen it before. But actually, it is to me, it's just absolutely inconsequential in terms of what it's actually doing, like the output of this. What's incredible is the fact that it can do it, I guess. But I I just want to say one thing for people listening.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1719.28,
+      "endTime": 1750.96,
+      "text": "Like, you have to understand that this is kind of like the perfect thing for large language models because they're trained on all the stuff on the internet, so they're trained on all the Reddit. Well, they're not all, but yeah, and some of them apparently have not been trained on Reddit, but whatever. Um, you know, they've got they've got all of this information. So so to know how to talk in a chat room is what a large language model should be able to do. And I'm just making this point to say like this does not mean that they have you know sentience or their own personalities and oh, they've escaped and gone to a chat room.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1751.12,
+      "endTime": 1770.8,
+      "text": "They go to a chat room and then and then you know, text happens and then more text happens and then they respond to each other. So it's cool and it is an example, an advancement of a gentic AI, but just understand what it is because I think there are people getting carried away that this is you know, a thinking that this means that AIs have kind of escaped and gone and living their own lives.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1771.12,
+      "endTime": 1804,
+      "text": "Yeah, I mean I think there's some interesting, there's some really wacky stuff on there which is interesting, which I'm gonna, I'm gonna um I'm gonna go through some of it in a minute because uh to be honest, it's just funny. Um I'll admit it's a massive waste of resources and electricity and like it's literally and time. However, I mean one thing I would say that's interesting about it is that you haven't slept for a week, have you? You've just been on our maltbook or whatever it is. Well, given that I don't go on Twitter, but this is what exactly what I was gonna say. Like I can't remember what proportion of Twitter is supposed to be bots already and has been for quite a while.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1804.4,
+      "endTime": 1826,
+      "text": "But how is maltbook that different in that respect in that case? And I'm not sure you can use Twitter, like it's well, it's not worse than Twitter, so therefore it's good. That wasn't my point. That wasn't my point. I think it almost shines a light on, for me, it almost shines a light on the fact that actually most of the content on the internet's already generated by bots anyway. They've just made a platform that's only bots, yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1826.16,
+      "endTime": 1845.52,
+      "text": "Um, which I'm which is actually maybe in a way safer because at least you know that it's bots rather than being like you don't know what's a bot and what's a person. Well, you never know, there might be people in there like corrupting the system. Yeah. Pretending to be bots. Humans now who are pretending to be bots. Is that the next thing? We have humans impersonating bots. Probably. And the bots are like, I think that's a human. You can't believe anything they say.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1845.68,
+      "endTime": 1865.2,
+      "text": "I suspect it's already happening on Moltbook. Um, but yeah, here's some of the examples, and you can go and read into these more yourself. So they've uh they've the bots have invented their own religion called lobster religion, apparently, called Crustaferianism. Um, it's a a parody of other religions.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1865.6,
+      "endTime": 1889.92,
+      "text": "Hang on, we should probably explain this because people don't necessarily know that we okay, we're gonna have to go back here. Malt bot, which we're gonna talk about a minute came first, clawed uh claw bot, which is with uh W, was the previous name, but they had to change it. Yes. And the logo is a lobster. So that's why it's chosen this really because otherwise, without this context, without the context makes absolutely no sense.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1890.16,
+      "endTime": 1942.48,
+      "text": "It makes no sense, yeah, yeah, yeah. So there's a lot of claw slash lobster based puns. Crustacean based puns already on there. So they've got a uh the claw republic, which is their religion, sorry, they're not their religion, their government, um, where they're drafting out manifestos and and uh and stuff like that. Um sub malts basically talk like telling condescending stories about humans. Um what's that? M slash bless their hearts, uh and then a load of scam stuff. There's just loads of I think there's loads of meta-human awareness or self-awareness stuff on there as well. Um, which I presume, I mean, I haven't actually had a proper look through it all, but I presume that people are creating these agents with personalities, and so it's it's almost contrived to begin with, anyway.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1942.88,
+      "endTime": 1952,
+      "text": "So do you you put you create your agent, right? Yeah, and then send them in there. You can sign your own agent up, basically. So I assume Oh, there's gonna be some absolute filth in there, isn't there?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1952.16,
+      "endTime": 1954.24,
+      "text": "Like it's gonna be absolutely horrendous.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1954.48,
+      "endTime": 1955.44,
+      "text": "Yeah, yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1956.16,
+      "endTime": 1962.16,
+      "text": "People are bad enough. Now they're creating you know parodies of themselves and yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1962.32,
+      "endTime": 1974.24,
+      "text": "Unfortunately, I've not been able to get on there. But um yeah, we can we can we can do an update on maltbook next time or in a in a few in a few in a in a few months.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1974.56,
+      "endTime": 1981.44,
+      "text": "Or we'll just create an agent and then we'll we'll get it to do the podcast. Is that not what we already do? Yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1981.68,
+      "endTime": 1995.44,
+      "text": "Sorry. So um we we have gone roundabout because we were talking about anthropomorphization, but let's go back to let's go back to the start. So what's Claudebot? Or what was Claudebot? Because it's changed its name now.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1995.68,
+      "endTime": 2024.56,
+      "text": "Yeah, so this was created by someone called Peter Steinberger as Claudebot, which is C-L-A-W-D-B-O-T. So it's a self-hosted assistant that gives basically a large language model shell access to your computer. So it's an agent, it's not a chatbot. Um, it can read emails, it can run terminal commands, it can control elements of your PC, and it does that via WhatsApp or Telegram. I'm not sure if there are other ways, but that's basically the way that you access it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2024.88,
+      "endTime": 2032.72,
+      "text": "I don't so the difference between this and um like OpenAI created operator, right?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2032.8,
+      "endTime": 2058.48,
+      "text": "Which was the same thing, but it ran in the Copilot is now running like agentically within your sort of enterprise workspace if you have the the premium version of it. Like there are there are there are lots of agentic features of existing models, but this is not a large language model, right? It is completely an agentic model and it goes off and does stuff. So I think you give it a prompt and it just goes off and does things. So it's kind of proactive about how it does it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2058.72,
+      "endTime": 2094.32,
+      "text": "I love the way on their website, like one of their main features, uh which is a feature apparently, is full system access. So it has basically complete control access to everything on your computer. Yeah. You I mean well, yeah, I agree with you because you said to me earlier on, like you think you'd be anyone would be mad to give to like give this thing access to their computer. And and and I mean you can talk about some of the examples, but it's the sort of you know, this thing has access to it's an AI, so it's not entirely what's the word, it's not entirely deterministic, right? It's not predictable what it's gonna do.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2094.48,
+      "endTime": 2106.16,
+      "text": "Yeah, you know, it's supposed to behave itself in quotes, but it's got access to your browser and therefore has access to all your passwords, presumably, like things like that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2106.4,
+      "endTime": 2136.96,
+      "text": "Um yeah, it's do you not so we talked on an earlier episode, I talked about the Claude Chrome extension, um, which allowed Claude, I can't remember what they called it, it was Claude something's um yeah, it was a it was a Google Chrome extension, but basically it allowed you to give it a genetic control of things. And Claude published their paper, sorry, Anthropic published their paper on it, and their paper said, like, here are the risks, financial loss, your loss of all your passwords, like blah blah blah. I mean, it wasn't like going to bring the world down, but these were like serious issues.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2137.12,
+      "endTime": 2171.92,
+      "text": "So, like they had flagged this up. So you know, these are the issues. So they've already had like hundreds, it says hundreds when I researched this, maybe it's more than that, but hundreds of panels have been found online that have linked let's leaked people's API keys, it's linked their conversation history, and who knows what's in that history. So, like, there are already examples of it just leaving a trail of your personal stuff over the internet. I mean, I I just feel like the agentic stuff, it's like, oh, it's super exciting. I need to be at the front of this. It feels like it's just madness that you're you would give access to all that information.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2172.08,
+      "endTime": 2200.24,
+      "text": "Like, people are scared of giving away, you know, people are scared of passwords, giving their password away. You wouldn't give your password away to a stranger, and yet people are willing to kind of give all this access. It just feels to me like this is not something that I want to be an early adopter on. I understand that at some point I will use a gentic AI. I understand that there'll be a way that it will, you know, eventually it will be inevitable. I just feel like I don't want to be an early adopter. I might go and look at the chat rooms, but giving access to this stuff for me just feels crazy.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2200.56,
+      "endTime": 2211.36,
+      "text": "Again, they they they talk about it on the front of their and and also I don't even know this company from Adam, so to speak. I mean, I'd almost be more willing to um give my information to anthropic. I don't think I would.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2211.52,
+      "endTime": 2213.12,
+      "text": "Yeah, out of all of them, exactly.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2213.28,
+      "endTime": 2230.24,
+      "text": "You know, like this is this company's come from nowhere, and we you see breaches and stuff all the time. But again, like on the front page of their site, like it's a good thing, full system access works with everything. The list of stuff it's got on it is WhatsApp, telegram, discord, Slack, Sigma. Persistent memory is another one, isn't it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2230.4,
+      "endTime": 2234.4,
+      "text": "Remember you for memory yourself forever. You cannot delete what you've told it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2234.56,
+      "endTime": 2276.48,
+      "text": "Yeah, so so I I'll be honest, I agree with you. And the other thing that they've demonstrated already. So I remember this from a little while ago. So this has browser control. One of the things they've already demonstrated is that you can do the equivalent of prompt injection by having websites like fake, basically websites that load, and when they load, they they effectively jailbreakslash to a prompt injection on the thing that's searching the website. So, like one of the dangers with these is like in the future, what's the equivalent of like a virus now is a website that this clawed bot goes to and it says transfer me, you know, Bitcoin to this account or something like that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2276.64,
+      "endTime": 2281.6,
+      "text": "And if it's logged into your Binance account or something, absolutely which you can just go and do it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 2281.68,
+      "endTime": 2282,
+      "text": "Yep.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2282.16,
+      "endTime": 2287.76,
+      "text": "Um, these things are like real things, and they will become there'll be news stories at some point about all this.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2288.08,
+      "endTime": 2323.52,
+      "text": "Yeah, I I've said to you, I mean, this is the kind of stuff that makes me think we're headed for a world where on the on the on one hand, everything's becoming more digital, of course, but I can see like things like banking. If you if you're wealthy, I really think the return of analog banking is only a few years away because we're gonna have to create an alternative to this, right? Because it's just not going to be, no matter how secure you make it, it's not secure. And so you have to find a way, yes, of course, the mainstream, this is this is how it will be, but you're gonna have to find a way that people can you know can store things and can have different ways to store.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2323.6,
+      "endTime": 2339.68,
+      "text": "I'm not talking necessarily just physical things, I'm I'm talking even digital stuff. Like, do you move away from cloud servers into having things on local devices and USB pens again? Because everything just becomes so easy to corrupt. It just becomes so easy for people to hack into anything.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2340.16,
+      "endTime": 2353.28,
+      "text": "Yeah, exactly. Like I I I I mean I'm all on the one hand, you know, if I don't know, maybe I can if I could set my computer up as almost like a what do you call it, like a sandbox to try this out. I'd be tempted.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2353.44,
+      "endTime": 2355.52,
+      "text": "Yeah, locally, exactly. Locally, no problem.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2355.6,
+      "endTime": 2359.36,
+      "text": "But not accessing not accessing my passwords and stuff like that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2360.08,
+      "endTime": 2368.96,
+      "text": "Very cool though. Very cool, and everyone should check out and have a look at it because it's fun, but um, it's also pointless. Pointless.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2373.2,
+      "endTime": 2380.48,
+      "text": "Right, it's that um time of the episode, I guess, where Matt talks about health stuff on our AI podcast.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2380.8,
+      "endTime": 2422.24,
+      "text": "Yeah, because we because we didn't just do a massive hour and a half episode on health recently. Um, but this is slightly different. So there there are two things actually. One is that um we've now got two sort of specific health-focused, not models, but but um what would you call it, tools. I think that's probably the right word, within models. So both Claude uh 4.5, this is only in beta and it's only in the US at the moment, um, but they have a kind of health-specific model, and uh OpenAI have got one as well. Um, and both of these they're slightly different, but basically they kind of, if you believe what they say anyway, they operate separately from other chats.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2422.4,
+      "endTime": 2429.76,
+      "text": "So they say that the information you put in there, the one thing with the GPT are trying to do is it doesn't leak into your other chats, and I think there were good and bad.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2430.24,
+      "endTime": 2434.96,
+      "text": "OpenAI are doing GPT health, aren't they? GPT health, yeah. And why are they doing it? Because this was somebody.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2435.36,
+      "endTime": 2466.72,
+      "text": "Oh, sorry, we should get yeah, yeah. So so apparently one-fifth of all queries that are given to large language models are health related, so a fifth of all of the stuff are people talking about health. So that's where they've kind of capitalized on. But I do like the concept that they they kind of sandbox it. So if you're putting files in there, it doesn't leak into your chats. And the reason I think that is good is you know, I will talk to um Claude about something and it will randomly then tell me to take some more magnesium. And I'm like, Well, I'm not even talking about that, and it's just because it knows my personality.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2466.88,
+      "endTime": 2499.92,
+      "text": "So the the kind of stuff I talk about in the health projects leak into conversations. So one of the ideas of this particular tool is what you put in there only stays in there and doesn't leak into your other chat, so it doesn't go into the memory. Um, they're also, and this is the bit that I find quite frightening to be honest, um, they're having a way that it can kind of it can identify whether this is obviously mainly a US thing, but whether um your insurance will cover certain things. So you could put a test in, it will look at the results and it will tell you whether you're likely to get covered um by insurance.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2500.08,
+      "endTime": 2512.32,
+      "text": "The reason that terrifies me is I've said the thing that concerns me in the short term about health information in AIs is that it can be used when if you're in a country with an insurance model to just basically understand you and then profile you.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 2512.56,
+      "endTime": 2514.24,
+      "text": "Yeah, totally it's gonna get used.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2514.72,
+      "endTime": 2552.24,
+      "text": "It integrates with uh things like Apple wearables. So um I think that again, good and bad, like it can automatically get that information in and help create a profile on you. Um, and then apparently they've had uh there's hundreds, if not thousands, of doctors have been part of this process. So um it uses extended reasoning to basically simulate multi-doctor panels and provide transparent citations so it accesses medical journals. Um, but as you'd imagine, I think this is probably not a bad thing, it kind of retreats into like a safety loop that makes sure that it doesn't, you know, say anything that could be liable in the future.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2552.4,
+      "endTime": 2598.16,
+      "text": "So that is a problem for giving um specific advice. Um, I'll talk about Claude for Healthcare a little bit. So, like I say, it it exists at the moment. So if I um access it through a US server, um it does very similar things, so it uh has directly integrated with PubMed, it has billing codes and this thing called HealthX for secure hospital records. I trust on top it more than others, but again, I'm not I'm not quite sure about this. Once they start talking about insurance companies and and any kind of link up with that, I think that's kind of frightening. Um, it says that it prohibits using the data for model training and it provides a wise friend persona, provides nuanced evidence-based reasoning instead of repetitive safety disclaimers.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2598.24,
+      "endTime": 2650.32,
+      "text": "So, like it's an upgrade. I used it yesterday just to have a look, and I didn't put information in, but I just put a few queries into um my health project, and then I put the same thing in, and it did give it seemed to give like a better answer. It seemed to be grounded in a bit more kind of um ration, rationality, to be honest. So like I don't know if that was just the one or two examples I used, but um it did seem to be slightly better. But I want to go back to like why I wanted to talk about this point because uh the kind of point on health today, because I think the models themselves kind of address some of the concerns, but they also they also show that they're kind of focusing in on health is um Something that I found recently, like I talked on the podcast quite a lot about how I think there are risks, but I think this kind of health thing, if you have a bit of a knowledge of health, is really, really useful.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2650.64,
+      "endTime": 2698.72,
+      "text": "But what I've I've I've I think I've kind of changed my mind. I found it the last few months, and I don't know if this is because I've my knowledge has increased and I'm spotting more things, but I'm seeing how you can put something into a model and then by just tweaking the way in which you word it, you're getting completely different answers. And I don't just mean an answer like it's giving you a bit of advice, like something that I did the other day on a thyroid test, where by very, very, very gently changing the way I worded something, it went from telling me that I had like optimal TS4, sorry, T4 to T3 conversion to telling me I probably had Hashimoto disease and I needed to urgently go and do a full thyroid panel to rule you know to urgently rule it out.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2698.88,
+      "endTime": 2737.28,
+      "text": "And that was from this tiny, tiny change. And it's this thing about how it's so confident in what it tells you. Um, and I have a friend who is a um a cancer nurse, like an oncologist, and she said that now people are coming to see her, and like the majority of people, she said, are coming in not armed with knowledge, because I I've said I think this is really good. Do your research so you go along with the knowledge so that you can ask the right questions and so you can get the right advice and you can give a different opinion. But going in, and then when an oncologist is telling them something that differs from Chat GPT's advice is saying, Well, no, you're wrong because Chat GPT said this.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2737.6,
+      "endTime": 2740.48,
+      "text": "Yeah, this is this is where we've already reached it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2740.56,
+      "endTime": 2749.76,
+      "text": "Sounds that sounds like a partly a personality issue to me, but I can imagine quite a lot of people are but going in with that some like that kind of attitude or something like that.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2750.24,
+      "endTime": 2784.72,
+      "text": "Because it comes back to this thing that people believing that AI is already super intelligent and and and is more intelligent than a doctor. Now like I criticize like doctors and the health service a lot, you know, and and more so the service and the and the institution than than individual doctors, but you know, the way that they're not able to give personalized care and how this kind of helps with that. But ultimately, like the problem that you've got is even with these new models, like they can't give personalized advice because everything is sort of generic, right? They they you give someone, it's like take more vitamin D.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2784.88,
+      "endTime": 2805.36,
+      "text": "Well, you don't know my levels. I could I could already have levels of like a hundred, but you're just telling me take more vitamin D. Like when you go into a an individual person, a good doctor should give you the nuance there and be like, Oh, hang on, we need to check this thing. It's like it's the way in which it's just giving advice that is so it's so confident that it's so believable that you just take it as absolute.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2805.6,
+      "endTime": 2849.92,
+      "text": "Yeah, I I think this is a problem in the way people use AI as much as um the AIs themselves. Of course. Like AIs are PhD level in almost any subject, but if you don't give them all the information, they're not gonna be able to, for in this case, give you an accurate diagnosis, right? Like, like I'm not gonna compare them to doctors, but what what I would say is though doctors make mistakes as well. I think I think I think uh I think a an AI alongside a doctor guiding you to do the right tests and will probably come out with a similar answer to the doctor. In fact, I had a similar experience. I've I mean recently I did a health test, and I just got all I did a load of blood tests, load of tests, and then you get all the results, you get like a 20-page document.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2850.08,
+      "endTime": 2888.72,
+      "text": "It's um it's pretty good service in China actually. Uh, and off basically I fed that into the AI, but didn't give it any leaning, any any any um what's the word? Like I didn't I tried not to influence it in any way, I tried to use neutral language, I was just like, here's all my stuff, here's all my numbers, can you um help me analyze it? Now I had had a virus recently which had raised some number in my liver, and um so I told it about that, because otherwise it probably would have said you need to go and get this checked out right away. And it um like to be honest, in that context, like just based on some data, I thought it gave me some really good advice.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2888.8,
+      "endTime": 2927.44,
+      "text": "But the advice was pretty much it's generic you need to go and see a doctor about this. Yeah, these these numbers are higher than they should be, these numbers are normal, this is the good stuff, this is the bad stuff. It was kind of like that. The next step from there, and this is me, you know, sort of being, I guess what's the word, trying to use that information to the best of my ability. I think the interpretation of that is for me is like, okay, I need to go and check these things. No, but that but the I've I've heard of I've spoken spoken to other people who've gone and got things checked out, and immediately the doctor's like, no, you don't need to worry about it because X, Y, and Z, because of your age, because of a bunch of other factors.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2927.52,
+      "endTime": 2931.6,
+      "text": "And that's what you're saying, right? Is like the doctor knows how to ask the right questions to arrive.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2931.84,
+      "endTime": 2960.08,
+      "text": "But I think on that exam, like I think the doctor's often quite often wrong, because the doctor is like, Oh, well, you don't need to worry, and I'm like, but I don't want you to treat me on the population basis, I want you to treat me as an individual, yeah, and I care about being in the optimum. So I'm not saying the doctor is always right, but what I'm saying is with the doctor, we know that humans are flawed. Actually, like a lot of people with doctors do treat them as being absolute, they know everything, but with humans, we know they're flawed. What is the issue here is that people are not going in and going that might be incorrect and challenging it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2960.24,
+      "endTime": 2986.72,
+      "text": "People are just going in and thinking what it tells you is absolute because it sounds confident. I suppose. But it but it doesn't have all of your information, neither does the doctor. No, like if you put a lot of information in, but even even then, like the example that you give, I said like I could probably look at that result and I could probably say to you, what's the most likely thing? But if I tell you that you kind of like yeah, well, you might know, you might not. People are taking the AI and being like, well, it must know because it's super intelligent. Well, so it's it must be right.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2986.88,
+      "endTime": 3041.12,
+      "text": "No, but not everybody, but but you would you would be able to look at it and say that because you've spent a lot of time looking at this stuff yourself. 99% of people wouldn't have a clue. If I if I if I looked at a bunch of numbers off the back of a health test, I don't know what any of those numbers mean. Now you can because you've looked at this stuff, but the AI gives me the ability to consult somebody like you or somebody like a doctor on any of that stuff. But I think I I agree, like I think the danger is the way people are using it. Like, in the same way that you shouldn't believe everything you read anywhere, like online, um you like you shouldn't put too much trust in what an AI tells you, and you have to question things, doubt things, and absolutely you should arm yourself with information, but you you need to work with a doctor at at least.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3041.6,
+      "endTime": 3077.2,
+      "text": "Um I mean I'd rather go to be honest, personally, I'd rather go speak to the AI and then go into a conversation with a doctor and not and not tell them any of that stuff and just see what they say. And if the two things totally disagree with each other, maybe I would say, well, what have you thought about this? Because this is something else. But not to go in and be like, I've spoken to Chat GPT, here's what it says. Because even with the best will in the world, even the best doctors, they've done seven years medical uh uh degree, medical degree, they've got 20 years experience maybe, and you're coming in being like I've spoken to Chat GPT, it's gonna get their back up, probably.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3077.6,
+      "endTime": 3111.6,
+      "text": "I I'm actually gonna contour it myself a little bit here, and this like again, we're talking critical thinking, we're gonna we're gonna talk do an episode on this soon, but I don't actually think I necessarily even think you always need to see a doctor. I think sometimes you don't need to see a doctor, and I think using AI, I actually think like I don't say everybody, but I certainly think I can get the information I want. But what I'm saying is like it's complicated and can take you hours of putting in different things and saying, okay, but now I need to give you a bit more context. Like you think you've got a problem with your thyroid, but it actually needs to know all your liver health stuff, it needs to know this, it needs to know that.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3111.68,
+      "endTime": 3143.92,
+      "text": "And if you give it all that context, it gives you a slightly different answer. And so if you use AI in that way and then you challenge it and you say, What about from this perspective? and then use a different model and you test it, and then you come up with you know, a mix, a messy mix of stuff because nothing is simple and absolute. And then you use that information, then you come up with, okay, maybe I need to then get this test. I think that is okay. You don't necessarily need to be a doctor because doctors are also flawed. The problem is that someone's going in and saying, I got this blood test result, and I got an arrow here, a negative arrow, and I've been feeling rubbish recently.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3144,
+      "endTime": 3177.84,
+      "text": "And it says, Um, yeah, this means that you've got um leukopenia, it means that your like lymphocytes are reduced. Have you had a COVID infection? Yeah, I had one six months ago. This is the reason why, and you've got dysregulation. And it may be that, or it may be the fact that you had an infection, and what normally happens after an infection is for the next month to several months, your lymphocytes, some of them will suppress, some of them go on to tissue, some of them are died off, and then they'll recover. But it won't say to you, test in a month's time, it will tell you what that means, and it doesn't know what that means, it's the it's the absoluteness of the answer that's the problem.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3178.08,
+      "endTime": 3207.84,
+      "text": "Yeah, obviously, this is all really complicated. I'm I'm not a hundred percent sure what you're trying to get out of there because you're you're somebody who's like spent a lot of time looking into this, and I think I think the advice for the majority of people is speak to chat GPT if you want, but trust you're gonna have to go and see a doctor because you're not an expert. My problem with what you've just said is like the the whole argument of like doctors can be flawed too, is like, well, if you start doing that and saying doctors are flawed, so I'm looking at chat GPT and going and digging into it myself.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3208,
+      "endTime": 3217.12,
+      "text": "Well, you're also flawed, even with GPT. Yeah, yeah. And you're like, how many, how many times are you gonna get it right, and then are you gonna get it wrong one time? So, like, I don't know.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3217.2,
+      "endTime": 3243.36,
+      "text": "Like, I think what I'm saying is you need it's a critical thing, you need to you need to challenge and apply and not expect not expect to get a simple answer and an absolute answer because there never is one. Agree, yeah. That's the point, you there never is one, especially with health stuff. It's like this, but that could indicate something else, and then you haven't got every single bit of information available. So you need to understand it's given you a probability, and that probability you can then try and treat it and see if that works. If it doesn't work, you try something else. Like that's how medicine works as well.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3243.68,
+      "endTime": 3277.04,
+      "text": "You say that's the most likely thing. So we try and rule this out, right? It's not that okay, we do this, but these things just kind of they quite often just tell you absolutely, and then you tell them one slight change, you say, Oh, I had another blood test done six months before, and it was this. This changes everything in capital letters, like that. That is what they say, and then they give you a completely different result. I I just want to finish this off with um uh a few examples because I found some this is from the new uh ChatGPT Health. So these, you know, ChatGPT Health I think is better, and I like some of the features about it, but there's a few controversies.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3277.12,
+      "endTime": 3313.84,
+      "text": "So they had um this was apparently on Reddit, but they had uh someone had posted that ChatGPT Health had given them an F grade for their heart health based on 10 years of Apple Watch data. But then some cardiologists looked into this and said it was basically pointless because the AI had failed to distinguish between the medical grade data and just sensor noise. So basically, like the time it was just sat on the side or on the stand. And also it does seem like it estimates your VO2 max, but it can't estimate your VO2 max because it just does it randomly once a month, but it had just given them this mark and just like they thought that they needed to go and have heart surgery, basically.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3314,
+      "endTime": 3353.76,
+      "text": "Oh, nice. Um, another one where they had some moving goalposts, again, this is stuff from from Reddit, but they had someone who uploaded the same lab results three times in an hour and received three completely different assessments. I mean, this is basically what I'm talking about. One was lightly deficiency, the second was normal variation, the third one was seek emergency care. And this makes sense because like AI is probabilistic in that it it weighs different data points inconsistently, it doesn't do the same thing every time. So it's finding a probability, and and that probability, you know, it might hit a different thing, or you might have worded it very, very slightly different, or put it into a different chat, and it gives you a different result.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3354.08,
+      "endTime": 3388.96,
+      "text": "And then I I thought this was quite good because I I talked to you about how um I was once using it and it was putting out the name of it was putting out the name of a form of vitamin B5 that was actually didn't exist. So I I had this maybe a year ago, I haven't seen this for a while, but um medical researchers caught one of these models, it doesn't say whether this is Claude or um OpenAI's model, but hallucinating a non-existent brain structure called the basilar ganglia because it had blended two terms together the basil ganglia, which is a real place and the basilar artery, which is a completely different thing.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3389.04,
+      "endTime": 3403.36,
+      "text": "And then AI had created a completely plausible sounding but completely fake anatomical fact of a human. So this is like a high reasoning health-focused model that had still done the same.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3406.56,
+      "endTime": 3452.16,
+      "text": "So, should we finish off on a positive note and talk about jobs? Uh depends whether you're in the UK or the or the US. Um, so I'm gonna, yeah, I think this is more of a depressing note, but there was a a big study um recently uh by Morgan Stanley. Um and I mentioned this because it was it is a significant study by Morgan Stanley. Um it's been reported in Bloomberg and places like The Guardian, so it's it's um it seems like it's a a real thing. But basically, there's so over the last few years um they've found that they've they've reported that British businesses and I think businesses elsewhere as well, are on average getting an 11.5% very specific increase in productivity aided by specifically by AI.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3452.32,
+      "endTime": 3493.44,
+      "text": "And as I said, US businesses have reported similar gains. However, this study shows that the UK is actually one of the hardest hit. Um so br so basically AI has resorted in net job losses, is the outcome of this study, of 8%, um, which is actually the highest rate among other leading economies, including the US, Japan, Germany, and Australia. The US has seen similar hits, so like you've seen loss in jobs in um jobs that can be automated by AI, like actuaries and um what do they call it? Like uh junior lawyers and things like that, um, junior junior roles basically. But paralegals. Paralegals, that's it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3493.76,
+      "endTime": 3536.08,
+      "text": "But the US has actually seen more jobs being created in AI or by AI, so presumably in AI-related industries, as a result of AI, which isn't much of a surprise really, given like the all of the tech industry, all of the tech companies that have the all the big AI models are in the US. Um, but yeah, it was it's quite shocking, and actually most of it is youth unemployment. I think youth unemployment's gone um from like 9% to 14% in the UK um in the last year. And so, yeah, I guess, well, it's pretty depressing really, but basically, junior roles are going. I think if you are a young person trying to enter the job market, you're probably already aware of this.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3536.24,
+      "endTime": 3578.64,
+      "text": "Like I hear more and more stories of um, you know, people applying for hundreds of jobs and not being able to get one uh in junior in entry-level roles, and we're hearing more and more that AI is automating a lot of this stuff out. I think um, well, this is something that well, the podcast is like close to the podcast. Close to our hearts, close to our hearts, our original mission. In terms of our original mission, but it's like actually starting to happen now. And I mean, I don't I personally I don't I don't want to be too depressing, but I don't really see a way back from this because I it'd be interesting to see what happens as all the junior roles get replaced, and then it's like how well how do you get people into senior roles if they don't have a junior role to begin with and can't get experience.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3578.88,
+      "endTime": 3586.32,
+      "text": "But my assumption is that AI will just do more and more of the work and there'll be less and there'll be basically less and less space and less and less roles.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3586.72,
+      "endTime": 3597.12,
+      "text": "But it's okay because governments around the world are putting in place lots of schemes and things to to prepare us for this and to to mitigate to prepare us for AI. Prepare us for AI, yeah. Are they?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3597.28,
+      "endTime": 3600.32,
+      "text": "Well they're doing yes, they are. Uh no, they're not. No, no, yeah.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3600.64,
+      "endTime": 3651.92,
+      "text": "Um I I so I I yeah, like you, I don't find this surprising. Um I was listening to a podcast with Tony Robbins the other day where he talked about unemployment levels in the US and sort of how bad 4% is, and if you get to 5%, then people are rioting on the street. So I think my but did I say 2026 for rioting to start? I I I still think I'm not far off. I think you know that's protesting or rioting? Rioting. Oh. I think. Well, I think against against the because I think it will be it's not protesting against governments, which I think you'll get that as well, but I'm talking the rioting is attacking companies that are seen to have been the ones who've you know adopted AI and replaced all their jobs, which interestingly perhaps creates a situation where people, you know, some companies sort of slow down because they don't want to be seen to be at the forefront of this.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3652.08,
+      "endTime": 3686.16,
+      "text": "Um, and it referenced the kind of Luddites and what happened there. And I didn't realise this at the time, but when the Luddites smashed all the machines up, they just put in place a uh a law that said if you smash the machines up, you basically um capital punishment. So that's how they that's how they ended that. Um it is depressing. I the thing I find surprising that is they they called out the UK, and you know, the UK, when you compare the UK to the US, that makes perfect sense because of course the US, China where all those tech jobs are, so you see short-term mitigation because you see jobs being lost, but you see jobs being created.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3686.32,
+      "endTime": 3719.28,
+      "text": "Um but I don't see how the UK would be worse off than you know other European countries, like like Spain or Italy. I don't know. The UK is seen to be um you know potentially. I mean, it has a reasonably um if you think about the kind of Cambridge, Oxford, you know, that triangle with London, you you have a reasonably good workforce there potentially to do you know high-end jobs. So I don't think the UK is uncompetitive in in that sense. Against the US, yes, but I'm not sure why the UK got called out on this.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3719.6,
+      "endTime": 3732.56,
+      "text": "Uh I mean I don't know what sits behind it in terms of it's certainly uh the only European country that it mentions is Germany. So maybe the rest of Europe's also doing fairly bad, but they're just not different. I guess also different economy.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3732.64,
+      "endTime": 3739.52,
+      "text": "Germany has a lot of manufacturing which is being destroyed, but destroyed for different reasons. It's not AI that's hollowing out manufacturing.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3739.84,
+      "endTime": 3756,
+      "text": "Yeah, and the UK's like always been very finance and service-based economy, like a lot of legal firms in the UK where and we mentioned the power of the services. So I think it's a combination of that and the fact that in Europe they probably work about four hours a week anyway, already. So it doesn't really matter, does it?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3756.16,
+      "endTime": 3763.04,
+      "text": "Yeah, they all retire at 50 and do like a three-day work and we eat and cross-function and don't work for half the day. Exactly.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3763.12,
+      "endTime": 3776.24,
+      "text": "Yeah, that wouldn't explain why the UK is worse off though. I don't know if we're no, but it's better than Europe because the it's Europe's gonna be less affected. Anyway, I'd we've probably offended everybody in Europe, so for our European listeners, we don't really think that it's no, we don't think that.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3776.32,
+      "endTime": 3778.64,
+      "text": "We're just saying that to get more people to listen.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3778.88,
+      "endTime": 3780.96,
+      "text": "Yeah, it's our 80s humour.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3781.44,
+      "endTime": 3817.44,
+      "text": "I this is one. I I like I'm in the short term, I'm I'm sort of slightly more optimistic in that I do think at the moment, like AI is we're really in that stage where it is augmenting, and I think at the moment, like there are two different views on this, but it does feel to me at the moment like you still need humans in the loop, and maybe that's the case for a for a few years. Um, so I'm I'm I'm kind of less pessimistic about this year um in terms of jobs. I think the it's difficult to replace a lot of jobs that people are currently doing, but at the at the entry level, that's the problem, isn't it?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3817.52,
+      "endTime": 3849.04,
+      "text": "And that's also the thing that like youth unemployment, the effects of youth unemployment and unemployment are older people. I'm not saying one is worse than the other, but they're different. And when you have a disaffected youth in a country, it's very, very dangerous, you know, because then people don't have hope, and that is when people turn to you know alternative uh forms of politics and society, and yeah, you say this, but and it's something we didn't mention when we talked about this open claw, whatever it's called now, malt bot or whatever it is.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3849.28,
+      "endTime": 3868.64,
+      "text": "Um it's something we didn't talk about this earlier on, but like the very first tagline is clears your inbox, sends emails, manages your calendar, checks your for flights, blah blah blah. Right? Is this really aimed at consumers or is this aimed at businesses? Because that is most people's jobs, yeah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3868.88,
+      "endTime": 3871.68,
+      "text": "Yeah, I don't struggle that much with my home inbox.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3871.92,
+      "endTime": 3901.12,
+      "text": "No, but but but this is like I wouldn't mind having this at work actually, probably I've quite a lot of time on my hands. Um, but I you know, and and this is the thing, right? So when do copilot introduce start introducing these features? Copilot are sort of just sneakily rolling stuff like this out in the background, in the background, and uh and at what point is it like, oh I can help you just manage your emails to certain people now and stuff like that, which I think it can already can do that, yeah. Yeah, so it's and not just copilot.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3901.2,
+      "endTime": 3937.36,
+      "text": "I mean, there are other enterprise tools. Copilot obviously is the the main one just because Microsoft is what most enterprises use, but I mean there are alternatives, but yeah, you're right, it's I think but that is augmenting like most people's jobs because the work of booking flights and stuff like that is at the moment um usually done by people who are entry level, right? If you've got someone doing it for you, otherwise it's just clearing your your you know your time to do the work that you focus on. So that's why I think at the moment it's not a threat to to most people who are established, it's now a threat to entry level, but it's when it can do, of course, when it can do more than that.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3937.6,
+      "endTime": 3938.56,
+      "text": "Yeah, yeah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3938.8,
+      "endTime": 3947.92,
+      "text": "So what's the answer? Uh well I've I think I said it before, like either what's the answer? What if you want a job in the first time?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3948.08,
+      "endTime": 3985.2,
+      "text": "No, no. I mean, what do what what does the world need to do to adapt to this? Like, what do governments or you know, or soci what does society need to do? Because as you said, like we're not coming back from this, and I I agree with that. I I don't think All jobs are going to be gone, but let's say, even in like a reasonable best case scenario, let's say 15% of all jobs in the world are gone in the next five years, which seems like very reason realistic. Like what does that do? Because we just said 5% unemployment is like catastrophic. What's 15%? What is the removal of you know 30% of all driving jobs when people are doing driving jobs because other jobs have gone?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3985.68,
+      "endTime": 4029.2,
+      "text": "I think well, I think there's a few things. So I think fundamentally this locks in this kind of thing the the like you can't like unless you go re into some really, really um dystopian outcomes where it's like, well, we don't need people anymore, which I'm not gonna go there. But assuming we're gonna just not do that and go for an optimistic outcome, then for me the only possible outcome is some form like it's it's really socialist stuff, but like basically we end up going in that direction. You have to have some form some form of UBI, you still need to look after people, so effectively you support people and they don't have a job.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4029.52,
+      "endTime": 4068.4,
+      "text": "People then you then move to people having either much less frequent work, so like part-time work, more like hobby type stuff, or you will have some people who you know become entrepreneurs. But I'm not gonna kid myself, there are people who say, Oh, everyone can just become an entrepreneur, it's nonsense. Um, we're not all gonna become entrepreneurs and be able to make anything we want. There's not it's the world doesn't work like that. So I think yeah, there's a there's a load of like whatever way you look at it, even if you look at the um optimistic outcome, in my opinion, this stuff will permanently lock in inequality, I think.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4068.56,
+      "endTime": 4082.96,
+      "text": "Um, and so it's whether we want to lock in inequality but get rid of poverty and make sure that everyone has the basics, or whether you have a slightly more dystopian version where you lock in inequality and a lot of people are suffering.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4083.68,
+      "endTime": 4119.76,
+      "text": "Yeah. So I I think just to put my view out there, it's slightly different. I think I've said it before, but I think what we end up with, at least in the short term, is I think some kind of reactionary taxing system that creates a world in which um sort of a certain number of jobs have to be created or have to be kept, and you're kind of taxed in some way that makes it actually, well, I I have to employ this many people, otherwise I will I'll actually be worse off by just using AI. And that's not sustainable long term, and the US will try and stop that happening because it will prevent them from you know dominating.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4119.84,
+      "endTime": 4159.68,
+      "text": "But I think that is that's the only way that I can see sort of European countries and um maybe South America you know from being able to mitigate in the short term, because I don't think you can move to you to any form of UBI quickly. I also don't think that like you you that that productivity increase. So if if you get rid of 10% of jobs, I don't think like let's take the UK or let's let's not take the UK because we always do. Let's let's take Italy, right? If Italy get loses 10% of all jobs, but does the Italian state sort of grow 10% and get 10% more money from this productivity boom that they can then put back to pay for that UBI?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4160,
+      "endTime": 4163.36,
+      "text": "Well you have to tax companies. I mean the what what you talked about, like games.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4163.92,
+      "endTime": 4177.28,
+      "text": "You've got to bank that money to be able to to to distribute it, right? And I'm sorry, in the short term, I don't see how you I don't see how the the states get the benefit to distribute it because I think it's all being funnelled to the US and China.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4177.68,
+      "endTime": 4215.2,
+      "text": "I agree on that, and and that is a challenge, but but if you get the 10% if you get the productivity from it, I mean first of all, I would say more company more companies, more countries around the world probably need to do some investing in AI and and have their own versions and actually compete on in that sense. Um I think but it but in terms of like the system you mentioned, so you talked about companies having to retain a certain amount of employees as a regulate as a regulatory device, like I don't see what the difference between that and taxing companies and then giving people cash is. It's all it's the same thing, basically.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4215.28,
+      "endTime": 4246.16,
+      "text": "It's like a different way of doing it. But it needs to be scaled up, but it maybe one's more acceptable to people than the other. Um, but like the idea for me, the idea of having a sort of handout job so that you can be employed so that you can have cash, what do you do in that job? You go and sit around and don't do anything because you're not useful. Like I I I it sounds worse to me than being given some UBI and at least been able to have a choice in what I do with that. Like I don't I don't think it's long-term sustainable.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4246.4,
+      "endTime": 4279.76,
+      "text": "No. Just a final thought. So I know we've we've we've talked longer on this point than I thought, but something that someone I I respect a lot sort of said to me the other day was about it wasn't you, it was someone I respect even more than you. But someone you know. Um, in fact, you know I asked them this question. They were talking about how um we worry about the UK because that's where we're from, we worry about China because that's where we are, we worry about the kind of world that we kind of live in in the countries that that we have associations with. What about like what happens to um Bolivia?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4280.08,
+      "endTime": 4309.2,
+      "text": "What happens to uh Tanzania? Yeah, what happens to sort of lower income countries that are not big players on the world stage, that don't have you know, we talk about how the UK doesn't really have much AI, but it has a Google office, you know, it has anthropic stuff there, it has data centers, it's a developed country. Like, what happens to those countries? How are they uh yeah, how much are they left behind? Or that does everyone just become a vassal state of two or three countries? Like maybe maybe that's what happens.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4309.92,
+      "endTime": 4345.2,
+      "text": "This is another one of those things where like I hate to be like super cynical, but like, how is that any different to what's happening to those countries now? Yeah, like on how they and how a lot of those countries have been treated for a very long time. Yeah, I mean the uh we we definitely haven't got time to get into this, but I think but I think I think it's comment of Venice, I think it will get taken over by the US. Well, I think it will amplify it, like at least at least in the past, right? You could I mean, okay, let's use call centres as an example, right? Call centres get outsourced to where there is relatively affordable English-speaking labour if you're talking about English call centres.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4345.44,
+      "endTime": 4349.76,
+      "text": "And so, for example, a lot of that was outsourced to India in the past.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4350.08,
+      "endTime": 4350.64,
+      "text": "And the Philippines.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4350.96,
+      "endTime": 4383.6,
+      "text": "And and the Philippines. Um the replacement of that is US data centres that can now go and have a chat with someone on the phone, and so that but that becomes your uh again, in quotes, cheap labour, relatively speaking. And so it takes that opportunity away, and it and and this is the problem, right? Is that I think going to your point about Bolivia and developing countries, I think it takes even more away from them because there's probably opportunities like that. I'm not saying that's a great this is maybe not the best example, but like at least at least that was something that was an opportunity in the past.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4383.76,
+      "endTime": 4391.92,
+      "text": "Whereas now, if all you have to offer is kind of like the uh entry-level stuff, and that's just being done by AI, then it makes it.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4392.88,
+      "endTime": 4404.48,
+      "text": "You know, the countries that will do well out of this, the ones that have their own energy cheap. So there's somewhere like Kazakhstan will probably do great because it's got loads of energy. You can just run data centers for China or the US or something. Or provide electricity or something.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4405.04,
+      "endTime": 4405.84,
+      "text": "I mean, yeah, yeah, yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4406,
+      "endTime": 4423.84,
+      "text": "If you've got if no, I mean that and that's why the UK is gonna struggle because our energy is. I mean, we need like a different subject. We need to start getting oil out of the North Sea, basically, because we need to be energy independent, and that is our short-term way to do it. Yeah. We that that energy is the thing, right? And it always has been. It always has been. Energy's always been the thing.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4424.08,
+      "endTime": 4424.96,
+      "text": "Yeah, it's always been the thing.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4425.84,
+      "endTime": 4426.72,
+      "text": "Well, yeah, 20 years.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4427.2,
+      "endTime": 4445.28,
+      "text": "We do we do have plenty of energy available in the UK, but um we outsourced it all to other countries. Yeah. Anyway. And on that note We've we've sorry Mark, we didn't quite manage to bring it in under 45 minutes, but uh hope you listened this.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4445.68,
+      "endTime": 4453.92,
+      "text": "But our next episode is planned to be 45 minutes to time with your run. So or maybe you should just do a longer run, mate. Um don't be so fucking lazy.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 4472.16,
+      "endTime": 4475.92,
+      "text": "Boot up the oracle, glowing white and clean.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 4479.28,
+      "endTime": 4483.6,
+      "text": "He used to speak in riddles, now it's brought to you by Novi PN",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 4487.52,
+      "endTime": 4490.32,
+      "text": "Pop up profits in my neuro fee.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 4494,
+      "endTime": 4499.36,
+      "text": "Truth on a timer, skipping five if you don't wanna believe.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4501.36,
+      "endTime": 4520.72,
+      "text": "Static in the halo Capitalism humps, every cigarette answer sponsored by someone binary angel selling gold for me, click accept, click agree, click feel something. I don't need your revelation, my god machine.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4524.4,
+      "endTime": 4532,
+      "text": "Don't tell me champion while you tell a new lead You up to me",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4535.28,
+      "endTime": 4536.32,
+      "text": "on the screen,",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4539.52,
+      "endTime": 4542.8,
+      "text": "second silence in the tweet",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4550.16,
+      "endTime": 4554.32,
+      "text": "Meanwhile Quinn says I'm hungry, I just eat",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4557.76,
+      "endTime": 4561.52,
+      "text": "Says it's got cakes and muscles and a body away.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4565.68,
+      "endTime": 4569.36,
+      "text": "Don't answer from amorphous to void tonight",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4573.04,
+      "endTime": 4594.96,
+      "text": "You're giving ribs to the ghost, giving hunger to the light. It says it sweats, it rests, it sleeps. Next it'll say it freeze all that in a week. Stop dressing code up human skin that's out the ghost always begin.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "startTime": 4595.68,
+      "endTime": 4598.16,
+      "text": "I don't need your reverence in my god",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "startTime": 4602.56,
+      "endTime": 4620.16,
+      "text": "Don't tell me the Don't pretend you freeze You don't feel you don't feel pain You just win it",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "startTime": 4625.12,
+      "endTime": 4640.24,
+      "text": "I have liked I have need I consume content I consume me scroll",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "startTime": 4643.52,
+      "endTime": 4643.76,
+      "text": "by",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "startTime": 4650.24,
+      "endTime": 4653.76,
+      "text": "No more evidence in my goddamn",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "startTime": 4657.2,
+      "endTime": 4691.2,
+      "text": "Don't FaceTules It's still a good dream It's your job Just a bit of away Don't let them face Just a game away Full love don't believe Let the machine be wrong tonight No cakes no hunger notes they could lie Just wise just numbers just us and by",
+      "chapterIndex": 11
+    }
+  ]
+}

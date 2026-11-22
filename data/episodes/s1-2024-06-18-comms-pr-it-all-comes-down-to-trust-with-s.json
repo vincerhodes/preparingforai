@@ -1,0 +1,1016 @@
+{
+  "slug": "s1-2024-06-18-comms-pr-it-all-comes-down-to-trust-with-s",
+  "buzzsproutId": "15269551",
+  "title": "Comms & PR: It all comes down to trust, with special guest Daniel Lyons",
+  "date": "2024-06-18T13:00:00.000Z",
+  "season": 1,
+  "durationSec": 3939,
+  "format": "deep-dive",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15269551-comms-pr-it-all-comes-down-to-trust-with-special-guest-daniel-lyons.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail After a couple of weeks away Preparing for AI is back and on the verge of a relaunch! Before we crack on with a deep dive into the Communications & PR industry we have a look at the AI developments that have most interested us over the past 2 weeks. Can Apple's integration of ChatGPT into Siri really coexist with their strong privacy stance? Find out as we unpack this game-changing move from Apple's latest WWDC announcements and explore its implications for iOS users. We dive into some research into attitudes and understanding of AI across six countries and find that despite the ubiquity of AI tools such as ChatGPT, Google Gemini, and Microsoft Copilot, public awareness remain suprisngly low? Join us as we explore the broader societal and political ramifications of AI, emphasizing the urgent need for informed discussions about its impacts. We question why AI is not a more prominent political issue and introduce how we plan to address this through an expansion and re-launch of the podcast in the next few weeks In the second part of the episode, we explore AI's transformative role in the PR industry with insights from Daniel Lyons. Learn how AI is revolutionizing tasks like monitoring and data analysis while human expertise remains vital for strategic functions. We also delve into the emerging role of prompt engineers and the future of AI-driven advisory roles, considering the necessity for transparency and ethical implications. Tune in for a comprehensive look at how AI is reshaping industries and the societal fabric. Episode links: https://reutersinstitute.politics.ox.ac.uk/what-does-public-six-countries-think-generative-ai-news",
+  "summary": "After a news catch-up — Apple's ChatGPT-in-Siri privacy paradox and Reuters/Oxford data showing only 1–7% daily AI use across six countries — the hosts soft-launch a relaunch toward governance and alignment. Guest Daniel Lyons explains PR adoption is still executional (monitoring, data analysis, translation; ~40% of tasks AI-assisted) and held back by skills gaps, billing ethics, and above all trust, while Matt calls prompt-engineering careers 'bollocks' and argues crisis-management AI is only a couple of years away.",
+  "keyTalkingPoints": [
+    "Apple Intelligence integrating ChatGPT into Siri contradicts Apple's privacy brand; dedicated AI hardware like the Rabbit is stillborn",
+    "Reuters Institute: ~30% across six countries never heard of any AI tool; daily use 1% Japan, 2% UK/France; Claude awareness 2-5%",
+    "PR: AI does monitoring/data analysis/translation; strategic work (crisis, relationships) stays human — CIPR figure ~40% of tasks AI-assisted",
+    "Prompt engineers/architects: Matt — 'bollocks... an industry that might exist for a year and then it's gone' as models understand natural language",
+    "Trust is the No.1 adoption barrier — 'we never asked for this'; EU AI Act will force AI-content labeling; human-made quality marks may emerge",
+    "Future: 'boardroom AI advisor' in business-continuity plans; one-person AI agencies could out-compete big firms"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "People already use AI daily without knowing it — integration into search and phones delivers ubiquity without awareness",
+      "Generative AI is a cheat around writer's block: scaffolding you rewrite; AI-assisted labeling of content will become unworkable",
+      "Expects the first billion-dollar one-person AI companies within 5-10 years, massively disrupting service industries",
+      "China's AI rules include progressive worker-protection measures — worth a dedicated regulation episode"
+    ],
+    "matt": [
+      "Awareness of AI tools matters less than awareness of AI's coming societal change — and most people have neither, which scares him",
+      "Trust in AI will never be fully overcome 'in our lifetimes' — it is the biggest barrier, and it is about who controls AI",
+      "Prompt-engineering as a career is 'for the birds'; AI crisis-management tools are maybe a couple of years off and will strip out teams",
+      "Credits named cuts over stealth cuts, but expects regulation to arrive too late for many people"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-06-18-comms-pr-it-all-comes-down-to-trust-with-s-2503.48-pr-industry-hesitancy-about-ai-will-fade-within-",
+    "s1-2024-06-18-comms-pr-it-all-comes-down-to-trust-with-s-2745.866-ai-crisis-management-systems-capable-of-handling",
+    "s1-2024-06-18-comms-pr-it-all-comes-down-to-trust-with-s-3043.227-within-5-10-years-the-first-one-person-plus-ai-c",
+    "s1-2024-06-18-comms-pr-it-all-comes-down-to-trust-with-s-575.465-within-a-year-far-more-people-will-be-thinking-a"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Daniel Lyons",
+    "Speaker 4"
+  ],
+  "chapterCount": 6,
+  "turnCount": 134,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 3
+    },
+    {
+      "title": "Summary of recent AI developments",
+      "startTime": 69
+    },
+    {
+      "title": "Governance, Alignment, Security and the future of Preparing for AI",
+      "startTime": 1367
+    },
+    {
+      "title": "Guest interview- Daniel Lyons",
+      "startTime": 1503
+    },
+    {
+      "title": "Trust- The No1 barrier to AI adoption?",
+      "startTime": 2627
+    },
+    {
+      "title": "AI Won't Replace Us (Outro Track)",
+      "startTime": 3785
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.568,
+      "endTime": 37.856,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change, the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human social impacts of AI. We're making it our mission to help you prepare for the human social impacts of AI. Touch my tears with your lips, touch my world with your fingertips. Welcome to Preparing for AI with me, matt Cartwright, and me, jimmy Rhodes, and welcome back after a couple of weeks away.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 43.18,
+      "endTime": 67.438,
+      "text": "We are back with the podcast and this is going to be an industry-focused episode. We're going to be looking at the comms industry with Daniel Lyons later, but because we've been away for a while and because we've had well, there's been so much kind of going on, as usual, we will do a kind of catch-up, but we're going to look at it more about a kind of introduction, welcome back and the things that have really been interesting us over the last few weeks. So, jimmy, that have really been interesting us over the last few weeks. So, jimmy, do you want to start off?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 70.422,
+      "endTime": 77.514,
+      "text": "And then I've got a few things that I wanted to bring to our listeners'attention as well. Sure, yeah, so I think the biggest news is Apple's WWDC conference.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 80.84,
+      "endTime": 111.627,
+      "text": "Apple finally got on into the AI game, so they haven't really talked about AI much. They've been very quiet on the subject. They haven't been developing their own models or discussing AI, but, as always with Apple, they've decided that they're now going to own AI and it's kind of their idea and it's this, it's this new thing that they've come up with. So I think they're calling it Apple intelligence, or that's what it's been dubbed online. So what? So what they're actually doing think they're calling it Apple intelligence, or that's what it's been dubbed online so what they're actually doing is they're integrating chat GPT into Siri.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 111.647,
+      "endTime": 122.975,
+      "text": "So Siri is going to be back with a vengeance. I think it was pretty useless before previously, but the idea is now throughout the iPhone, you're going to have chat GPT.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 124.176,
+      "endTime": 126.658,
+      "text": "Sorry, Jimmy. As you just said, Siri there,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 131.54,
+      "endTime": 137.082,
+      "text": "every single Apple device in our studio has started twitching away like crazy, so it's good to see that, at the moment at least, Siri is still operating as it did for the last however many years.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 137.102,
+      "endTime": 147.916,
+      "text": "Yeah so, absolutely so. Apple are going to yeah, so, absolutely so Apple are going to bring chat GPT into Apple devices. That's kind of the gist of it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 151.5,
+      "endTime": 184.074,
+      "text": "I think there's been a bit of shock around it because Apple have always been really pro-privacy and have actually got pretty good security on their devices and all this kind of thing. And now what it sounds like what they're going to be doing is sending all your data to chat GPT servers to do inference, so that Siri gets improved and you get a much better experience on the device, which is a bit of a weird one because, as I say, they've been pretty quiet on it. Everyone thought they were going to develop their own models, but it seems like they're going this chat GPT route instead. So, in a positive light, what they're looking to, what they're promising?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 184.094,
+      "endTime": 212.131,
+      "text": "This chat GPT route instead? So, in a positive light, what they're looking to, what they're promising is that you're going to have a kind of seamless experience across all of your devices, all of your iOS devices, with AI features incorporated across all of your apps. So you'll and, as I say, it should just be a massive improvement over what you've had previously, with Siri being, I, I guess, on the back burner for quite a while well, is there any plans for kind of hardware?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 212.191,
+      "endTime": 239.132,
+      "text": "so you know we talked, I think, in the last episode we were talking about the um, microsoft surface laptops that will contain the new kind of chips that will. You know, they'll have the gpu, they'll have um, obviously normal process, and then they'll have this kind of neural unit. I mean, is there any talk yet about devices and whether they will have any? You know particular change to the, the chip infrastructure, or at the moment are we just looking at this as a? It's just a kind of software addition?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 240.396,
+      "endTime": 265.233,
+      "text": "it's a, as far as I understand it, it's a software addition, um. I think in the future we are going to see more on hardware type ai, um, as you mentioned, with the surface devices we spoke about recently. I think one other thing this has done is finally I mean it was already pretty much dead in the water but the, the rabbit device, um, the sort of dedicated hardware device. I mean it was stillborn, wasn't it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 265.88,
+      "endTime": 267.265,
+      "text": "It was always, it was yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 268.501,
+      "endTime": 280.426,
+      "text": "But what they always said was you know, you can do all this with a phone and eventually Apple or Google will just introduce this into phones. And eventually turned out to be like two or three months later, and the rabbit was crap anyway.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 281.702,
+      "endTime": 321.217,
+      "text": "I still hope, without going on about it, you know that at some point that some of the ai tools do allow us to move away from screens a bit more. And you know you can have a screen but not necessarily have to use the screen all the time. And I think you know, if you've got an apple watch, one of the things with apple watches you know I can see that being really useful in terms of you can just talk to it and you've got something right next to your face, because it is the one good thing about the rabbit and the AI pin was that idea of you know steering people away from from screen time, not just in terms of it making it a more natural interaction, but actually just in terms of you know, the health of your eyes and not looking at rectangles every day",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 327.1,
+      "endTime": 327.661,
+      "text": "rectangles every day.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 327.681,
+      "endTime": 331.108,
+      "text": "Yeah, I totally agree, and now that we've got the Apple ad section of the podcast out of the way, other mobile devices are available.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 332.791,
+      "endTime": 381.463,
+      "text": "So the first thing I wanted to talk about was a piece of research on impressions of AI that the Reuters Institute and the University of Oxford put out, probably about a month or so ago now. This was based on the public of six countries and it was on what they think of the application of AI in news, so specifically in news and journalism, but then also across work and life. The countries they looked at were Argentina, denmark, france, japan, the UK and the US. So you know, although it's a, you know those countries are not all the same, obviously, but it's. I would say this is not a. It's not a reflection of the whole world let's put it that way, but it's still interesting and I would imagine, for people who are listening to this podcast, it probably reflects the you know the kind of countries that you're listening from.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 382.065,
+      "endTime": 428.215,
+      "text": "So ChatGPT was the best known generative AI product, unsurprisingly, but there was only 1% of people in Japan who were using either ChatGPT or any generative AI tools daily, and in France and the UK that was 2%. It was 7% in the US, a total of around 30% across the population. So this was a kind of average out across the population of the six countries had not heard of any AI tools at all. 56% of 18 to 24 year olds have used chat GPT at least once, but that's only 16% when you get to age 55 and over. There was optimism around AI's impact on science, healthcare, daily routine and, surprisingly to me, media and entertainment.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 428.921,
+      "endTime": 494.745,
+      "text": "I'm not sure I necessarily agree on media. I guess entertainment makes more sense and it was quite significant. So 17% more optimists than pessimists in that area. But then cost of living. I'm not sure why cost of living. Maybe that's just a reflection of where people's priorities are in general. Job security and news were the top areas of concern. In Argentina, only 41% of people had heard of chat, gpt and Google Gemini. This was, I thought, really interesting. Google Gemini 15% of people in the UK had heard of it. France was only 13%, usa 24%. Microsoft Copilot was about the same. Claude was between 2% in Germany and 5% in the US, which kind of surprised me and disappoints me, because I'm massively a fan of Anthropic and the way that they kind of operate as a company and as and the way that they kind of operate as a company and you know, as open AI becomes closed AI and becomes more and more of a commercial outfit that seems to care nothing for security and anything other than making money and being the first to AGI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 495.58,
+      "endTime": 537.523,
+      "text": "Anthropic are the only ones who really seem to have a you know, a genuine desire to make something that benefits humanity. So a shout out to everybody who isn't using AI tools yet to use anthropic tools, because they are by far the best company out there at the moment. And the UK had the lowest score of only 2% of people using AI to try and get the latest news. In the US it was 10% of people and, like I say, this was specifically looking at news and journalism. So that's that's why I had these kind of specific questions, but, yeah, why this was really interesting to me. Um, and there was another piece this was last year, but saying that 46 of people in the us at that time had not heard of chat gpt.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 538.425,
+      "endTime": 575.044,
+      "text": "Is that, I think, for people like, yeah, jimmy and myself, when we are kind of, you know, submerging this stuff every day, we think this is right at the top of people's agenda and everybody is thinking about and knows about AI. But what this actually shows, if you're listening to the podcast and you are thinking about AI, is, you know, you're already in a fairly small group of people and you're already probably ahead of most people, so you know whether people are putting their head in the sand because they are scared and they, they, you know, you know they're worried about what happens next, so they just don't want to think about it or whether you're just people's lives have, you know, taken over and there's enough things to worry about.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 575.465,
+      "endTime": 592.205,
+      "text": "This is not at the top of the agenda, but I would bet that if we were sat here in a year's time with the advances that are going to happen, people will. If we looked at this in a year's time, a lot more people will be thinking about and worrying about and acting on and you know, getting involved with AI. I'm pretty sure that's the case.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 593.02,
+      "endTime": 607.436,
+      "text": "And the funny thing about that for me is I know it was focused on news, but the interesting thing is how many people say they aren't aware of these AI tools. But now I mean, as I said, as I said, as I said the in",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 613.66,
+      "endTime": 652.544,
+      "text": "in the update, apple are now integrating AI throughout the iPhone, google also announced that they're they're bringing more generative AI experiences into Google search recently, and Microsoft Bing already uses AI, so is it? So? Do people actually need to be aware of that? They're using AI tools? Because I think in a lot of cases, people probably are already using them, possibly daily, and they just don't even know it, because these things are starting to become integrated into all of the software that we use. And that's kind of the way that I see it going is that, yeah, there's going to be a niche who know all about AI and know about chat, gpt, but at some point soon, everyone's going to be using it all the time because it's getting built into things that we use.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 653.506,
+      "endTime": 662.593,
+      "text": "Yeah, and it already is, isn't it? I mean customer service, for example. And one of the things I noticed a lot is you know the calls that you get. Now,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 669.34,
+      "endTime": 689.416,
+      "text": "where you used to get a sales call, you can tell. Now a lot of those calls are an AI sales call. Um, you know, there are those kinds of changes that are happening and we're not. We don't necessarily even need to think about it, do we? It kind of doesn't matter, because you're either going to answer that call or not, regardless of whether it's an AI. So I think you know every one of those calls. I would, you know, I would turn off, cancel the call, regardless of whether it's an AI or a person.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 692.68,
+      "endTime": 736.742,
+      "text": "But, yeah, it is becoming ubiquitous in many ways. I think the thing that I would be more concerned about and you know this is maybe because of where I come at this as a kind of problem for civilization is being aware of know ai tools is maybe not as important as being aware of ai and the changes that it will make to our world. You know it's it's not about the chatbot, it's about the potential in two, three, four, five, ten, fifteen years. And that's where it scares me a little bit to think that people are not aware of this at all. And I had a conversation with with one of my my tutors on the AI governance course that I did the other day and we were talking about I said why, why is it not an election issue?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 737.343,
+      "endTime": 773.844,
+      "text": "You know, in the UK, for example, why is it not an election issue? Because if you look at the kind of poor sentiment towards ai that you see in a lot of developed countries and I put developed in kind of, you know, inverted commas um, there's a lot of negativity and so it would seem to be an easy win. It's a kind of low-hanging fruit for a political party to say hey, we're, you know, we're going to sort this out, we're going to protect your jobs. And his point to me, which I think he's bang on with, is you know there's're going to sort this out and we're going to protect your jobs. And his point to me, which I think he's bang on with, is you know, this is just not the bandwidth for it in this election, because the most pressing things facing people are, you know, costs of living, they're the economy.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 773.864,
+      "endTime": 819.286,
+      "text": "They are unfortunately, people think they're immigration the issues that people think are important in the short term, I guess sorry, I think are important are important to them in the short term are what are in people's minds at the moment. But I do hope that when the dust settles in a few months'time from the various elections, that there's then more space to start looking at this, and I think that will happen. I do genuinely think you can sort of feel that the kind of cogs are turning a little bit and there is a lot more going on and a lot more understanding that we cannot just allow you know three, four companies in Silicon Valley to just in a black box, just go on completely ungoverned, do whatever they want, to develop something that has, you know, potential threats to the whole of society.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 820.469,
+      "endTime": 864.757,
+      "text": "Yeah, we can't. We. I think over time there'll be more and more realisation that we can't just blunder into this, and some of that's happened already. We've talked about it on previous episodes. Where there's been international conferences on AI, there's been a lot of talk around how we that. In China in particular which we talked about a few weeks ago, but absolutely, I think, elections the focus is obviously going to be right now on some of the bigger topics, particularly in the UK, but anywhere in the world right now, we've just had a period of massive inflation and there's been lots of societal problems, which you know.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 864.777,
+      "endTime": 869.631,
+      "text": "So AI is right down the list at the moment, but I think it is going to become more and more significant.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 871.96,
+      "endTime": 912.722,
+      "text": "Another thing that I wanted to first have a chat about and another thing that's been, you know, out in I say media, I mean sort of AI, specific media and social media, but is this question around whether there is enough data and whether we're running out of data for for large language models? And I think, as an extension of that conversation and something that you know me and you have talked about almost to the cows come home recently, is this question around whether the current large language model architecture, so that the kind of neural networks that are that are currently being, whether that's enough for us to get to, you know, agi, advanced AI, whatever you want to call it, or is everything being overhyped at the moment?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 912.783,
+      "endTime": 918.829,
+      "text": "So you know where do you stand on this data point, whether we have run out of data or whether we're going to run out of data.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 920.28,
+      "endTime": 937.092,
+      "text": "It's really difficult. So we clearly have run out of data. I mean, we actually ran out of data a long time ago, so, for the benefit of everyone listening, basically, these models have been trained on all of the information that's available to all of humanity, like everything they can get their hands been. Restrictions put on the APIs that Twitter have",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 945.64,
+      "endTime": 984.41,
+      "text": "and and forums like Reddit use, and that's as a bit of a backlash to the fact that AI models were just trained on all their data and it was all freely available previously. So these models, like chat, gpt, three, four, they've all been trained on everything that's available already. So they've they have literally run out of data. In that sense, the question is whether you believe open ai when they say that they can. So what they're saying now is that they can generate effectively. What they can do is generate data using ai and, using that generated data, they can then go and train like on like, continue to train their ais and they continue to improve.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 985.253,
+      "endTime": 1009.223,
+      "text": "Now that it like that remains to be seen, because I guess what you have to do is wait for the next models to come out and see whether they do actually keep improving and do get, do get better, which they are um, but is that going to slow down? Um, is the? Is it? Is it going to plateau? Has it already plateaued? I honestly don't know. And and again, as you said, open ai a much more closed ai now. And so I don't know.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1009.283,
+      "endTime": 1036.514,
+      "text": "And again, as you said, open AI much more closed AI now, and so I don't necessarily you can't really take what they're, you can't really to what they say, watch what they do. And I think that really applies here is, although OpenAI say, oh, there's no problem, but you know the amounts of money that players are trying to buy data from. You know newspapers, magazines",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1048.382,
+      "endTime": 1074.508,
+      "text": "that have large amounts of kind of high quality data. Um, another point is you know why did people wonder at the time? Why did elon musk buy twitter? Well, because it's data. You know there's a huge amount of data in there. Now the data in twitter scares the hell out of me the idea that that is. I mean that's. You know if we're talking about crap in, crap out, you put that stuff in my God. But it's data to advanced AI, agi, because it just doesn't kind of make sense.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1090.84,
+      "endTime": 1129.634,
+      "text": "You know as much as it seems to be. I don't want to use the word sentient, but it seems to be kind of intelligent. It's parroting back stuff that it's been trained on. I sort of worry more about the idea, you know, the kind of dead internet theory. So dead internet talks about how I think it's you know potentially more than 50 of the internet now is is just nonsense because it's, you know, troll farms. It's ai making it up and therefore the information that's out there on the internet is not accurate. There's so much crap out there that basically you're putting crap into it, it's it's going to output crap and so, regardless of whether there's more data or not, the existing data is not good.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1130.221,
+      "endTime": 1163.751,
+      "text": "So you know, it's a bigger question around amount of data, where there's more data, the quality of the data that was previously used, um, and in turn that kind of you know feeds, a never-ending kind of loop. If you've got aiIs training themselves on that existing data, I think you're right. I mean, we don't know because we're not privy to what's going on within those organizations and we don't know enough because no one knows enough about the way large language models work. But it definitely seems like something that is highly possible and I think I more and more think at the moment you talked about OpenAI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1163.92,
+      "endTime": 1195.977,
+      "text": "I mean, they're so far from the original purpose, they're so focused now on being the first to create AGI and you know, investment and money, that it's quite easy to believe that there is a lot of hype just to generate investment. I do think we're probably at the top of a hype cycle. I don't think that necessarily means that you know there's going to be an IO winter for the next 10 years, but I do wonder whether things have been a little bit oversold. And you know, ai, you know agi by 2025, agi by september. Some of that seems to be now 2027, 2028.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1196.057,
+      "endTime": 1204.188,
+      "text": "It seems to be kind of rolling back a little bit yeah, and no one even agrees on the definition of agi, so we were chatting about it earlier, I think.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1204.33,
+      "endTime": 1218.003,
+      "text": "I think what was the term you said they're now using advanced AI, which is which is not defined, but which avoids the the need to kind of, you know, find an AGI definition yeah, because this is what everyone's been struggling with, right so AGI?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1218.444,
+      "endTime": 1277.49,
+      "text": "does AGI mean conscious machines that have their own free will and a self-determination, or does it mean something that can perform almost any task in to the same level as a human and doesn't need supervision? I would, I would lean towards the the latter, um myself, because I think we're we don't even really understand any of the former, like what consciousness is and all this kind of stuff which we're probably not going to get into now, maybe for a future episode. But I I'd sort of lean on the latter of those definitions, which that's. I feel like that is the kind of aim and the target and the goal for companies like chat, gpt, is having a machine where you can just let it loose and it will, it will, it will automate a vast array of tasks, um, and hence the talk, the, hence the podcast and the sort of talk about how that's going to threaten jobs.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1278.433,
+      "endTime": 1325.626,
+      "text": "But I don't even think that we're that close to reaching that definition. And the reason I feel like that is because it's like how, like with however smart a large language model appears to be and however many questions it can answer and however many puzzles it can solve and however many things it can do better and even than the average human, it still seems to require a level of supervision which a human wouldn't require, like I. I wouldn't trust it to go and just get on with something. And I've tried. I've tried some of the agentic type models as well, which where you can actually use an agent to go off and write code and, you know, talk to another ai to get testing done on the code, and then there's another ai which is supervising them and all this kind of stuff and it doesn't really work.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1325.666,
+      "endTime": 1364.377,
+      "text": "Yet then devin is an example of that. So there was devin, and then there's open devin and various models, but they don't really work. They end up costing you a fortune because they go around in circles, um, and they and they don't know when they've completed the task. There's all sorts of real kind of complications with it which seem to be very human problems where a human would just be like okay, you know, I need to point you in a different direction now. Um, stop what you're doing, let's have a review. Whatever it is, we're not there yet and and maybe we'll get there, but I feel like, um, I feel like that is a is a sort of elusive moving milestone?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1364.397,
+      "endTime": 1364.477,
+      "text": "Yeah,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1367.481,
+      "endTime": 1367.622,
+      "text": "yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1367.642,
+      "endTime": 1386.537,
+      "text": "So the last thing, and this is, I guess, quite important. So, you know, governance, alignment, the sort of general security is what's been kind of occupying my mind and this is, I guess, a sort of soft launch announcement. But we're going to be relaunching the podcast, going forward.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1391.48,
+      "endTime": 1431.822,
+      "text": "Going forward, we're still going to have an element where we focus on jobs, but we're going to sort of branch out a little bit because we think there is an urgent need now, and particularly post-elections in many Western countries this year and we've added France to that list in the last week or so we think there's an urgent need to inform people and actually to help try and achieve our original purpose, which was giving people actions that they can take to try and mitigate the human impacts of AI. So I think it's not an exaggeration. We've said on the dystopia episode you know, if nothing changed, we're on a pretty fast path to destruction of you know humanity, whether that's destruction of the kind of social system or it's destruction of the planet.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1432.323,
+      "endTime": 1468.718,
+      "text": "You know, I'm not saying for a second that there will be nothing. So we're not saying that that is necessarily the end goal. But you know that's where we're headed without those measures and whether those measures are taken quickly enough to address the kind of more existential threats is, you know, a properly kind of defining moment for humanity. So we want to keep it light hearted. We want to keep it funny where we can. We want to keep interviewing people, but we want to branch out a little bit more than jobs. So we'll continue to focus on industries, but we will also look at the alignment problem, the security and safety around ai and governance.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1468.818,
+      "endTime": 1493.37,
+      "text": "So hopefully, when we relaunch that, we will be able to get some really interesting guests on the show, and we'll be doing that from the next episode onwards. So let's move on to our main episode. So, as I said, we have a guest on, so we're going to change into our dressing gowns and then we're going to get into the other studio in the back and we will be back with you in two minutes time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1502.921,
+      "endTime": 1525.838,
+      "text": "So welcome back. Jimmy and I are in our dressing gowns now. That's a site you don't want to see, so that's why we keep the videos off YouTube and keep this to a podcast. So welcome to the podcast, dan lyons. Dan is the strategic comms advisor, who's worked across a variety of roles. He started out as a journalist, he's worked in government and private sector, and his last role was a managing director of a global strategic consultancy.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1525.858,
+      "endTime": 1535.275,
+      "text": "So, dan, welcome to preparing for ai thank you great to be'm a fan of the podcast, so it's lovely to actually be here and chatting to you guys.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1536.7,
+      "endTime": 1565.516,
+      "text": "Well, that's why we wanted you on, because we, you know, obviously we have 2 million listeners, but to have one of them who's such an expert in a field on the podcast is a pleasure for us as well. So I guess let's start off, let's have a look at your kind of own experiences. So, if we make this, I mean let's look at, I guess, the last six months, so from the beginning of the year, what have you seen in the industry in terms of both the adoption of AI tools but also the kind of attitude,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1571.94,
+      "endTime": 1572.783,
+      "text": "guess I'm interested in the attitude of.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1572.804,
+      "endTime": 1615.245,
+      "text": "You know people at the top, but also you know people working in the industry and how they are reacting to those tools and how they're reacting to you know potential for job losses, or you know changes or insecurity around their roles the first thing to say is that sort of ai has actually sort of been creeping in as as sort of in terms of ai-based tools to industry for quite a few years I think, starting with mainly kind of executional tasks, particularly around sort of data analysis, media monitoring, the use of AI tools to sort of gather in large amounts of you know media articles, to analyze trends, to sort of say, for example, how negative an article is, how positive it is, and derive performance-related data from that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1616.067,
+      "endTime": 1634.614,
+      "text": "Also, in a place like China where I'm based, the use of AI for translation, which has really accelerated certain areas of the industry, and abilities to produce content and to analyse content. I think adoption is still low, though",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1638.76,
+      "endTime": 1673.987,
+      "text": "I think the introduction of chat, gpt has been an inflection point, but really the usage across the industry is still relatively low. I think there's been some studies last year by the Chartered Institute of Public Relations. I think only 40% of tasks that are performed by PR professionals are now assisted by AI tools and I think that's up from about 12% the previous year. So you know there's still a lot that's going on within the industry that doesn't rely on AI and within that I would say that sort of most of the usage is, as I said, low level rather than strategic. So you know, monitoring, data analysis, information analysis and executional tasks.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1674.448,
+      "endTime": 1725.868,
+      "text": "What tends to sort of remain on touch is more strategic work, so that's sort of crisis management, uh, you know, risk mapping, risk forecasting and, obviously within a business like pr, relationship management. So that's both with your stakeholders, with your clients, with with the media, with journalists. I think that's very much still sort of a, you know, a human-led task rather than anything that relies on um, on ai, um. I think there's two sort of issues that are impacting how it's being sort of adopted. I think the first one is a skills gap. I think, you know, within sort of the you know my, you know amongst my peers and within sort of companies that I've worked at, I think there's very few people who you could say were experts in sort of the use of AI tools, and usage has tended to be sort of fairly organic and has evolved over time.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1727.261,
+      "endTime": 1763.264,
+      "text": "And I think there's a particular issue around ethics. You know ethics of AI in in PR. I think PR professionals, communication professionals, are a little bit nervous about using them, mainly because you know how accurate are they? You know I'm, you know I'm relying on sort of information I'm getting from these tools and I don't want to pass on any accurate information to either within my company or to clients. You know it doesn't get the tone and the style right all the time. I mean, I personally use things like chat gbt for, you know, the first draft just to get something down on paper, just to sort of spark an idea.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1763.887,
+      "endTime": 1809.955,
+      "text": "But often, you know, I'll completely change sort of what's produced. I rarely, if any, you know, if at all, use anything that is produced without editing and I think, particularly on the agency side, there's an issue around the ethics of it. So billing clients for work that has been created using AI, the optics of that, particularly if you're charging quite a lot as an agency, are tricky. You know it feels a little bit like cheating. So those are the two issues that I think are sort of having an impact on the adoption. But you know the launch of chat GPT has definitely been an inflection point within the last sort of six to nine months.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1812.64,
+      "endTime": 1835.428,
+      "text": "You know there's a definite increase in sort of the use of large language models and so that 40 figure that I mentioned earlier could definitely be a lot higher. Um, and you know sort of the types of things that are being used. Uh, you know low, low level content creation, you know, social media, press releases, uh, again sort of media analysis and translation. So people are trying to get up to speed fairly quickly.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1836.08,
+      "endTime": 1849.988,
+      "text": "It feels like. So I mean, first thing I was going to ask is like, do you think you said you use it already? So why do you use it? Does it save you time if you don't use, if you don't actually use most of what it writes, but you just get it, get the ball rolling with it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1859.68,
+      "endTime": 1882.485,
+      "text": "Yeah, don't use if you don't actually use most of what it writes, but you just get it, get the ball rolling with it. Yeah, so it says so. For me it it saves time. You know, if you, if you sort of put in you know a suitably detailed prompt, uh, you know you could save up to an hour uh in in creating sort of the first draft or something. If you've um, if, if you use chat, gpt or a similar tool, uh, you know, so it's very efficient. But for me, actually, it's also, you know, even if you've been in pr or you know sort of the communication industry for a long time, you, you know, you might not always get the inspiration.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1882.525,
+      "endTime": 1921.383,
+      "text": "You need, sort of uh from the, from the bat, and you know, sometimes I like to see something on paper, even if it's not, if it's something that I will not use, just as a kind of a sparring pad or, you know, a launch pad, instead of doing something else. So so it's, it's not just sort of the efficiency aspect for me, it's also that it sparks my own thoughts on on something and, as I said, you know it rarely gets, you know, it rarely gets it right first time, but it's, you know a good start, for you know if you, if you need a combination of wording that sort of might make a good social media post or or sort of you know key messaging or or press releases, or you know kind of a keynote speech or quote.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1921.724,
+      "endTime": 1930.853,
+      "text": "Um, you know, there's always something you can use that then sort of uh, that prompts you to sort of edit in your own style I know exactly what what you mean, so I've kind of used it in the same way.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1931.702,
+      "endTime": 1946.347,
+      "text": "It feels like a little cheat to get around writer's block or something like that, where, like, staring at a blank piece of paper can be quite daunting, where if you just pop a prompt into chat, gpt, it gives you something, even if it's just a scaffolding where you have to then rewrite almost everything.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1946.809,
+      "endTime": 1987.234,
+      "text": "Yeah, and I think I everything, yeah, and I think I mean going back to the point about why, sort of why take up in the industry as a whole might be. Like you know, I, I sort of am a regular user of of, uh, of chat, gpt and and the large language tools, that sort of um that are available and in fact my, my sort of. Some companies are actually using, uh, you know they're creating their own versions of of chat, gpt, sort of you know that are sort of a tailored for for that business and and for the sort of the. You know the work that that is done by sort of uh, the, the teams within the business. Uh, my own, I recognize my own sort of skills, uh, you know my skills gap and the need to uh, the need to sort of build it up.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 1987.274,
+      "endTime": 2027.681,
+      "text": "So I mean, there's probably a lot more I could be doing and there's probably a lot more that could be, could be done within uh. You know the, the industry and the companies that I've I've worked for but are not done because people just simply don't uh you know, they're not knowledgeable enough and you know, as you say, you've said on sort of um previous podcasts and I'm sure you've sort of covered it today that you know things are changing so fast and and keeping on top of the you know, proliferation of tools that are out there, you know, I think sort of again within the studies that have been done by by sort of the governing bodies, you know there's probably up to about 10 000 ai assisted tools that that you know could potentially be used within sort of pr industry alone.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2027.741,
+      "endTime": 2036.724,
+      "text": "So being able to keep on top of that is incredibly hard. Um. So you know, people are people like me are getting up to speed as quickly as they can, but there's, you know there's still a way to go.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2037.005,
+      "endTime": 2070.812,
+      "text": "I think sort of at your level and and we we maybe face the same point in a lot of episodes. I'm thinking of a law episode as a as a good example of this actually, where there feels like that there may be a big difference in terms of the immediate threat depending on where you work. And sometimes we hear that you know AI is different from other revolutions because it's coming for, you know, more senior jobs first, but actually if you look at the area, so you know, just looking at some of the areas in the notes, I've got social media management. You know the AI driven tools for scheduling,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2075.46,
+      "endTime": 2109.215,
+      "text": "managing your social media content and stuff already. Data analysis and reporting ai can already process and analyze your data sets and you give you feedback on that presents the for your media monitoring and analysis. I mean, that's media monitoring for me is. You know that that's gone. I think that that if anyone's still paying for people to you know do media monitoring, then I think you're you're throwing your money away and content creation and writing. You know it feels like and, having done the interview a few weeks ago, it feels like one of the issues with content might actually be it's not that the generated content is as good as content created by people.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2109.415,
+      "endTime": 2147.866,
+      "text": "But it's just that, whether it's the editors or the, you know, the senior management, or the consumers themselves, people are just willing to accept poorer quality content. So you know, with all those kinds of different areas, that we think they are being already affected or they are going to be massively affected by AI. Your role may not be directly affected, but what are you seeing in terms of the people you work with? I mean, are they seeing the sort of writings on the wall and they're thinking my job's gone, or are they not really thinking that way? I mean, what is the sentiment in the industry?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2147.946,
+      "endTime": 2162.945,
+      "text": "Is there a lot of fear? Is there a lot of excitement? I know it's difficult to speak for everyone across an entire industry, but you know your experiences of people. Are they optimistic, pessimistic? You know what are their feelings about the kind of AI revolution.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2163.847,
+      "endTime": 2212.129,
+      "text": "Yeah, I mean, I think, in general, the feeling is that this is something that needs to be taken seriously, not not only from the perspective of how it will impact the, the pr industry or the communications industry, but also how it will affect our sort of the environment which we kind of operate in. So that's the wider media environment, the kind of the corporate world. You know. How do we as a, how do we as an industry, tailor our offering and the services we provide to basically take account of not only opportunities that AI provides, but actually the risks as well, and these are risks from a media point of view how to, for example, help companies protect themselves against misinformation or, you know, other organizations against mission misinformation?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2212.71,
+      "endTime": 2219.869,
+      "text": "How to, you know, help a company through a deep fake crisis, for example, that you know may sort of have a big impact on their, their business?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2220.551,
+      "endTime": 2225.047,
+      "text": "um, so there's a new world of work for you yeah, exactly.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2225.087,
+      "endTime": 2263.728,
+      "text": "So you know, I think sort of a new kind of sub-industry here, right, yeah, so I mean, within the kind of the strategic consultancy environment. There's a new kind of sub-industry here, right, yeah. So I mean, within the kind of the strategic consultancy environment there's definitely a sense of we need to get up to speed, but there's definitely an opportunity to be able to advise people on how to sort of handle this brave new world. I guess the sense or the general sort of feeling is that yes, there's a recognition that you know, as adoption accelerates, low-level, entry-level tasks will be displaced, but actually you know this is an opportunity for you know profession wide strategic shift in focus and actually you know any threat to jobs would be because people need upskilling, not because the jobs will necessarily disappear entirely.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2264.37,
+      "endTime": 2324.132,
+      "text": "So I think I think the sort of the kind of the general consensus view is that yes, the PR is infused with AI, but wholesale job replacement is not happening yet. So I've heard people say it's like the introduction of Excel and the impact that had on the accountancy profession. People were fearing that the creation of spreadsheets and Excel as a software would obviate the need for paid professionals who would do your accounting. But obviously accountancy still thrives. You know, I personally am not convinced that that's sort of a good analogy and I'm not 100% convinced that eventually the proliferation of AI tools and the development of AI won't eventually touch more strategic areas such as crisis management, c-suite advisory, or that certain roles, for example, won't become superfluous once companies, both agencies and in-house, realize it's just cheaper to use AI.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2328.483,
+      "endTime": 2360.607,
+      "text": "So if you're an agency and you can see over time that actually you don't need so many junior associates or junior team members you know doing the work for you, because actually a lot of that can be done by you know fewer people using tools, then you know the economic logic of it is that that it that it sort of those roles would disappear. So I've seen this sort of the idea that people become trained as prompt architects and I think you know that's a part of why people you know would traditionally join us.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2362.917,
+      "endTime": 2403.384,
+      "text": "It's also bollocks the idea of prompt engineers and prompt architects is bullshit. It's an industry that might exist for a year and then it's gone. I mean I I sorry to interrupt, but I mean I I've done a course on um from Vanderbilt university, an online course on prompt engineering, and it's fun and it's kind of useful. But I did a course a couple of months ago and the course was obviously written in late 2023. And when I did the course, it was already out of date to me because, a lot of the things it was teaching you to engineer. You no longer need to engineer and I think for the same reasons, if you're learning to engineer things now, you know those things will be.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2403.745,
+      "endTime": 2430.342,
+      "text": "You won't have to. The whole point of the advancement of the models is that you'll be able to speak in a natural way and it will understand and be able to. You know prompt, or you can even just tell it now give me the prompt to do this and it will give you the prompt. Then you give it back the prompt and then it does it. So, yeah, I, I think the idea of any roles you know, or not necessarily roles. I mean, there might be roles but the fact that you can go and become and have a career as a prompt architect or prompt engineer is is for the birds I, yeah, I totally agree.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2430.442,
+      "endTime": 2452.842,
+      "text": "I mean I I thought that right from the start, with things like prompt engineering Even between I think I'll use mid-journey as an example, but between mid-journey I think it was two and three the need to do any kind of lengthy prompt engineering to get the model to output images just went away. It went from.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2452.902,
+      "endTime": 2488.27,
+      "text": "You have to be really specific about how you, how you prompt it to, you can just tell it you want a picture of whatever, like a bird on a mountain or something I think I think learn to prompt sorry, just to say that I think learning to prompt is useful and I think studying these courses is useful for helping you to be able to prompt better. And I can, you know, I taught uh chatPT, a language I wanted to use so that it would I could prompt it quicker to give me actually information for this show. So I could give it three asterisks is, followed by a word and a number, and three asterisks is, and it would then give me information within a timeframe on a certain thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2488.335,
+      "endTime": 2498.848,
+      "text": "And it's quite fun and it allows you to do things. But the idea that that would be something that is useful enough to be a career or a job, I think is is yeah, it's, yeah, I think it's a non-starter.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2499.308,
+      "endTime": 2500.33,
+      "text": "Sorry, dan for uh",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2503.48,
+      "endTime": 2539.811,
+      "text": "so I think sort of the, the acceptance and adoption within pr will will have an impact. Um, as I said before, you know there is a hesitancy at the moment and a nervousness, but I think within the next sort of six months you know 12 months I think I think that will slowly sort of ever way and then actually the sort of the industry itself will sort of start to see the impact within the sort of the structures of companies and within the sort of the the industry itself on, uh, you know, from from ai. I think the second sort of slightly sort of linked aspect of that is the reaction of in-house teams, but also you know clients who are, you know, in-house teams.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2540.075,
+      "endTime": 2549.35,
+      "text": "You know at the moment there's probably not a lot of awareness of how AI is being used, sort of both within, you know, within companies, but by sort of external parties",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2553.155,
+      "endTime": 2585.746,
+      "text": "possibilities. Possibly, even if there was full awareness, that sort of clients would still feel they need that. You know the access to the sort of the top level advisors. You know the people with you know huge experience in sort of certain fields, you know, and in certain with certain capabilities, for example, around crisis and or sort of political advisory. You know that I, I can possibly see that changing if, if, for example, 12 months down the line, a few years down the line, someone produces something called the boardroom ai advisor, which is perhaps built into companies business continuity plans and, and you know, provides that pr function.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2585.806,
+      "endTime": 2617.164,
+      "text": "It's sort of it's, it's built in. In terms of risk forecasting, you know you can assess reputational risk scenarios, provide playbooks, because I I mean, we're all using playbooks, so nothing is sort of entirely original and you know, and then even execute these plans, you know, linked to media databases, linked to sort of you know, social media channels, could basically sort of assess kind of the ongoing sentiment around a particular issue and prompt you know prompt responses that go public. I mean, you know that's way off, but you know that could be another game changer.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2626.056,
+      "endTime": 2649.43,
+      "text": "Ultimately, it comes down to a point that I think probably is key to adoption within the industry and you know, beyond PR, beyond communications, and you know beyond, beyond, uh, beyond pr, beyond communications, and you know, for the overall adoption of ai and that's, you know, trust, and we can talk about that a bit more if you want yeah, I just want just before we do, because I think trust is a a massive one, not just in this industry, but I I just want to go back just.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2649.651,
+      "endTime": 2701.346,
+      "text": "We talked about crisis management, so I think crisis management actually is a really good example of one where it seems initially, you know, I had an example the Institute from PR it was from a link from them about AI tools that are being used to monitor sort of real-time data and detect potential crisis, allowing companies to respond swiftly and effectively and kind of mitigate damage. But it's about detecting them. It's not about you know, giving you the advice on how to deal with it. And I think a great example is you know you work in China. There's a very specific environment in China where things which maybe somewhere else would not be an issue the way that you, you know, refer to the mainland, a certain island, an administrative region, you know can create huge crisis and therefore having that requisite knowledge and understanding the nuance and the political situation is really, really important.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2701.387,
+      "endTime": 2745.224,
+      "text": "But I think we always talk about how you know the kind of advancement of things and I think part of the problem I can see is that if I was in your organization and I was adopting AI, I would build an offline LLM system within your organization that only had your data in there and was picking up all your data and basically, every time you handle a crisis, you're telling it about the nuances of the situation in China and you're training it to basically do your job, and you're training it every time you do a good job're training it. You know, one more step to you losing your job, and that was the example we gave a couple of weeks ago, that the guy who you know lost his job and was like, hey, it was my data that was used to train the AI that's now replaced me.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2745.866,
+      "endTime": 2780.328,
+      "text": "I think when you say a long way off, I don't know, I don't think it's a long way off, I think it's maybe a couple of years off, but you can easily see a model being created that allows you know within an organization for it to pick up the nuance, to be able to do most of that crisis management. And then again, you don't remove people completely. You might still be there as the kind of last step in the chain, because we need someone to blame when it all goes wrong, but you're certainly able to take out a lot of people in the chain and we're able to, you know, massively reduce the teams that are working on it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2780.796,
+      "endTime": 2782.743,
+      "text": "So it was not so much a question.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2782.783,
+      "endTime": 2786.355,
+      "text": "It was more a kind of observation no, no, I think you're right.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2786.435,
+      "endTime": 2832.884,
+      "text": "I think, yes, it sort of, and again it probably comes down to the trust issue that we're talking about. But you know the, the sort of the, I guess the framework for risk is programmable. You know, and in terms of the red lines you're talking about, when it comes to sort of operating in China, you know they're already well known, they're already sort of well publicized and published. So there's no reason why if you typed in, you know what are the three red lines that companies need to bear in mind, when you know, when operating in China from a reputational risk point of view, then that probably already exists there, so you can set the parameters of your risk, you can monitor that risk, and then it's easily sort of programmableable.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2833.165,
+      "endTime": 2864.296,
+      "text": "You know how would you respond to that and perhaps, you know, perhaps a tool would come up with based on all sort of the inputs, you know, three possible courses of action and maybe there's a person at the other end who makes that decision, but eventually maybe it's just another ai tool that makes that decision and then passes the, you know, bypasses the sort of the need for human interaction at all. I mean, that's, that's theoretical and and I don't be given sort of risk issues. You know people probably wouldn't want to hand that over entirely to to sort of you know how it all throughout any sort of uh without any human input.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2864.377,
+      "endTime": 2902.718,
+      "text": "But you could, as you say, you could do away with a lot of people in the chain you're giving me uh, you're giving me loads of great business ideas here, dan yeah, I went in on that and so, yeah, I think sort of the a lot, a lot of this, I think, within the pr industry. But, you know, possibly on that comes down to to trust, because they're currently nobody really trusts ai to get things right, um, and there's too much sort of uncertainty. So the logic is that you'll always need a sort of a human guiding hand and, as I said, you know the wider environment, you know with what with ai, ai comes ai risks, um, deepfake misinformation, you know that's potentially new avenues of business, uh.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2903.299,
+      "endTime": 2936.406,
+      "text": "So you know, maybe the trust will never materialize and you'll always need this sort of this. These human custodians and I know that sort of the professional bodies you know actually see a role for the pr industry. For, you know, advising on governance issues, about the ethical use of AI, you know regulatory issues, um, you know, almost sort of setting themselves up as the reputational authority, uh, around AI. You know that is the kind of the million dollar question. I guess that sort of trust is the inhibitor. If you remove that inhibitor, then you know what's possible. And actually, I mean, before we get to that, I do think sort of there's probably a silver lining.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 2936.909,
+      "endTime": 2970.899,
+      "text": "And actually, jimmy, what you were saying in terms of the business ideas, I think actually sort of in the next few years you might see actually a new wave of entrepreneurialism, uh, you know, within the industry. Currently, you know you've got lots of big companies. There's economies of scale. You know they sort of need the expertise teams. But if you know, if AI tools are doing a lot of the specialist work, then actually you could see sort of you know one man bands, smaller PR companies that actually can do the work of a huge agency because actually you know they can offer a full suite of creative and advisory services.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2971.361,
+      "endTime": 3004.941,
+      "text": "Yeah, I was gonna say I mean, I said it half jokingly, but exactly that, like I think there's two. I think there's two different things. When we talk about jobs on the podcast, there's two different ways that jobs might be affected. One is like adoption within existing industries, like within, for example, within existing pr companies, things like that, um. The other is exactly that. It's the kind of the, the entrepreneurs and the innovators and the disruptors that come in and just set something up that just out competes because it's they've you know, they've figured out the technology. It's just based on ai.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3006.264,
+      "endTime": 3029.94,
+      "text": "Maybe the, the trust thing is still an issue, and so you know, certain, certain entities need to rely on um, you know, rely on, rely on corp um companies or pr companies that have humans in the loop, but it's sort of you know you, you get this kind of lowering of the bar where actually services like this probably become accessible to a broader group of people much cheaper as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3030.521,
+      "endTime": 3042.926,
+      "text": "They don't need economies of scale either, do they like they don't need economies of scale? You could actually argue that as a one-man band or a small company can do things more efficiently because they don't have all the overheads of a big pr firm no, exactly yeah so I think that's.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3043.227,
+      "endTime": 3077.866,
+      "text": "I think there's there's potential for massive disruption in that kind of sense as well, and I don't think we've seen that yet, I think we're still. You know, there are some companies that have set up, that have done that, are doing this kind of one-man band sort of thing, and I know it's been talked around that you know, in the next, maybe in the next five, ten years, we'll see the first sort of you know company that's just one person and a bunch of ais, who becomes worth you know billions of dollars, because because of exactly that, because they can just automate everything, but it's, it'll be interesting to find out perhaps leading into that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 3077.887,
+      "endTime": 3134.675,
+      "text": "I think you know the the one I obviously pr is an industry in isolation and it's you know. The other is, the other side of a coin is is the mass media market and you know, I think sort of if you're going to have a conversation about, about sort of pr, then you need to have a conversation about you know what, what, what environment is pr operating? And you know the wider, you know the wider media environment and you know that's probably a discussion for another podcast about. You know how will people consume media and what, what will media be and how ai will influence that. Um, you know, and you know what is the role of journalism sort of in the ai world and, as I said, you know in some ways that will build into the kind of you may actually see a sort of a reaction where, because, because the proliferation of of content and you know imagery and video, that, that, no, you know sort of it's it's very, very hard to sort of uh, pinpoint where it's originated and you know concerns around misinformation and deep fakes.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 3134.641,
+      "endTime": 3158.602,
+      "text": "You know you actually mean that that sort of pinpoint where it's originated and you know concerns around misinformation and deep fakes. You know you actually may. That sort of that may mean you're in a kind of a kind of a virtuous circle where you know people will never fully trust the media and therefore you'll always need, you'll always need, sort of PR, I guess a PR industry to to help companies you know companies, organisations, but also just the wider public to help company you know companies, organizations, but also just the wider public to navigate, you know to navigate that sort of uncertainty.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 3159.084,
+      "endTime": 3168.926,
+      "text": "So, yes, I mean. So trust for me is the kind of the, the sort of the inhibiting factor, and it'd be interesting to get your guys views on at what point do people start to trust?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3169.006,
+      "endTime": 3187.592,
+      "text": "ai, I mean, I, I think I think never and and I I agree with you more so I've been thinking about it a lot the last two days, since we kind of exchanged notes actually and I think, yeah, I think it's potentially the biggest barrier or sort of challenge for AI to overcome.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3193.015,
+      "endTime": 3219.198,
+      "text": "Something that really stood out to me I can't remember who it was, it was a member of the general public or a comment on a board but someone had said we never asked for this. They were talking about AI and they were saying we never asked for this. No one asked us whether we wanted this. And okay, yeah, jimmy said yeah, well, that's the same with everything. You know, we don't ask for it and I agree. But you know we're being kind of given this thing that we're told, hey, this is going to change the world, you just got to accept it, it's going to happen to you and so, yes, we are going to have to accept it and it is.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3219.699,
+      "endTime": 3258.184,
+      "text": "It is going to be part of our lives and it's going to make fantastic positive changes and it's going to potentially threaten, you know, the existence of humanity and all of these challenges we're going to have to face. But if you start on that basis that people feel this is being imposed on them. And then you take the distrust that we have in the world at the moment you know, I think quite rightly in institutions and authority, and you put those two things together and then you say you have to trust this thing. So let's, for a second, throw out the fact that we're talking about trusting a super intelligent, you know form that has a level of intelligence we've never seen before.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3258.344,
+      "endTime": 3297.762,
+      "text": "You know some point in the future and may have its own wants and wills and desires. Forget that that's. You know that's a way off at the moment. But someone's controlling AI. You know big tech firms, governments, whoever it is, the military, whoever's got control of of those. I think the assumption for most people is that ai is being run by them, whoever they are, and therefore, how do you overcome that trust issue? It's fine when you're using it for things which are, you know, potentially fun, or or or frivolous, or, you know, semi-useful, or even for things you know there seems to be a lot of trusting kind of science and health care, that it will be a positive there.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3298.364,
+      "endTime": 3334.797,
+      "text": "But when you're having to make a decision that affects the potential future of your organization, for example, or the future of your safety. You know, getting in an autonomous vehicle you might get an autonomous vehicle as a normal private citizen, but if you're someone who knows that there are people who are, you know, out to get you, are you ever going to get in an autonomous vehicle? And I think it's the sort of the fears of society in general, the distrust that's out there. That, for me, is why we will probably never overcome that barrier of trust. I say never. I think we always say on the podcast we should never say never.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3334.857,
+      "endTime": 3359.188,
+      "text": "We're talking in a finite amount of time, so let's talk in our lifetimes. But yeah, I think trust is absolutely the biggest barrier and I think you raise it in the PR industry. I think you're right, because you are putting your business's future and you're putting a crisis or you're putting the reputation of your business in the hands of a person or an organization or an ai tool.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 3359.449,
+      "endTime": 3413.062,
+      "text": "But it does translate across the entire spectrum, I think yeah, and I think sort of you might, you might also then have a kind of a dual track world where you know there's an acceptance, that sort of a lot of the information that's out there is produced by ai, but actually there's a kind of almost like a quality mark that goes with you know, this, this, this, this article, this, this, this product, this content is, you know, has has been produced 100 by, you know a human being, um, and that you know this sort of, and I think that you know you're already seeing, uh, you know, news websites. I think they're well, I don't know whether people are being compelled to or whether it's just a sort of you know an ethical, uh, you know an ethical decision to to sort of indicate where, where articles have been written with the help of ai, that it may become sort of necessary, you know, I don't know whether through regulation or otherwise to sort of indicate where, where information has been produced with the help of ai and to what extent.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3413.523,
+      "endTime": 3451.439,
+      "text": "I think the EU's AI Act that will be covered, and what usually happens with a lot of territories is that they follow the EU because the EU's the strictest and so we may as well just follow what they put in. But I think that I'm not 100%, but I'm pretty sure that in the Act is exactly that that you will need to with whether it's images, you know stories, articles everything will need to be labeled to be quite clear that it's produced by ai and and you're right in terms of you know organizations taking that decision. So the economists, for example, have, uh, have taken a kind of you know editorial policy where they will quite clearly state what has used ai and what hasn't.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3451.479,
+      "endTime": 3463.116,
+      "text": "I think a lot of, I say, reputable organizations will will choose to do the same thing don't you think, though sorry to jump in, but as ai becomes more and more ubiquitous?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3463.157,
+      "endTime": 3507.218,
+      "text": "we talked um in the kind of introduction to the episode about actually how few people have used ai or heard of it or various things, and it's actually still relatively low numbers. Do you not think, as ai becomes more and more ubiquitous, though, what isn't going to be have had ai used in its production, because I feel like it's going? I mean okay, for like to give you a concrete example, google google are building ai into their search function right now, and so if you use Google search to assist you with finding information, does that mean you have to label it as AI assisted? I'm curious about this, because I genuinely think it's not created it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3507.338,
+      "endTime": 3542.863,
+      "text": "I think the issue here is about whether it's a creation of AI, so that's AI using or assisting you in carrying something out. I think the issue here is about intellectual property and whether an article or a piece of music or an image is AI created. I think that's where it is, because it comes out. Dan mentioned about deep fakes and stuff. I think that's probably at the heart of it, isn't it About how do you make sure that people know what's AI and what's not? Actually, if the search is helping you do it, but the AI is not producing the content, it's just helping you with the process, I don't see what the issue would be with that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3543.857,
+      "endTime": 3549.281,
+      "text": "But I'm still not clear, Like if you create an article using AI, but you just tweak a few bits",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3554.455,
+      "endTime": 3556.843,
+      "text": "then it's not created by ai, like I think it's a really great area actually.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3556.863,
+      "endTime": 3559.913,
+      "text": "Yeah, you're right, you're right, no, you've, you've banged on there. I just, I just read it and I guess it will.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Daniel Lyons",
+      "startTime": 3559.933,
+      "endTime": 3578.869,
+      "text": "There will be someone, you know, there'll be lawyers and judges who probably argue where the fine line lies between assistance and creation. You know, you know that that will be the sort of the, the key issue. I think that it will be a badge of one to say, you know, that sort of a hundred percent of this article or 100 of this content was was produced.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3579.029,
+      "endTime": 3619.107,
+      "text": "You know, in an analog way, I wanted to finish the episode on a on a quote that you, that you sent me yesterday I thought it was longer ago than that, but yesterday actually. So, you, we were talking about the sort of conversation today, what we might talk about, and and you mentioned trust and, and you said, ultimately, if trust was an issue, there's no part of communications that couldn't be done by ai, and I guess, I think not now, but, you know, two, three, five years in the future. I think that applies across almost every job and probably almost every task, and that that's why I think you know the point that we've made here trust is an issue.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3619.81,
+      "endTime": 3657.599,
+      "text": "So if trust was an issue, we could do lots of things, but trust is an issue and therefore I do think you know you're quite right, it will be a barrier for certain roles in communications, but it would be a barrier for a lot of things. And I still think that sort of self-driving vehicles thing is a great example. Would you trust the self-driving vehicle? It's not about the technology of the vehicle, is it? It's your trust that you're putting in who's got control of that vehicle or what has got control of that vehicle, and that's what I think is the issue with trust. It's not about the technology, it's not about the ability of AI to do the role.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3657.86,
+      "endTime": 3689.623,
+      "text": "It's about the biases and it's about the motivations and who's controlling it and what are their motivations. And we're in a, you know, post-truth, post-trust era. I think you're bang on. I think I think trust it's going to be a thing that we're probably going to touch on more and more, I think, um, over the next however many months and years that we do this podcast. But, um, thank you, dan. It's been an absolute pleasure, really interesting conversation. So thanks for giving us your time this evening. Thank you very much. So that's it for this week. Um, I want to just finish off.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3716.115,
+      "endTime": 3756.226,
+      "text": "No-transcript could have if it's not managed and developed properly. So I want to ask people who listen to this show this week to please ask three people just recommend our show to three people three friends, three family, whoever it is but actually not just recommend them the show. Recommend them a particular episode that you think would be of interest to them and help us to try and grow the show. It's something we're going to focus on in the next few weeks and months. This is not about generating money for us. This is about generating an impact and if we don't have an audience, then we can't get that message across.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3756.266,
+      "endTime": 3785.496,
+      "text": "So it's just a bit of a request for me that people do that. Three people get them to listen to an episode. Ideally they'll subscribe and they'll follow the show. If they're not interested, then that's fine. But the thing that we would ask you is just to let people have a listen and hopefully get them to be involved. Have a listen and hopefully get them to be involved, so we'll finish, as always, with a song. So thank you, jimmy and Suno, for that and we will hopefully have you listening again next week. Thanks again, dan, thanks Jimmy, and take care everyone.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 3794.588,
+      "endTime": 3839.649,
+      "text": "See you soon. People talk in shadows, gossip fills the air, stories told in countless echoes, but AI wouldn't dare. It's a task of subtlety. Trust is hard to gain. Whisper words and empathy AI can play that game. Ai won't replace us. Communications need touch Tapped into the human force. Ai just ain't got that much.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 3864.797,
+      "endTime": 3897.991,
+      "text": "Understanding hearts and minds isn't data or code. In every word, compassion finds a hand to lighten the load, and white lies as lost without a sign While we see through all disguise. Ai won't replace us. Communications need a touch Tapped into the human pulse. Ai just ain't got that much. I'm that much,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 3901.69,
+      "endTime": 3904.14,
+      "text": "I'm that much, I'm that much,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 3907.395,
+      "endTime": 3909.676,
+      "text": "I'm that much. Thank you, you.",
+      "chapterIndex": 5
+    }
+  ]
+}

@@ -1,0 +1,1041 @@
+{
+  "slug": "s1-2024-05-09-episode-10-recent-developments-in-ai-catch",
+  "buzzsproutId": "15037752",
+  "title": "Episode 10! Recent Developments in AI: Catchup on a crazy first 2 months",
+  "date": "2024-05-09T03:00:00.000Z",
+  "season": 1,
+  "durationSec": 4442,
+  "format": "guest",
+  "era": "early",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15037752-episode-10-recent-developments-in-ai-catchup-on-a-crazy-first-2-months.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail This week we celebrate a major podcast milestone with a bumper episode, as we look back on the incredible pace of change in the AI space since we launched just two months ago. We unwrap Open Source models like Meta's Llama 3—a paragon of efficiency that's reshaping the accessibility of AI technology and might just land in your living room. We'll traverse the landscape of AI models, comparing the titans like GPT-3.5 and GPT-4, and delve into the transformative world of AI chip technology that's turning language processing on its head. Prepare to be astonished by the sonic leaps of Alibaba's QN model, as we examine how China is stepping up to the stage for a new era of machine interaction. As we navigate these audio advancements, we also cast a critical eye on the complex web of AI regulations and what they mean for public safety. The provocative world of 'jailbreaking' AI and the rapid rise of AI-generated music platforms like Suno and Stable Audio are dissected, revealing a content creation revolution that is already tuning up for a global audience. Finally, we envision a future where emerging technologies, such as Suno's Chinese challenger Vidu, alter the course of image creation while AI-powered agents promise to redefine productivity in our personal and professional lives. We ponder the implications of phantom jobs in the wake of AI and the subtle shifts in the labor market. This episode isn't just a podcast; it's a glimpse into a society interwoven with AI, where each thread reveals a new pattern of possibility and challenge. Join us to unravel how the future is being stitched together, one AI breakthrough at a time.",
+  "summary": "The tenth-episode milestone catchup covers two months of dizzying change: Llama 3 (a 70B model ~400x smaller than GPT-4 yet beating GPT-3.5), Groq's LPU chips making inference blazingly fast, the big-three arms race, Alibaba's Qwen Audio, the gpt2-chatbot mystery model, global jailbreaks undermining safety, Suno/Stable Audio and AI slop on Spotify, China's robotics lead and Vidu versus Sora, agents arriving this autumn, physical AI devices, and 'phantom jobs' — roles advertised for months that are never filled.",
+  "keyTalkingPoints": [
+    "Llama 3: 7B/70B (400B coming) runs on consumer hardware; businesses can fine-tune in-house — Jimmy considers cancelling subscriptions",
+    "Groq's language processing units infer faster than Claude Haiku, free with no signup — but knowledge cutoffs limit use",
+    "LLMs are misused as search engines; their real value is constrained drafting and coding with your own guardrails — always fact-check",
+    "EU AI Act plus rumored US rules may cap open-source model sizes — Jimmy calls it BS since closed models are globally jailbreakable",
+    "Suno v2/v3 tracks are cheesy with a telltale 'Suno style'; AI music is flooding Spotify, guided by $1,500/month scam tutorials",
+    "Agents (Google's due autumn) act in the real world; Groq+Whisper+GPT-4 mean human-indistinguishable call centers are around the corner"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Open-source models are the most exciting development — near-state-of-the-art performance on your own hardware within a year",
+      "Capping open-source model sizes is pointless when closed models can be jailbroken globally and the methods are public",
+      "Do not use LLMs as search engines — hallucination territory; use them for specific drafting tasks and fact-check everything",
+      "Real-time inference plus agents means automated call centers indistinguishable from humans are just around the corner"
+    ],
+    "matt": [
+      "The big three leapfrog each other endlessly; most people use LLMs as overpriced search engines and miss the point",
+      "Regulating open-source could entrench big-tech power, though policing three closed labs may be the only practical route",
+      "'Phantom jobs' — ads running five or six months, never filled — plus long-COVID workforce exits let firms cut positions quietly",
+      "The Cisco-led reskilling consortium shows industry knows regulation is coming and is positioning ahead of it"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-05-09-episode-10-recent-developments-in-ai-catch-3056.959-google-s-agent-products-will-come-out-this-year-",
+    "s1-2024-05-09-episode-10-recent-developments-in-ai-catch-3104.37-automated-call-centers-indistinguishable-from-hu",
+    "s1-2024-05-09-episode-10-recent-developments-in-ai-catch-290.5-within-a-year-models-comparable-to-gpt-3-5-will-",
+    "s1-2024-05-09-episode-10-recent-developments-in-ai-catch-2380.595-the-ai-music-flood-on-spotify-will-not-last-satu"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Speaker 4"
+  ],
+  "chapterCount": 9,
+  "turnCount": 136,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 3
+    },
+    {
+      "title": "Developments in AI models and tools",
+      "startTime": 144
+    },
+    {
+      "title": "Regulating AI for Public Safety",
+      "startTime": 1812
+    },
+    {
+      "title": "Music generation AI tools",
+      "startTime": 2121
+    },
+    {
+      "title": "A brief overview of AI developments in China",
+      "startTime": 2591
+    },
+    {
+      "title": "The rise of Agents",
+      "startTime": 2795
+    },
+    {
+      "title": "Physical AI devices",
+      "startTime": 3164
+    },
+    {
+      "title": "AI's Impact on jobs",
+      "startTime": 3531
+    },
+    {
+      "title": "Open Source Force (Outro track)",
+      "startTime": 4358
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.567,
+      "endTime": 29.78,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change, the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human social impacts of AI. We're making it our mission to help you prepare for the human social impacts of AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 33.08,
+      "endTime": 76.552,
+      "text": "The times they are a changing everyone. Welcome back again to Preparing for AI and this week, with the 10th episode and our 2 millionth subscriber, we thought that we'd do an episode where we catch up on developments in AI. It's now been two months pretty much since we started this podcast and I think, as we've probably talked about on every single episode, the way that things have changed and the kind of pace and development of things is just so mind-blowing that, even though this is not what we sort of plan to do as the main purpose of the podcast, we thought it would be good particularly as we know quite a lot of you probably don't obsess about developments in AI as much as maybe we do that we did an episode where we caught up on what has been happening and some of the kind of developments that might be interesting and important to our listeners.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 76.8,
+      "endTime": 87.851,
+      "text": "So Jimmy is back in the studio this week, although he's not actually here in the main studio with me, but in our sub-stud studio somewhere deep in Southeast Asia.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 88.171,
+      "endTime": 112.083,
+      "text": "So welcome back, jimmy, hi thanks, welcome, glad to be back. Yeah, I mean looking out over the rice fields in the south of China, in Yunnan actually, in the place called I'm probably going to butcher it, but Yuan Yang, which is is, yeah, it's like absolutely fantastic here. I've got a little bit of sunburn from yesterday, as you can probably see if we're going to go out on video at some point.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 112.684,
+      "endTime": 124.896,
+      "text": "um, but yeah, good to be back so let's kick off, let's maybe talk about models to start with, because that's kind of, I guess, the backbone of kind of ai at the moment.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 124.956,
+      "endTime": 162.62,
+      "text": "So I'll hand back over to you, jimmy, I mean let's just introduce, you know, the latest developments, what's happening with the kind of large language models, and then we'll, uh, we'll move on and go over all the other things that we we'd be interested in and that we think that listeners might, might be interested in yeah, so I think I mean for me, the most exciting thing over the last couple of weeks, certainly which may well change by the time people listen to this podcast, of course, but the most exciting thing for me has been the rise of the open source large language models, and so you've got the release of Llama 3.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 162.74,
+      "endTime": 210.969,
+      "text": "So actually, meta, formerly the parent company of Facebook, meta have actually committed to open sourcing all their models, which is quite an interesting step where you compare with OpenAI, where it's in the name, but they're not actually that open and they don't open source the models. So a very recent announcement was that Lama 3 has just been released and this was by Meta again and they've released a 7 billion parameter, a 70 billion parameter and they're soon to release a 400 billion parameter model. And the cool thing about this is that actually so the 70 billion parameter model, for example, is about 400 times smaller than ChatGPT in terms of the size and the number of tokens, and I'm going to explain some of the things we're talking about in a moment.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 213.061,
+      "endTime": 266.654,
+      "text": "But yeah, it's about 400 times smaller, 400 times more efficient, 400 times cheaper to run all this kind of stuff, but it's actually in between the performance of GPT 3.5, which is what's publicly available for free, and GPT-4, which is the paid-for model, and things like Claudopus and things like that, but it's actually as performant, as good and it's actually better than ChatGPT 3.5 Turbo, even though it's about 400 times smaller and the 7 billion parameter model't. I haven't had a go yet, but this is something that you can actually download and run on a, you know, on a laptop or something like that, and it would have to be quite a high powered laptop with a good gpu or a high powered pc with a good gpu, but it's realistic to run it on consumer hardware and that's really cool because it's getting it's actually getting comparable with performance of these kind of like.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 268.102,
+      "endTime": 287.08,
+      "text": "Okay, maybe it's the last generation model in terms of what you can pay for, but in terms of what's publicly available, you can get something that can do coding and things like that without having to be tied to using something like chat GPT, where you either have to pay for it or you're giving them all your data, whatever it is chat GPT, where you either have to pay for it or you're giving them all your data,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 290.5,
+      "endTime": 338.071,
+      "text": "whatever it is, and so the implications of that are, you know, businesses certainly businesses can potentially train these models on custom data and actually run them in-house without having to out like send their data to open AI or Google or someone like that one of these big corporations. But also the really exciting thing is just how much more efficient these models are becoming and how you're able to. We're already starting to see the possibility of running something on your local machine a year down the line from chat GPT 3.5. That's comparable in performance and that's pretty exciting because, well, firstly, the kind of trajectory, like it's fairly exponential and things are improving all the time, but also just like, like I was saying, like the fact that you can potentially run it on your own hardware and not have to rely on on these huge tech companies, and the sort of direction that that's going in general.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 338.171,
+      "endTime": 338.653,
+      "text": "Is it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 338.693,
+      "endTime": 372.104,
+      "text": "for me, is is quite exciting it's probably worth touching on as well, even though we've we've maybe mentioned it on the on the podcast. But in terms of the sort of big model, so I think of in terms of I'd call them the big three, even though I think meta in terms of a company obviously is bigger than anthropic. But you know, claude gemini and chat gpt for people who haven't listened, you know, when we started this podcast two months ago, chat gpt was definitely number one gem and I had its problems. But then it was, you know, being introduced 1.5 pro, had all these kind of features. That was going to be great.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 372.164,
+      "endTime": 406.593,
+      "text": "And then, you know, claude opus kind of came out of nowhere to take that slot. And I think you definitely at the moment you're someone who is using claude opus. I've stuck with chat gT mainly because once you change over, you know if you subscribe for two or three months and you want to keep up, you end up just then halfway through that subscription changing back over. So I kind of stuck with ChatGPT. But I think at the moment we're probably likely to see, I mean you know, if ChatGPT 4.5 or5 comes out, definitely that will, you know, lead to number one. But we're probably going to see this kind of, you know, moving.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 407.841,
+      "endTime": 419.087,
+      "text": "One company develops a new model and it's better than the other one, and that just carries on for, you know, potentially a long, long period of time, because it's a bit of an arms race at the moment, isn't it? You know, everyone's just trying to stay ahead.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 419.468,
+      "endTime": 420.15,
+      "text": "Yeah, absolutely.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 425.14,
+      "endTime": 441.585,
+      "text": "I mean, they're leapfrogging each other at the moment, all the time, and you can keep changing your subscriptions. The exciting thing for me about Lama 3, and actually so one of the things I've been doing is I've started using so I've been doing a bit of coding work and things like that using. I was using Claude Haiku actually because Claude Haiku is really fast. So, even though Claude Opus is-.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 441.606,
+      "endTime": 442.429,
+      "text": "Faster, isn't it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 442.73,
+      "endTime": 442.991,
+      "text": "Yeah,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 446.36,
+      "endTime": 469.296,
+      "text": "yeah, exactly. So you've got these. You've Claude, have got these three different models. It's a bit like you've got GPT 3.5 turbo and you've got four. You've got these different models. You can use Claude, have Haiku, sonnet and Opus they're called the bottom. The sort of least like the least intelligent model is Claude Haiku, but it still has benefits in that it's super fast, like really quick, and Opus, which is the most intelligent model and the most going to give you the best,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 474.52,
+      "endTime": 503.951,
+      "text": "ultimately the best answers, is actually pretty slow and can get quite jammed up when in during peak usage and things like that. So there are benefits. Like, when I'm doing coding, if Claude Haiku can give me pretty good answers, I might do 90% of my workflow in claude haiku and then when I get a bit closer, I'll just feed it all into claude opus, for example, and that then I can then use that to refine what I've been doing, because it is it can be a little bit slow. Otherwise, what I was going to get on to is like one of the really linking into the llama 3 release last week or a few weeks ago.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 504.672,
+      "endTime": 556.07,
+      "text": "You can use grok and that's grok with a q, so g-r-o-q. I'm spelling that out to distinguish it from grok with a k, which is twitter's, or formerly x sorry, x, formerly twitter's large language model, which is called grok as well. So grok with a q, and I think we've talked about it on previous podcasts, but this is a site that you can go to, grokcom with a Q again, which you can pick from some of these models, some of these open source models. One of them is Lama 3. And Grok, they actually basically they're designing their own chips, which are they're called language processing units, so as opposed to graphics processing units, and what they're doing is they're called language processing units, so as opposed to graphics processing units, and what they're doing is they're creating these custom chips that are going to be specifically used for large language models and you can actually, and basically they run what's called inference a lot faster.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 556.4,
+      "endTime": 602.282,
+      "text": "So when you're talking to a large language model, what it does is inference. If it's running on a graphics processing unit, it's way, way, way slower than on these new custom chips that are language processing units. And if you go to grokcom, I think you can just log in for free. There's no sign up, there's no payment, and like that, you can choose Lama 3, 70 billion parameter, and it's so fast. It's even faster than Claude Haiku, which I previously mentioned, faster than Claude Haiku, which I previously mentioned. So, for anyone who's kind of working with these models and having a play around with them depending on what you're doing with them because, again, like, if you want the ultimate kind of best, best response, you want to be using GPT-4 or Gemini 1.5 or Claude Opus Claude Opus is probably the best right now which you have to pay for.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 602.684,
+      "endTime": 630.123,
+      "text": "But if you're satisfied with a sort of slightly oh I don't know whatever you want to call it like slightly less intelligent model it's like you know, and we're only talking about something that six months ago was state of the art then you can use these other models which are much quicker and can give you 90, 99 of the the result, in my opinion, very quickly, and so actually I'm thinking about cancelling all my subscriptions and going, just going with these kind of open source models for a little while and seeing how it goes.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 630.705,
+      "endTime": 672.267,
+      "text": "It's probably, it's probably worth us explaining at this point. So, to give the example, you know if you use chat GPT. So if you use chat GPT for and you have the subscription, then it has integration with Bing search so it can search for, you know, stuff that's on the internet that's up to date, whereas the model itself is only trained until a cutoff point, which is, I think, april 2023. So if you're using Grok that Jimmy talks about, I mean it is like insanely fast, it's unbelievably quick. The one thing to bear in mind is the information in there runs up to 2021. So if you're looking to do stuff where you need to do web search, then it's probably not the ideal way to do it, but it depends on your use.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 672.98,
+      "endTime": 710.501,
+      "text": "Even on ChatGPT, if you're doing something where you don't need web search and you're asking fairly basic things, you want it to summarize something for you. For example, 3.5 is going to be much, much better and much quicker most of the time and I think using Grok in this example for some things it's going to be so fast. Once you use it you'll never want to use anything else. However, you know it's looking at what you want to use it for Google Gemini, guess as the example, the advantage that it can use google search. You know that's going to be the big thing for them if google continues to be the best thing with search.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 710.541,
+      "endTime": 749.912,
+      "text": "But it's, what are you using it for? Because actually, if you're just using it for search queries, do you really need to use a large language model? I think, when I've been speaking to people about it recently who don't use large language models very much, often what they seem to be using it for is searching for information. Well, how do I check that information's correct? And what I've tried to explain to them is you know, but if you're doing certain things, like if you want it to give you a piece of excel code, for example, or you want to teach it a language, or you want it to, you know, get a document and break it up into questions instead of a document so you can summarize its questions or put into a PPT, you don't need to use the model that has search function.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 750.961,
+      "endTime": 777.167,
+      "text": "And so I think for a lot of people actually my impression at the moment they're not using large language models to the maximum advantage. They're almost using them in place of a search engine. And if you're doing that, then the open source model that only runs up to 2021 is not going to be useful. If you're looking for you know recent information, but if you're looking for it to tell you about the american civil war, then it's absolutely fine, because that happened before 2021 no 100.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 777.729,
+      "endTime": 814.091,
+      "text": "And and to be honest, while we're on the subject of like, what like in terms of what I personally use large language models for, again, like what you're saying is absolutely correct and I actually find that so. So, my having used them for about a year now and and having obviously followed the news and all the rest of it and you know, being somewhat of an expert in it I actually don't like using large language models as a search engine, so to speak. I actually don't like asking them questions about facts and just sort of saying what do you know about this, what you know about that? Because that's where you get all these problems with hallucination.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 814.171,
+      "endTime": 851.789,
+      "text": "If they don't know the answer to the question or they're not sure about it, they'll just make stuff up. And this is what people talk about when they talk about hallucination. Now, if you want a bit of fiction and you want it to tell you a story, fine, like it will do that and it'll do that really well. Um, what I prefer to do is have, like, specific use cases and they they're great at this, so I would say, like, when I say specific use cases, what I mean is feed into a large language model. I want to write an appraisal in this style and this is all the information I need to feed into the appraisal and you know you still have to provide it with a lot of information and you have to provide it with guidelines and almost guardrails of your own.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 852.772,
+      "endTime": 891.162,
+      "text": "If you do all that, it will spit out something that's really good and obviously it's something that contains facts, but they're facts that you've fed into it and then it's regurgitating it back to you. Um, the same thing with coding coding something that's either right or wrong. But with all these things, I still feel like these models they're not at the point where it's the expert like I. I I'm a, I'm a software developer and what, when I work with a large language model to do coding, I just do it to make me quicker at coding. I'm still fact checking what it's giving me every single time and I think we're definitely not at the point yet where you can't do where you don't.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 891.182,
+      "endTime": 927.21,
+      "text": "Where you can't do that it's like the example I said with I gave about writing some prose for you, writing an appraisal, writing a report, whatever. You still need to fact check it and check what's in there and probably feed it quite a lot of information, but it will save you a ton of time. If you wanted to get a large language model to write you a um, you know, for example, write you a challenge to court like a, like a small claims challenge or a letter contesting some kind of parking charge or something like that. It'll spit that out really quickly. It'll do a great job of it. You probably still need to fact check it and feed in the dates when you parked.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 927.25,
+      "endTime": 964.132,
+      "text": "Whatever it is, you'll need to feed a bunch of information into it, but it'll save you a ton of time just writing a wall of text. But for me, to my point is, these are the things where I think these models are really useful. They're really good at kind of rewriting, drafting um writing code, writing a first draft of something all this kind of stuff and working with you in that way and saving a bunch of time in that way in terms of just like. So, in terms of just asking a large language model, like you said, like a question about the civil war or something like that, it might get the answer right, but there's probably better sources online where you can be sure that it's been fact-checked",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 969.48,
+      "endTime": 972.229,
+      "text": "which probably, to be honest, it's pulling a lot of it from wikipedia and from sources you go to anyway.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 972.249,
+      "endTime": 1012.507,
+      "text": "Um, for those of you that listen to the, the episode we did with anders hove the other week, um, I started off by listing a load of uh you know, potential uses of ai as an enabler of kind of climate goals, and he, as someone who had admitted to not being so much of an early adopter, had kind of looked up the same thing to research the show, but had just used the Google search and we essentially came up with the exact five same things. So, you know, maybe ChatGPT I mean, I've taught ChatGPT a language that I use to summarize stuff. So for me now it kind of does have an advantage to to search for certain kinds of information because I've taught it a language that allows me to do things really quickly.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1013.089,
+      "endTime": 1053.448,
+      "text": "But for most people it doesn't necessarily give you anything better. And I'm not saying that you don't use it for that. I'm just saying you know that is not the main purpose of it. If you're using it for that, you're missing out on a lot. But also you, you may be not even you may be not saving any time, and if you're paying for a model that has up-to-date search functionality, you're essentially paying for it to just do a search that you could do for free. I had a couple of um points just I wanted to to make. Um, these are about sort of particular models. So one thing that we'll touch on a bit later and in future episodes is is china, and because we're you know, we've been very much, I think, over most of the episodes focused on models coming out of the us.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1053.508,
+      "endTime": 1093.526,
+      "text": "Obviously we have, you know, mistral that comes from france, but other than that, I think most of the things that people with any sort of beginner's interest in ai will have heard of are probably, you know, american Silicon Valley companies. But there's a lot of stuff happening in China and Alibaba has a model called QN, which has a particular bit that I think is interesting, which is called QN Audio, which they call a symphony of sound and language. So this is marketed as not just being an audio processing tool, but it's actually I mean, it causes an auditory intelligence that speaks the language of sound with unparalleled fluency, which doesn't really tell you much.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1093.606,
+      "endTime": 1130.78,
+      "text": "But basically this model deals with human speech, music, the kind of subtleties of music, transforming audio to text, and it's focused on transforming that. Chatgpt has something called Whisper as well, which is very similar, but this model from QN seems like it has the potential to really sort of redefine the way that that kind of interaction with machines using sound as a medium to form language, because at the moment you know most of the large language models, they're very good with text, you know even this show is summarized. You know AI will create the transcript of this show, for example.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1131.282,
+      "endTime": 1166.345,
+      "text": "It's not perfect. I think this new model is is supposed to be very, very good. Now it'll obviously be better in chinese than english, but but it's. It just shows that there's a lot of stuff happening that maybe people are not aware of, where it's not only in the us that there's a big advantage, and the other one was was something that came about as we record this show in the last few days. So, uh, this chat gpt-2, chat bot GPT-2, I think it's been called, and there was a kind of cryptic tweet by Sam Altman saying a soft spot for chat GPT-2. So this model appears to be based on the architecture of GPT-4.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1166.786,
+      "endTime": 1193.143,
+      "text": "There are rumors that it is 4.5. There are rumors that it's chat GPT-5. It seems like it's not. It seems like it's not good enough to be that, but it potentially is a kind of new form of architecture which would allow chat GPT-style functionality in a much, much smaller model. So in some ways similar to what Jimmy had talked about with this Lama model and with using Grok, where it's not necessarily that the only focus in development is about making more and more powerful models.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1213.555,
+      "endTime": 1238.507,
+      "text": "It's not necessarily that the only focus in development is about making more and more powerful models. It's actually making them smaller and allowing them to be something that one can be accessed quicker. Two it's, you know, is maybe the pathway to at some point, having a large language model that is integrated on your phone instead of having to access the cloud all the time. I just thought for first, jimmy, if you want to finish off, but I had one question for you before we moved on, which was maybe just to explain for people, in terms of open source and closed models, what the advantages of each one, because the way you've described it you know, why would anybody stick to a closed model?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1238.547,
+      "endTime": 1244.936,
+      "text": "why would they not use open source? Or is there still an advantage to to the kind of closed source models for some people?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1245.517,
+      "endTime": 1292.424,
+      "text": "it's not so much that there's an advantage of closed source, but the we're going to see the big developments in closed source. The biggest models are like right now the biggest models are closed source. So I spoke earlier on about the fact that Lama has a 7 billion parameter model which, for reference, like I said, there's a 70 billion parameter model which you can't run on home equipment right now. There's a 400 billion parameter model which is going to be released soon which you definitely can't run on home equipment and there's a I think so chat GPT version four. It's not like it's actually not released how many parameters it has, but it's something like it's over a trillion, it's something like 1.4 trillion, something like that,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1295.935,
+      "endTime": 1328.905,
+      "text": "like it's over a trillion, it's something like 1.4 trillion, something like that. And so the reason why and I think obviously we've got the sister podcast around sustainability, which we're going to talk about a bit more later on, but this is it partly comes into that and it also partly comes into if you want to run chat gpt4, the only way to run it is to run it through open ai, because they've they've got the big data centers where they've got enough GPUs and enough computing capacity to actually run these models and it costs an absolute fortune. Talking to ChatGPT4, it does cost a lot of money for OpenAI to run it, which is why they're charging.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1330.237,
+      "endTime": 1378.62,
+      "text": "They're not transparent about it, but I don't even know if they're making money with their $20 a month. Uh, that people are paying for. So, um, the the benefit of open source, like. Open source literally means like. So the the llama model that's been released is we. They're just releasing it into the public. So you can, in theory, you can, download that model, that language model, and if you've got a powerful enough computer or a powerful enough data center, you can set up that model. You can also do fine-tuning on it. So you can do your own tuning on your business data, for example, if you're a business, you could do fine-tuning on it and then you can run that completely locally, however, in terms of the state of the art right now.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1379.241,
+      "endTime": 1435.784,
+      "text": "So the advantage is you can run it completely locally on your own data center, on your own computer, and you'll be able to have a chat with it like a chat bot, and it will give you output and, like I say, you can fine tune it, fine tuning. Well, I'll come back to fine tuning in a moment in terms of closed source, then what you're doing is you're saying let me, let's just use open ai as an example for brevity, but you're what you're doing is that you're then saying to open ai, right, we've, we've signed, we've made an agreement. If you're a business, for example, you would sign up to an agreement, probably where they're not going to share your data or that use your data for, like, training, future models, which is their, the business agreement, they have the business license, um, but when you're, when you're talking to it, you're sending your queries over the internet to open ai, who are running a massive, who are running your query through uhT-4 in a massive data center, and then they're sending the response back to you.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1435.824,
+      "endTime": 1442.472,
+      "text": "So I guess, in terms of the limitations, you know you're reliant upon OpenAI and then maintaining that model.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1446.535,
+      "endTime": 1478.705,
+      "text": "You're reliant upon their pricing and they're continuing to honor that pricing and not increase that pricing every year, which most likely they will do in the future. You're reliant upon their existence full stop. So you know there's a whole bunch of benefits in terms of the you're getting the latest model and the most powerful model and the most powerful inference, etc. Etc. And you can still fine-tune using gpt like using open ai's models as well. So you can you can build your own fine-tune models, but yeah, so the benefit is you get access to the latest and greatest, most powerful models. The downside is you've then got a subscription.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1478.975,
+      "endTime": 1490.83,
+      "text": "You're relying upon this company as a third party for the rest of it. So I guess it's a bit like cloud versus local in terms of storing your files, which obviously most people use cloud now because it makes much more sense.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1493.879,
+      "endTime": 1531.704,
+      "text": "It just works out better for most companies these days, but you're still reliant upon this third party. The benefit of open source over that is you have full control over it. You can actually see you get full control over the model. You can decide when you want to upgrade, when you want to use the next model, whether you want to change it out or the rest of it, so you probably get a level of control over it. I actually think. I think it comes back to what we were talking about at the start of the episode, which is the more interesting thing right now is that we kind of don't know where the chips are going to lie in the future.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1549.624,
+      "endTime": 1592.2,
+      "text": "And, as you said at the start of the episode, matt, certainly if you're a business on your own devices, which is actually comparable in performance to what was state of the art 12 months ago. So it's a bit that's where it sort of differs from the cloud example, because with the cloud, you get efficiencies by storing things in the cloud and using a third party provider. I think, with AI and with the way these large language models are evolving, we don't know where everything's going to land yet, and companies like OpenAI must be quite worried about the latest developments in terms of how much easier it's become to run these models, because my feeling is there'll become a point where it's like, okay, gpt-5 is out, but do I need GPT-5?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1592.802,
+      "endTime": 1627.202,
+      "text": "Do I actually need it? Does it? It's 1% better than GPT-4 in terms of its coding ability, in terms of business applications. I wonder where it will get to the point where it's like, well, I could pay an extra $100 a month for GPT-5, but I don't really need it. And I feel like that's where these open source models are going, especially if you fine-tune them for specific um use cases, like if you get a fine-tuned coding model, for example. If if it's got the performance that gpt5 has anyway, then why would you, why would you need to pay for it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1627.422,
+      "endTime": 1674.283,
+      "text": "yeah, I, I mean we're we're not sort of talking about governance at this point, but I think one think one thing that's really important to say on the point you've just made is regulation in the EU's AI Act and also rumours that I've heard from the US. I don't know what the name of this is, but the regulation is coming in July. So I mean specific enough rumour to presumably know something is coming. I mean specific enough rumor to presumably know something is coming, and one of the things that that will do is potentially restrict the size of open source models. So, you know that would give a huge advantage and I'd imagine that some of the calls for regulation that the likes of Google and Open AI have been asking for, you know part of that will be where you need to regulate, including, you know, more regulation of open source models.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1674.495,
+      "endTime": 1706.206,
+      "text": "And I think there's an argument for that, because you can say well, it's dangerous, it's out there with. You know, anybody having their hands on it, anybody can do what they want with it. The other way to look at it is well, okay, do you trust you know a general person or do you trust a big corporation or do you trust a big corporation? Because if you concentrate all of the power in those closed source models, then essentially you're saying a very small number of people or a very small number of organizations have all of the power and have all of the control. So you know, there's an argument both ways, I think.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1706.327,
+      "endTime": 1725.687,
+      "text": "But I think regulation potentially has. You know, there is the potential that regulation will mean that the open source models are not able to advance as much as they have and that would obviously work to the advantage of of the big silicon valley corporations yeah, and I mean just to clarify that point, like so.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1725.727,
+      "endTime": 1736.983,
+      "text": "I mean just, I guess, to take it right back to basics, what, why are they looking to regulate like models of a certain size? What's the reason behind that? What's the misuse of large language models?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1737.845,
+      "endTime": 1783.973,
+      "text": "Yeah. So I don't fully know. Although I'm probably ahead of you in terms of understanding of regulation, I'm not yet an expert in it and I don't know what the specifics are. I wonder, as I said, whether the push from the big players is you need to regulate them more than us, because it's dangerous. And I guess, if you don't understand this, you would think well, if we have it in the hands of a few organizations, it's easier for us to be able to control and have some degree of control over than it is if anybody out there has got access. If you look at the kind of coding and tech community, I think you get the opposite answer, that it's the exact opposite, and that open sourcing it makes it much, much safer because people can identify.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1784.013,
+      "endTime": 1817.567,
+      "text": "You know, you don't need a sort of red team, just pre-release. You've constantly got that oversight and you've constantly got those checks and balances. So I don't know what the reason is for it. I would imagine, to some degree at least, it's a misunderstanding of where the risk is, or it's a kind of overreach of oh no, we haven't done anything. And one of the obvious things to think is the the less players who we have with the capacity, the easier it will be for us to work with them and to control it. But that is my um sort of speculative view. I don't know for sure yeah, yeah, I mean.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1817.607,
+      "endTime": 1848.718,
+      "text": "I guess what I mean is like just to take it right back to basics for people who are listening to the episode and they don't know why the regulations have been introduced. As far as I understand it, it's because these large language models they can tell you anything right, so they can tell you how to make a bomb. They can tell you how to do things that terrorists might want to do. They can tell you how to create potentially like biological agents. Then, in the future, if, as they get more advanced, they might even be able to create new biological agents that we we wouldn't even, you know, we like, we we haven't been able to come up with yet.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1848.778,
+      "endTime": 1860.526,
+      "text": "So it's. It's basically this the problem of these models have been fed all of the information that's available and they can tell you how to do like stuff that's illegal.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1860.566,
+      "endTime": 1901.065,
+      "text": "Basically well, I think it's chat gpt was asked. I presume this is as part of a kind of red team exercise. So red team, by the way, is is, you know, pre-releases them, kind of doing exercises to try and try and hack and try and you know bad, do bad things to try and then put in place uh barriers. And the model came up with 400 potentially lethal pathogens, of which one was vx, which I think is the, the kind of most um dangerous pathogen that we know of, and you know many, many of them were things that were unknown. So it definitely has the capability to do that. I think the argument against it is you know you can look up how to make a bomb on the internet now, but you need the.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1901.566,
+      "endTime": 1962.157,
+      "text": "You know you need the pieces to make it. So it's more of a question of will AI allow you to understand what compounds you need and then you can quite easily buy. You know certain compounds, if you're a lab, which don't necessarily need to be dangerous compounds on their own, and therefore you know there's a way in which you could create something. So, without going into too much detail, there is a huge risk, but the risk is potentially not about the AI telling you how to do it, but more about if AIs get to a point that they're able to help to produce or source the things that you need, because although it's difficult to google search how to make a bomb, the information is there and the dark web definitely has that that information already available yeah, and like just to finish off on this, because I know we need to move on, but, like one of the, I've been thinking about this and one of the reasons why I think this is kind of bs is because they're talking about they're talking about limiting the size or the complexity or the intelligence where gonna call it of open source large language models.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1962.559,
+      "endTime": 2016.408,
+      "text": "For this reason, and the thing, the reason I think it's kind of BS is because you can jailbreak the existing closed source models, so GPT--4, gemini 1.5, chlordopis. You can not only jailbreak them, but it's got to the point now where they've and you know more about this than I do but they've now produced these global. Are they called global jailbreaks, and I'll let you go into a bit more detail, but, as I understand it, global. Basically, the point we're at is you can jailbreak these models and not only that, there's global jailbreaks for these models and the situation is that the companies who run these models, like OpenAI and Anthropic and Google, actually can't stop you from jailbreaking the models if you really want to, and the information on how to jailbreak them is out there and it's public and you can find it, and if you jailbreak the models, they'll tell you whatever you want.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2017.217,
+      "endTime": 2033.976,
+      "text": "So my point being like if. My point being like we can go into global clearbox and all the rest of me if we want to, but my point being is like, what's the point in like restricting the size of open source models if, if, if, they can't even stop closed source models from spilling the beans on all the things we're talking?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2033.996,
+      "endTime": 2067.067,
+      "text": "about True, and you said we finish off on that. I'm just going to add one kind of last counterpoint to it is almost that point that you've made plays into this idea that you should limit it, though, because if you acknowledge that at this point you can't stop it and therefore I presume you're acknowledging that you need to find a way to stop it then it is much more easy to do that if you're working with three organizations rather than you're working with, you know, everybody that's out there, not necessarily where I stand on it, but I think that will be the sort of counter argument. And you're right.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2067.155,
+      "endTime": 2098.793,
+      "text": "I mean the jailbreak thing when you look at it, and it's quite. I mean you can YouTube video on jailbreak. It's quite scary to see how easily you can do it. I guess the mitigation, like I said, is that being able to jailbreak the model and get information out of it. Remember, it's trained on existing information as a large language model, so if you're asking it to do something, that information exists somewhere. There is a difference when it gets to the point that specific applications are able to, you know, tell you how to fold proteins and tell you how to create compounds. Once you get to that point,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2105.615,
+      "endTime": 2112.038,
+      "text": "you know. Then it becomes more and more, you know, more and more dangerous. And then what can an AI do? Can it actually carry out that process? But I think you know we're some way off that, but I think that's where the the risk is.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2120.589,
+      "endTime": 2153.662,
+      "text": "Should we move on, then, very quickly? I think? Just just talk a bit about music generation, because it's something that obviously has been uh, developed. I mean, it didn't really exist when we started this podcast two months ago, and then we, you know we use suno to generate um music at the end of each episode, I think at the moment, you know you can see ai music replacing kind of functional music, you know, elevator music, that kind of thing, um, and in future, you know, remixing your favorite songs, allowing you to do that. There's apparently already a trend at slowing up or speeding down your favorite track.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2154.284,
+      "endTime": 2180.958,
+      "text": "There is a guy called christopher della riva who, um, really, really interesting guy, who's a kind of I mean, he's a music expert who also gets ai um, someone that we hope to get on the pod later and he thinks it will settle as a way of generally enhancing um music creation. Not sure I agree, but, jimmy, um, you've obviously been using this more than me. I mean what, what, what's your feelings of where it is now and you know where it's going to go in the in the short term?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2182.021,
+      "endTime": 2201.382,
+      "text": "yeah. So, as matt says, listen to the end for our you know, for our ai generated music content. Um, I don't know if we release the lyrics or the links to the songs they are. I would say that they're pretty cheesy at the moment and they're kind of like a minute and a half to two minutes long, so they're not even full songs right now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2201.915,
+      "endTime": 2210.807,
+      "text": "They sound like a Suno track, don't they? Yeah, they obviously sound like a Suno track. That's the thing. They've got this kind of style, that is Suno style, which you can tell.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2217.095,
+      "endTime": 2235.268,
+      "text": "I mean, the, the lyrics are, they don't. The. It's not the order, the lyrics don't kind of make sense the way that they. They don't go quite right with the music and I guess that's something that will change. But at the moment I think you can almost tell, like sooner, tracks have their own style, in the same way as, you know, a generated image at the moment has its own style yeah, 100 like they.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2235.308,
+      "endTime": 2278.183,
+      "text": "Yeah, it's like a. It's like like you ask it to do a rock song and it's like I'm somehow it's kind of a mishmash of every rock song you've ever heard, like it's the most generic rock song you could come up with and, as you say, the lyrics, like it takes a few iterations. If anyone's had chance to actually have a go with suno, it's you can. You can kind of retry and retry and retry and then eventually you come up with something that's like, okay, that's acceptable, and that's kind of how we, how we create the songs. Um, for the end of the podcast, I think it's another one of those things where it's like, if you look at it in isolation, it's like, okay, it's not gonna, it's not gonna replace people, it's not gonna replace jobs, it's not gonna replace music.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2278.685,
+      "endTime": 2339.726,
+      "text": "But this is kind of like suno version 2, which you know suno version, or is it suno version 3, I can't remember. Um, the point is like suno version 1 was less than a year ago. It's now in version 2 or 3. What's version 4 gonna look like? Is that? Is that going to be full length songs with, you know, an improvement over we've got what we've got right now and more diversity in the music and that kind of stuff. Um, it's a sort of direction of travel which, again, is kind of exponential. And one of the things, one of the things that a few people have mentioned just talking on music generation, is that there seems to be and this is like not an accusation, it's a guess, just a kind of amusing, which may not end up being included in the podcast, but there seems to be a lot of stuff on Spotify these days where you've got a song which doesn't really have an artist behind it, or it's got an artist that's got no history, that's got nothing behind them, and they sound very much like AI generated music.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2339.915,
+      "endTime": 2380.403,
+      "text": "And, given that anyone can put music on, anyone can put music on things like Spotify and I'm picking on Spotify but other kind of platforms as well you have the same kind of. You know, anyone can put music on those platforms in the same way as you can on youtube and things like that. And so is this stuff creeping into spotify and things like that already? Like, have you got people who are just generating ai generated music and putting it onto spotify and other other music platforms? I think it's one maybe for the comments I'd like to hear from people on what they think on this, because it's something that's come up a few times, I can probably answer your question.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2380.595,
+      "endTime": 2435.842,
+      "text": "I found an app sorry, not an app an article in Chinese on a Chinese social media app which basically told you how you could make around $1,500 a month by doing exactly what you've just said, basically producing music, and it tells you how to market it to enough people to access it. I think it's something that obviously is not going to last for long, because either it will be saturated or, I would imagine, the likes of Spotify will shut it down if it starts to you know, flood, flood Spotify to the point that people the algorithm is feeding people rubbish AI tracks. So I think it will probably not last for that long, but I think at the moment and yeah, do comment if people feel otherwise but it seems like there are not only people doing it, but there are people telling other people how to make money by doing it, so it's definitely happening at the moment.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2436.736,
+      "endTime": 2441.996,
+      "text": "What about stable audio? I think you've used that as well. Is that better, worse, stable?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2442.076,
+      "endTime": 2483.93,
+      "text": "audio right now. So I had a play around with it. I wouldn't say it's as good as Suno it seemed to be. So, first of all, suno will come up with lyrics for you, so you can just type in you know, I want a song about this, uh, you just type a short description and you say in whatever style you want it in Um, stable audio I did have a little play around with it. It generates okay tracks, but they're even shorter in length. Um and the. Although you you can. You can sort of adjust the length of the tracks, uh, and it won't generate lyrics for you. So you would probably need to work with something like claude or another ai if you wanted to generate.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2484.071,
+      "endTime": 2519.603,
+      "text": "Ai generated lyrics. So I would say stable audio is not there yet, but it's another. It's another product. You can use um like if you want to generate music. One of the benefits of stable audio is it does. It seems like you can actually tweak a bunch of parameters, whereas suno is just. You give it a prompt including what style you want it in and want the music in, and then it just generates stuff and then you're either happy with it or you're not. Stable audio does seem to have more parameters that you can adjust and play around with. You can feed in your own lyrics and all the rest of it, so they both have use cases.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2519.703,
+      "endTime": 2528.22,
+      "text": "But my feeling if you want to just generate some music quickly on a topic of your choice, suno's definitely the easier one to use.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2537.648,
+      "endTime": 2594.835,
+      "text": "I talked a little bit in the first section about China when I talked about Alibaba's QN model. I mean, at some point we definitely want to have an episode about China just to try, and you know, introduce different apps, different uses, different LLMs. But I think, just as a kind of overview of the stuff that I've seen, at the moment, I think robots is the thing where China is definitely ahead, particularly in terms of scale. They're manufacturing robots and starting to use robots much more than anywhere else. Um baidu recently released some ai tools in addition to their ernie bot, which allows sort of non-programmers to develop generative ai powered chat bots for particular uses, and this is a bit different from the custom chat gpts because they can be integrated into websites and to baidu search engine results.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2594.895,
+      "endTime": 2640.887,
+      "text": "So baidu is essentially china's answer to to google, although nowhere near as usable um or kind of other online portals. But the other thing they've got, so walker s robots, which people who are interested in robots may have heard of. Um, they're from a company called ub tech. They've chosen to use baidu as essentially the, the large language model to power their robots. You know, in the way we talked about the um, what was open ai was with what was the company called. It was doing the open ai powered uh figure ai, yeah, that's right yeah um and yeah, and apparently apple. So yeah, this won't be for outside of China, obviously, but in China are potentially going to use Baidu for their future AI release, whatever that looks like, for iPhones and Macs etc.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2641.488,
+      "endTime": 2677.863,
+      "text": "So you know there's a lot of stuff happening that you know people are not aware of. The other one that, the kind of one that caught my eye recently, is Vidu, so that was released recently. It's essentially being marketed as china's sora and I think it looks better. Actually, I think the images look. I don't know how to explain it. I mean, I think people just look it up, have a look at vidu. Maybe they're more asian and they have a different kind of style to them. I just from what? From what I saw of it, I thought it looked potentially better than Sora. It's obviously going to be a similar technology.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2678.395,
+      "endTime": 2691.222,
+      "text": "Apparently it's better at creating things like dragons. So I think there is a kind of cultural thing in there of what it will produce. But I'd suggest people look it up, because if your mind was blown by Sora, it will be equally blown away by Vidu V-I-D-U.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2697.755,
+      "endTime": 2711.668,
+      "text": "And that's the sort of big one that I've seen in the last couple of weeks which strangely doesn't seem to have really picked up as much media attention as I'd have thought of, but maybe, like I say, that's just because the focus is on the kind of big three in Silicon Valley. I don't know if you want to add anything on there, jimmy, on sort of China at this point.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2712.75,
+      "endTime": 2730.147,
+      "text": "No, I haven't had a chance to check out VDU yet, though, and I will check it out. One of the things that people said about Sora is that and I think this is borne out by the way it was trained is that a lot of it looks like it was made in a game engine, even though what you're looking at is photorealistic",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2737.55,
+      "endTime": 2772.451,
+      "text": "things. That was, I think it's speculated maybe confirmed at the moment is that, obviously, nvidia produced graphic chips and they've got all these virtual environments, and then you've got things like unreal engine 5, which can produce these kind of very lifelike environments, and the speculation is that sora has been trained on a lot of artificial data from things like unreal engine 5, because that and then and then what you end up with out of sora is this kind of it looks like it's. It's some of those cameras and the, and the footage look like they've been, look like their game engine footage a little bit in terms of the way the camera moves rather than in terms of the way the camera angles, and the way the camera moves rather than the actual footage itself.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2772.852,
+      "endTime": 2785.691,
+      "text": "The footage is ai generated and very lifelike and photorealistic, but some of the movement of the camera and some of the scenes and things like that look like they come out of some sort of game engine a little bit",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2795.524,
+      "endTime": 2851.423,
+      "text": "we talked a few weeks ago on, I think, the translation episode about the rise of agents, but maybe not everybody has listened to that episode, so that's obviously been a big development in the last few weeks. So I'm going to ask you, jimmy, less so to describe the developments, but to explain to people what agents are and why they're going to change people's lives, and and I'm I mean that not in a hyperbolic way, but in terms of how these are things that in most people's jobs, for example, they'll actually be able to use these to make a difference if they still have a job so agents, the difference between the difference with agents and some of the agents that are starting to come out is what they'll enable you to do is actually carry out actions in the real world using a large language model to understand the world that takes in information on what you're doing on your browser, for example, in your email,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2860.51,
+      "endTime": 2887.367,
+      "text": "in your shopping cart, something like that feeds into a large language model along with your request. So you might say okay, I want to go to Amazon and buy a gift for my five-year-old nephew Amazon and buy a gift for my five-year-old nephew, and with a very good description of that, these agents can go and send that information to something like ChatGPT. Chatgpt will figure out",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2892.69,
+      "endTime": 2932.599,
+      "text": "you know how you would go through that process and the agent feeds in some additional information to ChatGPT. Like I'm using a browser, I've got access to these shopping sites, I'm logged into these sites, whatever it is and then, given that information, the large language model can send some instructions back that say okay, and the agent acts as an in-between to decide for it to say okay, go to amazoncom, search for whatever the search criteria is gifts for a five-year-old boy, something like that and then it can provide you a bunch of suggestions and then, instead of clicking on something on Amazon, you just say to the agent okay, I want to buy this, and it will then go and take all the actions it needs to take to buy something.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2933.652,
+      "endTime": 2974.793,
+      "text": "Now it's quite a simple example, but what you're actually doing there is you're enabling large language models in the background to carry out real-world interactions on your behalf, and that's kind of the critical thing with agents. So when you take that into a business environment, it then takes it from being okay. I'm a software developer. As an example again, I'm going to go and speak to chat, gpt and ask for some code to do this X, y and Z, and then I'm going to copy and paste that code into my code browser or code editor and then I'm going to run that code and test that code and all the rest of it as you move towards agents.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2974.853,
+      "endTime": 2988.127,
+      "text": "Instead of doing that, you just say I want to write some software to create let's just use a simple example, so an example that I've seen online so I want to create some software to create an online checkout for my website,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2998.89,
+      "endTime": 3035.339,
+      "text": "or four different agents that can all work as a sort of little development team where one is the developer, one is the um, one is the kind of ceo who's handing out instructions, one is the tester, etc. Etc. And they all have a. They all basically can work with a large language model in the background to carry out their tasks but then actually execute their tasks. So actually, instead of you having to copy and paste code into the code editor, they'll go and do that for you and then the tester will test it for you, etc. Etc. And so these agents are mechanisms. They're kind of like they're in between the go-between between large language models and actually being able to carry out real world, real world actions.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3035.84,
+      "endTime": 3056.097,
+      "text": "And all that in the context of jobs, which is part of this podcast. All that sounds can sound quite scary in terms of like this is in terms of the mechanism of actually replacing jobs. This is, agents are part of the path to that, because they then take out the man in the loop, in a sense.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3056.959,
+      "endTime": 3103.881,
+      "text": "And the focus is definitely on kind of enterprise. You know that's where the money's going to be. I would suggest that people, if they are interested in this, that they watch the Google presentation where they announced it from I think it was two or three weeks ago. So I think they give a really good example of kind of five or six you know uses and different ways in which or different kinds of agent that will come out, and I think that you know the idea is that will come out this year. I think you're probably looking at autumn this year. So if you're interested in that part in particular, then suggest, uh, for you know, a bit more reading or or watching the the presentation which you can find on youtube or google's own website I was was just going to say another really quick real-world example which brings together a few things we've talked about on this podcast.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3104.37,
+      "endTime": 3154.216,
+      "text": "So Grok, with a Q that we were talking about earlier on which has the ability to inference in almost real time, combined with things like Whisper, which can translate voice to text and back again, combined with something like ChatGPT4 and these new agentic models, means that things like automated call centers, where you can't really distinguish them from a person, are just around the corner, because you've got four pieces there which allow you to have real-time conversation that sounds human-like and you can't really distinguish from a real human, that can interact with something like a large language model to actually understand what you want and what you're talking about properly, and again like do that in real time, and so that's kind of an application that's just around the corner and fits into this category of agent.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3166.03,
+      "endTime": 3207.102,
+      "text": "I wanted to talk a little bit about what I'm going to call them physical, physical kind of AI devices. So this is not robotics, but this is and we mentioned briefly on the translation episode something called the AI pin, which has been absolutely slated in terms of all the reviews that it's had so far, and I think it's worth saying that if you look at it on any of the videos, you kind of would question well, what's the point of this thing? It's essentially supposed to be, you know, an AI large language model in a physical device, but it's not in the physical device. It's still based on the cloud and needs a subscription.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3207.23,
+      "endTime": 3251.94,
+      "text": "So the immediate question you ask is well, why don't I just have a large language model on my phone? The argument against having a phone is well then, you have a screen, you have to look at it. This, you can talk to it. You can then argue again well, I can just talk to my phone. There is an argument that I think is quite interesting around reducing screen time and if we're going to have more and more digital interaction, do we at some point want to stop looking at screens all the time? I think that is a very good argument. I'm not sure this is the way to do it, but if you look at these kind of devices I think at the moment, rabbit r1 is another one, as your humanizer apparently is another one, which I haven't heard anything about but apparently exists I think it's not what these models are now, but it's looking at the fact that, you know, do you end up with something like you know from star trek, basically?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3252.161,
+      "endTime": 3277.023,
+      "text": "Or are you able to have literally in your watch or in a literal pin, you know at some point, a locally held large language model that you can just talk to? And one of the really interesting things I think the AI pin does do is when you land in a different country, it identifies that country and then it will change its settings. So, if you are landing in Brazil, it would know you're somewhere, portuguese, and then it would expect people to speak Portuguese,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3281.47,
+      "endTime": 3312.732,
+      "text": "so it could then act as a translator for you. Again, why couldn't a phone do that? Why couldn't a large language model on a phone do that? I don't think this iteration is that interesting, but the fact that it exists and the fact that I think you can see where that's going to lead to, I also think you can probably look at okay, wait until that is integrated with a phone. What are Apple going to do this year? What are they going to announce in June? Maybe they're not going to have a large language model held locally on a phone at this point, but at some point I think you look at that and combine it with the idea of your existing devices.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3313.133,
+      "endTime": 3319.307,
+      "text": "It's pretty exciting to think that at some point you're going to have something small enough to be on a phone on the one hand, it sounds really cool.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3319.347,
+      "endTime": 3327.072,
+      "text": "I'd quite like to try one myself, especially for the the translation thing, like if you could, if I could use it for, genuinely use something for real time.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3327.213,
+      "endTime": 3362.823,
+      "text": "These got quite a long delay, which is one of the problems with it is if you, you know the idea and we talked about it's on translation episode of instantaneous translation would be amazing, but then you'd need to have it locally held as long as you've got a subscription on the cloud and you have a delay. Yes, it's useful for someone who's on holiday, but it can't replace you know, it can't replace a translator. If it can do it instantly, it can in many circumstances, replace a translator. That's why we're saying you know, at the moment, being a cloud-based model, for me it doesn't really. It doesn't really do what it's supposed to do yeah and 100, like I've got.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3362.93,
+      "endTime": 3400.916,
+      "text": "I've got microsoft translator on my device at the moment and I've used it in china and it's basically you press a button and you talk and then it translates and then vice versa, it like that. That capability is already there. So for me it has to be that kind of star trek universal translator type thing for it to be actually exciting, not just a pin that can talk to you like again. Like, as you say, for me at the moment it's like what's the difference in that and having a phone that you can, that has a connection to a large language model, because it's that's all it's really doing. It's kind of acting as a middle, a middle device there.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3401.537,
+      "endTime": 3442.742,
+      "text": "That being said, if it realizes, it's kind of like final form, and the final form is real-time translation and a bunch of other stuff. That means, you know, instead of having to go into your um uber app and order an uber, you can just basically press the button and say I need an Uber, to blah, blah, blah. That would probably start to feel quite natural. I can imagine these things in their final form. Like I say, I can imagine them being pretty cool where, instead of having to go into all these different apps on your phone, which the Rabbit R1, I think they talk about that in their promo videos is like imagine not having to have all these hundreds of apps that do all these different things.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3443.091,
+      "endTime": 3447.502,
+      "text": "You just have the one thing that you can just talk to and it just does whatever you want.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3448.412,
+      "endTime": 3482.241,
+      "text": "A lot of the things you do with apps on your phone is just to like get a purpose right but which is why, if, at some point in the future, a version of the AI pin can replace a phone and you cannot have to have screen time because you can do everything by speech, then that's a different matter. But at the moment, what you've got is I'm going to have my phone and my you know, my smart watch and my laptop, and then I'm going to have the AI as well and it's another device on top of it. I do like the idea of, you know, getting rid of a screen for some things, so that you're not watching videos on your phone and you're not.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3482.361,
+      "endTime": 3511.322,
+      "text": "You know, I mean, it's not good for anybody to be staring at a rectangle that small for so many hours a day. So if you can reduce screen time is a great idea. But at the moment, what we're talking about is an additional device, you know, and that's not. You know, that's not what I think people want. It's integrating it, and if, in the future, we can replace screens some of the time, then that would be a nice or sort of side effect of it. Yeah, um, but I think we're way off, but it's still interesting, I mean, you know. I again suggest if people are interested in this, look up the ai pin. I mean it's kind of cool.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3512.111,
+      "endTime": 3522.581,
+      "text": "It just feels like something that you'd go and look at an exhibition be like, oh, that's really cool. I can't wait for three years time when, when you know, a version that actually does something useful comes out. But you can see the future.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3532.02,
+      "endTime": 3574.113,
+      "text": "So let's finish this episode because you know we are a podcast that primarily is about the impact on jobs and people. By looking at jobs and looking at what's been happening, I think it's clear that actual job losses that are credited to AI there's not many of them. I think the actual ones seem to be in tech and customer services as well. I think customer services you can see that it's happening there. Tesla is a good example of a tech firm where there's been articles about how they are. You know they're cutting positions even though you know they're an organization. Okay, they've they've encountered some difficulties, but they're a massive, you know, organization with a huge value.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3574.133,
+      "endTime": 3612.614,
+      "text": "So it's not, it's not that struggling organizations are cutting jobs. It's potentially organizations that are, you know, still doing well but are seeing productivity advantages. But, as we've said in the first few episodes, you know this is about stealth, it's about slow losses is also, I think and this is something I found myself from from my own kind of research and stuff something that I'm going to call phantom jobs, and what that is is people leaving jobs and then the job being advertised and you see the same job on LinkedIn and it's been going around for five, six months and you think how have they still not filled that job?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3613.195,
+      "endTime": 3636.542,
+      "text": "And then you realize that when you speak to people in organizations, they say, well, we were told the job was advertised. But then we realize that when you speak to people in organizations, they say, well, we were told the job was advertised. But then we're told oh, you know, economy, end of year, blah, blah, blah, funding, or we'll see how we can get on with seven in the team instead of eight. And then, as time rolls on, actually it works okay because we see some productivity gains and then we don't need that position anymore, and that is. You know, I don't know to what scale,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3640.65,
+      "endTime": 3655.921,
+      "text": "but it's definitely happening. There are a lot of jobs out there advertised at the moment and they're never being filled. And you know the talk of well, there's a shortage of people. There's a lot of people who are looking for jobs, who are pretty skilled and are not finding them and are applying for jobs and not hearing back, and I think that is something we're seeing.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3660.75,
+      "endTime": 3685.978,
+      "text": "It may not, again, be completely down to AI. Maybe organizations are looking at the economy and saying we need to hold fire, but I think we can definitely put part of it down to AI and organizations where CEOs are acknowledging that they're taking a bit of a wait and see approach. If they're going to see a massive productivity gain later this year, then why fill those positions when you know I'll have to cut somebody later? I think that's another thing that definitely seems to be happening yeah, 100, 100 I think.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3686.599,
+      "endTime": 3738.847,
+      "text": "I mean there's tons of examples where it seems to be just, you know, the tech industry slowing down, like the current economy, state of the economy, that kind of thing used as the excuse we've talked about it on previous episodes where there's definitely an element where there's a wait and see approach and let's you know, and then and then maybe there's some ai efficiencies creeping in. I've also got a quite a recent, I think it's it's been happening for a little while, but I saw a YouTube video recently about an example of AI-powered fast food ordering. So there's a company called Presto and Arby's in the US have already rolled out these Presto machines a bunch of locations across the US, bunch of locations across the US, and I'm sure there's going to be other fast food like restaurants,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3745.57,
+      "endTime": 3779.563,
+      "text": "mcdonald's, all the rest of it, taking like a close, keeping a close eye on this. But effectively, what this is is this is a when you drive through a drive-through, now, instead of ordering from a human, you order from an AI and they have these boxes, these presto boxes, which basically ask for your order and what you want to order, and then they'll try and do the upsell for you and ultimately, if you can't complete your order through the AI, they might pass you on to a human. Now they're not fully replacing jobs yet, as in they're just probably replacing part of someone's time because someone's having to keep an eye on the AI right now, in a similar manner to sort of the automated checkouts and things like that.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3780.205,
+      "endTime": 3818.624,
+      "text": "But it's an interesting development where it's a concrete example where you're already able to start ordering your fast food using an AI and it is in this case it's based on a large language model, so it's using that text to speech and speech back to text again and using a large language model in the background, kind of similar to what I talked about earlier on in terms of, like the call center example um 100. If you haven't heard of it, it's something to have a look at. It's definitely replacing part of someone's job right now in all these arby's where they're testing it. I I would imagine you're going to really quickly start to see these in all your other fast food chains.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3819.89,
+      "endTime": 3856.825,
+      "text": "Yeah, it's definitely happening and, as we've talked about, you know the sort of scale of it and the speed of it is probably less so than you know. Maybe people feared, but it's still very, very early days and we're starting to see concrete examples, although you know, I still don't think there's going to be big announcements. No one's going to put it down to AI at the moment because you know there is already enough fear, particularly and this is something that's really interesting there's a lot of research on this. I don't have a source to quote at this point, but there is far more excitement in developing countries in developing countries I hate that term, developing countries, but developing countries",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3866.65,
+      "endTime": 3903.512,
+      "text": "developing economies around AI than there is in some of the more liberal Western countries, where there's a lot more existential dread and fear for jobs, and that's borne out. I mean, there is some research that showed the difference just in a year in the US between the number of people who were optimistic. It was a wash. They were neither optimistic or pessimistic or were pessimistic about AI and it had rocketed up in a year the number of people who were pessimistic. So it's having an effect, even though it doesn't seem to be played out in. I mean, there's a lot of media articles, but it doesn't seem to be an issue that is affecting elections, as I can see at the moment.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3904.254,
+      "endTime": 3942.838,
+      "text": "The other example I've got and I think I've made this one before whether you want to call it long COVID or long jab, you know whether you put it down to vaccine or you put it down to the infection it's definitely a fact that there are a lot of people who are being taken out of the workforce. In the US, I think it's about 4 million people. In the UK it's about 700,000 since the beginning of the pandemic who've left the workforce. Now that may not continue at that rate. It may speed up, it may drop down, but I think that gives a great excuse for organizations, as a lot of people leave the workforce or retire early and therefore you don't need to fill them.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3943.059,
+      "endTime": 3991.091,
+      "text": "There seem to be plenty of reasons in the world at the moment for people to leave the workforce that allow organizations to cut positions without having to cut people, and I really think that is something to watch because that pace. There was another fact from an ONS survey in the UK that was rates of long COVID between March 2023 and 2024 and an increase of 0.4% of the population. Now, if you took 0.4% of the population out of work every year for a few years, that would nicely help with the transition of, you know, getting rid of people and replacing them with AI and machines. So you know, call me a cynic or a conspiracy theorist, but I certainly think there is something in there.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3991.551,
+      "endTime": 4006.823,
+      "text": "You know many ways, like I said, that companies are able to cut positions without actually getting rid of people or making them redundant yeah, 100, and I think it's something to to keep an eye on.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4006.903,
+      "endTime": 4053.675,
+      "text": "I don't know, I don't know necessarily what, what you can do about it, other than some of the things we've talked about before. I think you know, I think think, as we start to see more concrete examples, it will you know. Okay, I feel like it's able to fly under the radar a bit at the moment, but I feel like it is building and as it starts to impact jobs more, it's going to become much harder for it to fly under the radar and, interestingly, I don't know if we talked about this on a previous episode, but we were talking offline. We were talking about a bill that the uk had released around ai and like how it can be used in the workplace.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4053.816,
+      "endTime": 4059.417,
+      "text": "I think you know more about this than me and I don't know if we talked about on a previous podcast yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4059.437,
+      "endTime": 4098.705,
+      "text": "So what I think you're talking about, jimmy, that I I share an article with you that was actually from a trade union, um, and as a sort of proposal for a bill that they wanted to to to put in place, which was aimed at protecting people's rights. Now, you know, kind of cynically, also was protecting, um, you know, the use of a trade union, but some of the things that they were asking to be put into law, would, you know, limit the, the kind of things that could be replaced by ai, would limit this, I think, would help with the speed of it, um, and they wanted that to be something that was kind of put into a kind of protection of rights from AI legislation.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4098.765,
+      "endTime": 4132.339,
+      "text": "Now, whether that's ever going to be considered in that guise, I would think at some point, you know, all the trade unions are going to have to do something similar and maybe they all get together and put something in place. We talked in previous episodes about, you know, the kind of industries that unionize and maybe that will help slow things down. But it is interesting to see that, you know, in the uk, which is not really a particularly, you know it's not a heavily unionized country, but the unions are starting to, you know, make noises how successful they are. I don't know. So maybe to end the episode, I just wanted to give one other example.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4132.399,
+      "endTime": 4172.241,
+      "text": "So google, ibm indeed eightfold accenture intel, microsoft and, along with six advisors, have formed this thing called the AI-enabled information and communication technology workforce consortium, which is a bit of a mouthful. It's led by Cisco and it aims apparently to help individuals whose roles have been displaced in the tech industry by training them for new opportunities. So this is about affecting employees to upskill, reskill, find them training programs and things that are able to help them transition in the labor market. I kind of see this as trying to get out ahead of regulation and the reason.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4172.262,
+      "endTime": 4209.301,
+      "text": "I think this is really interesting. I think this shows that organizations and industries know that regulation is coming. The Premier League in football is trying to put a salary cap in place at the moment, and I think that the thinking is they're trying to get ahead of an independent regulator. So I think this is a good piece of news in a way. I'm quite cynical about the reason for it, but I think what it shows is that you know regulation is coming. The issue of jobs is. It's definitely. I mean, we said since we started this podcast. We started this podcast because we thought not that many people were really focused on jobs.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4209.73,
+      "endTime": 4245.064,
+      "text": "And then you know there are more and more articles coming out, there is more and more interest in it, there are more and more people who are worried about their jobs and the fact that organizations are like that are getting together and finding ways to try and help their workers you know, great as it is, the cynic in me says that shows that they know that regulation is coming and getting out ahead of that is potentially going to help them. So I guess it's good and bad news, but it's, if nothing else, it's proof that you know the change is is coming and those in the know they're already doing something to get ahead on it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4245.692,
+      "endTime": 4254.58,
+      "text": "So I think that's maybe a good way to finish. I know, jimmy, I don't know if you want any last thoughts on on jobs before we uh, before we finish off no, just I agree.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4254.641,
+      "endTime": 4300.159,
+      "text": "I think. I think since we started this podcast it isn't that long ago, but it seems to be there's more and more talk of regulation, what the effect is going to be on jobs, so you know, and how AI is starting to be introduced into the workplace in general and the kind of the backlash around that, all the things we're talking about on the podcast. So I totally agree. Our podcast is pretty topical right now. I think that I think that it's going to continue to trend that way and I think, as I said I said, as I mentioned a little bit earlier, I think it's going to become. My feeling is it's going to become more and more difficult to hide the fact that ai is impacting jobs and roles, um, and so it's going to just become a bigger and bigger topic that we can continue to explore on the podcast.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4300.93,
+      "endTime": 4340.757,
+      "text": "Okay, so let's call it a wrap on today's episode. That has been really interesting for me to just kind of talk that things back and forth that we've been kind of exchanging messages about for a while. I hope that's interesting. It is not. You know, we don't want to be a podcast that just talks about developments and the latest news, but I think, like I said, so much has happened that it's worth us kind of bringing ourselves up to date before we get stuck into potentially some more industries in the weeks ahead. So thanks a lot for listening. Just another call out, please, people, if you enjoy the show, please do subscribe to it so you get it downloaded automatically.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4340.877,
+      "endTime": 4357.201,
+      "text": "The more subscribers we get, the more people that download, the easier it is for us to get more interesting and higher profile people to speak on the podcast and to join us for interviews. So thanks everyone for your support and we will see you next week for another episode. Thanks, thanks a lot, bye-bye.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 4357.911,
+      "endTime": 4386.647,
+      "text": "Thanks, I'm flipping the script. Let me spin around About the open source AI models. With prime time shine, they coming up quick, Closing in on the tech giants. Better watch your step, y'all, because we ain't staying silent. Big tech think they slick, but they better be winning. Open source AI models bringing innovation to the air. We breaking barriers, Level. We're bringing innovation to the air. We're breaking barriers, leveling the playing field. No fancy commercials, just real skills revealed. We open up the source. Let the knowledge flow. Ai models for the people. It's time to let them know Big tech got their stock, but we got the heart",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 4392.077,
+      "endTime": 4396.729,
+      "text": "and with creativity on our side, we don't tear them apart.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 4420.99,
+      "endTime": 4439.345,
+      "text": "It's so my lock bar. We open up the source. Let the knowledge flow. Ai models for the people. It's time to let them know Big tech got their stock, but we got the heart and with creativity on our side, we go a damn apart. Thank you.",
+      "chapterIndex": 8
+    }
+  ]
+}

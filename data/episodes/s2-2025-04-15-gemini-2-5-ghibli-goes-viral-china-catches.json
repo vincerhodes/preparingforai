@@ -1,0 +1,1109 @@
+{
+  "slug": "s2-2025-04-15-gemini-2-5-ghibli-goes-viral-china-catches",
+  "buzzsproutId": "16982273",
+  "title": "GEMINI 2.5, GHIBLI GOES VIRAL, CHINA CATCHES UP: Jimmy & Matt debate their favourite AI stories from March/April 2025",
+  "date": "2025-04-15T13:00:00.000Z",
+  "season": 2,
+  "durationSec": 3198,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16982273-gemini-2-5-ghibli-goes-viral-china-catches-up-jimmy-matt-debate-their-favourite-ai-stories-from-march-april-2025.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail The race for AI dominance has taken an unexpected turn as Google emerges from the shadows with Gemini 2.5, a model that has quietly claimed the top spot across virtually all benchmarks. This free, lightning-fast system boasts a million-token context window that's revolutionizing complex tasks like coding and creative writing. Meanwhile, as we debate model capabilities, something more profound is happening - the traditional Western lead in AI development is rapidly shrinking. Deep Seek's integration throughout Chinese applications reveals a stunning technological leap that has experts revising their estimates of China's AI capabilities. What was once described as a \"two-year gap\" has collapsed to mere months, with Huawei's chip innovations and clever architectural improvements enabling competitive performance despite hardware sanctions. The story isn't just about model performance but economic efficiency - Deep Seek's affordability has triggered widespread adoption across businesses that might have previously hesitated. Perhaps most surprising is OpenAI's announcement of their first open source model since 2019, signaling a potential shift away from the closed systems that have dominated commercial AI. This move, likely motivated by competitive pressure, comes alongside their remarkable image generation breakthrough that's gone viral for transforming photos into Studio Ghibli-style animations with unprecedented accuracy. As video generation also takes steps forward with Runway ML4, we're witnessing a comprehensive advancement across all AI modalities, suggesting we're entering a new phase of competition where no single player dominates the field. Want to stay ahead of these rapid developments? Subscribe to our podcast for regular updates on the evolving AI landscape and what it means for businesses, creators, and society at large.",
+  "summary": "A March/April 2025 roundup: Google's Gemini 2.5 tops every benchmark and the LLM Arena blind tests while being free, fast and carrying a one-million-token context window; OpenAI's new image generator ignites the viral Studio Ghibli trend - to Hayao Miyazaki's horror; DeepSeek becomes the default API for cost-conscious startups; OpenAI muses about open sourcing; and Matt makes the case that China's cost innovation is the story Western media keeps missing.",
+  "keyTalkingPoints": [
+    "Gemini 2.5: top of all major benchmarks and LLM Arena, free (for now), 2-3x faster than Claude, 1m token context window with desktop streaming - Google 'has got their act together'",
+    "ChatGPT's image generation is a different level: not a diffusion model, renders perfect text, handles 22-line prompts - and went viral as Studio Ghibli-style memes",
+    "Miyazaki, arguably AI's most famous critic, was horrified that his hand-drawn style became the AI meme of the moment",
+    "DeepSeek economics: every investor and entrepreneur Matt spoke to had switched to DeepSeek because of API costs - China's efficiency drive undermines Trump's $5tn AI investment plans",
+    "OpenAI openly discussing open sourcing a model - Sam Altman says they're on the 'wrong side of history' on closed models",
+    "Deepfake-era caveat: Jimmy warns the 'easy tells' for AI content are model-specific and plenty gets through; Matt notes every new model now advertises 'reduced hallucinations'"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Gemini 2.5 is genuinely the best all-round model right now - fast, huge context, and free",
+      "China's DeepSeek-led cost revolution is real innovation; the West should watch it but also benefits via open source",
+      "The new image generator is next-level closed-source tech - anyone should try it despite the paywall"
+    ],
+    "matt": [
+      "Google finally recovered from the 'black Nazis' image fiasco; but being best at everything matters less than ecosystem integration",
+      "For most users the 'best model' is irrelevant - practical, agentic use cases now drive the excitement, not novelty",
+      "China is dismissed in Western media despite leading cost innovation - 'watch out for China'"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-04-15-gemini-2-5-ghibli-goes-viral-china-catches-4363-within-the-next-couple-of-years-the-frontier-ai-",
+    "s2-2025-04-15-gemini-2-5-ghibli-goes-viral-china-catches-2477.4-even-if-disney-and-universal-win-against-midjour"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Gemini"
+  ],
+  "chapterCount": 6,
+  "turnCount": 148,
+  "chapters": [
+    {
+      "title": "Episode Introduction",
+      "startTime": 32
+    },
+    {
+      "title": "Gemini 2.5 Dominance",
+      "startTime": 116
+    },
+    {
+      "title": "Chat GPT's Stunning Image Generation",
+      "startTime": 385
+    },
+    {
+      "title": "Deep Seek's Integration in China",
+      "startTime": 875
+    },
+    {
+      "title": "Open AI's Surprising Open Source Move",
+      "startTime": 1470
+    },
+    {
+      "title": "Runway ML4 Video Generation Progress",
+      "startTime": 2856
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 35.893,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. urgent need for safe development of AI, governance and alignment. Looking for some happiness, but there is only loneliness to find. Jump to the left, turn to the right, looking upstairs and looking behind. Welcome to preparing for AI with me, smirvish D Wool.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 36.333,
+      "endTime": 37.815,
+      "text": "And me, Trevor Herndon.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 38.235,
+      "endTime": 58.251,
+      "text": "Yeah, that's right. Yeah, yeah, Good. Yeah, I'm really tired this week. I was going to tell people that to start. I'm really tired this week. I was going to tell people that I'm wrecked. Jimmy's Jimmy's tired. I've come to return the podcast and found him asleep. Um, he's literally just woken up. I've just got back from South Africa and New. York, where you've been doing some AI research.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 58.692,
+      "endTime": 62.683,
+      "text": "Uh yeah, In the Outback, not Outback, Safari place.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 62.703,
+      "endTime": 66.252,
+      "text": "You were trying to find places in the world that were untouched by AI, right?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 67.082,
+      "endTime": 87.311,
+      "text": "So you went to New York, yeah, yeah. And then you went to South Africa. Yeah, all the way around have they been touched by AI? South Africa felt very much like it has not New York. Actually, I've never been to the States before at all. It felt very familiar and not very AI-ish.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 88.403,
+      "endTime": 89.028,
+      "text": "Have you been touched?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 89.048,
+      "endTime": 93.966,
+      "text": "by AI. Yeah, definitely Were you touched by AI on your trip. Not inappropriately.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 94.46,
+      "endTime": 117.024,
+      "text": "Well, anyway, welcome to Preparing for AI. And today's episode is not officially a roundup episode. I don't know why it's not officially one. I think only because the one we released two weeks ago was um, it wasn't two weeks ago, it was ages ago actually but this is a roundup episode, um. So we're just going to do the usual kind of looking at the latest ai news. Um, there's been quite a lot yeah, we're going to be.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 117.345,
+      "endTime": 139.628,
+      "text": "Yeah, there's loads to round up actually, so should we talk about gemini 2.5? Okay, uh, just off the top of your head, so I think I was gonna do this one. Um, gemini 2.5. So yet again. And, uh, we say this almost every roundup, to be honest, but, like, yet again, the there's a new llm at the top of the leaderboards.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 140.35,
+      "endTime": 164.571,
+      "text": "Um, so let me just say, because it like happened so quickly that when you came back the first time I saw you and we said, oh, we needed an episode, and you told me that gemini 2.5 was the best model, and I was like, oh really, oh, I didn't know. I mean, it's like, yeah, we used to know every time. Now it was just like I don't know, I and I sort of don't really not, I don't care, but it's like it sort of seems irrelevant, because by the time this goes out it might not be no, it's true.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 164.731,
+      "endTime": 168.407,
+      "text": "I mean to explain, uh well, what's been at the top of the leaderboards recently.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 168.448,
+      "endTime": 173.246,
+      "text": "So grok, grok 3 deep seek was the first one to kind of shake it up, wasn't it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 173.386,
+      "endTime": 217.01,
+      "text": "deep seek the thinking model. So that was all this year as well, and we're in march but in sorry, 3.7 claude possibly or roundabout 3.7 was briefly at the very top for specific use cases. I think the difference with there's been, there's been the the thinking model revolution recently which, like has happened basically over the last couple of months, um, I think I think, gemini 2.5 is a little bit different in that it it was. It's actually basically is top of all the benchmarks. So Claude 3.7 was the best model for coding, but wasn't necessarily better in other areas. Gemini 2.5, so it's a model by Google.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 217.841,
+      "endTime": 254.364,
+      "text": "Google have been pretty quiet, but we've said for a long time that they're one of these companies that potentially are just going to do something like this Bizarre to call it like the dark horse, but it kind of feels like that, doesn't it? But Gemini 2.5 has been, and when we talk about top of the leaderboard, just to sort of clarify a little bit, so there's something called LLM Arena for people who aren't familiar, and this is basically where humans use these models, but you don't get to to, you don't know which model you're using, so it's all like a blind test and then humans ask the same question and get given different answers and then choose which one they think is the best.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 255.406,
+      "endTime": 291.302,
+      "text": "And so gemini 2.5 was this mystery model for a while on llm arena and they tend to release them a little bit earlier there as well. And yeah, gemini was like topping all the charts there and then they released it and then you found out it was like top of all these benchmarks, and so it's literally I think there's like eight different benchmarks around human type reasoning, natural language processing, coding, that kind of stuff, and Gemini just is like the best at all of them and it's free and it's completely free uh, at the moment, I guess we don't know how long that lasts, but the moment is free, isn't it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 291.784,
+      "endTime": 317.929,
+      "text": "it's completely free. Yeah, this is the thing about it. So I was. I was quite impressed because I I mean, I, we're claude fans. There's no secret there. Uh, I've been using claude's 3.7 for doing coding and all this stuff, and this model came out again, sort of just out of nowhere, and when I went to try it, it's like it's really good, but it's also really fast. It's much faster than Claude Probably, yeah, at least two or three times faster.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 318.2,
+      "endTime": 321.811,
+      "text": "Reasoning or non-reasoning is this this is thinking, so we're reasoning.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 322.2,
+      "endTime": 367.294,
+      "text": "Everything it does. Yeah, yeah. So the specific use case I've been using lms for the most recently and where you, where I need the best one is code, is coding using cursor, which I talked about on a previous episode, and for coding up like an entire uh website and, and actually cursor hasn't even been optimized for for gemini yet. Um, it's just significantly quicker than claude. Like claude, when you're doing stuff like that, it can take quite a while. Um, and this, this, uh gemini models, like incredibly, incredibly fast. So, yeah, if you want to check out the cutting edge models, do a quick search for google gemini, I think it's like 2.5 pro pro yeah yeah, and you can um, I think you go.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 367.334,
+      "endTime": 392.225,
+      "text": "You go to like a. It's like a workshop type thing, it's not like a typical chat gpt type interface, uh, and you can use it there and it's multimodal, like it can. I haven't even had a go with it, but there is an option to stream your desktop to it as well, which looks pretty interesting. I think you, you basically do like a, almost like a screen share, like you're sharing your desktop and I as well, which looks pretty interesting. I think you, you basically do like a, almost like a screen share, like you're sharing your desktop, and I would imagine you can chat with it about what's going on on your desktop in real time.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 392.946,
+      "endTime": 394.65,
+      "text": "So what so almost agentic?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 395.592,
+      "endTime": 405.126,
+      "text": "so I don't think it can interact with it in terms of being a genetic, but it can view it, so I presume it can like solve problems with you in real time based on what you're looking at on your screen.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 405.266,
+      "endTime": 445.442,
+      "text": "I presume I haven't tried it actually, so yeah, I mean when, when we said a minute ago that we'd um, that we sort of called or I called it a dark horse, and I was thinking back probably a month ago, we recorded the episode where we looked at like the best models at the moment, and I remember specifically calling google the kind of forgotten model, and we didn't really talk about it much, which was, you know, appropriate, because at the time, I mean, I guess the thing is it was never a, it was never that gemini was a bad model, it was just that there was nothing, it had never been the first one so it always come out and there was already, you know, good models, so it didn't do anything different.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 445.863,
+      "endTime": 481.147,
+      "text": "It never kind of had anything that seemed to make it stand out. Um, but we always thought that google had, because they've got the the whole kind of ecosystem, that it was likely that at some point, if they were not going to be the best model like they, I think we said at one point, like anthrop, anthropic, we saw potential problems for because they were not big enough and they didn't have enough of an ecosystem there to sort of build on. I'm not sure if that's the case, because actually it seems like, because they have a lot of their revenue through coding and through the API, actually they have got their kind of niche to some degree, but with Google, well, they've got Amazon backing them yeah, true,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 485.12,
+      "endTime": 516.749,
+      "text": "yeah, and backing them, yeah, true, yeah, it's not like they're a little startup, is it? um, but it does feel like with google now, like at this point it's like right, they're banging it now and I and I kind of feel like they've got their act together, like it was also the issues they had. Remember the whole kind of woke thing where they had the images of what black nazis and all kinds of weird historical images where they were. They were, you know, using, I mean, as a black nazi. Thing's a bit weird. So I don't know that there weren't black nazis like that's not necessarily a thing that didn't exist, but I know it was it was basically trying to be too diverse in the way that it was generating diverse images of historical figures.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 516.809,
+      "endTime": 542.607,
+      "text": "So you could ask it for a image of a red indian and it would give you a white version of one, and then, equally, you could have like yeah, black nazis, interesting example, but yeah well, that was one that came up when I saw it yeah, but then the more I think when I, when I said it and thought about it, I thought well, actually, like there are black nazis, there are nazis of all colors, so that's not actually historically incorrect. No, it's probably an unusual it's an example.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 542.747,
+      "endTime": 570.046,
+      "text": "It is an unusual example but in a sense, like sometimes the thing that we talk about these kind of image generation models and I remember the episode where amy amy aisha brown was on and she was talking about how, if you ask for a picture of an autistic child, it always brings up a sad white boy. So there was something built into the kind of biases there that I think what they've done is like turn the biases the opposite way, flipped it. Yeah, anyway, that was. That was the kind of I think what everyone remembers is the kind of big mistake that google made.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 570.067,
+      "endTime": 614.104,
+      "text": "I think for a while they they were kind of tarred by that they made a few faux pas, I think, um, and also it feels like, I mean, we, we we're obviously really into it, so we probably sort of see all every single piece of news, but it feels like google are just very quiet in that respect, like they're not. Claude is all. Claude has always been the best at coding. Um. Grok is famous for being, you know, complete, like, like having no biases and no filters in there, no guardrails, um, although most of them don't now anyway. And then, uh, chat gpt is just famous for being the first and and and actually quite often been overall the best multimodal and most capable model overall.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 614.846,
+      "endTime": 618.984,
+      "text": "Um which I guess we're going to talk about a little bit later in the episode yeah, totally.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 619.425,
+      "endTime": 625.6,
+      "text": "But whereas, whereas google sort of have a usp on it almost in a way, I think the other thing don't still don't, though, do they.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 626.441,
+      "endTime": 659.705,
+      "text": "Even with this model. It's the best at everything, which we've said to people a lot of time but it doesn't really matter to you if it's the best, because unless you're doing certain things you've given the example of coding. There will be other examples where people who have particular things they need to do, so I saw that programming, creative writing were two things that it was particularly good at. There'll be people who have specific use cases where they will definitely value it, but for most people they wouldn't necessarily notice a difference. Maybe they notice it's quicker. And also, there still isn't, in a way, a thing to bring you to the model, apart from the fact it's free.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 660.28,
+      "endTime": 668.795,
+      "text": "I do question, because you've used it a lot more than me. I do question, like because you've used it a lot more than me, like when we say it's free. You know ChatGPT is free, but if I use ChatGPT once I've done something for half an hour,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 672.2,
+      "endTime": 679.57,
+      "text": "it says you need to use the other model until 7 o'clock tomorrow morning. So is it free, like not unlimited, but for a reasonable amount of use, or is it free just for you to use it for 10 minutes and then it you know?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 689.85,
+      "endTime": 706.212,
+      "text": "it puts, you get to use it. It might not be the other amazing thing. Which is genuinely amazing with uh uh, gemini 2.5 and specifically for coding, but for other stuff as well is it's got a 1 million token context window, um, which is significantly that than almost all of them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 706.48,
+      "endTime": 718.708,
+      "text": "That was the thing that Gemini did have before was that it actually was already a factor, but no one really talks about it. It had a mass even on, I think, 1.5,. It had a bigger context window. It was a million. Yeah, can you explain what that is for people actually?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 719.16,
+      "endTime": 722.35,
+      "text": "Yeah, so token, you can roughly equate a token to a word.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 725.58,
+      "endTime": 764.4,
+      "text": "It's you can roughly equate a token to a word. It's not quite one for one. So, like some words are made up of multiple tokens. But if you, to keep it simple, if you think of as a token has been a word um, then then it's basically how many words it can retain in its memory before it almost like forgets the first one, so to speak. So with a lot of models when they first came out so went like GPT-3, I mean, I know we're going back a little way there I think it had something like a 4,000 token context window, which is quite short. If you think about 4,000 words, and actually it's probably more like 2,000 words, then you know after 2,000 words it would start to if you carried on the conversation.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 764.336,
+      "endTime": 787.433,
+      "text": "It would start to if you carried on the conversation it would start to forget the things you were talking about first. Um. Most models now have something like 120 000 token context windows as a maximum. Um and google has a million tokens. And once you start get to a million tokens, then you're talking about being able to have a whole novel in its memory effectively.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 787.861,
+      "endTime": 794.391,
+      "text": "Do you know what Precursor 7 Sonnet is? I think I remember that it was a big leap forward.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 794.72,
+      "endTime": 844.329,
+      "text": "I'd have to look it up, but I still think it's probably maybe a quarter Wow, so maybe 200,000 compared to Google's a million, and I think there's a version. I'm not sure this is the version that you can access uh for free, but I think they do have a two million context window version as well, so double it so anyway. I mean, it's something that google's models are already famous for it's. It also lends itself very much to coding, so it's not only the best model at coding, but like. A long context window for coding is quite important because when you're using things like cursor, you can end up having to like, especially as the code gets more complicated, as your code base gets more complicated, you can end up having to upload a lot of information into the context window every time you're talking to it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 851.36,
+      "endTime": 865.712,
+      "text": "The last point on this before we move on. Um, I just remembered one other thing that was supposed to be, you know what it kind of excels at, and that was it's the reduced hallucinations. Down now every model that's released. Now, one of the things that they talk about how is how it's reduced hallucinations, and it seems like there is you a methodology that's been sort of generally applied.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 868.981,
+      "endTime": 903.507,
+      "text": "Yeah, I mean, it hasn't ruled, it hasn't stopped hallucinating and I guess you know, in the near future they probably never will. And I think it's the reason for me it's kind of interesting is there is an acknowledgement, the fact that every model that comes out now is talking about reduced hallucination. Yeah, there's an acknowledgement. It's a key thing to try and reduce down hallucinations. I don't know if you've noticed anything from from using it, like I've noticed that models, the recent models that have come out, they tend to be better at telling you when they're hallucinating or warning you about it, um, which kind of helps.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 903.547,
+      "endTime": 909.161,
+      "text": "But I don't know if you've noticed with gemini 2.5 that there's a noticeable difference in hallucinations I haven't noticed that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 909.242,
+      "endTime": 918.495,
+      "text": "The. The main thing I've noticed with with um gemini 2.5 is it started telling me what to do, uh, which is a bit mad, I think I was talking to you about.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 918.535,
+      "endTime": 921.143,
+      "text": "We thought we're a few years away from that, but we've already started, haven't we?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 921.945,
+      "endTime": 939.042,
+      "text": "yeah, yeah. So when I've been coding with it, it's like cause, when you're coding with a model, it's sometimes you have to do stuff to help it do what it needs to do, because you cause it can't necessarily carry out as a jet, it's kind of an agentic thing. It can't necessarily carry out some actions for you. And so the other day when I was coding with it, it was.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 948.481,
+      "endTime": 976.411,
+      "text": "I basically hadn't realized that I needed to take these actions, so I asked it, I asked it, I told it that it wasn't working and it said it reminded me that I needed to go and take some actions. And then later on, in the same conversation, it started like adding reminders for user needs to do this, user needs to do that at the end of the, at the end of each conversation, just as a because it basically picked up on the fact that I wasn't really paying attention were you jet lagged?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 977.192,
+      "endTime": 978.594,
+      "text": "uh, well, yeah, was that pre-jet lag?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 978.834,
+      "endTime": 983.351,
+      "text": "and then it was just the other day, so okay, well, that makes sense. It probably knew, yeah nice.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 987.867,
+      "endTime": 1012.085,
+      "text": "So should we talk about the new? Well is it. It is new, isn't it? The gpt open ai is chat gpt image generation model. I don't know what it's actually called, but it's now integrated with chat gpt rather than being a kind of standalone yeah, so um, the big news here is everyone's decided studio ghibli is the ghibli ghibli, ghibli.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Gemini",
+      "startTime": 1012.145,
+      "endTime": 1014.368,
+      "text": "Sorry, definitely not ghibli is the uh trending.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1014.388,
+      "endTime": 1014.908,
+      "text": "what's the word Viral?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1023.74,
+      "endTime": 1024.945,
+      "text": "Yeah, it's the new viral.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1024.985,
+      "endTime": 1046.255,
+      "text": "Yeah, exactly, it's kind of a new meme. It's to do everything in Studio Ghibli style using ChatG, gpt. So, um, this has actually been in the news quite a lot, so if you haven't been under a rock, you've probably seen something about this. Um, but, yeah, gpt have released a. Um, it's actually a phenomenal image open ai open.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1046.315,
+      "endTime": 1047.599,
+      "text": "Ai have released. Sorry open.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1047.66,
+      "endTime": 1060.986,
+      "text": "Ai have released a new method of image generation which takes much longer but is actually pretty phenomenal. It's like much like I mean. Previous image generation stuff couldn't get text right. It couldn't spell things right.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1062.28,
+      "endTime": 1073.503,
+      "text": "You can edit these now like, completely, perfectly, the text. You can write like a 22 line text prompt and it will take everything into account Like it's. It's another level, isn't it? It's a completely different level. Yeah, take everything into account, like it's it's another level, isn't it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1073.469,
+      "endTime": 1109.222,
+      "text": "It's a completely different level, yeah, totally Totally. If you haven't had a chance to go with it, I think I think it's only on paid accounts, um, but it's, um, it's pretty awesome, uh, and some of the images that can produce like proper, like just like next level. It doesn't actually a diffusion model, as far as I can tell, as far as anyone can tell, because it's not. It's actually closed um source as usual from open ai. Uh, so, so, like you, but apparently it doesn't use the standard diffusion model that's been used in almost almost all image generation, um, for the last couple of years since this stuff came about.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1109.282,
+      "endTime": 1127.983,
+      "text": "So, um, yeah, I'd say, just check it out, like, really, really, really impressive. If you haven't seen all the studio Ghibli stuff online, um, I'm not saying that, right, you are, you are now. I am now Okay. Studio Ghibli. Anyway, apparently the, the creator of the studio Ghibli stuff, is absolutely horrified.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1128.063,
+      "endTime": 1145.357,
+      "text": "But I was going to say this is the irony of it, the fact that that's what's gone viral, is that he is literally the person who hates AI more than anyone in the world, yeah, and thinks it's destroying the entire sort of industry and art that he loves. And it makes sense because he draws everything from hand",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1151.262,
+      "endTime": 1188.345,
+      "text": "and that's why you know this Jujo Ghibli stuff is. I mean, if you I don't know if most people listening will know what it is Things that spirited away, how's moving castle, totoro, I guess, the sort of famous ones, but it's everything is kind of hand drawn. The amount of frames that they have to draw to do it, it's like so, so labor intensive, like kind of have have just pushed back against any kind of technology to do these really really kind of um, you know, authentic vintage style of of cartoons, and now ai is basically just recreating it all. So it does seem kind of cruel that the viral thing that is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1188.506,
+      "endTime": 1205.206,
+      "text": "I mean it is really cool, like people are doing it. The main thing is that family pictures, so people get family pictures and do them, and it's not just studio ghibli style. You can actually like, you can actually choose specific films, and it will do that and it's not just that like you can do it for anything, can't you can do like 1980s baseball.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1205.807,
+      "endTime": 1244.18,
+      "text": "um yeah, people have been doing baseball game. You can do any kind of theme that you want and it's amazing, south park, like yeah, whatever style you want. And the difference is like previous image generation models would sort of have a go at this, but they would. They would like mess around with the picture, like so, if you know, like you say, if you had a family photo, it would like they would. Previous models would sort of do some kind of really rough approximation, but generally like wouldn't really have any past, any resemblance. These ones look like it's genuinely like. It's genuinely like an artist has taken that photo and produced it in a different style.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1244.3,
+      "endTime": 1275.545,
+      "text": "Basically, I don't know if you're aware of this, but because I was doing a bit of research for this earlier and um, because so previously when you used chat gbt and you tried to create an image and use what's called dali at the time, basically dali wasn't integrated. So you'd give a prompt and what it would essentially do is go and send that prompt into dali and then pull the image back in like it wasn't integrated. Now it's integrated 4o, I think, is the model that it uses. So it's it's not using the most up-to-date model, but it now has access to all of 4.0's training data to help it to create the image.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1276.127,
+      "endTime": 1324.066,
+      "text": "And that's one of the reasons why this is better. And there was a couple of examples I'd given. Someone said create an image that shows why san francisco is foggy. And it created an image. You know it was able to reference 4.0 to find out why san francisco is foggy and then to put that into then a kind of educational image, whereas before you would have had to say you could say make me an image of san francisco that is foggy, but if you wanted to explain why it couldn't because the image couldn't reference training data the image could just follow your text prompt right. There was another example which I I wasn't that blown away by this until they kind of explained it that they asked it to create this comic book, um, based on a unicorn with an upside down horn, and they said every other image creation tool out there will turn the horn the right way up, just can't do it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1324.186,
+      "endTime": 1355.87,
+      "text": "We couldn't do it, but this one with this whole thing kept the horn the wrong way. Now that doesn't sound that phenomenal, but the point here is that you know when you're prompting it to do things. It's not kind of limited. In the same way, you gave the example of text. I think for me that has been the biggest thing with image generation is even the best ones that promise that the text will be perfect. It wasn't perfect, you know it was. It had got better, but it would still make mistakes. With text you still saw the kind of not so much the kind of six fingers on girls, but you know there was still a bit of that to some degree, the making mistakes.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1356.05,
+      "endTime": 1396.866,
+      "text": "Now these images are like you can kind of create what you want to do. It sort of feels sad in a way that you know I think this is it diminishes art even more. It diminishes art even more and it's better, but you know, it is incredibly fun and it's good enough that you can use it, I guess, for actual practical uses. So it's not now just a pure novelty tool. The quality of it is good enough you can use it for, I think, things which are, you know, genuinely kind of worthwhile and will will make time savings or, you know, make things better than they were previously. So, although I have a kind of sadness for what this is doing to art, because I think it is, you know, taking away yeah, I don't think it's destroying you, but I think it's taking away.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1397.348,
+      "endTime": 1400.483,
+      "text": "Um, it does also have like a lot of merits, yeah for sure.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1400.604,
+      "endTime": 1412.812,
+      "text": "And like, like I mean so you could create logos previously, but not if they had text in them. Really like now you can just create whatever logo you want and it'll, it'll work we said we need to update our logo.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1412.852,
+      "endTime": 1427.083,
+      "text": "This is our 50th episode, so maybe we'll use the image generation to you know, sex up our current logo rather than creating a completely new one yeah, yeah, just pimp it out and pimp it up a little bit with, yeah, a bit of bit of gpt4o love yeah",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1432.051,
+      "endTime": 1433.253,
+      "text": "so deep seek.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1433.433,
+      "endTime": 1436.278,
+      "text": "I know literally nothing about this, so I'm quite intrigued.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1436.678,
+      "endTime": 1477.626,
+      "text": "We did. We did an episode on deep seek. Then we did an episode which that episode on deep seek was our most popular episode since the first episode, which is, which is pretty awful I wish people would stop listening to the first episode and then we said we'd stop talking about deep seek, so we need a. We did a second episode about deep seek and then I think we did another episode just after where we also talked a lot about deep seek. So you know, I don't want to talk about deep seek anymore, but we need to talk about deep seek again. Um, because their impact I think is still kind of resonating and is still creating kind of effects that this is about deep sea but it's also a kind of china and chips and kind of huawei piece.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1477.646,
+      "endTime": 1522.188,
+      "text": "So the first bit, deep seek have brought out um v3.1, um, which is um, a non-reasoning model. So this is not the kind of there is going to be, I think r3 or r2, r2 is it r1 or r2, so the first one was r1. Yeah, well, anyway, there's gonna be a new reasoning model which apparently is going to kind of potentially be at the top again, and there's all this kind of expectation. V3.1 is not that. V3.1 is an upgrade on their original model which was released in December when no one actually heard about it, which was version three For the technical stuff. So it's got transformer-based architecture, 560 billion parameters.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1522.88,
+      "endTime": 1560.706,
+      "text": "It uses that mixture of experts model. It has support for a context window of a million tokens, so it matches Gemini 2.5. Like I said, this is not a reasoning model, um, but it shows, you know, really really high performance um support for 100 languages with near native proficiency. It has apparently demonstrated 38 reduction in hallucinations. So again talking about reduction hallucinations, but those of you who listen to the model episode will remember me saying that um, deep seek was the sort of worst hallucinating so that is, I like I like the statistic a 38 percent reduction in hallucinations.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1560.726,
+      "endTime": 1564.801,
+      "text": "That sounds like a hallucination in itself. It does, doesn't it? Yeah?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1565.163,
+      "endTime": 1624.47,
+      "text": "but also like. So 62 percent of hallucinations are still there. That also sounds not that impressive, to be honest yeah, I suppose. So it depends how what percentage it had before but then I researched this on perplexity so it could be a perplexity hallucination yeah, exactly, um, anyway, I'll believe it, but yeah, um, like yeah, enterprise customers have api use of it. It has apparently a chrome extension that's coming out. And the one thing that I kind of wanted to talk about here, because it's something I've noticed in the in the last few weeks. So I talked a few times on the podcast about how you're being in china, about the difference in the way that ai is integrated with stuff and that ai is integrated with a lot of things, um, that is not integrated within other countries, but that we didn't really have people using chatbots on their phones or iPads or whatever in the same way as we did in the West with sort of ChatGPT and Claude and things like that, and how DeepSeek was what had kind of really pushed that into the mainstream.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1625.16,
+      "endTime": 1665.929,
+      "text": "The other thing that I've noticed recently is like DeepSeek in China is integrated in everything, like everything. Like you go into Baidu Maps Baidu Maps is this sort of equivalent of Google Maps here and you've got a DeepSeek logo and you click on it and there's an AI feature. I mean it is like it is crazy and talking to friends who are, you know, relatively senior in companies or who run their own businesses or people who are working in sort of accounting and stuff like that and they're all talking about yeah, we've got, you know, we've got ai integrated, they've got deep seek integrated in this and we're like it only came out two months ago and it's just integrated in everything, like I.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1666.711,
+      "endTime": 1698.351,
+      "text": "It more and more makes me question. Like this idea that deep seek is this you know bunch of guys in a cupboard with a few gpus I mean that was sort of proven to be nonsense. They had a lot of money, but that this was a side project, like I'm pretty sure the you know chinese communist party is. You know, if they weren't backing them now this, then they're certainly backing them now. But they've got a lot more behind them than we thought, because the way in which they bought that model out was kind of shocking. It shook the foundations of the american companies. It's kind of bought open source forward.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1698.572,
+      "endTime": 1728.448,
+      "text": "It's changed, which we're going to talk about in a minute, but it's changed the way open ai are potentially going to do things. They're potentially going to go back to being a bit more open. You know it's been phenomenal, but we kind of said that with the models themselves. Well, actually, like it's not that the model is that much better. That's the key point. It's the economics. It's how, um, how cheap it is. It's how um, efficient it is. I think the way you're seeing this integration kind of shows that the examples that I was giving are maybe the kind of business like some of these, like I say, are big businesses.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1728.508,
+      "endTime": 1757.779,
+      "text": "Some of them are not that big and they're talking about we've got ai integrated with deep seek is like it's so much cheaper that maybe this is the thing that businesses that previously would be like you know they might have thought about it, but like they're not sure, they're not quite sure if it's the right time now. It's so cheap with deep seek and it seems that deep seat must have just gone on this massive charm offensive again to do all this stuff. I think they've got a lot more. You know people working with them and sales and etc. To get that integrated. But it's phenomenal like have a look.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1758.259,
+      "endTime": 1796.635,
+      "text": "You maybe don't use many chinese apps, as me, but if you look on chinese apps now you'll just see deep seek integrated all over the place. We chat deep seek integration. I'm not sure if it's there now, but there's supposed to be a way you can use it through the, through the mini app. I'm pretty sure they're using it on the background of, you know, delivery apps, everything like that. It's it's. It's crazy and they've got this new model coming, which you know, even if it's not the best model, I think it will be the like up there and it will be cheap and it will have some that there's going to be something about it oh yeah, and I think the way these things work is they they obviously develop the standard model first and then they add the reasoning later, which is the same for the other companies.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1796.98,
+      "endTime": 1821.65,
+      "text": "It's weird to talk about that, because reasoning in itself is something that's only a few months old. On that point, I do wonder. It's something I don't think we'll ever know, I wonder. I think there's three possible scenarios. I think one of them is that the Western companies, like OpenAI, were already looking at reasoning but were basically for want of a better word sandbagging.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1823.665,
+      "endTime": 1826.252,
+      "text": "And like they were just they were just keeping it behind.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1826.36,
+      "endTime": 1848.901,
+      "text": "They were keeping it back so they could, like, release things more slowly. And then the release of R1 has kind of made all these other companies release these thinking models straight away. The other option, which I think is less likely, is that it just completely caught them by surprise and they've scrambled to catch up and hadn't even thought of thinking model, reasoning models, which I think is less likely. I think they probably but they got it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1848.981,
+      "endTime": 1850.665,
+      "text": "They got their act together afterwards pretty quick.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1850.686,
+      "endTime": 1852.35,
+      "text": "I think they were sad. It was like within a week or something.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1852.55,
+      "endTime": 1853.212,
+      "text": "I think they were sad.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1854.34,
+      "endTime": 1858.789,
+      "text": "And I don't know what the third option was. I'm tired and jittery.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1859.771,
+      "endTime": 1880.195,
+      "text": "You've mentioned that. Yeah, yeah, the thing with DeepSeek that is kind of for me is so I don't want to say amazing, but it is still amazing that they did it without access to the best hardware, which is what all like they don't have?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1881.08,
+      "endTime": 1885.825,
+      "text": "I mean, maybe they do have the best chips and you know they've just got them through back channels.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1885.985,
+      "endTime": 1929.313,
+      "text": "Yeah, that's the thing They've innovated, in a way that, even if it involves some degree of copying from chat, gpt and you know there are various kind of accusations of how they did it even if they did all that, even if they still had to innovate to find the way to do it cheaper and to do this inference cheaper and, to you know, find a way to make it more efficient. I mean, you know they're also like in just in terms of how they're advancing. So v3 that was released in December that's the one just before that had 128,000 tokens and now it's a million Like, just like the leap forward in terms of how quickly they've kind of made that leap is just pretty staggering.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1930.061,
+      "endTime": 1977.765,
+      "text": "Yeah, they seem to have basically levelled the playing field almost immediately. And who knows, I mean it's possible that R2, the next reasoning model they release, which probably won't be that far away, might leapfrog everything again. I don't know. It's really interesting like it like for a while it looked like open ai were going to have the very best models, like almost all the time, and they don't seem to anymore. Like it's gemini is the best model now. Claude was for a while like it just seems to be switching hands all the time right now and I think open ai well, maybe they didn't have the most resources available to them, like clearly xai and and google obviously do have enormous resources available to them.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1978.026,
+      "endTime": 1984.651,
+      "text": "I haven't heard from llama for a while. It's possible we'll get a new open source model from llama tomorrow. That is better than all these models.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1984.691,
+      "endTime": 2026.042,
+      "text": "I don't know so I was listening to nate whitmore's podcast the other day and he was talking about a kind of theory that what china is potentially doing here is, you know where the us had the lead in terms of those closed source models and the kind of software side of it that they could sell to people is by open sourcing and kind of just throwing that out, it kind of gets rid of the ability for china, for us to kind of lead and generate all the revenue through that, because it's all kind of open source, and then china at some point later can pick up what it does well, which is creating the kind of hardware and not necessarily like the top end chips, but, you know, selling the actual physical stuff and creating it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2026.102,
+      "endTime": 2082.504,
+      "text": "And it makes a lot of sense. Like it absolutely makes a lot of sense, like you know how they did things previously is follow the same kind of model, because it does feel like the closed source models, like maybe the maybe it was never going to. You know it was never in the long run going to work, because you've always said, like you know they're not that far behind. But deep seek was the thing that has kind of shaken that up. And there was also like and this is not just in one place like there's a lot of this. Um, even people like mark andreessen, who you know were saying previously that the us was like two years ahead of china, and now they're saying, oh, it's three to six months in some areas, and in some areas it's probably level and in some very specific areas, china may even be ahead like it's like how quickly it's made that up is absolutely crazy and a lot of this is driven and you know, credit to kapila gray shaw, you know christy loke, who've had on this podcast for for kind of talking about this stuff.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2082.705,
+      "endTime": 2092.508,
+      "text": "You know well, before we thought about it but a lot of this stuff has happened because of chip controls and because you know the us has kind of driven this innovation yeah, they've pushed.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2092.95,
+      "endTime": 2131.763,
+      "text": "They've pushed them into a corner where they've had to innovate and there are um, there are a lot of smart people, like you have to. It's been talked about a lot recently. Like you people have still got. I think there's a misconception that china is still in this place where it's copying the West, where that was the case and it still is in some areas, like it definitely still is in some areas but they're also innovating and starting to really really catch up and even lead in some areas. I mean, the classic example right now is electric cars. It's got nothing to do with AI, but, like electric cars, china went from catching up to now leading.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2131.803,
+      "endTime": 2137.885,
+      "text": "Basically, they have the some of the cheapest and best electric cars on the planet but I can give you ai examples.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2137.905,
+      "endTime": 2175.752,
+      "text": "I mean, I said to you I was in wuhan a few months ago and there are, you know, plenty of self-driving taxis on the road there. I know there are some in the us, but you know that there's there's a lot of them in Wuhan. It's not the only city that has that. There are examples in Shenzhen, which is the sort of tech hub just over the border from Hong Kong. Drone delivery services are apparently just kind of the norm. There they're happening. I mean, when I say the norm, I'm not saying like every delivery is taking place via a drone, but it's there. That kind of the low altitude economy is a big part of China's five year plan.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2176.36,
+      "endTime": 2217.224,
+      "text": "It's a massive thing. I mean, they're already talking about autonomous helicopter transport in the next five helicopter taxis, autonomous helicopter taxis in the next five years or so in parts of China. Like there's some phenomenal stuff. I want to talk about Huawei, actually, because I think this is kind of important in terms of, like it's Huawei's chip technology that is contributing a lot towards this. So, because of those sanctions, huawei are basically you know, I mean they're not an SOE, but they're basically the national tech company of china. Now let's be honest. Um, yeah, they've got these chips the ascend 910c, which is designed to rival nvidia h100s.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2217.445,
+      "endTime": 2251.53,
+      "text": "They're not as good as, obviously, the very top chip, but I think the point is where we thought previously is like you have to have the absolute top chip. With the improvements in the architecture that that we've seen from the likes of deep seek, it's like they need chips, but they don't necessarily need the very top chip. There's also some talk 40 of nvidia's revenues apparently may come from china, not necessarily directly, but because a lot of chips are sold to vietnam and singapore and they're then illegally kind of exported into china that way. So I don't know, I mean, maybe that means like there are more nvidia top end chips in china than there's supposed to be.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2251.771,
+      "endTime": 2275.901,
+      "text": "Yeah, um, but it definitely feels like this sort of huawei have really really been pushed to innovate and and create these kind of better chips. And I, I like, I'm wondering for the first time it's like it's not like it's china gonna win, because I don't think there is like a winner. It's not like going to the moon, it's like one gets there, no, okay, if we got to the moon, but whatever, no, but are they can, then that's it. But it's like can they be ahead at some point and can they be neck and neck and pushing forward and going backwards?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2276.061,
+      "endTime": 2286.989,
+      "text": "you know, I think probably they can now they seem to, yeah, in general in ai they seem to be, they seem to be roughly in that kind of space. I don't know, like being three months behind doesn't seem that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2287.069,
+      "endTime": 2291.475,
+      "text": "They're collaborating with DeepSea and it feels like it's the DeepSea-Huawei collaboration.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2296.8,
+      "endTime": 2310.944,
+      "text": "That is the kind of key thing in terms of what China is potentially going to do. But also, if you're three months behind, that's basically effectively not really behind at all. Two years behind is significant. Two years behind could mean, by the time you've caught up, like the game's over okay but is it because two or three?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2310.985,
+      "endTime": 2330.834,
+      "text": "months behind. But is it because six months ago no, not six months. Three months ago china was two years behind. Apparently now it's three months behind or not? So like they were the. The point is like, when people say they're two years behind or they're six months is like well, if they were two years behind, but then two months later they were three months behind. They were obviously never two years behind no, no, it's all.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Gemini",
+      "startTime": 2330.914,
+      "endTime": 2333.704,
+      "text": "It's all kind of like they. Clearly it's just a figure thrown out there isn't it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2333.744,
+      "endTime": 2365.275,
+      "text": "they clearly were they clearly weren't, but I guess they were they're two years behind in what people knew about. yeah, exactly exactly like at that point deep seek hadn't come out and no one has seen anything like this. So I think I think it was just more that they showed their hands, so to speak. But what I mean is like pundits thought they were two years behind, and the difference between being two years behind and three months behind is like basically you're out of the game versus like you're neck and neck",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2373.76,
+      "endTime": 2374.463,
+      "text": "your neck and neck right.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2374.483,
+      "endTime": 2381.307,
+      "text": "So, in terms of like the choreography of this episode, this is a bit of a balls up, because I'm going to talk about open ai again. Um, which I probably should have talked about. We talked about the open ai model, but anyway, it's a different.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2381.388,
+      "endTime": 2391.028,
+      "text": "It's a different point, but you could just move this bit before the other bit and then the bit you've just said won't make any sense yeah, so if I've done that and this makes no sense, that's why we've done it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2391.248,
+      "endTime": 2407.229,
+      "text": "If not, then then well, either way it won't make complete sense, but good idea, correct? So yeah, open ai. Um. Apparently I haven't actually looked at the um tweet or x. What is a tweet called? If it's on x, is it called an x?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2408.01,
+      "endTime": 2409.092,
+      "text": "yeah, I think it's an x.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2409.413,
+      "endTime": 2415.629,
+      "text": "Is it you say I, I did an x, you say I x'd it, or do you still say I tweeted it, but on x?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2416.892,
+      "endTime": 2417.233,
+      "text": "I don't know.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2417.313,
+      "endTime": 2460.082,
+      "text": "Actually, I think it's an x okay, well, on x, someone either tweeted or x. No, sorry, someone didn't. The devil himself, sam outman, did um to say that open ai plans to release a new open weight model, um. Open weight is basically an open source model um we've discussed. It's like the difference in semantics between the two. But, for for clarity, an open source model. It will be the first open source model since gpt2 in 2019. I then looked this up because I thought let me check that that actually was an open source model. It wasn't an open source model when they first released it, so it seems like OpenAI have never actually been that open, but they did make it open afterwards.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2460.303,
+      "endTime": 2492.593,
+      "text": "So anyway, they are going to release a open source model. We don't know if it'll be the best model. We don't know why're releasing a a model and not saying what it is. But this is in line with their usual bullshit let's release 20 models at the same time, thing that they were supposed to not do. But this is a massive thing because it is and I guess, is why maybe the deep seat coming before this kind of makes sense is open. Ai, the company who were all about being open, that were the least open company, have now been pushed to the point where they are going to release open source models. Is this the end of closed source models?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2493.754,
+      "endTime": 2534.791,
+      "text": "um, oh, I, I think so. Yeah, I think so, like I. I I mean, I think google's model is still proprietary in that sense, and claude is as well, but it feels like it's moving more in the direction of open source. I don't know why open AI are doing this, but I think it feels like they're just confused at the moment, like everything they do is just a bit odd and a bit sort of disjointed. Like GPT 4.5 was clearly released hastily in my opinion, it wasn't the best at anything and the argument for releasing it was, it's like a bit more personable or something like that um, yeah, it was bullshit, wasn't it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2534.811,
+      "endTime": 2564.409,
+      "text": "uh, they obviously like released all their. You know, deep seat came out and then they released. Well, they, they already had a thinking model, but they released the. They opened it up so you could see what it was saying, see what it was thinking um, but then not as much as Deep Seek did. So they just seem sort of a bit baffled at the moment, a bit lost. The most exciting thing for me is the new image generation model, which actually genuinely seems cool but then hasn't had a massive hype around it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2564.802,
+      "endTime": 2567.827,
+      "text": "Yeah, it hasn't had a big fanfare around its release in a way, has it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2568.027,
+      "endTime": 2568.188,
+      "text": "No,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2572.74,
+      "endTime": 2591.573,
+      "text": "and they still have this weird thing where, which they said they were going to tidy up, but they still have this weird thing where you, when you try and use it, you have to choose between eight, six different models, or eight different models, and depending on which one you choose, you can use different features. So you, you can use deep research and search and image generation. They only work with certain versions and it's not. It's really not clear. Ironically, the deep research and search and image generation, they only work with certain versions and it's not. It's really not clear.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2591.515,
+      "endTime": 2629.023,
+      "text": "I run it. The deep research is probably the most phenomenal thing and that seems to have like. Obviously it has been announced but that seems to have kind of flown under the radar bit. We talked about it a little bit but that's pretty amazing. Um, I just I just had a quick look at a bit more detail. So it's the open weight model is a reasoning model, so it's going to be similar to open ai's 03 mini model, apparently so well, also similar to 01. So a reasoning model, um, multiple multilingual problem solving, so it will be in multiple languages. Developers can access and modify the model's trained parameters, the weights, without needing the original training data, which facilitates customization.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2629.444,
+      "endTime": 2644.461,
+      "text": "And just to clarify, because I actually wasn't 100 sure, but open weights apparently is halfway between open source and closed, so it gives transparency in how the models make connections, but it doesn't reveal all of the code or the training data so that's the sort of main difference, I guess.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2644.561,
+      "endTime": 2663.624,
+      "text": "Yeah, that's the whole thing about being able to make so basically open weight, change the underlying. You can't change the sort of base you can't change the base model in that sense, but you you well, you can't see what it's been trained on, but you can. You can fine tune it right, because the open weights means you can fine tune it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2664.587,
+      "endTime": 2683.57,
+      "text": "I was just thinking we keep slagging off um open. Well, I just slag off open ai because of Sam Altman. I don't actually dislike open AI itself, but we keep slagging them off for being closed source. But then Anthropic Claude, which we love, is also closed source. So Anthropic, if you're listening, do the right thing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2685.423,
+      "endTime": 2690.611,
+      "text": "Actually, yeah, that was my question. Is there any indication as to why they've done this?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2690.92,
+      "endTime": 2715.749,
+      "text": "from what you saw, I mean, there is an indication in the tweet from what I can see, but when deep seek came out um sorry, when deep seek r1 came out, sam outman, literally within a day or two, said yeah, we don't want to be on the wrong side of history, we think open source is the way forward. Which was like absolutely like quite obviously just a purely reactionary thing. So I think it is directly a response to deep seek, to be honest.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2716.691,
+      "endTime": 2727.031,
+      "text": "Yeah, I mean, I'm I'm not sure that all the all these companies do need to open source. I don't know what the benefit to open AI, open sourcing, their publicity models are, but like",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2730.8,
+      "endTime": 2772.024,
+      "text": "yeah, and their um publicity models are, but like yeah, maybe publicity like I don't. In some ways, I don't really mind whether they are or not. I think for me, the argument of open open source is almost as much about having competition as it is about having open source models, and my fear, like if you went back like a year or two ago, like 18 months ago, my fear was that everything was going to be concentrated in like one or two big tech companies and it feels like with the release of deep seek, that's just blown that out of the water I still don't buy that the open air model that they are giving to, you know, the dod is not a better model, or the deep seat model they're giving to the pla in china is not a better model so when we",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2772.044,
+      "endTime": 2807.064,
+      "text": "say when we say that these are, like, you know, they're open sourcing instead of closed source, like they're not open sourcing. The best models even grok, you know have said that they will open source six months after they've released it. So by that point they're basically waiting to release a new one. So it does feel like, even officially, they are not open sourcing from day one. And I think we know now you know we talked to what I'd go about how it was the only technology in history where the kind of commercial public operation was ahead of the military one. I'm pretty sure we're not in that space anymore no, no, I don't think so.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2807.085,
+      "endTime": 2812.815,
+      "text": "I think it'd be it think so. I think it'd be quite delusional to think that really.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2817.661,
+      "endTime": 2819.949,
+      "text": "So let's finish off with an honourable mention Jimmy.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2821,
+      "endTime": 2869.067,
+      "text": "Yeah, so Runway, I think this came out. This is the most recent drop actually, it was in the last 24 hours or so but the Runway ml4 has come out, which is the latest version of a video generation um generating generation model, um, which, uh, so runway has always been like one of the best and the latest one. I mean I'll be honest, like video generation is still one of the areas where it's I mean, it's obviously really difficult to do and very computationally expensive If you imagine creating an image and then multiplying that by, you know, 30 frames a second, 60 frames a second but it is making really good progress.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2869.448,
+      "endTime": 2890.792,
+      "text": "Um, I think the the best way to check this out is definitely not listening to a podcast, um, because it's video generation. So I think, if you want to have a look, check out some of the latest stuff that can be done with um runway 4 um, it does look really cool and I think you have to pay for it. But if you want to have a go with it, some of the stuff it can do now.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2891.113,
+      "endTime": 2891.614,
+      "text": "Is it the best?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2892.72,
+      "endTime": 2923.322,
+      "text": "So it looks. It's really weird because Sora came out ages ago but then never actually came out. This was a sort of side project of OpenAI. It has come out now. Runway is definitely comparable, if not better, than sora. Um, it still can only generate like 20 second clips. The people I've seen talking about it are doing that whole. You know this is the worst it will ever be thing, and they're, and they're right. Um, I don't know how excited to get about this because they're still.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2923.563,
+      "endTime": 2940.786,
+      "text": "It's only moved from 10 seconds to 20 in a year, which like okay, that's a year, it's doubled. But it also is like yeah, I'm pretty sure we talked to one point about. Oh. I think you said at one point like in two years time you'll be able to make a whole star wars film it might be a little bit it might be a bit longer yeah, and that's what people are still talking about.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2940.846,
+      "endTime": 2976.925,
+      "text": "So I think, I think I think there will crack video generation at some point and then you will be able to do things like that. Um, I mean just to elaborate on a little bit. So one of the things that previous video generation models were bad at was like the consistency between frames. So you would have like. So, for example, with the new model you can have something like if you've got your, if you're, if you're, if your main subject, um is in the background and you've got stuff passing in front of them in the foreground, like imagine you've like got um, it's like panning and you've got trees or, or lampposts or other stuff like passing in the foreground.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2977.607,
+      "endTime": 3018.77,
+      "text": "Um, the new model can retain like the consistency. The example I saw the other day was like it was a bloke who had a like a crease on his shirt in a specific pattern and like a lamppost passed between you, passed between the camera and the subject, and after it passed there was like total, total consistency with the before and after. And again, this is much easier to like watch a video of it online to see what I'm talking about. But that kind of thing was something that video generation models previously really struggled with that kind of temporal consistency, and so it's a. It's just another step in the right direction.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3018.93,
+      "endTime": 3036.411,
+      "text": "I'll be honest, like if you watch the videos, it's still. There's still obvious mistakes in places, there's still like of things that are just like clearly wrong and messed up, a bit like the six fingers in photos like a year ago, um, but I want to keep an eye on still cool.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3036.772,
+      "endTime": 3048.105,
+      "text": "Well, uh, less than an hour. That's good going for us. I think we thought this would be half an hour but it never is so. Uh, thanks for listening everyone. Uh, as usual, take care, have a good week",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3051.731,
+      "endTime": 3055.417,
+      "text": "there's nobody like her.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Gemini",
+      "startTime": 3055.457,
+      "endTime": 3089.816,
+      "text": "She drives me crazy. Yeah, she's my baby. She's my baby. There's nobody like her. She drives me crazy. Yeah, she's my Gemini baby. She's my Gemini baby. There's nobody like her. She drives me crazy. Yeah, she's my Gemini baby. She's my Gemini baby.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Gemini",
+      "startTime": 3094.264,
+      "endTime": 3110.173,
+      "text": "There's no party like her. She drives me crazy. Yeah, she's my Gemini baby. But remember, it's only a matter of time until she gets her dreams.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Gemini",
+      "startTime": 3138.402,
+      "endTime": 3160.409,
+      "text": "But remember, it's only a matter of time until she gets replaced. But remember, it's only a matter of time until she gets replaced. But remember, it's only a matter of time until she gets replaced. But remember, it's only a matter of time until she gets replaced. But remember,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Gemini",
+      "startTime": 3165.82,
+      "endTime": 3168.162,
+      "text": "it's only a matter of time until she gets her place. Thank you.",
+      "chapterIndex": 5
+    }
+  ]
+}

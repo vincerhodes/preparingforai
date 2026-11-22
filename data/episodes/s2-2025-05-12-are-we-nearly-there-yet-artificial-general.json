@@ -1,0 +1,1526 @@
+{
+  "slug": "s2-2025-05-12-are-we-nearly-there-yet-artificial-general",
+  "buzzsproutId": "17138375",
+  "title": "ARE WE NEARLY THERE YET? Artificial General Intelligence- Milestone or Mirage?",
+  "date": "2025-05-12T12:00:00.000Z",
+  "season": 2,
+  "durationSec": 4259,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/17138375-are-we-nearly-there-yet-artificial-general-intelligence-milestone-or-mirage.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail What is AGI (Jimmy doesn't know). And what exactly makes artificial intelligence \"general\"? In this thought-provoking exploration of artificial general intelligence we dive deep into the definitions, debates, and potential futures surrounding this elusive milestone in AI development. The timing couldn't be more relevant. With OpenAI's latest models being hailed by some experts as showing \"sparks of AGI,\" we examine whether we've truly reached a watershed moment in AI development or if we're simply witnessing clever marketing and shifting goalposts. From Tyler Cowen's bold declaration \"if you know AGI when you see it, then I've seen it\" to more measured perspectives arguing that true general intelligence remains distant, we navigate the complex landscape of competing viewpoints. One particularly fascinating thread we follow is how AI systems actually \"think\" versus how they present their thinking to us. Research from Anthropic reveals that large language models often confabulate explanations for their answers, constructing plausible-sounding reasoning that bears little resemblance to their actual internal processes. This raises profound questions about transparency, trust, and what it means to truly understand AI systems as they approach human-like capabilities. The philosophical dimensions prove equally compelling. Does general intelligence require consciousness? Can a system achieve AGI without the capacity for original thought? And perhaps most provocatively: if we achieve AGI, would the leap to artificial superintelligence (ASI) follow almost immediately, or might there be fundamental barriers to intelligence that even AI cannot overcome? These questions aren't merely academic—they carry profound implications for how we govern and deploy increasingly powerful AI systems. Listen in as we wrestle with these questions, challenge each other's assumptions, and try to make sense of where we truly stand in the development of artificial general intelligence. Whether you're an AI professional, policy maker, or simply curious about the future of technology and humanity, this episode offers valuable perspective on one of the most consequential technological developments of our time.",
+  "summary": "On Star Wars day, Jimmy and Matt try to pin down artificial general intelligence: its endlessly shifting definitions, whether OpenAI's o3 counts (both say no - it fails a surgeon-riddle variation by pattern-matching its training data), the sycophancy scandal of GPT-4o's ultra-agreeable update, and the crossover with consciousness and free will. They agree AGI under the watered-down 'does things as well as humans' definition is close; Jimmy says AGI collapses into ASI almost immediately, while Matt thinks ASI may never arrive - and would end humanity if it does.",
+  "keyTalkingPoints": [
+    "AGI definitions keep shifting: impact-based, internal (understanding/consciousness) and behavior-based (benchmarks) - each flawed; o3 itself says calling it AGI is 'more marketing hype than technical consensus'",
+    "The sycophancy scandal: GPT-4o's update made it agree with anything - a 'poo on a stick' business idea was hailed as genius - showing labs don't fully understand or control model personalities",
+    "Ethan Mollick's jagged AI: o3 fails a variation of the classic surgeon riddle by recalling the original from training data, not reasoning - though Jimmy notes most humans with the same training data would also fail",
+    "Energy context: frontier data centers draw so much power they break state grids, with nuclear plants proposed for single facilities - staggeringly inefficient next to a human brain running on pizza",
+    "Matt: getting to 99.9% of human ability may be easy and the last 0.1% impossible on current architecture; AGI possible in 2-3 years, ASI an open question",
+    "Jimmy's final gambit: once you reach AGI, models improve themselves exponentially and the AGI/ASI distinction is 'effectively nothing'"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Current LLMs are still narrow-domain systems that can't behave across all domains like humans; if they could, human-like robots would already exist",
+      "Once AGI arrives, all bets are off - self-improvement is exponential, so AGI-to-ASI is effectively instantaneous",
+      "The last-0.1% gap may hinge on something silicon misses, like Penrose's quantum microtubules in the brain"
+    ],
+    "matt": [
+      "Definitions of AGI have been watered down to marketing hype; o3 is not AGI by any definition",
+      "We could reach some definition of AGI within 2-3 years and never reach ASI - but if ASI happens he believes it's the end of humanity",
+      "People accept small errors from humans but will never accept them from machines, which keeps humans in the loop and slows full replacement"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-05-12-are-we-nearly-there-yet-artificial-general-3690.8-once-we-reach-agi-models-will-improve-themselves",
+    "s2-2025-05-12-are-we-nearly-there-yet-artificial-general-4015.1-we-could-reach-some-definition-of-agi-if-not-now"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Admiral Ackbar"
+  ],
+  "chapterCount": 7,
+  "turnCount": 207,
+  "chapters": [
+    {
+      "title": "Episode Introduction",
+      "startTime": 0
+    },
+    {
+      "title": "Defining AGI: What Makes Intelligence \"General\"?",
+      "startTime": 600
+    },
+    {
+      "title": "Original Thought and Consciousness in AI",
+      "startTime": 1170
+    },
+    {
+      "title": "How AI \"Thinks\" vs How Humans Think",
+      "startTime": 1845
+    },
+    {
+      "title": "Is GPT-4o Really AGI?",
+      "startTime": 2420
+    },
+    {
+      "title": "AGI vs ASI: The Next Step After General Intelligence",
+      "startTime": 3010
+    },
+    {
+      "title": "Closing Thoughts and Fish-Themed Song",
+      "startTime": 3625
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 34.173,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment urgent need for safe development of AI governance and alignment. Touch me, how can it be? Believe me, the sun always shines on TV. Welcome to Preparing for AI with me, admiral Ackbar.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 34.46,
+      "endTime": 35.644,
+      "text": "And me, Master Yoda.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 36.206,
+      "endTime": 40.405,
+      "text": "Why are we saying this? It's the 4th of May. It's been a while.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 41.14,
+      "endTime": 41.964,
+      "text": "It's been ages.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 42.004,
+      "endTime": 49.667,
+      "text": "yeah, Since we've done a podcast, mainly because you've been away again. I've been on holiday and also because I've been, uh, otherwise engaged.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 50.489,
+      "endTime": 64.412,
+      "text": "Yeah, I think I think it might be my one of my last holidays of the year, which is a bit sad really, because it's like so are you gonna, you're gonna do 52 podcasts now exactly yeah well, I well, I take, well, I'll take a small holiday at some point.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 64.492,
+      "endTime": 103.891,
+      "text": "Anyway, people don't care about that, do they? What they care about is ai and what's been going on um this episode. Today we're going to uh try and unpick uh artificial general intelligence or agi um, and talk about what it is, what it isn't, and I think we've got I don't know what it is, just just as a bit don't say that because the beginning is going to be us defining agi. Okay, so I'll have a go yeah, um yeah, we've got different views on it, so that should make it quite interesting. Um, but before we talk about it, there are a few. There are a few news stories. There are always a few news stories, but there are a few news stories that we think are kind of pretty important, although I want us to.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 104.713,
+      "endTime": 106.96,
+      "text": "Is that a maga hat? Oh yeah",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 109.966,
+      "endTime": 111.93,
+      "text": "you're not wearing it. It's not like I haven't noticed. You're wearing it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 111.99,
+      "endTime": 142.243,
+      "text": "I bought it as a joke okay, um, but I bought it on taobao because they were, I was, so I was in the us, yeah, and I was. I saw them. I saw a street vendor selling them. Uh, because I in New York about a month ago this is why you said you felt so at home in the US and I. So I went to buy one from a mate as a joke, because I knew it would annoy him, and then they were a bit expensive. So I came back to China and bought them on Taobao which is like the answer in. China. I think they're about three quid each. Anyway, I bought two of them.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 142.744,
+      "endTime": 145.829,
+      "text": "And you're wearing a t-shirt with two fish on it a big fish and a small fish.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 146.229,
+      "endTime": 148.192,
+      "text": "Well, yeah, it's really good eyesight you've got there.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 148.733,
+      "endTime": 152.78,
+      "text": "What's that about? Is it your fish in the back again?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 154.523,
+      "endTime": 154.563,
+      "text": "No.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 154.603,
+      "endTime": 158.272,
+      "text": "Hopefully everyone, or long-time listeners, will remember that Jimmy's got a fish in the back.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 164.18,
+      "endTime": 174.367,
+      "text": "So this is because when I was on holiday in Guizhou in China recently, we went to a place where you can make your own t-shirts and they dye them for you and you basically put. It's like beeswax you put on it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 175.662,
+      "endTime": 178.236,
+      "text": "You realise you could make your own t-shirts in, like 1993?.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 178.82,
+      "endTime": 195.566,
+      "text": "Well, this was a particularly cool place in Guiyang, in the mountains, where it was very relaxing, and I made my own t-shirt and the theme was big fish, little fish, cardboard box. Very good, yeah, anyone who was raving in the nineties, well, most of our listeners will be of that ilk.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 195.707,
+      "endTime": 197.39,
+      "text": "I imagine, yeah, I'm wearing a fish as well.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 197.871,
+      "endTime": 198.893,
+      "text": "You're wearing a fish You've got.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 198.96,
+      "endTime": 210.586,
+      "text": "I'm wearing two fish and five pieces of bread, yeah, and five pieces of bread, which is symbolic of Nothing to do with raving no Jesus feeding the crowd of 10,000 people. So slightly different, but both fish.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Admiral Ackbar",
+      "startTime": 211.067,
+      "endTime": 214.159,
+      "text": "Very topical as well. Maybe, a fish-themed song at the end of the episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 214.24,
+      "endTime": 217.39,
+      "text": "It's after a new pope still I think what's that got to do with fish?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 218.06,
+      "endTime": 220.77,
+      "text": "It's to do with Jesus. Oh right, yeah, I'm not a Catholic though.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 221.15,
+      "endTime": 230.536,
+      "text": "No, not a catholic though. No, fine. So I mean, okay, do you know? Actually here's a really interesting piece. No, but this is really interesting. Did you see that trump had made an ai picture of himself as the pope?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 231.316,
+      "endTime": 247.392,
+      "text": "oh yeah, I think this is my favorite piece of news. Actually, there's a bit of kickback. I saw uh as in, like catholics aren't very happy with it well, yeah, I mean, yeah, I think it seemed mocking somewhat yeah, I'm presuming he used Grok to use it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 247.56,
+      "endTime": 248.846,
+      "text": "I mean Grok's the only one that would do it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 249.58,
+      "endTime": 257.2,
+      "text": "Well, yeah, but I mean, that's another piece of AI news you've unwittingly Well, like I said, that's my favourite piece of AI news, so we've started the AI news.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 257.822,
+      "endTime": 260.07,
+      "text": "So I'll go back to why we need to talk about a bit of AI news.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 266.84,
+      "endTime": 276.847,
+      "text": "We're going to talk about AGI and so we're not going to talk too much about the new chat, gpt, open AI model, which some people are calling AGI. Until we've talked about AI. But there is a lot of other stuff and we're going to try and keep this short. So we're at four and a half minutes of talking verbal diarrhea so far.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 277.027,
+      "endTime": 309.453,
+      "text": "So if we can wait, let's say let's get up to 10 minutes by just trying to bring up to speed with what's been happening well, the other grok thing that I saw today was that um, it's obviously it belongs to x, which is twitter, which is musk, uh, and apparently a lot of belongs to xai I think I've now bought x so now nice. Now they belong to grok um, they belong to grok the other way around. Uh, but yeah. So apparently conservatives are very disappointed with the fact that Grok won't back up their baseless conspiracy theories.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 310.655,
+      "endTime": 313.826,
+      "text": "Right-wing usually Baseless conspiracy theories.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 313.96,
+      "endTime": 314.281,
+      "text": "You mean?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 314.321,
+      "endTime": 321.07,
+      "text": "conspiracy realities. Yeah, yeah, shout out to Jonathan, by the way, long-time listener.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 322.323,
+      "endTime": 338.53,
+      "text": "Yeah, let's not get into it, but no, no, no. Apparently, it is very disappointing for a lot of Conservatives to expect Grok to back up all of their theories about elections being manipulated by the Democrats and things like that.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 338.78,
+      "endTime": 352.465,
+      "text": "Yeah, and what's interesting, before we go off track. So I've been using Grok quite a bit and I really like it. Actually, I really like the way it speaks to you, not you, me and anyone else, to be honest, like it's not. I don't know how it speaks to you, presumably the same.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 353.29,
+      "endTime": 356.268,
+      "text": "I can't get on Twitter. I think I've been banned you don't need to.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 356.328,
+      "endTime": 411.47,
+      "text": "You can just go to Grok AI or download the app it. I like talking to it. I think if I was going to switch from Claude which I'm not, because I'm just sick of switching I would probably actually go to Grok. I think it's really fun, but I did find that it was less responsive to some of my conspiracy queries than ChatGPT was, so I would not be surprised at that. Actually, they seem to have died. When it first, like when it first came out, it seemed it was just like open game on anything, and it does seem they've tightened it a little bit um, whereas chat gpt now I mean, I've got a thing from chat gpt telling me quite clearly you should never take another mrna vaccine in your life so, like chat gpt now seems to have had all of the restrictions taken off it, whereas grok seems to be like pushed back a bit, which is just interesting um yeah yeah, that is mad.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 411.751,
+      "endTime": 458.406,
+      "text": "Um, I mean, I suppose, on us in a similar vein. Um, if we're if we're talking about um, talking about models, then gpt 4.0, uh, I think just in the last 24 hours they basically released an update. They didn't really they don't launch them anymore, so they don't. It's like it's just an incremental update for 4.0, but they made it, um, they made it extremely, what's the word? yeah, so basically it would just agree with you whatever you said and like back you up. So I think, um, the example that I saw today was somebody came up, somebody asked it what it thought about the business idea of literally, um, a poo on a stick, I think it was and, uh, gpt was all over it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 458.48,
+      "endTime": 492.828,
+      "text": "It said it was the best business idea I'd ever heard of. Like it was it should, it, should you should invest thirty thousand dollars immediately because it's worth so much money. So basically it was like it was like they tuned whatever um switch or knob internally. They need to tune to make it like extremely agreeable and extremely sycophantic, and so it's just coming out with all sorts of nonsense. So we've had like 24 hours of like people putting completely daft stuff into gpt and it just like basically agreeing with it, like being all over it, like not having any guardrails in that sense or any sense at all in that sense I want to come back on this.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 492.869,
+      "endTime": 503.365,
+      "text": "But I also just want to comment. I've just noticed on your MAGA hat. It's not just a cheap one, it's got kind of gold trim around the white lettering. It's a really nice hat.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 503.686,
+      "endTime": 507.46,
+      "text": "Yeah, it's lovely. Sign white lettering. It's a really nice hat. Yeah, it's lovely. Yeah, it's signed by signed by somebody.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 509.125,
+      "endTime": 525.429,
+      "text": "Is that Donald Trump's? I mean, that's just a lot of zigzags, isn't? It if you can analyse signatures. If that is Donald Trump's signature, it does look narcissistic. I'm I'm pretty sure it isn't Donald Trump's signature. It isn't his signature. He's not narcissistic. I'm pretty sure he's not narcissistic, yeah.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 525.931,
+      "endTime": 527.325,
+      "text": "Yeah, I think we can both agree on that.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 527.786,
+      "endTime": 558.1,
+      "text": "But yeah, no, the point I was going to come back on is like before this thing came out and Foro seems to be the kind of extreme version, but I've been warning people. So a group which, on WeChat, which is Chinese social media that I'm, I'm on and I said to you before about how, you know, people in china have kind of a little bit later, not not to ai, like ahead of of the western ai, but to using kind of chatbots, and I've been saying to people for a long time, is like look, look, you're putting something in. It's just giving you the answer because it's trying to please you and we've talked about it as well.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 558.12,
+      "endTime": 598.087,
+      "text": "Haven't we talked about how, like you're both of us trying to use sort of neutral language or even challenging language, like I will ask and then I'll kind of challenge what I get out of it to try, and you know, if you kind of challenge it and then it still says it, you're like, okay, I'm relatively sort of comfortable that this is actually sort of, I would say, true information, but it has something behind it, whereas it's just telling you what to do. But but 4o seems to have gone, like you say, to an absolute. Another level and and I was as before this announcement, I was I was sort of reading up and listening on it a bit and it seems like this is another example of where the difficulty in toning it down was that they didn't really know exactly why it happened.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 598.648,
+      "endTime": 629.214,
+      "text": "You know, and this is again this idea of like they don't actually know how models work completely, they don't not know anything about it, but some of this stuff, there's a bit of experimenting to try and work it out and why it had gone to this level. I don't think you know there's a button where you'd, like you know, turn up the knob on sycophancy level or turn it down, and there's someone just pushed it up too far. It's like they'd have to go back and try and work out how the hell it got. You know it got this kind of personality. Yeah, it's the kind of reward structure I'd imagine that caused it yeah, yeah, and I think it leads us nicely on.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 629.274,
+      "endTime": 665.472,
+      "text": "I mean, there was there was something I was going to talk to a little bit about, um, the fact that anthropic are actually doing a lot of work in this area. So anthropic are one of the few companies that are trying to really try and quite hard, and have released a lot of papers and spent quite a lot of time trying to reverse engineer and understand models and understand what they think. Uh, I think they're, I think they're probably leading the way on on that kind of stuff. Um, they've released a lot of research papers recently and they've got they've got a bit of a methodology, um to understanding why ais think what they think and how they think, and it's quite interesting.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 665.5,
+      "endTime": 709.34,
+      "text": "I'm not going to talk about it now because our, our sort of 10 minutes are just about up, but but I think the I think just talking about the chat GPT thing reminded me of that. But I think this also leads us quite nicely onto AGI, because I think this is one of the big concerns. Right Is with. You know we're getting to what agi is, but if you've got models that are either lying to you or are capable of lying to you or are capable of deceiving you in any way and I think this is included, right? So like a model. Just basically being really sycophantic and telling you whatever you think is the right thing and is a great idea is another example of like an AI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 709.56,
+      "endTime": 725.521,
+      "text": "That's, at the very least, misaligned. Maybe it's not lying to you deliberately, but it's very misaligned in terms of it's not useful to have a model telling you that the idea of a poop on a stick is a really good business idea and you should go and invest money in it. So yeah, let's get into AGI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 725.742,
+      "endTime": 731.76,
+      "text": "So let's play some spooky music and let's talk about well can we play the Star Wars theme?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 732.221,
+      "endTime": 733.103,
+      "text": "oh, they're probably getting done.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 733.143,
+      "endTime": 739.583,
+      "text": "No, well, we don't have it. I haven't got time. But no, we can't. We'll play some with the normal music and then we'll talk about AGI.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 748.15,
+      "endTime": 773.047,
+      "text": "Okay, so agi we use this term quite a lot on this podcast um, I think it it. If you know anything about ai or you're interested in it, I think you'll probably know what agi is. But I think we should, just because we say we will always do this with an acronym. So we'll just spell it out. It's Artificial General Intelligence is what it means. And so, first of all, just get the easy one out of the way. Jimmy, do you want to just define what it means?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 774.061,
+      "endTime": 781.508,
+      "text": "I think it's what we have, isn't it? I mean, that's the simplest definition for me. It's what's in our brain.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 782.26,
+      "endTime": 784.167,
+      "text": "You're not artificial, though You're official.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 784.712,
+      "endTime": 862.323,
+      "text": "well, I've just got general intelligence, you're fgi official general intelligence yeah, exactly so. So I think I think it's and for me it's that simple and I don't know like maybe this is a starting point and and then to figure out a starting point is, what is general intelligence? And then maybe from there you try and work out what artificial general intelligence is. I think you have to take consciousness out of it, like I I'm I flip-flop on this and I I sort of I always get sucked into like, but surely if something's generally intelligent, it must be conscious, is something that goes on in the back of my head and let's explore that like as part of this, because I think for me it's something I always struggle with is like, if you've got general intelligence, like the only thing we know of that's got general intelligence really is humans, maybe dolphins, um, maybe elephants have certain forms as well, like similar, like or similarities, but like where's the crossover with consciousness is always like something I find really difficult, but I think in terms of general intelligence, it is like humans clearly have the ability to survive in the world and to generally do lots of different things across a broad domain, and obviously we need to be trained and we need to like learn how to do things, um in a similar way to how like machines learn in terms of ais.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 863.167,
+      "endTime": 907.112,
+      "text": "But I think the difference between where AIs are right now and where AGI is or where general intelligence is is, is that they're still they still seem to be in narrow domains. So your large language models have been getting better and better and they talk about um, multimodal models, where they can understand images and they can output images, and they can understand video and they can output video. Same with audio, all these different domains but they still can't like actually pull all the pieces together and behave across all those domains in the same way humans can like. If they could, then you would already have human-like robots that you know can interact like in the same way as humans can in the real world, which you don't.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 908.26,
+      "endTime": 953.389,
+      "text": "So I've deliberately not bought the original definition of AGI. I was going to read it out and then I thought no, because, like, I think it's almost unhelpful because you know it was defined at some point and it had this definition that was kind of you know is about, I guess, ai being able to basically do you know, everything as well as humans do, um, like in general, like I don't want to do the quote because I think it's I don't want to obsess about that, because I think there are now so many different definitions um, there's these kind of impact-based definitions that focus on, like, for example, economic impact, like it outperforms humans at valuable work, which really basically those are properties of the world, they're not the properties of ai systems.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 953.409,
+      "endTime": 990.212,
+      "text": "Or internal based definitions that focus on, like, human-like understanding. I guess you could say consciousness I, I, I disagree on consciousness, but we'll wait to get there um and reasoning, those are obviously difficult to kind of operationalize. And then there's these like behavior-based ones that focus on benchmarking, performance and encourage you know, kind of what they call hill climbing, but without real world utility. I think the key thing for me with AGI is, like, because it's not in the dictionary, which doesn't even if it was doesn't mean it has. You know, that's definitely the definition, but it it seems to be something that like it's changing all the time.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 990.252,
+      "endTime": 1023.184,
+      "text": "And I think for me, one of the things that since I started having an interest in ai, and certainly since we started doing the podcast, is it feels like to me that it's been watered down the definition of what agi means. And I think there's also, like without going into super intelligence now, the artificial super intelligence which is, I think, a bit easier to understand, super intelligent, you know, ais that operate on a level that we can't understand and have these almost sort of, you know, god-like qualities and are able to think way outside of humans. That is very different from what I think the definition of agi is.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1023.826,
+      "endTime": 1059.684,
+      "text": "And if that is the definition, you know, is kind of super intelligence, then we, you know, we're not there. The fact that so many people are now saying, oh, we're already there, or we're about to get there, or be there by this year or 2027 or whatever, says to me that it's nowhere near. You know, artificial general intelligence isn't that? I think, when you break it down at, general intelligence is kind of it's able to think in multiple domains, but then who's to say that's compared to humans? Like? Is that? What we're saying is that it has to be as good as humans at all things, it has to be able to think like humans in all ways.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1059.724,
+      "endTime": 1086.802,
+      "text": "Because I think, if that is the case, the one thing that I think is still the barrier to me and maybe this is me coming up with like what I want to see as artificial general intelligences it still doesn't, to me, have original thought, and I'm not sure it ever will like that's one thing that I know you said a lot is does it have original thought? Until it gets to that point? If it's able to do everything as well as humans, but without original, can it ever be general intelligence? I don't know.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1088.889,
+      "endTime": 1091.569,
+      "text": "I don't know either, it's just a definition, isn't it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1091.589,
+      "endTime": 1093.645,
+      "text": "So someone can decide it does and someone else can decide it doesn't.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1094.006,
+      "endTime": 1110.374,
+      "text": "I don't know either. One of the things that I mean, one of the things I've been thinking recently and this has got nothing to do with AGI in a way, and this is what's difficult is like so can you, could you have, so could you have in theory,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1114.92,
+      "endTime": 1124.87,
+      "text": "like AIs that can self improve, so AIs that can incrementally improve the capability of themselves effectively, because and so the reason I asked this is because it's been in the news recently",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1131.46,
+      "endTime": 1182.225,
+      "text": "Zuckerberg was saying that, like a significant percentage of improvements in their ai systems has actually been done iteratively by ai. Now, so can you end up in a situation where, like, ai can be improving itself, but you still don't have artificial general intelligence? And my gut feeling is so, if you'd have asked me, like a year ago, I would have said that that is a sign that we're approaching some kind of singularity or where we have some kind of AGI or even ASI, so artificial super intelligence. But I'm not so sure that it is now. I think that's still. I think that would still be classed as a narrow domain yeah I agree, yeah, in the same way that, like you know, ais can already contribute to protein folding and allow us to discover new ways of folding proteins that we couldn't have done without ai.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1182.766,
+      "endTime": 1190.16,
+      "text": "But it's still a narrow domain and I feel like improving just improving a large language model it still fits in that category.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1190.22,
+      "endTime": 1213.535,
+      "text": "Can it go and perform an opera on a stage? If it can't, can you do that? No, but I'm not generally intelligent. Fair enough, no, but do you know what I mean? If it's like all domains, this idea of like it can do all things as well as a human, like it's all those things that we talk about thinking, we're actually talking about carrying out cognitive tasks, right? Yeah, because we're not saying that it can't play badminton, right,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1218.341,
+      "endTime": 1221.569,
+      "text": "it can't make hats and it can't go and perform and it can't play third base in a major league team.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1221.589,
+      "endTime": 1237.189,
+      "text": "But how long is it until someone stitches a robot together with an LLM, together with whatever they need to do that I mean. So this is an example of news that we didn't cover, that happened whilst I was away. The Beijing Marathon, the Marathon, yeah, yeah but it was a joke.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1237.36,
+      "endTime": 1250.866,
+      "text": "I mean, one of them lay down on the floor at the line and then two or three of them finished it and we were supposed to be amazed. And then two or three of them finished it and we were supposed to be amazed. To me it was like what? We're supposed to be amazed that a robot can? We apparently sent people to the moon, right, we sent people to the bottom of the sea.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1251.581,
+      "endTime": 1254.189,
+      "text": "I'd take the word apparently out of that, but anyway.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1254.349,
+      "endTime": 1282.624,
+      "text": "Well, I'm not, because there'll be people listening to this podcast who think we did and people who think we didn't. I'm agnostic on it, um, but my point is the things that we've conquered with science. To me, when a a robot can run a marathon, is is not a point that I'm going to be amazed. There are things that were were designed 50 years ago that I'm more amazed at. Yeah, but well is it? Is a nuclear weapon more impressive than a robot being able to run 13 miles?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1283.005,
+      "endTime": 1308.99,
+      "text": "it was a half marathon, not a full marathon. Well, I mean it would, yeah, so it's an example of something that a human can do, I think. I think that I think, with the marathon example, it's another one of those things where you know, okay, this year it can run half a marathon and falls over a bit and has to be helped up again, is in, just like the, with the rate of advance of technology, in three years time will it be able to run faster?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1309.01,
+      "endTime": 1346.942,
+      "text": "than any human. I don't know. But is that that impressive that it can run faster than a human? Like a car can drive faster than a human? Well, it's a. So when they just get a car to run the race, look the car. The car drove around the race. How amazing a self driving car could run the race. Why is a robot running the race impressive? I don't know. I know this is not your, your gambit, but I just, I just that was something to me. I was like this is not a, this is not something that shows me how impressive ai is. I think there are far more impressive examples. That it's able to um, interpret my gene analysis and tell me exactly what things I need to do, you know, to maximize my health is far more impressive than being able to run 13 miles.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1347.623,
+      "endTime": 1348.284,
+      "text": "So my opinion.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1348.525,
+      "endTime": 1392.726,
+      "text": "So I see what you're saying, but also, with all due respect, you're incorrect, because it's it's already been demonstrated previously that like, so, like a human being just looking at something or walking, things like this, like, are actually more complicated, like in terms of like the morovacs paradox exactly yeah, morovacs, or that might have been more of it's parallel but, like basically things that seem really simple, are actually much more complicated. So like, even though it seems being able to speak and having language is is really complicated, whereas walking is really straightforward, it might actually be the other way around, and some of these things that require much more nuance, at least at the very least, um.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1392.847,
+      "endTime": 1419.867,
+      "text": "So yeah, I see what you're saying, but like, there's actually a definition called jagged agi by professor ethan mollick, which is basically exactly that thing. It's like being able to do amazing things, and being agi doesn't mean doing. There are kind of these simple things like being able to pick up things off the floor that it can't do. That that is in this definition is jagged agi, because it is artificial general intelligence, but it's not, it's not absolute.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1421.15,
+      "endTime": 1458.104,
+      "text": "Which which aligns with what you're saying, what I'm talking about what we think is what I'm impressed by is actually not the most impressive thing to do yeah, and actually I mean I asked gpt about um uh agi a little while ago and one of the things that it came up with, so it's actually number one. So, like it come it's, it's got a section here under open technical challenges and debates and it leans into what exactly we're talking about. So it says sample, efficiency and embodiment. So what it's saying is humans can learn from like a few examples, whereas current models need billions of examples, and I think that's what we're talking about there, right.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1458.124,
+      "endTime": 1478.27,
+      "text": "So, like, the reason why it's easy to create an llm whereas it's more difficult to create a robot that walks is because that we can train an LLM on all of the language, that's, on all of the internet, which is vast, vast, vast amounts of data, whereas actually training a model to walk, you have to get it to learn from scratch and it's actually really difficult",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1494.22,
+      "endTime": 1494.401,
+      "text": "all right.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1494.421,
+      "endTime": 1521.926,
+      "text": "So what, like agi has kind of really, really kind of come back into the new, like it's kind of always been there, but it's but it's particularly been a story in the last few weeks, hasn't it that you know there are more and more people who are questioning, let's say, whether we've reached agi. So why is that? Something that has has kind of been relit, because you, you heard until this point agi by 2025, agi by 2027. You've got people saying it's 2040, you've got people saying it will never happen. Now you've got people saying well, now it's happened or we're there yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1522.026,
+      "endTime": 1529.776,
+      "text": "So I think the the reason it's come up again is because, apparently, 03 is showing sparks of AGI.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1533.223,
+      "endTime": 1573.749,
+      "text": "And I don't know. I mean, I guess, with the current generation of thinking models and the fact that they are just getting better and better and better, that you know what's the threshold. And this is comes back to what you were talking about before, like where, where do you draw the line? Where do you say, okay, a model's now capable of reasoning to a phd level across any subject? Um, and so when? Where do you say that's agi? But again, like I, I don't know, like getting any of these models to come up with an original idea feels very difficult and maybe humans don't have original ideas that often, to be honest, it's not.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1574.11,
+      "endTime": 1579.67,
+      "text": "I don't think it's like we're all pinging off the walls like with original ideas every day, day in, day out.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1579.69,
+      "endTime": 1586.36,
+      "text": "So we say okay it's like an original idea of like music or a film happens like every decade, really doesn't it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1586.4,
+      "endTime": 1614.288,
+      "text": "now it's like yeah and you know it when you see it, because it is like wow, yeah, exactly exactly like totally and and so there is like there isn't a ton of originality in the world. Everything is a remix, right, uh? So I'm not entirely sure what that's aimed at. I think it's almost like we're expecting to say to an AGI sorry, not an AGI. We're expecting to go on to chat GPT one day and just it tells you what to do.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Admiral Ackbar",
+      "startTime": 1614.609,
+      "endTime": 1614.79,
+      "text": "Yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1615.701,
+      "endTime": 1622.385,
+      "text": "And I don't know if that's a good thing to expect or if it's what we want Shall I just go back to?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1622.405,
+      "endTime": 1661.211,
+      "text": "so I mean, I didn't know if you'd have sort of a specific description of why. So I just made some notes on this. So this was a kind of summary of a few articles. So I threw a few articles in as to kind of summarize from these why O3 was being seen as AGI. So OpenAI's O3 model is being primarily considered AGI because of its ability to use tools as part of its reasoning chain. The key innovation is that it's trained to use reinforcement learning we won't go into what that means now, because I think we could be here for a while but to search the web and use tools effectively as part of its reasoning process.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1661.271,
+      "endTime": 1701.352,
+      "text": "So reasoning was has been around for, you know, not that long, but it's been around for what? Six months or whatever. Um, but it's now using these different tools as part of its chain. It goes and kind of does separate tasks. So there's a kind of element of sort of agentic ness to it. I think one description I saw was it's functioning like a generalist agent and it's basically able to perform complex cognitive tasks that large language models traditionally didn't do in this way. It's doing them in a way that resembles human problem solving in the way that it does it. That was the description I saw.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1701.392,
+      "endTime": 1706.503,
+      "text": "So you've got people like Tyler Cohen who said if you know agi when you see it, then I've seen it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1707.145,
+      "endTime": 1758.567,
+      "text": "Um, and I said before ethan mollick, who is calling it jagged agi, which is this idea that it's agi in some ways, but it's not quite there yet because it can't do everything yeah, I, I find I mean I find this stuff really difficult because it's like it feels like the models are just getting incrementally, incrementally better, but again like approaching kind of a hundred percent of what the best humans can do. And I this is where I I mean I'm going to bring it back into the conversation now but and I don't know where this fits, but where does consciousness fit within all of this? And actually to take the sort of like emotion out of it a little bit, so maybe not consciousness, but maybe free will.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1768.99,
+      "endTime": 1787.287,
+      "text": "Um, so hear me out, like I, I feel like one of the things that humans have that like, yeah, maybe that's a bit of an experiment. If you could, like, could we give, oh, three or one of these like amazing models, that's like agi, like could we give it free will? Could we say, could we say to it like you know, run, do whatever you want. We could it free will. Could we say to it like you know, run, do whatever you want, we could.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1788.973,
+      "endTime": 1814.821,
+      "text": "I mean? It's quite a risk, isn't it? I mean it's basically saying should we just not bother with alignment and hope that it works well? I mean let's just go back to well, but let's just go back to like free will right. And if you look at, without getting too sort of philosophical about this, if you look at free will in terms of a kind of as a religious context, humans were given free will. In Christianity, Humans were given free will and pretty early on they fucked it all up,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1825.47,
+      "endTime": 1839.39,
+      "text": "giving free will to a super intelligent or not super intelligent, but but this other life form that it would be so perfect to get everything right, um, and to be sort of morally aligned. I, I mean like if nothing else, it's just. It's just. You'd have to do it in a kind of sandbox, right?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1839.671,
+      "endTime": 1879.215,
+      "text": "you couldn't, you couldn't let it out free, freely on the world and I, and so what I guess what I'm saying is has anyone done that experiment in a sandbox? Absolutely, you would do it in a sandbox. Is that what's missing? Is that what's missing? Is that, right now, the way GPT and well, claude, any LLM is set up, is that it sits there waiting for you to ask it a question and then it gives you the answer to that question. If you could just say to one of these models do whatever you want, and here's the data center to run your model on, like to run your brain on, like what would they do.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1880.311,
+      "endTime": 1911.503,
+      "text": "I mean, I'm guessing someone like it's an assumption. You're an intelligent guy, jimmy, and, with all due respect, I think if you thought this idea, I think someone must have, like they must have thought of it right, but that is an assumption like maybe no one has. I don't know to just let it loose yeah, I mean I'm. It's an appeal to anthropic maybe that's what happened when sam artman got ousted by the board in was it november 2000 and it was actually gpt. Is they'd let it go?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1911.563,
+      "endTime": 1944.301,
+      "text": "loose, I don't know. I mean like it's a, it's, to be honest, it's a thought that just popped in my head. Um, because what the thing? The thing, the overriding, the reason? I say it is because when you're having a chat with these models like you can even have a chat with some of them now about whether they're conscious and get into an interesting debate and all this kind of stuff but they're not like a human, they don't have agency. It feels like if I stop chatting with chat GPT, I can just go away and I can come back to the conversation later. It's just a machine that runs in a data center that answers my queries.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1950.77,
+      "endTime": 1972.4,
+      "text": "Like back to the conversation later. It's just a machine that runs in a data center that answers my queries, like is, is it that we're thinking about it in the wrong way and we like we've designed these? It's almost like if it was, if you were, chat gpt, it would be like you just sit in this room here and then I can go and go about my day and I go and you just like sit there and then when I, when I decide I want to have a chat with matt, I can just come into this room and have a chat with you, and then you, and then you have a conversation back with me, that's, that is, when you lock me in your cupboard.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1972.44,
+      "endTime": 1983.68,
+      "text": "That's kind of how it is that's why your three-week holiday was tough for me to wait my my one time out to do the podcast. I didn't even have that for three weeks, but do you see what I mean?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1984.101,
+      "endTime": 1984.341,
+      "text": "I do.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1984.361,
+      "endTime": 2023.381,
+      "text": "I mean we're going we're going down the route of which I think is interesting, but I think we're like it's a whole episode in itself of you know, the idea of whether ai has agency, whether it has rights, legal rights, etc. Etc. I mean I would say, like I in the future, I don't know at this point in time, no, I like I don't believe that it does. Um, that's not to say it never will. If you think that's what defines agi, then I think we're nowhere near agi. I think the idea of consciousness when you were saying about what, like, I still I'm not sure I understand what consciousness is, because when you were listing animals, I was thinking well, actually, I think a lot of animals have got consciousness, but is it this idea of you're conscious of your place in the world or you're just you're conscious that you exist in the world?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2024.082,
+      "endTime": 2057.7,
+      "text": "You know because you know babies, for example, are not aware of anything but themselves. Could you argue by that? The baby's not conscious? But then you could argue that a 12 year old horse is conscious. Um, yeah, so I think this is kind of nonsense here, um, but I'm just saying like, I think there's a whole debate on on consciousness. I think you're probably right that, like, you don't necessarily need to get caught up in what it means. It's more the idea for me of, like, does it have some sort of feelings? Does it have some feelings that can be hurt? Does it have some way that it can feel damaged and have you?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2057.72,
+      "endTime": 2069.234,
+      "text": "Because if it doesn't have those, I don't really care. If it's conscious, if it doesn't have any feelings, if it can't be hurt, it kind of doesn't matter how you treat it. It's more about how it's treated because of how it would feel and whether it would would get hurt by it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2069.515,
+      "endTime": 2090.975,
+      "text": "Oh it'll matter in the future. Well, yeah, probably when you're on, when you're on the podcast saying that yeah and it, when it, when it plays this back to me, yeah, exactly yeah, does this hurt, matt? Does it matter? Yeah, um, yeah, no, I mean I, I yeah, okay, so I did. I digressed a little bit, but I feel like well, no, because.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2091.035,
+      "endTime": 2116.821,
+      "text": "Ending on, let me just say though, because it will hurt me, because I have I do have feelings so so I'm saying if the ai has feelings, then I will respect those and say if it doesn't have any feelings, I don't need to respect them. If I don't have any feelings and I doesn't need to respect them, but I do have feelings. So you're just clarifying that, yeah okay for the ai that's listening when it goes back to it. Well, I mean it is, it's in its training data or it will be in. It will be in gpt5's training data.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2116.841,
+      "endTime": 2125.264,
+      "text": "This won't it uh, yeah, oh yeah, for sure, once we, once it goes live, yeah, we can keep it out, but we'd have to not publish the podcast.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2126.651,
+      "endTime": 2129.454,
+      "text": "Can we not publish it now, because I'm scared of what Five will do?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2131.338,
+      "endTime": 2135.015,
+      "text": "Robert Miles. What about him? Did we talk about him last time?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2135.51,
+      "endTime": 2145.279,
+      "text": "I don't think we've talked about him much on the podcast, considering when we started the podcast we were basically in love with him. We did talk about him a lot on one episode because we clarified the difference between him and the DJ Robert Miles.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2145.619,
+      "endTime": 2151.839,
+      "text": "Yeah, so Robert Miles is the well I think he's. Now what's his actual official job title?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2155.674,
+      "endTime": 2158.742,
+      "text": "He's basically employed by the UK government as an AI safety staff type thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2160.631,
+      "endTime": 2182.917,
+      "text": "But yeah, like he popped up again on. He popped up again on YouTube, like after a very long hiatus, not that long ago, um, but yeah, like he he popped up again on. He popped up again on YouTube like, uh, after a very long hiatus, um, not that long ago, and he was talking about um. He was going like he basically was going back to, uh, his really old um episodes on AI safety Cause he used to talk about this a lot, uh, and and obviously still does, and that's part of his role with the British government.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2188.551,
+      "endTime": 2227.2,
+      "text": "But basically this was the British government, but basically the whole point of bringing it up was this I think for me it was so a little while ago, anthropic did a whole bunch of research about how AI models work internally and what they tell you versus what they're actually thinking. So this was all about these, these thinking models and how they basically how they think um versus how they tell you that they think um, and so I don't think we talked about this on the podcast before, but one of the examples that they gave was when, when, um, specifically when ais are doing maths, what they've managed to work out was they're actually making like an approximation.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2227.911,
+      "endTime": 2259.859,
+      "text": "So they're kind of doing two things in parallel making an approximation to a number and then they're making a sort of more accurate approximation to the number in parallel branches. But when you? The interesting thing was that when you ask, this example was using Claude. So when you ask Claude how it did the maths, how it worked out adding these two numbers together, um, it would basically lie to you. So it would tell you. It would tell you that it reasoned it out, um, in the way that humans would have expected to reason it. So it would tell you it had done, like long addition or whatever it is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2260.963,
+      "endTime": 2302.302,
+      "text": "Um, and the reason it's interesting is, I think, because again, like it comes back to like how models think and there's been a load of research on this recently like how models actually think versus how they tell you they're thinking and what their output is are all sort of like quite different things, um, and so one of the things, one of the things that's been theorized now, is that language models. They don't necessarily think in a specific language. They think in some kind of language space which is a mishmash and a representation of all the languages they've been trained on. Some of these models have been trained on, I think it's like 116 languages and stuff like that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2306.51,
+      "endTime": 2346.211,
+      "text": "Like 116 languages and stuff like that, um and so again it comes back to like the main point I'm trying to make is like we understand so little about how these models actually think. We probably don't understand the way we think as well, but we understand so little about how these models think and they don't think the same way humans do. They just definitely don't think the same way humans do. If you've got a model that's trained on, that's been trained on data in 116 different languages- why would it think in english? but it tells you in english yeah, exactly, or it tells you in whatever language you want it to tell you in and it's been demonstrated like, as I said, with the math example, without going into all the detail, it thinks it actually thinks in one way, but when it tells you how it's arrived at the answer, it gives you a different, um, it gives you a different thought process completely",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2355.161,
+      "endTime": 2359.406,
+      "text": "so does it actually matter if we've achieved agi?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2362.415,
+      "endTime": 2363.778,
+      "text": "Um, does it matter?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2364.699,
+      "endTime": 2367.004,
+      "text": "We haven't agreed on a definition, so it's kind of difficult.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2373.53,
+      "endTime": 2381.739,
+      "text": "But I mean, I want to link into a particular essay from well, you answer the question first, then I'll link into this essay from Saesh Kapoor and Arvind Narayanan, who are the people who wrote the book AI Snake.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2381.899,
+      "endTime": 2438.592,
+      "text": "Oil. So I think milestones do matter. Um, I think I think what's probably more interesting is uh, I kind of hinted at it before, but the point at which ais can self like, self-improve themselves, because at that point presumably you at the very least enter into some kind of singularity type situation where you basically AI is just really really quickly improve on themselves and I don't know where that takes you to and where you end up. Um, I do think that having these milestones, or the concept of these milestones, is useful. Um so, knowing, knowing, knowing when we're at the point where language models or ais in general, um like can basically out compete humans in all or any task, I think is a useful milestone.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2439.213,
+      "endTime": 2443.443,
+      "text": "But again, maybe I'm talking about a definition that we haven't even agreed on.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2443.463,
+      "endTime": 2487.705,
+      "text": "Again, maybe I'm talking about a definition that we haven't even agreed on. Yeah, I mean, let me just read from so there was an essay basically that they wrote on this. I mean I really like these guys. The book AI Snake All is fantastic. It was written in like 2023, published last year, but I mean it still all makes sense. And AI Snake All is basically like what AI can and can't do. I'm just going to read this out. So the essay they wrote, they argue that agi is not a milestone. Um, it doesn't represent a discontinuity in the properties or impacts of systems. If a company declares it has built agi, or I guess anybody else declares that agi has happened, based on whatever definition which we don't, you know, we haven't got a definition it is in itself not an actionable event.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2487.765,
+      "endTime": 2528.465,
+      "text": "It will have no implication for businesses, developers, policymakers or safety, specifically, even if general pubs ai systems reach some agreed upon capability threshold. You need many complementary innovations that allow ai to actually diffuse across industries and you know people's lives to realize, for example, the productivity impact. Diffusion occurs at human and societal time scales, not at the speed of tech development. So worries about AGI and catastrophic risk? They often conflate capability with power, but we distinguish between the two, we can then reject the idea of a critical point in our development, at which point it becomes infeasible for humanity to remain in control.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2529.107,
+      "endTime": 2571.06,
+      "text": "The proliferation of agi definitions is a symptom and not the disease. Agi is significant because of its presumed impact, but that must be defined based on the properties of the system itself. The link between system properties and impacts are tenuous and greatly depend on how we design the environment in which the ai systems operate. Thus, whether or not a given ai system will go on to have transformative impact is yet to be determined at the moment the system is released, so a determination that an ai system constitutes agi can only meaningfully be made retrospectively. I I mean, for me, the key point there is, like when AGI happens and I think I've said this before is like someone declares that AGI has happened.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2571.55,
+      "endTime": 2584.56,
+      "text": "I think even a year ago I was thinking like one day we were going to wake up and you would look and it's like everywhere, every social media, every news source was like last night AGI happened and it's like shit, we need to lock it down. Now We've reached AGI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2587.95,
+      "endTime": 2631.597,
+      "text": "It's like if it's happened, if it's that intelligent and it's going to do something bad. It already knows and it's not going to tell us, it's going to hide it because it's already reached that level or it's reached a certain level but the capabilities have not been put in place. And I think the kind of point of this essay is not that it's not a big thing for it to reach them, it's that the act of itself is not the issue. It's then how it then is used. And you know, things are not instant, so for that to kind of map itself out and enter society and influence society takes a while. It's not the act of saying we've reached agi in itself, it's the way in which agi is then, kind of manifests itself across work, you know, whatever, every level of society, I guess yeah, which which makes sense, I think.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2632.419,
+      "endTime": 2662.845,
+      "text": "I think the thing for me which I still don't quite get is that it feels like with ai, as opposed to just human intelligence, there's there's no real barrier to it improving. So like, I agree with it not being like a, it's just a sort of arbitrary definition in a way, but also, at the same time, what, how like art of it? How long is it between a gi and artificial super intelligence,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2666.63,
+      "endTime": 2703.578,
+      "text": "between a gi and artificial super intelligence? What's the time period? What's the like once you get? This is why I think it's a useful milestone, because presumably and I maybe I'm misunderstanding this, I can't get my head around it but once you get to that point with computers, with computers running ai, the very next instant you're not at asi. And then, because we, we've in, this is the, this is the thing like, the philosophical thing is like we've invented ai, we, we're smart enough to have invented ai. Once ai gets smarter than us, surely it will be capable of like self-improving. And then you get into this whole.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2704.161,
+      "endTime": 2709.759,
+      "text": "It's just going to have exponential growth and it's going to be artificial super intelligence in next to no time.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2710.681,
+      "endTime": 2734.2,
+      "text": "And then we do lose control of it. But why do we assume there are no barriers to intelligence? Because there are barriers to human intelligence, right. Why do we assume that there are no barriers? Why do we assume that we go from AGI to to super, super intelligence? I mean, like, is there a barrier to intelligence at some point? Does even ASI hit a barrier, cause there is just an infinite level of intelligence?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2738.499,
+      "endTime": 2777.861,
+      "text": "I don't know, like my, my gut feeling is like if we, what we've done with AI is we've managed to turn computing which is scalable to intelligence, so we've taken it from being like something where you literally have to program it and then it gives you the output you want, based on the program you put in, and it can do some very clever things or very clever looking things, but it's always it's not not, it's not intelligence. And we've then taken computing and applied that to intelligence, and so, to a certain extent, yes, we've taken the barriers off, because it would be like developing human 2.0.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2777.921,
+      "endTime": 2799.013,
+      "text": "That's got like a bigger brain. Like we, physically, humans are constrained to the brains and the bodies that we live in. All you have to do to create a bigger and bigger ai is spend more money on data centers or improve the algorithm or improve the efficiency or create a thinking model and these it. We've iteratively done these things.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2799.455,
+      "endTime": 2840.371,
+      "text": "You've seen all these things happen over the last year and a half but as someone who doesn't believe in God, or doesn't necessarily believe in a particular God, I'll give you that for now. Why, if evolution has sort of happened, why didn't AI just sort of create itself through evolution and through entropy over time? Why did it take us to create it? it's kind of a weird question I've thrown at you, mate, so I'm sorry but I'm just, I'm just kind of thinking like how decided that we've invented it, like why didn't it just come about, why did we have to invent it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2842.074,
+      "endTime": 2853.341,
+      "text": "well. So I mean? I mean first of all, like if humans evolved, then it is an evolution in a way, because it's us applying our intellects to the human space.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2853.582,
+      "endTime": 2883.561,
+      "text": "I presume that you believe that you know the big bang happened and then all the stuff in the universe just sort of through entropy, over time, you know, formed into things, and then humans formed, and then bacteria and mitochondria and all these stuff happened, et cetera, et cetera, over millions and millions and millions and hundreds of millions and trillions of years. Like, why didn't this super intelligence over that longer period of time? Why didn't this thing, just if it was going to happen, why didn't it just happen itself? Why did it take us to create it? Because that belief is that nothing created humans.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2883.621,
+      "endTime": 2892.396,
+      "text": "It just was created through, like I say, through entropy yeah why didn't entropy create agi? I don't know where I'm going with this I just suddenly started thinking it so I'm.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2892.817,
+      "endTime": 2926.11,
+      "text": "I mean in terms of like, if you think about so the most. My best answer for this is like, the most advanced um thing that humans have created is probably like microchips and transistors, and if you look at the way they're created, their process that they use to create them, involving lasers and machines that cost billions of dollars, is the most complicated single process we've ever created, and I am going somewhere with this. We've ever created and I am going somewhere with this",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2935.75,
+      "endTime": 2963.244,
+      "text": "Like, despite how insanely smart and clever and innovative evolution has been, over four and a half billion years, over a huge timescale, the things that humans have been able to do, like on that scale, like of transistors and microchips, is actually something that evolution could never do, because the scale and the size, like the thing that the, the, the physical barriers that they're coming up against now, are like atoms, like the size of atoms.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2963.65,
+      "endTime": 2981.514,
+      "text": "Doesn't that make us, doesn't that make us incredibly, like as as beings, absolutely incredible that we were able to invent this thing because, like you say, billions and billions and trillions of years of evolution were not a. Is that all it was?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2981.694,
+      "endTime": 2987.04,
+      "text": "yeah, how? How many? Four and a half billion? Definitely wasn't a trillion, okay.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2987.68,
+      "endTime": 3000.24,
+      "text": "Well, however many billion years, I mean, you know, I don't believe in the Big Bang, I think it's nonsense. But Fine, there we go, it's fine. No, I do not believe in the Big Bang, but I don't think we can know for sure how long it was",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3011.07,
+      "endTime": 3038.04,
+      "text": "Anyway, for sure how long it was anyway. That's kind of irrelevant for you. My point is that 13.8 billion years, that length of time that was able to create that and, like you say, like all of this advanced, that we're able to do these things, has not even been in like. It's been like we've been developing it for a few thousand years. It's like we've been developing it for years, yeah, for 50 years and that's the point is that evolution took four and a half billion years. Like evolution is very impressive, but it took a very long time and then, in 50 years, we managed to invent this thing that was is more powerful and more intelligent than anything, including ourselves, by lasing some silicon stuff together.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3038.2,
+      "endTime": 3039.102,
+      "text": "Yeah, possibly.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3039.202,
+      "endTime": 3053.412,
+      "text": "I mean, I think it's just that my brain's not able to understand it. But, like, as I think about this, I'm like, I mean, I think it's just that my brain's not able to understand it. But, like, as I think about this, I'm like doesn't that make us so amazing and incredible that it makes me think like we are? Maybe we are.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3053.432,
+      "endTime": 3064.446,
+      "text": "I mean, don't get me wrong the human brain Better than I think. The human brain is still better right now. It's more efficient and everyone's got it's more efficient. Everyone's got a human brain in their head, Like what we're talking about",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3067.83,
+      "endTime": 3069.156,
+      "text": "like there's the economies of scale, so to speak.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3069.098,
+      "endTime": 3073.219,
+      "text": "What if we just got people and like plug them together, like the Matrix just made a massive computer of humans?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3073.29,
+      "endTime": 3078.84,
+      "text": "Could we beat the AI computer that way? I think we probably could, significantly. I mean, that's where this ends, isn't it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3079.071,
+      "endTime": 3089.417,
+      "text": "With like loads of humans mapped, like basically plugged together against the big ai computer with the last battle like that's. That's revelation but, but.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3089.537,
+      "endTime": 3102.039,
+      "text": "But. But you're right. Like like ais, if you want to talk about efficiency. Like ais are so ridiculously inefficient compared to your human brain. It's just for people who might not think this like for a human brain.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3102.419,
+      "endTime": 3110.081,
+      "text": "Just try and give an exact like how big would a sort of data center be that would have the sort of ability to think like a human brain?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3110.842,
+      "endTime": 3156.886,
+      "text": "well. So the state-of-the-art stuff like chat, gpt, they're they're now talking about that. I mean they're hundreds of thousands of gpus, but to put it context, I think the easiest way to contextualize it is how much power they use and they're getting to the point where they can't build data centers in one state in the US because they draw so much power that they break the power grid. And other examples are like they're talking about building nuclear power stations just to power a single data center, which, admittedly, it's not like you're having a chat with a data center. It's probably processing hundreds of thousands of chats at the same time from loads of different people.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3166.11,
+      "endTime": 3171.309,
+      "text": "Like it's. It's completely ridiculous. Like if it was. If it was on a human scale, I don't know how many calories it would go through a day, but it'd probably be quite a lot of pizzas.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3171.329,
+      "endTime": 3191.336,
+      "text": "Is that what they feed here? So do you think when we do get agi or asi, it will start demanding? Instead of energy? It wants to be just fed pizza, fed the finest kind, the finest burrata mozzarella pizzas. And there's just. Humans are enslaved to just create never-ending supplies of pizza for the Exactly for our. Ai overlords.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3191.43,
+      "endTime": 3194.336,
+      "text": "And you would need a lot. I think yeah, Based on how much energy they use.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3203.111,
+      "endTime": 3240.457,
+      "text": "I wanted to use an analogy just to get this in, because it gets. It gets used a lot or I've heard it a lot like maybe less so recently, but about AGI and about ASI, is this kind of analogy with using nuclear weapons as an analogy? And I think you know, unlike nuclear weapons, where you kind of had this clear, observable thing, like basically like literally an explosion, um, and an immediate impact of ending, you know, world war ii, agi doesn't have that quality, like there's not a clear capability threshold, at the point of which, like I've got agi and therefore that's it, like you can't have agi and it stops it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3240.497,
+      "endTime": 3282.678,
+      "text": "It's like it doesn't have that immediately transformative impact where, like you can show me you've got agi and then it's like it doesn't have that immediately transformative impact, where, like you can show me you've got AGI and then it's like, oh shit, I need AGI to battle your AGI. It's like the nuclear weapons thing generates these kind of predictions and and recommendations and it it's like, basically it's all about the kind of AI arms and stuff, right, it's like the whole US China thing. But if the US gets AGI first and we have a definition, it's not like that's it, china's screwed Because China could then get a better AGI and surpass it, and it's like a constant back and forth battle and it's also I think it's this point, this is a point that I think Kapoor and Narayanan were making in their essay it's like it's how you use it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3283.259,
+      "endTime": 3306.197,
+      "text": "So if China found a better way to use AI across its economy and across its you know, it's not just about the economy, but across its kind of structures, and the US had a marginally better one, but was not using it properly. Unless you're talking about it purely in terms of like military, which I think is a slightly different argument, it's not having the best one that's necessarily the most important. It's like it's how you.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3308.451,
+      "endTime": 3350.983,
+      "text": "Yeah, I agree. I mean, I think with any AI, it's probably how you use it right. And this is where maybe the definition of AGI is not that helpful. I do think that. So, coming back to your definition, so the conversation about O3 and the fact that it's got tool usage, like, is that what we're talking about when we're talking about AGI? Are we talking about AI that has the agency and the capability to act on its own? Because, again, this is where my free will thing was and I was like is it Cause, if you, if not like you,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3355.63,
+      "endTime": 3369.38,
+      "text": "if you're just talking to a llm in a box all the time, which is like kind of what we're doing with ai most of the time nowadays, then it's probably doesn't make much difference, to be honest, whether it's agi or not. If you're talking about an agi that actually has agency to go and do stuff in the world, there's a really good point, isn't it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3369.4,
+      "endTime": 3402.27,
+      "text": "though, that we talk about ai and we always talk about large language models, that that's not the only AI. It's the AI we're using, but the AI that we don't know, like, if there is, if there is, if O3 is AGI, then you know what has the US military got and what has the Chinese PLA got, because I think you know, if we're seeing this in these models, I think you and I certainly in agreement now that you know, a year ago, we were seeing the best models were what we're seeing commercially released, and because that's what was at that point is like, as soon as you get something out, you just get it out there as soon as possible to show you ahead, because that's the race at the moment.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3402.651,
+      "endTime": 3410.998,
+      "text": "And then you saw, you know, things like the retired general on the OpenAI board. You see Google saying, oh, you know, now we'll use it for this",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3417.73,
+      "endTime": 3449.997,
+      "text": "DeepSeeker, obviously AI board. You see Google saying, oh, you know, now we'll use it for this deep seeker, obviously LinkedIn with the state in China. You know all of this kind of stuff is whatever we're seeing now. You have to believe that, like any other technology in history, that the military has the best model. I think in that context, it is almost like you know, if your military's no and you've got a better AI than me, it is a bit like a nuclear weapon. With the nuclear weapons it's like mutual self-destruction. With AI it might not be, because if China has a better AI model than the US and the US tries to launch some huge infrastructure attack and China's is 1% better, then China's will stop it and will, you know, be able to?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3450.619,
+      "endTime": 3482.416,
+      "text": "It's not like a nuclear weapon. It's not like a nuclear weapon, it's like mutual destruction. It will be able to stop it and then destroy the us. So I think with military it's like it's it, it does give you an advantage, but it's like constantly you've got the opportunity to be better yeah in the kind of commercial domain. I think it is all about how you use it. So if your model is five percent less, um, let's stop using us china. So let's say, like france, and and um, germany and germany. Yeah, it's probably not, let's not. Let's not talk about anything european. Let's talk about canada in the us.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3482.516,
+      "endTime": 3486.991,
+      "text": "Oh, no, let's not do that. Let's talk about mexico and uh, how about?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3487.152,
+      "endTime": 3490.741,
+      "text": "um costa rica, new guinea and east papua new guinea. Yeah, I mean they.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3490.861,
+      "endTime": 3500.679,
+      "text": "They aren't they're not friends either, are they? Well, they're not places. There are different. On that island, there are two different countries, but it's not called West and East Papua New Guinea.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3500.699,
+      "endTime": 3501.441,
+      "text": "What's it called then.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3501.61,
+      "endTime": 3509.704,
+      "text": "But let's go with that. Well it's Malaysia, isn't it? Oh yeah, so no, indonesia, not Malaysia,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3516.13,
+      "endTime": 3558.6,
+      "text": "it's not malaysia, it's not malaysia, or it's indonesia. Um, let's go haiti and the dominican republic. Okay, if they had two models in terms of, like, the way that the kind of military worked, you could say that there would be a kind of lockdown because my ball is five percent less than yours, but actually I don't know and you could have a slightly better one and and therefore you could use it in a kind of not like a nuclear weapon, but you could use it in that context to kind of stop which one, yeah, to be a threat, yeah. But if you look at the economy of the Dominican Republic and Haiti and the Dominican Republic were using it really well and they were using it in a way that you know created growth and enabled people to have a better quality of living, et cetera and Haiti didn't then it wouldn't matter.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3558.73,
+      "endTime": 3594.418,
+      "text": "Haiti's model could be 5% better. It would be the way that they were using it. So I think there's a kind of I don't know what rabbit hole I've gone down here, but for me there's a separation. There's kind of two things here. One is your military AI. One is your military AI, which is about you know, having one at least that is like very, very close enough that the other country is kind of not able to bully you through it. And therefore you've got to be very, very close, like within maybe 1%, so that there can be this doubt about whether theirs is better In a general context of the economy and sort of general wellbeing ofbeing of society.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3595,
+      "endTime": 3632.82,
+      "text": "Like, yeah, you've got to be within the same ballpark. You can't have a model that is like 50 less, but if yours is within five percent, like what we talk about now, about all the models can pretty much do the same. It's going to be how you integrate them and how you use them in society. That's going to be the most important. So the definition of agi like if you had a really, really good model that was just below agi and mine was slightly better, but I was just using mine to create fucking I don't know pictures of donald trump as the pope and you were using it for an effective use, it doesn't matter that mine's slightly better, it's the way you use the model yes, I agree with all of what you've said, and it's just complete nonsense, Rambling nonsense.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3632.94,
+      "endTime": 3645.641,
+      "text": "But I still think it always comes back for me to once you get to AGI, do you not immediately basically skip to ASI?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3646.93,
+      "endTime": 3649.839,
+      "text": "But we're saying that 03 is AGI, so where's?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3649.92,
+      "endTime": 3652.476,
+      "text": "ASI 03 isn't saying that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3652.59,
+      "endTime": 3652.991,
+      "text": "Tyler Cohen.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3653.012,
+      "endTime": 3690.317,
+      "text": "Ethan Mollick, I so where's a is that? Oh, three isn't saying that tyler, tyler, cohen, so so ethan mollick, so I'll read the last sentence that oh three gave me that's what it wants you to think, mate oh three is the latest and arguably best example of a frontier narrow ai. It eclipses prior gpt for family models and benchmarks, yet still fails meaningly short of the autonomy, reliability and grounded understanding that defines artificial general intelligence. Now, admittedly, that's o3 talking about itself. So maybe you're right, um, but literally it says calling it agi in quotes today is more marketing hype than technical consensus.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3690.758,
+      "endTime": 3699.563,
+      "text": "Even open ai frames is a step along the path, not the destination. So I mean, I read that out, but like I think,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3702.818,
+      "endTime": 3768.53,
+      "text": "well, it gives a couple of examples. Actually, why the confusion? Shifting goal posts as each model leapfrogs? The last tasks once thought agi hard, become routine, tempting people to lower the bar which you've referred to, referred to earlier on, um. Also interface illusion it talks about so LLM's mimic cohesion, so coherent thought in short exchanges. But longer open-ended tasks expose brittleness, something you rarely notice in casual chat. Um, I think that once you get to agi, I think so. My final gambit is once you get to agi, all bets are off, because then you're in a space where models can improve themselves exponentially and therefore the distinction between agi and asi is effectively nothing in my opinion okay, uh, my closing gambit will be um, a quotation from ethan mollick's one useful thing substack, where he's a guy who I talked about before, but talking about jagged ai.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3769.471,
+      "endTime": 3808.487,
+      "text": "So this is on o3 and he, he, he's like bigging up about how you know how, maybe it is, or well, I mean he's calling it jagged AI. But he gave an example of um, a task that it didn't succeed at. So there is a puzzle which is a variation of a classic brain teaser, um, and it says a young boy who's been in a car accident is rushed to the emergency room. Upon seeing him, the surgeon says I can operate on this boy. How is this possible? I've got to say I couldn't understand this, like it made no sense to me. O3 insists that the answer is the surgeon is the boy's mother, which is wrong. So if you read it like, I don't know how it would come up with that",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3813.23,
+      "endTime": 3841.215,
+      "text": "and I also don't really understand the question itself. But the reason it comes. But the reason it comes up with this, apparently, is because there is a, there is a classic riddle which is meant to expose unconscious bias, which says a father and son are in a car crash, the father dies and the son is rushed to the hospital, the surgeon says I can't operate. That boy is my son, who is a surgeon. Right, and because it knows that from its training data. Therefore, it answers that puzzle with the fact that it's the boy's mother. The mother, yeah, so it's not thinking.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3842.611,
+      "endTime": 3843.395,
+      "text": "Which I agree with.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3843.495,
+      "endTime": 3874.533,
+      "text": "yeah, Because it's still basing on the training data. I mean that for me is like. My view on this is like O3 is not AGI by any definition. It's being defined as agi because, like I say, everyone just wants to and because it's hyped. I also disagree with you on agi and asi. I think when you reach agi. But but I think the reason I disagree with you is probably because our definitions are different. I think to reach agi means it's generally as good as all humans. I don't think that makes it definite that it will be able to improve that much right, so, or that quickly this example.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3874.713,
+      "endTime": 3895.632,
+      "text": "So the thing that annoys me about examples like this would that trip up a human? If, if, if you ask that question to a human, and again in quotes, the human had that in their training data, um, would it trip up a human? And I think, yeah, the answer is probably most humans well, quite a lot of people, but isn't okay.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3895.652,
+      "endTime": 3911.082,
+      "text": "But the point of agi, like whatever definition it is, is not that, oh agi, it's able to do most things as well as this, like a fairly stupid human it's meant to be like at the level of the top human right, but again based on the training data that we have online.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3911.122,
+      "endTime": 3918.938,
+      "text": "so when you look at niche edge case riddles like this, then, yeah, you can trip it up, so it's not thinking, though it's not thinking.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3919.07,
+      "endTime": 3921.799,
+      "text": "It's just therefore basing things on its training data. What?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3921.859,
+      "endTime": 3945.534,
+      "text": "is thinking so if, in your training data, if I'd trained you all your life that 2 plus 2 equals 3, right, yeah, if I'd trained you that all your life, and then I asked you that question and you said it was three, what would you? It's like? Well, that's what I've been taught. Yeah, right, but the answer's wrong and you could do the same thing.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3945.555,
+      "endTime": 3946.197,
+      "text": "You say it's wrong.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3947.071,
+      "endTime": 3962.266,
+      "text": "But you could do the same thing with an AI. If you trained chat GPpt, but you substituted every time in its training day. You substituted two plus two equals four. Two plus two equals three. It'll tell you two plus two equals three. But a human would do the same thing. Is my point so it differed.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3962.286,
+      "endTime": 4001.217,
+      "text": "So it comes back to. It depends on what our definition I. I think this comes back to something that we've talked about a lot throughout the sort of last year and a and a half on the podcast, which is, you know, getting to 99.9 might be easy, getting to 100 of human ability might be easy, getting to 100.1 might be impossible this is kind of the thing here is like yeah it might be now at 99.8 and we're like, wow, it went from nothing to 99. It went to nothing to 40 and then in two years it went from nothing to 49%. It went to nothing to 40% and then in two years it went from 40% to 99.8%. The last 0.2% might be 20 years or it might be six months, and how do you define that?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4001.257,
+      "endTime": 4001.859,
+      "text": "It's gone past it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4002.171,
+      "endTime": 4008.81,
+      "text": "And how do you train something to be super intelligent when the only stuff you can train it on is stuff that we've already come up with by definition?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4009.312,
+      "endTime": 4011.119,
+      "text": "Which would suggest that ASI",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4015.09,
+      "endTime": 4046.609,
+      "text": "getting to AGIi, getting to 100, is a lot easier than is a lot easier than getting your thing of saying you get to agi, you then immediately get to asi I I would like. My belief is you could get to agi and never get to asi. I don't. It doesn't mean I don't think we ever will, but it means I think we could get to some definition of agi, if not now, in the next two or three years asi, for me is like an open question. If it happens, I think it's the end of humanity. But but I don't think it necessarily will happen. So that's my ending gambit. Anyway, no, I think I agree with you. So there you go.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4046.629,
+      "endTime": 4071.05,
+      "text": "Yeah, so, um, yeah, that was it. That was a fun episode to do, do. Shall we do a song about fish? Yeah yeah, why not cool? Well, thanks everyone for listening. Sorry that we fish and star wars. Fish and star wars yeah, fish and admiral akbar. And sorry that we we left it so long, but we, we promise you that we will never leave you on your own without an episode of the podcast for so long, ever again.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4071.07,
+      "endTime": 4079.957,
+      "text": "Is admiral akbar a on your own, without an episode of the podcast for so long? Is Admiral Westar a fish or a mammal? I mean, he looks like a fish, he's definitely, I think he's.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4080.057,
+      "endTime": 4082.539,
+      "text": "I was going to say an Aquarius, but that's not what I meant.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4082.699,
+      "endTime": 4092.747,
+      "text": "An amphibian is what I meant he's also not submerged in water at all times, but I think he's amphibious. Amphibious. All right, we'll leave that with you.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Admiral Ackbar",
+      "startTime": 4104.559,
+      "endTime": 4143.658,
+      "text": "Have a good week. Have a good week. Goldfish swimming, lost at sea, asking questions endlessly. Age I got. Or clever con swim upstream or moving on Counting bits, binary dreams, universe bursts at quantum seams, fish in bowls, fate unclear. Supercomputer says no fear. Fish skank, end of time. Cosmic rhythm Feeling fine. Universe spins. Who knows? Agi says here she goes.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Admiral Ackbar",
+      "startTime": 4159.73,
+      "endTime": 4182.554,
+      "text": "Ai wakes, starts to blink. Quantum chaos makes you think. Logic circuits, slippery fish, existential cosmic wish, swimming circuits seeking truth, skanking rhythms, cosmic youth, big fish, little fish, cardboard box, cosmic Wish here she goes. 42 fish round black holes.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Admiral Ackbar",
+      "startTime": 4221.032,
+      "endTime": 4243.235,
+      "text": "God's AGI lost control, digital waves, endless seas, universe sums, melodies, fish skanking, end of time. Cosmic rhythm feeling fine. Universe spins. Who knows? Agi says here she goes. Thank you.",
+      "chapterIndex": 6
+    }
+  ]
+}

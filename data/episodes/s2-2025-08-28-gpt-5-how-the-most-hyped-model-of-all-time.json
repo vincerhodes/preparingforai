@@ -1,0 +1,1069 @@
+{
+  "slug": "s2-2025-08-28-gpt-5-how-the-most-hyped-model-of-all-time",
+  "buzzsproutId": "17748602",
+  "title": "GPT-5: How the most hyped model of all time landed with a whisper",
+  "date": "2025-08-28T14:00:00.000Z",
+  "season": 2,
+  "durationSec": 2675,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/17748602-gpt-5-how-the-most-hyped-model-of-all-time-landed-with-a-whisper.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail \"A little bit disappointed, but ultimately pretty good\" might be the perfect summary of OpenAI's GPT-5, as we explore in this final episode of Season 2. What was expected to be a revolutionary leap forward arrived with surprisingly little fanfare, yet upon closer examination, reveals meaningful advancements that point toward AI's true evolutionary path. We dive deep into GPT-5's most significant innovations, including its controversial router system that automatically directs queries to different underlying models based on task complexity. While many users view this primarily as a cost-saving measure for OpenAI, it raises important questions about resource efficiency and performance optimization. The model's expanded context window (256,000 tokens) and improved image generation capabilities represent genuine progress, while its \"thinking mode\" offers fascinating insights into how advanced AI systems reason through complex problems. Perhaps most intriguing are GPT-5's agentic capabilities, allowing it to autonomously perform tasks like web searches and interact with digital services. Though still requiring significant user supervision, these features provide a glimpse into how AI assistants might evolve as they become more deeply integrated into our devices and workflows. We compare GPT-5's performance to competitors like Claude Opus and Google Gemini, particularly for specialized tasks like coding, and discuss why the current phase of AI development is characterized by incremental improvements rather than paradigm shifts. As we close out Season 2, we're also excited to announce changes coming to the podcast in Season 3. We'll be expanding our focus beyond AI-specific topics to explore the broader human and social implications as artificial intelligence becomes increasingly woven into every aspect of our lives. Subscribe now to join us on this journey as we continue to navigate the fascinating and complex world where technology and humanity intersect.",
+  "summary": "The season two finale confronts GPT-5, which both hosts agree landed 'with a whisper' after two years of hype - iteratively better, certainly not AGI, and possibly deliberately soft-launched after OpenAI botched the rollout. They dig into the router system that silently assigns queries to cheaper mini/base/pro models (a money-saver Jimmy is suspicious of), the underwhelming agent mode, and alternatives like Abacus AI's Chat LLM, while announcing a broader season three format of one news episode plus one wide-ranging topic episode per month.",
+  "keyTalkingPoints": [
+    "GPT-5 launched as a damp squib: less of a news story than DeepSeek's release; Jimmy didn't even know it had come out",
+    "The router controversy: GPT-5 pre-analyzes each query and picks mini/base/pro/thinking models itself, and $20 users initially couldn't override it",
+    "Jimmy argues the router's real motive is OpenAI cutting compute costs on $20 subscriptions, pushing more queries to cheaper models",
+    "Technical advances: much bigger context window, ~45% fewer hallucinations, diplomatic 'safe completions' instead of refusals, and an agent mode that accesses Gmail/calendars",
+    "Coding: strong but Claude/Gemini remain competitive; Jimmy recommends Windsurf and Abacus AI Chat LLM over single $20 subscriptions",
+    "Season three format change: one episode a month on the biggest AI stories, one on a broader human/social issue with an AI angle"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "GPT-5's muted launch was probably deliberate because OpenAI botched it - it certainly wasn't revolutionary or AGI",
+      "The router is really about OpenAI saving money by routing paying users to models that cost a tenth or a twentieth as much",
+      "Multi-model routers like Abacus AI Chat LLM beat any single $20 subscription for chat use"
+    ],
+    "matt": [
+      "GPT-5 is iteratively better but could never live up to Game of Thrones finale-level hype; 'a little bit disappointed, but ultimately pretty good'",
+      "There is some user logic to routing - basic questions like FA Cup winners don't need the top model",
+      "GPT-5 is probably still the best overall model; existing ChatGPT users have no reason to switch"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-08-28-gpt-5-how-the-most-hyped-model-of-all-time-348.4-gpt-5-s-low-key-launch-was-a-deliberate-soft-lau",
+    "s2-2025-08-28-gpt-5-how-the-most-hyped-model-of-all-time-2411.5-another-model-will-surpass-gpt-5-within-about-tw"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Disappointed"
+  ],
+  "chapterCount": 10,
+  "turnCount": 140,
+  "chapters": [
+    {
+      "title": "End of Season Two Introduction",
+      "startTime": 0
+    },
+    {
+      "title": "Changes to Podcast Format",
+      "startTime": 66
+    },
+    {
+      "title": "GPT-5 Launch and Initial Reception",
+      "startTime": 315
+    },
+    {
+      "title": "Router System and Model Selection",
+      "startTime": 453
+    },
+    {
+      "title": "Alternative AI Services",
+      "startTime": 742
+    },
+    {
+      "title": "Technical Advances of GPT-5",
+      "startTime": 970
+    },
+    {
+      "title": "Agentic Capabilities and Limitations",
+      "startTime": 1332
+    },
+    {
+      "title": "Coding Performance Comparisons",
+      "startTime": 1624
+    },
+    {
+      "title": "Final Thoughts on GPT-5",
+      "startTime": 2058
+    },
+    {
+      "title": "Season Two Closing Remarks",
+      "startTime": 2471
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 43.129,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. Disappointment. You shouldn't have done, you couldn't have done, you wouldn't have done the things you did and we could have been happy. What a piteous thing, a hideous thing. Welcome to Preparing for AI with me, rodney Marsh, and me, george Best. And this is the end of episode. No, not episode two.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 43.249,
+      "endTime": 62.947,
+      "text": "It's the end of season two. It's the start of an episode. It's the start of an episode and it's the end of season two of Preparing for AI, which means coming soon will be season three of Preparing for AI and, for people who listen to our special aborted episode, you already know this, but if you didn't listen to it, you won't know it. But, jimmy, shall we talk about the?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 62.987,
+      "endTime": 78.124,
+      "text": "aborted episode. Yeah, I won't know it. Um, but jimmy, shall we talk about the aborted episode? Yeah, I don't know what happened. I think I had a bit of an empty stomach and I mean, I normally have a few beers during the episode. I've actually stopped drinking now for good for a while, but, um, but uh, yeah, I basically got pissed, but it wasn't just that, though.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 78.164,
+      "endTime": 118.388,
+      "text": "I think you, I think you reached a place in your kind of ai journey and maybe your life journey, as the episode went on. I think you, what I was quite happy with is you kind of came over to my sort of more pessimistic side and ai. But you know, I'm in a more optimistic place, not just with ai but in general, and I think, um, it was a useful episode, if nothing else in that we realized that we had kind of I'm not saying taking things as far as we could, but like we'd kind of run out of ideas on that kind of with the format, yeah, with the format of the podcast, because we'd sort of exhausted a lot of issues and we were like we don't want to be a news you know ai clickbait podcast.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 118.95,
+      "endTime": 165.149,
+      "text": "So we decided um for those that didn't listen to that episode that we're going to do stuff a little bit differently after this week. We're going to move on to having one episode a month where we talk about not necessarily AI news, but the most important stories or the big kind of breakthroughs and we'll do some kind of new stuff and what we're thinking about AI. And then we'll do one episode a month where we talk about a much broader issue and something that's interesting to us, where that's kind of religion, politics, economics, health care, and it will have an ai angle to it, because our kind of view now is like ai is not a standalone thing, it kind of comes into everything, so we can talk about things we want to talk about, but we will link them back and we'll have a kind of ai fed running through that yeah, and I think we've always we've, we've always kind of done that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 165.189,
+      "endTime": 169.482,
+      "text": "We've kind of followed what we want to talk about a little bit, but we've kind of I think.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 169.703,
+      "endTime": 182.805,
+      "text": "I think in the past the episodes have been more specifically focused around ai and something around and we've held ourselves back sometimes from from going off, whereas I think we've quite often wanted to go and like explore yeah, yeah, yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 182.825,
+      "endTime": 219.066,
+      "text": "So I think I think we're going to be a bit more exploratory, like if people, I guess, if what you really like about the podcast is it's like heavy, heavy, ai focus, then we're going to have a little one yeah, maybe listen to one of the previous seasons, but we're gonna. it's gonna be a little bit less of that, but I think there's still gonna be a lot of talk about ai and, as matt says, ai is gonna be is more and more just becoming part of life. Now it's part of everything, and so there will still be an AI theme. We're not changing the name of the podcast necessarily. It's maybe we should change it to living with AI, I suppose, based on that, we've already been prepared or we're not prepared.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 219.167,
+      "endTime": 222.841,
+      "text": "We definitely, as a society, we're not prepared. But it's here anyway. Yeah, I, we're not prepared.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 222.861,
+      "endTime": 236.491,
+      "text": "but it's here anyway. Yeah, I don't think we, I don't think we prepared anyone with our first two seasons, but we, we, uh, I mean maybe we did, maybe we helped a few people think about it a bit more but we still like, like we said, like we're not going I mean we're not going kind of joe rogan long format, four hours episodes.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 236.591,
+      "endTime": 269.681,
+      "text": "We're not. We're not going to go that far off track, we're still going to interview people. Like sometimes we might do an episode that is purely around a kind of particular ai theme. But I think it feels like a kind of natural evolution, because the thing that you guys don't see is most episodes me and jimmy talk for two hours before the episode about something else that's kind of loosely linked to a ai. Then we do the podcast, then we go and talk for two more hours about something that's loosely linked to ai and we were like, why are we kind of separating these two things out, when actually, like we always wanted, yeah, we always want to talk about the human and social impact, and these are all kind of human and social issues.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 269.742,
+      "endTime": 301.949,
+      "text": "so this is not a case of we're just going to kind of shoehorn ai into it. It's a case of, like we're going to talk about a subject that's linked to ai, because everything is, but we're going to explore it in a kind of more natural way, rather than feeling like we always need to kind of force it to kind of keep focus on the AI bit. So anyway, we hope that's interesting. There'll still be that one kind of news episode and, like we say, sometimes we'll do different things. We still want to interview some people. So it's not a complete change of direction, but it means we can launch Series 3 and we can sex up our logo a little bit, maybe even put our faces on the worker and the robot.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 305.561,
+      "endTime": 309.108,
+      "text": "That's not. I don't think that counts as sexing it up, but well, one of our faces.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 309.348,
+      "endTime": 347.898,
+      "text": "One of us is very sexy I'm just not saying which one, fair enough. So anyway, let's talk about so. So this is the final episode of season two and it is a kind of news roundup, but it is a a one uh, kind of headline news roundup, because the thing that we we haven't done is talked about gpt5, um, and it feels like like a perfect end actually to series two, because gpt5 is the thing we've all been waiting for for, you know, arguably two years and it's come along and a bit of a damp squib uh, it's, I mean, it's not like when it came out let's, let's start. We're talking about the launch, so like it's a couple of weeks ago now, from from when it launched yeah, I didn't even know it had come out like it was it's.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 348.359,
+      "endTime": 366.3,
+      "text": "It certainly wasn't revolutionary, it certainly wasn't agi. Um, it was less of a news story than when deep seek came out and like hit the headlines. Um, I think that was probably deliberate because, uh, on on open ai's part, I think they might have even said it was um, they've said they've botched it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 366.421,
+      "endTime": 405.493,
+      "text": "They've said they've launched the launch of it, so I'm not sure if it was deliberate. I mean they, they probably tried to pretend it was and then actually realized they can't pretend. I mean, the problem is like it's a bit like the last episode of like game of thrones. Right, it's like it doesn't matter what you do, it's never going to live up to the hype. But, at the same time, it really like it really felt like it disappointed. I mean the fact that, like what you just said, you didn't know that it happened. I knew it happened and I was just sort of like you know, I'll just kind of play and I listened to a few podcasts and read a few things and I found that like my wife was using it on her computer for work and she was like, oh, this agentic thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 405.54,
+      "endTime": 436.549,
+      "text": "And then she ran it and she was like, oh, this is really rubbish. And it wasn't that it wasn't rubbish, it was kind of it just didn't feel like it hadn't been launched in, like it hadn't been launched in a very kind of useful way. Like I know they kind of have to make this. Like people knew it was going to happen, but it kind of comes out of the blue in a sense. If you're a normal person, you didn't necessarily know it was coming out. If you lived in, if you're in the AI world, like everyone kind of knew the date was coming out. But I think for a lot of people it kind of came out as like GPT-5's here and no one really knew what it was",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 446.8,
+      "endTime": 447.261,
+      "text": "thing is.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 447.282,
+      "endTime": 481.805,
+      "text": "So what I mean? There is another reason why it's been a little bit underwhelming as well, which is, um, a bit of a debacle and has caused quite a lot of fuss online. But, um, it has a router in it, doesn't it as well? So, for the benefit of our listeners, um, unlike gpt 4.5, where you were kind of getting what it says on the tin, you, you, when you're using gpt 4.5 or 4, you get gpt 4.5 or4 and you get that model. Gpt 5 uses what's called a router built into it, where it effectively it does a little bit of pre-analysis on your question and then it decides how much horsepower it needs essentially to answer your question.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 481.825,
+      "endTime": 492.422,
+      "text": "So they have a bunch of models behind it. So you've got I think you've got the gpt5 mini, you've got gpt5 base model, you've got gpt5 pro and then you've got gpt5.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 492.442,
+      "endTime": 495.955,
+      "text": "Thinking, well, and 4o and the other models and 4o and the other models",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 495.975,
+      "endTime": 526.415,
+      "text": "are there as well, the old models and so, whereas before you could, to be honest, before it was quite annoying as well because you had to go on, when you went on chat, gpt, you had to choose between all these models and it was quite confusing, if you're like not an expert in ai and not completely up to um speed. And also the naming conventions didn't really make any sense either, like oh, three was better than four and stuff like that. But um, but yeah, when you, when you ask five a question, it's basically going to be like is this a hard question or is this an easy question? Do I need to do coding, do I need to think, do I need to do reasoning?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 526.86,
+      "endTime": 551.096,
+      "text": "And it will make its best effort at that, and then it will send it to a model, and so you might get an answer from a, so to speak, inferior model or a superior model, and it might think and it might not, and it might take a long time and people have been potentially using 4.0 for everything and then they put something in that was better rooted to 4.0 and so it went to 4.0 and they're like, hang on, it's giving me worse than what it would previously that's that's kind of what people were finding early on.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 551.316,
+      "endTime": 584.147,
+      "text": "I should just add in here as a kind of not caveat, but um, a while ago, when claude 3.7 came out, I actually announced that this is what claude 3.7 was doing, which is what um would kind of be. We'd been told that wasn't what claw 3.7 was doing. It wasn't quite the same. We're saying it was choosing whether to use deep thinking or not. Actually that wasn't the case that you had to put it on. I think this is the first, certainly of the major models where they've done this. You know, and and I'm not sure actually, if it's changed, but initially certainly, you couldn't choose to kind of override it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 584.488,
+      "endTime": 620.692,
+      "text": "So if you were using five, you couldn't choose the well, actually, no, I want to make sure it uses five. It would make the decision, which kind of makes sense because they're trying to, you know, reduce down the amount of um cost well cost yeah, but also like the speed of the model. So you know, we've said this before for a lot of queries you don't need the top model. If you're going to ask it a question like I don't know, you're going to ask it like who won the fa cup in 1970, it can use gpt3. Do you know what I mean? It just needs the most basic model. This is not quite that, but, but my point is it's like there is also some logic behind it that it could help the user.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 620.732,
+      "endTime": 623.905,
+      "text": "But I don't think that's how it was received. It is probably not the main intention.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 623.945,
+      "endTime": 662.325,
+      "text": "I don't want to defend open ai, but like there is some logic behind it I also think that I mean, I'll be honest, I I think the I think the motive for this is not about they want gpt to be as fast as possible or give you the best possible speed. I think that the motive behind it is to save money for them because you're paying. You're paying $20 a month, right, if they can run a model that costs a fraction. And I mean, in some cases we are talking I don't know the exact numbers, but I'm sure that GPT-5 Mini versus GPT-5 Pro Thinking is probably it probably costs like a 10th, a 20th what the top model?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 662.526,
+      "endTime": 689.65,
+      "text": "uses. And so for GPT-5, it's really sorry for open ai. It's really compelling because suddenly you're paying them 20 a month and they can be like saving a load, a load of cash in the background, which does make me think like it also. You know, then, if that's their motive, then actually it's in their interests to push more and more queries to actually cheaper and cheaper models, and I think that's maybe possibly going to be a bit of a fine line for them.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 689.84,
+      "endTime": 723.321,
+      "text": "And I think, actually I'm thinking about it now. I think the $200 model, which is called the what's it called? It's not pro tier, it's called ultra, whatever, anyway, I think on that tier, you could choose to turn it on and off. On that tier, you could choose to turn it on and off. Yeah, so, so it basically, if you're a pro customer, so you're a kind of paying customer. You previously had been treated like a pro customer. You're now not a pro customer. You're now basically just like someone who's you basically sat in premium economy whereas you thought you're in business, right, you, you've got a slightly better headrest and you know an extra two inches of leg room, but you haven't really got much of a different service.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 723.522,
+      "endTime": 726.89,
+      "text": "I think that's actually like probably a reasonable analogy for it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 727.332,
+      "endTime": 734.962,
+      "text": "Yeah, I mean I'm going to. I said I would do this before they don't pay us. Unfortunately, I'm going to shill here, I'm pretty sure, sam.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 735.022,
+      "endTime": 737.969,
+      "text": "Altman's not going to pay me. No, Well, no exactly.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 737.989,
+      "endTime": 738.832,
+      "text": "We're talking about open AI.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 739.2,
+      "endTime": 740.062,
+      "text": "I mean yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 740.443,
+      "endTime": 780.182,
+      "text": "So I'm going to give an honorable mention here to something called Abacus AI. I think it's called Chat LLM, which actually already uses routing, so this is something similar to the Mammoth is another one that does something similar. So I've been using this for a while now. Like I canceled all my subscriptions these $20 a month to GPT to OpenAI Claude. I think Google's got a similar thing where it's like these 20 a month to gpt to open ai claude. Um, I think google's got a similar thing where it's like 20 a month. I, this one's, 10 a month, um, and it gives you. So the way it works is it gives you credits and you can actually choose any of the models, so I can choose open ai models.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 780.222,
+      "endTime": 813.508,
+      "text": "I can choose um anthropic models, so I can choose claude. I can use google. I can use grok, which is the twitter one, isn't it? Or x, uh, and I can actually choose. So from the gpt models, I can actually choose exactly which one I want. So I can choose gpt5 thinking or gpt5 mini it's up to me, uh, and then it can. It also has some open source models like kimmy, k2 and deep sea kind of bunch of other ones, um, and it's really cool. So, like you pay a tenner a month sorry, ten dollars a month and what you do is you get, I think it gives you 20 000 credits and then your chats use up your credits so you can run out.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 814.09,
+      "endTime": 848.181,
+      "text": "But even being quite a heavy ai user, I've never run out. So I really like it. It actually gives me more control and I can choose which models I want. I don't have to switch between models and try different ones. It does lack some of the features, so, like I think if you're using gpt, it's a bit more multimodal built into it. This has less of that, although it still does have some of it um. But if you, if what you want to do is purely have a chat and you and have a chat, which is most um, have a conversation with the ai, which is most of what I do, then it works really really well. And what's it called?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 848.642,
+      "endTime": 853.452,
+      "text": "It's called it's abacus ai chat llm. So go to abacus ai chat.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 853.612,
+      "endTime": 856.608,
+      "text": "Lm forward slash preparing for ai for 20 off.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 857.23,
+      "endTime": 861.745,
+      "text": "Uh, yeah, we can try and we can try and set that up with them. Yeah, we'll put it in the show notes. I'll give them a.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 861.945,
+      "endTime": 897.451,
+      "text": "I'll drop them a message afterwards before we move on from this section, just I like there's a couple of points that I I just had to make on looking at kind of feedback on it, because I think the main thing on the feedback was just people are expecting the kind of revolutionary change and they got like a step forward basically, and I kind of another analogy that I use is a bit like the iphone, like when the first iphone it was big, and then iPhone 3G and then the next one was amazing and then after that it was kind of like, oh well, it just gets a little bit better. It kind of feels like I don't know, you know, at some point there may be the big leap forward, but maybe people were expecting too much.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 897.691,
+      "endTime": 930.888,
+      "text": "The other thing was apparently there's a lot of backlash around the personality of the model and people found it kind of cool. That's cold, I guess, and like less personable, which is funny because they were previously complaining that it was too sycophantic. So you know, maybe that's just different people have different opinions. But some people said it was sarcastic or sounding like it was more corporate, and apparently they've already kind of restored. I don't know how they've done this, whether it's restoring kind of access to older models or trying to, like you know, use the personality of older models, but apparently that's something that open AI have addressed.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 931.148,
+      "endTime": 937.927,
+      "text": "So, whether they did that with, whether they've revealed that they've done that or not, apparently that is something that they've actually acted on.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 938.048,
+      "endTime": 940.766,
+      "text": "It's just a system prompt, isn't it? They've just tweaked the system prompt,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 946.06,
+      "endTime": 949.505,
+      "text": "the system prompt.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 949.585,
+      "endTime": 986.553,
+      "text": "they probably asked gpt5 how to make it, how to make it more friendly. Yeah, so I thought like let's just talk a little bit about how it has sort of moved forward technologically, so like technological advances of gpt5 and whether that's compared to gpt4 or whether that's compared to other models, but like how, how is it actually a kind of step forward? So one of the things that I got down was enhanced context handling. So it's got a much bigger context window, um, which is, you know, for everybody. Actually, if you're using it a lot, this is a really really big thing because it means it retains its information for a longer period.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 987.055,
+      "endTime": 1011.144,
+      "text": "So you've got kind of like longer conversations, you can have more files that it can retain memory on um. That means you can do a lot of like big projects like I do a lot of this in claude, that I use projects and and have, you know, multiple files in there that it can reference back to and stuff. Um, my understanding with gpt5 is that it's a leap forward, but I don't know if that's a leap forward for open ai because obviously, like google gemini, for example, already had a massive context window.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1011.826,
+      "endTime": 1040.287,
+      "text": "Google's got like a million or something like that, although that's got caveats, because it doesn't always have a million automatically, depending on what you're doing, all this sort of stuff. Um, I wanted to make a recommendation actually on that like to for you. If mean it's up to you, but I do a lot of coding and I've been. I was using cursor before, I'm using windsurf now, because cursors sort of blocked stuff from China. Now, um, but I, I think you, I think it might be useful for some of the stuff you're doing, even though it's designed for coding.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1046.76,
+      "endTime": 1063.029,
+      "text": "One of the things it's really good for is like having a rag knowledge retrieval thing built into it, and I think I mean, even though it's not its intended purpose, I think with something like windsurf, because basically you're talking to an LLM and letting it talk to the files that are in a project that you're working on and it does this thing where it has like rules and memories and all sorts of other stuff, I think it might be worth having a look at it for the stuff that you do.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1064.995,
+      "endTime": 1075.596,
+      "text": "Cool we should have had this conversation after the podcast, but I thought you were. When you said you, I thought you were talking to everyone on the podcast but I guess you are, if anyone, if anyone on the podcast also does projects, then they might also want to think about that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1075.837,
+      "endTime": 1090.609,
+      "text": "Yeah, it's a weird use case for it because it literally is designed, it's an, it's an, it's an interactive developer environment for writing code, but actually, when you're like researching something or doing something like that, it works really well as well because of the way it stores files and knowledge and information.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1091.53,
+      "endTime": 1110.095,
+      "text": "Um, anyway, you can give it a go here's one that you'll like, because we've talked about this before. It's got reduced hallucinations and improved accuracy, so, um, apparently it's 45 less likely to hallucinate or make factual errors I mean, I think we always like gpt5, give you that number. We always like it when models tell us about the percentage.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1110.497,
+      "endTime": 1110.718,
+      "text": "I think.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1110.758,
+      "endTime": 1114.295,
+      "text": "I think now it's funny, isn't it? Because a percentage used to make things credible.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1114.716,
+      "endTime": 1128.246,
+      "text": "When an ai gives you a percentage, it's an immediate red flag to be like bullshit I yeah, I mean I don't know what that means, but it's well less likely to hallucinate, less, apparently. Let's just leave it at that, whatever um, this is quite interesting.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1128.266,
+      "endTime": 1153.744,
+      "text": "So safe completions and refusal policy. So instead of out like refusing prompts that may be on the edge of its safety guidelines, gpt-5 is trained to provide helpful and safe information while still preventing the sharing of harmful content. So rather than not giving you an answer, it kind of tries to give you an answer within the sort of confines. Now I know it's sort of real freedom of speech lovers might not like it answers a different question.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1153.804,
+      "endTime": 1165.206,
+      "text": "Basically, it's like a politician exactly it's. It's very good at being diplomatic yeah, and telling you something that wasn't I can't help you make a bomb, but have you considered making a cheesecake exactly?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1168.32,
+      "endTime": 1172.629,
+      "text": "well, if we convert terrorists into sourdough bread bakers, isn't that a success?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1173.477,
+      "endTime": 1174.6,
+      "text": "uh, yeah, absolutely.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1174.941,
+      "endTime": 1203.199,
+      "text": "Um well, yeah then ai will kill us instead yeah yeah, agentic functionality. I guess this is like. I thought this was the big one and it feels like it's not really being talked about because maybe it's not that useful. But it has this agent mode which allows it to autonomously perform tasks like searching the web using a virtual desktop, accessing gmail calendars, etc. I don't does it do that? Well, that's what I said I.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1203.339,
+      "endTime": 1206.847,
+      "text": "I searched in the web so my wife used it. They all already did that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1206.867,
+      "endTime": 1246.146,
+      "text": "My wife used it a little bit and um, like, what she was using it for was basically I was like you don't need it for this. In fact, you don't want it for this, um, and it did start going off and doing things on its own um, I would say, and I like I've got to say this episode like neither me or you have. It's not like the two of us have spent the last two weeks doing nothing but playing with gpt5. So you know, maybe we're not best placed to do this episode, but from what I've heard, so far yeah from what I've heard so far, it doesn't feel to me that this is like. It doesn't feel like everyone's talking about oh wow, it's agentic, I'm using it for this, this and it's this solution.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1246.206,
+      "endTime": 1266.328,
+      "text": "So it feels like it's a very small step forward in terms of movement to agentic models and maybe a way for people to start to like understand a little bit about what might be coming, but it's probably practically not that useful yeah, I think the first time agentic models become useful is when they're built into your phone or your computer or your whatever, like.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1266.636,
+      "endTime": 1284.966,
+      "text": "Like that's when it, that's when all that stuff takes off. I don't know if we said that before already, but it's when you get a, it's when you get your next phone and it just like, does all this stuff for you? And it'll become like second nature. Yeah, book me whatever, get me a flight, go, book me a hotel arranger whereas now I think you're still talking it through a lot.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1285.267,
+      "endTime": 1297.69,
+      "text": "It can't like you talked about this, about how long it can kind of work on its own and how long does it need before it's prompted. I think at the moment the kind of agentic mode. You still need to be there oh yeah, prompting it the whole way yeah, I mean.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1297.911,
+      "endTime": 1313.845,
+      "text": "I mean, I do a showcase at the moment for what it will do in the future yeah, I do stuff that's very close to that, because I do develop, I develop with it and, like people call it, vibe coding, but you have to supervise it pretty closely, like it's sort of it can work on its own for five 10 minutes at a time, max.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1315.057,
+      "endTime": 1320.802,
+      "text": "The next one was actually going to be about coding, so it's it's much better at coding, right. I don't know if you used it for coding.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1321.515,
+      "endTime": 1367.427,
+      "text": "So it's a bit tricky because so what what happens with coding is is like whenever a new model comes out, because these because the way, the way that windsurf works and the way that these IDs work like cursor, it takes them a while to integrate it into their system so you can use it almost straight away. And actually on windsurf and cursor, they were offering GPT five for completely for free when it first came out, and I think that's because they need to get. They need to get people to use it and gather feedback to actually get it to work properly with their system, because the way they so I mean I won't go into too much detail on this, but the difference between using something like Cursor or Windsurf and doing coding with AI is that AI has access to these tools.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1368.395,
+      "endTime": 1404.843,
+      "text": "And so the AI I mean mean a tool is web search, right. So when they say gpt5 can do web search effectively, what they've done in the background is they've given it access to a tool I'm doing in quotes, I don't know why um, that allows it to go and search the web. So it'll be a tool where it can pass off a request and it can say I need to search the web for this and the other. The tool will pass information back to it and then it can like interpret that and come back to you. Similar with image generation, actually. But when you're using a agentic type interactive developer environment, when you're coding, it's got access to all these different tools.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1404.935,
+      "endTime": 1440.823,
+      "text": "So an example of a tool would be it needs to go in, like write lines of code, or it needs to go and do an edit on a file, and so one of the tools it has access to is to be able to go and do a targeted edit on a file, because it would be really inefficient to like look at a piece of code that's like three or four hundred lines long and rewrite all of that code every single time, and so it has a tool that allows it to read a small part of a file or find some content within a within a file, or make a targeted edit to a file. That's just one example, and when you get new models that come out, they don't know how to use these tools properly, and so it takes a little while.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1440.903,
+      "endTime": 1456.029,
+      "text": "Especially as these ids get more sophisticated, it takes them a little while to basically tune everything to work properly, and so it's a really long way winded way of saying I basically use claude for serious coding still, or gemini 2.5 is gp?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1456.269,
+      "endTime": 1472.115,
+      "text": "I mean the simplest question and actually I don't think most of our listeners probably care about what is the best model. But is it ahead of? You know, claude opus 4 at coding I think it's neck and neck really I think it's neck and neck, I think.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1472.356,
+      "endTime": 1491.684,
+      "text": "I think. I think I think on benchmarks it gpt5 does the top, gpt5 model does slightly better. But in terms of like real world applications, in terms of who's using what most for coding, I think more people are still using claude and it's for some of the reasons I just explained. It's also because it's familiarity.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1493.136,
+      "endTime": 1507.664,
+      "text": "Even if it's neck and neck or slightly head, if it hasn't blown it out the water, that's still pretty amazing because you know Claude's next model or Gemini's next model will, you know, will inevitably be ahead again and it feels like you know they've chosen to concentrate on that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1518.615,
+      "endTime": 1550.702,
+      "text": "I'm not saying it's not important, but it does feel like it's not the focus of of your chat dpt at the moment. Um, so maybe we see more differentiation and that's the way it's headed. The other one I was going to talk about just finally is like the, the sort of multi-modality of it. Um, I mean, it could always create, you know, text and images and stuff, and obviously you know that's one of the advantages that that chat gpd has had for a while is, and and one of the reasons why I do still use it is because you know it's image creation has been the best, I think, to use for a while, not necessarily in terms of like what the image looks like, but more the fact that it can.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1551.476,
+      "endTime": 1592.898,
+      "text": "It can pretty accurately from a very small prompt to create what you want, and I've got some on my screen. So, since we've used GPT-5, and this is a big step up from four, where not only can it spell, but if you put in the like people it does really. I mean, I don't know about for for a kind of um sort of photorealistic image, but when you're certainly doing like. Like the picture we're looking at is basically it sounds a bit weird, but a dragon on a horseback in inner mongolia and there's a massive screen that says t-cell vaccines and it's got a picture of Tucker Carlson interviewing Dr Patrick what's his name?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1592.918,
+      "endTime": 1598.629,
+      "text": "Anyway, dr Patrick, something and the picture is a kind of cartoon picture of them and it's incredibly realistic.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1601.896,
+      "endTime": 1629.426,
+      "text": "I think that off a very, very short prompt it's now able to really really accurately create images. It just feels like it's a big upgrade in terms of the multi-modality, like it's not again it's not like a groundbreaking change, it's just an iteration, but it's got it to a level now that feels like like the image creation static images is like is proper top notch now.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1632.53,
+      "endTime": 1667.082,
+      "text": "So we just finished this episode off. Just talk a little bit about what kind of makes it unique, and then also like the reaction now where we're sort of a couple of weeks later, which I think has changed a little bit. I mean just on what makes it unique. I think, just to kind of summarize, the agentic capability is the thing that I think you know, when it was released was was the kind of difference maker and and as I've said, like I'm not convinced that it is groundbreaking in the sense that, like, everyone's going to use it and it's just going to sort of take over and do stuff for them. But it is the first of those models that has kind of showcased what agentic could look like.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1667.142,
+      "endTime": 1703.77,
+      "text": "So that is a big step forward, um, and you know the the way that it roots things. Again we've kind of said, well, a lot of people have kind of criticized that, but again it is a step forward. Whatever the reason for it. You know the financial reason is still a justifiable reason. Like a lot of these um frontier developers, like we said that the 20 a month package, if they're, if it was gpt5, I'm pretty sure they're losing money on most of those subscriptions at the cost that you know per token of gpt5. So you know it is a move forward. I mean one of the interesting things, like because you were saying on, you know you use it through um, what is essentially an api.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1703.79,
+      "endTime": 1705.676,
+      "text": "I'm not sure if people actually understand what an api is.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1706.037,
+      "endTime": 1747.627,
+      "text": "I mean, maybe could you explain just very briefly uh, yeah, so instead of like chatting with um chat gpt directly, like, if you have access to an api, which is it's a programming interface um, then it allows you to mimic all of that, do exactly the same thing, but you get more control over it, I guess. So, like, for example, um chat GPT has its own system prompt built in. You can't like inject your own system prompt but, like with APIs, you can do some of that. I mean, you can do some of this with with like your things like custom GPTs and things like that, but APIs allow you to do this and they're and they're actually designed.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1748.035,
+      "endTime": 1778.55,
+      "text": "They're mostly designed for, kind of like enterprise apps and things like that. So if you were to make your own app that used AI which is what a lot of apps are actually that use AI they're a thin wrapper over something like ChatGPT and they'll use an API in the background. The other difference with APIs the huge difference is that you pay per token usage. So, like, a typical model might cost, I don't know $5 per million input tokens and $15 per million output tokens for quite an expensive one.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1779.455,
+      "endTime": 1788.625,
+      "text": "A token, just to say as well, a token like for words. A token might be like three or four words generally, depending on how long they are, but like as a basic rule is that reasonable.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1788.935,
+      "endTime": 1792.08,
+      "text": "No, tokens are like part of words, so words are words, more than a token.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1792.1,
+      "endTime": 1795.12,
+      "text": "Oh sorry, a word is All the way around. Sorry a word is three or four tokens.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1795.28,
+      "endTime": 1799.844,
+      "text": "Yeah, something like that. Like it depends A token can be a full stop or a part of a word.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 1800.176,
+      "endTime": 1801.361,
+      "text": "It depends how long a word is but.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1803.458,
+      "endTime": 1820.246,
+      "text": "Yeah, but like a million tokens would plus words um, so it's a lot. But but yeah, you're paying. You're paying for what you use, rather than giving a 20 pound 20 a month flat fee and then you can use it as much as you want the point I was going to make was just that if you get the api, you can then choose the model.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1820.486,
+      "endTime": 1840.886,
+      "text": "So when we talk about you know it automatically doing this is when you're using gpt through the kind of chat, gptcom or the app interface. So it does have the ability to be able to, you know, choose the model and maybe they'll change that. Or maybe our listeners have all got 200 a month subscriptions and then they'll wonder why we're telling them this I can.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1840.926,
+      "endTime": 1863.165,
+      "text": "Yeah, I mean, they're definitely trying to save a bunch of cash by. And don't get wrong, I'm being cynical because they're a corporation that is why they're doing it right. That is the main reason it's the main reason, but it also saves on power. It saves on. It saves the environmental damage from your search. It saves a lot of other things as well, so it's not necessarily all bad the other couple of things, um so configurable personality.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1863.185,
+      "endTime": 1884.717,
+      "text": "So I said before about how they've updated, um, the kind of personalities as a result of feedback and apparently you can now customize the tone. I'm not sure how you do that, but it almost like your kind of personalities as a result of feedback and apparently you can now customize the tone. I'm not sure how you do that, but it almost like your kind of own system prompt so you can have it, I think. I mean, I think you could always do that within sort of projects and within chats, but, um, once you ran out of memory, obviously you wouldn't be able to do that, so apparently now you can customize it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1884.737,
+      "endTime": 1893.953,
+      "text": "The final one I just I feel like that's something we could all benefit from yeah, definitely, definitely yeah maybe not me. I don't need it. No, I've got the perfect personality.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1893.973,
+      "endTime": 1911.453,
+      "text": "But yeah, I'll give you some feedback later and the final one was which we talked about was the context window, so I actually just found a reference to it. So the context window is 256 000 tokens, so apparently, which is a major differentiator, even though that's less than Google right.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1912.38,
+      "endTime": 1916.985,
+      "text": "It's yeah, it's a lot. I think Google's is more. I don't know what Claude's is. It's apparently an entire novel.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1917.527,
+      "endTime": 1923.891,
+      "text": "Yeah, Claude's was never as high as Google, so Google was definitely like. Google was like Gemini was the biggest contest.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1923.911,
+      "endTime": 1932.864,
+      "text": "Yeah, I thought the standard last generation was 128K, so it's double. So it's double. So it's double. That it's no. I mean, google have already had a million and they said they can do 10 million.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1932.904,
+      "endTime": 1970.468,
+      "text": "I think yeah all right, so let's finish off um reactions. So I think that the reason I wanted to include this. I heard a great um comment by uh, uh, let me think it's v, is it more of it? Um, I used to talk about him a lot and then I stopped reading his sub stack because it made me too depressed, because he's one of those realist, pragmatist people that all think we're going to die. But anyway, that's an aside. He made a really good comment it was quite a good comment. He said it was the anti deep seek and his point was that with deep seek, like it came out with this, oh, this is going to change the world.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1970.434,
+      "endTime": 1992.521,
+      "text": "It was the anti deep seek and his point was that with deep seek, like it came out with this, oh, this is going to change the world. And you know it was so much I mean we did two emergency episodes on it was so much kind of hype around it and don't get me wrong, like it was big and it's yeah, we know loads appear around us who use it all the time. I think in china it has been absolutely revolutionary, but it was seen as like this massive leap forward. Actually it kind of didn't live up to the hype because you realize well, it's actually not better than other models, it's just cheaper and that kind of didn't matter.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1993.062,
+      "endTime": 2026.606,
+      "text": "I think it was better for about a week or something yeah, but I think chat gpt's five is than the opposite. Like it came out and people like, oh, is that it? But actually as people have used it and had a much more nuanced understanding of it, like they've realized, like okay, it may only be a step forward, but it just it is better. I mean, I think like it is the best model at the moment. It will change again soon, but it has been a leap forward. Like we said, the agentic thing is not that impressive, but it's still impressive that it exists right yeah I did notice something with copilot actually, where it's integrated with copilot, where I'd been trying to do something that didn't work and I noticed, oh yeah, it has this chat gpt feature.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2026.626,
+      "endTime": 2059.124,
+      "text": "You can put chat gpt 5 on, put it on and used it and it was able to to basically do what I wanted in terms of putting a document together and I was like that's not mind-blowing, but this is really useful and and other models couldn't do it. So I think there has been a difference in that. It does feel like you know, people are starting to see that because maybe now that this kind of ink has dried on it, people are no longer worried about the hype and actually when they use it, they're like, yeah, actually this is really good. But it hasn't blown people away and I think, like we shouldn't escape the fact that gpt5 was going to be this groundbreaking thing.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2059.586,
+      "endTime": 2071.374,
+      "text": "It wasn't, like it just wasn't I don't think that we will see anything groundbreaking in terms if you, if you're just talking about models that are just getting better and better and better the way they are now. I think we said this a while ago.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2071.52,
+      "endTime": 2074.791,
+      "text": "I think with large language models we won't see something groundbreaking. We'll see iterative.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2074.96,
+      "endTime": 2076.365,
+      "text": "If they find a new architecture.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2076.686,
+      "endTime": 2077.83,
+      "text": "Like all, bets are off.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2078.24,
+      "endTime": 2079.084,
+      "text": "But with large language models.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2079.105,
+      "endTime": 2080.31,
+      "text": "it's going to be iterative, right yeah?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2080.721,
+      "endTime": 2118.608,
+      "text": "And even with a new architecture, it depends what it does Like. If you're, at the moment, there's nothing to distinguish between the best models like, you can use any of them. They're all going to give you really pretty good answers. If you're doing like top level research, you'll notice a difference. If you're doing coding, you'll notice a difference. Those are the kinds of people that will notice a difference right now. So, yeah, so like every like, in terms of the general public's reaction to the next best model, it's just it doesn't really make much difference. Um, I think what will make a difference is when you get, when we properly get, those agentic models and they're available to everybody and you know, you start to get ai.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2118.649,
+      "endTime": 2150.209,
+      "text": "That like I mean, it's a bit like the stuff that I'm doing. Again, just to go back to it, the stuff I'm doing with coding. I'm always amazed by it all the time because it's literally just writing code and building an application. For me that's like agentic ai and obviously for every day, for everybody else in their day job, that's going to be an ai where it becomes your pa. It's your personal assistant. It's next to you all the time, like doing stuff for you, alongside you, working with you like helping you do your job, um, and then doing that in your personal life as well, that's when we'll notice.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2150.27,
+      "endTime": 2155.251,
+      "text": "That's when people will be like, oh, that's the next big leap. I don't know when that comes. No, I.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2155.331,
+      "endTime": 2192.142,
+      "text": "I mean, I hope, I hope it's far away, but it probably isn't. Um, yeah, the the final thing, just on like just sort of picking up some of the sort of feedback in the last few days, in the last week or so, was this apparently the thinking mode and the way that it thinks. So there was confusion early on about its thinking mode and now apparently the kind of feedback is the way that it shows its chain of thought, which is basically the way that you understand the model's reasoning and therefore are able to build trust in, like how it has got to a complex answer. That's another thing that apparently you know as people have used a model more.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2193.265,
+      "endTime": 2231.869,
+      "text": "It's not that chain of thought, it's not the bnfc. The justification is something new. I mean, for example, like qn, which is the um, the qn's alibaba, yeah, in china, which I use quite a lot, that has a reason mode and it's it goes through air like in real detail every step. Deep sea caddo thinking mode. It seems to be a big thing in china, but it feels like the feedback that I'm seeing anyway is that this kind of chain of thought is actually you can see the logic and as people understand how it thinks. That's where people have become and I'm talking here kind of experts, not just like normal people are like wow, actually, like the way that it's thinking is is different, it's better than other models so do you know what?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2232.47,
+      "endTime": 2264.342,
+      "text": "I keep going back to this, but I actually use it. So in for most like daily stuff, um, the chain of thought stuff, where it's giving sorry, it's giving you it's thinking, it's kind of like irrelevant. You don't necessarily look at it all the time, but actually again, when you're coding, when it's like doing its thinking before it starts writing stuff, I can immediately see. I quite often stop it because I'm can see it's going off on the wrong track. So it's actually really helpful to see it's thinking, because you're like oh, and maybe this is something that everyone could use it more for. It like generally, if you're just asking it questions, it's gonna.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2264.562,
+      "endTime": 2275.361,
+      "text": "It's not really a big deal, but definitely with coding I'll be like can you do this for me? And I can see it goes off in some tangent and I'll just be like stop, no, no, no, you need to like, you need to go in this direction instead.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2275.722,
+      "endTime": 2302.72,
+      "text": "I I don't, I mean, I don't look at that often, but just reminding me of an example, and I sent this to you ages ago. So I this was using qqn or tong tongyi, which is qn's kind of interface. So qn's a Tongi is the kind of app and the kind of user interface on that model in China and I this was sometime last year, I couldn't remember which teams were left in the FA Cup, so it was like the quarterfinals, I think, and I wanted to know who was left in the FA Cup. And I asked it which teams are left",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2317.072,
+      "endTime": 2323.358,
+      "text": "in the FA Cup in another year? But if it's that year, then man United won it, but that's already happened. And then it kind of had this existential crisis,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2330.44,
+      "endTime": 2359.367,
+      "text": "the thinking mode to see it have this, you know, like, I say like literally to see it have a breakdown. And it and it came up with like well, the answer is this if it's this, and I was like no, I just wonder who's left now. And it was like because it's training data had stopped, but it wasn't necessarily doing a search, it was. It couldn't understand when this con, so so my point with that is like the thinking mode, even though we've had it for a while, like like the thinking mode. You've been able to see how it thinks in a kind of negative way. I haven't seen this so much with GPT-5, but it feels like what people are saying is that they're watching it and they're understanding the logic and it's making them trust the answers more.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2359.46,
+      "endTime": 2367.869,
+      "text": "It's making it trust the logic that it works in. So yeah. So final words on it Should everyone rush out out and get a $200 a month open AI license.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2368.75,
+      "endTime": 2374.307,
+      "text": "No, I mean they shouldn't, because I don't know why anyone would do that Well, they're giving $200 a month to Sam Altman, if nothing else.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2374.387,
+      "endTime": 2379.128,
+      "text": "But no, I agree they shouldn't do that. If they've already got ChatGPT, should they switch to another model.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2379.65,
+      "endTime": 2381.927,
+      "text": "Yeah, Chat LLM Abacus AI.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2387.769,
+      "endTime": 2404.308,
+      "text": "Well, it's not a model which is unlikely. I'm going to email them. And final question is it the best model out there? Probably yeah. I think the fact that you answer it like that it kind of sums all this up it's probably the best model. Are we that excited about it? Not really. Is it iteratively better than others? Yeah,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2411.54,
+      "endTime": 2432.585,
+      "text": "will be better in two months time, probably. Yeah, so, um, disappointing, but actually still a big leap forward. And, um, if you've got gpt or you like gpt, probably no reason to change and use anything else I'm looking forward to google pro 3.0 I am, and I should just end series two by reminding everyone that sam altman is a dick. And uh, yeah, that's the end of. Should we turn over a new leaf with season episode two or series two?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2432.885,
+      "endTime": 2441.922,
+      "text": "see you said season I think season okay sounds should we better turn over a new leaf with season three and like being nice to sam altman, or at least like I think we'll?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2441.942,
+      "endTime": 2467.583,
+      "text": "talk about him less, but no, I won't, I won't, I think that's my, essentially, that's my we're gonna talk about gary, aren't we? Yeah, but my personality is I don't like Sam Altman and I'm a conspiracy theorist. Yours is you're a drunk. I'm feeling really optimistic, and an optimist, yeah, I'm feeling optimistic as we head into series 3, I'm feeling much more optimistic about life because I'm not thinking so much about all the existential threats to the world, but I'm also.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2467.623,
+      "endTime": 2471.872,
+      "text": "Are you feeling a bit poorly? I'm feeling pretty good. I'm feeling pretty good. You're not coming down with something.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2472.093,
+      "endTime": 2480.41,
+      "text": "No, I'm not. Anyway, we said we'd finish this episode, so yeah, thanks for listening to season two and we'll see you on the other side for season three. Listen to the song.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2491.135,
+      "endTime": 2494.46,
+      "text": "Listen to the song. A little bit disappointed, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2503.273,
+      "endTime": 2505.135,
+      "text": "A little bit disappointed, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2516.22,
+      "endTime": 2517.062,
+      "text": "A little bit disappointed,",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2523.133,
+      "endTime": 2537.107,
+      "text": "but ultimately pretty good. A little bit disappointed, but ultimately pretty good. I'm gonna make you pretty good. A little bit disappointed, I'm gonna make you pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2544.617,
+      "endTime": 2551.787,
+      "text": "A little bit disappointed I'm gonna, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2555.192,
+      "endTime": 2558.656,
+      "text": "A little bit disappointed, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2587.196,
+      "endTime": 2590.518,
+      "text": "A little bit disappointed, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2597.852,
+      "endTime": 2601.318,
+      "text": "A little bit disappointed, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2608.53,
+      "endTime": 2611.835,
+      "text": "A little bit disappointed, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2619.211,
+      "endTime": 2622.475,
+      "text": "A little bit disappointed, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2629.842,
+      "endTime": 2633.176,
+      "text": "A little bit disappointed, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2640.531,
+      "endTime": 2644.016,
+      "text": "A little bit disappointed, but ultimately pretty good.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Disappointed",
+      "startTime": 2659.324,
+      "endTime": 2663.266,
+      "text": "A little bit disappointing, a little bit disappointing, but ultimately pretty good. Thank you.",
+      "chapterIndex": 9
+    }
+  ]
+}

@@ -1,0 +1,1240 @@
+{
+  "slug": "s2-2025-02-08-ai-inflection-point-deepseek-s-trail-of-de",
+  "buzzsproutId": "16584969",
+  "title": "AI INFLECTION POINT: DeepSeek's trail of destruction and the new AI landscape",
+  "date": "2025-02-08T07:00:00.000Z",
+  "season": 2,
+  "durationSec": 4220,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16584969-ai-inflection-point-deepseek-s-trail-of-destruction-and-the-new-ai-landscape.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail What if the most sensational claims of AI breakthroughs are masking hidden truths? Join us as we explore an insane week of AI developments in the trail of DeepSeek's complete destruction of the AI landscape. We'll unravel the controveries behind it's training costs and consider how much we can trust the narrative shift the US side is trying to push . Alongside this, we'll weigh the implications of depending on large language models for critical information and the importance of adopting a \"trust but verify\" mindset in the face of rapid technological advancements. Imagine a future where AI models not only predict but genuinely think and reason independently. However, with innovation comes risk, and we'll question the balance between fostering groundbreaking AI and maintaining control, especially as the AI race heats up. From the looming concept of a \"hard takeoff\" in AI development to the possibility of AI surpassing human intelligence, our discussion challenges the boundaries of what AI can achieve. Shifting our focus to the intersection of AI and military use, we delve into the ethical dimensions of recent partnerships between tech giants like Google and Anthropic with the defense sector. With AI's integration into military technology, such as drones, we confront the ethical dilemmas and the lack of transparency from major organizations. In a world of uncertainty, we close by reflecting on the power of choosing hope over fear, encouraging a vision of resilience and unity as we face the future of AI together. Join us to explore these compelling issues, balancing technological innovation with ethical foresight.",
+  "summary": "Two weeks after DeepSeek wiped half a trillion dollars off US markets, the hosts interrogate the 'DeepSeek effect': whether its $6m training claim is a lie and whether it distilled OpenAI (they conclude we'll never know, and the US is defensively muddying 'China got ahead'), why AlphaGo-style reinforcement learning without human feedback is the real breakthrough, and whether that puts the hard takeoff less than a year away. Also: Google dropping its military AI ban, deep research tools killing academic writing, and Matt's dark prediction about Sam Altman's future.",
+  "keyTalkingPoints": [
+    "DeepSeek's true training cost may never be known - but the methods are open-sourced and replicable, and the US has an interest in confusing the story",
+    "The real breakthrough: R1 taught itself to reason via pure reinforcement learning with no human feedback - like AlphaGo, it's no longer parroting tokens; this changed Jimmy's AGI calculus",
+    "Hard takeoff watch: Jimmy thinks it could be less than a year away, though the model still needs humans to act on its behalf for now",
+    "DeepSeek catalyzed mass LLM adoption in China - people who never used chatbots now treat its output as gospel; 'trust, but verify'",
+    "Google dropped its AI military-use ban and Anthropic partnered with Palantir - 'organizations are no longer even pretending to care about safety'",
+    "Deep research (Google at undergraduate level, OpenAI at beginner-PhD) threatens academic research; Matt sees report-based assessment dead within 1-3 years - 'learning will become a hobby', and he predicts Sam Altman 'becomes a target' who won't live to a ripe old age"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "DeepSeek genuinely learned to think, not parrot - that puts us on a path to AGI we didn't believe the LLM paradigm had",
+      "We are fast approaching the hard takeoff - possibly less than a year away",
+      "Free frontier open source leaves closed-source middleweights like Anthropic 'pretty screwed' while OpenAI and Google survive on ecosystem"
+    ],
+    "matt": [
+      "We'll never know DeepSeek's true cost, and the US is deliberately spreading rumors to hide that China got ahead",
+      "Labs are no longer even pretending about military use or safety - and at least now that's visible to the public",
+      "The $20-a-month consumer model tier will die - you end up with either free models or expensive enterprise tiers"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-02-08-ai-inflection-point-deepseek-s-trail-of-de-1670.2-the-hard-takeoff-ai-capable-of-improving-itself-",
+    "s2-2025-02-08-ai-inflection-point-deepseek-s-trail-of-de-2509.6-sam-altman-will-become-a-target-as-people-realiz",
+    "s2-2025-02-08-ai-inflection-point-deepseek-s-trail-of-de-2401.2-the-20-a-month-consumer-model-tier-will-disappea"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Keep Hope Alive"
+  ],
+  "chapterCount": 7,
+  "turnCount": 166,
+  "chapters": [
+    {
+      "title": "Deep Seek Training Cost Controversy",
+      "startTime": 1
+    },
+    {
+      "title": "Trust and Verify",
+      "startTime": 761
+    },
+    {
+      "title": "Thinking Beyond Large Language Models",
+      "startTime": 1184
+    },
+    {
+      "title": "The Race for Advanced AI Models",
+      "startTime": 1690
+    },
+    {
+      "title": "Military Partnerships and AI Ethics",
+      "startTime": 2539
+    },
+    {
+      "title": "Changing Landscape of Academic Research",
+      "startTime": 3148
+    },
+    {
+      "title": "Choosing Hope Over Fear",
+      "startTime": 3989
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 39.244,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI, governance and alignment. Urgent need for safe development of AI, governance and alignment. Another broken afternoon, a whole life just scattered and strewn across the bathroom floor and I'll draw the blinds and lock the doors. We need some help. I can only help you hurt yourself. I threw it all down the wishing well.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.507,
+      "endTime": 46.952,
+      "text": "Don't throw it all down the wishing well. Welcome to Preparing for AI with me, haruki Murakami.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 47.56,
+      "endTime": 47.781,
+      "text": "And me.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 47.841,
+      "endTime": 57.287,
+      "text": "Masayoshi, son, and we are coming at you this week. Live from well, I'm not, I'm actually coming at you from my bedroom, but, jimmy, you're coming at us. Live from where.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 58.842,
+      "endTime": 62.789,
+      "text": "My hotel room in Japan. I'm excited to be in Hokkaido this week.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 64.241,
+      "endTime": 86.453,
+      "text": "Yeah, and we decided that, even though you're in darkest Japan and you are in the darkest part of Japan because it's the most northerly latitude-wise that we would give our listeners the treat of yet another not emergency podcast, but an urgent podcast, be it all the news that's been going on this week in the AI world.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 89.563,
+      "endTime": 98.37,
+      "text": "Most of our episodes aren't really. You know what's the word. They don't need to be out at a particular time, do they? But there's been so much news recently, so yeah.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 99.561,
+      "endTime": 141.043,
+      "text": "So we thought we'd do another one. So we yeah, I mean I guess let's start off, even though I don't want this episode to be another kind of deep seek one, because I actually checked my inbox the other day and I deleted a load of emails and I'd left some emails in there that generally AI stuff that I couldn't be bothered to read, and three of them, all from completely different people, were all titled the deep seek effect and they were completely separate things and and it just kind of showed how, like everybody was, was kind of onto the deep seek thing and I was listening to to a podcast last night where they were kind of saying you know it wasn't an ai podcast, but but they talk about ai and they were saying, like, you know, we want to stop talking about deep seek.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 141.604,
+      "endTime": 147.994,
+      "text": "So we want to stop talking about deep seek. But we're going to start off by talking about deep seek, aren't we? Because I think we need to I think it's a.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 148.234,
+      "endTime": 166.013,
+      "text": "I think it's still a huge deal. I think it's still a massive like. It's a like considering how stale ai was getting. I'm happy to talk about it and I've uh got some views. I'm going to share tonight a bit of an update on my thoughts, um, on the future of ai as well. So quite excited about it again so let's dig in then.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 166.033,
+      "endTime": 178.295,
+      "text": "So did deep seek. Did they lie about their training costs? Have they been distilling open, ai? What do you think? We should probably explain what distilling means as well yeah, so.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 178.576,
+      "endTime": 206.443,
+      "text": "So first thing is like, just to clarify for people who aren't up to speed um, there's been a whole load of news articles since um deep seek was released upon the world and since like half a trillion dollars was lost, lost off the us stock market. Um, and they were started by open ai. So and I think elon musk as well, people like that, some of the tech bros they said that it wasn't trained. They've got all these gpus that they're hiding, all this kind of stuff. A few people mixed into that. Some of the tech bros. They said that it wasn't trained. They've got all these gpus that they're hiding, all this kind of stuff.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 207.405,
+      "endTime": 241.401,
+      "text": "A few people mixed into that kind of mixed into that like how much the gpus actually cost in the first place, so whether they've got these 50 000 gpus lying about. They said they trained it on 2000, sort of bringing that into question. Some people have mixed into it the cost of the actual gs themselves, which I find a bit odd. So just for clarity for people who listen to the podcast normally when OpenAI talk about training, when Google talk about training Meta, when anyone talks about training an AI model, they're not talking about the infrastructure cost of buying the GPUs and the data centers and things like that.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 241.742,
+      "endTime": 286.795,
+      "text": "They're talking about the cost of training that model. It's basically electricity, pretty much, and infrastructure costs like overheads for running these data centers, things like that. They're not normally talking about the actual cost of the GPUs, because obviously you're going to use the GPUs to train your next model and your next model and your next model. So just to clarify what DeepSeq was saying, as I understand it was basically it costs $6.2 million worth of electricity. They obviously have tons of GPUs lying about because they're this quant trading company. So they have these GPUs already and they're using some of them in what they're saying to train this model.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 287.08,
+      "endTime": 334.63,
+      "text": "Now the argument is that you couldn't possibly have trained this model and they're lying about it and it's actually cost more. Ultimately, I don't think we'll ever know the answer to that. To be honest, it's very possibly a lie. I think. The only reason I think it might not be or maybe that it might not be, but like it would be a bit of a dubious lie is that they've open sourced everything, and so I think we mentioned it on the podcast last time but in theory, people can pretty much just go and replicate their entire methodology because they've open sourced so much of the information about how they trained it and so if they're lying about it, it'll be relatively short-lived and also not to get too technical.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 334.78,
+      "endTime": 379.872,
+      "text": "But a lot of things about the way the model works kind of do add up in terms of they've demonstrated through their paper that they used a different type of learning, where it didn't involve humans in the loop and that kind of thing. Just quickly on the second thing. So distillation basically, is distillation is you train a big model and you get that model to train smaller models. So you get that model to then teach smaller models. What is the right and wrong answer? So once you've got a model like GPT-4 or GPT-01 or GPT-03, things like that, you can then use that to effectively pass on its knowledge, so to speak.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 379.932,
+      "endTime": 419.862,
+      "text": "So like I mean, you know, act like a teacher to a much smaller model or a different model completely, and basically what you're doing is you're taking the superior knowledge of this big model and you're distilling that into a smaller model. Is what OpenAI have claimed, that DeepSeq have done. So what they it's in, open it's in and it's an opening eyes term the conditions that you can't do that. So what they're saying is they've got an api. So, um, deep seek, the company I've got I've got an api call to chat gpt to basically use that in some way to train their model.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 420.022,
+      "endTime": 452.887,
+      "text": "As far as I understand it, yeah, yeah, it's kind of calmer if it's true for OpenAI, isn't it who you know? I've got a million and one lawsuits for data that they've been obtaining illegally and, you know, scrubbing YouTube videos when they're not supposed to. The rumours and I call them rumours maybe I should call them conspiracy theories or truths, as I like to call them, as you know but the rumour that I heard about chips or truths as I like to call them, as you know but the rumor that I heard about chips, they had $1.5 billion worth of chips. Now they are like you say. They're a quant company.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 452.947,
+      "endTime": 461.256,
+      "text": "That's what they were set up to do. It wasn't to create large language models, so it could make sense that they didn't use them all,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 464.36,
+      "endTime": 501.667,
+      "text": "but it seems odd that you would leave most of them in a cupboard. You know, train this model on just a small number that you had. So I think, on that case, you know the original thing of oh, they only use 200 gpus and one five, sorry, 5.5 billion or whatever, 5.5 million us dollars seems like it may not be true, but I also think there is clearly. You know, the us side have clearly been on the defensive here. There is a narrative here that they want, which is you know, this is one the Chinese state involved, the Communist Party, blah, blah, blah. Secondly, you know China's not able to do this without our technology, and some of this could be true, like you say, I think we'll never know.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 510.36,
+      "endTime": 538.947,
+      "text": "But I think you have to take it all with a pinch of salt, because from the us side, this has been embarrassing, and so you know a lot of the, a lot of the comms that have been coming out, and and the more rumors you spread, the more you know, the more you you start to confuse people, and it's, you know, the oldest kind of trick in the book. I think now we're in this position where we're like, oh, we will never know. That has already undermined the message that that you know china has got ahead, which I think is intentional. I, I think you know the deep seat model. I think I still think a lot of people have missed um, why it's so good?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 539.087,
+      "endTime": 570.011,
+      "text": "And and one thing that sort of anecdotally here in china, one thing that I found really interesting there are some weChat groups that I'm in nothing to do with AI at all, but where people have not mentioned AI in those groups as long as I've been in them and in fact, I've been giving information to people using AI that they didn't know about. Since DeepSeek came out, they've all started basically coming in with you know they're checking DeepSeek and now they're taking everything it said as exactly true and wow, how amazing this is. And I've pointed out to them that you've got models like Kimmy in China.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 570.12,
+      "endTime": 617.428,
+      "text": "You've got, you know, other models that have been there for a while that are not really that inferior to DeepSeek and it seems to have. You know we talked about in the China episodes about how AI is more integrated here in people's lives, but they're not using large language models in the same way. It feels to me that in the circles that I'm not necessarily part of, but I'm sort of on the periphery of that, deepseek has been the catalyst in China and now people are using DeepSeek daily for things that people in the West were using, chatgpt for a year or so ago. That's been a really interesting thing with DeepSeq for me and I think, like I say, they feel like maybe because it's seen as being level with these US models that DeepSeq is trustworthy in a way that they were just not using other large language models before.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 617.48,
+      "endTime": 642.408,
+      "text": "So I think there's another thing that's come out of it which is not, you know, doesn't impact the kind of global AI arms race or the impact on on the sort of economy in the us and stock market crash in video etc. But it is an interesting another point where deep seek seems to have been a catalyst for much more adoption of large language model chatbots in china yeah, I mean.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 642.488,
+      "endTime": 680.807,
+      "text": "One thing I would say is that and this is depends, it depends on the domain that you're using it in. Like, I think I'd still go back to the fact, and I think this is still true of llms, it's still true of deep seek, it's still true of even the best models open ai have. If you're using a large language model to fact check something, to just be like, what's the capitalist country, what's this like to get factual information, I think google search or some kind of search is your better option. Um, like, that's not really what they're good for. What they're good for is especially the new models, deep seek and things like that.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 680.827,
+      "endTime": 725.368,
+      "text": "These, these models can reason and actually help your thought process and help you think about things and should be used alongside facts. I still think we're going to talk about deep research later on, which maybe changes the dynamic a little bit, and some of the search functions that are built into these models. But trusting what an LLM says when you're just asking it for facts, just trusting it categorically, is dangerous because they do still hallucinate things and I don't think that changes with the. With the new models, I think maybe it's reduced a little bit because they question themselves in a way that, like sometimes, when a model gives you an answer and you're not sure about the answer and you question it, it'll go back and think about it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 726.621,
+      "endTime": 739.275,
+      "text": "In the old days you could have that kind of conversation with an LLM. But I still think that trusting using LLMs for that purpose is like not really the best use case. It's not.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 739.78,
+      "endTime": 780.472,
+      "text": "But I think and I've said the same thing, I've said know the large language models were not created as a as an alternative to search. I think now you know most of them, including deep seek, does have a search function, although most of the last week and a half it's basically it's been shut down because mix of too much traffic and you know, and and yeah, and attacks, etc. But I think we've also got to acknowledge that most people are not doing the things that you and maybe even I are doing on a day-to-day basis and that most people's normal interaction with it is to ask questions and therefore it does give a much more natural interface and I think it depends what you're checking and how important that information is.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 781.061,
+      "endTime": 824.892,
+      "text": "If you're asking, for you know, a medical diagnosis is dangerous. If you're asking it, if a certain medication will help with a particular condition, I think that information you can probably trust, because it can. It's just telling you pathways etc. So that you know, because I think this is a use that a lot of people are now using. You know, people diagnose themselves using Google. We just have this idea of Google doctor and people self-diagnosing. I actually think large language models in that way are a better way to do it. If you're asking for information, is this true or false? You know, and we've said this before, it's like if there isn't a clear answer, then it's going to get confused because it depends where it looks for that answer.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 828.82,
+      "endTime": 861.32,
+      "text": "So, yeah, I I'm sort of not disagreeing with you, but I think there's more of a kind of nuance to it and it is more natural. The way that you're asking questions, you could argue, you know, use, perplexity, use. I still think google at some point will have to to have a great kind of search ai function, just because of of who they are. But yeah, I think you're right and I think a lot of these people, they are just beginning to use large language models. So it's kind of it's kind of it's the normal way that most people get into it. But I do think it's. But you're right, I do think it has been not funny but kind of worrying how they're now just oh well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 861.34,
+      "endTime": 883.073,
+      "text": "I asked DeepSeek and it said this. And in, they're now just oh well. I asked, I asked deep seeking, it said this and in their head it's just fact. You know, they are absolutely bought into it and it will only it will, you know they'll change their mind when they, when it gets something wrong, something important wrong, and then it will be the kind of goes the other way and it's like deep seeks rubbish. You know it like actually it's, it's neither it's, it's somewhere between the two.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 883.174,
+      "endTime": 892.701,
+      "text": "I would I would say, I would say I can't remember who said this. Lots of people say this. I think I would say trust, but verify.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 893.564,
+      "endTime": 894.807,
+      "text": "I would say trust but verify.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 895.409,
+      "endTime": 934.81,
+      "text": "So, like I'm like, I'm inclined to trust large language models and they get stuff right the majority of the time, which is what leans you towards trusting them. But as soon as you stop verifying things and that's, that applies to, like, something you read in the news, something you read on google search it applies to most things. Like you know, can you find it from another source or is it just a one-off? And there are examples this week, like, there was an example, um, there was an example about an ai model where, uh, it was about deep seek actually. So somebody like and this has been repeated on youtube, it's in a, it's in reddit, it's in all sorts of places and what they were saying was deep seeks made itself 200 faster.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 935.211,
+      "endTime": 977.066,
+      "text": "This is the start of the ai revolution. Like the, you know the singularity, the intelligence explosion, the hard takeoff, whatever you want to call it, um, and when you actually look into it, when you like, really dig into it, because I watched a matt berman video. Do like the guy, but I do verify some of the stuff he says, especially when I'm going to repeat it on my podcast, which is what I was about to do today, or our podcast. Sorry, um, but but so he's. He's literally done an episode on YouTube where he's like it's incredible, it's replicating itself. This is the hard takeoff. Sorry, it's not replicating itself, it's improving itself.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 977.982,
+      "endTime": 1016.048,
+      "text": "When you actually look into what was done in a very narrow domain. Someone fed deep seek information and asked it to improve an algorithm. Now, first thing is, the information on how to improve that algorithm is actually already out there on the web and has already been done, I think. I believe. So this is not something new, and so this is one of those things where it's like okay, sounds true on the surface, lots of people talking about it, but when you actually go and verify it, it's a bit more sketchy and it's maybe on slightly thin ice. So you know, that's just an example from today that I found.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1017.12,
+      "endTime": 1021.165,
+      "text": "So are we in the hard takeoff or not? What's? What's the final answer?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1023.462,
+      "endTime": 1030.876,
+      "text": "Are we in the hard takeoff? This is something I was going to talk about later on, but, um, yeah, maybe dave shapiro says we are dave shapiro, by the way.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1030.896,
+      "endTime": 1037.678,
+      "text": "I think he's now 100 just doing ai content again, so he's obviously giving up giving up ai give it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1037.719,
+      "endTime": 1040.424,
+      "text": "He's giving, giving up, giving up on ai he gave up straight away.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1040.444,
+      "endTime": 1042.747,
+      "text": "I mean, he gave up within two days, didn't he of giving up?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1043.368,
+      "endTime": 1084.469,
+      "text": "yeah, yeah, um, I think we are fast approaching it. I don't know if we, I don't know if we want to segue into something we're going to talk about later on, because it maybe fits in this segment. Um, so we were going to talk about agi and what, what deep seek means and the thing. The thing is like, when we talked about deep seek last time, I think I talked about DeepSeek last time, I think, I talked about the way it doesn't use reinforcement learning with human feedback and it doesn't use human feedback at all. Basically, and this is one of the really smart things about what DeepSeek have done, this is genuinely going back to what we were talking about before, about whether they trained it for 6 million or whatever it was.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1088.32,
+      "endTime": 1122.989,
+      "text": "In a way, it's kind of missing the point, because it was definitely trained for a lot cheaper than a lot of the big models, and they've open sourced this paper, they've open sourced all of their methods and they genuinely did some innovative stuff that hasn't either hasn't been done before in the west or potentially hasn't been thought of, or, you know, I think there's like applications that they've made, there's like links that they've made which have actually genuinely been a surprise, and so, basically, what they've done is taken humans out of the loop completely and, having sort of looked into it more this week, I feel like the best analogy for it is.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1123.62,
+      "endTime": 1160.24,
+      "text": "So what they do is, instead of like rewarding, instead of like using human feedback to input on the sort of thought mechanism that DeepSeek has, instead of like using humans to kind of say this is correct, this is not correct, as you would like teaching a human, what they've done is they've basically said no, the model is just going to teach itself, we're just going to give it the right answers and we're going to, we're going to trust it to come up with the right reasoning to get to those answers. And what they found was that actually, the reasoning started to make a lot of sense. Now, it didn't always reason in english, it was reasoning in different languages.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1160.821,
+      "endTime": 1203.687,
+      "text": "There's some stuff on the internet about ai is even making up their own language because, you know, our languages are not efficient enough that kind of thing, um to describe these concepts. But ultimately, the the thing that I'd kind of missed a few weeks ago when we did the last episode, was that by doing this like reasoning by inference, they're doing something similar to what AlphaGo did so. Alphago, for anyone who didn't know, basically was a deep learning model trained by Google that beat the best human player in the world at Go and did it kind of like a lot earlier than was expected, and the clever thing about what Google did with it was they just let it learn the game of Go.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1203.707,
+      "endTime": 1238.1,
+      "text": "They gave it the rules, they gave it something called a reward function and they didn't give it any human inputs. They didn't say this is like a good move, this is a bad move. Here's some like training data on good and bad moves. They didn't give it anything like that. They just said this is the objective, go and figure it out. It played against itself like millions and billions of times, which is obviously what these ar models can do, um in these simulations, and it came up with genuinely innovative moves in the game of go and to beat these human players. Um, and this is what this kind of feels like.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1238.12,
+      "endTime": 1282.827,
+      "text": "What deep seek have done? Um with their model? What they've done is they've said we don't really care how you get there, figure out the thinking by yourself. But these are the right answers and obviously it's trained on training data. That includes all of the internet, same as ChatGPT and things like that. So it knows how to reason, it knows how to talk, so to speak, but as opposed to an LLM which is just predicting the next token, what these models have now learned to do is learn how to think, but they've done it by themselves, without human input, without any kind of yeah, like I say human feedback, basically, and so they're doing it in kind of novel ways.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1284.563,
+      "endTime": 1317.773,
+      "text": "And this is the whole point of what I'm talking about right now is that, whilst I we've talked about this on the podcast before, we felt like, with the current methods, llms were never going to get to something like AGI, because they were never going to have a novel thought, because all they're doing is predicting the next token, the next word, based on all of human knowledge. Human knowledge, right, but if you're doing that, you're just parroting, right, you're always just parroting. We've said this before. You're never going to come up with some novel. Deep seekers. Now learn to think. That's what they're training these models to do.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1317.84,
+      "endTime": 1368.746,
+      "text": "They're training them to think, and that's different. That's different. And I, I like the thing that I, the thing that I think will be, and we said I the thing that I think will be, and we said this before. The thing that I think will be really interesting is when an AI by itself or it might be with prompts, but like in a combination with a human an AI has a genuinely novel thought and something like. That might be like connecting ideas from two different disciplines together that have never been connected in that way and then coming out with a genuinely novel output. I'm not sure we'll get there with the current version of deep seek or even the current version of o3, but I think we're approaching that, and I feel like that's because these models have now, as opposed to being trained to parrot things very well, they've been trained to reason and think, or they've learned how to reason and think by themselves, um.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1369.207,
+      "endTime": 1426.2,
+      "text": "So I think in a sense, though yeah, in a sense. So, jimmy, does that not mean and I'm not, I'm not trying to change the sort of boundaries so that we can, we can say we got it right. But when we talked about large language models plateauing, it was because there was no change in architecture. And I know, this is not, this is still, it's still a neural network, right, and physically it's still a load of GPUs put together. So in that sense the architecture hasn't changed, but something has changed. It's not a large language model in the same sense. In fact, if we are talking about it and I want to go on to this point in a little bit more detail but speaking its own language, for me, then we're moving away from large language models, because one of the limitations of the language model is, like you say, human language and it is doing things in a way that is in line with human language and therefore you know that in itself is a limitation because, like you say, it's not a particularly efficient way of thinking.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1427.842,
+      "endTime": 1442.171,
+      "text": "Now, the model I think it was on DeepSeaCar1 that flipped between English and Chinese and back again, kind of randomly, that doesn't seem to be a particularly big concern. It's interesting,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1447,
+      "endTime": 1484.467,
+      "text": "big concern. It's interesting, but if it starts thinking in its own language, the big issue there is that the one sort of main reason that that kind of safety is still kind of possible is because, because it's done in language, you can look at the process and you can look at what it's doing. Once it starts speaking in its own language and you don't understand it, then it could be doing anything it fucking likes and you've got no idea. And and so it seems like they, the developers, knew that and had made a decision to stick with language to some degree. I don't know how much they had that, that choice, and how how much they knew they could, you know, allow it to think his own way, but they were intentionally doing that,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1490.22,
+      "endTime": 1510.313,
+      "text": "whereas now that the race seems to be on, you know, and it is like it's, it's kind of you know space race kind of thing now, isn't it? it's geopolitical that it feels like if they take that break off the language break, it will probably mean you get some breakthrough advance, but you've lost a lot of control. That's pretty scary, and that's not just you've lost a lot of control. That's pretty scary, and that's not just coming from me. A lot of the articles I've said about this are you know,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1515.42,
+      "endTime": 1551.183,
+      "text": "you do not want to be staring into the thinking of something that is a million times more intelligent than you. It's maybe not sort of super intelligence at that point, but actually the problem is you don't know what it is. So I think that's a kind of really interesting and quite frightening potential development. But it would indicate a big for me, a big change in the kind of even if it's not the physical architecture, it's the way that they think, and I would still say that that is a change from the kind of large. It's a change from large language model in the way that we're talking about the same thing but just throw more and more compute at it and more and more gpus at it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1551.504,
+      "endTime": 1559.471,
+      "text": "So it is a change, even if it's still using a neural network I'm not sure like, once it moves away from human language? Is it even a large language model anymore?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1561.704,
+      "endTime": 1597.189,
+      "text": "if it? Well, I guess it's used. Yeah, I don't know, that's a difficult question, I think. If it's using its own language, then probably yes, it's just that we don't understand it. But taking the taking the speaking in tongues thing off the table for now, I think the big leap forward has been and, to be fair, like open ai knew about this a while ago and sam altman has been privy to kind of inside information, I think, what deep sea, and we and we actually knew that, oh, one had this thinking process. It's just it wasn't exposed to us. I think this is the clever thing about what. Well, there's two things.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1597.53,
+      "endTime": 1631.643,
+      "text": "There's the way deep seek trained, their model and, as I say, taking humans out of the loop, has resulted in this kind of like, it feels like it has resulted in this, this zero model idea. Like you, don't you start with like zero knowledge and you just let it train itself, um, which is you know, uh, is, it seems like it's a genuine advance, um, but also, sam altman and open ai had, obviously, I know what they're doing, you know, they know what they're doing and behind closed doors, and they've been talking about agi doing. You know, they know what they're doing and behind closed doors and they've been talking about agi and you know, the next sort of three to five years we've been.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1632.665,
+      "endTime": 1669.028,
+      "text": "We've been saying we're not sure about that. I feel like more information's coming into the open now, um, and I and I feel like being privy to what's deep seek have done has changed my opinion about whether we're going to get to AGI. Maybe not whether we're going to get to AGI, but, as we said, like we don't, we didn't think we were going to get to AGI with the previous paradigm, like LLMs as they were. Now that I fully understand what how deep seeks been trained, and also not fully understand, but like have a better grasp of how deep seeks been trained, and it's like what's different about it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1670.163,
+      "endTime": 1708.252,
+      "text": "Suddenly I get it. I'm like, okay, this is like what people do when they think, as opposed to just parroting, what's the next word in the sentence, kind of thing, um, you know which, as good as you make that, I feel like that's never going to be the way to anything like AGI. I feel like we are now on that path. I don't know if we're at the hard takeoff, but I do think it could be like it could be less than a year away. So I mean, if by saying are we at the hard takeoff, you mean it's within a year, then yeah, maybe I would say that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1709.886,
+      "endTime": 1745.38,
+      "text": "But when you would say the hard takeoff for what? I think we need to again, and we do this every week now but we need to revisit what AGI artificial general intelligence means, because I do think AGI has impacts, because I do think AGI has impacts, but it's not as scary as artificial super intelligence. It's, you know, it's the threat to everyone's job and it's going to change our whole world, but it's not necessarily going to wipe people out. So I think it's probably worth us again as much as we can, because there isn't an agreed definition. But when you talk about the agreed definition, but what?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1745.682,
+      "endTime": 1752.047,
+      "text": "When you talk about the hard takeoff, when you talk about we might get to agi within a year, what would that look like to you?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1753.269,
+      "endTime": 1768.1,
+      "text": "so they're two slightly different things. The hard takeoff is about um, if you, if you develop an ai that is capable of improving itself, then you're at something called the hard takeoff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1768.405,
+      "endTime": 1772.436,
+      "text": "It's basically where singularity is more common term, isn't it that people would know?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1773.637,
+      "endTime": 1785.467,
+      "text": "I think yeah. So singularity is. Singularity is sort of slightly after the hard takeoff. I guess. If you were putting them on a timeline, I think, um, I think hard takeoff is like okay, now we have exponential growth.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1785.668,
+      "endTime": 1789.853,
+      "text": "Singularity. Singularity happens very quickly after the hard takeoff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1789.874,
+      "endTime": 1794.981,
+      "text": "yeah, Very quickly after it. But singularity is like okay, now we've completely lost control of it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1798.065,
+      "endTime": 1803.238,
+      "text": "It's effectively a superior being to us and I don't know how soon after the hard takeoff",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1808.929,
+      "endTime": 1810.453,
+      "text": "in inverted commas, that is, but potentially pretty quick.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1810.493,
+      "endTime": 1818.869,
+      "text": "I mean, the singularity is when it was. It didn't need humans and it was just exponentially training itself and just improving itself and improving itself. That was the singularity.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1819.972,
+      "endTime": 1842.798,
+      "text": "Yeah, and that's what that's the argument people have made online, which I have seen a little bit on I think it was Reddit to disclose my sources. But, like people have been arguing back and forth, saying, well, if it's not an agent that's like literally self improving itself, it still needs humans to go back and interact with it Then it's not, it's not the hard takeoff or it's not the singularity, depending on what, what your definition is, cause it's not,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1847.745,
+      "endTime": 1887.91,
+      "text": "it's not capable of acting on its own agency. It needs a human to kind of to go back and and actually program the model or whatever it is. Um, but I think you're kind of quibbling over definitions at that point. Like it's, they're effectively the hard takeoff is you've got these big ai companies, they've got clever AIs and all of a sudden they develop the ability to like self-improve and the idea is like that initial self-improvement might be incremental, but very quickly, like every self-improvement you make makes the model more intelligent, which makes it able to figure out different, even better self-improvements, and then that's just a feedback loop.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1889.875,
+      "endTime": 1892.591,
+      "text": "And how long have we? How long we got left then, Jimmy?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1896.386,
+      "endTime": 1935.412,
+      "text": "I can't remember what predictions we made last year. We need to revisit them at some point. I take it, you're pulling your timelines forward, it sounds like it. I mean, I think it's possible we'll see this kind of like this hard takeoff thing properly come to fruition in the next year. I do think it. I still think it depends whether AI ends up being benevolent or not to whether you, what you say, like when you say, like how long have we got left? Like there's no reason why an ai should necessarily be imbued with any resentment towards us. So I, I, you know I don't know.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1935.432,
+      "endTime": 1943.858,
+      "text": "We built it. Maybe it'll be, maybe it'll be a fantastic should be pandering to us as we built it exactly like that's.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1943.998,
+      "endTime": 1955.545,
+      "text": "That's harder to answer, but, um, I mean, maybe it'll be fantastic, maybe it'll just solve all our problems and we'll be in the utopia that we've discussed previously let's hope so, so.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1965.135,
+      "endTime": 2005.547,
+      "text": "So we've talked um. We've talked a lot about deep seek and the impact that it's made. I wanted to talk about um sort of open ai, but but this is also kind of linked to deep seek, because obviously open ai have kind of now just thrown out a load of new models. Um, the thing that I found the most interesting as well is their interface. Today for chat, gpt just looks exactly like deep seek and you can now click to choose reasoning model as a kind of option. So, rather than choosing the model, you click reasoning. It also has the search functionality as kind of a clickable option, which is exactly what deep seek looks like.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2005.607,
+      "endTime": 2014.296,
+      "text": "So they've, you know, they've really kind of um. I mean, they haven't even hidden the fact that they've copied the yeah, they copy the interface the way that they've done it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2014.998,
+      "endTime": 2017.687,
+      "text": "Um I think I went considering their accusations.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2018.969,
+      "endTime": 2052.469,
+      "text": "Yeah, it's funny though that the it's like you, copied us so we'll, we'll blame you and then sue you and then copy you. Um, yeah, they're, they're, they're reasoning. It's not as it's not as cool. From, I haven't got a pro model, so maybe maybe it does show you on the pro model, but when it tells you it's reasoning, it now says reasoning or thinking, and it tells you it's thinking, but it doesn't do what deep sea car one does, where it tells you, okay, he asked me this, he thinks this, I should do this, I should do that. It doesn't give you that kind of full map. It just tells you that it's reasoning.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2053.251,
+      "endTime": 2094.567,
+      "text": "Um, but you know, they, they. I saw an article where sam atman was saying he thinks they're on the wrong side of history and they should open source things and they're going to get new models out quicker and quicker. I mean, it's like it's frankly kind of ridiculous. It's ridiculous. But it's also pretty amazing, isn't it? I mean, but it's pretty amazing how, like, the reaction and the way in which we said, like DeepSeeker shook things up. I didn't think that they would pander in quite the way that they have been. But yeah, I mean, like the models just seem to be coming out thick and fast. Perplexity now has integrated deep seek r1 and chat gpt 01 into perplexity.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2094.587,
+      "endTime": 2133.286,
+      "text": "So if you've got the pro option, you can, you know, choose to use those models for all of your, all of your searches and questions. Um, you know I've downloaded. I know you've downloaded local deep seek models onto our computers. I mean it, you know, it feels like we've reached a kind of point that now everybody is just throwing new models gemini, I think, gemini 2.5 is it, or gemini 2 pro, so that they've only got the flash model at the moment, but the, the improved model, is coming out weirdly anthropic, seems to have done nothing. I'm, I'm, you know, I still like claude, but I think it's weird.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2133.527,
+      "endTime": 2160.492,
+      "text": "You can't create any video. There's no multimodality, they don't seem to be updating. I'm, I'm sort of holding on to my subscription in the hope that they're going to come up with something amazing in the next few weeks. But it, it, but it feels like they've been caught off guard or, like I say, hopefully they've got something in their pocket and they just haven't released it yet. But I mean, do you have any views on new models? I still think OpenAI, chatgpt at the moment. I have to say I think it is the best model.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2162.517,
+      "endTime": 2184.675,
+      "text": "I okay, I think that OpenAI had some stuff that was sat in the wings. They were waiting to release things and they were going to release things on a slightly slower timescale than they did now. Well, I say that actually they said they committed quite a few, a long time ago, to releasing oh three mini. I think it is in, or is it oh three? I don't know.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2186.046,
+      "endTime": 2195.533,
+      "text": "They committed. Oh three was the one that we were talking about, sort of ten thousand dollars of a query, so I'm I think it must be oh three, mini, mustn't it, I'm sure, the full they were talking about.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2196.295,
+      "endTime": 2235.737,
+      "text": "They've kind of made the cost savings that quickly so they were talking about releasing that at the end of january. Uh, and they did, and so some people have come out and said they released it in a panic because deep seat came out. Actually, that's technically incorrect because they did say even before deep seat was a thing. They said a long time ago um, but I think what you're seeing is um. I think what you're seeing is a mixture of we'll release everything we've got, but, like literally now they're not really ahead of um, open source, um, and and then you've also probably got, I think, anthropic.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2235.777,
+      "endTime": 2280.468,
+      "text": "I probably don't have anything, um is my guess, and so they're working on. They're going to carry on working on the next thing. The problem for anthropic um, anthropic to a greater extent, I think, because they're going to carry on working on the next thing. The problem for anthropic um, anthropic to a greater extent, I think, because they're a smaller company and companies like mistral like well, mistral open source a lot of stuff, but they also have their own models that are closed source and stuff, um. But for companies like anthropic, they're probably pretty screwed by this kind of thing because they're right in the middle, right Like they've DeepSeek's basically exposed all of them, but Anthropic don't have the kind of like investment and don't have the amount of cash that companies like OpenAI have, openai will be okay.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 2281.612,
+      "endTime": 2282.355,
+      "text": "Google will be okay.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2284.266,
+      "endTime": 2313.472,
+      "text": "Yeah, it's thrown them a curveball. Google are obviously going to be okay. Meta, of course they're going to be okay. Yeah, it's thrown them a curveball. Google are obviously going to be okay. Meta, of course they're going to be okay. It's not their main business model. I think Anthropic are in one of the worst places here because they're not open source, they're closed source, but they're also not huge and they don't have the sort of capital behind them that some of these other companies have. So Anthropic probably are in a really sketchy place. That being said, anthropic have also been releasing papers and all this other kind of stuff and they're obviously involved in the community.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2314.587,
+      "endTime": 2360.008,
+      "text": "They do a lot of collaborative research type stuff. So I'm not 100% sure on that side, but I think in terms of their closed source models, they're probably under threat quite a lot. In terms of which models are the best, the very best model is still GPT, but it's very expensive Obviously not for you or I. You pay your $20 a month, you get access, or I think you might even be able to get O3 Mini for free now. But they must be quickly re-evaluating what they can do for how much money and how many data centers they need and what's the cost of it all like? It's going to have a big impact on open ai, because you've, you know you can't be doing something.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2360.048,
+      "endTime": 2400.713,
+      "text": "that's just a little bit better than an open source model and charging $20 a month for it, or $200 a month for it in the case of, like the, the absolute, the top tier, um, although, you say that apparently the protea has been massively oversubscribed and they're and they're losing money on the protea because it's being used more than expected, but they I think something like they're making 300 million dollars a year in subscriptions on the pro model. I think so, well, well, they're not making money, so they're generating revenue because apparently they're losing loads of money on them, but it's been a lot more popular than than anybody expected, including them, apparently.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2401.214,
+      "endTime": 2431.593,
+      "text": "So, yeah, it doesn't necessarily change or say what you're saying is incorrect, but I think there are. There are people willing to pay an organizations and you know users who use it professionally who are willing to pay that. I'd actually say it's the sort of $20 a month models that are the one under threat. Like, I wonder how long that lasts, for you either have a. You either have a you know a enterprise model that you pay a significant fee for, or you just use it for free. I think that's probably where we end up, to be honest.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2433.946,
+      "endTime": 2488.355,
+      "text": "Yeah, it's kind of dropped the middle out of it. Maybe you're right. Either way, I think Anthropica, I'm pretty screwed is my would be my take on it. But yeah, like as to the rest of it, so sam altman talking about we should have we're on the wrong side of it. I mean, it's an interesting one that like he's either because I don't personally know sam altman and although we've we've had a bit of a gripe in the past like he's either been extremely honest and just been straight up genuine, like okay, yeah, we missed the trick here and open source has actually turned out to be where it's at or he's playing some kind of game I'm not sure what you know trying to spin off another company Not sure what to call it, given the company they've got is called OpenAI,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2491.93,
+      "endTime": 2504.151,
+      "text": "but yeah, not sure where I lie on that. He's a peculiar figure, Sam Altman. I think it's possible. He's just like straight up, being like. This is what I think.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2509.625,
+      "endTime": 2529.571,
+      "text": "Yeah, I still think he ends up. Uh, I don't think he lives to a ripe old age, let's put it that way. I think he's going to be a target. He's going to live forever, mate? I don't think so. I think he. I think he becomes a target because he's the face of it and I think when it, when people start to realize the effect that it's having on their lives, I think he becomes a target. But what?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 2529.611,
+      "endTime": 2529.992,
+      "text": "do I know?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2530.032,
+      "endTime": 2530.273,
+      "text": "Jimmy.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2531.166,
+      "endTime": 2532.713,
+      "text": "I'm just a lowly podcast host.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2535.346,
+      "endTime": 2537.491,
+      "text": "He'll just get beamed back up out of his body.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2539.737,
+      "endTime": 2578.654,
+      "text": "Maybe I wanted to talk about and it does flow from that because it's google and anthropic. But the story this week has been google reneging on their, their sort of policy to not use ai for military purposes. Um, but you know, people have also missed the fact that anthropic recently announced the partnership with palantir. I don't know if you're palantir, palantir, I'm not sure if I'm pronouncing that right as you know I have an issue with pronouncing anything. So, um, they basically provide us intelligence and defense agencies access now to claude three models. I presume it's 3.5, but the claude three series of models.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2578.694,
+      "endTime": 2616.772,
+      "text": "So if you look at, you know, those military partnerships with civilian cloud commuting companies the uss is ahead of china on that front, um, and they now have potentially partnerships with google. We know we have someone from uh, or an ex, of course, retired military general on the board of open ai. We have a partnership with anthropic. It feels like, I mean, I, I don't know. Part of this is is this about making money? Is it we just need to throw off all the shackles because we desperately need to make money? Is it about US-China? Is it about playing up to what Donald Trump wants? You know, whatever it is, there's been a big narrative change.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2617.545,
+      "endTime": 2624.734,
+      "text": "People are not even yeah, organization, not people. Organizations are no longer even pretending to care about safety or pretending to care about",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2628.765,
+      "endTime": 2649.019,
+      "text": "you pretending to care about safety or pretending to care about you know ethical uses of ai. Um, and that has come about as the sort of government has changed over. Like I say, whether that's coincidence, whether they've been empowered and emboldened to do it by a new government, whether they feel they have to do it, whether it is about a race, whether it's about geopolitics, whether it's a mixer of them all, but it it is pretty sort of is pretty foreboding, to be honest. I mean, you know,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2652.754,
+      "endTime": 2676.665,
+      "text": "I think we've said this many times AI was possibly the only technology that there's ever been, certainly in modern history, where there was a time that it felt like the civilian use of it was ahead of the military use. Now that has long gone. I don't think it was ever in doubt that it was going to be used by the military. It's more the fact that it is now not even being. You know that these organizations not even hiding their intentions. They don't even care about the public perception.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2676.685,
+      "endTime": 2715.653,
+      "text": "Yeah, yeah, but I think that's what this story does. This story, in my opinion, this story, exposes this fact to the public. However, was AI being used in the military before? Like Google were not in control of that? Google is just one company right, one company right. So, like I don't want to defend Google because I think what they've done is openly sort of said this I mean, I don't even know if they've done that They've obviously changed their, they've changed their sort of mission statement, I think, and a long time ago it was don't be evil, I think.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 2716.665,
+      "endTime": 2717.791,
+      "text": "Yes, it was yeah.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2719.087,
+      "endTime": 2720.252,
+      "text": "They changed that quite a while ago.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 2720.865,
+      "endTime": 2723.264,
+      "text": "Don't do evil ago. Now they've taken this out, don't do evil.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2724.769,
+      "endTime": 2775.611,
+      "text": "Ultimately, like it wasn't Google's decision whether AI is going to be used in the military, it's governments around the world have the option as to whether AI can be used in military applications, because it's governments that control militaries in most cases. In some countries, militaries control governments but like aside from the edge cases governments control militaries. Governments decide whether militaries can use AI. Like okay, all of the companies could get together and say you're not having our AI. Pretty unlikely. At the end of the day, this is a decision for governments and organizations like the un and the european union and some of these kind of like big governmental um organizations to make decisions about and I'm not sure the un has much to say on it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2775.651,
+      "endTime": 2790,
+      "text": "But okay, well, they've got influence. They have influence maybe, but like, but it's clearly at that level. It's clearly at that level where it would take the us to say we're not going to use ai in military applications.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2790.381,
+      "endTime": 2805.533,
+      "text": "And the thing is like, if you look at, we'll take every country to agree, because if one country uses it, then other countries it's exactly same as nuclear in that respect, and as long as one country has it, nobody else will say, well, I, I'll give it up. So either everyone agrees or no one agrees.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2806.626,
+      "endTime": 2846.394,
+      "text": "But it's also a nonsense. Like drones, drones use AI, Like the reason drones work, the reason drones can fly. They don't use the kind of AI we're talking about with, like LLMs and things like that, but they use AI. They've got reinforcement learning AI all this kind of stuff built into drones. The way drones can fly today is because they were trained with AI. So if you're talking about taking AI out of the military, like these things have been used already all over the world. They've been used to make very cheap, you know, kind of like bombs where you can just strap a grenade to a drone and fly it over a border and drop it on somebody.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2847.946,
+      "endTime": 2873.926,
+      "text": "You know that's been done like for the last few years good few years. We've seen that and it's disgusting and obviously you don't want to see it. Most people don't want to see war at all, but to say that like google stepping back from their commitment about not allowing ai to be used in military applications, I mean, it's that ship has sailed, to be honest I'm just playing devil's advocate here.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2874.347,
+      "endTime": 2908.958,
+      "text": "I'm just playing devil's advocate here, mate, but I I could say, you know, by using ai, military strikes will be, they'll be able to do them with more precision and it will save lives. And you know that statement can't be true at the same time as ai in the military can cause a lot of harm. I'm not saying that that necessarily is a justification for some of the things that ai will definitely do, yeah, in warfare and in the military. But you know you can make a case that, like with all of this stuff, the ai is not the problem. We're not at the point of asi, we're not the point of ai being in control.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2909.546,
+      "endTime": 2946.713,
+      "text": "Ai will be a problem because people will use it in a way which causes a problem. So I I sort of agree with you, but I think it, like you say, and I also agree with that statement, that that puts it out there clearly to people that you that nobody gives a shit about you, right, ai is going to develop the way in which all technologies develop, because it's going to be done to you and you're going to live with it and you're going to accept it and you have very little choice in it, but now at least people can kind of see AI with all its kind of warts is kind of out there. Ai with all its kind of warts is is kind of out there, um, but yeah, I, I completely agree with you.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2946.733,
+      "endTime": 2986.206,
+      "text": "The google story is kind of a non-story, particularly because we know that anthropic we're working with the military and we know that open ir have a military general. I. I just I forgot to talk about this in the in the first section on deep seek, but one of the things that that struck me this week there was a comment from um, an oxford university professor kind of warned people in the uk about using deep seek because you know the chinese state would have access to all of your information, which you know I. I don't disagree with that comment, you're right. But it's this again, this idea that you know you, where were these warnings with putting your data into chat, gpt and everything else?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2986.266,
+      "endTime": 3022.712,
+      "text": "And this idea that you know the us military, the fbi, the cia, whoever, wouldn't be able to demand that data if they wanted access to it. Again, it's not that the sort of comments against china are necessarily wrong, but it's the fact that kind of China is picked out as being so dangerous, but yet with us ignoring the fact that you know, no, we shouldn't be trusting any of these models and the information is not going to be given to anybody at any point. It's like, if you don't want that information out there, don't put it into any of those models, don't think about whether it's the Chinese communist party or the american government that's going to listen to it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3023.072,
+      "endTime": 3044.04,
+      "text": "Just you know. Consider any information you put into any large language model and I think, yeah, that that is what everyone should be looking at with this is it doesn't matter which country it is, it doesn't matter which military it is, it doesn't matter who's got that information. You know, be skeptical of the use and you know the way in which the data is used by any of these organizations.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3044.945,
+      "endTime": 3092.785,
+      "text": "Yeah, I think that's fair. And that's fair, I mean, I think I think it depends in the West, right? So like, like, obviously, if you're. I think one of the examples was the UK Navy have been told they're not allowed to use it or it's been banned in the uk navy. Now that's probably fair enough. It's a. It's a. It's a model that's based in china, it's running on chinese servers. Chinese government's going to have access to it. Like, hopefully no one will be stupid enough to put like military secrets into it. But I could, I can understand cutting the navy off from um using a chinese search engine, effectively the search engine, slash data collection thing, slash a you know um ai model, uh, whatever.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3093.306,
+      "endTime": 3111.477,
+      "text": "Like to be fair, I think, if, if, if baidu became really popular um, which is a search engine in china, if baidu became really popular in the navy they search engine in China if Baidu became really popular in the Navy, they'd probably be like no, we're not having that. So that's probably fair enough, but there's nuances, right.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 3113.392,
+      "endTime": 3113.874,
+      "text": "And I agree.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3116.146,
+      "endTime": 3142.529,
+      "text": "I agree with what you're saying, but I think the other difference is 99, 99 of the public in china can't access chat gpt because they have a great firewall. Um, the west doesn't have a great firewall. So maybe there is a bit of an argument to sort of put a bit of information out there to say, by the way, you know, this is how your information may or may not get used. Um, you know, true, but that's not the argument.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3142.549,
+      "endTime": 3184.078,
+      "text": "The argument here is not. It's not. The argument here is not, you know, whether china should allow those models or not. The point that I'm trying to make, and I think even the example that you just gave. You know the uk and the us are allies, so you, of course, you would be less worried, but if I was the uk military, the navy, I wouldn't want to give my information to any country, whether they're my ally or not. Because you know, we know the us has spied on germany. We know germany. You know all these stories in the past of allies spying on each other. Everybody is spying on everybody. I know the degree of that is different and I understand the fact that you know China and the US are rivals.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3184.125,
+      "endTime": 3199.873,
+      "text": "China and the UK are not. They don't have that kind of alliance. But but my point here is not about saying you shouldn't criticize China. My point is that this criticism of China and this be scared of China is the message should be broader than that you can say you should be more bothered by China.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3223.485,
+      "endTime": 3234.613,
+      "text": "No-transcript information is not. Is not much more secure that that?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3234.674,
+      "endTime": 3253.188,
+      "text": "that's my point is not you should trust a chinese model if you shouldn't trust any I agree, although there are large parts of the european union that that banned the use of chat gpt a very long time ago, so I think that is being that is being applied well, meta's still not available.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3253.248,
+      "endTime": 3258.119,
+      "text": "Is it in the eu? Meta's not so, and it's maybe still and it maybe.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3258.365,
+      "endTime": 3268.205,
+      "text": "It's maybe for different reasons, but I think a lot of it is about data collection and data privacy and the eu is obviously really hot on that. So I don't think it's necessarily a different reasons, but I think a lot of it is about data collection and data privacy and the EU is obviously really hot on that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3276.616,
+      "endTime": 3281.305,
+      "text": "So I don't think it's necessarily a kind of one size fits all kind of thing,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3302.985,
+      "endTime": 3342.114,
+      "text": "no-transcript, but surely they can't both call it deep research. But anyway they have Deep research. The Google model. So there's a really good article by Professor Ethan Mollick which you can read on Substack which talks about the two models and tests them really well. The Google model apparently is so basically they go away and do research. So they're almost kind of agentic in a in a sense that they go away and do stuff for you. They will, um, produce a piece of writing, a report, a thesis, whatever, um, and they'll go away and they'll research. They can't get into paywalled sources at the moment.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3342.134,
+      "endTime": 3374.23,
+      "text": "That's one of the issues. So they only have sort of limited access to stuff which isn't paywalled. So if you're doing sort of like me, who's doing research projects at the moment, most of the decent articles that you access you'll need to go through the paywall, which you can use your kind of university or academic institutions account, but you would need to get into an account. You can't do that with either of these. So, as my understanding it's, it's still quite limited in the in the articles it can access. But it can access journals as long as they're there they don't like, say, don't have a paywall it can access academic articles.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3374.712,
+      "endTime": 3411.227,
+      "text": "It can then write a piece of research reference with a bibliography. Um and the google model, which is a little bit older I think it's maybe a couple of months older now um, it apparently writes to sort of undergraduate level, so a kind of undergraduate thesis dissertation. The new open ai model, which is only available on the pro tier at the moment, I believe. Um, that can produce research to a. I think it was great as a beginner phd. So someone who is just starting their kind of first year of a phd to that level. Um, with the limitation, like I say, that it will not be able to get paywall sources.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3411.247,
+      "endTime": 3443.38,
+      "text": "So it's quite limited in its sources, but in terms of the quality of the work it is equivalent of a, of a sort of beginner phd. So I think this is, you know, potentially I mean massive, like if it gets around that payalled issue or you find a way to access. It is not saying academic research is dead, but you know I'm writing a research paper. Why should I bother? Maybe it's lucky, in a sense, that I'm at this point, or maybe it's unlucky, I'm not sure. But in a year's time, you know?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3447.185,
+      "endTime": 3452.631,
+      "text": "Will anybody be writing this kind of research for themselves, unless they are highly motivated to do it, cause I think for some people like the research but they're not already.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3453.012,
+      "endTime": 3458.655,
+      "text": "Which, which, which, which, which, which, which, which student, uh",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3466.805,
+      "endTime": 3469.396,
+      "text": "like finishing their bachelor's or their master's, cannot find 200 for a month of uh.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3469.416,
+      "endTime": 3506.794,
+      "text": "Maybe that's why we've got so many subscriptions going on, that they weren't expecting like who can't find 200 to write their dissertation no, but what I'm saying is, at the moment it's still not quite at that point, because, because, although the quality of the work is maybe good enough the, the articles and the kind of journals etc. That it can access you wouldn't have a good enough quality bibliography for it to be of a phd or master's level at the moment. But like, but yeah, that's probably six months to a year away. Um, yeah, I think you're right, but then again, you were the one who argued a while ago about learning, and you do learning because you want to learn.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3507.315,
+      "endTime": 3522.512,
+      "text": "So it depends why you're doing it. If you're getting a qualification because you want the qualification, yeah, why bother? If you're getting it to learn, it's a bit different. I, I, I don't think. I think it's just the death of this kind of research project. To be honest, I, I don't I don't see this existing in two or three years time I stand.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3522.653,
+      "endTime": 3539.048,
+      "text": "I stand by what I said. People who want to learn want to learn, but a lot of people do a qualification for the same people for the same reason. A lot of people do a job. They're not that bothered about um. They do a qualification because they think they need a qualification and then they end up at university.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3539.249,
+      "endTime": 3559.633,
+      "text": "But, like I said, I, I think, I think the answer two years'time, three years'time, maybe even less than three years'time, maybe a year's time. Those academic institutions are going to have to change the way that they assess and they're already starting to look at that, to be honest. But they're going to have to change the way they do it, because writing a report, article, et cetera, is not going to prove someone's learning.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3563.125,
+      "endTime": 3594.711,
+      "text": "So I think that's what happens. Research, you know there will still be researchers, a lot of research will be done by ais. But in terms of someone who's doing a master's like phd, is a bit different because you're pursuing the research at that point because you want to, but a bachelor and a master's, you're going to have to assess it differently because you know people, I mean you. You can't do it at the moment if you can use things like perplexity in place of search functions, but you can't do research to that level because it just it just doesn't work yet. But if these things are able to do that research now the only thing that's in their way from what I'm saying now is is a way to get around the paywall.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3595.126,
+      "endTime": 3599.515,
+      "text": "Once you've got around the paywall, it's able to do master's, phd level research projects.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3601.245,
+      "endTime": 3654.387,
+      "text": "But let's go back to the original point of our podcast, matt, like, like, why is anyone doing these projects in the first place once you get a, once you get an ai that can do it all? Like, like this, this was the whole point of our podcast right from the beginning right, like, what's the impact going to be on jobs? What's the impact going to be on universities and education? Like, I think there will be a big impact, because if you're there because you want to learn, because you're interested in a subject, then you'll probably still go to university in the future. In a world, in a year's time, where AI can do all that research and do all that stuff for you and then can do the job that you would have done anyway when you finish your degree, then what are you doing at university, to be honest, like, like, like, I would kind of argue that anyway, even in the past, like what you're doing at university if you don't really want to learn something.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3654.808,
+      "endTime": 3670.545,
+      "text": "But a lot of people do go to university, despite the fact that they're probably not that bothered. Um, I think that becomes even less relevant in the not that distant future where, you know, I have this conversation with yeah, I have this conversation.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3670.645,
+      "endTime": 3709.751,
+      "text": "So my kids are five and five and a half and almost three and I have this conversation with people where they talk to about university and you know, oh, will they go to university in the UK or in China? And I say you can't think about that. I said I don't because I don't think university will exist in the way that you think of university. I'm not saying universities won't exist, but what universities do will be so different from your concept we cannot consider for our kids in 14 years time what that's going to look like. Maybe there will be university. I'm sure there will be some form of universe, but, like you say, maybe it will be there for going and doing the things that you want to learn.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3709.832,
+      "endTime": 3749.882,
+      "text": "Maybe it will be completely online, maybe it'll be the complete opposite and the people that go to university will want to have nothing to do with doing it online. It will be about learning. You know manual skills and you'll be learning how to do things that you know that are useful because because they're the kind of things that we need to do. Or it will be purely about learning how to work with ai, like whatever it is. I think we don't. We haven't even thought of it yet, so I do agree with you I agree and I sort of agree with you and disagree with you, um, but I think where I do, I think you're 100% right is writing this kind of report as a way to assess somebody's sort of level of knowledge.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3751.525,
+      "endTime": 3784.288,
+      "text": "It's just maybe the last year, maybe there's one more year left of people doing this before they have to find a completely new way to do it. It's not a test anymore. Before they have to find a completely new way to do it. It's not a test anymore. Once this is able to conduct that research and do 12,000 words instead of 4,000 words and access all sources of information, then there is no reason for people to do research other than if they are committed to that as their entire job or career, and even then they'll be using AI to do the bulk of the work. I'm sure that's how it will be.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3785.992,
+      "endTime": 3817.411,
+      "text": "Yeah, yeah. I mean, this stuff is supposed to be a demonstration of your you've learned what you you've learned Right. And if, if it becomes irrelevant because you can just get an AI to write it, then as a form of as a test, it's kind of pointless. But I think, as I say, I think it goes beyond that. I think it goes beyond that, Like, if you, if you're at the point where AI is already able to do all that, then you know, what are you doing?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3817.431,
+      "endTime": 3820.967,
+      "text": "Well, no, but it's it's not that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3820.987,
+      "endTime": 3835.914,
+      "text": "That's not the things we need to be learning, like. If you want to learn that, then go and learn it. Fine, but if you want to learn it and you really want to learn it, then maybe you still write the dissertation, because if you're interested in doing it anyway, then why would you not like?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 3836.054,
+      "endTime": 3841.711,
+      "text": "but but it will become a I don't know whether this is sad or not?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3843.393,
+      "endTime": 3848.2,
+      "text": "Yeah, exactly, it's like learning will become a hobby, which I think it is for some people now,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3854.445,
+      "endTime": 3867.517,
+      "text": "but we're talking about a future where AI can do everything better than we can, you know, I don't know whether that's like next year or in five years'time, but I feel like it's around the corner, and so then learning becomes a hobby for humans, and maybe that's sad",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3873.238,
+      "endTime": 3874.465,
+      "text": "but that's probably where we're going.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3874.805,
+      "endTime": 3881.452,
+      "text": "Well, I think you said to me in a message the other day that you've come around to my useless eaters idea, haven't you? You think that that's where we're going to end up?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3882.976,
+      "endTime": 3888.578,
+      "text": "Yeah, it's become a really bright and we're going to end up. Yeah, it's become a really bright and cheery end to the podcast.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3888.945,
+      "endTime": 3894.852,
+      "text": "Well, I'm just happy because that episode hasn't got as many listeners as I'd hoped, so maybe Phil should go back and listen to my Useless Eaters episode now.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3896.467,
+      "endTime": 3919.054,
+      "text": "Go back and listen to Matt's Useless Eaters episode, not to depress people even further, but I think this is an opportunity. I think this week it's going to be pretty hard to put a song together, um, so maybe we don't have a song at the end of this week's episode, unless you can knock one up, matt, and in which case you can just cut this bit and just do a different bit, um, you think?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3919.094,
+      "endTime": 3927.174,
+      "text": "it's depressing that we're not going to have a song. Or you think it's depressing this episode is so depressing that we can't put a song on the end of it? Is that what you mean?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3928.325,
+      "endTime": 3939.532,
+      "text": "no, I think I don't have time to do it. The opportunity for people out there is you can go and create one yourself on sudo and play it back.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3940.749,
+      "endTime": 3978.778,
+      "text": "I think most people listening are like oh, is it usually a song at the end. I usually turn it off once. I say goodbye, fair enough. Well, there may or may not be a song. So so listen for three seconds at the end and and find out where there's a song or not, right? Thank you for listening everyone. Next week and this was completely coincidentally, but we have an episode on AI and military use with retired Brigadier Tim Law, so that will be. I say that will be fun. I mean, we've already recorded it, so we know it's fun. But listen out for that one. And, yeah, have a good week everyone.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 3978.798,
+      "endTime": 3979.284,
+      "text": "Take care, thank you",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 3987.651,
+      "endTime": 4001.342,
+      "text": "yeah, have a good week. Everyone, take care. They say the future's dark, but I've seen darker days when hope was just a spark lost in fear's haze.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 4004.424,
+      "endTime": 4070.59,
+      "text": "Every headline screams collapse, every tweet predicts decay. But in between these synaptic gaps, life finds its way. See, fear's an easy sell. It hooks into our core. See, fear's an easy sell. It hooks into our core, makes every story tell Of locks and bars and doors. But hope, hope's harder work. It's scaffolding and stairs, building bridges where shadows lurk. Repair by repair. I'm not talking blind faith here, not some fairytale delight, but the grit that appears when we choose to fight. For every ended story,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 4073.972,
+      "endTime": 4150.173,
+      "text": "there's ten more just begun. For every faded glory, there's tomorrow's rising sun. The choice was never fear or flight. The choice was never sink or swim. The choice is will we light the path for those who follow in? Will we plant the seeds that grow Through concrete and through pain? Will we be the bridge, the flow, the shelter from the rain? Fear says lock your doors and hide. Hope says learn and grow and build. Fear says choose your side. Hope says watch what we can yield Together, step by step, through darkness into dawn. Each footprint that we've kept Shows others they belong.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 4154.71,
+      "endTime": 4187.267,
+      "text": "So face the future standing tall, not because it's guaranteed, but because, when fear would stall, hope is what we need To forge ahead despite our doubts, to build despite decay, to find what strength brings out when we choose hope today.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Keep Hope Alive",
+      "startTime": 4191.969,
+      "endTime": 4192.629,
+      "text": "Thank you.",
+      "chapterIndex": 6
+    }
+  ]
+}

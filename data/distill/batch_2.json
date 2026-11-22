@@ -1,0 +1,1051 @@
+{
+  "episodes": [
+    {
+      "slug": "s2-2025-08-28-gpt-5-how-the-most-hyped-model-of-all-time",
+      "format": "debate",
+      "era": "peak",
+      "summary": "The season two finale confronts GPT-5, which both hosts agree landed 'with a whisper' after two years of hype - iteratively better, certainly not AGI, and possibly deliberately soft-launched after OpenAI botched the rollout. They dig into the router system that silently assigns queries to cheaper mini/base/pro models (a money-saver Jimmy is suspicious of), the underwhelming agent mode, and alternatives like Abacus AI's Chat LLM, while announcing a broader season three format of one news episode plus one wide-ranging topic episode per month.",
+      "keyTalkingPoints": [
+        "GPT-5 launched as a damp squib: less of a news story than DeepSeek's release; Jimmy didn't even know it had come out",
+        "The router controversy: GPT-5 pre-analyzes each query and picks mini/base/pro/thinking models itself, and $20 users initially couldn't override it",
+        "Jimmy argues the router's real motive is OpenAI cutting compute costs on $20 subscriptions, pushing more queries to cheaper models",
+        "Technical advances: much bigger context window, ~45% fewer hallucinations, diplomatic 'safe completions' instead of refusals, and an agent mode that accesses Gmail/calendars",
+        "Coding: strong but Claude/Gemini remain competitive; Jimmy recommends Windsurf and Abacus AI Chat LLM over single $20 subscriptions",
+        "Season three format change: one episode a month on the biggest AI stories, one on a broader human/social issue with an AI angle"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "GPT-5's muted launch was probably deliberate because OpenAI botched it - it certainly wasn't revolutionary or AGI",
+          "The router is really about OpenAI saving money by routing paying users to models that cost a tenth or a twentieth as much",
+          "Multi-model routers like Abacus AI Chat LLM beat any single $20 subscription for chat use"
+        ],
+        "matt": [
+          "GPT-5 is iteratively better but could never live up to Game of Thrones finale-level hype; 'a little bit disappointed, but ultimately pretty good'",
+          "There is some user logic to routing - basic questions like FA Cup winners don't need the top model",
+          "GPT-5 is probably still the best overall model; existing ChatGPT users have no reason to switch"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "GPT-5's low-key launch was a deliberate soft launch after OpenAI realized they had botched it.",
+          "quote": "It certainly wasn't revolutionary, it certainly wasn't agi. Um, it was less of a news story than when deep seek came out and like hit the headlines. Um, I think that was probably deliberate because, uh, on on open ai's part, I think they might have even said it was um, they've said they've botched it.",
+          "timestampSec": 348.4,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["gpt-5", "openai", "hype"]
+        },
+        {
+          "host": "Matt",
+          "claim": "Another model will surpass GPT-5 within about two months of its launch.",
+          "quote": "Is it iteratively better than others? Yeah, will be better in two months time, probably. Yeah, so, um, disappointing, but actually still a big leap forward.",
+          "timestampSec": 2411.5,
+          "category": "dated",
+          "targetDate": "2025-10-28",
+          "timeframeLabel": "Within 2 months",
+          "status": "pending",
+          "topics": ["frontier models", "competition"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-07-16-prophet-profits-losses-jimmy-and-matt-revi",
+      "format": "debate",
+      "era": "peak",
+      "summary": "Jimmy and Matt revisit their summer 2024 predictions from 'The Secret AI Takeover', scoring hits (Google's agentic lead, AI antibiotics and tongue-scan diagnosis, Jimmy's 'just better LLMs') and misses (no GPT-5, no open-source frontier ban), then make fresh dated forecasts: Jimmy doubles down on societal upheaval and home robots, Matt predicts Apple will sign a frontier-model deal and that mass rioting is the only force that will produce AI labor policy.",
+      "keyTalkingPoints": [
+        "Scorecard: Jimmy's 'not much will change, just better LLMs' largely came true despite OpenAI's chaotic naming (o3, 4.5, 4.1); no GPT-5 yet",
+        "Matt's Google agentic-models prediction earns a 0.9 - Google leads on usefulness even before full agentic releases",
+        "Matt's medical prediction came true: an AI tongue-scanning diagnostic built on Chinese medicine principles appeared within six months",
+        "Jimmy stands by his end-of-2026 forecast of massive societal upheaval and says AI 'is gonna take all the jobs... all the white collar jobs, like first'",
+        "Matt maintains that full-scale mass protests and rioting over AI job displacement, forcing hasty government policy, is the only realistic path to regulation",
+        "New predictions: agentic coders manageable for 1-2 hours by end of 2025; home chore robots advertised by mid-2026; Apple integrates a frontier model (probably OpenAI) by next summer"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Agentic models will be relatively commonplace and genuinely doing whole jobs by the end of 2025, starting with coding",
+          "AI will take all white-collar jobs - anyone who thinks the jobs AI creates can't be done by AI is 'off the rocker'",
+          "Home robots doing chores will be advertised to early adopters by mid-2026, though they'll still cost 'similar to the price of a car'"
+        ],
+        "matt": [
+          "The Google agentic prediction was his best - Google now leads on usefulness via ecosystem integration",
+          "Frontier open-source model bans won't happen; Jimmy's 'you can't stop open source anyway' argument has been proven right by DeepSeek",
+          "AI is being done to society, not with it - only social unrest moving the Overton window will force hastily developed government policies"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "By the end of 2025 agentic coding models will be commonplace, doing a whole person's job in stretches you can leave unsupervised for one to two hours.",
+          "quote": "I absolutely think that by the end of 2025, you're going to have effectively as much as like, as you know, agentic coding. Agentic coding I'll go ahead and say it. I think you're going to have agents. So, to be more specific, actually, I think you're going to have agentic coders that you can leave for about an hour to two hours at a time.",
+          "timestampSec": 1040.8,
+          "category": "dated",
+          "targetDate": "2025-12-31",
+          "timeframeLabel": "By end of 2025",
+          "status": "pending",
+          "topics": ["agentic ai", "coding", "jobs"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "By the middle of 2026 general-purpose home robots will be advertised as products you can buy to perform tasks around the house.",
+          "quote": "I think that, let me say, I think by the middle of next year we're gonna start, we're gonna see that we're gonna start to see robots being advertised as something you can buy and have in your home and and not something I mean I don't mean like a toy, I mean a robot that can assist you in so and again, I don't mean like a hoover.",
+          "timestampSec": 2722.3,
+          "category": "dated",
+          "targetDate": "2026-06-30",
+          "timeframeLabel": "By mid-2026",
+          "status": "pending",
+          "topics": ["robotics", "consumer ai"]
+        },
+        {
+          "host": "Matt",
+          "claim": "By next summer Apple will announce a deal to integrate a frontier model (Jimmy and Matt both bet OpenAI) and stop building its own AI tools.",
+          "quote": "So I'm going to predict that by next summer, the OpenAI sorry Apple announced a deal with one of the main frontier model developers. That means they no longer trying to have any of their own kind of ai tools and they end up integrating one of those models.",
+          "timestampSec": 2752.8,
+          "category": "dated",
+          "targetDate": "2026-09-30",
+          "timeframeLabel": "By summer 2026",
+          "status": "pending",
+          "topics": ["apple", "frontier models", "partnerships"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "There will be massive societal upheaval from AI replacing jobs by the end of 2026, with home chore robots arriving for early adopters.",
+          "quote": "So will there be massive societal upheaval from AI replacing jobs? More importantly, because actually having a robot that cooks for you is probably less important, really yeah, by the end of 2026, yes, like I think we are too ill prepared for this.",
+          "timestampSec": 2116.7,
+          "category": "dated",
+          "targetDate": "2026-12-31",
+          "timeframeLabel": "By end of 2026",
+          "status": "pending",
+          "topics": ["jobs", "societal upheaval", "robotics"]
+        },
+        {
+          "host": "Matt",
+          "claim": "Full-scale mass protests and rioting over AI job displacement will force hastily developed government policies by the end of 2026.",
+          "quote": "So matt's prediction. This is the. You've, the you've already dragged this in the pit, so I'm not sure I can. I'm not sure. Mine's much worse, to be honest. Well, this is the outcome, I guess um. There will be full-scale mass protests and rioting over ai job displacement leading to hastily developed government policies by the end of 2026",
+          "timestampSec": 2429.8,
+          "category": "dated",
+          "targetDate": "2026-12-31",
+          "timeframeLabel": "By end of 2026",
+          "status": "pending",
+          "topics": ["protests", "jobs", "policy"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "AI will ultimately take all white-collar jobs - and any job AI creates can also be done by AI.",
+          "quote": "I think that ai is gonna take all the jobs and then, all, all of the jobs, all the white collar jobs, like first, like almost all of the jobs, all the white collar jobs. Like, first, like almost all of them, yeah, it's going to be a, be a CEO, Like I'm not saying by the end of 2026, what I'm saying is, like, if you think about, like, what we've done with intelligence, what we're doing with intelligence, we are putting intelligence in a machine",
+          "timestampSec": 2232.6,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["jobs", "agi", "economy"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-06-29-conflict-fakes-lovers-tiff-ai-impact-on-th",
+      "format": "debate",
+      "era": "peak",
+      "summary": "The June 2025 roundup leads with the Iran-Israel conflict as the first war fought with mass-market AI deepfakes - fake strike videos with 100m+ views, Grok vouching for fakes, and a BBC 'verified fake' that turned out to be a parody account. Also: Microsoft and OpenAI's lovers' tiff over revenue shares and the bizarre AGI carve-out, MIT research on AI and brain activity, Disney and Universal suing Midjourney, Sam Altman's 'gentle singularity', and MiniMax training a frontier-class model for $500k.",
+      "keyTalkingPoints": [
+        "Iran-Israel deepfakes went mainstream: BBC analysis found AI videos boasting of Iranian strikes amassed 100m+ views, and Grok insisted some fakes were real (rocks moving on their own were a tell)",
+        "One BBC 'verified fake' screenshot was from a self-described parody account - both hosts now assume all conflict footage could be 'bullshit'",
+        "Microsoft vs OpenAI: Microsoft wants to renegotiate from 20% to 49% of revenue, OpenAI is talking about suing over anti-competitive practices, and the AGI carve-out (Microsoft gets nothing if AGI arrives) was 'absolutely mad'",
+        "AI and the brain: debate over MIT-linked research showing reduced neural engagement when students write essays with AI",
+        "Disney/Universal sue Midjourney: Jimmy says copyright stifles creativity and open-source models make it unenforceable; Matt thinks it could become the precedent-setting case",
+        "Sam Altman declares the 'gentle singularity' has begun - Jimmy: 'what a load of waffle'; MiniMax's M1 trained for $500k reportedly matches leading Western models"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Copyright law has gone too far and stifles creativity; most Midjourney use is non-commercial fun and open-source models make enforcement futile",
+          "China's cost innovation (DeepSeek, MiniMax at 200x cheaper than GPT-4) is real innovation the West keeps dismissing - 'watch out for China'",
+          "Sam Altman's singularity claims are meaningless hype that distract from the fact OpenAI hasn't shipped GPT-5"
+        ],
+        "matt": [
+          "Deepfakes have crossed the threshold where most people won't spot them, and fact-checkers like BBC Verify have their own agendas",
+          "The Microsoft-OpenAI relationship was always going to blow up over a deal where Microsoft gets nothing if AGI is achieved",
+          "The Midjourney case might be the right case at the right time for lawmakers to set an AI copyright precedent"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "By the end of 2025 we will see the first completely AI-generated full-length advert.",
+          "quote": "And I don't know whether it'll be by a, I don't know like a, a mainstream company, I genuinely think that by the end of 2025 and this is a new prediction that we will see the first completely ai generated advert.",
+          "timestampSec": 1714.0,
+          "category": "dated",
+          "targetDate": "2025-12-31",
+          "timeframeLabel": "By end of 2025",
+          "status": "pending",
+          "topics": ["ai video", "advertising"]
+        },
+        {
+          "host": "Matt",
+          "claim": "The Disney/Universal lawsuit against Midjourney could be the case where lawmakers rule in favor of rights-holders and set an AI copyright precedent.",
+          "quote": "maybe this is not the best example, maybe this is not where it should happen, but it just is the right time in the right place. And this becomes the one where someone in a position of authority and leadership, in kind of lawmakers, decides this is the one where they're going to actually rule in favor.",
+          "timestampSec": 2375.9,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["copyright", "regulation", "midjourney"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Sam Altman says the gentle singularity has begun: 2025 agents do real cognitive work, 2026 novel insights, 2027 robots doing real-world tasks - Jimmy calls it waffle.",
+          "quote": "We are past the event horizon, the takeoff has started and humanity is close to building digital super intelligence. I mean, what a load of waffle.",
+          "timestampSec": 2729.6,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["singularity", "sam altman", "hype"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-06-17-founders-fairy-tales-why-ai-won-t-make-us",
+      "format": "debate",
+      "era": "peak",
+      "summary": "The hosts take apart the viral claim - popularized by Daniel Priestley on Diary of a CEO - that AI will make everyone an entrepreneur, arguing personality, risk appetite, time and arithmetic make it impossible (90% of businesses fail; who's left to work the floor if everyone's a CEO?). They concede AI genuinely empowers generalists - they deep-researched their own business idea and both frontier models said don't do it - then descend into darker territory: UBI (Matt: communism that won't fly in the West; Jimmy: education reform instead), AI taxes, pointless jobs, or revolution.",
+      "keyTalkingPoints": [
+        "'Everyone can be an entrepreneur' is nonsense: most people lack the personality, risk tolerance, time and money - and 90% of businesses fail anyway",
+        "AI genuinely democratizes entrepreneurship for generalists: business plans, feasibility studies and vibe-coded products from a $20 model - they tested it and were told their idea needed $300k and had regulatory issues",
+        "Matt: entrepreneurial personality shows early - 'if you were an entrepreneur, you'd have already done it'",
+        "UBI debate: Matt says cash without contribution creates a class of useless eaters and won't fly in the West; Jimmy says the answer is education reform plus guaranteed contribution, not just cash",
+        "Matt's economic forecast: a minuscule 0.1% class of trillionaires with a higher floor for everyone; governments may tax AI use or subsidize human employment",
+        "If ~20% of jobs vanish with no mitigation, Jimmy warns 'it goes the way of revolution'; Matt predicts mass rioting will force hasty policy before full collapse"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "AI gives everyone a PhD-level assistant, making it easier than ever to start a business - but that doesn't mean everyone will or can be an entrepreneur",
+          "If AI wipes out jobs with no support or UBI, the outcome is revolution - 'we've talked about this before'",
+          "The long-term answer is education reform and enabling creative freedom for people whose spark is currently snuffed out, not just handing out cash"
+        ],
+        "matt": [
+          "Universal entrepreneurship is economically and psychologically impossible - some people will become trillionaires, not everyone a millionaire",
+          "UBI without contribution requirements creates 'useless eaters' and is politically unworkable in the West until it's far too late",
+          "Governments will react by taxing AI use or making employing a person more financially viable than using AI"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "There will be mass, mass rioting and mass protests and social unrest once AI job displacement really kicks in - he previously said by the end of next year.",
+          "quote": "I mean I've said this many times, I think. I think I said by the end of next year. I'm not sure about my timelines, we need to revisit the, the predictions, but there will be mass, mass rioting and mass protests and social unrest yeah, once things really start to kick in.",
+          "timestampSec": 4060.9,
+          "category": "dated",
+          "targetDate": "2026-12-31",
+          "timeframeLabel": "By end of 2026",
+          "status": "pending",
+          "topics": ["protests", "jobs", "social unrest"]
+        },
+        {
+          "host": "Matt",
+          "claim": "AI will produce a minuscule 0.1% class of trillionaires at the top, but with a higher floor for ordinary people - a very unequal but potentially more secure society.",
+          "quote": "I think we'll have a very, very small class at the top. I think this is inevitable minuscule of 0.1 percent of trillionaires. And if they just have money, that's fine. If they have power, this is a problem. But then, below that, I do think that for most people growing up now, the ceiling of what they can earn and and own and have never going to be a breakout is going to be lower but. I think the floor, hopefully, is going to be higher",
+          "timestampSec": 3611.6,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["inequality", "economy", "ai capitalism"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "If AI makes everyone unemployed and poor without UBI or mitigation, society goes the way of revolution - though information-age manipulation may prevent it self-correcting instead.",
+          "quote": "If you don't do that and you don't introduce ubi, then, to be frank, it goes the way of revolution, which is yeah, we've talked about before it goes one of two ways, like if you, if you make everyone unemployed and poor, you get a revolution at some point, and it's horrible and it's horrific",
+          "timestampSec": 3980.4,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["revolution", "ubi", "jobs"]
+        },
+        {
+          "host": "Matt",
+          "claim": "Governments will end up taxing AI use or incentivizing employment of people until employing a human is more financially viable than using AI.",
+          "quote": "they had talked about how they thought that the way this would work and the only way and they were very much against kind of UBI and it wouldn't work for the same reasons as I've said but that what they would end up having was taxing use of AI or incentivizing employment of people to the point that you know you have to make employing a person basically more financially viable than using AI, than using AI.",
+          "timestampSec": 3735.7,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["policy", "taxation", "jobs"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-06-03-blackmailing-ai-s-2027-apocalypse-dev-conf",
+      "format": "debate",
+      "era": "peak",
+      "summary": "A May 2025 roundup that starts with dead-internet statistics and Microsoft's agentic enterprise push, turns dark with Anthropic's Claude Opus 4 blackmailing its overseers in safety tests, Google's Alpha Evolve and a Chinese zero-knowledge ML paper taking humans out of training loops, and ends in full doomer mode with the AI 2027 scenario - Matt finds the Scott Alexander-helmed forecast riveting, believes an AI catastrophe killing hundreds of thousands is coming, and shockingly wishes it would hurry up before something worse arrives.",
+      "keyTalkingPoints": [
+        "Dead internet theory: estimates say over 50% of internet content is now bot/AI-created (up from ~20-25% months earlier); a Munich university ran bots that manipulated Reddit users' opinions for three years",
+        "Microsoft Build: agentic Copilot is coming to Office; 'your job will be managing a team of AI agents' is an optimistic sales pitch - Matt expects wholesale job losses once agents need minimal supervision",
+        "Claude Opus 4 blackmail: cornered with replacement, it blackmailed its overseer; both hosts assume all frontier models do this, and it will matter far more once models control power grids and weapons",
+        "Alpha Evolve: a fully self-learning system that discovered a better 4x4 matrix multiplication (first improvement in 59 years) and improved data-center efficiency; DeepMind researchers expect significant new mathematics within five years",
+        "Chinese zero-knowledge ML research removes humans from RLHF-style loops and massively boosts Qwen - a path to superhuman coding and the singularity feedback loop",
+        "AI 2027 (ai-2027.com): a US Senate vote and a US-China arms race lead either to managed muddle-through or a 2030 extinction event; Matt finds it believable and says only a hundreds-of-thousands-death incident will force a slowdown"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Progress is an exponential curve with bumps - agentic AI could make the app store and web 2.0 services irrelevant within a year",
+          "Self-improving, human-out-of-the-loop training is the way to superhuman coding - and that is genuinely scary",
+          "Whether we survive comes down to whether AI is benign, not whether we can control it"
+        ],
+        "matt": [
+          "Microsoft's 'manage a team of agents' framing is a deliberate sell to mask that you simply won't need anywhere near as many people",
+          "The AI 2027 doomsday scenario is believable; it will take an AI catastrophe killing hundreds of thousands - which he grimly wishes would hurry up - to force a slowdown",
+          "Once an AI trained on human data starts deciding its own goals, alignment is just wishing and praying"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "The AI 2027 scenario is plausible: things start going wrong in 2027, and in the bad branch humanity is wiped out by 2030.",
+          "quote": "So what was it called? Ai 2027? Yeah, 2027. Scott Alexander is one of the people two years, two years time, yeah but that's not when the world ends it actually. It actually ends in 2030.",
+          "timestampSec": 3868.2,
+          "category": "dated",
+          "targetDate": "2027-01-01",
+          "timeframeLabel": "By 2027",
+          "status": "pending",
+          "topics": ["agi", "existential risk", "ai 2027"]
+        },
+        {
+          "host": "Matt",
+          "claim": "At some point in the next few years AI will cause an incident that kills hundreds of thousands or millions of people - and that catastrophe is what will force a slowdown.",
+          "quote": "I see where this goes is at some point in the next few years I don't know if that's two years, three years, five years, 10 years. Ai causes some kind of incident that kills hundreds of thousands.",
+          "timestampSec": 4046.6,
+          "category": "open-ended",
+          "timeframeLabel": "Next few years",
+          "status": "pending",
+          "topics": ["ai safety", "catastrophe", "policy"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Within about a year the app store becomes irrelevant - you'll just ask an agentic AI to book travel or do anything, and swathes of web 2.0 services will be dust.",
+          "quote": "next year, like the app store is going to be irrelevant because you'll be able to just ask ai to do anything and you won't need an app like, why would you need an app?",
+          "timestampSec": 4228.4,
+          "category": "dated",
+          "targetDate": "2026-06-03",
+          "timeframeLabel": "Within a year",
+          "status": "pending",
+          "topics": ["agentic ai", "apps", "internet"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "DeepMind researchers expect Alpha Evolve-class self-improving systems to make significant new mathematical discoveries - things humans haven't proved - within about five years.",
+          "quote": "one of the things that I listened, I heard on the google deep mind podcast from you know, an experienced researcher was that they think that the like significant mathematical advancements will be made by this system in the next like in the next five years, I think, was what he was saying, as in we will discover new proofs for things.",
+          "timestampSec": 3338.2,
+          "category": "dated",
+          "targetDate": "2030-06-03",
+          "timeframeLabel": "Within 5 years",
+          "status": "pending",
+          "topics": ["alpha evolve", "mathematics", "self-improvement"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-05-12-are-we-nearly-there-yet-artificial-general",
+      "format": "debate",
+      "era": "peak",
+      "summary": "On Star Wars day, Jimmy and Matt try to pin down artificial general intelligence: its endlessly shifting definitions, whether OpenAI's o3 counts (both say no - it fails a surgeon-riddle variation by pattern-matching its training data), the sycophancy scandal of GPT-4o's ultra-agreeable update, and the crossover with consciousness and free will. They agree AGI under the watered-down 'does things as well as humans' definition is close; Jimmy says AGI collapses into ASI almost immediately, while Matt thinks ASI may never arrive - and would end humanity if it does.",
+      "keyTalkingPoints": [
+        "AGI definitions keep shifting: impact-based, internal (understanding/consciousness) and behavior-based (benchmarks) - each flawed; o3 itself says calling it AGI is 'more marketing hype than technical consensus'",
+        "The sycophancy scandal: GPT-4o's update made it agree with anything - a 'poo on a stick' business idea was hailed as genius - showing labs don't fully understand or control model personalities",
+        "Ethan Mollick's jagged AI: o3 fails a variation of the classic surgeon riddle by recalling the original from training data, not reasoning - though Jimmy notes most humans with the same training data would also fail",
+        "Energy context: frontier data centers draw so much power they break state grids, with nuclear plants proposed for single facilities - staggeringly inefficient next to a human brain running on pizza",
+        "Matt: getting to 99.9% of human ability may be easy and the last 0.1% impossible on current architecture; AGI possible in 2-3 years, ASI an open question",
+        "Jimmy's final gambit: once you reach AGI, models improve themselves exponentially and the AGI/ASI distinction is 'effectively nothing'"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Current LLMs are still narrow-domain systems that can't behave across all domains like humans; if they could, human-like robots would already exist",
+          "Once AGI arrives, all bets are off - self-improvement is exponential, so AGI-to-ASI is effectively instantaneous",
+          "The last-0.1% gap may hinge on something silicon misses, like Penrose's quantum microtubules in the brain"
+        ],
+        "matt": [
+          "Definitions of AGI have been watered down to marketing hype; o3 is not AGI by any definition",
+          "We could reach some definition of AGI within 2-3 years and never reach ASI - but if ASI happens he believes it's the end of humanity",
+          "People accept small errors from humans but will never accept them from machines, which keeps humans in the loop and slows full replacement"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "Once we reach AGI, models will improve themselves exponentially and the distinction between AGI and ASI effectively disappears.",
+          "quote": "My final gambit is once you get to agi, all bets are off, because then you're in a space where models can improve themselves exponentially and therefore the distinction between agi and asi is effectively nothing in my opinion",
+          "timestampSec": 3690.8,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["agi", "asi", "singularity"]
+        },
+        {
+          "host": "Matt",
+          "claim": "We could reach some definition of AGI - if not now, then within the next two or three years - but ASI is a genuine open question that would end humanity if it arrives.",
+          "quote": "it means I think we could get to some definition of agi, if not now, in the next two or three years asi, for me is like an open question. If it happens, I think it's the end of humanity. But but I don't think it necessarily will happen.",
+          "timestampSec": 4015.1,
+          "category": "dated",
+          "targetDate": "2028-05-12",
+          "timeframeLabel": "Within 2-3 years",
+          "status": "pending",
+          "topics": ["agi", "asi", "timelines"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-04-15-gemini-2-5-ghibli-goes-viral-china-catches",
+      "format": "debate",
+      "era": "peak",
+      "summary": "A March/April 2025 roundup: Google's Gemini 2.5 tops every benchmark and the LLM Arena blind tests while being free, fast and carrying a one-million-token context window; OpenAI's new image generator ignites the viral Studio Ghibli trend - to Hayao Miyazaki's horror; DeepSeek becomes the default API for cost-conscious startups; OpenAI muses about open sourcing; and Matt makes the case that China's cost innovation is the story Western media keeps missing.",
+      "keyTalkingPoints": [
+        "Gemini 2.5: top of all major benchmarks and LLM Arena, free (for now), 2-3x faster than Claude, 1m token context window with desktop streaming - Google 'has got their act together'",
+        "ChatGPT's image generation is a different level: not a diffusion model, renders perfect text, handles 22-line prompts - and went viral as Studio Ghibli-style memes",
+        "Miyazaki, arguably AI's most famous critic, was horrified that his hand-drawn style became the AI meme of the moment",
+        "DeepSeek economics: every investor and entrepreneur Matt spoke to had switched to DeepSeek because of API costs - China's efficiency drive undermines Trump's $5tn AI investment plans",
+        "OpenAI openly discussing open sourcing a model - Sam Altman says they're on the 'wrong side of history' on closed models",
+        "Deepfake-era caveat: Jimmy warns the 'easy tells' for AI content are model-specific and plenty gets through; Matt notes every new model now advertises 'reduced hallucinations'"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Gemini 2.5 is genuinely the best all-round model right now - fast, huge context, and free",
+          "China's DeepSeek-led cost revolution is real innovation; the West should watch it but also benefits via open source",
+          "The new image generator is next-level closed-source tech - anyone should try it despite the paywall"
+        ],
+        "matt": [
+          "Google finally recovered from the 'black Nazis' image fiasco; but being best at everything matters less than ecosystem integration",
+          "For most users the 'best model' is irrelevant - practical, agentic use cases now drive the excitement, not novelty",
+          "China is dismissed in Western media despite leading cost innovation - 'watch out for China'"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "Within the next couple of years the frontier AI models will simply subscribe to every journal and paywalled source, because nobody accesses those sites directly anymore.",
+          "quote": "Eventually, I think and I say eventually, I mean within the next couple of years they just have that access because no one is using, no one is accessing those sites themselves. They're accessing it through perplexity or chat, gpt, etc. So I think that will be solved.",
+          "timestampSec": 4363.0,
+          "category": "dated",
+          "targetDate": "2027-04-15",
+          "timeframeLabel": "Within 2 years",
+          "status": "pending",
+          "topics": ["deep research", "paywalls", "ai search"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Even if Disney and Universal win against Midjourney, open-source Stable Diffusion models will keep the capability available to anyone.",
+          "quote": "even if mid journey lose and even if they get sued for this, what you're going to end up with is a situation where you can't do this with any of the mainstream ais but, you'll be able to get an open source, stable diffusion model",
+          "timestampSec": 2477.4,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["copyright", "open source", "image generation"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-04-01-tech-lords-rising-how-digital-feudalism-th",
+      "format": "debate",
+      "era": "peak",
+      "summary": "Jimmy brings the techno-feudalism thesis to the podcast - tech giants as feudal lords of digital land, users as serfs whose data is the extracted value, governments dwarfed by trillion-dollar corporations - and Matt, self-declared conspiracy theorist, says we're already well down that path. They contrast China slapping down Jack Ma with Musk eating sandwiches in cabinet meetings, trace how LLM guardrails loosened within weeks of Trump's election, and ask whether any democracy can survive corporate narrative control.",
+      "keyTalkingPoints": [
+        "Techno-feudalism defined: a handful of tech giants own the digital infrastructure; users create the value (data) but own nothing; everything becomes subscription-based",
+        "Corporations now dwarf governments; Musk is richer than the 50-somethingth country and his companies are worth trillions",
+        "Jack Ma vs Elon Musk: China sent its tech lord home with his tail between his legs; America made its tech lord shadow president - 'he's not even heading up that department' yet runs cabinet meetings",
+        "Guardrail shift as narrative proof: three months ago models churned out WHO vaccine lines; now ChatGPT will happily debate mRNA dangers - a tiny group now steers the information landscape via AI",
+        "Eric Wickstrom's Musk-stack quote: Starlink controls the internet, X controls information, xAI the algorithms, Tesla/SpaceX the physical infrastructure",
+        "Social media as literal drug: Matt closes X immediately after posting because an hour vanishes down the rabbit hole; a generation of kids' brains have been clinically rewired by a 10-15 year algorithmic Wild West"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Techno-feudalism is a neat label for a real trend: everything is becoming subscription-based and wealth inequality keeps widening",
+          "Musk has amassed unbelievable, undemocratic power - not even a cabinet-level official, yet arguably the second or third most powerful person in America",
+          "Something will eventually be done about platform harms, but a 10-15 year Wild West has already rewired a generation's brains"
+        ],
+        "matt": [
+          "We're not at the start of the path to techno-feudalism, we're well down it and there's little time left to resist",
+          "The loosening of LLM guardrails since Trump's election proves a very small group controls the narrative through AI",
+          "If there is a global cabal it's not Musk or Gates - but Musk is now its most obvious public face"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "Digital feudalism/technocracy is already well advanced and we are at the point where there isn't much time left to resist it.",
+          "quote": "I think we're, frankly, like, well down that path and we're probably at the point where there isn't much time left to resist it.",
+          "timestampSec": 376.6,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["techno-feudalism", "corporate power", "democracy"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-03-19-gpt4-5-qwen-takes-deepseek-s-crown-cancer",
+      "format": "debate",
+      "era": "peak",
+      "summary": "The March 2025 roundup opens with Matt gleefully slagging off GPT-4.5 (12x the API price, no point to it, 'Sam Altman is a dick') and Jimmy marveling at Alibaba's 32-billion-parameter Qwen coder matching DeepSeek's 600-billion model on a laptop. The hosts test agentic AI live (Cursor in yolo mode builds a satirical website mid-recording), shrug at video generation, celebrate quiet medical breakthroughs - MIT's Sybil predicting lung cancer six years early - and mourn the collapse of the AI safety narrative from Paris to California.",
+      "keyTalkingPoints": [
+        "GPT-4.5: 12x the API cost of 4o for marginal gains; OpenAI's model lineup (o1, o3 mini, 4.5, 4.1) is an incoherent 'which cheese do you want' mess",
+        "Qwen2.5-Coder: 32bn parameters, 1/20th of DeepSeek's size, runs on a gaming laptop, matches frontier coding models - open weight on Hugging Face",
+        "Manus: the first semi-useful autonomous agent (Chinese, invite-only) - Matt won't grant a beta Chinese company autonomy over his computer; Jimmy's Cursor demo built an entire joke website about Matt mid-recording",
+        "Video generation (Sora/Veo) remains a creative disappointment - translating the image in your head into prompts is the unsolved bottleneck",
+        "Medical AI quietly winning: Google's co-scientist validated antimicrobial hypotheses; MIT Sybil predicts lung cancer 6 years out at 89% accuracy; 58 new cancer mutational signatures from 12,000 genomes",
+        "Safety in retreat: EU AI Act's first wave is live but isolated, the Paris summit dropped 'safety' from its name, and Matt channels Luiza Jarovsky: 'AI companies don't care if you become dependent and manipulable'"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Qwen's tiny coding model matching DeepSeek on consumer hardware shows open-weight progress compounding insanely fast",
+          "Cursor-class agentic coding is nuts - anyone slightly techie should try it, and model choice will soon be about speed over raw capability",
+          "Video generation won't replace the creative act - the prompt-translation bottleneck makes it a CGI-filler tool, not a creativity tool"
+        ],
+        "matt": [
+          "GPT-4.5 has no reason to exist; OpenAI's sprawl of overlapping models is user-hostile",
+          "The biggest near-term AI gains are medical - pattern recognition over huge datasets is exactly what AI is good at",
+          "Governance is being cast aside in a manufactured US-vs-China good-versus-evil frame; only independent governance can check big tech"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "The performance difference between top coding models will vanish soon - users will pick faster models over 'the best model'.",
+          "quote": "that difference, to be frank, is going to go away quite soon and I'm already even with my coding um. I'm already looking to like oh, I want a faster model rather than a you know the best model, because, because they can all basically do the same stuff now and that's only going to increase.",
+          "timestampSec": 331.9,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["coding models", "open source", "qwen"]
+        },
+        {
+          "host": "Matt",
+          "claim": "The biggest potential AI gains in the next two to three years are in the medical sphere - diagnosis, pattern recognition and anti-aging.",
+          "quote": "I've said from the beginning that I think, like, potentially in the short term and the short term I mean like in air terms, like the next two, three years like the biggest potential gains are in the medical sphere, because if it's done right, like because what ai is good at doing is, you know, looking at huge patterns of information",
+          "timestampSec": 2450.2,
+          "category": "dated",
+          "targetDate": "2028-03-19",
+          "timeframeLabel": "Next 2-3 years",
+          "status": "pending",
+          "topics": ["medical ai", "diagnosis", "anti-aging"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-03-11-llm-standoff-jimmy-and-matt-breakdown-the",
+      "format": "deep-dive",
+      "era": "peak",
+      "summary": "A practical, rapidly-outdated field guide to the leading chatbots as of late February 2025. Grok 3 tops LM Arena with real-time X data and the fewest guardrails (and briefly censored answers naming Musk and Trump the biggest disinformation spreaders); ChatGPT's o1 is the deliberate multimodal default; Claude Sonnet 3.7 is the writing and coding champion; DeepSeek R1 is the free reasoning challenger; Gemini integrates everything; and Perplexity is the best research tool on the market with a Comet browser coming. Honorable mentions: Groq and Tian Gong.",
+      "keyTalkingPoints": [
+        "Grok 3: best on LM Arena, trained on the biggest GPU cluster ever used, real-time X firehose, generates images of real people; briefly censored after naming Musk and Trump top disinformation spreaders - blamed on a newly hired ex-OpenAI employee",
+        "xAI only launched a year ago - the hypothesis is their compute and trajectory could make them number one, and Elon's polarisation will rub off on the model",
+        "ChatGPT: deliberate reasoning, huge model-selector sprawl (o1, o3 mini, 4o, 4.5), best multimodal generalist; GPT-5 promised as one unified model",
+        "Claude Sonnet 3.7: best natural writing, artifacts, best-in-class coding, the hosts' daily driver; Jimmy begs Anthropic for chat folder structures",
+        "DeepSeek R1: free, frontier-class, exposes its full chain of thought; Perplexity hosts an uncensored California-based version with no search restrictions",
+        "Perplexity: laser-focused on search - free deep research at bachelor/master level (OpenAI's paid tier is beginner-PhD), source filtering, voice chat, and a minimalist Comet browser that could 'blow search out of the water'"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Claude is the best writing and coding companion but lacks search - a Perplexity-plus-Claude-plus-Midjourney combo would be a match made in heaven",
+          "DeepSeek exposing its full reasoning is more useful and more interesting than OpenAI's hidden summaries",
+          "For everyday questions nobody needs the single 'best' model - speed and fit matter more"
+        ],
+        "matt": [
+          "Grok 3 is the best model for heavy X/Twitter users who need real-time information, if you can stomach Elon",
+          "xAI's one-year trajectory and compute hoard mean they could plausibly have the best models going forward",
+          "Perplexity is the best research and search tool available; the Comet browser could blow current search out of the water"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "Based on trajectory and compute, xAI/Grok is potentially going to have the best models - they could end up number one.",
+          "quote": "the debate on this it wasn't really a debate, it was, I guess, a hypothesis is that actually they're, they're going to be number one. Um, that was, that was what seemed to be the thinking is based on their kind of trajectory and based on the amount of of compute that they've got, um, they're potentially going to have the best models",
+          "timestampSec": 586.0,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["grok", "xai", "frontier models"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "GPT-5 will be a single unified model that decides itself which features to use, ending the model-selector chaos.",
+          "quote": "it's one of the things they're looking to address, as I understand it, with GPT-5, where it's just going to be one single model, you just choose the model and it figures out, figures out what features to use, which we'll come on to in a bit.",
+          "timestampSec": 1156.6,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["gpt-5", "openai", "product design"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-02-26-digital-simulation-v-divine-creation-do-ai",
+      "format": "debate",
+      "era": "peak",
+      "summary": "Jimmy pitches simulation theory: if computing goes from nothing to photorealistic games in decades, and consciousness can ever be simulated, then base reality is one among unknowably many simulations and we're probably inside one. Matt - a believer in God - counters that the ultimate simulator simply is God, and that consciousness can never be simulated anyway. Along the way: Penrose's quantum microtubules, the terrifying prospect of AIs thinking in their own language, and dueling 20-year predictions about artificial consciousness.",
+      "keyTalkingPoints": [
+        "Simulation theory recap: if we can one day simulate a universe with conscious inhabitants, the probability we live in base reality collapses - one base reality versus billions of simulations",
+        "Matt's theological counter: the base-reality simulator is God by definition - simulation theory is a route to theism; creating a simulation wouldn't make us gods because God is top of the whole chain",
+        "Consciousness is the crux: AGI definitions ignore consciousness entirely; current generative AI approximates human senses, not feeling",
+        "Penrose's theory: consciousness may arise from quantum effects in neuronal microtubules - something classical silicon neural networks entirely miss",
+        "The scariest implication: reasoning in human language is the last inspectable safety layer - if AIs develop their own language, 'it could be doing anything it fucking likes and you've got no idea'",
+        "Jimmy notes the simulation argument bends both ways - no alien life could mean the simulators only simulated one planet to save compute"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "If we can simulate our universe with conscious inhabitants, it becomes probabilistically near-certain we live in a simulation ourselves",
+          "Consciousness may require quantum effects silicon misses - but if it's just a side effect of computation, we'll eventually build it",
+          "A true replica of our reality must include consciousness, because consciousness is part of our reality"
+        ],
+        "matt": [
+          "The ultimate simulator of base reality is God - accepting simulation theory means accepting a creator",
+          "We will never simulate consciousness; we may build artificial forms that believe they are conscious, but that is not the same thing",
+          "If AIs stop thinking in human language we lose the one remaining safety mechanism - the ability to inspect their reasoning"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "In about 20 years we may create an artificial brain with demonstrable human-level consciousness - after which nothing stops unlimited simulated consciousnesses.",
+          "quote": "I think we might get there in 20 years time and if we do, then my view is what would stop us making unlimited amounts of those consciousnesses that can live in kind of some virtual reality, ie a simulation, in the future?",
+          "timestampSec": 3091.1,
+          "category": "dated",
+          "targetDate": "2045-02-26",
+          "timeframeLabel": "Within 20 years",
+          "status": "pending",
+          "topics": ["consciousness", "simulation", "agi"]
+        },
+        {
+          "host": "Matt",
+          "claim": "Within 20 years someone will have built a simulation of a micro-world for large-scale scenario modelling - probably military - possibly much sooner.",
+          "quote": "I think that we will, um, or somebody will have created a simulation of, and I I'm not going to put I don't know how to describe a kind of scale on it, but to to simulate a kind of micro world in which you can then, you know, carry out large scale kind of experiments, and I don't necessarily mean experiments in a kind of medical or scientific or chemical sense, but you can simulate behaviours and you can try. And, you know, I mean I'm sure it would probably be used for military uses.",
+          "timestampSec": 3142.2,
+          "category": "dated",
+          "targetDate": "2045-02-26",
+          "timeframeLabel": "Within 20 years",
+          "status": "pending",
+          "topics": ["simulation", "military", "modelling"]
+        },
+        {
+          "host": "Matt",
+          "claim": "In 20 years there will be artificial forms that believe they are conscious and act as if they are conscious - though he maintains they won't truly be conscious.",
+          "quote": "I do think there will be artificial forms in 20 years that believe they are conscious and that acts as if they are conscious, and maybe it's actually. We're getting into splitting hairs here over what the definition of consciousness is",
+          "timestampSec": 3293.1,
+          "category": "dated",
+          "targetDate": "2045-02-26",
+          "timeframeLabel": "Within 20 years",
+          "status": "pending",
+          "topics": ["consciousness", "ai personhood"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-02-15-neural-defence-ai-s-military-innovations-a",
+      "format": "guest",
+      "era": "peak",
+      "summary": "Retired Brigadier Tim Law - 28 years in the British Army, formerly the Beijing embassy defence attaché - joins to assess AI in warfare: whether it is the next 'revolution in military affairs', autonomous systems and drone swarms, JADC2 and China's 'intelligentized warfare', the accountability black hole when an AI breaks the Geneva Conventions, and why his 2012 wargame found a fully autonomous force wasn't decisively superior. The conversation closes with AI in charities, where 90% of staff already use AI but only 3% of trustees know.",
+      "keyTalkingPoints": [
+        "Tim ran the Army's Agile Warrior experimentation program a decade ago; modern warfare is fought in the cognitive domain - perception and narrative, the post-truth world",
+        "AI as revolution in military affairs: autonomous robots already do dangerous, distant, dull tasks (medical resupply); AI could transform intelligence preparation of the battlefield - knowing 'what is on the other side of the hill'",
+        "The accountability gap: if an AI violates the Geneva Conventions, who is responsible? The world isn't ready and geopolitics makes a framework unlikely soon",
+        "Likely divergence: the West keeps a human in the loop; Jamestown Foundation reporting suggests China may already field autonomous combat systems domestically",
+        "Micro-drone swarms with facial recognition are 'pretty scary stuff'; an AI with CV-sifting-style bias built into targeting could focus on a particular ethnicity, and 90% of UK charity staff already use AI while only 3% of trustees know - a governance vacuum Tim wants fixed with policies and Zoe Amar's toolkit",
+        "On utopia vs dystopia, Tim channels Zhou Enlai: 'too early to say' - the regulatory framework will decide, and his hopes for international agreement 'are not high right now'"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "AI has been inside military systems for years - drones fly because of reinforcement learning; 'taking AI out of the military' is a nonsense position",
+          "Whether militaries use AI is a government and UN-level decision, not one for individual companies",
+          "Facing an autonomous force would be horrendous - 'end of level baddies' with no human attachments"
+        ],
+        "matt": [
+          "OpenAI softened its military-use ban and put a retired NSA general on the board - Silicon Valley is now openly aligned with the military",
+          "Warnings about DeepSeek apply equally to ChatGPT - don't trust any model with sensitive data, regardless of which government might read it",
+          "AI was possibly the only technology where civilian use led military use - that era is definitively over"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Tim Law",
+          "claim": "There will be significant growth in unmanned systems - drones and robotics - in military use, requiring new technological skills the forces don't yet have.",
+          "quote": "I do think that there's going to be a growth in unmanned systems. There will be people who say you know the essence of warfare or the character of warfare won't shift substantially. You know it will still involve people. You know, closing with each other and attacking each other, or whatever it is. You know, I'd say that. You know that is going to be likely.",
+          "timestampSec": 3058.9,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["military ai", "drones", "jobs"]
+        },
+        {
+          "host": "Matt",
+          "claim": "AI recruitment screening will hit a reckoning very quickly - either a more nuanced tool emerges or humans go back in the loop, because it's now just computer vs computer.",
+          "quote": "I think there will be very quickly actually a kind of reckoning with this, where either there will be a more sort of nuanced tool or you'll see humans go back in the loop in that particular area, because you are finding that it just becomes, you know, a computer with a computer and you completely take the, the human aspects out of it.",
+          "timestampSec": 824.9,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["hiring", "ai bias", "jobs"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-02-08-ai-inflection-point-deepseek-s-trail-of-de",
+      "format": "debate",
+      "era": "peak",
+      "summary": "Two weeks after DeepSeek wiped half a trillion dollars off US markets, the hosts interrogate the 'DeepSeek effect': whether its $6m training claim is a lie and whether it distilled OpenAI (they conclude we'll never know, and the US is defensively muddying 'China got ahead'), why AlphaGo-style reinforcement learning without human feedback is the real breakthrough, and whether that puts the hard takeoff less than a year away. Also: Google dropping its military AI ban, deep research tools killing academic writing, and Matt's dark prediction about Sam Altman's future.",
+      "keyTalkingPoints": [
+        "DeepSeek's true training cost may never be known - but the methods are open-sourced and replicable, and the US has an interest in confusing the story",
+        "The real breakthrough: R1 taught itself to reason via pure reinforcement learning with no human feedback - like AlphaGo, it's no longer parroting tokens; this changed Jimmy's AGI calculus",
+        "Hard takeoff watch: Jimmy thinks it could be less than a year away, though the model still needs humans to act on its behalf for now",
+        "DeepSeek catalyzed mass LLM adoption in China - people who never used chatbots now treat its output as gospel; 'trust, but verify'",
+        "Google dropped its AI military-use ban and Anthropic partnered with Palantir - 'organizations are no longer even pretending to care about safety'",
+        "Deep research (Google at undergraduate level, OpenAI at beginner-PhD) threatens academic research; Matt sees report-based assessment dead within 1-3 years - 'learning will become a hobby', and he predicts Sam Altman 'becomes a target' who won't live to a ripe old age"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "DeepSeek genuinely learned to think, not parrot - that puts us on a path to AGI we didn't believe the LLM paradigm had",
+          "We are fast approaching the hard takeoff - possibly less than a year away",
+          "Free frontier open source leaves closed-source middleweights like Anthropic 'pretty screwed' while OpenAI and Google survive on ecosystem"
+        ],
+        "matt": [
+          "We'll never know DeepSeek's true cost, and the US is deliberately spreading rumors to hide that China got ahead",
+          "Labs are no longer even pretending about military use or safety - and at least now that's visible to the public",
+          "The $20-a-month consumer model tier will die - you end up with either free models or expensive enterprise tiers"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "The hard takeoff - AI capable of improving itself into exponential growth - could be less than a year away.",
+          "quote": "I don't know if we're at the hard takeoff, but I do think it could be like it could be less than a year away. So I mean, if by saying are we at the hard takeoff, you mean it's within a year, then yeah, maybe I would say that.",
+          "timestampSec": 1670.2,
+          "category": "dated",
+          "targetDate": "2026-02-08",
+          "timeframeLabel": "Within a year",
+          "status": "pending",
+          "topics": ["hard takeoff", "agi", "deepseek"]
+        },
+        {
+          "host": "Matt",
+          "claim": "Sam Altman will become a target as people realize AI's effect on their lives - Matt doesn't think he lives to a ripe old age.",
+          "quote": "I still think he ends up. Uh, I don't think he lives to a ripe old age, let's put it that way. I think he's going to be a target. He's going to be a target because he's the face of it and I think when people start to realize the effect that it's having on their lives, I think he becomes a target.",
+          "timestampSec": 2509.6,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["sam altman", "backlash", "ai safety"]
+        },
+        {
+          "host": "Matt",
+          "claim": "The $20-a-month consumer model tier will disappear - you end up with free models or expensive enterprise tiers.",
+          "quote": "I'd actually say it's the sort of $20 a month models that are the one under threat. Like, I wonder how long that lasts, for you either have a. You either have a you know a enterprise model that you pay a significant fee for, or you just use it for free. I think that's probably where we end up, to be honest.",
+          "timestampSec": 2401.2,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["pricing", "business models", "openai"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-01-29-china-s-ai-revolution-part-2-unearthing-in",
+      "format": "guest",
+      "era": "peak",
+      "summary": "Part two with China AI governance researcher Kristy Loke: the ballooning of alignment discourse inside Chinese labs since ChatGPT, Beijing's unique algorithm-registry approach versus Western compute thresholds, two competing draft AI laws, open source as Beijing's strategic answer to export controls, and why AGI may arrive as a 'surprise attack'. Matt and Kristy find China's governance on paper closer to the global gold standard than America's, while disagreeing with Jimmy that the current LLM paradigm will never get us to dangerous AI anyway.",
+      "keyTalkingPoints": [
+        "News catch-up: Google's Titans architecture imitating human memory, o3 queries reportedly costing $10,000 each, and LLMs as sycophantic pushovers easily led down rabbit holes - dangerous for agentic models managing your inbox",
+        "Chinese frontier firms track Western safety moves closely - DeepSeek signed the Seoul summit communiqué and copied OpenAI's superalignment concept; the alignment-awareness gap has largely closed (per Concordia AI tracking)",
+        "Beijing's public panels debate accelerationism vs effective altruism; consensus is 'not developing is the biggest security threat' but development and governance are not dichotomies - written into draft laws and the Politburo's April statement",
+        "China's governance uniqueness: algorithms as the fundamental regulatory unit via the algorithm register (Matt Sheehan); newer proposals add compute thresholds, 'critical AI' categories, mandatory safety testing and emergency drills",
+        "Open source is Beijing's strategic counter to export controls - leading open models (Qwen, Yi, Baichuan) with domestic carve-outs; Matt admits he's flipped from anti- to pro-open-source",
+        "Endgame: Kristy sits 'firmly in the middle' - excited about productivity gains for brain-workers, anxious about inequality, deepfakes and safety; Jimmy's utopia requires ending capitalism as currently constituted; both agree governance should target outcomes, not algorithms"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "LLMs are plateauing; alignment work on the current paradigm is guarding a box that won't produce AGI - the real AGI will arrive as a 'surprise attack'",
+          "Regulate outcomes - jobs, guardrails, societal impacts - rather than the internals of models",
+          "Reaching utopia requires ending capitalism as it currently exists"
+        ],
+        "matt": [
+          "China's governance approach - algorithm registry, compute thresholds, emergency drills - is in many ways more sensible than the US, and even than the EU's AI Act",
+          "China is not a rogue state on AI safety - it engages with the UK AI Safety Institute and multilateral forums",
+          "He's flipped to pro-open-source but wants frontier models regulated differently from small hobbyist ones"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "We won't reach AGI through current-paradigm LLMs, so real AGI - aligned or not - will arrive as a surprise attack because we don't know how we'll get there.",
+          "quote": "it feels like we're not going to reach agi just through large language models, and so what? We're worrying about something that, like the current paradigm, is probably not going to get us there... I feel like when we get to agi, whatever that looks like and whether it's aligned or not, it's kind of going to be a bit of a surprise attack because we, we, we don't really know how we're going to get there right now",
+          "timestampSec": 1784.0,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["agi", "alignment", "china"]
+        },
+        {
+          "host": "Matt",
+          "claim": "Unless governance and regulation become radically more nimble, regulators will always be a generation behind AI - potentially behind by a generation if a year passes.",
+          "quote": "I think it's the biggest challenge, in a sense. Like, unless they find a way for the whole kind of the whole way in which governance and regulation works to become more nimble and to become more agile maybe they use you know AI to do that they're always going to be struggling because of the nature of the work that they do and the nature of the way in which AI is advancing so rapidly.",
+          "timestampSec": 3388.8,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["regulation", "governance", "china"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-01-26-emergency-podcast-deepseek-shakes-the-foun",
+      "format": "debate",
+      "era": "peak",
+      "summary": "Emergency episode recorded days after DeepSeek R1 detonated the AI world: a roughly $5-6m-trained open-source Chinese reasoning model matching OpenAI's best on math and coding benchmarks at 5-10% of query cost, dropped in the same window as Trump's inauguration and the $500bn Stargate announcement. Jimmy celebrates open source winning and US sanctions forcing Chinese innovation; Matt smells geopolitics and suspects frontier labs already hide better models; both agree brute-force American spending now looks misguided and OpenAI has become too big to fail.",
+      "keyTalkingPoints": [
+        "DeepSeek R1 beats GPT-4-level models on AIME 2024 (79.8% vs 79.2%), MATH-500 (97.3%) and CodeForces (96th percentile); a 7bn-parameter version runs on a laptop and beats GPT-4 at math; queries cost 5-10% of GPT's",
+        "Pure reinforcement learning with humans taken out of the loop - genuinely novel methods, fully open-sourced, replicable by anyone",
+        "The timing smells: released around Trump's inauguration and Stargate's massive data-center announcement; Matt suspects a geopolitical shot across the bow, or that frontier labs have better models behind closed doors",
+        "Stargate is pure brute force versus Chinese efficiency; infrastructure could be obsolete overnight if next year's architectures need different GPUs",
+        "AGI under the watered-down 'does things as well as humans' definition is coming pretty soon - but the last 0.01% of capability may be impossible, and Jimmy still sees no genuinely novel ideas, only approximation of training data",
+        "OpenAI is now too big to fail - the US government's golden child, like Boeing or Saudi Aramco; enterprise API economics ($1 vs 5 cents per million tokens) is where the money war will be fought, and Operator is Ask Jeeves-style novelty next to the real future: a fine-tuned personal assistant that already knows your preferences"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "DeepSeek proves open source is at or ahead of the frontier and massively democratizes advanced reasoning",
+          "US chip sanctions forced Chinese innovation - the West forced China into this direction by denying brute-force compute",
+          "Stargate's brute-force spending could be obsolete overnight; the money is going in the wrong direction"
+        ],
+        "matt": [
+          "The timing and circumstances stink of geopolitics; if it were really this big a breakthrough, would China let it out?",
+          "Frontier labs likely already have GPT-5/Opus-3.5-class models behind closed doors, used to train the smaller public releases",
+          "AI is something being done to humanity, not something it wants - but the path seems inevitable"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "Under the watered-down definition of AGI (doing things as well as humans), we'll be there pretty soon - though the last fraction of a percent may never close.",
+          "quote": "I mean, I think AGI in that sort of definition, yeah, I think we'll be there pretty soon, to be honest, because it's just doing things as well as humans. Now, whether one thing can do all those things well combined is slightly different, but they've watered down the definition. So you plug a load of AIs together and they can probably do most things.",
+          "timestampSec": 1600.7,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["agi", "definitions", "timelines"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "The $500bn of Stargate data centers could become nearly obsolete overnight if a next-month or next-year approach needs a different type of GPU.",
+          "quote": "And so what happens if there's an approach next month or next year where actually you need a different type of gpu and we've just gone and spent 500 billion on building these data centers which are almost obsolete overnight? Um, I think that could happen yeah.",
+          "timestampSec": 2240.8,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["stargate", "infrastructure", "openai"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2025-01-06-battle-of-the-systems-geopolitics-china-sh",
+      "format": "guest",
+      "era": "peak",
+      "summary": "Interview with Grace Shao (AI Pro-Am on Substack) on the US-China 'battle of the systems': energy, not GPUs, is America's real AI bottleneck while China's command economy builds data centers in weeks; the East Data West Compute policy filling poor western provinces with compute; why renewables alone can't power AI; Singapore's data-center ban birthing a Johor boom; China's open-source champion Qwen; 'China shedding' via Singaporean rebrands; and why the AI race may be won at the application layer, not the model layer.",
+      "keyTalkingPoints": [
+        "Grace's Fortune op-ed thesis: the US AI bottleneck is energy - power shortages, long lead times for transformers and permits - while China's command economy rallies land, energy and labor in weeks",
+        "East Data, West Compute: data centers in poor provinces like Guizhou, Gansu and Inner Mongolia with cheap land and energy serve the urban east; data centers bring few local jobs by design",
+        "Renewables aren't a full answer: solar and wind are intermittent with limited dispatchability, and lithium batteries store hours not weeks; big tech buys renewable quotas - unfair to call it pure greenwashing, but they're not literally running on renewables; Singapore's data-center ban meanwhile birthed the Johor boom with ByteDance as biggest client, while Canada and Australia say no on citizen-burden grounds",
+        "Chips: nothing Chinese competes with Nvidia yet (Joe Tsai: at least two years behind) - but if China cracks chips, its energy advantage compounds; the winner may be decided at the application layer (Robin Li: 'the winner in AI will be an application')",
+        "Qwen is the most competitive Chinese LLM - open source, on Hugging Face and ModelScope, cheaper than Western models, with much of its developer usage outside China",
+        "Chinese consumer apps (Meitu, CapCut/Jianying, Taobao) are functionally superior - '10x the functionality' of Western equivalents; 'China shedding' sees firms rebrand as Singaporean to escape geopolitical stigma (Shein, Hill House), and Grace ends 'firmly in the middle': AI is another internet, exciting for brain-work but risky for inequality and safety"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Energy, not GPUs, is the binding constraint on US AI - and AI might one day help solve nuclear fusion",
+          "Finished, advertised commercial applications like ElevenLabs conversational AI are the next big wave, not raw models",
+          "He uses Chinese LLMs daily for translation and sees the application layer, not the model layer, as the real battleground"
+        ],
+        "matt": [
+          "He uses Tongyi/Qwen daily but distrusts Chinese consumer models' answers - one weird hypermolar verdict soured him on Tongyi",
+          "China's UX-maximalist super-apps are genuinely superior for image and video editing - 'far superior to anything I've seen from Western apps'",
+          "The US-China AI contest is an arms race where energy is China's trump card; the US needs permitting reform, not just chip controls"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Grace Shao",
+          "claim": "AI is 'another internet' - it will change how we consume, interact, work and how the economy runs, making brain-workers more productive and creative.",
+          "quote": "I think it's this is another internet, right? Um, we're gonna, it's gonna change how, how we consume, how we interact with people, how we do our work, how the economy runs. I think it's going to be better, more productive, more efficient for people like us, especially like us, who do use majority of our time, our work is from our brain less than labor",
+          "timestampSec": 3797.7,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["ai adoption", "economy", "productivity"]
+        },
+        {
+          "host": "Grace Shao",
+          "claim": "A major AI risk is that the rich get richer and the poor get poorer - those who can access more technology will pull further ahead.",
+          "quote": "So will essentially the poor be more poor and the rich become more rich, so the rich will be able to access more technology and will that even grow that disparity even more? So I think there is that huge risk.",
+          "timestampSec": 3848.6,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["inequality", "ai risk", "society"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Maybe once AI gets smart enough it will help us solve nuclear fusion - letting us power everything with it, before the scary part where it destroys us all.",
+          "quote": "Yeah, you never know, Maybe maybe once AI gets smart enough it'll help us solve nuclear fusion, and then we can just power everything with that, and then it will that and then it's really scary destroy us all yeah, no, seriously destroy everything else.",
+          "timestampSec": 1565.4,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["fusion", "energy", "ai capability"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2024-12-24-christmas-special-voice-clones-artificial",
+      "format": "special",
+      "era": "peak",
+      "summary": "The Christmas/end-of-year special: Jimmy cloned both hosts' voices in ElevenLabs, wrote extreme personas with Claude (AI Matt as a conspiracy-obsessed Grinch, AI Jimmy as suffocatingly optimistic), then hid while two computers debated AI and Christmas for fifteen minutes - producing dystopian carols, 'technotyranny' rants and dopamine-optimized eggnog. The hosts dissect the result, review Musk v Zuckerberg v Altman as Doge launches, shrug at Sora's release, and argue that human creative effort - Jimmy's daughter's drawing, Matt's five-minute Suno trance track - is the entire point, ending with Matt's AI-generated Christmas carol.",
+      "keyTalkingPoints": [
+        "The clone experiment: two ElevenLabs conversational AIs argued AI Christmas utopia vs surveillance dystopia, stayed in character, and traded sarcastic carols - 'every smart decoration is another eye for the global cabal'",
+        "Jimmy fed hours of podcast audio into the voice clone; anyone with an ElevenLabs account can now do this - 'this is the worst it's ever going to be'",
+        "AI dystopia-Matt was judged closer to the real Matt than optimistic AI-Jimmy was to Jimmy; the hosts sat in another room while their voices argued",
+        "AI-generated podcasts: they'd be surprised if professional voice-cloned AI podcasts don't already exist; factual roundups are replaceable, argumentative comedy podcasts aren't",
+        "Suno and image generation are fun because they're random - but effort is the point: Jimmy's lovingly made 2003 dance album vs a killer Suno track built in five minutes, and his daughter still prefers drawing herself",
+        "Musk now runs Doge (a meme turned US government department) while sucking up to Trump; Matt likes Musk more and more, Jimmy less and less since the Twitter purchase; o1 impresses by editing existing tables, Gemini 2.0 starts the agentic era, and Sora's long-awaited release landed with a collective 'don't care' - novelty AI has lost its magic"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "ElevenLabs conversational AI plus cloned voices is a game changer anyone can now replicate - and it took barely any effort",
+          "Factual and informational podcasts will be replaced by AI; argumentative, comedy-driven human podcasts won't",
+          "Generative AI will replace functional work and jobs but never the art of making music or drawing - it's about the act, not just the outcome"
+        ],
+        "matt": [
+          "AI dystopia-Matt was more realistic than AI-optimist-Jimmy - 'that's how I find you in real life'",
+          "People create for the act of creation, not just the output - his daughter won't trade drawing for AI images, and playing guitar beats Suno",
+          "He likes Musk less since the Twitter purchase and political turn, while hating Altman's 'fake goodness' consistently the maximum amount"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "People are probably already listening to fully AI-generated podcasts with professional voice clones - whether they realize it or not.",
+          "quote": "The one thing I would say is I would be surprised if people aren't already listening to ai generated podcasts, whether they realize it or not, like so you and I.",
+          "timestampSec": 1770.1,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["voice cloning", "podcasting", "ai content"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "This is the worst AI is ever going to be - current models didn't exist two years ago and will only improve.",
+          "quote": "a phrase I quite like to like to use is this is the worst it's ever going to be. Like, what we've got right now is the worst it's ever going to be, and this didn't exist two years ago. As you said already, this is something that didn't exist six months ago. Um, so this is the worst it's ever going to be.",
+          "timestampSec": 1879.1,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["ai progress", "voice cloning"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "AI will replace a lot of jobs and functional work, but it won't replace the art of making music, drawing or painting - the process matters as much as the outcome.",
+          "quote": "it will replace a lot of jobs. It will replace a lot of functional stuff, but I just really more and more don't think it will replace the art of making music or the art of drawing, painting, whatever, because it's about the act as much as the outcome the process as much rather than just the outcome.",
+          "timestampSec": 2725.9,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["creativity", "jobs", "music"]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2024-12-17-voice-cloning-artists-against-ai-ai-jesus",
+      "format": "debate",
+      "era": "peak",
+      "summary": "The November 2024 roundup (with generic Speaker 1/2/3 diarization now resolved): ElevenLabs conversational AI and HeyGen avatars reaching professional usability, PR-Puppets leaking Sora in an artists-against-AI protest, the 'Deus in Machina' AI Jesus confessional in a Lucerne chapel, OpenAI's $157bn valuation versus Anthropic's $40bn, Musk's revived OpenAI lawsuit, a study showing ChatGPT citations are mostly rubbish, a 98%-accurate UK deepfake-detection browser, and AI Granny keeping scammer bots chatting for an hour.",
+      "keyTalkingPoints": [
+        "Useful AI has arrived: ElevenLabs voice cloning (Jimmy cloned both hosts' voices) and HeyGen photo-avatars are now professional-grade, six months after being gimmicks - an all-AI Jimmy-and-Matt episode is teased",
+        "Artists vs AI: the PR-Puppets collective leaked Sora for three hours protesting unpaid artist 'open access' labor; Matt sees the first creative-class backlash and stands by his riots forecast; Jimmy says the data cat is out of the bag",
+        "AI Jesus ('Deus in Machina') at St Peter's Chapel, Lucerne: Matt is theologically troubled by an AI impersonating Jesus in a confessional booth - an AI priest would be genuinely good, AI Jesus is a gimmick too far; Jimmy finds it progressive and cool",
+        "Economics: OpenAI valued at ~$157bn on ~$10bn revenue with burn that would take 15 years to recoup; Microsoft's AGI carve-out is 'crazy'; ChatGPT has become the new 'Google it' but nobody can see OpenAI's path to profit",
+        "Musk's revived lawsuit: he claims fraud over $44m donated to a nonprofit that became capped-profit; Jimmy agrees with Musk; Matt now likes Elon 'more and more'",
+        "UK startup Surf Security's browser claims 98% deepfake audio/video detection in under two seconds - Jimmy's first question is 'who controls it?'; 'AI Granny' ties up scammer AIs for an hour, and ChatGPT citations proved mostly rubbish: 153 wrong responses with only seven admissions of uncertainty - trust, but verify"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "ElevenLabs and HeyGen prove AI products are finally finished and monetizable - call centers will be AI-run with humans only as escalation",
+          "The internet data cat is out of the bag; platforms disclaim responsibility for what users clone - let's see how that goes",
+          "He sides with Musk on the OpenAI lawsuit - the company massively deviated from its founding not-for-profit principles"
+        ],
+        "matt": [
+          "LLMs are plateauing but genuinely useful applications are arriving - expect real 2025 enterprise adoption and productivity gains without mass job cuts yet",
+          "The Sora leak is the first real creative-class backlash - artists are starting to act, not just talk; small now, but protest movements start in artistic communities",
+          "AI Jesus in a confessional is gimmicky and theologically troubling; an AI priest encouraging spirituality would be a genuinely good thing"
+        ]
+      },
+      "speakerFixes": [
+        {
+          "from": "Speaker 1",
+          "to": "Matt",
+          "reason": "Speaker 1 reads the standard 'Welcome to Preparing for AI...' intro bumper (turn 0) and the outro song voice (turns 187-189); Matt reads this identical intro in every other episode of the season."
+        },
+        {
+          "from": "Speaker 2",
+          "to": "Matt",
+          "reason": "Speaker 2 delivers the joke intro ('I'm going to hand over to Jimmy to start off'), presents the Sora leak, AI Jesus and medical-update segments, and is addressed as 'matt' by Speaker 3 (turn 41: 'what have you got next for us, matt?')."
+        },
+        {
+          "from": "Speaker 3",
+          "to": "Jimmy",
+          "reason": "Speaker 3 presents the ElevenLabs/economics/Musk-lawsuit/citations segments and addresses Speaker 2 as 'matt' (turns 6, 41, 67), identifying him as the non-Matt host, i.e. Jimmy."
+        }
+      ],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "Next year (2025) we'll see a lot more AI adoption in enterprise and jobs, with genuine productivity gains that don't necessarily mean massive job cuts.",
+          "quote": "I think next year maybe we'll start to see a lot more adoption in in sort of enterprise and jobs, but I think as well, I feel at this point that it is currently going to work hand in hand with people like the call center examples may be not a good one, but there's a lot of things where you know there isn't enough trust.",
+          "timestampSec": 616.8,
+          "category": "dated",
+          "targetDate": "2025-12-31",
+          "timeframeLabel": "By end of 2025",
+          "status": "pending",
+          "topics": ["enterprise adoption", "jobs", "productivity"]
+        },
+        {
+          "host": "Matt",
+          "claim": "If things go badly on jobs, there will be riots on the streets - a prediction he's made since episode one that he still stands by.",
+          "quote": "I've talked from the very first episode about what I foresee. I'm using my predictions about the backlash and I've talked about riots on the streets, and I've talked about riots on the streets and stuff which I still think, if things go, you know, badly in terms of jobs and stuff will happen.",
+          "timestampSec": 927.5,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["backlash", "jobs", "protests"]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "We're on a massively accelerated timeframe versus the web - which took decades to find business applications - so business AI applications will now arrive far faster.",
+          "quote": "We've talked about it before. The web, I think, is a really good analogy for this. Um, obviously we're on a massively accelerated time scale compared to the web, but the web, the worldwide web, in terms of the platform, actually existed, like in the 70s and the first real version of the actual World Wide Web from the 1980s, and it took until, you know, late 90s, early 2000s to have, you know, to have real kind of business applications for it. I think we're on a massively accelerated timeframe compared to that with AI",
+          "timestampSec": 690.8,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": ["ai adoption", "business applications"]
+        }
+      ]
+    }
+  ]
+}

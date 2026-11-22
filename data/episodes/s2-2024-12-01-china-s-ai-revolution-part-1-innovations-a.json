@@ -1,0 +1,991 @@
+{
+  "slug": "s2-2024-12-01-china-s-ai-revolution-part-1-innovations-a",
+  "buzzsproutId": "16199938",
+  "title": "CHINA'S AI REVOLUTION: Part 1- Innovations and Challenges in a Global Landscape, with Kristy Loke",
+  "date": "2024-12-01T11:00:00.000Z",
+  "season": 2,
+  "durationSec": 4300,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16199938-china-s-ai-revolution-part-1-innovations-and-challenges-in-a-global-landscape-with-kristy-loke.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Can China's AI advancements outpace global tech restrictions and redefine innovation? Join us as we explore this complex landscape with our esteemed guest, Kristy Loke. Together, we unravel the intricacies of AI development in China, highlighting how leading tech giants like Alibaba are spearheading breakthroughs despite international and domestic challenges. We delve into the nuances of Chinese AI models, focusing on trailblazers like Zhipu's GLM4 project under Kai-Fu Lee's leadership. Kristy provides valuable insights into the competitive landscape, the role of academia, and the promising potential of companies such as Kuai Shou and ByteDance. Our conversation takes an intriguing turn as we contrast accelerationist philosophies with more cautious approaches within the AI community. The discussion spans technical concepts like teraflops and red teaming, and examines distinctions between open source and open weights in AI models. We also cast a spotlight on China's strategic responses to semiconductor export controls. The establishment of the Central Science and Technology Commission underscores China's determination to bolster chip production capabilities, while exploring the emerging role of neural processing units in leveling the global tech playing field. Finally, we analyse the evolving integration of AI in various sectors across China, from healthcare to transportation, against the backdrop of a unique regulatory environment. Kristy shares insights into the Chinese government's interim measures and their alignment with socialist values. We discuss how these guidelines shape AI innovation and the importance of global cooperation in AI governance. With an eye on future trends, we reflect on the balance between industry-focused applications and consumer-facing technologies, offering a thought-provoking perspective on China's role in the global AI arena. Tracing the Roots of China’s AI Regulations | Carnegie Endowment for International Peace https://www.linkedin.com/in/kristy-loke/ https://x.com/kristy_loke .",
+  "summary": "Jimmy and Matt open their China mini-series with researcher Kristy Loke, who maps China's generative AI landscape from DeepSeek's highly ranked open source models and Alibaba's Qwen to the Tsinghua startup cluster. The conversation digs into whether export controls are helping or hurting China, how Beijing's AIGC interim measures dropped a 'complete accuracy' clause so industry can actually ship, and why Chinese consumer AI adoption still lags the West.",
+  "keyTalkingPoints": [
+    "DeepSeek's open source models have ranked highly for nine-plus months and anchor an ecosystem-investment strategy by Chinese big tech",
+    "US chip export controls have simplified China's calculation: with foreign chips unreliable, domestic semiconductors become a national-security priority",
+    "Beijing's interim AIGC measures initially demanded complete model accuracy, then dropped the clause because hallucination-free models are impossible for industry needs",
+    "Chinese consumer AI chat usage trails the West; adoption is more visible in seamless, invisible integrations like search and services",
+    "Jimmy pegs AGI around 2030, dismissing Elon Musk's 2026 prediction, while Kristy stresses investment, talent and compute keep flooding in despite scaling-law doubts"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "China's AI rise needs Western attention — it is the second-biggest economy and no longer just a copycat",
+      "2030 is a more realistic AGI date than Elon Musk's 2026 claim",
+      "Most people will meet AI through natural integration into search engines, not by deliberately chatting with ChatGPT or Claude",
+      "Inference-focused NPUs could let China start from a more level playing field versus Nvidia's GPU training dominance"
+    ],
+    "matt": [
+      "China is an incredible real-world testing ground for AI, from robot taxis to hotel delivery robots",
+      "A lot of what is branded AI in China is not really AI — the hype problem is global",
+      "The US-China AI competition should not be a zero-sum arms race; governance for global benefit matters more than who is on top"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-12-01-china-s-ai-revolution-part-1-innovations-a-1411.657-agi-will-arrive-around-2030-rather-than-on-elon-",
+    "s2-2024-12-01-china-s-ai-revolution-part-1-innovations-a-3586.275-most-people-will-be-exposed-to-ai-through-its-na",
+    "s2-2024-12-01-china-s-ai-revolution-part-1-innovations-a-2545.699-us-export-controls-will-push-china-to-build-up-i"
+  ],
+  "speakers": [
+    "Matt",
+    "Kristy Loke",
+    "Jimmy",
+    "A very dramatic man"
+  ],
+  "chapterCount": 4,
+  "turnCount": 132,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Introducing the China & AI mini series",
+      "startTime": 72
+    },
+    {
+      "title": "Guest interview- Kristy Loke (Part 1)",
+      "startTime": 1137
+    },
+    {
+      "title": "AI Arms Race The Musical (Outro Track)",
+      "startTime": 4158
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 23.791,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI, governance and alignment. Lean out your mouth, this is not what it's for.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 23.811,
+      "endTime": 42.014,
+      "text": "There's still a bloodstain from the spill of the war. Urgent need for safe development of AI governance and alignment. Lean out your mouth. This is not what it's for. There's still a bloodstain from the spill of the war. Pick up your sorrow. This is not who we are. I won't cry, uncle, having come so far. Welcome to Preparing for AI. The AI podcast for nobody with me, swenji Hai.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 42.94,
+      "endTime": 47.751,
+      "text": "And me. Well, I was Jimmy Rhodes, but I've had a haircut, so now no one recognises me.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 51.206,
+      "endTime": 96.733,
+      "text": "Well, our listeners, this is going to be. Well, no, it isn't. Well, they have seen us before. There's one episode they might have seen us, but for those of you that are watching for the first time, and if you're watching to see Jimmy's perm, then the bad news is it's gone, but you're going to have to deal with that- I'm sure that's exactly why people tuned in this one. I'm sure it is so this is the first in a series of China-themed episodes. We are going to be interviewing Christy Loke a little bit later, but we thought we would set the scene a little bit. I think most listeners probably know myself and Jimmy are based in China, although we've said for many episodes that our knowledge of developments of AI in China is pretty lacking, which is why we've got Christy on the episode.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 97.56,
+      "endTime": 156.527,
+      "text": "But I think let's maybe have a bit of a chat about why we wanted to do this series of episodes other than to indul of indulge ourselves and to learn more about AI. I mean, I think, fundamentally, the first point is, as we've mentioned before, is we're not here to kind of be a mouthpiece for the Chinese state. But I think, as people who live here, what we would like to do is give a kind of more balanced view than what people in countries like the uk and the us, where they I think, most of our listeners are will maybe get on china. So you know, to explain a bit about how china's ai develops, how they regulate ai, the kind of apps that they use, the way in which china is sort of managing the disruption to its development by the restrictions that China has put on chip purchases and development and just basically how you know the restrictions that have been put on China?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 156.787,
+      "endTime": 156.888,
+      "text": "What?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 156.928,
+      "endTime": 183.293,
+      "text": "did I say the restrictions that China's put On itself? Yeah, yeah, well, no, the restrictions the US has put on China? Yeah, I'd correct myself. So those are. I guess I corrected you China. Yeah, I correct myself. So those are, I guess, actually. Well, I'm now correcting myself. Okay, sorry, you told me to correct myself and now I'm doing it. Do you want the credit? Jimmy corrected me. I was wrong and Jimmy was right. So yeah, jimmy, do you want to introduce AI in China?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 188.44,
+      "endTime": 239.843,
+      "text": "Even though I was just saying you don't know anything about it. Yeah, here he is um or she um, no, so, so I'll, I'm in the same boat. I don't know a ton about ai in china. What I do know is that obviously it's a very in terms. We've talked about guardrails quite a lot on a lot of episodes and obviously, as you can imagine, guardrails are very different in china. Um, you're my guardrails by the way yeah, well, evidently, um, but yeah, like, the guardrails are obviously very different in china, but the sort of method is the same. Um, I think that china's you know you'll hear more about this on the episode but china's obviously working in a fairly constrained environment because, because of the restrictions that have been placed upon it, um, but there's still a ton of innovation going on, um, and I think a lot of that is super interesting.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 240.264,
+      "endTime": 292.289,
+      "text": "China's, you know, historically, china, I think, has been branded as a country that, in general, kind of copies technology, so they're not necessarily a first mover, but actually they've proven over the last, I think over the last couple of decades in particular, they've proven to be really good innovators on existing technologies and actually haven't necessarily been given enough credit for that. I think existing technologies, um, and actually haven't necessarily been given enough credit for that, I think, um, where you know they've effectively made themselves sole manufacturer for not just you know, like you know, um, fluffy toys and uh made in china type stuff, but actually really high technology applications, um, and and uh, um and technology and and I think the same is happening with AI, but on an even more accelerated scale Education's really good in China.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 292.389,
+      "endTime": 333.692,
+      "text": "There are a lot of really talented people. A lot of them work in the US now, but a lot of them still work in China as well, and you've got these big companies like Alibaba, with a lot of clout behind them that are quickly adopting some of these AI technologies. You've got world-leading models now coming out of China which people probably don't know about, but things like Qen, which we talk about later on in the episode, which I think actually Qen 2.5 came out just earlier this week and it's topping the charts in terms of benchmarks. This is an open-source model I released by Alibaba, which is actually topping a lot of these benchmarks and competing blow for blow with some of the Western models.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 333.84,
+      "endTime": 364.084,
+      "text": "So I think it's really important. This is one of the reasons why I want to do the episode right is because we need to pay attention to this. It is really important. It's the second biggest economy in the world and it is trading blows on ai and ai technology and actually, in terms of ai governance again, as we talk about later in the episode, um, it's, you know, it's up there. It's trading blow for blow, like it's having there is some real innovation in that space. So I think it's uh, it's a super interesting episode.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 364.947,
+      "endTime": 405.853,
+      "text": "Most people who visit China, particularly who visit it for the first time or who haven't been for a long time, are always kind of blown away by the adoption of technology and the way that and you know it's both a good and a bad thing I mean the convenience that you have living in China. You sacrifice a lot in terms of privacy and there are obviously concerns with that, but I think for most people are kind of blown away by how even even a sort of elderly person living in a, in a sort of hutong, which is a small alley in Beijing, the city where we are, is using AI, even not knowing it, on a sort of daily basis.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 406.18,
+      "endTime": 444.207,
+      "text": "It's been integrated as part of people's lives, in the way that algorithms run delivery services, in the way that facial recognition for its good and bad sides, but facial recognition there are things where in an airport, you can I think in Dashing Airport in Beijing, you can go up to a counter, um, so you have these things in the airport. You go up to it and you stand in front of it and it will tell you where your flight is, whether it's on time, um, you know people find that scary, other people find it to be incredibly convenient, but it's there and it's integrated and it's happening in a way that is not happening in the same way, and I think that that's the thing is like.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 444.608,
+      "endTime": 484.973,
+      "text": "The real world uses in China mean that it's this incredible kind of testing ground for AI applications, and there's a lot of stuff that is called AI. That's not. I think that's a really important thing. You know, it's no different from the US or the UK or any other country where people put AI on something as a way to sell it. But I do think it is definitely, for me, the place where you talk about this a lot, about how it's the way AI will become ubiquitous and you won't know the kind of boundary between AI and technology. Well, that's already happened in China, to be honest. That's why I think it is different here to what it is in most of the countries.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 491.42,
+      "endTime": 501.089,
+      "text": "Yeah, I agree. I agree. I feel like some of the adoption actually is quicker. I've seen applications three or four years ago. I've seen applications of facial recognition that I hadn't seen anywhere else in the world Robot taxis.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 501.952,
+      "endTime": 543.072,
+      "text": "Yeah Well, driverless taxisis yeah, there's driverless taxis in a few places already, which I think is happening in the us as well, but um it is, I think, but I think it's only like the us is sort of away and you know, we know it's kind of happening in the us. I don't I'm sure there are other places, but I haven't heard of anywhere where it's adopted in in the same kind of scale. I mean, I know there was something in california now that is kind of available, I think, almost like not everywhere, but in like many cities I think there's this form of ai taxis. I know they're even developing helicopter taxis, ai powered self-driven helicopter taxis.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 543.352,
+      "endTime": 560.108,
+      "text": "Well, they call them helicopter taxis, um, maybe drones. The thing that I question about these is the only people who are going to be able to afford to travel in them or going to travel in helicopters are probably quite successful wealthy people, the people who probably don't want to be traveling in ai controlled vehicles.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 560.73,
+      "endTime": 562.153,
+      "text": "So I find it a bit of a kind of",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 568.06,
+      "endTime": 601.743,
+      "text": "so I find it a bit of a kind of yeah, maybe, but also misnomer, yeah, contradiction, but but also, um, maybe I'm wrong here, but like it feels like if you've got, if you've got like a drone that can fly around, it's kind of avoids all the problems with ai. Yeah, because the main problem that, the main problem that ai controlled cars have is they have to drive around and chaotic roads that are also shared, a shared space with cyclists and pedestrians and cars and unpredictable stuff. Um, feels like, actually, if you can just take off and go and go somewhere by a drone and it's probably a lot easier.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 602.284,
+      "endTime": 633.914,
+      "text": "The the other last example as we're not listing examples of AI uses in China, but I've mentioned this before but these robots that you get in hotels now that deliver takeaway deliveries to your room. When I mentioned it a couple of months ago, it was the first time I'd seen it. Since then, every hotel I've stayed in and it's not like I stay in that many hotels, but I've stayed in three or four since then have all had it. Really, yeah, all of them. There was one I stayed in wuhan a couple of weeks ago, um, that had it. The one in pong lai has been one in shanghai stayed in. They all have these little delivery things.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 633.954,
+      "endTime": 635.742,
+      "text": "So what are you getting delivered?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 635.782,
+      "endTime": 641.243,
+      "text": "takeaways delivered oh, like your food yeah so you get, takeaway is delivered downstairs they used to be.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 642.205,
+      "endTime": 676.729,
+      "text": "They used to be these. But yeah, I'm getting a telegram delivered to me. Um, call your wife. Yeah, they um they used to have like these. And then they still do have them, but outside like little, uh kind of individual, kind of like mailboxes, and they put your takeaway food in there. You get a code, you go and get it out. Now, more and more they're coming in, they put it in the robot and the hotel must give them the room number and it then goes, goes to the lift, gets in the lift. Obviously it's set with the lift controls so it takes it up to the floor and it visits room. It's pointless because it's really inconvenient.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 676.789,
+      "endTime": 684.651,
+      "text": "It takes ages, but you know it's there people won't get this reference and maybe I've made it before, but it just sounds like the robot in flight of the navigator he made it before.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 684.911,
+      "endTime": 698.67,
+      "text": "Oh okay, it was a good reference, then it's a good if you haven't listened to that episode. This is a great reference it's a great reference, yeah if you, it's a sign of jimmy's post-covid rain fog yeah, which is another reference to a previous episode.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 699.271,
+      "endTime": 705.744,
+      "text": "Yeah, and if you're if you're not at least 40, you won't get the reference at all, because it's from a film. So anyway.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 705.784,
+      "endTime": 720.677,
+      "text": "Moving on, Jimmy, before the interview proper. There were a few terms in the interview that we thought would be useful, so can you just spend a few minutes introducing our audience to some of those terms.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 721.097,
+      "endTime": 771.43,
+      "text": "Yeah, so the reason was this. This, I'll be honest, it is, um, you know it's a really really super interesting episode, but it is quite academic, it's quite, it's very interesting. Um, but there was a few terms that came up during the episode. So just in case, um, you don't understand what these terms mean or you want to refer back to this, um, then we've got. We had a conversation about alignment, um, so I think we've talked about alignment on previous episodes, but, just to explain, alignment is basically around making sure that ai is aligned to our human values and our human goals. So making sure that when we ask an ai to do something, it understands the context in which we want to want it to do it and it aligns itself, broadly speaking, with what we want as our outcome.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 771.55,
+      "endTime": 818.068,
+      "text": "So, um, so that's what alignment means. Accelerationist is one of the other um things that came up. So the accelerationist viewpoint is basically, we should just go to um, we should just go 100, flat out, to the best version of ai that we can, and possibly artificial general intelligence, as soon as we can. Uh, don't worry, we don't want any governance, we don't have any boundaries, we just want to get there as quickly as possible and we'll solve the problems as we go along. It's a very, I guess, optimistic viewpoint where the assumption is that ai is going to behave itself and we're going to get the alignment right, um, whereas the opposite is, you know, I guess, maybe I don't know what the opposite is actually called altruists is pretty much the opposite.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 818.328,
+      "endTime": 831.786,
+      "text": "Felt it effective altruists are. I mean, they're not the opposite, but they're the alternative to accelerationists in terms of the, the kind of ai yeah, in terms of the ai community, yeah, but it's basically we need to take a much more measured approach.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 832.127,
+      "endTime": 841.601,
+      "text": "We need to make sure that every step of the way, we're doing all the checks and balances and we're not rushing into anything and we don't accidentally trip over ourselves.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 841.641,
+      "endTime": 877.061,
+      "text": "That kind of thing I just want to say something on. The accelerationist I think is quite important is part of the accelerationist movement. One of the the things is they would say that if you do not accelerate, then because you will miss out on the gains, those gains in themselves will save lives, etc. And therefore it is almost, you know, unacceptable not to accelerate because you're you're potentially costing lives and you're costing, you know, all these gains to to humanity by doing it. So it's it's quite an extreme view, but it it's not done on the base of we don't give a shit, we're just going to pursue it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 877.182,
+      "endTime": 888.574,
+      "text": "It's actually still has these kind of values, but the idea is that we have to pursue things as quickly as possible to maximize them, otherwise we will lose out and therefore people will die and people will not see the benefits of it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 889.362,
+      "endTime": 931.944,
+      "text": "Yeah, none of which they can demonstrate, and I'm not an accelerationist. No, I mean, it's all a bit dubious because the premise is on something where we don't know what the outcome is going to be yet. But yeah, it's fast versus slow, I guess. Uh, teraflops comes up. So flops is a measure of compute. Um, I don't actually know exactly what it means, but you can go and look it up. Terror, teraflops is a lot of them, because terror means, I think it means 10 to the power of nine, like like billions of them, something like that. A flop is a lot, a flop is a lot A teraflop is a whole load A teraflop imagine it as like a flop falling off something and then a teraflop.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 933.007,
+      "endTime": 935.045,
+      "text": "That's probably not good, has it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 935.085,
+      "endTime": 936.66,
+      "text": "got anything to do with that, it's probably a pretty bad one.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 940.566,
+      "endTime": 984.114,
+      "text": "I don't know why it's called a flop no, falling off a diving board, so let's move on, um, but but teraflops is a lot. Red teaming just sounds filthy. If you don't know what it is. Red teaming came up, so red teaming is like a cyber security thing. Uh, red teaming just means basically testing something to its extreme by like, by, like doing naughty things. Yeah, doing naughty things, that like using it like so. So in cyber security, red teaming is trying to hack into something, trying to break into something, uh, whereas blue teaming is the opposite. It's trying to defend from an attack, um, so red teaming quite often is used as a term for like, let's see if we can break it, basically, uh, and then finally, open weights.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 984.194,
+      "endTime": 1026.667,
+      "text": "So we talk about open source a fair bit on the podcast. There's a distinction between open source and open weights in terms of AI models, and this is like even in the description. This is getting a bit technical, but open weights is basically the most open you can be, so it's actually publishing the inner workings of the AI model, which the difference between that and open source is. Open source is just like anyone can use it for free, uh, right, and, and people can develop on it. But open weights is even more open, uh, and actually, if something's open weights, you can then take it and you can tinker with the model a bit more, you can tinker with the engine a little bit more, um, whereas open source just means here you go, you can download the model, you can use it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1026.707,
+      "endTime": 1035.573,
+      "text": "Maybe we've got some terms and conditions, um, but you're, you're free to use it. Uh, that was my phone's gone off, anyway, but I think that was the whole all of.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1035.693,
+      "endTime": 1069.373,
+      "text": "I thought you're doing that just off the top of your head oh yeah, I was yeah yeah well, thank you, jimmy. that was a useful, I think, for those who are listening to the episode who don't have a technical knowledge, it will be useful if you do have a technical knowledge or you are interested in ai in china or the development of ai in china, I think this is going to be, um, your favorite ever episode. If you're not, and you are more of a beginner to ai, there are, like we say, some terms in here which may be a little bit beyond your normal level of understanding, but I think that's what makes this super interesting.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1069.393,
+      "endTime": 1089.706,
+      "text": "I think it is the longest and the most substantial and the most sort of well rehearsed and well thought out interview that we've done, so I hope people will listen to it all. It's going to be in two parts because we covered so much stuff. This is going to be part one and then we'll put part two out either next week or a couple of weeks later, so we hope you enjoy it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1090.58,
+      "endTime": 1093.65,
+      "text": "Not to correct you all my time, but when you said rehearsed, I think you meant researched.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1095.275,
+      "endTime": 1101.611,
+      "text": "Yes, yeah, yeah, we haven't rehearsed. I mean, well, I'm pretty sure anyone watching this video will listen to this podcast.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1107.9,
+      "endTime": 1110.946,
+      "text": "If they think we've rehearsed this then um, I mean, yeah, yeah, yeah, it's not, it was a researched episode.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1110.966,
+      "endTime": 1112.569,
+      "text": "It definitely was not a rehearsed episode.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1112.589,
+      "endTime": 1135.561,
+      "text": "So thank you. So we are going to, uh, take a couple of minutes to get ourselves ready. I'm going to go and look at myself in the mirror. Uh, jimmy is going to, I'm already looking at myself. I'm going to go, look at myself in the mirror and do my kind of psych myself up exercises. Jimmy's going to sit here and do a death stare on the screen for the next few minutes, and we will see you in a minute when we interview christy low.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1146.915,
+      "endTime": 1191.866,
+      "text": "So here we go. We have a very, very special interview. This is our first episode where we have specifically focused on china and we have christy loke with us today. So chris's background is as an ai researcher. The main focus of her research is avenues for us china cooperation in managing ai risks, which I think everybody will, I'm sure, find very interesting the Chinese state's frontier AI ambitions and goals, china's new science and technology, innovation-led economic model. And I'm going to let her give a better introduction to the work that she's currently and previously been focused on. So, christy, welcome If you can give us a bit of an introduction, and then we'll get into what I think is going to be one of the most interesting and maybe the longest interviews that we've done so far.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1194.331,
+      "endTime": 1255.234,
+      "text": "Thank you so much, matt and Jimmy, for having me today. As Matt kindly introduced me, I am a US and China-focused researcher, but mostly focusing on China AI development and how that also flows into its governance thinking and decision-making. And governance, like cooperation on the US and Chinese front, is always something that is very top of mind to me. So, in terms of my background, I spent most of my life in Hong Kong and then I spent some years also in the UK and most recently in the US, and, yeah, that background really informed my research foci as well. Most recently I spent some time at Govai where I was focused on China AI, really the impact of ChatGPT on Chinese governmental and governmental thinking around innovation, around AGI and also what the firms have been doing in China.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1258.042,
+      "endTime": 1276.392,
+      "text": "So what's your prediction for when we're going to hit AGI? Because I've heard that Elon Musk's just in the last 24 hours said 2026. So just as a fun starter question then, because I think Elon Musk came out and predicted AGI by 2026, artificial general intelligence. So when do you think we're going to hit AGI?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1279.36,
+      "endTime": 1345.832,
+      "text": "Yeah, so it's become quite a bit of a loaded term. Some of the legal experts in China have been defining AGI as AI with very broad cognitive capabilities, and I know some of the tech leaders also talk about it. In lot of the jobs and driving a lot of unprecedented productivity gains, then that's probably the time for AGI, and then some of the moonshot and triple AIs leaders talk about it in the sense of really it's a vibe. If we get there, we feel it. In that sense, I think it's really hard. 2030 might be possible. I think a way to kind of caution against using too many of these AI leaders timeline is that they also have a lot to gain in terms of packaging it as something that's happening imminently.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1346.64,
+      "endTime": 1373.947,
+      "text": "I think the conversations around scaling law, like slowing down, and you know the many things that are happening, are also very interesting. That said, I think the amount of money, the amount of talent, the amount of investment in both the compute and the data algorithms are tremendous, and so, yeah, breakthroughs can happen and yeah, maybe scaling can get us a large part of the way there.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1374.388,
+      "endTime": 1410.655,
+      "text": "We'll see yeah, I mean, I don't think I don't think any of us go by elon musk's timelines because we'd have flying cars by now, but um, but yeah, yeah, you make some really good points. In fact, we've talked about, we've talked about agi on the podcast quite a lot, and that's one of the most difficult things with it. Um, not to go off on too much of a tangent, but like even getting a clear definition of agi, um is something that is is really, really difficult. So I I think for me, I think it's about, you know, when you've got machines that can do most human tasks at a sort of level that humans could without supervision, that kind of thing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1411.657,
+      "endTime": 1414.992,
+      "text": "But yeah, I think 2030 probably sounds a lot more realistic to me.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1417.799,
+      "endTime": 1462.263,
+      "text": "Okay, I think Jimmy's right. I think we could end up spending an entire episode talking about not just whether we're going to get there but, like you say, the definition of what AGI is. So I'm going to start us on with the main interview. Let's start by setting the scene a bit. This is a very broad question, but what does China's AI landscape look like at the moment? Yeah, I think it's looking really interesting, especially having followed it more intensely since the release of ChatGPT. And, of course, chatgpt was also released a month and a bit after the first export controls on semiconductors flowing to China came about from the US side Sorry, very convoluted, but yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1462.35,
+      "endTime": 1546.636,
+      "text": "So those are two very big events that happen and a lot has happened in China since. So some of the headline things, I think in terms of big tech involvement in generative AI stuff, it's also getting more diverse. So there's a saying in China called Neijuan, which is all these companies spending a lot of money mostly doing the same thing, but really it's just like a resource drain in a lot of sense. But that seems to be maturing in some sense slowly. I think it's easy to think about the landscape in a couple of ways, right? So the first way to look at it is like who are the key players? And within the key players, we can look at big tech players, we can look at the unicorns, the startups, and within these two groups, I think it's interesting to think about them in terms of folks that are more focused on the AGI, more foundational technology, more moving the frontier, ensuring that China is still competitive globally speaking, and in that sense I think Drupal AI is unique in its really really, you know like steadfast commitment to the AGI goal, and it's also very committed to following matching OpenAI's commercialization plans.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1547.537,
+      "endTime": 1604.068,
+      "text": "It's ecosystem building around, you know, investing in smaller companies that can use the technology they're building really well and therefore help the diffusion of AI in society. So Drupal is really interesting from that point of view. And then, of course, other startups you know other unicorns like Minimax and Moonshot are also interesting to see, mostly because they have such deep tech background within their founding teams. And then, in terms of big tech, I would always highlight Alibaba because, again, it's thinking really deeply and broadly. So it's thinking a lot about using the best product lines that it has, you know, the e-commerce line, the foreign markets that it already has developed over time, and using it to export its models in some sense.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1604.388,
+      "endTime": 1658.696,
+      "text": "And its open source model is always ranked really highly consistently for the past nine plus months. And so that's in terms of big tech. I think Ali is always a force to be reckoned with. We have mentioned a few times that QN is the name of the model. I think we've have mentioned a few times. So qn is the name of the model. Yeah, um, I think we've mentioned a couple of episodes ben cook, who was on one of the episodes, who I know uses it quite a lot in a kind of I think I think you know I don't mean personal life, but certainly in a work sense. So I think it's you know, it's definitely like you said, one way, if you look at the kind of leaderboards and and I think most people listening to our podcasts are probably not people who are obsessed with the leaderboards of ai but if you look at them, qn is one of the, the sort of names that you see towards the top of the lists, where I guess, for people, if they do look at it and they recognize names like, you know, llama or mistral or claude, etc.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1658.796,
+      "endTime": 1699.858,
+      "text": "That's maybe the name that they see that they might be surprised to see. I think you sort of answered it. I was going to ask you about what was you know what is the kind of equivalent of? I mean, people know we don't dislike open AI. I dislike Sam Altman with a passion, so we like to promote other large language models. So we could ask you, you know, does what is China's open AI? But I guess I'd also like to ask you what is China's version of Claude? Or what is China's most interesting model? Is it Jupu, is it Tongyi QN? I mean, what do you think is the most interesting model that people who are listening to this podcast I guess might want to go out and find out a little bit more about?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1701.621,
+      "endTime": 1760.283,
+      "text": "Yeah, I think my kind of personal bias here is I'm usually focused on what are the models that seem or what are the companies and leadership that seems very, very devoted to this AGI project or this advanced AI? You know, advancing the frontier project, and I think in that sense Drupal is the one that comes to mind and it has a GLM4 as one of its latest models. That would be interesting to follow from that perspective. But another big one is actually coming from Zero One AI, kai Fuli's company. Kai Fuli, as a lot of folks who are interested in China and AI know, used to be the head of Google China and has just like a list of experience in the venture capital as well as tech space in China and I think again, like I think here, he used a lot of the personal networks and again like a foreign platform.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1760.303,
+      "endTime": 1807.083,
+      "text": "You know there are a lot of listeners in the West that are interested in what he has to say and they also seem to manage to not be overly focused on AGI or overly focused on being open AI as much as how do we make existing models that might not be frontier work really well on the consumer end? So that might mean working harder on inference side and hiring a lot of talent that can do that part well, yeah, so Kaifu Li's Zero-One AI is also interesting. I know Kuai Shou, which is another video tech company in China, has made a lot of inroads with the video side, and, of course, bytedance has a lot of existing advantages on the video side as well.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1808.011,
+      "endTime": 1840.471,
+      "text": "And then there's an interesting group that I didn't mention, like a cluster of potential exciting companies is from Tsinghua University cluster. There's a lot of them actually being invested by triple ai, um, and so if you look up triple as chinkwa investments, uh, you'll see a lot of the interesting companies, and one of them, uh, recreated a version of sora that worked pretty well wow, yeah, so, and it does feel like I mean, we've talked about it like it feels like that's an area where there's massive gains still to be made.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1840.397,
+      "endTime": 1860.821,
+      "text": "So when, so, like you talk about some of the effic, like that's an area where there's massive gains still to be made, so when, so, like you talk about some of the efficiencies that can be made through inference and some of like, I think, um, you know, just generally, how can models be like, run more efficiently, more cheaply, like a, you know, less resource intensive, I think that's definitely an area that is a big area of focus right now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1860.961,
+      "endTime": 1901.802,
+      "text": "Right, yeah, absolutely, people used to talk about well, people still talk about the scaling law, and the scaling law really is about the predictable trends and kind of like predictable observation, where if you spend, if you increase the compute data size, model size, then you get very predictable increase in capability and performances of the model. And people are now talking about that for inference, which is essentially getting the models to think more before they generate results. Yeah, so that's an interesting area that a lot of people are saying is underdeveloped and therefore has a lot to be improved on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1901.902,
+      "endTime": 1941.123,
+      "text": "and, yeah, so just for the benefit of our listeners, so just to explain that a little bit, like the the latest chat gpt model 01 preview, I think, and there's obviously a more powerful 01 model which you gpt have internally and possibly share with some of their customer, like business customers, but this is where they allow the model to actually kind of think and spend a bit more time thinking about the problem after the problem's been asked, before responding, rather than just almost responding instantaneously, right? yeah, correct yeah, um, yeah, so and that, and I'll admit that's my feeling, I mean.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1941.183,
+      "endTime": 1973.26,
+      "text": "Just one more point on this. I guess, like, do you think that by being the first mover in a way like chat gpt sorry, open ai and chat gpt like all the money they're spending I know they're doing another funding round right now and it's going to be like 100 billion dollars or 100 billion dollars valuation do you think that maybe they've kind of like they've shot out in front, but actually there's a bit of a disadvantage there because they're spending all this money and investing all this resource where actually some of the efficiencies we're talking about are being realized down, further down the line?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1973.42,
+      "endTime": 2016.638,
+      "text": "yes, sir, the the question of first uh mover disadvantage, uh, in some sense is interesting. Um, I I can mostly base this on, like, um, the stuff that I've read in in chinese right. So, uh, for example, um, my sense is that if you, if you read through some of the interviews with uh triple ceo, zhang peng um and and tech leaders in general, like nobody, nobody, dares underestimate uh open ai, and I think part of the belief is that it's still got a lot of technical secret sauce that it hasn't fully released. It might not be the next model, but it might just be techniques and theoretical approaches that are pretty cool and pretty useful.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2016.658,
+      "endTime": 2023.926,
+      "text": "Uh, pretty cool and uh, pretty useful. Um, and so I think for them it's almost like they",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2031.15,
+      "endTime": 2041.626,
+      "text": "they're advancing the field in in in many ways and, um, they sometimes decide on, like, when to reveal those uh, because once they do, uh, folks do try to match those uh, uh, be it Qstar or something else. And so, yeah, not to be underestimated,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2045.536,
+      "endTime": 2079.6,
+      "text": "and there's an internal calculation right, like according to what I've read, at least from the Chinese end, is that they need to figure that out. Sorry, is that gibberish? No, no, no. And we should say like open AI as well. I mean, there was the recent uh where anthropics clawed the, the computer, where it's able to control the computer, and you know they are basically I don't know if it's out yet or imminently releasing something which is essentially a copy of that. So, um, that to me would suggest although I think it's not necessarily like you still want to be out at the front, but that idea of you know being the leader that there is.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2079.68,
+      "endTime": 2107.13,
+      "text": "It's not necessarily like you still want to be out at the front, but that idea of you know being the leader that there is, it's not so much as a disadvantage, but you are definitely, in terms of the R and D work, you're doing the work for others, aren't you which is kind of where also think that the the kind of open source and closed source models thing comes in, that if you put the open source model out there, you know people. You know people will kind of help do that development for you If you've got the closed model and then you're doing all of the development and then you might find out that actually you're not as far ahead as you think.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2107.851,
+      "endTime": 2166.017,
+      "text": "I digress a little bit. I wanted to ask you a kind of follow-up around, whether you think that China is closing the gap at all on these sort of you know the best frontier models at the moment, or whether they are behind and you think they will always be, you know, behind. Right. I think the progress has been steady and I think the indicator of oh China has caught up in some serious way. For myself personally, again looking at this like tracking from the period of late 2022 onwards, I think it's really like beginning of this year. So Gpool was able to release GLM4, and it said that it was able to match most of GPT-4 and maybe surpassing it in some ways in some areas, and I think we touched on this very briefly, maybe from what Matt was saying earlier.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2166.95,
+      "endTime": 2184.804,
+      "text": "Benchmarking is hard and even the best benchmarks might not be the best kind of assessment of whether a model is useful and maximally productivity helpful. And in this sense, I think they would admit,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2189.41,
+      "endTime": 2223.924,
+      "text": "like Chinese leaders, chinese tech leaders and Chinese academic leaders would admit, that benchmarking has been a problematic thing, especially in China as well. It's hard for companies who are struggling to survive and trying to, you know, kind of get the next funding to kind of not game the system, and this happens in the West as well, right, but maybe happened to a larger extent and so I find it really hard to figure out, like, how good the models are, just from tracking the Chinese benchmarks. But with GLM4 at the beginning of this year it became like publicly recognized and also globally recognized, to be getting there on par with GBD4.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2224.75,
+      "endTime": 2283.799,
+      "text": "But of course what happened is that the iteration cycle also slows down in the West right, so between each of the models, and so that might have given Chinese companies like a time to kind of bridge that gap. What's really interesting next is there's so many things right like um will, will open ai and will similar companies be able to uh overcome some of the slowing uh benefits of the scaling law? Um and um continue to um build as quickly as they have been um, but that's not really in question. It's just, you know, like it's just relatively, how fast are they going to be moving? Whereas for China, a big part of a big thing that's going to define how its air trajectory looks like is the semiconductor, expert controls and the implications for it domestically, and I think a lot of things are up in the air.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2283.87,
+      "endTime": 2355.583,
+      "text": "I think the best person to follow there is Paul Triolo. He wrote multiple pieces on the semiconductor side of things. My understanding is that China's making steady progress, but the fundamental question is it's an organizational question how do you organize your country? How do you organize different companies to work together so that they can break through certain choke points. It's really hard and, fundamentally, what they're racing against is time right. So this semiconductor supply chain that we see nowadays, that are so sophisticated and so globalized, it really is built on the back of extremely good leadership, extremely great teams that competed with each other very intensely for three plus decades, and for China to build that internally it's really hard, and so some of the conversations that are being had is how do you ensure that, as these companies are cooperating, perhaps partially like the Semitech model in the US, how do they both compete and collaborate at the same time?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2355.684,
+      "endTime": 2395.267,
+      "text": "When do you introduce more competition within this framework? And one of the trends, it seems like, is that firms are leading the charge. Really competent firms are leading the charge of organizing and connecting some of these supply chain dots within China for indigenization. So one big name and one big player if not the biggest player that comes to mind is Huawei. If not, the biggest player that comes to mind is Huawei and, yeah, whether it's able to lead China to break through the EUV, the EUV kind of checkpoint, is a really big thing to watch, but it will likely take time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2399.55,
+      "endTime": 2451.559,
+      "text": "What I'm interested in following is actually, how well is the government organizing itself in support of these commercial players? So you talked a couple of times now already about the sort of semiconductor and chip export controls and you talked about how that kind of aligned with ChatGPT whether that's coincidental or not but how much are they actually slowing down the development of models? Or and again, I know you kind of touched on this area, but you know I have read stuff recently about how there is a, I guess from the us point of view, a risk that by, you know, completely throttling those exports, you're just driving innovation in china in such a way as which they may stumble upon something which is, you know, much better than you know even what the you know the US has currently got, and so is it slowing down the development?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2451.8,
+      "endTime": 2500.866,
+      "text": "I know it is at the moment, but you know, do you think there is the potential there that actually those exports controls kind of drive a level of innovation in China that could potentially for them be a really good thing? You know it's not to necessarily say that it will revolutionise and they will just jump off ahead, but it brings them back into the race or potentially it gives them something that we can't kind of expect or predict at the moment. Yeah, yeah, absolutely. That's one part of the side effects of the blunt tool of export controls. So you do see some arguments in China, for example, that might be justified, which is it's really hard to get Chinese firms to not use the most advanced GPUs to build their most competitive and advanced model,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2507.151,
+      "endTime": 2545.598,
+      "text": "and what the export controls have done is essentially made the calculation easier for them. If they're going to lose access to those chips two, three or one year down the road, they might as well start figuring out how to do heterogeneous computing right, like how to mix Chinese-made or partially Chinese-made chips with these advanced US-made or, you know, foreign-made chips to still, you know, make the model training work. And so they're building that experience and they're really adapting to this new reality. And I think what's interesting that could be positive out of this very, very um daunting challenge, I think, for china is that it can make use of its market.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2545.699,
+      "endTime": 2588.633,
+      "text": "It can make use of its um, uh, semiconductor sector that's always been interested in doing this, but find themselves, um, finding it hard to sell to the domestic market or, um, always like partially giving up, like in terms of like different parts of the notes, because there's a better foreign alternative, now that they know they won't have it reliably. So, yeah, it does help in that sense, but I think it's still. It's still taking a lot of the energy and, I think, governmental focus to fix this problem, because they do see it as a technological security issue which flows into a national security issue to not have access to such a powerful technology.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2588.673,
+      "endTime": 2630.702,
+      "text": "That underpins a lot of the technological, economic and political goals that they have ultimately. So we talk about common prosperity, we talk about the century of rejuvenation of China, and it kind of threatens that in a few ways. So how has the government responded? I say the government, I mean the Chinese Communist Party. How has the Chinese Communist Party actually responded? What are they actually doing? Because obviously a lot of this in china will be dictated and we'll go on to some of this stuff a bit later but what, what are they currently doing? What is their particular push? What? What are they encouraging in terms of investment?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2630.742,
+      "endTime": 2647.73,
+      "text": "Are they just throwing money at the domestic, you know, chip development market? Is that the way that they're doing it? Are they trying to work out where to do it? Is it investment in r&d through the likes of chinghua and baby, you know, beida, things like that? Like what is their response to those export controls and to the restrictions?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2650.735,
+      "endTime": 2691.376,
+      "text": "yeah, that's a great question and I think a lot of the western analysis of focus uh, I've read, uh followed are really focused on the note to note right, like, how are they shrinking, you know, how are they able to reach a 7NM target? Or how are they able to use the big fund, which is like China Semiconductor Fund, that sends billions of dollars to support the industry. I think those are perhaps interesting, but those are a little bit outdated in some sense, because I think the government thinks about this very systematically and perhaps pragmatically and they're thinking really more long-term.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2691.596,
+      "endTime": 2744.208,
+      "text": "So some sayings that we've heard in the past, like 弯道超车, you know, like ways to leapfrog in technology against yeah, so ways to leapfrog in core technologies and catch up with the West you don't hear that anymore. Instead, you hear a phrase called new whole of nation system, a lot and 新兴中国提取, which is really about how do we change the government's role in innovation, as well as how do we ensure that innovative entities, including academia, research organizations and these leading firms, how do we ensure that they work maximally well together, how do we make sure that they're connecting? So one really interesting frame that they use is the Drupal or the SMIC, the Huawei.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2744.889,
+      "endTime": 2781.457,
+      "text": "These companies would really be asking the questions and, effectively, hopefully, the academia and the research organizations will be answering some of these questions and ultimately, the answer to these questions will be tested within the market and through, you know, the free kind of like free hand of like the market economy. We therefore know whether this innovation is valuable and whether it's competitive, and if it's not, then the cycle kind of continues again and less competitive companies will just not be, you know, doing as much of this, I guess, and so I think this is really interesting.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2781.878,
+      "endTime": 2832.463,
+      "text": "Essentially, they're gesturing towards how do we support the private innovative entities to do their job and some of the changes are underway, right, how do we standardize market regulations across the country? How do we lower the barrier of entry to these sectors for smaller companies? So yeah, very, very systemic in some sense, and I think the chip, what happened with the semiconductor expert controls, also kind of informed, the formation of the Central S&T commission, which is directly under the central government and it oversees some of the key S&T strategic decisions, and I think, of course, like chip, indigenization is a key part of that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2834.351,
+      "endTime": 2849.991,
+      "text": "So it's an interesting mix of strengthening central control but also making sure that private companies can do their job well and can find themselves in an ecosystem where everyone is um, you know, in the role that they should be.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2850.331,
+      "endTime": 2874.905,
+      "text": "Yeah, do you think that? So I know that. I mean, this is something that's kind of cropped up, which is that, um, neural processing units, which is so you've got your graphics processing units, you've got your central processing units. Now you've is the neural processing units, which is so you've got your graphics processing units, you've got your central processing units, now you've got your neural processing units, which can be used for inference. Um, how much of an impact do you think that will have? Because those, those are actually kind of new to everybody, even all the chip manufacturers.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2875.126,
+      "endTime": 2881.179,
+      "text": "Is that somewhere where china can get a bit of an well? Well, maybe not necessarily an advantage, but isn't starting from?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2881.199,
+      "endTime": 2886.758,
+      "text": "quite as far back. Put themselves up, yeah, level at least. Are you talking about neuromorphic chips?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2888.771,
+      "endTime": 2896.614,
+      "text": "So, like MPUs, so chips that are specifically designed for inference, because, whereas you have to do A Glock with a Q, yeah, a Glock with a.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2896.654,
+      "endTime": 2898.159,
+      "text": "Q Cerberus as well, cerberus stuff, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2902.21,
+      "endTime": 2916.237,
+      "text": "Cer, the rock with a q, cerberus stuff yeah, cerberus as well. So so like where you've got nvidia who design graphics processing units and they are used for all of the training. So like all the training data, all of the like, um, like when you're training chat, gpt, all the billions of dollars you spend on training that's using gpus.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2916.578,
+      "endTime": 2941.161,
+      "text": "But npus are like this kind of relatively new thing which are specifically designed for inference and for doing that really fast, because you can tune these chips to do that and we need to know the answer, because if this is the case, we need to pull all of our money out of NVIDIA, because we put we put all of AI from profits into NVIDIA stock right, yeah, yeah, and do we move into grok instead? yeah, inference is important",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2944.65,
+      "endTime": 2990.618,
+      "text": "right, but it accounts for only 30, I think, of the compute uh used for training a model um for, for, like you know, making a model work. So, um, I I agree that there's a lot that can be done on the inference side. That got everyone very interested and I'm sure vcs are investing in that and and and uh, you know these big tech companies are also investing in that um. But but the other side really matters, right, like if you're trying to train a frontier model, then you still have to have the necessary compute to be in the game. But yeah, essentially we're in a place where we're squeezing all the efficiency margins of each side of the model training and model serving process.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2990.819,
+      "endTime": 3037.82,
+      "text": "But yeah, and in terms of China investing in more next-gen stuff, kind of getting a little bit more ahead of the curve than most it's always been, you know, it's for a long time it's been interested in, like photonics and neuromorphic AI, and Kai-Fu Lee has been talking a lot about like the inference side of things. So I think they're very, very caught up with what is the frontier that people are chasing and they're also investing in that. So I wouldn't be shocked if there are quite a few companies doing that in China. I want to move us a little bit off kind of topic and off the kind of general basis for the interview and just visit how China or how Chinese people use AI applications.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3037.97,
+      "endTime": 3074.444,
+      "text": "Because I think I'm thinking in terms of, you know, listeners to this podcast, who probably most of them I mean, maybe on this episode we'll have a load of people who are specifically interested in China, but I think for most of them, as we discussed before we did the podcast China's quite a kind of strange and mysterious idea still, and you know, I'd like to think that this episode will be a kind of opening of the eyes on you know, how or where china is in terms of development, the innovation that you see in china. But I think one of the questions that they're all going to ask is like what the chinese citizens use ai apps for, like how do they use it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3074.524,
+      "endTime": 3113.235,
+      "text": "Is it the same as in in the west? I mean, you know what are the main use cases? I know you're not in china and it's maybe a bit weird. We are in china and we're asking you this question and you're not in China, but you're an expert on China, we like to think. So what do you think from your knowledge are the sort of main use cases. Is it the same? It's just that they're using Tongyi and whatever, whichever of the Chinese apps they want to use, but actually they're just using it in the same way as ChatGPT. Are there different uses? Is it video is the most important? Is it music? You know, there's obviously the social media sort of growth in China happening in a very different way.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3113.49,
+      "endTime": 3119.253,
+      "text": "Is that similar with apps or is it actually it's just they use a different app but they use it for exactly the same reasons.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3123.74,
+      "endTime": 3171.363,
+      "text": "To answer part of the question. I think it's part of the debate within tech leaders in China, ai leaders in China, whether the older model for the social media platforms, which is really about eyeballs, really about the amount of time you spend in front of the app, which is why WeChat exists right, everything's on there and so you can just do everything there, and that's one model. And then the other model that folks are more interested in is the shiqi jingji, like the physical economy. How do you use these technologies of work with different sectors medical, coal, mining, judicial system or autonomous vehicles?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3171.763,
+      "endTime": 3212.678,
+      "text": "How do you make sure that you are fine-tuning a model, you know, based on the data that they have and actually brain about productivity gains for these sectors? I think this part of the development is of great interest to the government, and so you see different initiatives in support of that. You know the Beijing government has put out quite a few plans that support developments in this area, and one way for them to do this well is like have a regulatory sandbox, you know, have pilot zones where companies can experiment and if things go slightly wrong with the contained space, they can iterate and make it better and contain the risk as well.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3213.5,
+      "endTime": 3283.948,
+      "text": "So one side of it that I think is very interesting is the shitty things you know, like kind of like merging AI and having AI be the basis of these manufacturing sectors, and all that is really interesting. One thing of interest is also how will AI in China be greener than the rest of the world, because China also has its emissions goal and all of that, and also because of the lack of advanced chips. I think they're very interested in compute efficiency and things like that, but again, that might be going back to our previous topic and I'd love to actually hear, uh, from you guys more about, um, yeah, applications that you see they're interesting as well yeah, I, I have been thinking about this and I find it interesting, actually, that if you visit China as someone who's from anywhere else, to be honest and you walk in and you see the way in which technology is integrated in absolutely everything that people do, I don't think there's anywhere like it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3284.148,
+      "endTime": 3322.133,
+      "text": "I don't think there's anywhere that has that, that same kind of level. And yet, at the same time, my feeling on ai is well, it's been adopted in a different way is the things that have become a part of your life without even knowing it. So you know the algorithms that feed um delivery apps and the way in which it's become embedded in your life in a way that that you know everyone's going to see this, but without even knowing. It's ai that has definitely happened in china ahead of anywhere else, and even uses, like I've given on this podcast examples of kind of medical uses where you know I had a photo taken of my eyes and it gave me a load of stuff.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3322.254,
+      "endTime": 3383.682,
+      "text": "I, you know, for people who are not well like in china, if you've got a job, you basically get a yearly health check, and there were two parts of the health check that I had last year that were one was an eye test, the other one was a kind of ecg, but you wore a little thing for 30 minutes and then it declared it to be an ai. Um, I'm not really sure why it was ai. I think it may have just been, you know, an example of how you call something AI, because that makes it sound more interesting, but it's definitely integrated in a way in which I've not seen elsewhere. On the other hand, I think that you know, although there are kind of apps out there and maybe I'm overestimating the use in, you know, in the UK, in the US, in sort of Europe, western countries in inverted commas but most of my friends, even here, who are British, they have ChatGPT or Claude or whatever, and they're constantly using it on their phones.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3383.975,
+      "endTime": 3422.862,
+      "text": "I don't see that in the same way with with Chinese friends. Most of them have got some access, but they're not using it in quite the same way. Um, and I wonder whether that is about the fact that you know, I mean, I've said quite a few times I have Tongi on my phone, which I the reason I have Tongi on my phone is because I don't have to, uh, you, to jump the firewall to use it, so sometimes it's just more convenient. But the other day I asked a question. My daughter had an extra tooth come in at the back and I was like, is that normal? So I asked Tongi and Tongi told me no, this is abnormal. This is what's called a something, something tooth, and you should go to the doctors.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3423.243,
+      "endTime": 3461.63,
+      "text": "I asked Cla and claude said yes, how old are you know? At five to six years old, this is normal. This is the first of her permanent teeth that comes in at the back, and so you know what we've talked about before in terms of the development of kind of frontier models is that china's, you know, up there, and q1 is a really great model, but the kind of consumer facing app and the consumer-facing interface, for me it's just not quite there, and so I don't know whether people have had that experience and so they're not getting as good a use out of it, or if it's just a case of they think that Chinese models are not as good and so they're actually using ChatGPT but they don't tell anybody about it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3462.052,
+      "endTime": 3489.265,
+      "text": "I'm not sure, but I don't get the idea that it's integrated in people's personal lives here quite as much as it has of, certainly, my experience of kind of friends in the us, the uk, in europe. However, on the other hand, like I say, in terms of practical uses and integrated with business and with jobs and with your day-to-day life, I think it's ahead. So it's. It's interesting because it's. It's not better or worse, it's just different. I mean, jimmy, I don't know what your personal experience is.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3490.115,
+      "endTime": 3500.081,
+      "text": "I kind of think, first of all, I kind of think it's a bit of a third option where I think the number of people that are actually using ChatGPT or something like that every day is probably still not that high.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3501.124,
+      "endTime": 3501.946,
+      "text": "Anywhere you mean.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3502.276,
+      "endTime": 3540.747,
+      "text": "Anywhere yeah, yeah, anywhere, like um as a anywhere. You mean anywhere? Yeah, yeah, anywhere. Like. I think more people have been exposed to ai through the fact that it's now built into google it's started, it's built into bing, it's built into common search engines, so you're just using it, but you almost don't really realize you're using it first of all I think that's my first point um. Second thing, in china, like, one of the things I have noticed is um is ai labeling content, as ai seems to be ahead of the west. Um. So, for example, on qq music, which is, uh, like a music app like spotify, there's actually a separate tab for ai generated music, and so it's.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3541.007,
+      "endTime": 3568.229,
+      "text": "It's there, but you can click on the ai tab. It's clearly labeled and you can just play AI generated music if you want. On Spotify, it's just hidden amongst everything else. Yeah we talked about it on that episode with Ant, the music episode. But on Spotify, I'm pretty sure there's loads of AI music on there but it's not really labeled as such. And there's the same thing with channels, which is similar to TikTok. There's stuff on there that's AI and it's clearly labeled AI-generated content,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3572.035,
+      "endTime": 3579.227,
+      "text": "Fictional AI-generated content, I think, is the label they use. So I think in labeling they're a bit further ahead, I think. In terms of pure chat experience, I'm actually not sure about the Chinese search engines.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3586.275,
+      "endTime": 3592.155,
+      "text": "People will become exposed to AI is through that natural integration into search engines, rather than I'm going to specifically use an AI to to do whatever like to talk to chat GPT or Claude.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3592.215,
+      "endTime": 3639.801,
+      "text": "I think that's still a relatively limited amount of people yeah, I think part of the difficulty here for um, uh, like in in the China case, is they need to get people to want to use their models right, and I think now it's starting to change. But maybe a few months back, why would you use like a, you know, why would you pay to use like Baidu Wenxing, perhaps, when you can use like a ChatGPT API for free or for not a lot of money and so them attracting? You know, these companies that have spent so much on developing these models actually have been found to be paying a lot of money to attract, to market and attract more customers.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3641.575,
+      "endTime": 3690.626,
+      "text": "Moonshot and Bytron are two of the, the, the, the ones spending a lot of money on this Um, and so I think we're still in this process where they're convincing the users to uh, to get used to the system and to to, you know, build that stickiness uh with the user base. But I think for the longest, for the, for the longer duration of the past year and a bit uh, it's, it's uh these companies have been more focused on the b2b, which is where they can actually uh get some money, uh, for all the, the, the money that they've spent to build these models. Um, yeah, and I'll also think that kind of just chimes with the official um, um stamp of approval and the governmental interest in the physical economy, uh, so it's easy, um, but I also sorry no, that's something I was going to say.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3690.666,
+      "endTime": 3748.083,
+      "text": "Was was this point around? You know you separating out the real economy and the things that have a commercial benefit? If you and when I say you, I'm talking to, I'm talking to all of our listeners here if you think about the way in which a sort of an application, that that wants to be consumer facing, or a company that has an app they want to be consumer facing, you think about the steps that they will have to go through to make that kind of viable in terms of matching with the political goals and the need for stability and to protect from potential social harms. The cost of doing that, to do business, is huge, because if it goes wrong and you've invested all that money and then they just shut you down, whereas if you've got those commercial things, certainly the door has been okay.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3748.103,
+      "endTime": 3782.887,
+      "text": "Well, if you can show me that this is going to benefit the real economy, we're willing to be a lot more flexible and a lot more loose with you. I think if you think about the consumer-facing and I'll give an example from my own experience of when you're using a sort of consumer-facing large language model in China and you ask it a question about something that is not particularly sensitive. So the Summer Palace, the old Summer Palace in Beijing, which was burnt down by the Brits and the French, that in itself, I guess, is sensitive. But the fact that it happened is not sensitive because it's proof that China was kind of wronged.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3783.335,
+      "endTime": 3834.656,
+      "text": "If you ask a question in English about the old Summer Palace, that's just asking anything about the Summer Palace. It begins to answer the question, then it shuts itself down. So the guardrails that have been put on are just such that you know well, hang on, why have they guardrailed that? Well, you need to understand that, because it's just easier to guardrail anything that might be even slightly sensitive than to try and have a kind of really nuanced approach and work out what might get past the sensors and not. So the amount of investment that you need to put and the amount of time and the amount of questions that you need to answer and that you need to show that have been, you know, blocked or have been harmonized in such a way as it will get through the censorship when you don't need to do the same is my understanding when there is a commercial use.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3834.716,
+      "endTime": 3891.451,
+      "text": "So you can definitely see why there would be more of a focus on that side of it. Now don't get wrong, I think in the us as well, that's where the money is to be made, so of course that's where the focus will be for everybody. But I think in china it it's such a price to pay and such a risk in a consumer-facing model that I think that has a huge influence on how they develop. I think that that's definitely true to a certain extent, and then we also see companies that are getting more involved in the B2C side. So I think Drupal is one of them. Other companies have also been doing that more, and you also have companies like Moonshot that are very clearly, very committed to a proprietary model that is B2C only, primarily B2C, and I think one of the reasons for that and the governments would also be cautious in kind of overstepping here because when you expand your user base, you're also collecting a lot of useful data.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3891.615,
+      "endTime": 3941.209,
+      "text": "People are using it for work, for example, and I think some of the cases that Drupal or another company found is that some of the B2C customers recommended the company to start using Drupal's products and therefore led to a company adoption, and I think that's interesting as well. And I think the government's role here is really trying to toe the line of making sure that what it cares about, the political control side, is still there and still people understand that, and I think they did it very clearly with the interim measures AIGC, interim measures from last year, from last April but also show a little bit of flexibility as to the needs of the industry.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3942.155,
+      "endTime": 3970.167,
+      "text": "So, for example, that led to them deleting one of the clauses that asked for complete accuracy of the models and what they generate, because it simply will not work for the needs of the industry, and China needs its industry to work as well as it can so as to compete, because the center of innovation is not the government. The centre of innovation is the private sector and what the government can do in support of that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3970.476,
+      "endTime": 3982.947,
+      "text": "Would you mind sorry on that? Would you mind elaborating a little bit? So that was so, that's. It sounds like it's something that the government tried to put in place where it was like the model needs to be 100% accurate all the time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3984.535,
+      "endTime": 4028.763,
+      "text": "Yeah, so in the interim measures from last year. So it was put out in april and it collected information and kind of changed some of the clauses, uh, and was implemented in august. Um, so what it did is essentially ask the developers of the models, the service providers and the users to make sure that they are also meeting the socialist standards of the country. Ie, you know whatever censorship or you know whatever expectations we have of you guys. When you're doing public phasing stuff and you have a public phasing platform or app that can really influence public opinions, you should be careful, of like, of not touching the red lines.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 4029.304,
+      "endTime": 4047.006,
+      "text": "So I think that document was very clarifying. I know that some folks have thought that that would stop Chinese industry from moving ahead with their products and all that. I don't think that's the case, as much as it's a kind of communication between the industry and the government. This is the expectation",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 4051.295,
+      "endTime": 4092.385,
+      "text": "Make sure you keep the expectations that we had of you guys from before. In this new era of Gen AI essentially and what's interesting also is, coming on the heels of that document, the interim measures for AIGC we also have the Poly Bureau emphasizing that they're interested in AI's development, innovation and governance or risk prevention. So I think that was really the strongest statement from the government discussing Gen AI, and they decided to put the focus on the dual um, dual goals, uh around the technology yeah, I think this is like really interesting it's.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4092.626,
+      "endTime": 4105.122,
+      "text": "It's one of those things where I guess, if you're not familiar with china like like many of our listeners probably won't be then you know you wouldn't expect the country to be so progressive, given their like um, like you say, socialist values.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 4105.826,
+      "endTime": 4126.327,
+      "text": "Uh, and so because essentially what you're saying there is like well, ai's hallucinate, we can't really do anything about that, so we need to let them hallucinate a little bit and and so the the blunt way to make sure that it also shows political line is you know, you get rid of certain terms right, like you try to get your model, not to mention those terms. Um yeah, the price of doing business",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 4134.987,
+      "endTime": 4156.021,
+      "text": "price of doing business, indeed. So we will stop part one there. We will come back with the second part of that interview, probably in a couple of weeks time, and between now and then we've got a at least one other thing that we're going to put out. So do stay tuned in. If you enjoyed it or you didn't enjoy it, give us some feedback, pass it on to your friends and enjoy our outro song. See you next week, take care.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "A very dramatic man",
+      "startTime": 4160.815,
+      "endTime": 4190.348,
+      "text": "Chips and supply chains driving tech ahead. Innovation in China. The world must be led, not about who's on top, but how we all can grow Governance for high quality benefits to bestow. This AI arms race. It's not China versus USA. We need global solutions, a world that works our way. Innovation for all, not just a limited few Governments to ensure progress. That's fair and true.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "A very dramatic man",
+      "startTime": 4207.975,
+      "endTime": 4224.426,
+      "text": "World thrive Not about blocking but elevating all. Unite and we stand Eat. Progress global call. This AI operates. It's not China versus USA. We need global solutions, a world that works our way. Innovation for all, not just limited few. Governance to ensure progress that's fair and true.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "A very dramatic man",
+      "startTime": 4231.575,
+      "endTime": 4258.765,
+      "text": "This strict access it won't stop their stride. Unlock potential. Let the whole world thrive. Not about blocking, but elevating all. United we stand. Keep progress. Global core. This AIOps race. It's not China versus USA. We need global solutions, a world that works our way. Innovation for all, not just a limited few Governments to ensure progress. That's fair and true.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "A very dramatic man",
+      "startTime": 4263.035,
+      "endTime": 4295.909,
+      "text": "Chip supply and more Drivers of the future. Cooperation, not cutthroat Competition's the suture. Unlock the potential. Govern with care. Prosperity for all Is what we should prepare. This AI ops race. It's not China versus USA. We need global solutions, a world that works our way Innovation for all, not just limited view Governments, to ensure progress. That's fair and true.",
+      "chapterIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,1160 @@
+{
+  "slug": "s2-2025-01-29-china-s-ai-revolution-part-2-unearthing-in",
+  "buzzsproutId": "16503788",
+  "title": "CHINA'S AI REVOLUTION: Part 2- Unearthing Innovations, Governance, and Trust with Kristy Loke",
+  "date": "2025-01-29T10:00:00.000Z",
+  "season": 2,
+  "durationSec": 4480,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16503788-china-s-ai-revolution-part-2-unearthing-innovations-governance-and-trust-with-kristy-loke.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail What if AI could save more than it costs? Join us as we tackle this provocative question with our signature mix of insight and humour. The episode kicks off with an exploration of the monumental strides in AI, highlighting Google's groundbreaking transformer model and OpenAI's cutting-edge developments despite its hefty price tag for queries. We delve into the promising innovations by Google and others, aiming to mimic human memory processes. These advancements promise to resolve current AI inefficiencies, potentially revolutionizing how AI processes information sustainably. Journey with us through the intricacies of large language models and their impact on our conversations. Discover how these models, while powerful, can be influenced by the phrasing of questions, aligning with user expectations and sometimes veering off course in agentic tasks. Trust is paramount as we foresee AI gradually taking over human tasks, but only if confidence in these systems is solidified. The episode sheds light on the delicate balance of integrating AI into everyday life while minimizing errors that could undermine trust. In part 2 of our interview with researcher Kristy Loke the global stage of AI governance takes center stage as we unpack China's innovative regulatory framework and its quest to align with global standards. Our discussions compare and contrast the EU's AI Act, the U.S.'s disjointed regulations, and China's evolving policies, offering insights into how these approaches might shape future governance worldwide. Lastly, we consider the harmonious blend of Eastern wisdom and Western technological ambition, a poetic reflection on the quest for equilibrium between rapid innovation and timeless principles. Join us for a thought-provoking journey into the future of AI.",
+  "summary": "Part two with China AI governance researcher Kristy Loke: the ballooning of alignment discourse inside Chinese labs since ChatGPT, Beijing's unique algorithm-registry approach versus Western compute thresholds, two competing draft AI laws, open source as Beijing's strategic answer to export controls, and why AGI may arrive as a 'surprise attack'. Matt and Kristy find China's governance on paper closer to the global gold standard than America's, while disagreeing with Jimmy that the current LLM paradigm will never get us to dangerous AI anyway.",
+  "keyTalkingPoints": [
+    "News catch-up: Google's Titans architecture imitating human memory, o3 queries reportedly costing $10,000 each, and LLMs as sycophantic pushovers easily led down rabbit holes - dangerous for agentic models managing your inbox",
+    "Chinese frontier firms track Western safety moves closely - DeepSeek signed the Seoul summit communiqué and copied OpenAI's superalignment concept; the alignment-awareness gap has largely closed (per Concordia AI tracking)",
+    "Beijing's public panels debate accelerationism vs effective altruism; consensus is 'not developing is the biggest security threat' but development and governance are not dichotomies - written into draft laws and the Politburo's April statement",
+    "China's governance uniqueness: algorithms as the fundamental regulatory unit via the algorithm register (Matt Sheehan); newer proposals add compute thresholds, 'critical AI' categories, mandatory safety testing and emergency drills",
+    "Open source is Beijing's strategic counter to export controls - leading open models (Qwen, Yi, Baichuan) with domestic carve-outs; Matt admits he's flipped from anti- to pro-open-source",
+    "Endgame: Kristy sits 'firmly in the middle' - excited about productivity gains for brain-workers, anxious about inequality, deepfakes and safety; Jimmy's utopia requires ending capitalism as currently constituted; both agree governance should target outcomes, not algorithms"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "LLMs are plateauing; alignment work on the current paradigm is guarding a box that won't produce AGI - the real AGI will arrive as a 'surprise attack'",
+      "Regulate outcomes - jobs, guardrails, societal impacts - rather than the internals of models",
+      "Reaching utopia requires ending capitalism as it currently exists"
+    ],
+    "matt": [
+      "China's governance approach - algorithm registry, compute thresholds, emergency drills - is in many ways more sensible than the US, and even than the EU's AI Act",
+      "China is not a rogue state on AI safety - it engages with the UK AI Safety Institute and multilateral forums",
+      "He's flipped to pro-open-source but wants frontier models regulated differently from small hobbyist ones"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-01-29-china-s-ai-revolution-part-2-unearthing-in-1784-we-won-t-reach-agi-through-current-paradigm-llms",
+    "s2-2025-01-29-china-s-ai-revolution-part-2-unearthing-in-3388.8-unless-governance-and-regulation-become-radicall"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Kristy Loke",
+    "Castles in the Cloud"
+  ],
+  "chapterCount": 8,
+  "turnCount": 154,
+  "chapters": [
+    {
+      "title": "Future of AI Models",
+      "startTime": 1
+    },
+    {
+      "title": "Impact of Language Models on Conversations",
+      "startTime": 772
+    },
+    {
+      "title": "Growing Concerns",
+      "startTime": 1092
+    },
+    {
+      "title": "Debates on AI Governance in China",
+      "startTime": 1519
+    },
+    {
+      "title": "Chinese Approach to AI Governance",
+      "startTime": 1963
+    },
+    {
+      "title": "Comparing AI Governance Approaches",
+      "startTime": 2840
+    },
+    {
+      "title": "China's Evolving Approach to AI Governance",
+      "startTime": 3274
+    },
+    {
+      "title": "East and West",
+      "startTime": 4258
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 36.324,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. Change everything you are and everything you were. Your number has been called. Fights and battles have begun. Revenge will surely come. Your hard times are ahead. Welcome to Preparing for AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 37.607,
+      "endTime": 37.988,
+      "text": "With me.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 38.489,
+      "endTime": 52.012,
+      "text": "Oh yeah, with you, donald Trump, and me, Jimmy Rhodes, and this week we are back for the first episode of 2025. So happy new year to all of our listeners if we have any listeners.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 52.902,
+      "endTime": 57.956,
+      "text": "If we've got any left. Yeah, the inauguration is in two days. Our inauguration, my inauguration.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 58.318,
+      "endTime": 58.84,
+      "text": "Your inauguration.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 59.02,
+      "endTime": 60.325,
+      "text": "Oh no, you're Donald Trump aren't you yeah.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 60.566,
+      "endTime": 61.349,
+      "text": "So your inauguration.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 61.6,
+      "endTime": 62.322,
+      "text": "My inauguration.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 62.382,
+      "endTime": 102.825,
+      "text": "It's either in two days or minus four days, depending on when you're listening to this, because we're in the past, true and people will listen to this in the future. The main point is I'm taking time out of my busy schedule to record this episode well, thanks for that, and I guess, on that note, I'll let you pick up the reins. This week we're going to do a few uh sort of short um bits of ai news before we launch into part two of the episode that we recorded in the future, that we actually recorded about two months ago last year with christy loke. Um, just after the election that you won, or was it before the election, you're now being inaugurated because after the after I won the election before.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 103.586,
+      "endTime": 113.782,
+      "text": "In between, basically, okay, anyway, whatever I've been chomping at the bit to do this podcast, no, to start running the US.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 114.043,
+      "endTime": 117.149,
+      "text": "Well, before you run the US, let's talk about some AI stuff.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 118.071,
+      "endTime": 182.52,
+      "text": "Yeah, okay, yeah, my forte, so, yeah. So the thing that's sort of popped up recently. So, um, for anyone that doesn't know, google actually with uh, it was google's research arm that um came up with the transform model, which basically spawned I know like six, seven years now of ai research on large language models. Um and I was watching a really cool documentary the other day, which actually I'm looking at like open AI back in 2016, 2017, when they were a fledgling company and no one had heard of them, and a lot of the stuff that happened with transformers kind of happened by accident. So large language models they were just trying to get models to predict the next token and all the rest of it, and then it was only almost by accident that they realized that they could ask them questions, and then they'd respond with these answers to questions and stuff like that, and from there, like, basically, we got to where we are now, where large language models proliferated, they started feeding them huge amounts of data and just kept getting better and better returns.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 183.282,
+      "endTime": 208.334,
+      "text": "One of the problems with large language models, though, which has become apparent in the last couple of years, is like they're really inefficient with the way their memory works, so even though they, you know, can come up with some pretty good answers to questions and you know they're trained on the whole internet they're actually kind of quite inefficient and using tons and tons of electricity and data and, like these massive data warehouses and all the rest of it.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 209.12,
+      "endTime": 221.11,
+      "text": "I don't want to, just sorry. I say I don't want to interrupt you. I am going to interrupt you Go ahead. So I obviously do want to interrupt you, go ahead. I was just thinking something about the new O3 model, which is the model that doesn't yet exist from open AI,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 226.32,
+      "endTime": 261.907,
+      "text": "and one of the things that I had seen I'm not sure how true this was I mean, obviously it's not a model that people can actually use yet, but it was talking about it being, um, currently kind of ten thousand dollars a query was the cost of output, and I think that's just something that hasn't been. You know, we talk about like the advance of chips and architecture and how it will get cheaper and cheaper, but actually, like some of these absolute frontier models, like it's going to take a hell of a lot to get that down. Even if you get that down like 10 000 for one query okay, it's not being used for people to just, you know, ask questions about, you know, random questions on chat, gpt, but like there's just something in there that there is now coming into.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 261.947,
+      "endTime": 270.991,
+      "text": "It is like the use to create these kind of frontier models, that is, in terms of energy use and costs, is potentially absolutely astronomical yeah, yeah, totally.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 271.111,
+      "endTime": 327.704,
+      "text": "I heard the same thing like like thousands, tens of thousands of dollars per query, and obviously it's just as what's it called like a technological showcase, as opposed to something that's that we can actually access and use, um, but the so so go like. Going back to what's on my like, so google have come up with this new um paradigm, this new model, which is called titans, and another company I can't remember the name, but another company within the same week have a released a paper. So these are both scientific papers, uh, and the other one's called transformers squared, and what they both seem to be targeting is, instead of just memorizing everything, which is what large language models do right now, is actually better approximating the way human memory works, so actually focusing on what's more relevant, um, and so what they've developed is this architecture.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 327.744,
+      "endTime": 360.72,
+      "text": "That's kind of a bit models, a little bit looks a bit more like long-term and short-term memory. Obviously, we're not going to go into huge amounts of detail here. If you're really interested, there is actually I don't always listen to his videos, but there's a video by matthew berman that came out explaining titans and it's quite. It's quite a good video. It's quite in depth um, but basically, what they're trying to do is they're trying to make models that can have massive context windows. So the context window is how long you can have a conversation before, basically, it loses its memory of that conversation.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 361.824,
+      "endTime": 408.368,
+      "text": "Have this massive context window whilst also focusing on the pertinent points, so focusing on what's important. Um, and the way they're doing it, as I understand it is, they're trying to introduce something which actually quite a bit more closely approximates the way human memory works, which kind of makes sense because, like, we don't all have eidetic memory where we can remember everything that happened in our lives with perfect recall, and one of the reasons for that is is the way that, you know, our brains are quite efficient, and so what they'll do is they'll focus on the key points and focus on the big, like the surprises, that kind of thing, um, whereas maybe not focus on the kind of mundane stuff that happens every day, but it's the same all the time, and so that's kind of the way human memory works.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 408.721,
+      "endTime": 425.984,
+      "text": "As I understand it, that's what this Google paper outlines, with a new architecture called Titans, and it's all a drive to make large language models more efficient, not require like $10,000 per query as we sort of evolve into larger models and things like that. So quite interesting stuff.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 426.505,
+      "endTime": 435.383,
+      "text": "There's still large language models, though. Right, this is not a new, a kind of completely new architecture. This is still using transformers, but using it in a slightly different way.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 436.085,
+      "endTime": 467.675,
+      "text": "Yeah, so it's a tweak on, I think it's yeah, like, think of it probably as a tweak on transformers themselves. So, very similar to the transformer architecture is a different architecture and, as I say, google, of course there's titans. There's another model name out there that's called transformer squared, um, so they're a different algorithm, a different architecture, so to speak, and I think, as I understand it, it would involve, you know, training models. Again on on this new architecture, however, um, you know they're, they're similar to transformers, I suppose.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 468.702,
+      "endTime": 510.113,
+      "text": "I think it segues um into the. The one thing I wanted to talk about, which is a sort of a pretty broad point, I think the trigger for me was um. There was recently uh, I'm not sure exactly what it was that they've sort of taken down, but Apple has removed one of its AI features and it was this kind of news story that it had basically hallucinated, I think, was the trigger for it, but apparently they'd known about flaws for a while in the way it was operating. It made me think about sort of some recent experiences that I've had and I may be influenced here. I've been on the shrooms again. So there was um.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 511.763,
+      "endTime": 552.181,
+      "text": "I mean I I do read quite often the gary marcus's substat letter and I mean he's pretty far down the rabbit hole the other way on on. You know how how much he thinks large language models are being overhyped. I mean he doesn't think AI. Eventually he's worried about safety of AI, but that large language models are just being hyped and actually they're pretty dumb, and I think there's a lot in what he says. I also think he's possibly too bought into his own idea, but I do think there's definitely something in my own personal use as well of large language models recently that really sees just a lot of flaws in them.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 552.221,
+      "endTime": 588.028,
+      "text": "And I appreciate that. You know, even Claude, 3.5, you know GPT-01, they're not. They're frontier models. But what we're seeing is not the absolute frontier right. It's still a publicly facing consumer model, but still it's a frontier model. And the ease of which you know you can manipulate the information unintentionally, and the way in which it not necessarily hallucinates, but just, I guess you explained it to me, or you sort of explained this earlier when we were talking about this, in terms of you know the way it is just looking for. When you break it down to its most simplest level, it's just looking for the next most likely word.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 588.72,
+      "endTime": 633.564,
+      "text": "But once you start pushing it in the direction of a particular answer, it gets lost down its own rabbit hole. I mean, I had a conversation with Claude the other day at which it was talking about sort of the biggest existential threats to humanity and by just carrying out a simple well, have you thought about this? It convinced itself that the biggest threat to humanity was vaccine hesitation, when five minutes earlier it was 100% sure that climate change was the biggest challenge to humanity. And then it started. It was very easy to push it down the direction of ai being the biggest and you know any of these could be and it's not even the fact that it wasn't able to rethink.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 633.604,
+      "endTime": 662.625,
+      "text": "So I think in some sense the fact that it's able to rethink would be a good thing, but it was just like as soon as you put a suggestion, it's like it. If you think about how it works, it's like it just gets lost in a different part of its own neural network and I think that's that's the point, is you, as long as the information's in there, it then zaps off and it goes to that area and if you look at, you can actually look on anthropic site, at kind of a picture of what a large language model neural network looks like, and if you do that you can almost imagine how it gets stuck in this particular position.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 663.126,
+      "endTime": 700.812,
+      "text": "But it it's not just saying, oh yeah, I mean, it's absolutely adamant that this is, I hadn't thought about it that way. Yes, I need to rethink this, but it's just rethinking itself all the time and it's not rethinking, it's just thinking itself down that rabbit hole. Now I think the reasoning models are probably slightly better because they do that reasoning step. But I did something similar with chat gpt. Admittedly it switched the cheaper model because I don't have a subscription halfway through, but it wasn't far off, it was. It was still very easy to kind of manipulate. And then in the same chat, I I mean I told it in one chat I said forget everything I've said and try and answer this question.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 701.374,
+      "endTime": 740.091,
+      "text": "Like, just bear in mind the data that you've been trained on. Don't, don't, don't consider our conversation. And it said even not considering your conversation. I still think this. I then just got out the chat and went into a brand new chat and did the same thing and it didn't think at all yeah, because the context window again. And I think so it's really, really worrying actually that you know they've, they've not been able to find a way. I know they haven't the way, the reason they haven't been able to find a way because they don't really understand how it works. But it does say to me that, like there are these limitations and the Apple example was just that you're seeing now examples of where things are being pulled because and we've talked about this for a long time about putting models out when they're not ready there's this kind of race to keep up, race to get products out.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 745.2,
+      "endTime": 770.985,
+      "text": "It really worries me with theic models that they're not going to be ready and so, yes, they're going to be useful, but if you start adopting them too early and they're not limited the whole thing of limited single use models I can see you can train the model in such a way as probably to get out of this. But once you get into more general things and you look into agentic models, I actually think my concern is like it's not that this isn't going to work, but it's going to take a bit longer, or a lot longer to get to the point where you can really trust it does this not?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 771.466,
+      "endTime": 809.254,
+      "text": "I mean just to be clear. So what you're talking about here is like where you ask if you ask a model a question and you do it in a brand new chat, it will give you. It will basically give you the best answer based on what's on the internet, pretty much. I mean basically what's on all of its training data, which is everything that's on the internet plus and then a bit more probably um, and so it'll kind of give you a balanced answer. But as soon as you bring something into the conversation so as you, as soon as you sort of bring like, for example, with your existential threats, example, as soon as you mention ai, it then kind of latches onto that, because well, actually I need to rethink this.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 809.335,
+      "endTime": 813.808,
+      "text": "Actually I think, yes, you're right, ai is the main yeah, and it can't help it because it's.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 814.028,
+      "endTime": 849.971,
+      "text": "It's the way large language models are designed to work, and we won't go into loads of detail, but they're predicting the next word and they're not, so they're not like as smart as they seem. Yeah, they are just they are smarter than they are, so they're just predicting, that's token, the danger being that people will, when you ask a question, it's very easy to unwittingly um, you know, inject some of your own thoughts into that question. So if you ask an open question, that's fine, but if you ask a kind of like leading question with ai, it's going to just like get led down that path very easily.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 850.452,
+      "endTime": 883.968,
+      "text": "And I think I think combined with that I do feel like combined with that is the fact that they kind of aim to please a little bit. Like claude will never be rude to you, it'll never tell you to f off, or it'll tell you that you've upset it and it doesn't want to have a chat with you. I mean it'll tell you to f off, or it'll tell you that you've upset it and it doesn't want to have a chat with you. I mean it'll tell you it's got a guardrail sometimes, which is a different thing, but it's never going to get emotional, it's never going to get like, um, it's never really got an opinion actually. And so you, if you inadvertently lead it down a path, it's going to kind of follow you down that path and kind of just reinforce what you think already.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 884.59,
+      "endTime": 890.131,
+      "text": "Um, which is what a lot of the internet is already like, to be honest. So not so much of a departure in a way.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 890.492,
+      "endTime": 918.225,
+      "text": "But but some of I mean I've I've taken, when I'm trying to get information now and I really want to know of going in with almost sort of like double negatives to asking it you know, don't you? Rather than do you think this is a good idea, is like isn't it an absolutely ridiculous? That and then only when it kind of goes against and says, well, no, that you sort of know it's maybe on the right track. I mean, this is just questions, so that you know this. There's a lot of use of large language models, which we've said before. You know things like coding and stuff. This doesn't necessarily affect that,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 937.48,
+      "endTime": 963.151,
+      "text": "but when I'm talking an agentic model that is managing your inbox, for example, like quite a simple thing, or carrying out tasks, you can think very easily about how, by you asking it to do something in a particular way, it will start doing things that you don't necessarily or you would like it to. You know, you'd like to not have so many emails that do this and therefore, to try and please you rather than actually you know doing what you meant to do, what it ends up doing is just hiding things from you because that's the path that it's been led down, or it just doesn't. You know it doesn't? It just tries to find ways.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 963.772,
+      "endTime": 980.549,
+      "text": "It's not to please you, necessarily, but it's more about um. It gets pushed down a certain path very quickly and, like I say, the way I see it is almost like fishing in different bits of a of a lake. You're fishing in bits of the neural network that are the bits that you've pushed it towards and it can't counter that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 980.609,
+      "endTime": 1007.26,
+      "text": "It has to do that because of the way that it's built yeah, yeah, I agree, and I think I mean, I think agentic stuff to a certain extent. It's coming anyway and we'll probably just have to deal with some of this. Like, I've already tried to use it for writing emails and things like that and it requires a lot of work to rewrite emails. So it's, it's not, it's definitely it, definitely it's definitely far from ideal in a lot of those kind of things. It's a it's definitely it definitely it's definitely far from ideal in a lot of those kind of things.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1007.32,
+      "endTime": 1039.934,
+      "text": "It's a it's a timeline thing. I'm not talking about it. Won't you know this idea that it's like it's rubbish so it won't work? That's not what I'm saying. What I'm saying is, like the timelines, even if we get agentic stuff, once you push it and push it, you're going to find these flaws and therefore this kind of ability to completely replace humans. Yeah, I think it gets there, but probably takes longer, because as long as you have even that 0.1 percent doubt, you know we can accept 0.1 percent from humans. We won't accept that much error from a machine we expect it 100, and once you see any mistakes, or you see it, you know doing something and then find out well, hang on.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1040.656,
+      "endTime": 1053.233,
+      "text": "It told me this and then it told me this. It just builds distrust. So it's going to be a big, a big leap a big leap, I think. I think you had one more thing, didn't you? And then we'll we'll crack on with this interview that we're going to do. That we did two months ago.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1054.496,
+      "endTime": 1055.365,
+      "text": "Uh, I don't cause.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1055.385,
+      "endTime": 1071.326,
+      "text": "I put them both in the first thing it was the Titans and Transformers thing, listeners won't have to listen to this episode for as long. Yeah, should we? Probably good. Should we do our usual thing? Should we go and I don't know make a cup of tea and then do an interview that we did two months ago? yes",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1083.397,
+      "endTime": 1118.467,
+      "text": "I think this is a perfect segue into the sort of next question which is looking at safety development in China, and I think this will be, I think this will be of interest. I think sometimes safety development is not of interest to sort of members of the general public, but I think people who are listening to this will probably, if they're not in China and they don't have a knowledge of China, have at least some level of fear or skepticism around China and what China's doing. So I want to sort of ask you to begin with, I mean, do the leading Chinese companies, do they have, you know, safety concerns in the same way as, for example, anthropic?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1118.667,
+      "endTime": 1127.34,
+      "text": "I mean, you know, are they pursuing AI in or AGI, or artificial super intelligence, if you like, in a way which is,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1131.131,
+      "endTime": 1141.206,
+      "text": "I don't want to say safe, because it can never be guaranteed, but are they putting safety at the kind of front? Or is safety Well, it doesn't matter, because actually we just need to catch up with the US.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1143.13,
+      "endTime": 1190.313,
+      "text": "This is a really interesting area of development and, I think, because it kind of the starting point for me as I started following these things quite closely 2021 onwards and the jump, you know, in terms of the growth, the ballooning of interest from the academic and partially from the commercial side in China when it comes to things like alignment. You know, systemic risk from AI and robustness. Robustness is something that a lot of Chinese companies have invested in for a long time, but it's the alignment conversations that they're having that are really just sort of ballooned after ChatGPT and especially, I guess, after the global community started coming together and discussing these safety concerns, be it extreme risk or something as simple.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1190.453,
+      "endTime": 1233.738,
+      "text": "As you know, this is a governance issue. We all got to think about it, both at the international and domestic level and, of course, that culminated in the UK AI Safety Summit as well, in the UK AI Safety Summit as well. So, from the Chinese firm side, what I'm interested in is are the frontier companies, are the companies that are dedicated to building the most advanced AI and pushing the frontier also investing in tracking the models for monitoring risk of the model, doing the best practices, putting them in place, being involved in international AI governance discussions. And again, not to keep focusing on Drupal, but I'm focusing on it because I think it's really interesting.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1234.306,
+      "endTime": 1281.909,
+      "text": "It's one of the signatories of the Seoul AI Summit, where they talk about exactly those points that I just laid out, and at Drupal, from tracking the interviews with the CEO, they've always been very interested in matching OpenAI's movements, as I was talking about earlier. But one thing that they thought was interesting to replicate or to match is actually the super alignment team, which is no longer there at OpenAI, which is this very ambitious effort led by Ilya Soskova, to align super intelligence or align very advanced AI, and it's really great, I think, to see this being mentioned at such a level of seriousness at Drupal and at the CEO level.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1282.811,
+      "endTime": 1319.227,
+      "text": "But what would be interesting to track is if the West, or if the US and these leading companies are having that debate or thinking that we've got to prioritize certain things and safety is important, but maybe not right now. That will also potentially have an impact on Chinese companies because, as I say, they track Western conversations and actions very closely, and so I think the US really has a chance to lead by example here, and you see Anthropic doing a lot of great work in this sense. So it'd be great to see more of that, and it would be great to see, you know, chinese companies continue that effort.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1320.009,
+      "endTime": 1396.792,
+      "text": "What is interesting, though, is as more big tech or startups I think especially the big tech at this point because it's so expensive to build is seeing that more of them have the ability to build front AI. So, if you follow Import AI, jack Clark's from Anthropics newsletter, he was reviewing some of the or looking at some of the models coming out of China both the Alibaba one and the Tencent open source one and he said that these are exceptional models and they're getting really close, you know, to what's the frontier level, and it seems like what is. The only thing that's missing is really the compute, and so if we're really in this landscape where there's so much capability and competence within China, then it makes sense for the conversations between the US and China to continue and for us to really take the AI governance issue seriously at a global level, because the technology is proliferating and, yeah, chinese companies are determined, and I think there was quite a bit of a gap in terms of alignment awareness and AI safety awareness back in the days.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1397.634,
+      "endTime": 1429.02,
+      "text": "It's been closed increasingly. There's actually a document from Concordia AI, which is an excellent AI safety consulting organization in China, that track all the academic and commercial engagement with alignment in terms of archive papers and all that and yeah, I mean they're interested. The important thing is to see that the frontier model companies are also doing the right and doing the relevant research and putting in the garbage.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1430.146,
+      "endTime": 1467.035,
+      "text": "We should say on your point about the sort of AI safety summit and on the back of that, the AI Safety Institute which was established in the UK. I know other countries have kind of done similar, but you know, I know that they have been out to China, they work with counterparts in China, that you know there are other countries engaged. I think it's obviously more difficult for the US perhaps. So I don't know to what level of engagement is happening there. But you know, this idea that China is kind of operating as a kind of you know rogue state in this, well, actually that isn't true. You know they are.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1468.477,
+      "endTime": 1504.576,
+      "text": "There are concerns, you know, from the Chinese side as well. They don't want this to go completely wrong. Now I'm not, I'm not saying how much attention is being paid in terms of the development, but on the sort of governance side and in terms of working together multilaterally and globally, it does seem like there is an appetite there. I just wanted to ask you in terms of the sort of debate on safety. So I feel like maybe this is me personally, but I feel like it's not quite, it's not there in the way it was five, six months ago, maybe because the whole kind of development at the moment has plateaued a little bit.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1504.576,
+      "endTime": 1524.549,
+      "text": "It was sort of five, six months ago maybe because the whole kind of development at the moment's plateaued a little bit. But there's obviously a big debate in the west around, um, you know, safe development and around the kind of broader and the kind of existential safety debates. Is that happening in china, and if so, you know to what degree? I've not heard it and and maybe that's the people I hang around with, but I've not heard anybody in China talk about it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1526.032,
+      "endTime": 1531.62,
+      "text": "Yeah, and I'm sure there are more debates, like at a local level as well, that I don't have access to,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1544.605,
+      "endTime": 1557.74,
+      "text": "but to the extent that you have things that I have access to, there have been at least two forums, two panels where, by Chuan, you know all the unicorns like Gen AI unicorns, and one of them actually included the head of BAI, or the then head of BAI, which is a really important AI research organization in China based in Beijing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1563.665,
+      "endTime": 1610.751,
+      "text": "Yeah and so, and so what they were talking about is really interesting, I think, with the exception of one, like the head of 360, which is an international security internet security company, a really big one, with the exception of the boss of that, I think everyone else was pretty concerned. They actually debated the accelerationist versus EA like positions, and AAA ai's head was talking about like how in china there's, you know, we're like more centrist and we take both sides and, uh, we think both sides are important, but we have a lot of concerns about the uh, the wonkia, the more extreme side of the risk as well, and I think this risk cautiousness is a scene across the board with Munshad AI, wujibu Alibaba.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1610.771,
+      "endTime": 1670.634,
+      "text": "I would love to see a little bit more like vocal gesturing from them, but at the same time, they're also doing these kinds of alignment research on their end, and so I think they're very risk aware, and one reason to know whether they are is really just understanding that they track Western development very closely, and they also operate in a political environment where the government cares about AI controllability. They wrote it down into their global AI governance initiative, which C announced at an international event last October. So that's a side of it, and actually something that I find quite interesting when it comes to studying Chinese governmental engagement with safety, at least on the public front, is how they can manage the goal of making sure that AI is developing safely but also not dissuading smaller companies or existing companies from innovating and from moving faster.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1671.536,
+      "endTime": 1705.534,
+      "text": "And this is really because, you know, the tech crackdown had an effect on China and folks you know had to adjust to that, and some folks were scared and thought that you know there might be interventions and all that, and so it takes time to rebuild that trust, and also it takes time to um kind of have that um unspoken understanding of each other where, okay, you can go ahead, this is still a priority, development is still a priority, but please put in the guardrails um yeah I'm, I'm curious.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1705.894,
+      "endTime": 1710.809,
+      "text": "Uh, you said everyone in the room apart from the 360 ceo. What did he have to say? I?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1712.432,
+      "endTime": 1761.213,
+      "text": "I think he was, uh, more along the line of this is really important, uh, geopolitically, and we cannot like, we cannot be left behind, uh, which is true. I think a lot of people feel that way as well, and so development is the ultimate thing. I think a more nuanced response to that that we've seen getting really popular in recent months is not developing is the biggest security threat, but development and governance are not direct dichotomies, they're not opposite to each other. Yeah, you can see this written down, you know, in one of the two AI law proposals coming out of China as well. So people are taking it very seriously, kind of the balance between the two and definitely not thinking that one means that you don't have to care about the other.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1761.875,
+      "endTime": 1782.328,
+      "text": "And this again goes back to the Politburo, the central government announcement from April last year, where they clarified that it's about both, it's not about one, and I think there's some political cost to clarifying that right, they didn't have to because clearly China was behind at that point in time and they still did that, and I think that meant something.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1784.011,
+      "endTime": 1831.201,
+      "text": "Yeah, the thing I find personally, I find most frustrating in this space is like I get the need to be concerned about alignment, but also, like with large language models, like the current paradigm, it feels like large language models are plateauing, it feels like they're not going to. For me, it feels like we're not going to reach agi just through large language models, and so what? We're worrying about something that, like the current paradigm, is probably not going to get us there, which is we, you know, we, you need to be worried about it. It's just, I feel like I feel like when we get to agi, whatever that looks like and whether it's aligned or not, it's kind of going to be a bit of a surprise attack because we, we, we don't really know how we're going to get there right now, um, and so it's really tricky, like I.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1831.261,
+      "endTime": 1841.931,
+      "text": "I know this is like a probably a really long question, we do know we're going to get there by 2026 though, because elon's just told us 2030 christy said oh, chris, yeah, I do christy more than elon.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1841.951,
+      "endTime": 1843.053,
+      "text": "I do trust Christy more than Elon.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1843.113,
+      "endTime": 1869.153,
+      "text": "I quite like Elon. It feels like a really esoteric thing where large language models probably aren't going to get us to this version of AI. That's actually going to be really dangerous. And alignment seems to me to be more about guardrails and kind of keeping it in its box rather than some future vision of true Skynet-style AGI and whether that's going to be aligned.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1870.045,
+      "endTime": 1872.529,
+      "text": "I think part of the alignment question that seems pretty solid",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 1879.589,
+      "endTime": 1908.289,
+      "text": "and it makes a lot of sense to me is how do you control something effectively when you don't understand the scope of its capabilities and how it gets there? Um, and from what I've seen, I think academically and amounts, the leading edge companies in china they get it, which is important. Um, and it really helps, you know, to have to have this debate in the open in the west. Uh, for for the chinese audience to also get on board with it. Um, so, yeah, it was good, that was a.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1909.213,
+      "endTime": 1914.571,
+      "text": "that was a fantastic answer, Actually. That was a really really good answer. Um yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1916.376,
+      "endTime": 1954.313,
+      "text": "Before we move on from this section, cause I think I wanted to mention something from a paper from Matt Sheehan, who I think think you know because I've seen on your linkedin account that you are connected. Um, so he wrote a he he's he's a great writer on on anything china, ai and governance, and I'll link this article in in the show notes. This week, um, he did a paper for carnegie where he basically reverse engineers china's whole ai governance kind of process, and there was one particular bit so I'm just going to read it. I've just um copied down what he wrote. So it's about how algorithms are the point of entry for kind of governance in china.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1954.353,
+      "endTime": 1990.18,
+      "text": "So I'm just going to read this out. So ai governance this is air governance in general. This is not just about china, but can utilize different parts of the ai supply chain as a point of entry. Measures can focus on either regulating training data algorithms or computing power, otherwise known as compute, or they can simply impose requirements on the final actions taken by an AI product, leaving the remedies up to the developer. China's approach to AI governance has been uniquely focused on algorithms. The choice is clearly displayed in Chinese policy discourse around regulation and the decision to make algorithms the fundamental unit for transparency and disclosure via the algorithm register.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1990.785,
+      "endTime": 2021.349,
+      "text": "Some companies have been forced to complete over five separate filings for the same app, each covering a different algorithm used for personalized recommendation, content filtering and more. The structure of the registry and the required disclosure reveals a belief that effective regulation entails an understanding of, and potentially an intervention into, individual algorithms. China's regulations are not exclusively focused on algorithms. The register also includes requirements to disclose a source of training data Draft generative. Ai regulation has specific requirements on the data's diversity and objectivity.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2021.369,
+      "endTime": 2048.972,
+      "text": "Many other requirements, such as that of AI generated content, reflect socialist core values and are defined based on outcomes rather than on the data's diversity and objectivity. Many other requirements, such as that of AI-generated content, reflect socialist core values and are defined based on outcomes rather than technical specifics. Where regulators focus their interventions will be an important component of Chinese AI governance going forward. I think this is really important because, for those who know very little about Chinese tech, but they know TikTok or Douyin, as it is in China that dominates because it is so good at the algorithm.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2049.333,
+      "endTime": 2085.933,
+      "text": "China has been better at algorithms for longer, I would say, than anywhere else. There are advances in algorithms and I don't know which came first the chicken or the egg but the algorithm makes sense because of China's social model and the way China is, but also it makes sense because it's a way to control that. So I don't know what came first, but it makes complete sense to me, as someone who's been here and has, you know, a level of understanding of China, that focus on algorithms. But I think it's really important because it is different to how almost anywhere else is looking at governance, certainly in terms of having, like you know, it's not just part of it, but the majority of the focus is on the algorithm.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2087.194,
+      "endTime": 2124.65,
+      "text": "Right, I think that's super interesting and, like uh uh, love Matt's work. We're actually collaborating on a on a on a piece that focuses on uh AI law proposals coming out of China. Um, hopefully get it out soon. Um yeah, so super interesting and I think that's absolutely spot on. Uh uh, but that's from maybe a year or two ago, so that's really important yeah, I know things have changed since then a little bit yeah yeah, and I think, the realization, if we look at again the two sets of ill proposals coming out of china, chinese experts, you know people who advise the government. People work in like leading legal think tanks organizations.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2125.411,
+      "endTime": 2179.757,
+      "text": "Some of them actually are affiliated with CAICT, which is the leading regulatory think tank in China, and the other one, the MIT. So, off from reading these proposals, I think the sensor is actually a little bit broader, in the sense that compute also matters. Now, again, going back to the same thing and I think Matt really kind of put it really well in, I think, the same paper which is China operates where you know Chinese governance folks. They operate in a place where they care about the world of ideas. They absorb, you know, hopefully the best ideas from the world, and so, in the case of the past year and a bit, compute thresholds has been something top of mind If you look at the AI executive order coming out of the US in October last year.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2181.186,
+      "endTime": 2242.835,
+      "text": "So the emphasis is on governing, you know, having more oversight, more enhanced oversight on the most powerful AI models. And the way to identify which of the models are the most powerful simply is to look at the training compute size, and I think they defined it at 2025 or 2024 flop. And one of the Chinese law proposals also kind of took lessons from this and included compute threshold as something that defines whether an AI is high risk. And if you're high risk, then you belong to a category called critical AI and in that category you will have to be subjected to more safety reporting. And if, within this category, you're actually developing AGI, which is the more advanced AI by the definition, then you actually have to submit yourself to a couple of things, right, like value alignment and other technical means along those lines.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2242.936,
+      "endTime": 2281.34,
+      "text": "You have to invest in that. And then you also have to do regular safety testing, monitoring for the capabilities and also the risk Capability is really interesting because that's something that alignment folks care about, right, capability jumps and all of that. And then the third part is you have to report those results to this designated set of bodies. So I think they're getting really close to what Western folks care about in the governance space. But this is one, one of the two sets of proposals, right. The other one tends to have more security focus, broader scope of things that are put under governance and regulations.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2282.705,
+      "endTime": 2291.334,
+      "text": "So, yeah, there's a debate internally happening in china, but, um, I think both are actually pretty, pretty careful um in what they're laying out okay.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2291.354,
+      "endTime": 2307.399,
+      "text": "So thinking again about how, you know, china is trying to balance this, this idea of development, versus, to at least some degree, safety. Um, you know, given its, its gap we've acknowledged that there's still a gap in terms of development of frontier AI models with the US.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2310.466,
+      "endTime": 2331.462,
+      "text": "Is safety really important and I'm looking here not from the point of view you've talked very well about, you know, certain organizations and Jop Party and the Chinese state is it really interested in safe development or is it purely interested in development as fast as possible?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2333.365,
+      "endTime": 2381.707,
+      "text": "China needs to give its own name card, you know. It needs to have its own stamp and kind of mark on the international governance scene, in the sense that you got to do governance pretty well at home and you got to come up with good ideas, you know. Share with the world, absorb the great ideas from the rest of the world. Compute threshold might be one of it. Ret teaming for models might be one of it. Safety testing monitoring, for you know, uh, growing capabilities models can be one of it. Um, and also a risk-based framework can be one of it. You know, like separating the highest risk AI from the lower risk AI, and this way you can still regulate heart, or regulate, you know, the higher risk ones and leave the lower risk one unscathed, you know, from the regulatory hands.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2382.349,
+      "endTime": 2427.957,
+      "text": "And so that's one way to do it, and her phrasing really is you know China used to participate in these events. It wants to also shape some of the rules as it participate now. And the way to do it is not to. Part of it's just through diplomacy, right, part of it's also through the agenda of you looking like a responsible AI actor, looking like a responsible AI developer and also having a good proposal, and the good proposal I think that they're considering right now is AI for all. You know, like the US expert, controls From the Chinese point of view is a tech containment. It is a way to slow down China's tech economic development.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2428.486,
+      "endTime": 2457.818,
+      "text": "That doesn't seem right for them, and so what would seem right is for such an important and powerful and transformative technology to safely get in the hands of more people, and that can mean developing nations. You know actual, you know more equal AI distribution, and I think you see that in the Global AI Governance Initiative from Xi in October last year. You also see it in what this AI legal expert is saying in terms of having a name card for China.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2459.085,
+      "endTime": 2498.987,
+      "text": "Well, I've just got a question on that. So when you talk about, you know the smaller models and the large models and where you need to govern about, um, you know the smaller models and the large models and where you need to govern and where you don't need to govern. I just wondered what your thoughts are on open source because, um, well, a couple of questions, I guess. So, first of all, like that threshold, like these open source models, at some point they're going to like reach that threshold and so how do you manage that? Because that's quite difficult, right? If you've got, if you've got stuff that's just been put out into the public domain, you've got open source algorithms that are really efficient, um, but also going back to the china element, like, is china contributing to open source?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2499.027,
+      "endTime": 2505.759,
+      "text": "How much does china use open source models? Um, you, yeah, that's that. Those kind of two points, really.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2507.125,
+      "endTime": 2559.052,
+      "text": "Yeah, I think I think China's been caring about open source software platforms and on all of that, like TensorFlow, you know, tools that are open source. They care about that for quite a while now, and one of the reason is you can say that this started under Trump. You can say that this predated Trump, but what happened regarding like whatS is willing to do in terms of cutting China's access from things that are pretty crucial and that Chinese developers all use, is pretty important to its tech development in various ways, since and I think what the expert controls did in the leader's mind Chinese leader's mind is that they need to double down on that and the way to have a say in open source development, the way to benefit from it and not to be cut off entirely from the international linkages, which is really crucial.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2559.172,
+      "endTime": 2583.797,
+      "text": "You know, as we look at the US, so many of its talents are foreign born right, and so China understands that and therefore it has the strategic planning from a few years back and the leading open-source models globally right now, quite a bit of them are Chinese. You can look at Zero One AI from Kai-Fu Lee. Again, you can look at Alibaba's QWEN I never know how to pronounce it model.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2584.567,
+      "endTime": 2586.413,
+      "text": "I call it Q-O-B-E yeah, I'm committed to this QWEN.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2588.586,
+      "endTime": 2628.679,
+      "text": "It's been doing well for months and consistently, yeah. So open source is something that the government is really keen to support on a global and domestic level. I think domestically it perhaps also makes sense because you don't have to build very compute-intensive, demanding models from scratch Again. You can just use a very good open-source model from Bai Chuan, from Ali, and do creative, innovative, value-deriving things from it. That's really important and, as I was saying earlier, the Chinese government thinks very systematically, especially after the lesson, or after many months of reflections upon the expert controls.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2631.23,
+      "endTime": 2675.651,
+      "text": "So, yeah, open source is to be supported and you can see it throughout the two AIL proposals as well. The draft, one of the drafts is more completely, you know, in support of open source. You know, if you're open source and you're providing it freely and openly and your code's accessible, then you don't have to answer to legal, you don't have to take on any legal burden. Whereas the other one, the more security conscious, I think, proposal, adds some conditions. If you have put in necessary safety guardrails when you develop it, you are conscious of the effect that your model will have on the public once it is diffused.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2677.787,
+      "endTime": 2693.961,
+      "text": "Then you know we can lessen your burden or we can remove your burden, which seems pretty sensible to me, right Like we give you the carrot, but you have to answer to certain things first. But it's hard to control something once it's open weight and open code and all that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2694.445,
+      "endTime": 2729.764,
+      "text": "Yeah, it's fascinating really. I mean like, do you think the open source models like Lama 3.2, things like that, I mean, are they being used in China? And then, you know, does that kind of blur the lines in terms of the guardrails and how you put the guardrails? I mean, obviously you can introduce guardrails to open source models, but you know there's some it wasn't even that long ago that Lama 3.2, 350 billion, I think it was was more powerful than GPT-4. It's, you know, and there's like there's obviously an ever-going arms race but it was quite impressive at the time.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2730.485,
+      "endTime": 2758.051,
+      "text": "Yeah, I think this might be an area where it makes sense for global leaders to chat. So it's something that diffuses right. It's something that Ali developed, a model in China. It's used abroad, same thing with Meta's Lama model, and open source should be encouraged in a lot of ways. I think more and more folks have come to the idea that you know like, of course it makes sense, whether it's from an anti-monopolistic point of view or you know, I'm one of those people, Christy.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2759.727,
+      "endTime": 2763.197,
+      "text": "I was right at the other end, and I've completely changed my position.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2764.549,
+      "endTime": 2819.742,
+      "text": "Yeah, so I think the important thing I don't have any idea for that, though. I think the important thing here is it's all about balance and it's not just like no regulation's good. I think here, how do we encourage open source development but also differentiate between the open-weight ones? Right, because if you're open-weight then people can change, you know, basically manipulate your model and do things that they want. That can be good or bad, and that's one conversation. The other conversation is if you are a frontier model, if you're a LAMA, if you're a META, and should you be subjected to the same regulations as the non-frontier open source models developed by, I don't know, my aunt, my friend or you know, like someone who's much less resourceful, someone whose models will pose much less large scale risk to the world?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2820.666,
+      "endTime": 2822.954,
+      "text": "I think there should be a sort of differentiation there.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2835.09,
+      "endTime": 2860.443,
+      "text": "Hopefully the discussion is maturing, but yeah, hopefully we'll get there. How does this differ from, for example, you know, the EU's AI Act? Or I don't want to use Joe Biden's doomed AI presidential order? Because, that's on its way out, but how does it differ, or how will it differ from other examples? The EU one is the one that springs to mind,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2864.008,
+      "endTime": 2865.765,
+      "text": "but if you have, better examples to compare it to, then please go ahead.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2866.085,
+      "endTime": 2906.149,
+      "text": "Yeah, so I think the EU one is, uh, it's very comprehensive, right, it's, it's a basic law, and the the us's approach is more like smaller, nimbler pieces, uh, um, but yeah, like they're, they're still pretty keen to put some things down and and have some sort of governance. You know, as you kind of mentioned. We'll see how that goes. I'm also anxiously waiting to hear more about that, how it differs. So I think what's interesting is like, what are the similarities? Right, I mentioned the compute threshold. I mentioned the awareness of frontier AI. You know the really advanced ones. You don't have to call them AGI, you can just call them the most advanced AI.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2907.151,
+      "endTime": 2952.597,
+      "text": "They pose a different type and different level of risk than the rest of the models and I think you see this very clearly in one of the Chinese AIL proposals. This actually the authors themselves they say it, one of the lead authors is actually the UN representative, like the you know high-level advisory representative that I talked about earlier, and they clearly want to gesture at the international community and policy advisors and policymakers in the West that China cares about safety and development and they don't think that it's necessarily in contradiction with each other, that it's necessarily in contradiction with each other, and one of the ways they do it is again focusing and giving enhanced regulation to the front AI stuff.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2953.878,
+      "endTime": 2957.682,
+      "text": "So that might mean safety testing and just more oversight in general.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 2964.12,
+      "endTime": 3000.087,
+      "text": "So that's one of the proposals and in addition, they also focus on coordination, right. So different levels of Chinese government main oversight bodies for AI, from close to the central government to a county level. They should all be able to like have oversight over the most advanced AI developers and making sure that they're doing the right thing and have the guardrails in place, including mandating that the most advanced AI have emergency plans, like, if something really bad happened, do they have drills to prepare for that and how do they perform? You know, reporting to the government for that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3000.728,
+      "endTime": 3045.176,
+      "text": "So I think that proposal strikes me as China Chinese legal scholars really trying to get China closer towards the global gold standard. I mean, there are always folks who think that you know, globally we're not doing enough, and that's true to a certain extent, right, but just comparing it to the global standard, I think China's definitely meeting it. And then the other proposal coming out of China is actually even more stringent. It's not just adopting this kind of risk-based approach. It's also just saying that foundation model developers, all of you have to report to us for safety, you know, like testing and results, and you have to abide by anti-monopolistic standard.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3046.085,
+      "endTime": 3089.979,
+      "text": "Don't abuse your market power, uh, you have to make sure that you are accountable to the public and so you're transparent with your, with your stuff, um and yeah, so. So that's much more stringent, and they also ask that less risky and less, uh, less risky ai developers and and producers also have to submit a request, you know, submit themselves to a licensing regime before they can develop, before they can publish those products, as long as they meet certain criteria they will like it will trigger the need for them to enter this regime. So, between the two proposals, I think it's, you know they're pretty concerned",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3094.576,
+      "endTime": 3135.537,
+      "text": "and you can see that on paper, yeah, and then, in addition, you can also. I think Matt Sheehan also recently wrote a piece on how AI safety's view in China, like Chinese view on AI safety, is changing quite rapidly on Carnegie's website as well. I think in combination, you're starting to see that all these safety discussions in the West is having a real impact in China. What I find really interesting about the more international facing proposal, the kind of less security focused one, is that they really care to mention how Chinese government and how certain producers need to be regulated in some ways when it comes to AI development.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3135.557,
+      "endTime": 3184.062,
+      "text": "That threatens like rights or public safety and interest. So one of the things that they put under special application scenarios for oversight is actually judicial AI, so how AI is used in the judicial setting, how state organs might use AI, um, how social credit systems, you know, will be applied by, uh, public organizations, um. So that's really interesting and I think that's one way for them to engage with international concerns and again building that brand or that image of China being a responsible player. So, yeah, if that's the draft or that's the proposal that ultimately gains the most traction and influence in China, that'll be really interesting to see.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3185.816,
+      "endTime": 3223.143,
+      "text": "I don't want this episode to turn into a kind of Matt Sheehan love fest, because we've mentioned him several times, but I do want to reference him again here. Um, in the paper that I talked about, which I know is sort of a year or so old, but he does talk there about how actually, you know, the U S I think he's talking about the U S in particular could learn a lot from the way China has has regulated and I think from from what you say like a lot of it just sounds has regulated. I think from from what you say like a lot of it just sounds actually really sensible and I think for anybody independently listening to this would probably say that that sounds like a far more sensible approach than what is currently coming out of the us.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3224.005,
+      "endTime": 3272.05,
+      "text": "Um, you know, I I know obviously in the us there are different reasons and the kind of shooting down of the, the kind of california legislation recently, was at least partially about the fact that it shouldn't be state-led, it should be something federal. But you don't really have anything there. I think what you've got in china at the moment, and when you compare it to the eu's ai act as well, it seems far more sensible than what they're doing. I mean, I I would say without being an absolute expert on this, but someone who has an interest in it it feels to me that at the moment, china's kind of governance and legislation seems like it's probably the most sensible, certainly in terms of large countries Would you agree.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3274.6,
+      "endTime": 3319.086,
+      "text": "I think there are a few caveats and one of them is that these two proposals, although they're drafted by folks who have been involved in the legislative process before people who are influential and connected, they're not finalized right. And although AI law drafting has been put on, has been itemized for NPC review for two years now, it's still taking a little bit of time and I think the reason here including for China, including for US, when it comes to hesitance to regulate too harshly is the geopolitical angle. It's the technological composition framing, and as long as you use this lens, you know like it will influence the legislation.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3319.506,
+      "endTime": 3367.772,
+      "text": "It will make governments a little bit more cautious, unfortunately, and prioritize that sometimes against you know, safety, although you know that does not seem to be the case in the two proposals, and China could well carve a path that is much more responsible, ai driven. But, um, we need to keep watching this. Essentially Um, and one thing that I've heard from some of the uh, some of the like legal advisors that I read online is um, maybe China will ultimately prefer smaller pieces of legislation as well as they continue to work out what they'll do for the basic law, because if you keep it nimbler, if you just regulate a segment or a particular development, then you can also gain a lot of feedback from the industry and you can iterate it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3367.994,
+      "endTime": 3387.506,
+      "text": "As the technology, which is quite unpredictable and at times move very fast, then you can adjust it along the way and you don't have to have a law that gets outdated. We talk about algorithmic legislation and the emphasis on compute and data right that changes all the time because of the needs of the technology changing all the time.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3388.798,
+      "endTime": 3431.848,
+      "text": "It's one of the biggest challenges for for any regulation and governance, isn't it that you? You're already, by the sort of nature of that kind of work, you're already behind, and in ai you're behind by potentially. You know, if you're behind by a year, you're behind by a generation, it's. It's, I think it's the biggest challenge, in a sense. Like, unless they find a way for the whole kind of the whole way in which governance and regulation works to become more nimble and to become more agile maybe they use you know AI to do that they're always going to be struggling because of the nature of the work that they do and the nature of the way in which AI is advancing so rapidly.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3433.275,
+      "endTime": 3454.621,
+      "text": "Like it's like studying AI, isn't it? You know? I I talked a few times on the podcast about me personally taking sort of you know courses in prompt engineering and being halfway through the course and being like this is pointless. This is already. When was this? Oh, it was two months ago. Oh, there's no point me doing a training from two months ago. It's already. You know what are they working on? Chat gpt 3.5. Like we've already solved this problem but yeah, I agree.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3454.701,
+      "endTime": 3459.759,
+      "text": "But then also, is this not why you regulate for outcomes rather than right like maybe?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3459.819,
+      "endTime": 3461.847,
+      "text": "rather than try to regulate the algorithm.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3462.288,
+      "endTime": 3477.506,
+      "text": "You try to regulate the impact on jobs and how many jobs it can take and, um, what it can say, like the guardrails, this kind of thing, rather than trying to regulate the, you know, like the internals of a of a large language you as wise as you are handsome, jim.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3477.646,
+      "endTime": 3513.775,
+      "text": "No, thank you so I think part of the sorry, I'm thinking because I have to say that, sorry, christy, we told listeners that at some point they would get preparing for ai and video and they would get to see jimmy's perm and they're going to be incredibly disappointed and think that we lied about his perm. But I have to say jimmy did have a perm until yesterday. Yeah, yeah, and now and now now that we've gone riding forward into the 21st century with video jimmy's sorry, christy, that was there, I went off on the tangent it's a good one for the loyal listeners.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3515.237,
+      "endTime": 3570.123,
+      "text": "um gotcha, uh, yeah, so I I think the the bottom line uh, I think matt talked about this a few times earlier is, uh, understanding that this is a share problem. And I think what, what I love and we talk about loving Machin's work what I love about the tracing the roots of AI governance in China piece is it's a global ideas, like a global marketplace for ideas, and as a governor of AI, you just pick the best ideas and you adapt it to your domestic needs and hopefully that's one way to get to a place where there's more consensus across the world. But, yeah, the sheer problem of like, how do you control something that's moving so fast is definitely there, and one of the approach that I don't know if I've touched on yet is China's keen to use existing laws.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3570.224,
+      "endTime": 3603.88,
+      "text": "You know, like be it. So there's a piece that I found from one of the legal study organizations in China is one of the big ones is looking at the BORT fiasco. You know, like the kind of like the BORT seed issues and within OpenAI and thinking, is there a way that we can mandate a board that is independent, and how do we do that and how has the West done it, or failed, or whatever and picking up lessons from there, which is really interesting, and that's going to continue.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3604.582,
+      "endTime": 3609.1,
+      "text": "That's the OpenAI board, wasn't it? I thought, yeah, exactly.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3609.16,
+      "endTime": 3610.344,
+      "text": "It should have been. It should have been.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3614.295,
+      "endTime": 3634.858,
+      "text": "I think we're heading into the final stretch. I I want to give you a bit of an opportunity to maybe talk about, um, something you're working on first and then to ask you a kind of uh sort of find a couple of questions, sort of more generally about ai. But I know at the moment you're working on understanding china's emerging, uh, chinese ai innovation strategy. So I I just wondered would you like to tell us a bit about that?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3636.481,
+      "endTime": 3686.169,
+      "text": "Yeah, so there are lots of literature on Chinese industrial policy for S&T, a lot of great work, like Barry Dalton, and I personally really like Yuan Yang's work, professor Yuan Yang's work Lots of great work out there. I think what is interesting to kind of add in this crowded space is how is this changing and how is this moving in a slightly or drastically different direction, given the challenges that China is seeing now, today, versus many years ago, you know, when its relationship with the US is just simpler and when there's no export controls on the most important technology for it to reach the goals that it set for itself?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3687.255,
+      "endTime": 3733.826,
+      "text": "So I think the way to add a little bit more understanding to how the semiconductor side is going to look like is to understand what are the systematic top level, but also bottom level changes that the government is trying to make. And so, yeah, I happened upon this term a while ago and I kept seeing it and I think it's just about time to kind of explain what it is. So I'm still in the process of working on this. But what is the new whole of nation system? What is this Xinxin Zhiguo Tiqi, and what does it indicate for China? Does it mean that it's going to try to acquire technologies at all costs, or is it trying to develop technologies at a lot of cost?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3734.896,
+      "endTime": 3777.987,
+      "text": "Is it going to take the very fundamental path to innovation, or is it going to take shortcuts and is it going to, you know, focus on supporting the private sector, or is it going to nationalize a company like Zhifu or Pai Chuan? So is the state trying to get involved in areas where it shouldn't, or is it actually trying to help in a meaningful way? Has it learned the lessons from projects like the big fund when it comes to semiconductor and all that? And it seems like they have. The data are relatively limited, because I think that this strategy started being implemented in earnest, I would say a little bit before ChatGPC or a little bit around that time.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3778.916,
+      "endTime": 3816.106,
+      "text": "This is like a working, like a work-in-progress strategy for them. I think they know, because of the technology demands and the nature of the things that they're trying to do, this strategy needs to keep getting updated and it may not work. It may not work as well as they want, but they want to give it a try. So, because it seems quite different from the strategies used before, which, you know, a lot of folks talk about civil military fusion. A lot of folks talk about how state-owned enterprises are leading. You know there's a lot of leaning on those entities. Those are still important, but that's not necessarily what they're trying to do here.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3817.147,
+      "endTime": 3822.855,
+      "text": "So that seems interesting to me, yeah",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3833.035,
+      "endTime": 3833.356,
+      "text": "question.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3833.496,
+      "endTime": 3872.615,
+      "text": "I just want to kind of set the scene a little bit. So I first came across you, christy, I was studying a governance safety course and you were not my normal facilitator but I ended up sitting in on a session that you ran and I was quite inspired actually by some of the stuff you said in that session. But that particular course we were looking a lot at kind of existential threats, and you know the more because we didn't have time, I guess, to look at everything. We were focused on the bigger and more existential threats. And you know that was not far off the time when I kind of stared down the bottom of the barrel and and went down my kind of hole of social media and and you know, down to the bottom of the rabbit hole.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3872.735,
+      "endTime": 3903.222,
+      "text": "And I think at that point I was firmly in Duma territory. I was definitely when we did the utopia dystopia episode, I was far more inclined to go down the dystopia route. But I think things have changed in the last six months, maybe in terms of my own thinking and I think in terms of actually a lot of people's thinking in where we are. But I would like to ask you your sort of general view on our AI powered future optimist, pessimist, or somewhere in between.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3905.327,
+      "endTime": 3907.832,
+      "text": "Oh dear Um uh.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3908.794,
+      "endTime": 3911.099,
+      "text": "I should have told you in advance. We're going to ask you, shouldn't I?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3911.72,
+      "endTime": 3957.203,
+      "text": "I just hope that I keep this answer short, because there's so many angles, there's barely anything that AI doesn't touch right, I think, from the geopolitical side it's, it's a little bit scary, you know, like I think the US has done a lot. It could do more when it comes to regulation and governance and and all of and. Primarily, I think, it's because it can lead by example, and you know we need to see more safety conscious and focused firms out there, but at the same time, they operate in an environment that's ultra capitalist and they need to get the next pot of gold to keep building these super important, super advanced models, and so that's hard.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 3958.436,
+      "endTime": 4007.847,
+      "text": "Having spent quite a bit of time in Europe, I think the right path is probably somewhere where capitalism serves the good of humanity and the good of people, but it's really hard, right. How do you have something like that? And so that's just something that I'm a little bit anxious about. But in general, I am also pretty excited to see that more folks you know that, I know are getting interested in governance, getting interested in AI in general. Ai literacy is a big thing, right, like, how do you have an equaler distribution of AI gains? I think also rest in more folks understanding what it is and caring, using their voice, demanding more safety guardrails working in the space.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 4008.775,
+      "endTime": 4008.955,
+      "text": "So",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 4012.402,
+      "endTime": 4020.484,
+      "text": "I think I sit firmly in the middle I'm also excited what I can do it's an uncomfortable place to be because no one's in the middle.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4020.524,
+      "endTime": 4056.065,
+      "text": "These days it's a very lonely place, so I'll I'll join you in the middle, christy if you ever listen to our optimist um versus utopia, sorry, sorry utopia versus dystopia episodes, I think we decided that to get to the utopia, we need the end of capitalism as it as it is, as it is right now. I've declared that in several episodes so yeah, like I think we're probably in agreement like like, how does capitalism work in a kind of ai utopia? That's a pretty tricky question, probably in a very different way at the very very least.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 4059.256,
+      "endTime": 4081.777,
+      "text": "Not to use too much of a Chinese phrase. But human centricity, right, we're building things that should serve us or should not be against our interests, and that goes pretty deep. Right, it goes to a pretty profound level joblessness and anxiety around that as one, and, yeah, that's so many layers to our relationship with technology.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4083.2,
+      "endTime": 4094.139,
+      "text": "Yeah, we can do another. We'll do another two hours on that subject in the future, but probably we're in danger of doing another two hours right now. So let's stop there, I guess.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4094.981,
+      "endTime": 4144.076,
+      "text": "Yeah, so yeah, thank you, that is. I mean, we are an hour and 45 minutes in. I think we could have gone a lot more in my notes and questions I had. I've I've skipped over at least two sections, but yeah, that is fascinating. I hope that people who are listening um, if you've got an interest in china, well, you will have obviously found this interesting. If you hadn't got an interest in china, then at least, if nothing else, I think this will have hopefully opened your eyes to what's happening. I think we mentioned this several times. You know, we're not here to promote china, we're not here to say that you know China is is right or wrong, but what we would like to do is people, you know, face things with their eyes open and that they understand what is happening in China through something other than the lens they see in mainstream media.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4144.517,
+      "endTime": 4186.519,
+      "text": "And that nuanced view has some very negative and some very positive aspects to it. But I think, in the kind of AI space you you know, it's often portrayed that this is the arms race and you know, we in the West, which really means the US, need to get there first, because US good, china bad. And I think, when you look at the kind of more nuanced version of that. But also you look at, you know how China ties this in, like you said, to its kind of overall strategies, its national security. I think that should give at least some degree of reassurance that you know China is thinking about this in the right ways, because it is their national security in the same way as it is everybody else's national security.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4186.559,
+      "endTime": 4227.522,
+      "text": "So it is in their interests for this to happen in a way which you know doesn't all go completely wrong yeah, I think, yeah, I think, I think all governments it's I mean the things we talked about in the episode today around what's out in the open in terms of governance. Obviously all governments are behind the scenes looking to employ ai probably militarily and all this kind of stuff which we know nothing about really, and that's a whole different kettle of fish. But I think, in terms of what we're talking about today, definitely taking a balanced view on all of this, I think is a very sensible idea and I think Christy has definitely given us that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Kristy Loke",
+      "startTime": 4229.796,
+      "endTime": 4233.543,
+      "text": "Thanks for giving me this voice too. Chat with you guys thank you very much.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4233.664,
+      "endTime": 4260.339,
+      "text": "And, for anyone listening, if you have a look in the show notes, we will link in sort of christy's work and her social media linkedin etc. So if you want to follow her, find out more about china's ai and do that. So, christy, thank you so much. Uh, we will make sure that we post you a preparing for ai hat. It will take a while because we can only afford to ship it via container ship, but it should get to you some point early next year. Oh, oh, oh, oh, oh, oh, oh, oh, oh oh.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Castles in the Cloud",
+      "startTime": 4269.557,
+      "endTime": 4317.818,
+      "text": "Trump builds castles in the cloud, silicon dreams rising proud 500 billion for towers of might, while wisdom whispers in the night. Eldman chasing digital gold While shyly stories centuries old Silicon dreams in marble halls. While eastern whispers scale the walls. In this dance of less and more, truth flows through a different door. Oh, oh, oh, oh, oh, oh,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Castles in the Cloud",
+      "startTime": 4324.843,
+      "endTime": 4363.563,
+      "text": "oh, oh, oh, oh, oh, oh. 穿越到一所的迷霧, 神秘打開門. 不需華麗的景點, 只需驚心心求證 三十百的笑能流動 原則步伐抖發的創新. 回顧夢想 應淡定. 東方之威 越高強. The light of the East is stronger than the moon. The more you burn on this stage, the more freedom you can offer.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Castles in the Cloud",
+      "startTime": 4367.135,
+      "endTime": 4383.762,
+      "text": "Western prophets preach of scale. East side is the road of the fumes, where algorithms dance with how the old world, beyond the new,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Castles in the Cloud",
+      "startTime": 4388.379,
+      "endTime": 4394.183,
+      "text": "two forces older than our dreams, tire shoots to home. Now,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Castles in the Cloud",
+      "startTime": 4399.669,
+      "endTime": 4399.709,
+      "text": "oh,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Castles in the Cloud",
+      "startTime": 4406.135,
+      "endTime": 4414.689,
+      "text": "silicon dreams in marble holes. 東方之未月高牆.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Castles in the Cloud",
+      "startTime": 4418.8,
+      "endTime": 4441.524,
+      "text": "In this dance of less and more 真理自由別安放. As morning light breaks through the haze, 树去埋功献笑光. Where east and west is a twine,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Castles in the Cloud",
+      "startTime": 4444.678,
+      "endTime": 4460.581,
+      "text": "未来就乘风向. And in the space between the dreams, 真理流淌如彩水. I'm not afraid of the dark.",
+      "chapterIndex": 7
+    }
+  ]
+}

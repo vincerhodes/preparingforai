@@ -1,0 +1,1322 @@
+{
+  "slug": "s2-2025-01-06-battle-of-the-systems-geopolitics-china-sh",
+  "buzzsproutId": "16383716",
+  "title": "BATTLE OF THE SYSTEMS: Geopolitics, 'China Shedding', Energy and AI, with Grace Shao",
+  "date": "2025-01-06T12:00:00.000Z",
+  "season": 2,
+  "durationSec": 4557,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16383716-battle-of-the-systems-geopolitics-china-shedding-energy-and-ai-with-grace-shao.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Discover the transformative power of AI and its profound societal implications with this week's guest, Grace Shao. A distinguished writer and researcher, Grace offers unparalleled insights into global AI infrastructure, unraveling how Chinese big tech firms influence geopolitics while reshaping the global market. Get ready to explore the intriguing phenomenon of \"China shedding,\" where Chinese tech companies strategically rebrand and relocate, often to Singapore, to appeal to international audiences. Through Grace's expertise, we unravel the complexities of Chinese tech innovation and its critical role on the world stage. We journey through the contrasting AI infrastructure capabilities of the US and China, delving into the strategic advantages China gains through its command economy. As we highlight the challenges posed by energy scarcity in the West, we also ponder the contrasting strides made by China in renewable energy. From the innovations spurred by AI to enhance energy reliability to small modular reactors' potential as a reliable energy source, this discussion promises to shed light on the intricate dynamics of the global tech competition. Join us as we critically assess the interplay of geopolitics, energy, and technology in shaping the future. We wrap up with a fascinating examination of user interface experiences across cultures, reflecting on how these design nuances shape technology satisfaction. From corporate strategies of Chinese tech firms navigating US restrictions to the evolving landscape of AI models, we cover the entire spectrum of innovation and adaptation. Debate emerges as we explore the philosophical clash between East and West, urging a shared human experience as a bridge for understanding. With a promise of thought-provoking insights and engaging discussions, this episode is a must-listen for those curious about the future of AI and its societal impact. AI Arms Race Far From Over: Chips is Only Half the Game, Infrastructure is the Other Deep Dive: Is Huawei like China’s Nvidia plus Google? Made in China AI Apps That You Are Using - Developed by ByteDance, Alibaba, Tencent, Meitu, BaiChuan, MoonShot AI, Baichuan AI, MiniMax AI Learnings from East to West Bitcoin Mining for AI Data Centers? 2025 Predictions, New Year Plans for AI Proem, and Appreciation for Collaborators and Readers Release of OpenAI's o3 has completely changed the debate on whether AI scaling law has hit a wall",
+  "summary": "Interview with Grace Shao (AI Pro-Am on Substack) on the US-China 'battle of the systems': energy, not GPUs, is America's real AI bottleneck while China's command economy builds data centers in weeks; the East Data West Compute policy filling poor western provinces with compute; why renewables alone can't power AI; Singapore's data-center ban birthing a Johor boom; China's open-source champion Qwen; 'China shedding' via Singaporean rebrands; and why the AI race may be won at the application layer, not the model layer.",
+  "keyTalkingPoints": [
+    "Grace's Fortune op-ed thesis: the US AI bottleneck is energy - power shortages, long lead times for transformers and permits - while China's command economy rallies land, energy and labor in weeks",
+    "East Data, West Compute: data centers in poor provinces like Guizhou, Gansu and Inner Mongolia with cheap land and energy serve the urban east; data centers bring few local jobs by design",
+    "Renewables aren't a full answer: solar and wind are intermittent with limited dispatchability, and lithium batteries store hours not weeks; big tech buys renewable quotas - unfair to call it pure greenwashing, but they're not literally running on renewables; Singapore's data-center ban meanwhile birthed the Johor boom with ByteDance as biggest client, while Canada and Australia say no on citizen-burden grounds",
+    "Chips: nothing Chinese competes with Nvidia yet (Joe Tsai: at least two years behind) - but if China cracks chips, its energy advantage compounds; the winner may be decided at the application layer (Robin Li: 'the winner in AI will be an application')",
+    "Qwen is the most competitive Chinese LLM - open source, on Hugging Face and ModelScope, cheaper than Western models, with much of its developer usage outside China",
+    "Chinese consumer apps (Meitu, CapCut/Jianying, Taobao) are functionally superior - '10x the functionality' of Western equivalents; 'China shedding' sees firms rebrand as Singaporean to escape geopolitical stigma (Shein, Hill House), and Grace ends 'firmly in the middle': AI is another internet, exciting for brain-work but risky for inequality and safety"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Energy, not GPUs, is the binding constraint on US AI - and AI might one day help solve nuclear fusion",
+      "Finished, advertised commercial applications like ElevenLabs conversational AI are the next big wave, not raw models",
+      "He uses Chinese LLMs daily for translation and sees the application layer, not the model layer, as the real battleground"
+    ],
+    "matt": [
+      "He uses Tongyi/Qwen daily but distrusts Chinese consumer models' answers - one weird hypermolar verdict soured him on Tongyi",
+      "China's UX-maximalist super-apps are genuinely superior for image and video editing - 'far superior to anything I've seen from Western apps'",
+      "The US-China AI contest is an arms race where energy is China's trump card; the US needs permitting reform, not just chip controls"
+    ]
+  },
+  "predictionIds": [
+    "s2-2025-01-06-battle-of-the-systems-geopolitics-china-sh-3797.7-ai-is-another-internet-it-will-change-how-we-con",
+    "s2-2025-01-06-battle-of-the-systems-geopolitics-china-sh-3848.6-a-major-ai-risk-is-that-the-rich-get-richer-and-",
+    "s2-2025-01-06-battle-of-the-systems-geopolitics-china-sh-1565.4-maybe-once-ai-gets-smart-enough-it-will-help-us-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "A Suno Voice",
+    "Grace Shao"
+  ],
+  "chapterCount": 8,
+  "turnCount": 177,
+  "chapters": [
+    {
+      "title": "Exploring AI Impact on Society",
+      "startTime": 1
+    },
+    {
+      "title": "Infrastructure Challenges in AI Development",
+      "startTime": 383
+    },
+    {
+      "title": "Challenges in Renewable Energy Development",
+      "startTime": 1078
+    },
+    {
+      "title": "Data Center Dynamics and AI Innovation",
+      "startTime": 1615
+    },
+    {
+      "title": "Corporate Strategy Amid Tech Innovation",
+      "startTime": 2239
+    },
+    {
+      "title": "Comparison of User Interface Experiences",
+      "startTime": 2926
+    },
+    {
+      "title": "Future of AI in Society",
+      "startTime": 3548
+    },
+    {
+      "title": "The Clash of Two Worlds",
+      "startTime": 4378
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.783,
+      "endTime": 36.929,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. We were in heaven, you and I, and when I lay with you and close my eyes, our fingers touch the sky. I'm sorry, baby, it's alright. Welcome to Prepaying for AI with me, ali.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 36.97,
+      "endTime": 39.564,
+      "text": "Baba and me, one of the 40 thieves.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 40.466,
+      "endTime": 59.445,
+      "text": "So you may have guessed, or you probably wouldn't have guessed, but the very observant among you may have guessed it or you probably wouldn't have guessed, but the very observant Munkum may guess. I haven't said what they might have guessed, yet I probably didn't have guessed it. Has anyone guessed that this is another of our series of China-themed episodes? Oh, I knew that. Would you have guessed?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 59.505,
+      "endTime": 63.107,
+      "text": "it. No, it's always one of our audience.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 63.36,
+      "endTime": 95.236,
+      "text": "This is one of our China themed episodes, anyway, and Alibaba, as well as the person who accompanied the 40 thieves. Is that what he did? Yeah, it's got nothing to do with China, though. No, but also Alibaba is a Chinese tech company. So do you see what I did? Yeah, I think I was just trying to throw people off. Yeah, so well, this I was just trying to throw people off. Yeah, so well, this is a good start. Is anyone still listening to the episode? I'm not. I'm not sure If you are still listening to the episode. This is an absolutely cracking interview we did with Gray Xiao, who is a China writer, researcher and consultant.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 96.058,
+      "endTime": 125.911,
+      "text": "She's worked with loads of different media organizations. She's written with loads of different media organizations. She's worked in various other jobs loads of different media organizations. She's worked in various other jobs. She's like genuinely fascinating but a cracking interview. Like we touched on, um, a lot of stuff around energy and ai, with, you know, a bit of a focus on china, but we talked about the us as well. Um, we also talked about chinese apps, the kind of chinese ecosystem where it's better than the us, where it's different. Um, it was really good, wasn't it? It's a really good interview yeah, it's a fascinating conversation.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 125.951,
+      "endTime": 148.288,
+      "text": "I think, although a lot of this will be so, it'll be unfamiliar territory for a lot of people who are like western a lot of our listeners who are from the west, um, but it was. I found it super fascinating, and also some of the stuff around, how actually they're some of the most used apps in the world, um, which I don't think a lot of people will be aware of. So, yeah, fascinating and we talked.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 148.508,
+      "endTime": 182.702,
+      "text": "One of the things she talked about, which she she really knows a lot about as well, is this uh kind of china shedding it's called. Whether these businesses tech businesses basically that are, you know, chinese or began in china but are now in uh, the distancing themselves yeah, most of them being in Singapore and the way that they've kind of distanced themselves and a lot of these apps that people don't know are Chinese that they're using where they're based in Singapore, but it's kind of Chinese knowledge, chinese money, chinese expertise that has created them. So yeah, it's a cracking interview, so it's quite a long interview.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 183.743,
+      "endTime": 194.236,
+      "text": "So I think we'll just get straight onto it, me and you will maybe go into the other room, take five minutes, take a timeout, maybe have a quick nap and then we'll go back and interview Gratia.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 195.46,
+      "endTime": 198.389,
+      "text": "Yeah, yeah, yeah, before the interview that we did already, that you already mentioned.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 198.67,
+      "endTime": 218.947,
+      "text": "Yeah, but keeping up pretenses, because I think most people watching all this thing. What pretenses you just said we've just interviewed her, but most people watching and listening to this interview wouldn't understand that temporally we could have done that. They will think we're literally about to go into another room and then when we come back in we'll do that interview.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "A Suno Voice",
+      "startTime": 219.18,
+      "endTime": 221.78,
+      "text": "So they wouldn't understand that we could possibly have recorded the interview first.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 221.82,
+      "endTime": 229.388,
+      "text": "I've given the game away there and done this second and you've completely ruined that and I'm going to do the song before all this have you done it?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 229.428,
+      "endTime": 230.369,
+      "text": "yet. No, I haven't done it. No.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 230.989,
+      "endTime": 238.156,
+      "text": "We should probably add as well the rest of the episode's better than this, so do stick with it. And more coherent, more coherent.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 258.005,
+      "endTime": 266.401,
+      "text": "So see you on the podcast. Grace, and I'll hand over to you to introduce yourself to our audience thank you so much for having me today, matt and Jimmy.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 267.282,
+      "endTime": 304.896,
+      "text": "I'm Grace, the author of AI Pro-Am on Substack Really, it's just a nerdier way of saying preface so what I try to do is tell stories about the global AI infrastructure build-out. I write primers, explainers on big tech, ai strategies, especially with a focus on Chinese big tech, given my background, having worked in Chinese big tech and how it's been affecting geopolitics and been affected by geopolitics. Now, the reason I started this newsletter and we talked about this a bit before coming on this podcast it was really threefold. First, I was just so fascinated by the development of AI technology.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 304.916,
+      "endTime": 340.143,
+      "text": "I actually quit my corporate job to pursue this full time, and not just really from a consumer perspective, like all these fancy apps, but also just how it's shaping our society, politics and economy in the future. Number two, I started off my career actually as a tech reporter and I think it's really becoming an independent writer research. It's really bringing me back to my roots and I'm able to kind of work on, you know, the journalistic side of things as well as bringing my business acumen and kind of bring it all together. And, like I mentioned, I worked at a lot of big tech firms and helping with their international PR strategies.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 340.263,
+      "endTime": 375.35,
+      "text": "Over the last couple years, I've realized that a lot of the innovation is being overshadowed by geopolitics right now and I do want to really kind of shine light on that. And the last bit, which is really related to the second thing, is, given my connection with media and all my ties and friends in journalism, I'm seeing a lot of great talent and reporters leaving this area being me in Hong Kong and you guys in China and I think that the world needs to see and hear the stories out here. So I do try to dig those out or meet interesting people and write about them and share with the world.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 377.653,
+      "endTime": 393.16,
+      "text": "Fantastic, thank you, so I think that's super interesting. I think our first talking point was kind of around global infrastructure challenges with AI, sustainability and a little bit on developed and developing countries.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 393.501,
+      "endTime": 449.208,
+      "text": "Yeah. So I think to start off with, we look at just the two biggest players right, the China and the US, and you know they're kind of two parallel universe and we've seen that with consumer technology companies as well, and now with AI, and you know there's a lot, a lot of hype around. You know China not being able to access GPUs and advanced technology for hardware, but really I wrote an op ed for Fortune, I think about four months ago, or even four or five months ago, and I was saying that, look, it's actually, that's part of it, that's part of the arms race, if you must put it. But really the other part of the equation here is the ability to rally up energy and power and a lot of infrastructure demand needed for AI development, which is, like you know, we all know, for training, for inference, we need to have massive compute power.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 449.85,
+      "endTime": 490.644,
+      "text": "So what I really kind of wrote about in that article is that you know the bottleneck right now, especially for the US, is in energy and, as we know in a lot of headlines, the US is actually experiencing a power shortage and there's a long lead time for a lot of things needed, such as like transmitters, and you know we understand, in the US there's also like land permits that might take a long time for a lot of companies to kind of, you know, acquire new power plants. That takes a long time. But now, like on the other side of the world, china, for better or worse, the command economy actually gives it a huge upper hand and what it means.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 490.704,
+      "endTime": 531.105,
+      "text": "That is like and we saw this with renewable energy 10 years ago, right, and we saw this with even cloud computing data centers a couple of years ago what China's economy can do and Chinese government can do is actually rally up private and public sector resources really quickly so they can build up, you know, data centers really quickly in the west of the country and then collect data from the east, where it's more urbanized. So actually in China there's even a policy called East Data, west Compute. So really you know a lot of unurbanized areas in the West, like, such as Inner Mongolia, gansu, guizhou.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 531.507,
+      "endTime": 574.514,
+      "text": "These are places that, frankly, aren't even really good land for agriculture anyway and they're just sitting idly there, and then you have like literally more than a billion people sitting on the coastal cities of Beijing, shanghai, shenzhen you know near me and Hong Kong, and all of these consumers are constantly connected to the internet and there's so much data to be analyzed and they're able to kind of delegate that resource really quickly and also bring in not just capital and, like I said, land, but also call on energy from private sectors. You know, like I said, a huge advantage in their existing renewable energy capacity right now and also, just frankly, like cheaper labor and cheaper talent to really rally that up really quickly.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 575.02,
+      "endTime": 590.252,
+      "text": "So that really garnered a lot of interest, that article, and I think I've just been really building up on that and really diving deep into the infrastructure landscape for AI and then a lot of how big tech in China are optimizing their advantages they have here.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 592.762,
+      "endTime": 624.437,
+      "text": "Something I read in one of your sub stacks talking about energy was about this making Guizhou. So Guizhou province, for those that don't know, is a province right in the south of China. It used to be the poorest province. I think it's now moved up. I think it's about the fourth poorest now, but it's still, you know, generally a pretty poor province with a pretty nice kind of fairly rich capital city but a lot of kind of impoverished countryside. And that appears to be is it like a pilot zone for data centers? Is that right?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 627.68,
+      "endTime": 671.041,
+      "text": "um, is it like a pilot zone for um, for data centers? Is that right? Yeah, yeah, so guizhou was, uh, actually it started off as a cloud computing center, so this was so alibaba invested heavily in guizhou for that. For this was like I don't know, a couple years ago, five, six years ago. But you know, um, going beyond guizhou, we're seeing, like henan, uh, inner Mongolia, like I said, gansu. You know, along those areas, like you mentioned, that mostly like rural areas, mountainous areas or just like prairies and deserts, are underutilized. Those are land that the government is saying look, you know, to private companies, come and build their data centers here, we will find a way to help you build up infrastructure needed, whether it's roads or, you know, local government approvals.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 671.362,
+      "endTime": 708.167,
+      "text": "We will help you sort that out. And then, on top of that is the those regions I just mentioned. Their energy cost is extremely low actually, in fact it's, I think it's, I read somewhere it's like lower than the cost of like industrial energy, um, industrial power, than even, say, like india or like mexico. So it's really in these companies advantage, say like alibaba or byte dance or whoever, to try to find, um, you know, partners to help build up data capacity, of a data center capacity out there I'd just like to go back a little bit because I think some of our listeners will be unfamiliar with all this.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 708.649,
+      "endTime": 733.214,
+      "text": "I mean, I've in the us, for example, because we talked about the us right at the start, so I've heard I I actually knew that they were. There was problems around, like the numbers of chips and numbers of gpus and data centers they had in one place because it was overloading the power grid. Is it more that that's the case or is it literally that there isn't enough power production, or is it both?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 736.42,
+      "endTime": 797.592,
+      "text": "Frankly, I don't know too much about the chips overloading bit, but I think what I've been researching is just, frankly, there's not enough energy right now. I think in a lot of Western countries Canada, where I'm from, also is facing this, which is like you have a huge mandate on green energy to be part of the grid. So under a Biden administration right now, you know there's a lot of requirement. So, that said, you know gas and coal and these traditional energy sources have not really been optimized per se for economic use, but obviously it's better for the environment. So I think you know when we see a Trump administration come in, this might shift a little bit right now, and another thing, as I mentioned earlier, kind of passing is just like in general, for like anything in the US US to build up really quickly it takes a lot longer because, like say, the great thing is there's like a check and balance and law and order, but the thing that means also is like there's no shortcuts.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 797.632,
+      "endTime": 834.589,
+      "text": "You know you could be meta, you could be Google, you could be who, alphabet, whoever sorry, google's alphabet, but you can be meta or alphabet, but you still can't just like jump hoops really quickly. You still have to go through all the um paper filings to get your permits, to get your energy quota, to get you know recruitment, labor and your safety checkups and all that stuff to done, and that's how it takes a long time, um, whereas in china, like you know, if it's a national effort then it just gets done. Like you know, roads get built in like three days, buildings get built in like three months, like things just move a lot faster in China.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 836.703,
+      "endTime": 844.313,
+      "text": "I had an anecdote and a question. My anecdote was and this is probably a good example of how you know, when China doesn't want it to happen, they'll stop it,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 849.04,
+      "endTime": 877.695,
+      "text": "and in the example you're giving, you know that they will get everything behind it. I think about five or six years ago, I remember that sort of bitcoin miners had focused in on kind of rural sichuan. The such has quite a lot of hydro power um, and they'd focus in on rural sichuan because you know there's this abundance of energy that's really cheap. And then they all got kicked out, and I think they pretty much got kicked out of china, but you know, as an example, if they found these kind of power sources. But obviously you know, cryptocurrency is not something that um china is obviously you know supporting, whereas obviously the development of ai is very different.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 878.037,
+      "endTime": 910.743,
+      "text": "And that was just an anecdote. But my question was these provinces. I I mean, I think it's probably actually pretty transparent to me, knowing the provinces, but I think for our listeners it wouldn't be that the choice of these provinces is is this political? So is this, you know, the choice of using those provinces rather than somewhere on the East Coast or rather than somewhere in Guangdong, that's, near Hong Kong and Guangzhou and places like that or something that's near Beijinging. Is that a political decision? Because it's a way of, you know, improving the the lives and improving the economy of of what would otherwise be rural areas?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 911.968,
+      "endTime": 915.641,
+      "text": "And if so, why don't they put them in dongbei? Because they they need it in the rust belt, right.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 915.862,
+      "endTime": 949.453,
+      "text": "But they don't seem to be building. They are oh, they are okay, no, no no, they are, they're all over the country, they're, they're also in guangdong. I think they are, they are. I think it's just like the story is sexier for the west because of what you mentioned, because it's not just, oh, another industry, you know, like you know, you have mass agriculture in dongbei, you have all kinds of innovation and trade and manufacturing, guangdong. You have technology, but the thing is, in these western regions they frankly don't have that much going on for them in terms of economic like returns, things to generate economic returns, um.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 949.594,
+      "endTime": 985.063,
+      "text": "So I think a lot of attention is put there, but like um, but also, like I said, it's just cheaper land, cheaper um energy and it's not like. So this brings me back to the second point of like why it could be, actually beyond environmental reasons, why, if some people think it's not a good idea to build up data centers, it actually doesn't bring in that many jobs. The reason is, like, actually, data centers can just be self-run, so you don't really want to build up in Guangdong and take out other people's like resources, essentially like, why eat into the grid that you know people in Guangdong need to use?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 985.143,
+      "endTime": 1008.592,
+      "text": "For you know ktd, but, like you know, if you put it out there in the west. It's unused land, unused energy supply and, like you mentioned, there's a ton of renewable that can be um be part of the grid, which is better for the environment as well and cheaper to generate right yeah, so yeah, and on the renewable point, I mean you mentioned a little bit about china and how they've got ahead with renewable.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1008.612,
+      "endTime": 1016.367,
+      "text": "Would you would you want to elaborate on that a little bit because again, I think a lot of our listeners will be kind of fairly unfamiliar with china and this kind of topics?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1017.851,
+      "endTime": 1064.14,
+      "text": "yeah, I think, um, you know, look, I'm not a renewable energy expert, anything. What I can say is china was really, really lagging and renewable didn't really exist in terms of like this industry essentially 10 years ago. And we all saw in 08, when the olympics happened in beijing, like beijing got blue skies again. That, and a bit of personal touch is you know, I, I had severe allergies when I lived in china, from 10 years old to 14 years old and I'm not going going to age myself there, but give you a rough idea and it was because it was burning coal like crazy and no one understood the pollution consequence and no one, actually the average civilian, didn't even understand that was caused by pollution caused by coal burning, because up north it's all very, very cold.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1064.16,
+      "endTime": 1104.666,
+      "text": "Pollution caused by coal burning because in the up north it's all very, very cold. And, um, essentially, one is, I think, for international competition uh, you know, paris, climate agreement, all these like, like big political reasons but also for the safety and health of their own people. The chinese government decided to clean up and actually cut coal and uh renewables and in the last 10 years it's now actually one of the biggest renewable generators in the world and, like I said, there's vast land on the West, so we have a lot of solar. Some of the biggest solar companies are all Chinese, like Longzi off the top of my head, like Trina or something.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1104.88,
+      "endTime": 1140.461,
+      "text": "There's quite a few of them. They're probably listed. They're huge, right. And then you have and they're actually also the whole supply chain of, like, solar panel manufacturers are all coming from China as well, by the way, and that was another huge contentious topic for the Biden administration, I think, trying to like basically ban a lot of the imports into the US, right. So that's a whole different topic. But my point is, I guess, like China has that huge advantage, and my point about renewables is that China is able to rally private and public sectors really quickly. 10 years, that's it. I don't have allergies when I go to Beijing for work trips anymore.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1140.501,
+      "endTime": 1175.771,
+      "text": "You know the air is cleaner, you know's, it's just much more pleasant, um, and I think it's really, really been great. I'm not saying it doesn't the country doesn't use coal anymore, um, I just think they've added a lot of renewable to the mix, um. So, on the topic renewables, I do want to touch on um, which is like why a lot of people even ask me when I'm writing about these topics. They're like oh, why can't we just use renewables? To you know, power data centers? Because you know, like wouldn't that make sense? We need power. Everyone's freaking out but, like you know, everyone's saying let's use renewables.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1176.252,
+      "endTime": 1214.75,
+      "text": "But it's not like that easy and I think a lot of big tech are actually getting a lot of hate and it's really, it's's not unfair, it's just hard on them because the reality is they, a lot of them, what they're doing, like, say, the amazons and the facebooks, whatnot they're purchasing, um, like green energy, basically quota from like the grid. The issue with renewables right now is that you know it's just not really reliable. Yet Not saying the technology is not really reliable, it's just that renewable energy has its own nature, so it has limited dispatchability, which means, like solar and wind energy, and inherently intermittent, right?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1214.81,
+      "endTime": 1245.731,
+      "text": "So you know, during the day we got some sun, at night we don't. You can have some wind, then some days you don't, and that means that actually the amount of energy generated would not be consistent. But with AI data centers you can't have like glitches, you can't just be like oh, it's generating like power, we got a data center running. All of a sudden it just stops. So you know we have that's one issue. Then it's an inconsistency, right, like I kind of already alluded to that, but basically, because it's intermittent, it cannot be guaranteed. So it's not only just the timing of it cannot be guaranteed, but the amount of it cannot be guaranteed.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1245.751,
+      "endTime": 1263.312,
+      "text": "So in the summer we'll have a lot more power from solar in fact a lot of being wasted, and then during peak hours, but then, like during the winter, you will have maybe less hours of sunlight, right, and then another issue that sometimes a bit overlooked is just the fact that we don't really have adequate storage solutions right now. So",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1268.5,
+      "endTime": 1302.267,
+      "text": "you know, in China, we all know about these lithium battery powered EVs or so-so. They're super sleek, they're very easy to charge. Those batteries are great for EVs and they're great for our smartphones because they're light, they're very fast to charge, albeit despite some you know safety concerns here and there. In general, they're not really good with storing power, a lot of power for a really long amount of time. And it goes back to my issue, my point about like how you know if you only can store a little bit of power, what if it runs out in the middle of the night and you still have don't have solar to run immediately.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1302.928,
+      "endTime": 1324.931,
+      "text": "So I think there's a lot of innovation going on right now, and it's innovation driven by AI and a lot of experts are using AI to try to find solutions to power AI. So hopefully this is going to be a vicious cycle, because it would be great for us to have more reliable renewable energy, not just for this AI data center infrastructure piece,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1331.2,
+      "endTime": 1375.636,
+      "text": "but just in general. But right now what happens is usually just like the renewables being generated just goes to the local grid and then whatever is needed to power the data centers would just be purchased by, say, the big tech whoever, or the data center operators, managers, and then the hyperscalers and they would just use that. So I think it's a little bit unfair to say that these big tech are greenwashing their energy consumption, but the reality is it's not like they are literally using just renewable to power the data centers or whatever use they need. It's like they are just using whatever amount of power they need, but they will purchase renewable energy from the grid to offset their carbon yeah, I mean, I've even heard um sort of mention of nuclear power again.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1376.037,
+      "endTime": 1379.647,
+      "text": "Uh, in terms of, I mean, obviously that's a much power, yeah fishing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1379.667,
+      "endTime": 1384.43,
+      "text": "Yeah, the little micro. That not micro. They're like mini broils royce are developing, aren't they the kind of mini?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1384.45,
+      "endTime": 1403.452,
+      "text": "reactors, which is potentially you could just buy modular reactors. Yeah you basically have one next to your data center that powers it but I think I mean I I don't know, I don't know what you think about that, but I've heard, I've heard mention of nuclear power and I think part of that's to do with, like these data centers are quite remote and people. Nuclear power has obviously got a really bad rap.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1404.142,
+      "endTime": 1443.21,
+      "text": "Um, but also there's these like new technology, new sort of modular reactors and new potential technologies coming online yeah, so there are these like smrs, like small modular reactors like you're mentioning, that like are popping up in the us and I think china is looking into it as well. Um, but the reality, like is, like you said, it doesn't have a really good rep, um, and for a few good reasons, like the most recent tragedy we saw was in fukushima and you know, even recently, you know even recently, you know us sitting in Asia, like people are freaking out about the seafood from the water that they released from Fukushima nuclear reactant material into the ocean.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1443.27,
+      "endTime": 1447.673,
+      "text": "Right, they're like freaking out. I think people were hoarding sea salt or something in Hong Kong at one point.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1447.693,
+      "endTime": 1481.267,
+      "text": "It's quite funny Because they're like we can't buy salt anymore when nobody was eating. No one in beijing was eating any japanese seafood and uh. If you went into a restaurant that sold sushi and asked them where it's from, and they would always say norway, and uh. And you'd kind of watch to see if they could keep a straight face when they said it, I think that's kind of died off. I think, like most stories, it's kind of yeah, it's faded a little bit, but there was. There was a point when all the japanese seafood, and actually probably all the seafood that just comes from bohai or you know somewhere in the north, of yeah, yeah and miraculously overnight just just become norwegian.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1482.43,
+      "endTime": 1483.613,
+      "text": "That's really funny yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1483.653,
+      "endTime": 1518.589,
+      "text": "So I think there's that and like it is a very, very serious concern. And I think you know, um, I think even recently I was listening to all the all In podcast and Chamath and them are having this like whole argument as well. They're like, would you be okay if you know? Say you're living in Minnesota and down the street you have like a nuclear reactor. And then they're like, well, you know how far is it, but like, how far is it? Is it safe? We don't know, right, Like say, like you say, oh, it's totally fine if it's like 100 miles away from me, but what if it's close to a school? Are you morally okay with it?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1518.61,
+      "endTime": 1563.189,
+      "text": "Right, Like, if it does explode. So obviously there's still a lot of concerns. But I do think right now a lot of people are saying hydro, nuclear, would be the most reliable renewable energy source if we do pursue renewable energy as a more stable energy source. But the issue with hydro is that we can't control where there's a dam, where there's a lake, there's not that much water you can play around with. So obviously solar and wind gets all the attention just because it's easier to just, like you know, plot them around. But they have their issues. So right now we don't really have a full renewable solution yet, but hopefully there's more innovation to come in this area.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1565.401,
+      "endTime": 1580.87,
+      "text": "Yeah, you never know, Maybe maybe once AI gets smart enough it'll help us solve nuclear fusion, and then we can just power everything with that, and then it will that and then it's really scary destroy us all yeah, no, seriously destroy everything else.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1580.891,
+      "endTime": 1591.568,
+      "text": "Yeah, yeah it's like it's it's gonna be so smart that we won't even need a brain anymore, and then I don't know I if I'm. I will talk about that later you can.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1591.588,
+      "endTime": 1615.493,
+      "text": "People can go back and listen to the covid episode where I declared that we need ai because people won't have brains left. So there's a little tidbit for people that want to go back and listen to one of our earlier episodes hot takes is that like a side effect of covid I don't want to spoil it. You'll. You'll have to. You'll have to listen to the episode if you want to know my hypothesis. It's pretty far out uh.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1615.613,
+      "endTime": 1626.543,
+      "text": "So yeah, we want to talk a little bit about the dynamic between sort of developing and developed versus developed countries, um, and why. You know what they're doing with data centers?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1628.609,
+      "endTime": 1676.532,
+      "text": "yeah, I think it's like quite interesting. Um, so I just recently wrote a couple pieces on like canada, malaysia and thailand, just all uh building up data centers and and I think the concerns are very different. And just putting on my like social justice warrior hat for like a hot second here is like it's really interesting to see like countries like, say, say, malaysia, right, um, joe whor is right now really really hot amongst a lot of data center investment circles. They're all talking about it and the reason is it's getting massive build-outs and basically Singapore banned data centers and Johor is this region right above Singapore and they're creating this like free trade zone agreement with Singapore.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1676.62,
+      "endTime": 1712.886,
+      "text": "They're going to like apparently launch like a no passport requirement, like travel plan and it's basically there like the infrastructure is there to support all the AI companies and the big tech in Singapore and, as we know, like most major US and Chinese big tech headquarters in Asia are all in Singapore and that's like because Singapore has become this like neutral safe haven for like finance and technology in the last couple of years, given the geopolitical tensions. So we got like ByteDance, we got like Facebook, we got Google. Netflix like Tencent, like Tencent games are all there.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1716.22,
+      "endTime": 1744.717,
+      "text": "Netflix, like Tencent, like Tencent games, are all there and it's said that actually, bytedance is probably one of the biggest clients of the data centers out in Johor right now and it's interesting. So it's getting a lot of investment, a lot of USD injection, or at least like FDI, and it's garnering a lot of like attraction from internal like policymakers, like all the government people. People are all jumping on this opportunity, signing deals and everything, but the issue is Johor actually historically had an issue with water shortage and power shortage,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1755.06,
+      "endTime": 1796.276,
+      "text": "water that they so the water is used for cooling, right, so this can take away from the residents that live there and and this is kind of like an interesting angle, I guess I I picked up when I was writing about this it's like thailand's doing the same, but in countries like canada or australia, like governments are basically saying no to data centers. They're like, okay, thank you, hyperscalers for being interested in us. We also have a lot of land, we also have a lot lot of energy. We also have, you know, we actually have even better infrastructure. Canada even has a lot of tech talent and great data security rules and laws and even cold weather that will be easier for cooling, but there are a lot of policy, especially in, say, provinces like British Columbia, where it's a bit more left-leaning compared to, say, alberta, which is a lot more right-leaning.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1796.977,
+      "endTime": 1820.356,
+      "text": "They're just saying no to this because they're like this is going to put on more stress for our residents than it's actually going to benefit us. So it's a tricky thing and I've been talking to people in Canada about this and they're saying, hey look, if we can bring in data centers in Canada across Canada, alberta and such, if we can bring in data centers in Canada across Canada, alberta and such and Ontario, potentially, if we have infrastructure maybe because we have all the things I mentioned,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1826.061,
+      "endTime": 1862.473,
+      "text": "all the other advantages maybe we can actually build up a whole ecosystem for AI in Canada. We can position ourselves better because then a lot of the tech developers and tech talents could potentially now pivot into AI and if already have AI infrastructure hyper-sailors will be building up infrastructure there It'll be very natural for them to also build up a corporate head office. There's also, you know, very strong data security laws. There's strong, like there's strong talent pools that speak English. So it's also easy for, like you know, collaboration with the US or even just like, there's even existing pipelines to the US for energy supply.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1862.62,
+      "endTime": 1875.1,
+      "text": "So there's a lot of like advantages for Canada to kind of position themselves AI powerhouse. But right now, given what I just mentioned, a lot of policymakers are saying I'm not sure I need to watch this and I don't want to burden our own citizens.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1875.26,
+      "endTime": 1906.825,
+      "text": "So I wanted to ask you, which I guess is kind of maybe an end to this kind of section of the podcast interview, but it always comes down to US-China, right? That's what all of the current you know, the current conversation is around US-China and we sort of talked about the energy things is around US-China and we sort of talked about the energy things, and I think we haven't sort of gone into that much detail actually on why some of the challenges for the US in particular. But let's just accept that the US is going to have an issue with energy. It's already experienced an issue with energy and China is not.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1907.66,
+      "endTime": 1944.569,
+      "text": "So where do you see that kind of taking the race? Because obviously, the chip restrictions and supply chain restrictions that are put in place, we're seeing innovation in China that potentially could lead to a breakthrough, but even if it doesn't, it feels like the chips are maybe not as far off as we thought. So where do you see it? Do you see like two or three years and I'm asking you to kind of speculate here rather than to sort of put a bet on but do you see this, as this is really something that's going to allow china to catch up and or maybe even you know, move ahead, or do you think no, no, it will be behind, but it will allow it to keep pace yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1944.609,
+      "endTime": 1956.875,
+      "text": "So I think I'm, yeah, I, I think I'm like actually just starting to work on this uh piece. Looking at hua chips, and I think you know, when it comes to the chip technology,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1960.14,
+      "endTime": 1996.721,
+      "text": "honestly, just like nothing from China can currently compete with, like, nvidia's chips in terms of performance. So that's that right Like. And I think Joe Tai said in a conference recently it's like JP Morgan's China conference, something. It was a couple of months ago he was like look, it's just still like at least two years, but actually, no, sorry. I think joe said on a podcast recently with um, their norwegian hedge fund manager, uh, norris, norris, um, check his name. But he was saying, look, china is at least like two years behind um than the us when it comes to, like, advanced chip technology.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 1996.882,
+      "endTime": 2037.111,
+      "text": "I think I'm not an expert this, I can't comment more, but what I think is interesting is what I'm writing about. This is, like you said, hypothetically, if china can make the breakthrough on chip technology, then it has a huge advantage on energy. But, yes, I agree. So without that major breakthrough, we don't know. Now. Then it leads me to the second part of this, which is like what everyone's now starting to realize is are we fixating on the right thing. Are we actually? Are we putting too much energy and attention on just comparing, like um, the models being trained, um, using these big, these advanced chips, or should we actually start thinking of the winner could be actually on the application end, right?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2037.521,
+      "endTime": 2082.25,
+      "text": "And that kind of brings me to my point on China's AI application end and their innovation or at least advantage. So we saw with ByteDance, tiktok, right, it's taking over the world. I think we see in China with all these super apps, whether it's WeChat or Alipay, it just has so much more to offer and so many more touch points. That means more consumer data and more learning opportunities, more AI integration. And I think even recently Baidu's Lian Hong, robin Li said at Baidu's 2024 event was like look, the winner in ai right now is going to be an application and people need to focus on how to create an actual usable application.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2082.892,
+      "endTime": 2114.992,
+      "text": "It's not just our little chat bot chappy. I mean, I'm obsessed with perplexity. It helps me with all my research, but if you think about it, perplexity actually is basically helping me prompt. Chat gpv better, right, but if, say, the models are going to be so good in the future, then do we still need a perplexity to help me prompt it so well, or can, I don't know, I actually don't know. So the question is kind of open ended. So, or or if, like an application, it's already created so so, so advanced or sophisticated, then do I still need to be a really strong prompter for these like models? So I don't know.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2115.501,
+      "endTime": 2146.706,
+      "text": "I guess my comment is more like I think innovation might come from China as well when it comes to consumer-facing application, just given how Chinese consumers are also so, so AI savvy and like mobile savvy, internet savvy. I think I was a TCM doctor that day just because of my back pain, and then the little girl was literally like I use like AI for, like you know, patients now, and it's so crazy how the random people, everyone across all industries, all using AI, adopting it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2148.541,
+      "endTime": 2161.453,
+      "text": "Well, I'll just plug our episode, my interview with Dr Xie from a few weeks ago, where, because he combines western and chinese medicine and uses ai already, um, so if you're interested in doctors that use ai, then there's.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2161.58,
+      "endTime": 2211.53,
+      "text": "there's a plug for an earlier episode of the podcast well and actually, like literally the last episode, um, we were talking about how we think exactly the same thing. So the it feels like we're starting to actually see some of those applications now and we're starting. It feels like we're starting to actually see some of those applications now and we're starting to see, um, we're starting to see sort of fully finished, completed products rather than or polished products, so to speak, rather than kind of early beta, alpha releases of things. Um. So one of the ones we mentioned was 11 labs who now have like conversational ai and you can clone anyone's voice, that kind of thing, um, and you know, I think I think it's that kind of like commercial applications for ai, which is going to be the next big wave, probably um, with with kind of large language models and and some of the ai technologies we have now as a bit of a platform, um.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2212.493,
+      "endTime": 2219.194,
+      "text": "But I think what you've been talking about there is kind of quite a nice segue into our second part, which is about ai in china and southeast asia.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2219.836,
+      "endTime": 2254.927,
+      "text": "Um, yeah, so I just wondered if you wanted to talk a little bit more about china's ai ecosystem and how that's developing yeah, I think I mean, um, china has its complete parallel universe when it comes to AI, and it's largely due to two reasons. One is just not getting their hands on the technology needed because of US restrictions, and so they have to innovate and create their own chips. And you have Huawei doing that, you have Alibaba doing it, you have everyone doing it. And then you have also these amazing startups who are developing their own LLMs. You've got 5ch1, you have everyone doing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2254.864,
+      "endTime": 2292.291,
+      "text": "And then you have also these amazing startups who are, you know, developing their own LLMs. You got Baichuan, you got Minimax, you got off the top of my head. There's like the Zhipu you got so that's like the four tigers, and they're all on the Fortune's top 50, like most innovative AI firms right now list, right. So there's all of that innovation on the infrastructure layer. And then, like I mentioned, there's a lot of innovation application layers. So a lot of companies like ByteDance and Alibaba are actually pushing out a lot of consumer-friendly AI applications to the Western market as well as the Chinese market.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2293.133,
+      "endTime": 2359.77,
+      "text": "So anything from editing your photos to your voice, to your videos, to chat, gpt-like chatbot kind of functions. And then you have enterprise innovation, where Alibaba and Huawei is really, really focused on, given that they have the cloud infrastructure and they're really benefiting from this. So what they can do is actually for the enterprise clients sell the cloud service and on top of that, add on their large language model service and then basically kind of provide that, like in China, like the whole service across the entire stack. So I think there's a lot of innovation there. And then in terms of Southeast Asia, I guess you know what I mentioned earlier like ByteDance is kind of like known to be one of the biggest, if not the biggest, investors in the Johor area for data centers, and they're doing it through companies such as like China Data Group and they have a subsidiary called Bridge Data Centers.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2360.22,
+      "endTime": 2406.788,
+      "text": "So they basically are running and setting up all these data centers in Johor and their biggest client is ByteDance. So like I guess South Asia is for that use. And then the second use is a lot of consumer facing apps, due to the sensitivities in the us, are actually being launched across, like, say, in huge markets like indonesia and thailand, the philippines. And the third bit which we touched on earlier was just that singapore itself, the kind of hub, the financial and tech hub of southeast asia, is now being seen as the neutral position to set up a lot of enterprises. So, what a lot of Chinese companies, from big to small, from private equity to tech, from financial firms to hardware firms.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2407.289,
+      "endTime": 2439.012,
+      "text": "What they're doing is they're trying to use what is called the China shedding strategy, and my friend Ivy Yang actually writes about this a lot on her website. So shout out. But it really essentially is like a PR strategy. It's saying, hey, we're, either we're not Chinese and you just completely like, pretend you're not and you like registered company in Singapore and say you're Singapore company, singapore headquarters, singapore fundraise, blah, blah, blah. Or you say we're international company, keep it big, and then you keep your, you register company in singapore, but you still plug in your management from china.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2439.714,
+      "endTime": 2478.711,
+      "text": "Or the third way is actually they just register a company there, they rebrand themselves and they pretend they're not related to their parent company, but they still are so. So this china, china spreading strategy is being adopted by startups as well as big tech, um, and it's really just to kind of help them not gain unnecessary attention. I guess what a lot of people are saying. And also, when they're fundraising, say, startups, when they're fundraising the us, um, some firms are just like. I won't invest in you if you're a chinese firm. So even though some firms are literally like they have a whole r&d team in beijing or shanghai, shenzhen, um, you know, their founders are prc passport holders.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2479.272,
+      "endTime": 2488.825,
+      "text": "Um, they might have been educated in the west, um, they just register companies in for and they call themselves like homegrown singaporean. So there's that as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2488.845,
+      "endTime": 2502.966,
+      "text": "Yeah, it's um. So is shine a good example of this? Obviously not a, an ai company, but I think I'm trying to think of examples that people listening to this who are not familiar with the, the kind of ecosystem, might be familiar with.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2502.986,
+      "endTime": 2510.386,
+      "text": "Shine a reasonable example, sheen it's a she she and you're not. You're not shopping fast fashion, so it shows.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2510.406,
+      "endTime": 2512.47,
+      "text": "It shows how much I'm into fast fashion.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2512.49,
+      "endTime": 2514.613,
+      "text": "I guess You're not a 14-year-old girl, that's a thing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2518.501,
+      "endTime": 2552.724,
+      "text": "Well, I don't think I am, by the way, breaking news. No, shein, I think they try to do that, but they were a bit too late. I think they also they were already quite well-known to be Chinese, but you could see how companies like Shein and all these companies are actually like sorry, my AirPod keeps on falling out, but they're finding ways to basically shy away from the Chinese heritage. And you could see that they were going to go public in the US. Originally that was a plan and you know they went around talking about it for a while and then all of a sudden, they wanted to switch over to London.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2553.044,
+      "endTime": 2599.19,
+      "text": "And I think there was twofold to say. The concern was one is china's own concern and the other side was actually the us regulatory concerns. But I wouldn't say it's complete like a pr strategy for them, because I think they were a bit too late on trying to not be chinese. I think a lot of smaller startups are actually taking that route, or you can think of t TikTok, or like even the notorious one is Hill House repositioning themselves, saying they're not a Chinese private equity firm, they're a Asia firm, they're Asia private equity firm. So you get these companies blatantly kind of erasing their background on their Wikipedia or going on mainstream media and, like you know, getting their basically like introductions or bios changed.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2600.184,
+      "endTime": 2606.849,
+      "text": "So there is definitely that effort being done by a lot of Chinese companies going out, going global right now.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2609.021,
+      "endTime": 2644.966,
+      "text": "I'm really interested in. It was in your I'm trying to think I'm just thinking the date of your subsec articles I'm going to link this in the show notes but Made in China AI apps that you are using, so it was from the 14th of November. So this app is I'm really interested. I mean I talk about it quite a lot on the podcast actually, but about trying to compare Chinese apps to the kind of Western US version. So this is something that I I mean this is the article. I should have stopped talking about it and I wish you'd written an article two months ago because I could have just linked it, um, but I mean it's, it's really good because I think you're trying to give people a, a kind of comparison.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2645.487,
+      "endTime": 2661.453,
+      "text": "And one thing I'm particularly interested in, because you're sort of chat gpt comparison, so where you you've given, I think kimmy um, and it was one of the one that was your. I mean, I use um like I use a chinese large language model, quite often on a sort of daily",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2668.86,
+      "endTime": 2703.879,
+      "text": "basis just for doing really basic tasks like asking questions, translating things like that, just because it means I don't have to put a VPN on and off. That's basically the main reason. And there are some cool uses, like there are some things like on Tongi. It has a really good sort of database for putting in documents and analysing them in quite a cool way, but I generally use them in English, like I use them sometimes for Chinese, but it's mainly to translate stuff from Chinese into English because I'm lazy. But the thing that I found with it is in English they're just not as good and obviously you're using them more in Chinese.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2703.99,
+      "endTime": 2737.28,
+      "text": "I mean, do you think they are comparable? Obviously, the models in the background are. We know that like QN is, I think in a lot of ways is outperforming Lama models in terms of open source and some of the leaderboards out there at the front, but in terms of the consumer interface that we've got. I think I might've given this example before, but I asked the question about my daughter had a tooth coming at the back, behind her other teeth, and I was like, is that a wisdom tooth? Because none of her teeth have fallen out yet. And I asked Tong Yi and it said oh yeah, this is not usual. You need to go and see a dentist immediately.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2737.38,
+      "endTime": 2765.774,
+      "text": "This is really weird, and it's called a hypermolar or something like that. Then I asked Claude and it said oh, this is just the first of her full set of teeth coming through. This is completely normal. So that's a kind of weird example. But even though that was in English to weird example, but like, even though that was in english, to me it's like okay, I just don't trust the, or I don't trust that particular model. Now, for anything where I need, like a good answer, um, obviously it. You know, that's just one model, but that is alibaba's model and that is, as far as I know, you know, powered by a qn.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2765.814,
+      "endTime": 2775.539,
+      "text": "It should be a decent one. Like, do you find them to be on a par? And I'm talking here in terms of not the model itself in the background, but in terms of, like I say, the kind of consumer interface that you would use.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2778.251,
+      "endTime": 2791.498,
+      "text": "I think it's really hard to compare. Honestly, to be frank, I use the English side a lot more just because I use a lot of these AI tools for my research. I find it just so much more efficient. It helps me find a lot of sources.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2798.83,
+      "endTime": 2848.07,
+      "text": "I can then go dig into the sources of me, just like googling and reading through a gazillion articles. Um, I think hallucination happens on both ends. Um, I think the china ones are much better for researching chinese um material. So when I say you need to find certain chinese government material and I ask perplexity or chat gbt, it doesn't really take me to the sources I need. Or sometimes I ask them can you give me this or that? In china they actually just link you to snp. They think snp is the most chinese thing they can like, the source they can find right, but whereas like I need, it's like literally like uh, yeah the south china morning post, which is a hong kong based newspaper, or or yeah for most people yeah yeah, um, it's a newspaper, um, that does great actually china coverage, um, and it is disclosure, owned by alibaba but said to have editorial dependence, kind of like washington post, amazon.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2848.712,
+      "endTime": 2900.034,
+      "text": "Sorry my little rant, um, um, but yeah, I think, but I think I don't know, I couldn't answer. I don't know about this Molarth issue, but I have had issues where I asked, like even chat, gpp, really really simple things. I'm like oh yeah, the fortune thing was really really straightforward. So fortune came out with their top 50 AI innovators, right, and I asked perplexity. I said hey, can you tell me out of the 50 companies, which ones are Chinese? And they literally listed out, like Baidu and Alibaba, like the really really obvious ones, and I was like no, I know, there are more. So I went on and kept prompting and it just couldn't give me the right answer and I think it's just not able to actually scrape a lot of information on companies that are maybe don't have a lot of pr material or even coverage in english, yet it's like the ones I mentioned, like by chuan or minimax or moonshot.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2900.074,
+      "endTime": 2955.752,
+      "text": "These are like more, uh, startup companies in china. That said, these companies might also be adapting the so-called china shedding strategy. So they might not, they might be trying to avoid being referred to Chinese company, but you know, when I ask them about US centric things, they can always get it correct not always, but you know what I mean. Like it's just like the hallucination or the incorrectness, just rate drops down a lot. So I think the languages are still very separated. I would use the different tools and different languages for different issues. I would say one thing I think I do want to touch on, which I mentioned in the article you brought up, is the user interface and just user experience software very different and this kind of has a um, like, I guess, um heritage reason from like consumer internet mobile apps, um era, and you know, you look at like Taobao versus Amazon.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 2955.852,
+      "endTime": 2985.032,
+      "text": "It's like Amazon is so clean so it's like a white background with just like what you need to purchase and the purchase button and Taobao has like 500 things coming out at you and like all these apps. And next, like I'm looking at a dress. I know I'm buying a hairdryer and I yeah, and the thing is like chinese customers like it better, like it's a user experience kind of thing, same as like if you watch like um streaming service like tencent video or it. I'm just like constantly overwhelmed. I don't know what's happening.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2985.053,
+      "endTime": 3015.21,
+      "text": "They're just words popping up and bubbles and avatars, and then I'm just like I'm a netflix person that fly across the top of the screen, that they just comment after comment and people like no no, don't turn those off, you're like how can you watch that? yeah, I mean, I feel like, I feel like what I am, which is a, you know, a white guy in his 40s here, um, when, when I'm kind of, oh yeah, all these, but but it is absolutely, it is absolutely true and, and you know, not saying that either one is right or wrong, it's what you're used to. But I'm just thinking, as you're going through that comparison, I was thinking exactly of the interface.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3015.972,
+      "endTime": 3049.612,
+      "text": "And if you click in the kind of top corner and you'll get all these options which include, you know, the kind of cartoony image of here's a kind of avatar based bit, here's a um, here's a thing where you can practice your english, here's a thing where you can, um, you know, produce absolutely terrible quality music, but it's all integrated. Whereas, yeah, I use claude and claude's interfaces, you know, you can click on your old chat, you can click on your profile, which is literally your name and what account you've got, and you can choose which of the um models you want to use. And now there's one that says you can have a simple answer or complicated answer.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3049.813,
+      "endTime": 3088.393,
+      "text": "There are no other options, right, and that kind of clean interface of it for me is like, oh, it's so easy. When I look at the chinese ones, I feel like, oh, there's, there's too many things here and too much choice. But you're right, I think for a lot of chinese people you would look at claude or even chat gpt and be like, is that it? That's it, what? But I go on like tian tian. Tian gong is the one that I quite like, for just, it's really good that it can generate images, music, you know, it's got this kind of multi-modality. It seems to be actually quite good, like, I find that it gives better answers than most of the chinese apps and it's run by a like a company I hadn't heard of from, based in beijing I can't remember the name, but, um, like, I quite like that one.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3088.514,
+      "endTime": 3110.353,
+      "text": "But even with that it is, you know, multiple, multiple options and you go in there and you've got to scroll down through loads and loads of images and stuff and you're right, it's just a very different approach to it, um, and you can see, if you're used to china and you're used to, kind of the west, you can see the differences and I can completely understand how they work for each of those markets. So, um, I don't think alibaba aiming their model model at me.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3110.933,
+      "endTime": 3119.98,
+      "text": "Let's put it that way yeah, I mean, I know what you mean. I think I'm all for clean, simple interfaces, been a little bit.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3120,
+      "endTime": 3122.902,
+      "text": "You're also a man of a certain age.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3123.843,
+      "endTime": 3125.885,
+      "text": "Well, I know, but I do too.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3125.905,
+      "endTime": 3128.426,
+      "text": "You guys said I fit in right in.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3128.466,
+      "endTime": 3129.347,
+      "text": "You're a lot younger than us.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3129.367,
+      "endTime": 3130.208,
+      "text": "The topics I like.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3133.91,
+      "endTime": 3146.263,
+      "text": "But last time you said I was supposed to be the diversity um guest but I ended up talking about energy like and clean and user interface. Just, you know, a typical, average older white man",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3149.318,
+      "endTime": 3153.269,
+      "text": "I should say you didn't say before we even this is gonna cut describe yourself.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3153.51,
+      "endTime": 3157.21,
+      "text": "You did describe yourself with us when we first kind of discuss this episode, didn't?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3158.795,
+      "endTime": 3160.841,
+      "text": "you? no, I'm a 14 year old Asian girl so",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3164.223,
+      "endTime": 3201.951,
+      "text": "yeah, so maybe I'm the diversity high yeah yeah, but I think on that note what, if you ever want to use a Chinese or Asian app, it doesn't matter if it's AI app or consumer app always use Asian, developed, what are they called? Picture filtering and picture editing apps? Because they are just superior. They are just so much superior. Meitou Shou is always like wow is me, like? I put my photo up and I'm like wow, like you can add makeup on. You can get rid of, like your wrinkles, your fine lines, your dark circles. Everything looks so natural. You can even change your lip colors, you can add eyelashes, everything.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3202.572,
+      "endTime": 3205.158,
+      "text": "Um so may, too, actually has an ai.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3205.298,
+      "endTime": 3215.899,
+      "text": "I was gonna say we should probably add that me and jimmy are using it now, and this is with filters turned up to 11. This is what we look like, so you can only imagine that it's really good.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3215.979,
+      "endTime": 3239.313,
+      "text": "I just tried it last week and I was in shanghai. Um, I got these new headshots taken and I used the ai auto um button. I was so amazed, it was so natural. Um, it just looked like a nice, um, like photoshop, like studio picture, although I literally just took it on the streets with an iphone, but it's so. I would recommend that one if you need anything, and I think there's another one I like.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3239.353,
+      "endTime": 3252.595,
+      "text": "Sorry, you just go no, no, I'm just looking down again at the at the article that I'm referencing, and it's got the top 100 um app downloads. Is that app downloads in china? Is that app downloads across?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3252.675,
+      "endTime": 3257.344,
+      "text": "it says so. It should be the world, but this is based on this company's research.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3257.71,
+      "endTime": 3261.638,
+      "text": "Sorry, I didn't see that so number one is chat GPT, number two is is it 剪影?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3265.433,
+      "endTime": 3304.605,
+      "text": "剪影 is actually really great for editing for video editing. Now it's called. Is it called video crop in english? There is an english name for it, um I, I couldn't tell you. Let me check, yeah it's called video crop in english. So I can tell you because I've got the english version on my phone. Then I've got the chinese version on my computer, but that's number two most downloaded. And I mean, like you say, like that is superior to anything. I mean it integrates incredibly well with like douyin, which is china's tiktok, and and actually with tiktok. But yeah, if you, I would agree with you. If you want to use any kind of um image editing or video editing apps and you can get a chinese one that is in english.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3305.271,
+      "endTime": 3324.461,
+      "text": "Um, yeah, they are far superior, like the, just the functionality is just like 10x, isn't it? It's amazing. And like mei 2 and stuff like that, like I'm obviously pretty familiar with them, but I mean, they are, they are superior to anything I've seen from from sort of western apps I have a funny story I just remembered, um.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3325.022,
+      "endTime": 3359.893,
+      "text": "It's about may 2, I think ages ago when I was still at cnbc. It was one of my first stories with them. Um, I was writing about may 2, showiu, and then I had to get a quote from the PR and they weren't getting back to me and I had this huge freakout at my then boyfriend. I was like, oh my god, what if they hate me and then release all my unfiltered photos online and then the world will see my double chin and all my massive pores? But that never happened. So so matrix has been around for a while and they're great and um, hopefully they will never hear this episode.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3360.594,
+      "endTime": 3384.504,
+      "text": "I find this list like this top 100. I find this list so interesting I'm sort of half interviewing, I can't stop looking at the list and we'll definitely share this article and I I highly recommend people have a look, just because it's it's kind of fascinating. Yeah, I mean, the number of Chinese apps that are on there, meitu is actually number eight, isn't it? So the eighth most downloaded app, which, okay, I guess you know China's a big country, but but so is India. It's not, you know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3392.99,
+      "endTime": 3394.662,
+      "text": "It's based on the fact that they are, you know like, genuinely like, top quality.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3394.743,
+      "endTime": 3395.67,
+      "text": "It's actually leading the way. It's good.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3396.33,
+      "endTime": 3400.06,
+      "text": "The apps you're looking at. You can download these on the Western version.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3401.731,
+      "endTime": 3417.756,
+      "text": "Yeah, you can download most of them in like Apple or Google stores, not all of them and obviously, like I said, I think it's Video Crop is the one and Meitu would be M-E-I would be meitu. Um, you don't have to use Chinese characters. You can definitely download it with with letters.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3417.976,
+      "endTime": 3430.062,
+      "text": "yeah, yeah, so the top five are jpt dan can canva doba, which is by yeah doba duolingo and then duolingo, yeah three.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3430.162,
+      "endTime": 3442.378,
+      "text": "Chinese in the top five where's Claude? Yeah, oh, it's not not there yeah, it's somewhere Perplexity's number 50, I remember that, okay, 48 yeah, I",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3445.466,
+      "endTime": 3477.741,
+      "text": "Notion 54, we should probably start talking about the list because the list yeah it's a great. I wanted to ask you a little bit because we've talked. We talked a little bit about qn. So qn is alibaba's uh kind of frontier open source model and we've mentioned it on previous episodes on the show. But could you maybe just say a little bit about it in terms of you know the fact that it is, like I said, by some measure is the sort of top open source model out there, so that's quite a big thing to have a Chinese model that is potentially that good.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3479.57,
+      "endTime": 3488.185,
+      "text": "Yeah, it's said to be the most competitive Chinese LLM out there right now in comparison to like GPT-4 in terms of world performances.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3491.532,
+      "endTime": 3504.641,
+      "text": "I think when it was launched it's kind of like a chatbot-like interface and it's really positioned itself as an all-around AI assistant processing lengthy content, providing summaries that require complicated comprehension,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3518.551,
+      "endTime": 3544.936,
+      "text": "ai PowerPoint presentation creation, real-time simultaneous translation, video chat with AI agent that can provide problem solving. So the uniqueness of QN is because it's open source, like you mentioned, and it's really committed to that, and it actually it's. Various versions, like I mentioned, for different application uses are actually all available on platforms like Hugging, face and ModelScope. So a lot of developers that are using it are actually outside of China, which is quite interesting, and people are surprised to find that it's a Chinese made LLM.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3548.69,
+      "endTime": 3550.758,
+      "text": "I think I was reading it's cheaper as well, right?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3551.55,
+      "endTime": 3578.647,
+      "text": "Yes, um, I think I was reading it's cheaper as well, right, it's it's cheaper than a lot of models, which is probably why you know people are surprised. But why there's such an uptake? Because it, as my understanding is, it's cheaper than kind of comparable um but what token? Western models by tokens yeah yeah, well, but not by tokens yeah, not by individual token. Well, I guess it is, but I'm not sure anyone's buying an individual token yeah so in general sorry, jimmy go on, go, go, go.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3578.667,
+      "endTime": 3581.55,
+      "text": "No, no, you go, you go no, no, just just in general.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3581.891,
+      "endTime": 3603.907,
+      "text": "It said that, like for for, like open source models, it's one of the cheapest and more easily adaptable ones. And then, um, I think it's really leveraged its advantages, given that, like I mentioned earlier, where, like, it has a massive um, like database and data access to all their clients on their cloud infrastructure and it continues to keep on tweaking its large language models.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3603.947,
+      "endTime": 3617.363,
+      "text": "So alibaba is really leading in this frontier in china right now yeah, yeah, you've reminded me actually, because I so I was trying to download qn the other day onto my computer to run it locally, uh I've got one.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3617.483,
+      "endTime": 3623.56,
+      "text": "I've got one downloaded. Yeah, I was trying, you can it's a very small, very small model that I had yeah, but I was.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3623.62,
+      "endTime": 3655.822,
+      "text": "I was trying to get the coder model because I know 2.5 qn, 2.5 like coding, 8 billion parameter models just come out and I do a bit of that. So I was trying to download it the other day but having a bit of difficulty so I'll go and do that later. Um, but yeah, like, why? So? On the on the like open source approach alibaba just doing open source, or are they doing like a similar model to meta, where they're basically like building everything and then just putting it out there? Um, is it a similar thing to that, or are they doing open source and closed source?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3657.133,
+      "endTime": 3685.105,
+      "text": "I think they're pretty committed to open. So my understanding is they're they um? What um the CEO, eddie wu, was saying at aspara like their their own um cloud, alibaba cloud conference is that they are completely committed to supporting open source ecosystem from chip servers, networks, storage and data centers. Like they want to push this ahead, like the ai development, as much as possible in china or across the world and do you know if um like do they have?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3685.431,
+      "endTime": 3707.88,
+      "text": "because I'm just curious about this and I don't know if you know the answer. But like, obviously when you release an llm in china, there's different guardrails and different restrictions around what they can talk about, um understandably. And then when you release them in the west, they're different again. So, like, is there a qn china, um sort of uh, open source model, and then a qn that goes on hugging face?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3708.321,
+      "endTime": 3714.73,
+      "text": "that's different, um I actually don't know, but you know, like I'm pretty sure, by the one I downloaded.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3715.231,
+      "endTime": 3750.109,
+      "text": "It's definitely different from what would be released to consumers in china, because I'm it was it was answering. I mean, I wasn't asking it, you know politically sensitive chinese questions, but I'm pretty sure there were things where it was answering that it wouldn't be allowed to. So I guess the model itself they will put out the, the version that he's on. Maybe, I mean, maybe that's why it's so rubbish on tongi, because they're, you know, answering questions and yeah, I don't know why my, my kid's teeth would be something politically sensitive, but maybe that's the reason why it can't answer that question very well I don't know if this can be included in the podcast.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3750.31,
+      "endTime": 3774.044,
+      "text": "It was a bit sensitive, but what I've heard've heard is that a lot of these Chinese models are actually using outside China data to train their models anyways, so they would be training it on the data that anyone can have in the West versus within China. It needs to comply to the great firewall rules, right?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3775.972,
+      "endTime": 3795.692,
+      "text": "Okay, that's fantastic. I think we'll kind of finish off, but we've got our kind of standard ending question. So my first one that we try and ask all of our guests is, without putting any pressure on you, medium to long-term, where do you stand on the utopia versus dystopia debate with ai?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3797.715,
+      "endTime": 3848.506,
+      "text": "um, I think I'm a huge adopter of ai and I really believe it's going to change our world like differently. So I think, um, like I said, like I think it's this is another internet, right? Um, we're gonna, it's gonna change how, how we consume, how we interact with people, how we do our work, how the economy runs. I think it's going to be better, more productive, more efficient for people like us, especially like us, who do use majority of our time, our work is from our brain less than labor, whereas obviously, within our episode we touched on, there are a lot of negative effects, which is like in the environmental space, in energy consumption, in you know what's the word for it?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3848.59,
+      "endTime": 3897.796,
+      "text": "I guess resource allocation. So will essentially the poor be more poor and the rich become more rich, so the rich will be able to access more technology and will that even grow that disparity even more? So I think there is that huge risk. And then, obviously, beyond that is the human privacy, data security, ai safety issue risk and you know, even in 2019, I did a video for CNBC was like what are, what is the fakes? This is like, I think, my first exposure to even AI back then, and that was so like juvenile. I was literally talking about how people are making fake Obama videos and fake videos for political reasons and looking back now the videos look so so, so not real.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3898.117,
+      "endTime": 3934.485,
+      "text": "I even made a video of someone else's face plugged onto my body. But you know, these are all issues that I hope you know policymakers, regulators and innovators will continue to think, and then I think it definitely needs to be regulated, will continue to think and then I think it definitely needs to be regulated. Um, but in the long term, I really believe it will make us more efficient and more productive and I think it actually helps with my creativity, helps with my work and helps with um a lot of things and what. What it mean for the next generation will no longer be like oh, can you? Um, you know, make powerpoints the fastest.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 3934.525,
+      "endTime": 3965.863,
+      "text": "You know it would be like can you prompt the ai tools to help you make this the best, most efficient way? I think so. It's just another kind of tool, set of mindset. Um, just like 30 years ago, people didn't need to learn how to write um pretty anymore. They just had to know how to type well and type fast, although there's argument that you know we can still write well, for aesthetic reasons, you know, it's obviously made everything a lot more productive, a lot faster yeah, I mean I agree with you on almost all of that, I think.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3966.371,
+      "endTime": 4020.457,
+      "text": "I think I feel like the danger is and I've felt myself sort of slip this way a little bit sometimes is like if you use these tools but you're not like actually doing any of the input yourself, so like the difference between prompting an AI to write you an email or do something like you know, come up with a business plan, something like that if you don't put any effort into it at all, um on your part, then it's sort of you can become lazy and, uh, just kind of like hand it over to the ai. I I'd say, in general, that's not how I use them, um, and it's actually more of a creative, I don't know. It's like almost the process of kind of having a back and forth with somebody about an idea like bouncing an idea around um which I think is the best use for me, um, but I do think my feeling is that a lot of people, when it becomes really common to use AI, I think there will be a lot of laziness.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 4022.081,
+      "endTime": 4070.545,
+      "text": "Oh, definitely, and I think I even caught myself. Like you said, if you write with it, I frankly think the current tools don't write well enough and I still have to re-edit it. I frankly think the current tools don't write well enough and I still have to re-edit it. So if you don't, it just sounds like a robot, it doesn't sound natural and it's very formulaic, so it gets repetitive and it's not creative. So I think there's obviously an argument and then obviously the argument with copyright issues as well. So I'm not someone who can give an answer to how to solve this issue, but I personally think embracing it is the way for the future and really right now, for people who are still kind of in denial of the value or just just importance of what it will mean,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 4074.01,
+      "endTime": 4093.742,
+      "text": "just just importance of what it will mean, even if you're against it, just like you know 40 years ago. If you deny the importance of the internet, like you can't move forward with society, then so it's better to at least learn and protect yourself and learn how to use these tools to to be productive and to not harm others, than to be passive in this, this kind of evolution so, yeah, I wanted to.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4093.762,
+      "endTime": 4121.98,
+      "text": "Just very final question for you. So, um, it's not so much a question but an opportunity. I guess, um, maybe you could recommend you know one or two uh ai applications or anything else you want to recommend me, a film you want someone to watch or a book that want them to read, and also, maybe you know your sub stack and I think maybe you could just introduce a bit, maybe the consultancy work you do as well. If, um, if you've got a few minutes to just just finish off with that for us yeah, sure, um.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 4122.04,
+      "endTime": 4149.541,
+      "text": "First of all, I do want to say thank you so much guys. It's been a pleasure and a great chat and it's um. You know we did touch about a lot of topics and scratching the surface of many, but you know um for listeners, you can go to my sub stack um, ai pro M. On sub stack Um, I do link to some of my articles that are published on like fortune diplomat um other publications as well, there as well. Um, and then, in terms of um recommendations, um,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 4154.03,
+      "endTime": 4158.164,
+      "text": "I'm still reading lee feifei's book right now. I just start reading ai snake oil, I think it's a very, very easy read.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4158.184,
+      "endTime": 4159.167,
+      "text": "Um, I've just yeah for any as well.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 4159.187,
+      "endTime": 4204.375,
+      "text": "I haven't started it yet um and then for any journalists out there. I just recently took a pulitzer center um course it was amazing on uh covering ai um. It was taught by a good friend of mine called karen how, who is a leading journalist who used to be at mit tech review um, and it really provided me with a good framework on how to examine ai and write stories about it. So it's a free program. They do select uh reporters from around the world or content writers from around the world and provide you with these I think, biannual online courses. So check that out. That was something that was super helpful for me this year.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 4204.996,
+      "endTime": 4250.58,
+      "text": "And then, last but not least, is I do run a small consultancy as well. So, combining my past life as a strategic communications professional, I do help select AI and tech companies right now with a lot of their strategic narrative or their corporate narrative or their international media relations. I don't do too much of the hands-on media interactions, but I help advise them and I help a much of the hands-on media like like interactions, but I help advise them and I help a lot of the founders with how to position themselves or do media training as well. So if you're interested, feel free to reach out to me or if you need this help, this kind of help, help in this area and strategic comms, feel free to reach out to me at grace at proemcommunicationscom.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 4254.59,
+      "endTime": 4259.562,
+      "text": "So that's G-R-A-C-E at P-R-O-E-M communicationscom. Maybe, matt and Jimmy, you guys can help me link it in the show notes too, if that's okay.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4268.05,
+      "endTime": 4286.001,
+      "text": "Definitely will. That's like an absolutely cracking interview. Like you say, it was really good fun. I think sometimes interviews are really interesting, sometimes they're really fun. I think this one was genuinely time. You know, hopefully we will have seen some of those kind of advances and and we'll have a an interesting story to tell that is more than just us versus",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4298.03,
+      "endTime": 4298.311,
+      "text": "china.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4298.351,
+      "endTime": 4309.852,
+      "text": "Maybe it's, you know, some more of kind of china's own um advances and and and you know, more interesting models and developments coming out of china we'll have had a year of trump as well, so we will have had a year of Trump.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4309.892,
+      "endTime": 4311.455,
+      "text": "Yeah, bring it on.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Grace Shao",
+      "startTime": 4313.077,
+      "endTime": 4316.122,
+      "text": "Yeah, that would be really interesting. Thank you so much.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4316.443,
+      "endTime": 4325.441,
+      "text": "Well, thank you everyone for listening. I hope you've enjoyed that one. We'll leave as usual. Jimmy will be back, uh, at the decks with sooner this week. I think. Oh, yeah, I think so, yeah, yeah.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "A Suno Voice",
+      "startTime": 4376.533,
+      "endTime": 4397.054,
+      "text": "So enjoy the show and we will see you all next week. Cheers Bye. East claims truth, west claims right. Both hold strong, prepared to fight, blind, to pass Beyond their sight. Each one sure their way brings light. Two worlds collide.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "A Suno Voice",
+      "startTime": 4400.491,
+      "endTime": 4417.693,
+      "text": "Neither side will yield. Ancient wisdom fights against the Western Shield. Both claim to be free, but neither side can see that truth lies somewhere between you and me.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "A Suno Voice",
+      "startTime": 4438.767,
+      "endTime": 4502.375,
+      "text": "One by force, one by choice. Different paths, same human voice. Both believe they hold the key, both too blind to truly see. In shadows of power and pride, we choose our own side, but looking from above, we're all the same inside. No right, no wrong, just different ways to be. No peace. No right, no wrong, just different ways to be. No peace, no love. Till we learn to see, to see",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "A Suno Voice",
+      "startTime": 4510.279,
+      "endTime": 4529.537,
+      "text": "Two worlds collide. Neither side will yield. Ancient wisdom fights against the western shield. Both claim to be free, but neither side can see that truth lies somewhere between you and me.",
+      "chapterIndex": 7
+    }
+  ]
+}

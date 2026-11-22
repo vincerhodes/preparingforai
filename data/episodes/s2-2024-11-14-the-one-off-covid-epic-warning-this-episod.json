@@ -1,0 +1,1549 @@
+{
+  "slug": "s2-2024-11-14-the-one-off-covid-epic-warning-this-episod",
+  "buzzsproutId": "16092042",
+  "title": "THE ONE-OFF COVID EPIC: Warning- This episode has very little to do with AI!",
+  "date": "2024-11-14T13:00:00.000Z",
+  "season": 2,
+  "durationSec": 5404,
+  "format": "deep-dive",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16092042-the-one-off-covid-epic-warning-this-episode-has-very-little-to-do-with-ai.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail In a departure from normal programming Jimmy gives Matt the opportunity to scratch his Covid-19 itch and to introduce a pretty wild hypothesis about Covid, the long term effects of the brain and the need for Artificial Intelligence to mitigate this. It's something of an epic as Jimmy attempts to challenge some of Matt's more extreme views, but it also includes references to references to emerging studies and some hopeful ideas for ways to live a healthier life and mitigate some of then impacts. We do start with 20 minutes of AI as we touch on Donald Trump's recent presidential victory, his unexpected alliance with Elon Musk, and what it means for the future of AI governance and free speech on social media. We also look at whether the exponential growth of large language models coming to an end? Gary Marcus argues that AI might have hit a plateau, and we dig into this claim by examining differing opinions from industry leaders like Sam Altman and Mark Andreessen. While some predict revolutionary breakthroughs, others warn of the risks in over-relying on LLMs, especially with China exploring alternative strategies. This discussion challenges the current AI hype and invites listeners to critically assess whether the U.S.'s LLM-centric approach may lead to unforeseen global consequences. In our epic deep dive COVID-19's long shadow looms large, affecting cognitive function and societal health. We explore how the pandemic and it's management is having a lasting impact on education and mental health, drawing parallels with other viral infections. We somewhat tenuously consider AI's potential role in addressing these challenges. From the decline in ACT scores to ongoing debates about COVID's long-term cognitive effects. As we consider practical strategies for managing COVID exposure and its societal impact, the conversation underscores the importance of informed action and collective resilience.",
+  "summary": "Matt's promised COVID episode: he argues the pandemic's medium-to-long-term effects — autoimmune disease, immune damage and measurable cognitive decline — are being ignored, citing falling ACT scores and a 113,000-person New England Journal of Medicine study. Jimmy pushes back on causation and extrapolation but agrees lingering effects could last decades, and Matt lands his tenuous AI link: society may need AI to cover jobs as cognition and health decline.",
+  "keyTalkingPoints": [
+    "Matt outlines four claimed effects of COVID or the vaccines: autoimmune disease, immune-system damage, brain damage and long-term sickness",
+    "US ACT math scores fell to their lowest ever recorded around 2021-22; symptomatic COVID patients in one study showed cognitive decline equivalent to 10.6 years of aging",
+    "Economic inactivity in the UK has risen 900,000 since 2020, 85% attributed to long-term sickness; US self-reported disability has more than doubled since 2019",
+    "Jimmy counters that correlation is not causation, past pandemics like Spanish flu had knock-on effects, and recovery could take 20-30 years",
+    "Matt's hot take: COVID-driven intelligence loss at societal scale means AI will be needed to perform cognitively demanding jobs and replace workers lost to chronic illness"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "COVID's long-term effects are plausible — new crossover viruses always have knock-on effects — but recovery will take 20 to 30 years, like past pandemics",
+      "Linking disability statistics directly to COVID is very difficult; correlation is not causation",
+      "OpenAI will be absorbed or will not exist within a few years",
+      "LLMs approximate human output on the internet; reaching 100% of that is not AGI"
+    ],
+    "matt": [
+      "COVID and the mRNA shots are driving chronic illness, cognitive decline and workforce loss that society is refusing to face",
+      "A societal day of reckoning over COVID is coming within about three years, faster than the AIDS reckoning took",
+      "AI will be needed to mitigate intelligence loss and replace workers who leave the workforce with chronic conditions",
+      "People are not necessarily being lied to about COVID — they are being gaslit by omission"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-11-14-the-one-off-covid-epic-warning-this-episod-156.8-trump-will-move-almost-immediately-after-taking-",
+    "s2-2024-11-14-the-one-off-covid-epic-warning-this-episod-1114.442-openai-will-be-absorbed-by-another-company-or-ce",
+    "s2-2024-11-14-the-one-off-covid-epic-warning-this-episod-2387.53-covid-s-cognitive-damage-will-be-so-widespread-t",
+    "s2-2024-11-14-the-one-off-covid-epic-warning-this-episod-2471.057-society-will-take-20-to-30-years-to-fully-recove",
+    "s2-2024-11-14-the-one-off-covid-epic-warning-this-episod-4283.028-a-societal-day-of-reckoning-over-covid-s-long-te"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Lloyd Christmas"
+  ],
+  "chapterCount": 10,
+  "turnCount": 208,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Introducing this week's episode",
+      "startTime": 38
+    },
+    {
+      "title": "Donald Trump & AI",
+      "startTime": 88
+    },
+    {
+      "title": "Sam Altman, Gary Marcus and the hype/no-hype train",
+      "startTime": 450
+    },
+    {
+      "title": "The Covid Opus",
+      "startTime": 1144
+    },
+    {
+      "title": "Matt's tenuous covid & AI link",
+      "startTime": 2383
+    },
+    {
+      "title": "Covid's long-term effects on the brain",
+      "startTime": 2934
+    },
+    {
+      "title": "Covid, long term sick and the workforce",
+      "startTime": 4347
+    },
+    {
+      "title": "Positive, practical advice for mitigating covid effects",
+      "startTime": 4714
+    },
+    {
+      "title": "Dumb & Dumber (Outro Track)",
+      "startTime": 5271
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 41.776,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. urgent need for safe development of AI, governance and alignment. I am who I am. Well, who am I Requesting some enlightenment? Could I have been anyone other than me? Welcome to Preparing for AI with me, gil Bates and me, dr Fauciastini. Well, this week is a very, very special episode of the podcast.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 41.997,
+      "endTime": 78.392,
+      "text": "We are going to be talking about COVID and, nominally, ai. I say nominally because Jimmy thinks I've shoehorned AI in to get an episode where I can talk about COVID, which is 100% true. So, yeah, let me give, I guess, a bit of a warning before we start the podcast. So, some people I hope you're not one of them, but you might want to switch off after we do our kind of news update at the beginning of the podcast. Um, but if you do, do come back next week because we'll be back to normal. But I do really encourage you to listen on because, uh, for me anyway, there's much more research in this episode than anything I've well, not just podcast, but I think, probably anything I've ever done before.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 78.472,
+      "endTime": 102.786,
+      "text": "So, um, like at least just to try and hear me talk about the things that I've been thinking about in detail and drive me mad for the last year and a half. It might be worth doing, but we're going to start out with a bit of a news roundup, so we haven't really done this for a while, but I think with the election in the US it was sort of inevitable that we'd bring that in and link it into AI. So, jimmy, do you want to talk about the uh intolerable, mr Trump?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 104.008,
+      "endTime": 144.812,
+      "text": "yeah, one of my, one of a very divisive character, I uh, I think, but, um, he's won the us election and I'm not gonna I'm not gonna get into politics. But one of the things that trump is very pro, as far as I understand it, is, uh, ai, hence mr mus Musk at his side, or part of the reason. So, in all seriousness, you know, regardless of your views on politics and all the rest of it, some of the things that Trump has said in the past is that he's very pro AI, he's very pro business in general, and he's talking about actually immediately, almost immediately as he gets in power.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 156.8,
+      "endTime": 168,
+      "text": "And he's talking about actually immediately, almost immediately as he gets in power, repealing an executive order by Joe Biden in 2023, which actually, you know, offers to offer some protection from AI by, you know, regulating the industry and introducing regulations. That's probably it in terms of politics,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 172.447,
+      "endTime": 174.62,
+      "text": "but indeed, trump will be president from early January.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 175,
+      "endTime": 179.476,
+      "text": "And it'll be an interesting Unless Biden storms Congress and doesn't let him. I mean that could happen.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 180.058,
+      "endTime": 180.46,
+      "text": "Biden himself.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 180.881,
+      "endTime": 185.471,
+      "text": "They could recount the votes and find out that actually they miscounted by the hundred million.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 185.992,
+      "endTime": 190.064,
+      "text": "Yeah, yeah, there's many things that could happen. I think, I think Biden's probably.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 190.084,
+      "endTime": 191.609,
+      "text": "Let's work on the basis that won't happen, shall we?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 192.001,
+      "endTime": 195.2,
+      "text": "I think Biden's going to go on a nice long holiday.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 195.22,
+      "endTime": 200.547,
+      "text": "I'm pretty sure Biden's dead. Hot take there I mean we haven't seen him since you stood down.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 206.841,
+      "endTime": 212.703,
+      "text": "I saw him the other day, did you okay? Okay, um, he's around beijing. Was he having, I mean, lunch? I mean he could be, because he's not doing anything in the us as far as I can see, he's been relatively absent.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 212.763,
+      "endTime": 243.41,
+      "text": "For sure, I don't, um, I can't see him getting involved in any storming of congress, but, um, but yeah, so, so, as I say, I think you, you know, trump has made it pretty like he's. One of his key allies is Elon Musk, which is quite interesting. Elon's obviously very pro-technology, pro-ai and seems to have the future president's, or the near future president's, ear. So, yeah, that's going to be interesting.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 246.92,
+      "endTime": 250.277,
+      "text": "So, um, yeah, that's going to be interesting. I think watch this space will, as we see what news comes out and what executive orders get repealed and all that kind of stuff.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 250.297,
+      "endTime": 264.431,
+      "text": "We'll report on it, of course, um, but yeah but trump, trump's also like this is a bit of news that jimmy showed me today but trump's also kind of gone on the war path for uh, protecting freedom of speech right right On social media etc.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 264.471,
+      "endTime": 308.576,
+      "text": "Yeah, that's literally in the last 24 hours. Yeah, so he's made a big speech about how there's been a lot of censorship and he's going to introduce measures that social media have to abide by. He's going to have to introduce a whole raft of measures. He's going to go back and look at historically at universities that have, um, looked to ban certain uh speech on the internet and black and blacklist things, um and and actually sack a whole bunch of people. Um, I'm not sure I agree with all of it, although I am pro pre-speech in the same way that I'm pro open source. So it's an interesting one Again.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 308.64,
+      "endTime": 316.547,
+      "text": "I think it's one of those things where it's easy to make a speech. I think we need to see action and we need to see what happens when he actually becomes president.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 316.607,
+      "endTime": 372.587,
+      "text": "For me, I just raised this, though, because the interest for me is, like, if he's the protector of freedom of speech and I said to you like I'm totally on the bandwagon of open source, totally on the bandwagon of keeping freedom of speech now and, um, it just kind of, you know, if he's, if he's a sport of ai, but he's a supporter of big tech and a sport of the big three or four, and that gives them the power to hold all the reins over the same information, as he's kind of going on the war path against social media companies. For I guess my question then would be is he doing this because he's trying to protect his buddy, musk and Twitter, or is he really doing this Because if he's really doing it, then hopefully he does it with AI, and that would mean that presumably he's going to be a promoter of open source models, because that would be the only way that you you keep some degree of freedom of speech with, you know, ai controlled algorithms as I say, I think we'll wait and see.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 372.627,
+      "endTime": 419.085,
+      "text": "like he's looking at repealing some um some executive orders around ai that would allow more regulation of ai. So actually, in a funny way, he like some of, if he does repeal this stuff, then it maybe is a bit more pro-open source in a sense. I'm not sure that's the thrust behind it, but that might be the effect. So, honestly, I think it's one to watch and see what happens. Trump is also well known for you know Saying things saying things and not necessarily doing things, as are a lot of politicians, but also cozying up to individuals as well. I think you know he's obviously become very close to elon musk, recently having him around at his house on the election night and all this kind of stuff.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 419.125,
+      "endTime": 428.108,
+      "text": "So I think elon musk is gonna whether you like him or not, he's gonna have a lot of influence in the US and we'll see where that goes.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 429.342,
+      "endTime": 437.011,
+      "text": "Did we officially come out for a particular candidate in the election, you know, like Joe Rogan did? Did we have an official candidate for preparing for AI, or did they not ask us?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 437.44,
+      "endTime": 442.728,
+      "text": "I love the comparison to Joe Rogan. There no one asked us. I don't think anyone cared.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 445.98,
+      "endTime": 449.648,
+      "text": "We don't want anyone to know what our view is exactly yeah, all of them moving on, moving on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 450.149,
+      "endTime": 480.37,
+      "text": "Um, just one other thing we're in the kind of news we're going to talk about and I I guess this is not sort of a particular sort of news story, it's more of a kind of general thing around them, I guess a kind of I think we're reaching with the kind of AI hype train. We've reached a point where it really seems like it's well. I'm going to read, I'm going to read you the title actually of a sub-stat by Gary Marcus. If you don't know who Gary Marcus is very, very good, very kind of rational, reasoned guy on on AI. But he says",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 485.56,
+      "endTime": 525.068,
+      "text": "LLM's large language models have indeed reached a point of diminishing returns, science, sociology and the likely financial collapse of the generative AI bubble, and there's a lot of stuff. You know, we've talked about this for a few months now, about the kind of hype train, but now it really feels like things are slowing down and Gary Marcus has been talking about this for years, about this idea of adding more and more data and more compute. If you don't make fundamental architecture changes, it's not going to keep growing forever. He wrote an article in 2002 actually then 22, sorry which argued deep learning is hitting a wall and he's been kind of almost de-platformed by the likes of sam outman, yan lequan, greg brockman, elon musk made fun of him this year.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 526,
+      "endTime": 561.233,
+      "text": "But this article talks about in the long term. Science is not a majority rule. In the end the truth generally comes out and he gives this idea. Alchemy had a good run but got replaced with chemistry. The truth is that scaling is running out. So scaling, just to explain they're talking about in terms of scaling up models, you add more and more compute, you add more and more data. You just keep exponentially growing it. The scale gets bigger and bigger. A few days ago you had a guy called Mark Andreessen who is probably the most accelerationist kind of venture capitalist guy in Silicon Valley who is, you know, really against any regulation.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 561.313,
+      "endTime": 599.172,
+      "text": "Push ahead, you know ASI A agi, just put all the money into it. He said we're increasing gpus graphics processing units at the same rate, but we're not getting the intelligent improvements at an at all out of it which, as gary marcus says, is basically venture capitalist, for deep learning is hitting a wall. So you know, it feels like there is a lot of signs that they're just not getting the kind of growth out of large language models to get to the stage of what they've hyped, like I'm not saying they're not useful because they're still great. I mean, I'd be quite happy in a way if they kind of stopped where they were or just moved on a little bit.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 599.701,
+      "endTime": 646.39,
+      "text": "But this idea that large language models are suddenly going to become, you know, agi, artificial general intelligence, or they're going to create godlike ai, the argument is kind of breaking down and you know the media have overhyped this. The us has this kind of ai policy that's driven by the hype, so it assumes that the scale you know, the, the, the returns will not diminish. They'll just keep going and growing, and growing. But actually no one's investing in other approaches and other models. And one of the things he flags here is the risk is, like other countries which I think he probably just means china, because no one else really has the resources to do anything might start looking at other things and trying to find a way to get ahead, whereas the us is just throwing all their money at large language models and they're going to be really useful and they're going to be great and they're going to do loads of good stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 646.5,
+      "endTime": 683.248,
+      "text": "They'll be good for statistical approximation, but they're not going to do much more than that. So I don't know. You know this is an opinion. He's a very intelligent guy, but what I thought was really interesting was that literally a couple of days later, you start seeing interviews with the likes of sam altman, and I'm going to read this this is translated back from chinese so that the quotes might not be perfect, but sam altman talking about solar plus storage technology is gaining momentum and even if we don't have a major breakthrough in nuclear energy, it won't be bad. What's certain is reducing energy costs and increasing energy abundance will directly affect the quality of life.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 683.268,
+      "endTime": 714.166,
+      "text": "We're going to solve all the physics puzzles, so it's only a matter of time before we solve the energy problem. Maybe in the future we won't be talking about nuclear fission, any fusion anymore, but dyson spheres. No matter how much energy we think we have now, it will never be enough for our descendants. The universe is vast and the matter is infinite. I'm going to read you another. He's been reading too much sci-fi. Yeah, he points out that it it only takes one person, 10 000 gpus, to start a 10 billion, a 1 billion dollar company. He believes the path to agi is now clear. We do know what to do now.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 714.407,
+      "endTime": 743.548,
+      "text": "To achieve fourth level innovation is easier than we thought. The progress of things will be much faster than currently, than people's current expectations. There's nothing behind this. There's no evidence, it just talk. I need just one more before you come in. He said artificial gender intelligence is now expected to arrive in 2025 and he's expecting his first child next year. I'm not sure the relevance of that to AGI, but what about 2025? What's to come? I'm excited. What am I more excited for? We're having a kid. I'm more excited for. We're having a kid. I'm more excited for that than anything.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 743.648,
+      "endTime": 745.231,
+      "text": "That's the thing I'm most excited about,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 749.22,
+      "endTime": 776.542,
+      "text": "and he regards the discovery of the path to AGI as a phenomenon of deep learning, a fundamental breakthrough similar to the discovery of new elements in the periodic table. The success of AI comes from a religious belief in expanding its scale. It's just talk, right, and this is the thing is like. It feels like there's all this talk on the kind of acceleration side and on the other side, there's kind of facts saying, look, this is not. It's not really going anywhere at the moment, but what would?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 776.783,
+      "endTime": 781.825,
+      "text": "so okay. So for starters, sam Altman's been a pretty good sales person, salesman from the start,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 786.54,
+      "endTime": 813.615,
+      "text": "like right from the start, um, like right from the start he's created a you know 100 plus billion dollar company out of nothing. Um, and I think to a certain extent it is out of nothing, like open ai are losing. All they're doing is losing money which they're chucking into bigger and bigger ai models. Uh, we've talked about on on the podcast before, but I agree. So I agree, I think the fundamental power, aside from the fact that AGI artificial general intelligence is poorly defined in the first place,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 821.761,
+      "endTime": 855.714,
+      "text": "I think large language models are an approximation for all of the human output that's on the internet and they're getting better and better at doing that. A hundred percent is basically as good as the best human. It's not agi, it's not asi, it's not thinking. You can't even get to 100.1 I don't think because you need to, yeah, yeah yeah, and maybe, maybe in the future, you know, and maybe, like with that combined intellect of all of humanity stuck in one model, it will be able to make links and do things that seem smart and intelligent. I don't know, maybe there'll be some kind of emergent phenomena, but I think human intelligence is, there's, a few things right.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 855.754,
+      "endTime": 857.657,
+      "text": "So human intelligence is poorly understood,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 866.52,
+      "endTime": 880.665,
+      "text": "demonstrated to be relatively one-dimensional, in that they're poor at doing things in other domains. So like, yeah, you can ask a large language model to write the next works of shakespeare, but you can't ask it reliably to do anything spatial, mathematically. It can do certain things and it's getting better, but it's still pretty crap.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 880.765,
+      "endTime": 912.865,
+      "text": "My wife was pissed off this week because we were trying to redesign the new apartment we're moving to. We're trying to work out where the furniture came in. And I, like claude was very good at helping me to draw out sort of squared plans of the room and to put furniture in. But she was like, well, instead of telling it where to put it, can't we just ask it to like come up with the best way to do it? And I was like, yeah, just, that's just not what large language models can do, and you're right that that creativity thing, that's the thing that it doesn't need to push over the edge and that is like a big barrier it feels like, oh, to just get to that next stage.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 912.906,
+      "endTime": 945.774,
+      "text": "It's like we've said this before, but I think and this is sort of the argument here is we're not saying that ai will never do it. What we're saying is that large language models have perhaps by themselves reached not the point where you can't develop them anymore, but where they can't do any more specific things, because they've just kind of reached almost reached a dead end in terms of architecture. And the issue here is the money that's been thrown at it just on the basis that they'll just keep scaling one. It's the economic issues that you know, the the amount of money that's been invested and the reliance on returns on that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 946.18,
+      "endTime": 958.09,
+      "text": "But it's also the fact that you're you know, you're not kind of getting ahead because there are other things that you might have wanted to explore, other possibilities, and everyone's gone all of their eggs in one basket with large language models.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 958.68,
+      "endTime": 1025.774,
+      "text": "I agree, but I think you've got to separate a couple of things here. So there's the stuff that. There's the stuff that, um, all the people that are talking about saying, where you know it's plateauing, we're not going to get there. There's then the stuff that sam altman's talking about, which is we're going to get to agi and asi, um artificial super intelligence, via large language models, which I don't believe either. But then there's a middle ground for me, which is where is the benefit, where is, where is going to be the benefit in large language models? And for me that's still there. So if you can create agentic models that call on large language models to write code and do things that normally human beings would do in office jobs more efficiently, faster, maybe independently in the future, and I think can you get to that using what we've got with large language models at the moment, probably because it's not, it's not about requiring agi or asi or some you know all like, it's not going to get us to a dyson fear sphere sorry it's not going to solve nuclear fusion problems, but can it replace a ton of office worker jobs?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1026.081,
+      "endTime": 1035.047,
+      "text": "Probably, yeah, and make a load of stuff more efficient, and so for me that's like where the economic benefit of AI still is and I think that's still possible.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1035.8,
+      "endTime": 1041.327,
+      "text": "Yeah, I mean we should move on from this because it was quite a long intro to the episode. But no, no, no, I mean I talk more than you,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1053.06,
+      "endTime": 1087.665,
+      "text": "but I just think just to finish it off is to say that my point here and I guess that you know both of us in terms of podcasts are not saying that large language models are not going to have a huge impact, are going to shake up the world. They're going to have a big impact on people's jobs, you know, and their personal lives and, you know, have changes for the positive and the negative that we can't even think about yet, can't even think about yet. But what we're saying is that this piling, you know, billions and billions and billions and perhaps even trillions, into just more and more gpus and more, more data, there's a massive danger there that we're not going to get past a level that isn't just like a much more advanced version of where we already are yeah this idea of something that is like it's just on an exponential growth path that really feels like it's kind of being shut down at the moment yeah, and you, yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1087.685,
+      "endTime": 1096.331,
+      "text": "So in 10 years time all you've got is chat gpt 10.0 and it's it. It can write a much better poem than the one the current version.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1096.351,
+      "endTime": 1099.803,
+      "text": "It still can't help me where to put my wardrobes.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1100.425,
+      "endTime": 1104.872,
+      "text": "It might be able to do that, I mean I mean hopefully I've got out of business by then, right.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1105.092,
+      "endTime": 1111.706,
+      "text": "Hopefully you've sorted you in. Isn't that what we think? It wasn't one of your hot takes that OpenAI is not going to exist in two years'time.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1114.442,
+      "endTime": 1124.309,
+      "text": "Yeah, so OpenAI, I think, will be absorbed or won't exist in a few years'time. Where did you decide to put your wardrobe in the end? Anyway, I think that's what everyone's gagging to find out.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1124.59,
+      "endTime": 1133.405,
+      "text": "Well, when, when I move I'll, I'll link some pictures in with the, with a sort of early January episode, nice so look forward to it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1133.7,
+      "endTime": 1133.961,
+      "text": "So you've got.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1133.981,
+      "endTime": 1142.048,
+      "text": "Christmas first, and then my wardrobes Right. So without further ado, then let's move on to the main episode.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1162.5,
+      "endTime": 1178.217,
+      "text": "See you on the other side. So into the meat of the pie, so to speak, um meat of the ai, into the meat of the ai, of the AI we're going to do. We've got this episode now. As Matt said, in my opinion, it's got absolutely nothing to do with AI. So if all you want to do is talk about AI or listen to stuff about AI, then you take your choice, not nothing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1178.277,
+      "endTime": 1182.366,
+      "text": "I mean we've we've forced in a few points to make it fit in with our podcast.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1182.526,
+      "endTime": 1194.108,
+      "text": "Matt's wedged in a hot take about AI, so I'll leave you with that teaser. Matt, what's your opening gambit?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1194.2,
+      "endTime": 1230.143,
+      "text": "Well, it's been a while since I've done one of my monologues, so you can sit back for a few minutes. You can have a rest, I'll do my monologue and then you can kind of come back. So why are we doing this episode? Well, I think we need to make it because, in this world of inversions that we're living in, well, all I want is for people to be able to see and hear facts as they are and make their own decisions based on reality. So you know, not on what mean mainstream media tells you, or rather fails to tell you. One thing I've realized, like we've got to be positive and I really think, like as someone who's been pretty negative for a while, like one of the biggest problems in society right now is the amount of negativity.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1230.645,
+      "endTime": 1264.568,
+      "text": "We have to believe that the good will out in the end. We have to face fear with positivity and hope, but the only way to do that is to face things as they really are and face them together. So, and, by the way, I think at least part of the reason that Trump won the election and now the majority of the kind of left-wing media are losing their shit and wondering how it happened, is because people are done with being lied to and people are not looking to mainstream media anymore. They feel that the mainstream media is detached from the majority of people and the issues they care about and they're seeing through those lies and I digress slightly.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1267.1,
+      "endTime": 1303.888,
+      "text": "But yeah, yeah, I think I need to outline my position on on COVID because it hopefully shows that I've got sort of skin in the game of most sides of the debate. I think it's a kind of a bit of an odd position because I'm right between two extremes. I think putting this out there is useful because people on both sides are so entrenched and we've maybe got people listening who are like you know, I don't want to listen because I know this or I know that I think I'm somewhat of an outlier because I believe, based on you know, while I wasn't working earlier this year, as well as studying the hell out of ai, I spent hundreds and hundreds of hours studying about covid, and not just covid, but what was really going on in the world, and there's a whole kind of rabbit hole.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1303.908,
+      "endTime": 1352.465,
+      "text": "We could go down there, but the big thing was like how could society flip so quickly from one extreme to another and how, how was so much just being brushed under the carpet, in my opinion, just so we could keep the economy going. So you know, full disclosure. My research, as I call it, has taken in some pretty dark corners of the internet. But also a lot of proper peer-reviewed papers, a lot of expert analysis. I mean, I'm going to give you three names two on substack someone called dorlis carp, who is a uk uh, they're a uk, I think, doctor, but they're um cited in quite a lot of papers. They they do some incredible analysis on COVID, but it is like it's heavy, like they write what they call, you know, war and peace, kind of some of the stuff in novellas.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1352.505,
+      "endTime": 1391.789,
+      "text": "Some of the stuff is war and peace. You're talking like two hour reads on the stuff, things Hidden in Complexity, which is my kind of go-to on there, and also Merogenomics on YouTube. So you know, if you're interested in getting some proper data, and this is not someone on the internet just giving their opinion. This is people who are reviewing medical papers and brand new research. These are the people to check out. I'm certain, certain, that both shots and COVID themselves have caused massive, massive harm and they continue to do so and it's going to be almost impossible and this is one of the biggest problems to ever truly separate whether the damage or what damage came from which one.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1392.321,
+      "endTime": 1407.552,
+      "text": "So for the purposes of today, I think we're going to have to park all the nonsense of the measures taken in various countries over the past few years and accept that whatever was the original cause of the problem whether it was an accident, a pandemic, a lab leak that where we are now is where we are now",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1411,
+      "endTime": 1452.381,
+      "text": "and I'm personally not really currently worried about the acute short-term effects of a COVID infection, but it's the medium to long-term stuff. I'm pretty petrified for society as much as individually. Like I said, I'm not going to go into too much detail on the jabs because I think this podcast will get censored, but that in itself shows the kind of problem, and I'm not so far down the rabbit hole to believe that it's all a population control nanotech factory, but the evidence points to the fact that they have at least caused significant harm to many individuals and almost certainly are the reason why we still see constant mutations and part of the global impact on immunity which is going to be with us for a generation.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1452.442,
+      "endTime": 1483.95,
+      "text": "Like I think this is factual. Like I say you, you can, you can go out and research it. We'll quote papers as we talk through this, when we talk today, as much as possible to keep this factual, not to delve too much into what I guess we still on here call fringe theories. But, thanks to media censorship, we'll talk about, you know, the impact of the virus, the link to AI, which is tedious, but I think there's still one in there, without digging too much into. I think you meant tenuous. What did I say Tedious? Well, it might be tedious as well, but I did mean tenuous. Yeah, but yeah, that's a conversation for another day.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1484.01,
+      "endTime": 1521.533,
+      "text": "Maybe jimmy would prefer that I get my own sort of tin fall hat wearing conspiracy podcast, which I might have to start one day anyway. So let me put out there are, as I see it now, there are four main effects that covid or jabs are having on people in terms of chronic impact. I personally hate the term long covid because I think it gives the wrong impression. This isn't persistent symptoms for most people. It's long-term damage which is caused by some form of spike, protein inflammation, immune reaction or poisoning of some type within the body or some kind of autoimmune reaction. So one there's damage to the cardiovascular system, both the heart and also the vascular system itself micro-clotting, etc.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1522.44,
+      "endTime": 1561.626,
+      "text": "There's autoimmune disease. If you want to question this just easily, on any ai you can check out the increase in autoimmune disease over the last few years, the destruction of the immune system which has been confirmed since 2021 and that's for about well, for at least eight months in most people. Hence why people wonder why they had mild covid and then suddenly they get bacterial viral fungal infections for months and months afterwards, why there are global levels of TB which are literally off the charts whooping cough, rsv, microplasma, pneumonia, fungal infections. I mean TB now has the highest ever ever rates on record in this and last year, and that's not in Africa or India.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1562.2,
+      "endTime": 1576.599,
+      "text": "It's risen massively in Europe and the US, et cetera. And then this is a big one for today, because this is where my hypothesis comes in. There is the damage to the brain, so I'm going to give you, uh, your sort of comeback rebuttal rebuttal or not.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1576.76,
+      "endTime": 1623.887,
+      "text": "It's not so much a rebuttal. Okay, first thing, the first thing I would say is why is any of this a surprise? So I think, I think I think one of the reasons it's a surprise is because, as you said, the way covid was dealt with was. It was as if it was like right, we have to deal with this pandemic, now the pandemic's over, and it was a very hard line it was decide where the line is yeah, and we can decide where the line is drawn. And that is deceptive and and, okay, maybe it's the nature of governments that they have to do that because we had to get on with stuff, um, but it it's. It's very naive to think that when you have a massive pandemic it's not going to cause a whole bunch of knock-on effects and that kind of thing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1625.191,
+      "endTime": 1632.484,
+      "text": "There's obviously a lot less evidence from back then, but, for example, the Spanish flu would have had these kinds of knock-on effects, right",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1637.79,
+      "endTime": 1659.373,
+      "text": "right. So is it a surprise that when there's a completely new crossover virus that comes from, okay, we don't know where it came from, but let's assume it crossed over from um, from animals into humans and then unfortunately became virulent, even like, even if it was that, are we assuming that? Even well? but even if it is that, even if it is that which previous pandemics have been, then that is a brand new virus. It's a brand new situation for the human body to deal with.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Lloyd Christmas",
+      "startTime": 1659.393,
+      "endTime": 1663.454,
+      "text": "It's not the common cold it's not something that you, which has zero memory exactly.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1663.474,
+      "endTime": 1701.004,
+      "text": "We've got no memory built into our bodies, and so is it a surprise that it knocks out your immune system for a long time. Is it a surprise that it can have some of these effects on you? That's my first point. My second point is that, um, in terms of well, we haven't spoken about this much so I'm not going to like go into a ton of detail. But in terms of like, whether covid affects the brain, it yes, it does, like there's really good evidence that it does. But there's actually a ton of viruses and bacteria that affect the brain as well, and some of them in unknown ways. I mean, the weirdest example that I found in doing a little bit of research is something called toxoplasmosis that occurs in cats.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1701.084,
+      "endTime": 1717.017,
+      "text": "It's not actually harmful in people, but it goes into your, it goes into human brain. This is the like prion one right, it's a prion nuts yeah, yeah and and you know, nobody knows what effect it has on people, but it has been demonstrated to like inhibit fear and do a whole bunch of weird stuff.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1717.397,
+      "endTime": 1727.341,
+      "text": "That is like very poorly understood it probably like control it makes them avoid, like it makes them less fearful, so that they go into situations which make them more likely to pass the virus on.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1727.41,
+      "endTime": 1760.459,
+      "text": "Right, it's, it's, yeah, it's crazy yeah, but the human, I mean it's a prion, so it's like got a three-stage life cycle. It actually wants to get into cats, but it resides. Sorry, actually wants to get into rats, but it lives in. It's got humans as an intermediary that it doesn't actually like seriously interfere with, and all this kind of weird stuff like it's a crazy example, I think. I think my overall point, though, is just like all this stuff is like quite poorly understood, unfortunately long. I mean I and I feel really bad for anyone, you know, as a disclaimer, like anyone who's suffering with, like long term effects of COVID.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1761.88,
+      "endTime": 1799.553,
+      "text": "You know, I do feel really really bad because you're kind of like almost the experiment in this situation where, like, we don't know what's going to happen, we don't know how severe the long term effects are going to be. It's all poorly misunderstood and then, once it's inside the human body as well, it's mixed up with a whole bunch of other stuff. Like it's complex because we're all slightly different genetically. We all have different viruses and bugs going around inside us, we all have different bacteria, gut microbiomes, so it's a real, it's an extremely complicated interaction inside the human body, and I assume that's why you see situations where I mean like I had when I went back home.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1800.434,
+      "endTime": 1831.426,
+      "text": "I had family members that were like taken down with covid when I recently went back to the uk and I still, like months later, are still recovering. I was in close contact with them, had nothing like zero. I've no idea why and this occurred during covid as well I didn't test that right, I didn't test so I don't know, but it happened during covid as well. I had my tester right I didn't test so I don't know. But it happened during covid as well, where, like one of my one, men like my mum got covid at the same time as my sister, both in different households, completely separate, like lived with my dad when you say during covid, you mean during, during what was what was officially a pandemic.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1831.467,
+      "endTime": 1881.905,
+      "text": "Sorry, sorry, during the pandemic, like during 2020 to 2022, basically, but yeah, like, so, like, for example, my sister had it a completely different time to other members of her household. My mum was the same, but then, like my dad would have it at the same time as other people in my sister's household. Like there's a lot of like covid was weird, um, and I'm not entirely surprised that. Has this, uh, this kind of like list of ongoing effects in a way? Um, and yeah, like I, I guess that's. I guess my overall point is that, like, unfortunately, the way government's dealt with it made us think, okay, covid's over, now let's crack on and it's not straightforward, and the media yeah, yeah like we're complicit completely in this yeah, yeah, and, and it's just not that straightforward, um, so I agree with a lot of what you say.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1882.025,
+      "endTime": 1897.701,
+      "text": "I don't think it's that unusual. I think, unfortunately, any I guess what I'm saying is any pandemic is going to be pretty brutal, um, and unfortunately that might not be a uh, you know, that might not just be a two or three year thing yeah, but yeah, I mean, I guess the point is we haven't.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1898.411,
+      "endTime": 1929.827,
+      "text": "We have just had that pandemic, we haven't had another pandemic and the because I think in actually you've probably sort of mainly agreed with me that the point about the sort of the media, my main point in what I've talked about to begin with was, you know, and I've said we sort of throw aside how it was handled at the time was the fact that the reason why we're having to, I think, having to have this podcast and kind of say like people need to think about certain issues and certain elements, is because they're being told by the media and we've talked about how people don't trust the media anymore.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1929.847,
+      "endTime": 1969.493,
+      "text": "So hopefully loads of people are not actually buying it but are telling people it's over, you don't need to think about it, you don't need to worry about it, which is just not true. And so that's what I'm saying is like people making decisions. I'm not like for one second saying that we ever need to go back for lockdowns etc, like that's not what I'm saying here, or mask mandates or whatever, but what I'm saying is like people don't wear masks for many reasons one, because they think they don't work. Two, because it's politicized, but three because they think they don't need them. And it's like people are not making decisions based on reality, people are not making decisions based on fact, they're making them, and some people, I'm sure, like it's just like, do you know what?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1969.513,
+      "endTime": 2009.779,
+      "text": "I just don't want to know, I just want to get on with it. If, like, there are other things to worry about, and I think that's true. But it's like the big thing and this is where it kind of plays in with what we talked about, about sort of freedom of speech is, in a way, like the debate on covid has been shut down, like the vaccines, that debate has been shut down and that has been censored. And so you know, that side of which I'm very, very sympathetic to, like I said, but we're not going to go there today have been shut down. But what's actually been shut down now is also like the people who just think there's still a pandemic going, they've been silenced, like they're also being shut down, like both sides have been shut down on this, and that is quite, that's quite frightening, because people are not able to.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2009.799,
+      "endTime": 2031.672,
+      "text": "And, like I say, when I say people, I mean some people, it's not all people. I don't know if it's the majority or if it's 40 or whatever. But there's a lot of people who rely on kind of the mainstream to know what's going on in the world and they're not making decisions at the moment based on facts of what's really going on out there so do I agree.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2032.312,
+      "endTime": 2072.173,
+      "text": "People should generally be probably more careful about like, when they have a virus, do they go to school, do they go to work? About infecting other people. I agree with that. I think in general, we're quite bad at that. You know, there's a certain element to which I also think. You know, just get on with it, because you're going to get it anyway. There there's a sort of there's two sides to it in a way. Um, I think you should take definitely take care over, you know, um, vulnerable groups of the population which I think I think generally, that is, they are kind of anyone with a pre-existing condition.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2072.233,
+      "endTime": 2097.705,
+      "text": "I mean, that's the thing covid targets whatever's your weakness. If you don't know that you've got a bit of a weak heart with COVID, you've suddenly got a very weak heart. And if you don't know that your kidneys are not that great, with COVID, your kidneys are suddenly really bad and that that that's the thing. I mean there's a lot of people here in 2022. At the end, when everybody got it, a friend of mine who, he's like, got shoulder and knee problems got worse and he said to me at the time he's like, it's like it just targets all of your weak points.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2098.286,
+      "endTime": 2113.737,
+      "text": "It's like it's the great kind of accelerator, yeah, yeah, I mean again, I in the context of, like, if you've already got weak points and then you get hit by something really nasty, is that just going to happen anyway? I don't,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2120.13,
+      "endTime": 2149.287,
+      "text": "I don that just gonna happen anyway? I don't, I don't know. Um, I think, like I guess where I struggle with this is like is it being so? There's definitely been censorship over certain things. However, in terms of the news cycle, like the news just moves on anyway. Right, the move, the news moves on in general. In many ways, like I like, right now, all the news has been about the election and so I haven't seen much news about what's going on in israel and ukraine. War was, um, you know, top of the news list after not, like you know, after covid, and that was in the news every day and then that's.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2149.668,
+      "endTime": 2155.733,
+      "text": "You don't really know what's going on in ukraine anymore so like you have, to. You have to, like, go out of your way to search for ukraine news now, don't you Exactly?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2155.793,
+      "endTime": 2156.855,
+      "text": "And COVID news actually.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2157.276,
+      "endTime": 2162.044,
+      "text": "Yeah, so I guess what I'm saying is is that not just the nature of the news as well?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2166.29,
+      "endTime": 2172.797,
+      "text": "I'm not sure whether it's so much being covered up, as it's just not topical anymore, yeah, but I think there's a difference here and the difference here and I think sort of part of your argument,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2177.67,
+      "endTime": 2202.736,
+      "text": "which I part of your argument which I get is like other things are bad and actually and you can't, you know, you can't say that getting other things won't cause long-term effects. The difference here is like, if you take the comparison like the obvious comparison is covid and flu, right, how many times your life have you had flu like properly, exactly how many times you had covid? Probably one or two covid's only been around for five years you've've been on this earth for you know eight times that and a bit more. Yeah Well, you've already told people on the podcast how old we are anyway, so it's fine.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2202.917,
+      "endTime": 2204.882,
+      "text": "Yeah, but they might not remember. They might have had COVID.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2205.182,
+      "endTime": 2207.817,
+      "text": "Well, they won't remember by the next episode anyway if they've had COVID. But yeah, so",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2211.713,
+      "endTime": 2246.581,
+      "text": "you know COVID, probably in the next year or so, so you'll have had it as many times in the last three years, because you live in China since China opened up, than in your whole life of flu. So that's the problem with this. That's. The difference is it's incredibly infectious, maybe because of vaccines, maybe because of its, you know, inserts of HIV, maybe just because it was a virus that just happened to be that way. But whatever the reason, reason, it's incredibly infectious and you're going to get it a lot of times. And you know, can you, can people survive getting this 10, 15, 20 times in their life?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2247.163,
+      "endTime": 2286.357,
+      "text": "Like I mean, I know we don't know the answer to that question, but that's what it's going to be like. And if you look at other things, people are going to get those things one or two times. So that that is already a. A massive difference is the number of times you're potentially going to get covid and it's you know it's. The vaccines don't provide any protection and your immunity doesn't really provide much protection, unless you, maybe, if you've never been vaccinated. There is some argument that says natural immunity if you, you know, are never infected, and you, you got it early on. You may have some natural immunity, but for most people their immunity is not long lasting, so you're going to keep catching it over and over again.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2286.497,
+      "endTime": 2322.842,
+      "text": "A couple of points, um, and I know I'm not talking, I'm not, I'm not trying to speak for everybody. Personally, as far as I know, I've had covid once, um, but, and I've had flu a couple of times now. Vaccines like we don't want to get into it too much, as you say, it's quite contentious. However, flu vaccine is more developed and is more understood. I think it's safe to say flu vaccine's been around for a lot longer and people do take the flu vaccine every year, right? and so I used to sorry, I used to yeah, and I mean I haven't I haven't had one for a while but certainly vulnerable, vulnerable groups do.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2322.902,
+      "endTime": 2367.261,
+      "text": "So if we're talking in generalities about how many times you've had flu, you know it like. Lots of people are taking the flu vaccine every year and are encouraged to. Children are vulnerable populations are, and so I think you know, I think it's the. It's maybe slightly an unfair comparison because the flu does wipe you out. The flu is pretty nasty. Um, I think possibly the reason people have flu less often is because there is a better understood vaccine program do you think it's time to throw in a random ai tenuous link here? uh, go for it like I was. I mean, I think you're, I'll let you do a bit on the ai link.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2367.462,
+      "endTime": 2382.982,
+      "text": "I think I've got something that might. I'm sure you'll have a rebuttal for me. Well, I've got, I've got both. Um, I think I've got something that actually backs it up a little bit as well, which is actually something we talked about on previous episodes. But go ahead with your. What should we call this section? Matt's tenuous link.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2387.53,
+      "endTime": 2423.101,
+      "text": "So COVID infections are going to cause such a loss of intelligence at societal level that we're actually going to need AI to mitigate that, to perform a lot of jobs which need people to be completely cognizant, and also to replace all of the people who will leave the workforce due to chronic health conditions, particularly mental illnesses and things affecting the brain. So there we go. There's my hot take, jimmy, I'll hand that over to you. I'll leave you that hot potato.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2425.092,
+      "endTime": 2470.816,
+      "text": "Where do I start? Hopefully we haven't lost too many people at exactly 39 minutes and 45 seconds. I may not have any friends or family anymore. So I do think that, to soften it a little bit, I think there is a place for AI in solving some of the problems that we're likely to have, and we talked about this on previous podcasts. Actually, the problems we're likely to have in the next 10, 20 or so years where, if things carry on the trajectory they're on, we're looking at kind of population decline and an increasingly elderly population, and I think what you're talking about goes kind of along with that a little bit.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2471.057,
+      "endTime": 2493.982,
+      "text": "So, if COVID has, you know, I think maybe we'll be fully recovered from COVID in 20 to 30 years, but it is something that's going to have long-term lingering effects and, um, especially on the kind of like current generation of people who are like middle-aged during the time of COVID will shrug it off a little bit more easily, and then the next generations it'll be, you know, part of our genome or whatever is my opinion.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2503.851,
+      "endTime": 2549.616,
+      "text": "But yeah, there's probably is going to be a sort of like medium term effect. And then you combine that with all the stuff I was talking about before and I genuinely do think there is a place. Well, there could be a really positive thing that AI could do. Ai and robotics and things like that. I think there is a real positive effect it could have on the world in that it could help to mitigate the effects of having less and less of a workforce being able to support a really struggling healthcare system all these kinds of things, if we can leverage AI to our advantage. Those are some of the places which are already in dire need and will, I think, continue to be put under increasing and increasing strain.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2550.99,
+      "endTime": 2559.369,
+      "text": "So, you know, I think it's a bit of a tenuous link, as you probably already. So you're not going to call it a hot take, though you know, I think the idea like I think I think it's a bit of a tenuous link. Um, as you probably already, so you're not.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2559.409,
+      "endTime": 2567.56,
+      "text": "You're not. You're not going to call it a hot take, though, or you're not. You're not going to criticize the take itself, You're just going to say it's a tenuous link for the podcast, but I think.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2578.53,
+      "endTime": 2603.553,
+      "text": "I think that you're got over previous pandemics. But getting over a pandemic is not just about the two or three years and then you get on with it. I don't. So I don't think it's that straightforward. I think the decline in cognition and all that kind of stuff is a bit dubious, I'll be honest, like I think there was. You know, I know there's been declines in test scores and stuff like that. But then there's, during same time as we had COVID, we also had lockdowns. Oh yeah, but come on, I mean come on.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2604.416,
+      "endTime": 2637.162,
+      "text": "Like really so well, the lockdowns, the lockdowns, I mean we lived in China, right, and people had lockdowns and I'm not dismissing, I know people went through a pretty rubbish time and I know it was horrible for kids. But like the the effect that those lockdowns were supposed to have, you know, several years later, even in places like sweden, which you know basically were just like we're not going to follow all those other measures and yet the effects on them have been the same as everywhere else. The argument about lockdowns, I mean, like they, they definitely had a psychological effect and and they were horrible, I get that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2637.31,
+      "endTime": 2654.876,
+      "text": "but this idea that they have somehow like knocked back everyone's test scores and everyone's intelligence, like, like so we're arguing about things that I don't think we've properly explained because I I kind of just launched into that. So what are we actually talking about here? Um, in terms of, like, test scores and that kind of thing?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2655.939,
+      "endTime": 2700.016,
+      "text": "so I give yeah, there's probably the best example. So the act scores in the us, which are, you know, the main way in which they kind of assess, you know, test scores of people I guess 18 years old I'm not 100 sure, but I presume 18 years old before college. Um, the composite average in 2024 um was 19.5. Before that was 21.6. That doesn't sound a big difference, but since records started in 1993 it's not been below below 20.4. If you look at this on a scale, you can see like how massive the drop and the way that, like literally 2019, it just went off the charts like bang, just like down. I I mean it's when you look at it on a chart.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2700.197,
+      "endTime": 2741.76,
+      "text": "It's pretty frightening when you hear that you're like well, that's only two, the difference is two. But, like I say, it's never been below 20.4. So it's been in a very, very small scale between 20.4 and 21.6 since it started in 1993 and then in 2024, it's 19.5. So it's like you know, well, well below. There's also a lot of stuff around, so characterization of changing cognition before and after COVID infection in essential workers at midlife. So there's a big kind of brand new paper actually in the American journal of open medicine and that shows a significant decrease in cognition among participants infected with COVID, consistent with previous reporting.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2742.23,
+      "endTime": 2770.414,
+      "text": "And it does talk about how you know, cognitive decline follows other infections. So it talks there about West Nile virus, hiv, hepatitis C and chikungunya virus. But this one showed that people who experienced symptomatic covid they didn't say serious code, but symptomatic covid found evidence of lasting decline in cognitive function. I I'm not sure how they can say lasting decline because we don't have enough of a time frame, so I think there's a caveat in there.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2770.996,
+      "endTime": 2802.666,
+      "text": "but declining cognitive function equivalent to 10.6 years of normal aging yeah, and so I did my own research on this, like the covid was something that was a new pandemic and it affected, uh, you know, a disproportionate amount of people compared to, like a normal virus that kind of thing, because it was a pandemic. So it was a serious thing and, as I've acknowledged earlier on, it's been shown to get through the blood brain brain barrier and it has been shown to get through the blood brain brain barrier and it has been shown to like, have a create a reduction in gray matter and this kind of thing in the brain.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2803.052,
+      "endTime": 2830.778,
+      "text": "So it has been shown that it can have an effect which you'll probably say at this point, because when you say the blood brain barrier, I think a lot of people understand that one of the issues there is not many things can cross the blood brain barrier. One of the issues that things like antibodies can't cross the blood brain barrier. So if a virus gets across the blood brain barrier one of the issues that things like antibodies can't cross the blood brain barrier. So if a virus gets across the blood brain barrier, you can't rely on most and I'm yeah, I'm not an expert in this. So there may be some form of cells which help, but you cannot rely on the normal kind of antibody reaction to get into the brain and kill the virus.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2830.798,
+      "endTime": 2858.502,
+      "text": "So if you've got spike protein in the brain, it might degradate over time but it's not the same as the rest of the body because your normal kind of hemoglobin and you know ig cells, ig, hemoglobin, um is it cells? I guess it cells can't get into the brain. So that's a really important point about the brain is a lot of viruses cannot cross the blood-brain barrier and therefore the brain is kind of spared. And they talk about how the brain is literally almost like separate from the body.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2858.522,
+      "endTime": 2910.402,
+      "text": "It's almost like it's outside the body, because this blood-brain barrier like kind of keeps it separate from everything else yes, that being said, I did have a look, and I mean it quickly, uh, on quick inspection found a list of 26 bacterial infections and viruses that can affect the brain and in a lot of cases, I think the problem with COVID so you know, and we don't know this yet, but the problem with COVID is it was not that long ago and in a lot of cases, in a lot of the things that I was looking at probably about 50% actually, you, you know, you could expect full recovery. So whilst, yes, again, maybe there's been a short to medium term effect on brain health, there hasn't been any long-term studies yet because, by its nature, there can't be, um, because it hasn't been long term.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2910.903,
+      "endTime": 2943.631,
+      "text": "And so the question in my mind and, and and unfortunately this isn't, and unfortunately this is not something we have an answer to right now but the question for me is like is it going to be like measles or something like that, which can affect your brain function but you fully recover from, or is it going to be worse? Is it going to be like something like polio, where actually you never recover from it? I don't know. They're two extremes. Covid, does it have an effect on the brain? It seems it does. Does it have long-term health effects? Yes, what's the long-term prognosis and long-term recovery?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2943.731,
+      "endTime": 2993.239,
+      "text": "We just don't know yet. And um, and to a certain extent I mean, okay, without going into what caused COVID in the first place, but assuming it was a natural pandemic, nothing could have mitigated for it. Basically, it was an unknown disease that came out of nowhere and affected us all and again, I feel really bad for anyone who's been affected by COVID long-term. However, I think that the link to you know we need AI to solve this problem for us is pretty tenuous, because there's a perfect, there's a, there's definitely a possibility that you can't argue with, that we'll fully recover from the effects of covid and in 20, 30, 40, 50 years time it'll just be like the spanish flu, but even if we recover fully from it, right if people are being infected.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2994.803,
+      "endTime": 3042.299,
+      "text": "So in the us I think the this was earlier in the year the average infection per person was 2.87 um, and in china now I think it's two. No, sorry, it's below two. It's like it's estimated like 1.7 so you know it's between whatever, yeah no, no, this is that number of infections that people have had, oh yeah, lifetime. So the point is, even if this is something temporary, the issue is like, even if you recover from it, but then you get it again, and then you get it again and again, and again, and that's that, for me, is like the fundamental thing here, and maybe that changed. But I think it only changes one of two ways it either mutates to a point that it kills more people but it kind of to some degree burns out, or there is some really kind of lucky mutation which seems incredibly unlikely.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3042.359,
+      "endTime": 3081.626,
+      "text": "That that sort of, you know, makes it less, um, damaging. Less damaging because I, I think there's something here like people would say that like, oh, omicron is not, as it's not as serious. Well, actually, if you look and again, like you know, people will challenge this, but look at the evidence on this the difference between Omicron and other variants is not that it's less damaging, it's that other variants targeted the lower respiratory, which is your lungs, et cetera, and so pneumonia, and they had a really kind of severe chronic sorry, not chronic acute effect, whereas Omicron seems to be less pervasive, but that's because it goes into the upper respiratory and then from there travels easily into the brain.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3081.646,
+      "endTime": 3116.537,
+      "text": "It also travels into organs. So the kind of chronic and long-term effects seem to be more so if you keep getting infected, even if you this is the problem is like even if you recover, like you then get it again. I want to give myself an example here. Like and this is not the reason that I care so much about, because it doesn't have a huge impact on my life by definition I think I probably qualify as someone who has long covid, because exactly a month after the first time I got covid, I just couldn't remember people's names, to the point where I had to type my boss's first name into the the two column of like sending an email to find out his family name.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3116.557,
+      "endTime": 3152.331,
+      "text": "Because I couldn't remember it. Like, and I've never had problem with names, I'm like some people say, oh, I've always had problems, I never had problems and I couldn't remember. So I walk into a supermarket and just be stood there and people say that's getting older. Well, maybe, but I got it. One month after COVID, bang overnight started and it got better after about six months roughly six, seven, eight months. It got like quite a lot better and then last summer it started. Uh sorry, this summer it started again and I was like this is weird, I haven't had covid. So I did a test of my antibodies and my antibodies were like off the charts and they were like this suggests you've either recently vaccinated or you've recently had an infection.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3152.472,
+      "endTime": 3184.757,
+      "text": "I definitely haven't been recently vaccinated and I don't know that I had an infection, but maybe I did, and then I got the same symptoms again and I still have. Like now I struggle with particularly names, but also remembering words. I have no issues with anything else and this is the thing is very specific for me. I have no issues with carrying out my day-to-day work. I have no issues in the sort of life and thinking about things. It's's very, very specifically memory. It's a particular part of the brain that a lot of the research is this this is where COVID affects the brain. That affects your kind of memory, and I have that memory issue.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3185.271,
+      "endTime": 3194.638,
+      "text": "So for me, like and this is anecdotal, but it's my own personal experiences yeah, I got better, but then I got it again. I just got it again. So that's the risk for me",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3198.11,
+      "endTime": 3229.471,
+      "text": "and that. So that's the risk for me and that's why I talk about this hypothesis which, yeah, it's kind of like fudging it to get in the episode, but I I also think this is like genuinely a thing I think you're going to see and let's put this out there and have a look in five years time a huge effect on the sort of general intelligence of society, because you're always going to have a fairly large proportion of people who are cognitively impacted. And the difference to other things, when you talk about other viruses of causes, is that there has not been a virus that we've known in modern history where people have been just getting it once or twice a year or at least every year.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3229.791,
+      "endTime": 3232.734,
+      "text": "Right, that's the difference is the amount of times that you get it",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3236.118,
+      "endTime": 3254.781,
+      "text": "so, first thing, to go back to your original point most, there's a reason why most viruses live to coexist with their hosts, and that's that they generally do become weaker over time. And they do that because, no, they don't kill. They don't kill, they become weaker in terms they don't kill because.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3254.801,
+      "endTime": 3260.896,
+      "text": "Then, they need to survive, they don't kill. They don't kill. They become weaker in terms of they don't kill, because then they need to survive. They don't have to become weaker, they just have to not kill.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3261.639,
+      "endTime": 3263.634,
+      "text": "Yeah, okay, and having a long-term effect.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3263.694,
+      "endTime": 3268.858,
+      "text": "A chronic health effect is not killing, so the virus can still replicate, so that doesn't have a negative effect on the virus.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3279.83,
+      "endTime": 3307.914,
+      "text": "But yes, but at the same time time. So I hope you're right, by the way, I hope you're right because that would be like the get out. So okay, generally viruses, don't you're correct? Generally viruses don't kill their hosts because it's beneficial to them to be able to live like a parasite, like one, but like side by side with their host. The other thing that happens in parallel with that is that our immune systems have a memory and our immune systems are a very well honed tool that do have a memory, that actually learn like, learn to and even, over generations, genetically learn to combat these viruses better and better.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3307.954,
+      "endTime": 3358.593,
+      "text": "So, again, like it's a living side by side thing, and so we don't know where that's going to go with COVID is my argument. I mean, a good example of this is and I don't think it's actually proven, but it's speculation that the Spanish flu is still around right now and it's one of the you know, I think it's like six or seven possible seasonal flus that we can get, and one of them is derived from probably derived from Spanish flu, and other ones are probably derived from flus that are flu pandemics that are much older than Spanish flu, and so it's you know, and those are things where you know if you have the flu, you'll be taken out by it, you'll feel pretty rough, but we've got that genetic memory and we can fight it off and we've got the immune system that can that can fight it off.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3358.934,
+      "endTime": 3380.374,
+      "text": "Now, that being said, like you don't want to get the flu, and the flu has long-term effects on you as well, or can have long-term effects, and it can definitely take down your immune system to a level where you can get ill with other things like tb and other things that you mentioned earlier on, certainly like lung, um lung diseases that you wouldn't normally get affected by.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3380.394,
+      "endTime": 3425.518,
+      "text": "I think you're probably absolutely right about like building up, building up, you know, over time sort of resistance and and how generations will learn to live with it. But and and the spanish flu, if you take that example, I don't think it's a perfect example, whether it's a good example like it's a perfect example, but it's a good example, like it's a decent comparison. It's not that generation though. So, like our generation and our parents'generation and perhaps, if not, our kids, like a younger generation, we're not going to necessarily sort of develop to live with it. I think our children, or our children's children, yeah, definitely, because you can already see there's already evidence in sort of the human genome that they've adapted and they've two coronaviruses over time.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3425.818,
+      "endTime": 3456.838,
+      "text": "So absolutely, I think that will happen. But that doesn't help people who are alive today, because we're not going to build that resistance in the same way. And and you know I don't want to go into this thing because I think there's there's a pit that we can go down here, which and it will put some people off, but there is a lot of comparisons between covid and not hiv, but aids, right, full-blown aids in terms of you know, and I'm not saying that they're the same thing. But what I'm going to say is like aids just means like, if you take the definition of it, that it is impairing the immune system.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3461.39,
+      "endTime": 3508.816,
+      "text": "People who died of AIDS during the worst of the AIDS pandemic in the 80s and 90s they were not dying of AIDS, they were dying of other things because their immune system couldn't take it, it was compromised yeah it was compromised and there's a lot of evidence that that's what's happening here and this is away from the brain a little bit, but this is the sort of danger here is like maybe over time and in generations we'll learn to live with that. But for people who are alive today, you know they're not going to evolve that immunity because they're losing those like you talk about memory cells, they're losing those t-cells because, I mean this is another thing that's proven is your lymphocytes, like I was talking about, that kind of eight, eight months, is that for a lot of people, for four, six, eight months afterwards, their lymphocytes are sort of, like you know, off the charts low, and that is very, very similar to the way that aids begins.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3508.936,
+      "endTime": 3519.821,
+      "text": "And so it's going to be very, very difficult for people who are alive now to build that immunity when they don't have the t-cells, they don't have the long-term immunity that they would need but okay.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3520.102,
+      "endTime": 3532.752,
+      "text": "So I I think the problem with the comparison with aids is that aids actually attacks your immune system and continues to attack your immune system, whatever aids is the outcome of hiv, so I think it's quite important that aids is not a virus in itself.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3532.832,
+      "endTime": 3534.755,
+      "text": "Right, it's a syndrome that is the result of the virus.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3534.775,
+      "endTime": 3585.461,
+      "text": "Yeah, it's the outcome, but the the net result is that aids and without treatment, aids will um not kill you directly, but kill you indirectly because you'll catch a common cold or something like that and you won't be able to fight it off because your immune system has been severely compromised. But aids does attack the immune system directly. Whereas the question is around covid does the immune system have the ability to recover after you've have had covid? I think the answer is probably yes, which is where there was no evidence that the answer is yes, there's quite a stab in the dark it's's where the comparison, in my opinion, that's where the comparison to AIDS ends, because AIDS does actually attack the immune system directly and continuously attacks it until it's just like nothing left.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3586.431,
+      "endTime": 3588.479,
+      "text": "I don't think COVID has been proven to do that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3588.65,
+      "endTime": 3620.855,
+      "text": "No, but the problem is HIV took, when it started, about 10 years to become fully formed AIDS, and we're only four or five years into this. So the problem is that there's a big question mark on that, that there are a lot of similarities with hiv in terms of, and even in the structure of the virus, but in the way that it is, you know, causing harm, that that is a big big thing to rely on. It probably will be okay. I think that that, yeah, and I said this is not really like what we'd expected to talk about today.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3620.996,
+      "endTime": 3653.814,
+      "text": "So as I said, there are other examples of diseases which compromise your immune system and mean that you get ill with something else. Flu is a really good example, especially if you're part of a vulnerable population, where it will compromise your immune system severely and then you maybe you get something else and that causes real complications, and that's been known about for a very long time now. I'm not saying covid isn't the same as flu or is the same as flu. I think it's a bit of a leap to say that it's more similar to aids.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3656.198,
+      "endTime": 3665.525,
+      "text": "I mean, ask a large language model to compare AIDS, flu and COVID and see what it comes out with. I think you'd be pretty shocked. I think you'd be pretty shocked.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3666.195,
+      "endTime": 3668.6,
+      "text": "There's some homework for you. There's homework for everyone listening.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3668.62,
+      "endTime": 3714.101,
+      "text": "Yeah, so should we go back to the kind of cognitive thing? There was a particular like a really, I guess probably the most famous bit of research right now. So Ziyad Al-A al ali, who is uh, he's based in washington, he's a kind of researcher doctor on uh long covid mainly, but he did a thing talking about iq loss. So this is a big study 113 000 participants. They found individuals who'd recovered from covid and this was not people who didn't hospitalize, it was anybody whether it was asymptomatic or symptomatic experience a decline in cognitive abilities equivalent to a three-point loss in IQ for those with mild cases, those with persistent symptoms face a six-point loss and those hospitalized experience a nine-point loss in IQ.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3715.464,
+      "endTime": 3755.484,
+      "text": "I'm not sure how much I buy into the exact IQ calculations, because one, like you said before, like everyone's different, but two like IQ, is pretty difficult to define, right At the best of times. So I think these sort of like putting a number on it is kind of bullshit, to be honest. But the concern here is, like the lifetime of someone who's young, who's at the current rate, if things don't change, gonna get 20 plus infections. And they talked about how reinfection appeared to contribute to an additional two points. So, whether you take the exact calculations or not, it seems like, like I say, 113,000 people, that's a pretty big piece of research.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3756.655,
+      "endTime": 3797.416,
+      "text": "Those people, every time they got infected, had an additional impact. And there is an argument like the brain is sort of there's plasticity, right, it can recover a lot. They hadn't recovered in this time frame. So even if you recover eventually, like if you've got three or four years that you have that decline, like it's still not good and the implications of these findings you know. A three point decline in iq in the us meant that the number of adults who would then have an iq below 70, which is defined, I think, as becoming a disability, essentially not being able to kind of carry out sort of basic tasks, would increase by 2.8 million based on what, though?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3797.457,
+      "endTime": 3803.224,
+      "text": "based on every single person having this IQ loss, because surely this is people who had serious COVID.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3803.715,
+      "endTime": 3844.525,
+      "text": "Well, no they exactly just said it wasn't people who had serious COVID. People who had serious COVID had a nine point loss. People had persistent symptoms a six point loss and people who had very mild symptoms had a three point loss. So this was based on the three point decline. So this is not saying, you know, for you and me, like based on the fact that we're, like, hopefully not at an IQ of 70, like the loss probably doesn't affect us in such a way as to have that much of an impact, but in the US that's 2.8 million people. So I'm just sort of highlighting here, like it's not about the individual, but it's the societal level impact and you think about the need for increased support services and people who cannot function.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3844.545,
+      "endTime": 3845.567,
+      "text": "Um, like it's pretty stark,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3848.881,
+      "endTime": 3865.06,
+      "text": "it's a big piece of research yeah, yeah, 118 000 in the new england journal of medicine which, yeah, I'm I'm skeptical of most journals now, but like it is seen to be a reputable peer-reviewed journal, so it's yeah, its general standing is good.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3865.16,
+      "endTime": 3907.121,
+      "text": "I'm not going to argue with the research itself. I think that extrapolating that out across a population and talking about an arbitrary level of iq which is defined to be a disability, and all this kind of stuff is relatively dubious in my point of view. Like, like, I think it's a. I think the outcome of the the um research is disturbing and the fact that it can impact your iq directly, which is the only real measure we have, I think, is also disturbing. I think extrapolating out across a population and then saying 2.8 million people this, that and the other, it's like it makes a good headline in a way, but I'm not sure it's.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3907.195,
+      "endTime": 3908.702,
+      "text": "But most people are getting COVID.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3909.075,
+      "endTime": 3923.069,
+      "text": "So why don't you extrapolate? I mean, if you extrapolate a survey of 10 people or 15 people or 100 people, but once you get over a thousand, but once you get over 1,000, you know statistical analysis once you get over 1,000, that's when you start to get into your 95% confidence intervals.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3929.335,
+      "endTime": 3954.8,
+      "text": "When you get to 113,000 people, you can extrapolate it across a whole society, because that's why you use such a big proportion. Well, yeah, but I could probably say, like the fact that we have Facebook now means that most people spend 15% less efficient at work, and then extrapolate that out of everyone. But the fact we've got the internet, it's probably given us better access to information, so actually we're performing much better because we have better access to information. It's like it's, it's I don't know. Extrapolating any of that stuff out across the population is, in my opinion, relatively dubious.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3955.622,
+      "endTime": 3993.308,
+      "text": "I mean, I do, I do think that particular survey, which is the biggest sort of piece of work on the brain effects of long COVID, I do also feel to be, honest. But I also kind of agree with you. I think there's a lot of stuff in that that when I read it it's like this is written for like headline grabbing, like you know, putting the numbers on itq etc is is all about like getting people to go oh, my god, that means me. I've got a three point loss in iq. Like I don't think I've got a three point loss in iq, I think I've got a 20 point loss in short term well, not short term, just memory and a zero iq loss on everything else.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3993.369,
+      "endTime": 4011.663,
+      "text": "So, like it's not, it's not that obvious, but I, yeah, like I said, like, and it's not anecdotal but it is anecdotal, but for me it's a personal experience as well as like I can see it and I can see how, like okay, well, if I just keep getting infected, like where, where does this kind of end?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4011.843,
+      "endTime": 4050.704,
+      "text": "and I that's not helpful to, to use my personal case, you know, but it's quite difficult to not do it as well yeah, I understand, I think, yeah, I just think some of this stuff is a bit headline grabbing and and I've heard such, I've also heard like people saying before I don't know like are we getting smarter in general or not, I don't know like the internet means that we have much better access to information like this is a really really complicated subject I find those scores for us tests like that is the one that like I know you say sort of lockdowns and other stuff, but like it's still declining.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4051.426,
+      "endTime": 4056.4,
+      "text": "That's the thing is. It didn't decline until 2021 or 22 and then now it's stabilized. It's getting worse.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4057.462,
+      "endTime": 4109.38,
+      "text": "Like that one for me is like the one that really kind of stands out it does stand out and I think it's something that we probably need to keep an eye on and see if it does stabilize or see if it turns around. As I said, I I think that any kind of pandemic, and the covid pandemic included, is going to have a. It had a short-term effect, which was lockdowns and, like you know, infection, serious infections with covid, and hospitalization, things like that. I think that it would be daft to think there would not be a medium effect, medium-term effect, um, which is that you know, you're going to have tons of people out of work, tons of people who have their immune system compromised, tons of people that are unable to contribute um, as as well, and that might be, you know, okay, I said, I said lockdowns, but maybe it's partly due to just covid itself.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4109.802,
+      "endTime": 4121.405,
+      "text": "Maybe, you know, maybe those test scores are lower because a load of kids have just been a lot sicker and, on average, it's pulled the test scores down. Does it all have to be down to just cognitive decline? I don't know the one thing pulled the test scores down. Does it all have to be down to just cognitive decline. I don't know.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4122.457,
+      "endTime": 4137.307,
+      "text": "The one thing with the test scores. Anytime you bring kids into this, it's like I said to you I believe the shots are a big part of this. Mrna shots, specifically or in particular, are a big part of this. They're not the whole picture, but they're a big part of it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4140.575,
+      "endTime": 4171.658,
+      "text": "When you bring kids in who mostly were not vaccinated, this is where it becomes problematic, because I'd love to believe it was just vaccines, I'd love to believe it was just vaccines, like that would be easier. And then we can just like you know, we can go to town on that, we can bring down the system and we can, you know, we can kind of like that's getting very animated right yeah, we can like, we can sort it out, but but it's not because it's. It's clearly more than that. I think the the putting kids and young people into this kind of shows that, because most people and I know some people say oh no, most people were not, most kids were not vaccinated.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4172.34,
+      "endTime": 4176.558,
+      "text": "So it kind of throws that argument out okay, so you can say that the okay.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4176.578,
+      "endTime": 4228.308,
+      "text": "So let's just use kids as an example, right? So you can say the reason the test scores have gone down is purely cognitive decline. But also, so imagine a world where there was no cognitive decline. You've gone through COVID, right? So there is lockdowns, so maybe there wasn't as much of an effect as lockdowns as we said, all the rest of it. But even if there wasn't, you've got a period of time where people have been infected more frequently than they would normally, because there's been a new pandemic Now when you've been infected more frequently, even if you're in Sweden which I know is one of the examples you were going to use even in Sweden you've got a period of time where the kids who are taking those tests, they've been out of school for a couple of weeks extra during those two years than they would normally have been, and that's going to directly affect the test scores because you just haven't been at school, you haven't been learning, you haven't been doing your bit.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4230.316,
+      "endTime": 4248.077,
+      "text": "So I don't think it's as. I just don't think it's as straightforward. If you really dig into it, there's probably lots of reasons why it could have caused a reduction in test scores. The proof in the pudding will be do they include improve over time? So like, I don't know how long that time period is, but like, does it go back up again?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4248.458,
+      "endTime": 4282.988,
+      "text": "these act scores in two or three years time, I don't know, I I personally I think we're three years away it could be more with three years away from a kind of day of reckoning and and whether the final day of reckoning is like is covid or jabs or whatever like, but but this is when the kind of truth comes out, I think, because you can't hold this stuff down forever. You look at the other big scandals, health scandals in in time, like smoking, you know where, a long, long time before it was publicly available, it was kind of already known that or proven that smoking was causing lung cancer, but but it took five, ten years.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4283.028,
+      "endTime": 4316.98,
+      "text": "I think the evidence that says is like 10 years. I don't think it'll be that long now because media works in a different way and social media etc. The same thing happened with aids, the kind of aids pandemic. You know the way it was kind of covered up and the way that it was like made out to be just a certain group of people, and that took about 10 years. I think it'll be much quicker than that, but I think we're not that far away from there'll be, there'll be a day of reckoning. So I think you know we can come and revisit if we still do the podcast in three years time we can do another covid episode then preparing for ai podcast yeah, yeah, what did I say?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4317.701,
+      "endTime": 4319.985,
+      "text": "uh, I don't know what you called it I forgot.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4320.547,
+      "endTime": 4324.982,
+      "text": "Oh, I think I just said an ai, if we're still doing a podcast like any, any podcast.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4325.023,
+      "endTime": 4331.691,
+      "text": "I was just. Maybe that time it's just. It's just a conspiracy. I was just clarifying the name of the podcast if anyone I've forgotten.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4332.032,
+      "endTime": 4338.56,
+      "text": "Yeah, I'm thinking like those people have switched off a long time ago it's very likely",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4347.168,
+      "endTime": 4381.577,
+      "text": "let's talk about one more kind of one more kind of bit of like long term sort of effects that I think is sort of relevant, and then we'll we'll try and end on like a positive note because, like I said, you face fear with positivity. So we'll try and come up with some not solutions, but like positive things. But I think we we need to talk a little bit about like long-term sickness and those effects, because I think again, like it seems like I'm I'm fudging a way to put ai in here, but I think on this podcast we started out by talking about the impact on jobs, right, and we talked about, oh my god, like look at this, there's going to be no jobs left.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4381.858,
+      "endTime": 4417.36,
+      "text": "And you know, okay, that hasn't happened as quick as we thought, but we still think there'll be an impact. But actually, if you look at the number of people who are coming out of work, like I sort of wonder and it's it's not another hypothesis here but whether this kind of mitigates some of the job losses. So I'll just put some some stats out here. So in 2019, you had approximately 31 percent of working age population in the uk had long-term health conditions. The beginning of 2023, it was 36 percent. So that is it doesn't sound like a big increase. It's five percent. It's 2.5 million people being economically inactive.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4417.781,
+      "endTime": 4456.702,
+      "text": "That's an increase of 400 000 since the start of the pandemic. Right since 2020, economic inactivity in the uk has risen by 900 000, and 85 of that is attributed to long-term sickness. So you know, okay, we can argue mental health, muscular, skeletal things from people working at home, but let's just put a fact in there that exactly when two things happened one, there was the pandemic and people got covid. Two, people got vaccinated when those two things happened, then suddenly there was 400 000 people extra who were out of work. So I think it's very difficult to pin that on anything other than the pandemic.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4456.802,
+      "endTime": 4469.741,
+      "text": "Sorry, can we go back a second? Where did these numbers come from? 31% of working age population reported long-term health conditions. That just sounds like a lot to me.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4470.303,
+      "endTime": 4509.768,
+      "text": "I mean, wait till you hear the US ones. Okay, that doesn't mean that doesn't mean those people were all had long-term health conditions. That meant that they didn't work. It just means they had long-term health conditions. That meant that they didn't work. It just means they had long-term health conditions. So if you've got a chronic back problem, you've got a health condition. So I'll go to the US. So people in the US who identified as having a disability but were not necessarily unable to work 2018, 12.6%. 2019, 12.6%. 2020, 28%. Take that as an anomaly, but it's the first year. You know, people were at home, people were scared, people were, you know, all kinds of mental health issues.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4510.315,
+      "endTime": 4515.608,
+      "text": "2021 dropped down to 15%, so only two and a half percent higher than it was in 2019.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4525.355,
+      "endTime": 4556.882,
+      "text": "2019, 2022, 26 percent. 2023, 28.7 percent. So you have, since 2019, you've got a more than doubling of people in the US who identify as having a disability. Again, two things happened since 2019 one, a pandemic. Two, massive vaccinations. So I'm not sure we'll. You know, like I said, we'll, we'll work out which of those two is the issue, but we had those two things. Yes, people say a lot of that was for mental health, but you know, okay, but only two things change. And are we really saying that mental health issues resulted in a doubling of people who claim to be disabled?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4558.244,
+      "endTime": 4594.284,
+      "text": "so the problem with some of this is like linking it directly to COVID I think is very difficult. I know that the numbers have gone up and they do correlate with those years. I mean about the first start. I think the average age, basically the average age of working age people, has gone up in that same time period. So you know, obviously as you get older, the likelihood that you're going to have a long-term health condition is going to increase and at the moment, because of the ageing population that we have, the average working age of the average working age person literally has just gone up. So those two things are going to coincide.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4595.356,
+      "endTime": 4629.119,
+      "text": "My point is not that it's not to do with COVID. My point that it's like always hard to separate things out and say it's correlation, not causation for want of a better term. The numbers in the US around the disabilities is a bit different for me, and other factors might come into that. So one of the things is that we're always redefining what constitutes a disability. Um, you know, there are a lot of things that never used to be considered a disability that are now considered a disability, so, um, things like adhd, and there's loads of things that never.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4629.139,
+      "endTime": 4631.765,
+      "text": "Sure we didn't just start doing that during the.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4631.825,
+      "endTime": 4689.04,
+      "text": "No, we didn't, we didn't and so I'm not saying that solely accounts for those numbers. Um, that you went through. I think that you know again it, when you go back to the conversation we were having earlier, like again, like a rush, like a rational from a rational point of view, a massive pandemic is going to have an effect on the overall levels of disability in a population, because everyone got covid, different people got affected differently, but it was a really serious impact on society in general. Um, so I, but I guess what I'm trying to say is like how much of it's due to COVID and how much of it's due to other things like having an aging population, the fact that we're redefining what disability means over time, which we are like it's, you know, maybe not in that timeframe, but if you go back over 20 years, it would be really hard to make an apples to apples comparison around that particular statistic.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4689.1,
+      "endTime": 4703.877,
+      "text": "So I think I think it's there's a nuance to it. Do I think there's been an effect or an impact by COVID? Absolutely, completely agree. I'm not sure that it makes up all of the numbers in those statistics, I guess.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4713.508,
+      "endTime": 4732.061,
+      "text": "Right. So let's go back to the early episodes where we put in a well, what can we actually do about this? Then let's try and do a bit of that so we end up on a kind of positive for the podcast. Do you want to kick this off or do you want me to have? You got anything that people can do? No, I think, or any advice to people, as a wise old sage that you are.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4733.323,
+      "endTime": 4774.787,
+      "text": "Indeed A young sage. I think stay away from COVID if you can, like you know that's probably common sense. Anyway, I've definitely seen a whole bunch of people that have had COVID, that have been very heavily seriously impacted, family members who've been seriously impacted by COVID and have had some of the long term experience, some of the long term effects that we're talking about. I think population wise, um, it probably remains to be seen, but in terms of on an individual level, like, look after yourself, protect yourself, and if you have COVID, um, or if you think you have COVID or some or anything else, to be honest, like, um, you know, protect other people around you as well.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4774.847,
+      "endTime": 4808.225,
+      "text": "Don't go to work when you're seriously ill and infect everybody else. Um, I know that a lot of people feel like you know you should be, you should just go to work unless you're absolutely floored by something, um, but it's not necessarily about how you feel, it's about protecting other people, and I think that's a really important thing. That gets missed a lot of the time. Uh, and if your boss is pressuring you to come to work because you know you've just got a bit of a sniffle, then I think it's a fair argument to make that you probably you don't want to really take out 10 other people, um, cause that's not going to help your work environment either.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4808.695,
+      "endTime": 4850.11,
+      "text": "So on that point, I think you know, just stay strong on that and, um, I think that's something that society can do in general. Uh, and then and then, yeah, like, look after yourself. I think generally, generally, we probably could be a lot healthier. Um, I'm always battling with myself over this. It's a continuous battle that all of us have in a world where you know it's very easy to eat the wrong things, to drink the wrong things, to, you know, to become overweight and to become obese. All of these things impact your health easily, just as much as any of the things we're talking about today. Uh, and that's been proven time and time again, and there are things that you can influence in your own life.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4850.19,
+      "endTime": 4862.248,
+      "text": "So I would say those are probably the big things. For me is kind of just I mean, it sounds simple but be healthy and look after your um, look after your, your neighbors I don't disagree with any of that.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4862.315,
+      "endTime": 4897.579,
+      "text": "In fact, I kind of say similar things slight slightly different. I think one thing I would say is like people should still test, so a lot of. I remember some family members who were saying well, we don't bother testing because whether it's cold or flu or covid, it's the same thing, there's no medication for it, and I think that's sort of right. Like I think that the medications are out there, you know that are issued by certain pharmaceutical companies, are useless and are ridiculously expensive. But it's not the same as a cold. And even if you haven't avoided catching it, you need to give your body the absolute best way to recover.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4897.619,
+      "endTime": 4900.286,
+      "text": "And I would say, like, if you've got a cold or flu or whatever,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4903.655,
+      "endTime": 4933.521,
+      "text": "you can kind of recover and then you can kind of, okay, you maybe ease yourself back in but you can go back to doing normal things. But and if you've got covid, like to be honest, knowing the long-term effects, whether they're going to change over time, you need early treatment. There are certain, you know, drugs out there that some people would say are good, some people say are bad. Personally, I will, I will take some of those things, supplements, and you know people would say well if you eat healthily. Well, no, when you're recovering from covid, covid is stealing like it loves glucose but it steals a lot of nutrients from your body.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4933.601,
+      "endTime": 4979.182,
+      "text": "Like you want to make sure your body is in tip-top condition, so if that means extra supplementation, your things like taurine are really effective. Like you should take those things. Rest for me is like number one um and that like not exercising, like if you if you look there's quite a few kind of you know particular heart health experts who've said things from anything from a month to like six months, seriously saying not doing you know sort of really exerting yourself. I think you know most people are not going to stop doing exercise for six months. But, to be honest, like your recovery period, you need to treat it, in my opinion, as like a month where you eat really well, you sleep really well, you just do everything to put yourself in the best condition possible and then, kind of you know, god takes the kind of the rest of it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4979.262,
+      "endTime": 4996.52,
+      "text": "But there are bits that you can handle, there are bits that are in your hands. It's not completely out of your hands. So you know, making sure you're in tip top condition is not possible all the time, but for that month from the time that you get sick when you test negative is not the end of it. Like I would say you've got a month after that. That is like the key point.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5000.935,
+      "endTime": 5026.941,
+      "text": "And I think that is like the key point. And I think another thing that I would say is, like people say you can't not catch it, well, you can't, but you can, you can reduce. Well, you can not catch it, you can never go out, but, like living in the normal world, you can reduce the viral load. Right, I'm not going to talk about masks, it's too politicized. Like I wear one when I get on a flight, etc. People will tell me oh, it's worse. You get microplastics. Yeah, okay, maybe, like I just make the decision that I'm used to it and I think it kind of works and I think it has some effect. So I'll continue to do it, but I know most people won't.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5027.061,
+      "endTime": 5051.081,
+      "text": "But there are sprays that you can use again. I think they're pretty effective. You've got ones which can present like a gel in your nose before you go out. There's things that you can spray when you get back, like again, just like flushing your nose out with salt water. Like it reduces the viral load. The less viral load there is, the less light it is to cross the blood brain barrier. Like there are just things that are, yeah, they're just kind of sensible, but you know you don't have to do it. I'm just saying those things are out there.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5056.704,
+      "endTime": 5117.737,
+      "text": "I mean, I know people in China who so like in some sense it's like you can't not catch it without going out, but you can try and minimize. I think one of the big things for me is like we need to shift the Overton window on this. So you know, like I said before, I think it will come out in the end and whether it's as bad as I think, I hope it's not, but people will see that hang on. There are long-term benefits and we've not been told the truth, we've not been given the right information. I think that can be sped up. So you know, for people to lobby, like schools, workplaces, to just clean the air, like put in air filtration, put in blue lights, with there's blue lights on wavelength of 405 to 470 um nm which basically kill viruses but don't cause damage to human skin or probably don't cause damage, like there are things like that that might seem like they're expensive, but even if you take out the massive long-term effects and you just say people are getting sick, like once or twice a year, like the economic value of not having people sick is worth it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5117.798,
+      "endTime": 5138,
+      "text": "So like trying to get that and trying to improve. That's not just about COVID, that cuts down, you know viruses in general and the other thing and this is where, like another tenuous link to AI but you use AI, use perplexity in particular, like to get information. So if you think, oh well, no one's telling me about this or you don't know, you know",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5145.555,
+      "endTime": 5169.067,
+      "text": "you don't want to trawl through all the crap and the the quagmire of social media, you can just ask perplexity to tell you about the latest like what, what is like the latest covid news, and just like just have an understanding of it and like I say I'm not telling people what they should do, like I think that one of the biggest issues with the whole, you know, the pandemic was telling people what they could and couldn't do. You can't go out, you must wear a mask, but just let people like treat people as grown-ups and let them make decisions based on the actual facts. And that involves, you know, knowing the information.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5169.087,
+      "endTime": 5189.266,
+      "text": "And then if you decide you don't care. Well, that's fine, like. What makes me angry is that people are not giving the information. They're not necessarily being lied to, but they're being gaslit on it and're just not being told. They're being given this kind of false impression that we've moved on when we can't fully move on, and so that's kind of my ending gambit, I guess.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5192.116,
+      "endTime": 5215.46,
+      "text": "Yeah, I think the biggest thing in all of what you've just said is, yeah, arm yourself with information. Like you can listen to this podcast and, whether you believe Matt or believe me or believe you know a bit of everything that we've said. You know you can do your own research on this stuff. Something like Perplexity, as Matt mentions, is a really good resource. There's loads of other good resources online,",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5218.696,
+      "endTime": 5245.704,
+      "text": "you know. Arm yourself with information and think about what you're doing. I think because, uh, if you, if you give strong consideration to what you're doing, then all of this a lot of what we said, kind of would make sense one way or another well, if you've made it to the end of this episode, then uh, let us know and I'll send you a preparing for ai hat um, because, genuinely, thank you, um.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 5246.065,
+      "endTime": 5270.156,
+      "text": "If you didn't make it to the end, but you've just skipped to the end to listen to the music, then that's also cool, but, uh, I presume you have listened, if you're hearing me now. So, thank you very much, um, for indulging me on one of my I don't call it passion project because I I fucking hate it but, um, a thing that I think about a lot. So, thanks for listening and, uh, hopefully we will see you all next week. Goodbye, goodbye.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 5283.949,
+      "endTime": 5294.68,
+      "text": "Screens glowing dim in the midnight haze. Everyone's walking in a digital daze. Can't remember what we knew yesterday. Is it evolution?",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Lloyd Christmas",
+      "startTime": 5294.72,
+      "endTime": 5355.545,
+      "text": "going the wrong way. Are we getting dumber? Drop the bass. Getting younger in this place? Brains getting slower every day. Can't think it over, are we okay? Post-pandemic fog in everybody's mind, missing pieces that we can't rewind, global symptoms we're trying to find. Are we leaving common sense behind? Viral thoughts, viral fears, signal fading, static. Ears Can't tell truth from what appears. Brain drained through the fears. Are we getting number? Drop the bass, getting number In this place? Brains getting slower every day. Can't think it over. Are we okay? Questions echo in an empty room, digital static and impending doom.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Lloyd Christmas",
+      "startTime": 5356.136,
+      "endTime": 5375.977,
+      "text": "But maybe we're just overthinking. Soon In this bass-dropped afternoon, it's the MLNA 2, you know, down the rabbit hole we go. Time's running out, but we still just got time. Time to change the paradigm, are we okay?",
+      "chapterIndex": 9
+    }
+  ]
+}

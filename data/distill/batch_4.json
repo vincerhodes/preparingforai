@@ -1,0 +1,1677 @@
+{
+  "episodes": [
+    {
+      "slug": "s2-2024-07-05-election-interference-the-shocking-truth-a",
+      "format": "special",
+      "era": "peak",
+      "summary": "Reacting to Channel 4's 'Can AI Steal Your Vote?', Matt and Jimmy dissect how a fake social app fed deepfakes of Sunak and Starmer to 25 voters and swayed 23 of them within two weeks — often with a single targeted fear like a £35 GP charge. They widen the lens to AI-cloned news anchors in India, a Kate Middleton imprisonment deepfake circulating on WeChat, and the collapse of trustable evidence, landing on practical defences: read manifestos, think critically, and get off social media before elections.",
+      "keyTalkingPoints": [
+        "Channel 4 experiment: 23 of 25 voters swung by AI-generated content in two weeks via the fake 'Echo' app",
+        "One well-targeted sentence (NHS £35 charge, immigrants atop housing lists) was enough to flip most participants",
+        "India: cloned news-anchor deepfakes produced in hours, in multiple languages, all accepted and published on YouTube",
+        "China: a fake Kate Middleton 'imprisoned by William' video was allowed through censorship to brew as clickbait",
+        "Even after debunks, anger persists — the 'synapse is already rewired'; confirmation bias beats corrections",
+        "Defences: read party manifestos directly, critical thinking, avoid social media before elections, Ground News slider"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Even AI-aware viewers can be fooled by good deepfakes, and the unaware have no reason to doubt them",
+          "Mainstream media has so far debunked big deepfakes quickly, but lower-profile races and swing states are the real risk",
+          "The answer is critical thinking and questioning everything online — tiring, but the alternative is being sold a lie",
+          "For elections specifically, people should read manifestos and watch debates rather than trust clips"
+        ],
+        "matt": [
+          "Evidence itself is no longer believable — we are in a 'post post-truth' world staring at 99%-real fakes",
+          "He does not trust fact-checkers or mainstream media in general; only self-verification and manifestos",
+          "Companies and states will steer even innocent joke deepfakes once they go viral, as China's censors did",
+          "Admits he has been struggling for months to know what to believe and recommends steering clear of social media"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "Deepfake efforts will concentrate on the November 2024 US election as the big target.",
+          "quote": "the US election is the big one and I think getting this kind of stuff out there ahead of of, you know, November",
+          "timestampSec": 1075.644,
+          "category": "dated",
+          "timeframeLabel": "By the 2024 US election (Nov 2024)",
+          "status": "pending",
+          "topics": [
+            "deepfakes",
+            "elections",
+            "us-politics"
+          ],
+          "targetDate": "2024-11-05"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "It is only a matter of time before a major AI disinformation operation gets past mainstream media scrutiny.",
+          "quote": "what would be interesting for me is when, when is the first one of these going to get past the mainstream media, so to speak?",
+          "timestampSec": 745.315,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "deepfakes",
+            "media",
+            "elections"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "As deepfakes get easier, low-profile races in smaller places will be nudged without media spotlight.",
+          "quote": "what about in lower profile stuff that isn't in the media spotlight, where you know you could actually be nudging swing states in, like smaller rural places",
+          "timestampSec": 868.805,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "deepfakes",
+            "elections",
+            "disinformation"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2024-07-03-the-tech-optimist-from-generalist-to-ai-in",
+      "format": "guest",
+      "era": "peak",
+      "summary": "Self-described generalist Ben Cook argues AI is a bottom-up empowerment revolution: from ranking job candidates in minutes to building a call-center QA prototype with no software background. He pushes back on doom with Luddite history and washing-machine analogies, insisting new jobs will come and humans stay in the loop, while conceding there is an investment-driven bubble and that specialists face the greatest risk.",
+      "keyTalkingPoints": [
+        "'Age of the generalist': LLMs brief anyone on any field; specialists whose life work is a narrow task are most exposed",
+        "LLMs shine on repetitive flows needing a touch of creativity; tightly-guarded rails still wobble (prompt injection, 'eyeball soup')",
+        "Regulation: EU over-regulates, US regulates after the fact, China regulates the algorithm — Matt calls China's 'best of the bunch'",
+        "Hype cycle: at the top and driven by investment needs, but there will be '50 hype cycles'; short-term overestimated, long-term underestimated",
+        "Education: LLM-as-patient-teacher beats declaring 'code red'; teach logic and interpretation, not syntax",
+        "Matt predicts social unrest and data-center attacks once robots take manual jobs; Ben counters with no-mass-unemployment history"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Boxed, prescriptive LLM tasks (CV ranking, extraction) barely hallucinate — the use case Ben demos is one of the best",
+          "The hype faded because economic benefits are a slower burn; most people still treat chatbots as toys",
+          "Dismissive coders should get on board now — the models improve exponentially and burying your head in the sand is the worst option",
+          "LLMs are not calculators; judging them on maths misses what they are for"
+        ],
+        "matt": [
+          "Agrees AI empowers generalists but keeps his gaze existential and long-term — short-term hype, underestimated long-term risks",
+          "Quotes Keith Teare: Aschenbrenner overestimates short-term and underestimates long-term impacts; we are at the top of a hype cycle",
+          "China's algorithm-focused regulation is the best of the bunch; the UK is carving out a genuine safety/governance niche",
+          "Predicts some social unrest, attacks on data centers and a public backlash against figures like Sam Altman"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Ben Cook",
+          "claim": "Within 5-10 years, job applicants will be expected to have AI skills, even if only chatbot use.",
+          "quote": "There's going to be an expectation in 5, 10 years'time that when you are applying for a job, that you have skills in using AI, even if it's AI chatbots",
+          "timestampSec": 3819.452,
+          "category": "dated",
+          "timeframeLabel": "Within 5-10 years (2029)",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "skills",
+            "education"
+          ],
+          "targetDate": "2029-07-03"
+        },
+        {
+          "host": "Matt",
+          "claim": "At some point people will attack data centers and figures like Sam Altman will struggle to appear in public.",
+          "quote": "but that there will be at least some level of people that attack data centers and you know people like sam altman will find it difficult to go out in public because there'll be enough of a backlash.",
+          "timestampSec": 3387.826,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "social-unrest",
+            "jobs",
+            "backlash"
+          ]
+        },
+        {
+          "host": "Ben Cook",
+          "claim": "There is an AI bubble and the hype has already started to deflate.",
+          "quote": "There is a bubble. There's definitely, I mean, the hype cycle. Has it started to deflate? Yet I feel like things have kind of gone off the boil a bit recently.",
+          "timestampSec": 2871.237,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "hype-cycle",
+            "investment",
+            "markets"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "Most podcasts will eventually be AI-generated, so human podcasters have limited time left.",
+          "quote": "there is a school of thought that most podcasts will just be ai generated, so we probably haven't got that long left",
+          "timestampSec": 3885.626,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "media",
+            "generative-ai",
+            "podcasting"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2024-06-27-emergency-episode-safe-superintelligence-a",
+      "format": "guest",
+      "era": "peak",
+      "summary": "The first 'emergency episode' responds to Ilya Sutskever founding Safe Superintelligence days after their relaunch call-to-arms: Matt wants to believe Ilya but questions how safety-first wins an ASI race against investor pressure, quoting Zvi Moshkowitz's 'worst possible thing' critique. They also cover Claude 3.5 Sonnet topping benchmarks at a fifth of Opus's cost, the UK AISI's pre-release safety evaluation, and the Glasgow paper arguing ChatGPT is 'bullshit'.",
+      "keyTalkingPoints": [
+        "SSI aims for a 'straight shot' to safe ASI — but you cannot reach ASI without passing AGI, and alignment of a superintelligence may be impossible",
+        "Matt believes Ilya is genuine but 'Sam Altman is now the devil'; trillion-dollar compute needs will let investors tip the balance",
+        "Zvi Moshkowitz quote: Ilya is 'the latest to do the worst possible thing', calling it 'safe' is not an improvement",
+        "Claude 3.5 Sonnet beats Opus and GPT-4o across benchmarks while faster and roughly five times cheaper; best-in-class vision",
+        "UK AISI ran a pre-release safety evaluation — Britain is 'walking the walk' on governance and pressures OpenAI to follow",
+        "Hicks et al (Glasgow): LLMs produce 'soft bullshit' (no concern for truth) and maybe 'hard bullshit' (designed to seem truth-seeking)"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Most curious how SSI could technically make a superintelligence safe — a truly superhuman system would have something like free will",
+          "If SSI succeeds it may force OpenAI to put safety back on the agenda; the announcement keeps safety in the headlines either way",
+          "Claude 3.5 Sonnet is the best model right now — Anthropic is superseding OpenAI in quality, speed and cost",
+          "The 'ChatGPT is bullshit' paper is welcome coping — LLMs are not as advanced as their makers claim"
+        ],
+        "matt": [
+          "Torn: believes Ilya's intentions but thinks investor pressure will eventually corrupt any safety-first ASI venture",
+          "The real positive is narrative — the industry's top technical mind putting safety first legitimizes the whole governance agenda",
+          "Anthropic has taken the ethical seat OpenAI vacated; SSI adds a player and decentralizes power in the race",
+          "Quotes Zvi's pessimistic take and demands substance: 'How is he going to make it safe? His statements tell us nothing'"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "Claude 3.5 Sonnet will soon be followed by 3.5 versions of Opus and Haiku.",
+          "quote": "It's going to be followed, I would imagine, by a version 3.5 of Opus and Haiku.",
+          "timestampSec": 844.742,
+          "category": "dated",
+          "timeframeLabel": "By end of 2024",
+          "status": "pending",
+          "topics": [
+            "anthropic",
+            "models",
+            "product-launches"
+          ],
+          "targetDate": "2024-12-31"
+        },
+        {
+          "host": "Matt",
+          "claim": "Anthropic is ahead for now, but the model lead will probably change hands within weeks.",
+          "quote": "at the moment they're ahead in the race, but you know it'll probably change in a few weeks time, I'm sure",
+          "timestampSec": 1366.191,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "anthropic",
+            "openai",
+            "competition"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "If SSI brings safety to the forefront it could force OpenAI to rethink and put safety back on the agenda.",
+          "quote": "if it brings safety to the forefront, then maybe it forces companies like OpenAI to have a little bit of a rethink and to actually start putting safety on the agenda again.",
+          "timestampSec": 745.01,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "ai-safety",
+            "openai",
+            "ssi"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "Soon someone will claim ASI is achievable imminently, as they already do for AGI.",
+          "quote": "I think no one has kind of claimed that ASI is possible by September or 2024, where they have for AGI, although maybe that's going to change.",
+          "timestampSec": 267,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "asi",
+            "agi",
+            "forecasting"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s2-2024-06-24-podcast-relaunch-it-s-time-to-urgently-act",
+      "format": "guest",
+      "era": "peak",
+      "summary": "The season-two relaunch is Matt's 'call to arms': with experts putting 20–99.999% odds on AI existential risk (Hinton 50-50 within 5–20 years), only two paths avoid dystopia — a catastrophic 'there goes Tokyo' incident or a mass public-sentiment shift forcing governments to regulate frontier-model development. They argue self-regulation is dead (OpenAI disbanded its safety team; Nadella: 'we are below them, above them, around them'), the EU AI Act governs use not development, and propose nuclear-style embedded inspectors while Jimmy explains alignment and universal jailbreaks.",
+      "keyTalkingPoints": [
+        "P(doom): Hinton puts human vs advanced AI conflict at 50-50 within 5-20 years; Jampolsky ~99.999...%; 20% is the agreed 'floor'",
+        "Two ways out: a catastrophic AI incident sparking global backlash, or massive public sentiment shift — Matt thinks option two is already too late",
+        "AI unlike nuclear: no deterrent (a better AI can disarm yours) and under 10% of spend on safety versus ~90% for nuclear",
+        "EU AI Act is the gold standard but regulates use/application, not frontier model development where the existential risk lives",
+        "OpenAI coup aftermath: safety-minded board members all out; Microsoft is ubiquitous and gets a free pass; Nvidia is the fuel of the AI fire",
+        "Alignment primer: black-box training, RLHF, universal jailbreaks (Pliny has jailbroken every major model); future models will act, not just talk"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Three or four big tech firms self-govern for PR — self-regulation has never worked, so governments and people must act",
+          "Regulating AI resembles fighting tax loopholes: companies can outspend regulators, making it 'almost a non-starter' — but still worth pushing",
+          "Job losses will make AI a real political topic; governments regulate impacts, which is their comfort zone",
+          "AI creeping into power grids and industries is a huge slow danger — massive centralization of power in coming years"
+        ],
+        "matt": [
+          "Relaunch manifesto: dedicate every resource to safe development — 'there is no rule that says we'll make it' (Robert Miles)",
+          "Two ways to avoid dystopia and the sentiment-shift option is already too late, so the podcast must catalyze pressure",
+          "The EU Act does not touch model development, which is what must be governed; nuclear-style inspectorate embedded in labs is the model",
+          "Pause if you cannot prove safety; AI is one of the world's three big issues and could make the others irrelevant"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "Once 2024's elections settle, AI governance will be higher on the political agenda.",
+          "quote": "When the dust settles from those, I think this will be more on the agenda and I think there is a space to start making a difference and getting involved in that space.",
+          "timestampSec": 2731.357,
+          "category": "dated",
+          "timeframeLabel": "By end of 2024",
+          "status": "pending",
+          "topics": [
+            "governance",
+            "regulation",
+            "politics"
+          ],
+          "targetDate": "2024-12-31"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Rising visible job losses from AI are when it becomes a real topic of political discussion.",
+          "quote": "As we start to see those, as we start to see more and more job losses and AI replacing jobs and robots replacing jobs and all the things we've talked about in previous episodes. I think that's when it will start to become a real topic for discussion",
+          "timestampSec": 1666.287,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "politics",
+            "ai-impact"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "Existential threats from AI could arrive in three years or thirty — nobody knows, so development must be governed now.",
+          "quote": "they could be 20 years away, 30 years away or three years away. We just don't know",
+          "timestampSec": 951.377,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "existential-risk",
+            "forecasting",
+            "governance"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "AI enables a massive centralization of power and resources over the coming years.",
+          "quote": "there's huge potential for a massive kind of centralization of power resource whatever you want to call it over the like coming years",
+          "timestampSec": 2536.798,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "power-centralization",
+            "geopolitics",
+            "ai-impact"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-06-18-comms-pr-it-all-comes-down-to-trust-with-s",
+      "format": "deep-dive",
+      "era": "peak",
+      "summary": "After a news catch-up — Apple's ChatGPT-in-Siri privacy paradox and Reuters/Oxford data showing only 1–7% daily AI use across six countries — the hosts soft-launch a relaunch toward governance and alignment. Guest Daniel Lyons explains PR adoption is still executional (monitoring, data analysis, translation; ~40% of tasks AI-assisted) and held back by skills gaps, billing ethics, and above all trust, while Matt calls prompt-engineering careers 'bollocks' and argues crisis-management AI is only a couple of years away.",
+      "keyTalkingPoints": [
+        "Apple Intelligence integrating ChatGPT into Siri contradicts Apple's privacy brand; dedicated AI hardware like the Rabbit is stillborn",
+        "Reuters Institute: ~30% across six countries never heard of any AI tool; daily use 1% Japan, 2% UK/France; Claude awareness 2-5%",
+        "PR: AI does monitoring/data analysis/translation; strategic work (crisis, relationships) stays human — CIPR figure ~40% of tasks AI-assisted",
+        "Prompt engineers/architects: Matt — 'bollocks... an industry that might exist for a year and then it's gone' as models understand natural language",
+        "Trust is the No.1 adoption barrier — 'we never asked for this'; EU AI Act will force AI-content labeling; human-made quality marks may emerge",
+        "Future: 'boardroom AI advisor' in business-continuity plans; one-person AI agencies could out-compete big firms"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "People already use AI daily without knowing it — integration into search and phones delivers ubiquity without awareness",
+          "Generative AI is a cheat around writer's block: scaffolding you rewrite; AI-assisted labeling of content will become unworkable",
+          "Expects the first billion-dollar one-person AI companies within 5-10 years, massively disrupting service industries",
+          "China's AI rules include progressive worker-protection measures — worth a dedicated regulation episode"
+        ],
+        "matt": [
+          "Awareness of AI tools matters less than awareness of AI's coming societal change — and most people have neither, which scares him",
+          "Trust in AI will never be fully overcome 'in our lifetimes' — it is the biggest barrier, and it is about who controls AI",
+          "Prompt-engineering as a career is 'for the birds'; AI crisis-management tools are maybe a couple of years off and will strip out teams",
+          "Credits named cuts over stealth cuts, but expects regulation to arrive too late for many people"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Daniel Lyons",
+          "claim": "PR industry hesitancy about AI will fade within 6-12 months and structural impact will follow.",
+          "quote": "but I think within the next sort of six months you know 12 months I think I think that will slowly sort of ever way and then actually the sort of the industry itself will sort of start to see the impact",
+          "timestampSec": 2503.48,
+          "category": "dated",
+          "timeframeLabel": "Within 6-12 months",
+          "status": "pending",
+          "topics": [
+            "pr",
+            "ai-adoption",
+            "industry-change"
+          ],
+          "targetDate": "2025-06-18"
+        },
+        {
+          "host": "Matt",
+          "claim": "AI crisis-management systems capable of handling organizational nuance are only a couple of years off.",
+          "quote": "I don't think it's a long way off, I think it's maybe a couple of years off, but you can easily see a model being created that allows you know within an organization for it to pick up the nuance, to be able to do most of that crisis management.",
+          "timestampSec": 2745.866,
+          "category": "dated",
+          "timeframeLabel": "Within 2 years (2026)",
+          "status": "pending",
+          "topics": [
+            "pr",
+            "ai-adoption",
+            "jobs"
+          ],
+          "targetDate": "2026-06-18"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Within 5-10 years the first one-person-plus-AI company worth billions will emerge.",
+          "quote": "maybe in the next five, ten years, we'll see the first sort of you know company that's just one person and a bunch of ais, who becomes worth you know billions of dollars",
+          "timestampSec": 3043.227,
+          "category": "dated",
+          "timeframeLabel": "Within 5-10 years (2034)",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "entrepreneurship",
+            "disruption"
+          ],
+          "targetDate": "2034-06-18"
+        },
+        {
+          "host": "Matt",
+          "claim": "Within a year, far more people will be thinking about, worrying about and acting on AI.",
+          "quote": "a lot more people will be thinking about and worrying about and acting on and you know, getting involved with AI. I'm pretty sure that's the case.",
+          "timestampSec": 575.465,
+          "category": "dated",
+          "timeframeLabel": "Within 12 months",
+          "status": "pending",
+          "topics": [
+            "ai-awareness",
+            "society",
+            "adoption"
+          ],
+          "targetDate": "2025-06-18"
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-05-30-jobs-is-the-impact-of-ai-on-jobs-heating-u",
+      "format": "deep-dive",
+      "era": "peak",
+      "summary": "The hosts argue the pace of AI job losses has stepped up: viral first-person accounts from a graphic designer (nade straight, ~750k views) and a copywriter (Ashen Guardian), plus hard corporate announcements — BT cutting ~40% of roles by 2028-2030 with 10,000 direct AI replacements, and IBM pausing non-customer-facing hiring (~7,800 roles). An anonymous publishing veteran describes senior editorial jobs replaced by junior 'social and AI' hires, Google AI answers gutting referral traffic, and generative content convergence, before Hinton's UBI plea and Musk's 'universal high income' close the episode.",
+      "keyTalkingPoints": [
+        "Microsoft Copilot Plus PCs add an NPU plus 'Recall' snapshots of everything — useful but a privacy own goal; on-device LLMs are the positive",
+        "Anthropic's Golden Gate Claude: amplifying one feature gave the model an identity crisis — the first real look inside a frontier model",
+        "BT: 130k staff to 75-80k by 2028-30 (40%), including 10,000 roles as direct AI replacements; IBM: hiring freeze on ~7,800 back-office roles",
+        "Anonymous guest: it is senior jobs going, replaced by juniors with 'social and AI experience'; Google AI overviews slash referral traffic",
+        "If trained writers cannot earn, models run out of lived-experience data; all content converges on generic AI output",
+        "Hinton told Sunak to introduce UBI now; Musk pitched 'universal high income'; Lazy Owl video offers a Culture-like third way"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "We are at a paradigm shift: companies now openly say AI replaces jobs, and that normalization will spread",
+          "Agentic models like Devin 'don't really work' yet — they loop and burn money; junior developers are most exposed",
+          "If everyone drafts with ChatGPT, all content converges into the same generic output",
+          "Global poverty should be fixed before anyone gets a universal high income"
+        ],
+        "matt": [
+          "Stealth cuts lull people into false security — named cuts at least let people act; uncertainty is the worst part",
+          "AI chips on laptops enabling offline models are potentially really positive; security concerns will limit early adoption",
+          "Most companies will chase cost savings, so governments must legislate — and it will be reactive and too late for many",
+          "Recommends funeral directing as AI-proof work; finds Lazy Owl's third scenario a genuinely hopeful vision"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "BT will cut its workforce to roughly 75-80,000 by 2028-2030, with about 10,000 roles as direct AI replacements.",
+          "quote": "They're looking to reduce that to about 75,000, 80,000 globally by 2028 to 2030. So this is pretty brutal. This is 40% of job losses that have been announced.",
+          "timestampSec": 1022,
+          "category": "dated",
+          "timeframeLabel": "By 2030",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "automation",
+            "telecom"
+          ],
+          "targetDate": "2030-12-31"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Open 'my job was taken by AI' stories will become increasingly common as losses move from stealth to explicit.",
+          "quote": "It feels to me like this is going to become more common now and we're going to start to see more of these YouTube videos, more of these stories",
+          "timestampSec": 921.5,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "ai-impact",
+            "media"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "Government legislation will arrive too late for many people and be highly reactive.",
+          "quote": "I don't know how it will happen and I think I've always said I think it will be too late, too late for a lot of people. It will be very reactive.",
+          "timestampSec": 2721.72,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "regulation",
+            "jobs",
+            "government"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "Geoffrey Hinton says the UK needs to introduce universal basic income now, without waiting.",
+          "quote": "he apparently has told rishi sunak maybe this is why rishi sunak decided to step down and call an election but he's told him that the uk needs to be introducing a universal basic income now, not waiting, but doing it now.",
+          "timestampSec": 2843.216,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "ubi",
+            "jobs",
+            "policy"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-05-23-ai-utopia-v-ai-dystopia-part-ii-dystopia",
+      "format": "guest",
+      "era": "peak",
+      "summary": "Part II sketches a 25-year socio-economic dystopia, deliberately excluding sci-fi: AI-fought wars where humans rubber-stamp machine decisions (the baseball front-office analogy), bioweapons (a 2022 study generated 40,000 chemical warfare candidates including VX in six hours), disinformation ending truth and democracy, algorithms shaping rather than reflecting preferences, mass unemployment without safety nets, US-China AI blocs, and AIs that bide their time (Holden Karnofsky). It closes with Jimmy's coined escape route: the 'AI-mish'.",
+      "keyTalkingPoints": [
+        "Race-to-the-bottom dynamics (Blue Dot): misjudgment, winner-takes-all, externalities; 300:1 capability-to-alignment researchers in 2023; OpenAI dissolved its superalignment team that week",
+        "War: rumors of Lavender-style automated target selection in Gaza; the military always has the best tech version; human-in-the-loop degenerates into a Homer-Simpson button-pusher",
+        "Bio: 30,000 people could already create pathogens; AI multiplies that; benign-compound supply chains are the real control gap",
+        "Disinformation: ChatGPT Omni voice plus Sora means within 2-3 years you may trust nothing online; government plus frontier model = permanent incumbency",
+        "Algorithms now create kids' preferences from scratch — no discovery, no 'watching rubbish films to learn what a good film is'",
+        "Matt: energy is solvable via renewables; data centers' freshwater use and community displacement worry him more"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "The realistic dystopia is people abusing AI, not AI acting for itself — no shred of consciousness has been seen yet",
+          "ChatGPT Omni only simulates emotion on command; disinformation will make it impossible to trust anything online within 2-3 years",
+          "Power over AI concentrated in the US big five is a pretty undemocratic application of history's biggest technology",
+          "The UK would be in a different world had it kept DeepMind instead of letting Google acquire it"
+        ],
+        "matt": [
+          "Dystopia avoided only two ways — a catastrophic incident or mass sentiment shift — and doing nothing is the default setting that leads there",
+          "The baseball analytics analogy shows humans will not overrule AI decisions; even figurehead humans cede real control",
+          "Government plus frontier model equals the end of democracy; scalable alignment may be impossible for superhuman models",
+          "Manipulation-worthy AI motivations are coming 'within 26 years'; water shortages from data centers matter more than energy"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "Within two to three years we will reach a point where you cannot trust anything at all online.",
+          "quote": "I'd be surprised if we don't get to a point in two to three years. Where can you trust anything at all online if you're not there already?",
+          "timestampSec": 1566.632,
+          "category": "dated",
+          "timeframeLabel": "Within 2-3 years (2027)",
+          "status": "pending",
+          "topics": [
+            "disinformation",
+            "deepfakes",
+            "trust"
+          ],
+          "targetDate": "2027-05-23"
+        },
+        {
+          "host": "Matt",
+          "claim": "AIs will develop their own goals and manipulate people within 26 years.",
+          "quote": "You start to get their own goals and motivations and therefore manipulating and tricking people to get what? they want is the most important thing I don't know, but I think it's within 26 years.",
+          "timestampSec": 3007.351,
+          "category": "dated",
+          "timeframeLabel": "Within 26 years (2050)",
+          "status": "pending",
+          "topics": [
+            "alignment",
+            "existential-risk",
+            "ai-agency"
+          ],
+          "targetDate": "2050-05-23"
+        },
+        {
+          "host": "Matt",
+          "claim": "AI-mish-style communities rejecting AI will exist in the future.",
+          "quote": "So I really like that term, the aimish. I wish we could patent it for the future because I think it will exist, but I wanted to finish off on on that note.",
+          "timestampSec": 3729.773,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "society",
+            "ai-backlash",
+            "future"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Democratic backsliding would begin with absolute control of narrative and information, not literal vote-rigging.",
+          "quote": "I think, initially it would be more through control of the narrative and control of information in the absolute sense, in that you would have a much more complete understanding of algorithms and how to manipulate people and how to misinform people and how to feed people whatever information you need to feed them in order to keep them on side.",
+          "timestampSec": 1401.513,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "disinformation",
+            "democracy",
+            "control"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-05-15-ai-utopia-v-ai-dystopia-part-i-utopia",
+      "format": "guest",
+      "era": "peak",
+      "summary": "Part I argues an AI utopia is plausible before 2050, led by healthcare: AlphaFold 3, Insilico's FDA-approved ISM3412, DNA-personalized designer drugs, and elder-care robots arriving just as health systems collapse and populations age. They sketch UBI — or better, free energy, food and transport — squeezing inequality into a Scandinavian-style narrow band, plus democratized legal and creative services, Sora/Suno personal filmmaking, robots for dangerous jobs, AI forecasting for wicked problems, and natural-language interfaces cutting screen time.",
+      "keyTalkingPoints": [
+        "ChatGPT Omni: near-real-time speech (~200ms), emotion and vision — demos included guiding a blind person through London streets and real-time translation",
+        "Tech-optimism manifesto (Andreessen) quoted at length; Matt is skeptical but concedes he is 'won over' by healthcare and equality arguments",
+        "AlphaFold 3 and Insilico's ISM3412 (FDA-approved MAT2A inhibitor) are real now; DeepMind CEO predicts AlphaFold-designed treatments on the market within two years",
+        "UBI is thinking too small — make energy, food and transport free; Altman's 'Moore's law for everything' and 'universal basic compute' get a cynical reading",
+        "Inequality will narrow like Scandinavia, but the relative-status loss for the upper-middle class is the hard part of the transition",
+        "Personal filmmaking in 5-10 years; robots for eldercare and abusive jobs; AI weather forecasting already beats traditional models"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "The utopia requires governments and societies to join the debate as soon as possible",
+          "DNA-personalized designer drugs are close, and 1-to-1 fully tailored education is coming",
+          "Cannot wait to generate his own versions of Star Wars — personal AI filmmaking within 5-10 years",
+          "Cynical about Altman's motives but agrees we 'think too small' about post-work economics"
+        ],
+        "matt": [
+          "Healthcare is the one area where he is properly optimistic — an almost unimaginable capability in 10 years",
+          "UBI should provide the basics for a reasonable life as free goods, not just a cash payment",
+          "Democratized legal services take power away from money; narrowing inequality brings Scandinavian-style happiness",
+          "Even in utopia he spots the DNA-record dystopia; natural-language interfaces cutting screen time are a genuine positive"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "Within two years, new drug treatments developed by AlphaFold will reach the market.",
+          "quote": "It's something that the DeepMind CEO this week, when they kind of announced this, is predicting within two years that there will be new drug treatments developed by AlphaFold which will be not just created but will actually be available in the market.",
+          "timestampSec": 808.081,
+          "category": "dated",
+          "timeframeLabel": "Within 2 years (2026)",
+          "status": "pending",
+          "topics": [
+            "healthcare",
+            "alphafold",
+            "drug-discovery"
+          ],
+          "targetDate": "2026-05-15"
+        },
+        {
+          "host": "Matt",
+          "claim": "In 10 years, AI-driven healthcare capability will be in an almost unimaginable place.",
+          "quote": "I think in 10 years time we're going to be in a, an almost unimaginable place in terms of you know what we can do with with healthcare",
+          "timestampSec": 1196.851,
+          "category": "dated",
+          "timeframeLabel": "Within 10 years (2034)",
+          "status": "pending",
+          "topics": [
+            "healthcare",
+            "ai-adoption",
+            "medicine"
+          ],
+          "targetDate": "2034-05-15"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "People will be able to create their own versions of films and TV within 5-10 years.",
+          "quote": "I don't have the creative ability to do it myself, but like I can see that happening in the next five to ten years.",
+          "timestampSec": 2273.707,
+          "category": "dated",
+          "timeframeLabel": "Within 5-10 years (2034)",
+          "status": "pending",
+          "topics": [
+            "creativity",
+            "generative-ai",
+            "entertainment"
+          ],
+          "targetDate": "2034-05-15"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "In a 25-year utopia scenario, almost no one has a traditional job and everyone is on some form of UBI.",
+          "quote": "ultimately, in 25 years time, what you're saying is pretty much no one has a job. Everyone is on some form of universal basic income.",
+          "timestampSec": 1495.299,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "ubi",
+            "jobs",
+            "economy"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-05-09-episode-10-recent-developments-in-ai-catch",
+      "format": "guest",
+      "era": "early",
+      "summary": "The tenth-episode milestone catchup covers two months of dizzying change: Llama 3 (a 70B model ~400x smaller than GPT-4 yet beating GPT-3.5), Groq's LPU chips making inference blazingly fast, the big-three arms race, Alibaba's Qwen Audio, the gpt2-chatbot mystery model, global jailbreaks undermining safety, Suno/Stable Audio and AI slop on Spotify, China's robotics lead and Vidu versus Sora, agents arriving this autumn, physical AI devices, and 'phantom jobs' — roles advertised for months that are never filled.",
+      "keyTalkingPoints": [
+        "Llama 3: 7B/70B (400B coming) runs on consumer hardware; businesses can fine-tune in-house — Jimmy considers cancelling subscriptions",
+        "Groq's language processing units infer faster than Claude Haiku, free with no signup — but knowledge cutoffs limit use",
+        "LLMs are misused as search engines; their real value is constrained drafting and coding with your own guardrails — always fact-check",
+        "EU AI Act plus rumored US rules may cap open-source model sizes — Jimmy calls it BS since closed models are globally jailbreakable",
+        "Suno v2/v3 tracks are cheesy with a telltale 'Suno style'; AI music is flooding Spotify, guided by $1,500/month scam tutorials",
+        "Agents (Google's due autumn) act in the real world; Groq+Whisper+GPT-4 mean human-indistinguishable call centers are around the corner"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Open-source models are the most exciting development — near-state-of-the-art performance on your own hardware within a year",
+          "Capping open-source model sizes is pointless when closed models can be jailbroken globally and the methods are public",
+          "Do not use LLMs as search engines — hallucination territory; use them for specific drafting tasks and fact-check everything",
+          "Real-time inference plus agents means automated call centers indistinguishable from humans are just around the corner"
+        ],
+        "matt": [
+          "The big three leapfrog each other endlessly; most people use LLMs as overpriced search engines and miss the point",
+          "Regulating open-source could entrench big-tech power, though policing three closed labs may be the only practical route",
+          "'Phantom jobs' — ads running five or six months, never filled — plus long-COVID workforce exits let firms cut positions quietly",
+          "The Cisco-led reskilling consortium shows industry knows regulation is coming and is positioning ahead of it"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "Google's agent products will come out this year, probably in autumn.",
+          "quote": "I think that you know the idea is that will come out this year. I think you're probably looking at autumn this year.",
+          "timestampSec": 3056.959,
+          "category": "dated",
+          "timeframeLabel": "By autumn 2024",
+          "status": "pending",
+          "topics": [
+            "agents",
+            "google",
+            "product-launches"
+          ],
+          "targetDate": "2024-11-30"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Automated call centers indistinguishable from humans are just around the corner.",
+          "quote": "means that things like automated call centers, where you can't really distinguish them from a person, are just around the corner",
+          "timestampSec": 3104.37,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "agents",
+            "customer-service",
+            "voice-ai"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Within a year, models comparable to GPT-3.5 will run on local machines.",
+          "quote": "We're already starting to see the possibility of running something on your local machine a year down the line from chat GPT 3.5.",
+          "timestampSec": 290.5,
+          "category": "dated",
+          "timeframeLabel": "Within 12 months",
+          "status": "pending",
+          "topics": [
+            "open-source",
+            "local-models",
+            "efficiency"
+          ],
+          "targetDate": "2025-05-09"
+        },
+        {
+          "host": "Matt",
+          "claim": "The AI-music flood on Spotify will not last — saturation or platform crackdown will end it.",
+          "quote": "I think it's something that obviously is not going to last for long, because either it will be saturated or, I would imagine, the likes of Spotify will shut it down if it starts to you know, flood, flood Spotify to the point that people the algorithm is feeding people rubbish AI tracks.",
+          "timestampSec": 2380.595,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "music",
+            "generative-ai",
+            "platforms"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-05-01-the-sustainability-series-climind-an-ai-en",
+      "format": "guest",
+      "era": "early",
+      "summary": "Matt interviews Karen Wang, founder-CEO of Climind, a climate-focused LLM copilot built on curated datasets with RAG citations, extracting ESG data back to 2013 and answering climate-risk questions a general model would fumble. Wang argues access to information is productivity, while her biggest worries are the digital divide — climate-vulnerable regions lack frontier-tech access — and election-year chaos derailing climate policy; on jobs, she takes the optimistic line that AI creates more roles than it kills.",
+      "keyTalkingPoints": [
+        "Climind's moat is a climate-specific dataset plus RAG citations; agents automate repeatable work like ESG report extraction (HKSE filings back to 2013)",
+        "Karen's thesis: access to information is productivity; users do not care if it is AI, only that the problem is solved",
+        "AI as enabler: climate-risk modeling is the real gap (short disaster histories); gains are iterative, not a silver bullet",
+        "Concerns: data-center emissions claims lack solid papers; the digital divide maps onto climate vulnerability, driving polarization",
+        "2024's elections threaten climate policy for half the globe; China skills/innovation vs US bottom-up dynamism shapes AI development",
+        "Jobs: Wang's standard view is AI will create more jobs than it kills (Jensen Huang: CS is not a great major); Matt cannot agree but hopes he is wrong"
+      ],
+      "hostStances": {
+        "jimmy": [],
+        "matt": [
+          "Wanted a big AI climate breakthrough and is disappointed the gains are iterative rather than revolutionary",
+          "Accepts AI can crunch climate risk where human analysis is too slow, and credits Climind's citation-grounded approach",
+          "Cannot see how more jobs are created than lost this time, though he hopes Karen is right and he is wrong",
+          "Worries AI diverts capital and attention from climate; wants regulation that keeps entry channels open for small founders"
+        ]
+      },
+      "speakerFixes": [
+        {
+          "original": "Speaker 3",
+          "resolved": "Suno AI-generated outro track (no human speaker)",
+          "turns": [
+            102,
+            103,
+            104
+          ],
+          "evidence": "Turns 102-104 are the episode-closing AI song ('Stomach fingertips, a language co-pilot ready to rip...'). Matt opens the episode saying 'we've got no Jimmy with us today', so Speaker 3 cannot be Jimmy; Matt signs off referencing the 'suno and matt and jimmy generated outro track'. No generic label is misattributed to a host in this episode."
+        }
+      ],
+      "predictions": [
+        {
+          "host": "Karen Wang",
+          "claim": "AI will create more jobs than it kills.",
+          "quote": "Well, my standard view is AI will create more jobs than killing.",
+          "timestampSec": 2514.104,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "economy",
+            "ai-impact"
+          ]
+        },
+        {
+          "host": "Karen Wang",
+          "claim": "The digital divide will compound climate vulnerability and deepen societal polarization.",
+          "quote": "So I'm really worried about that because if the dynamic of society change, like how all society get lift up, how the tour the future generation can access, then it's hard to align the same level of education and the next generation. So the divide would just be bothered.",
+          "timestampSec": 1923.44,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "digital-divide",
+            "inequality",
+            "climate"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "Job losses from AI will not happen as fast as the scare stories claim, for structural reasons.",
+          "quote": "I have started to feel like you know some of the kind of scare stories about you know you know everyone's going to lose their job Eight million jobs are going to be lost",
+          "timestampSec": 2669.164,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "forecasting",
+            "ai-adoption"
+          ]
+        },
+        {
+          "host": "Karen Wang",
+          "claim": "Climind is in the process of opening its platform to the general public beyond climate.",
+          "quote": "But, moving forward, we are in the process of opening this to the general public, and also not just climate.",
+          "timestampSec": 1116.4,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "climind",
+            "products",
+            "climate"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-04-24-the-sustainability-series-energy-ai-with-a",
+      "format": "guest",
+      "era": "early",
+      "summary": "Matt interviews Anders Hove of the Oxford Institute for Energy Studies, who argues AI's climate role is iterative — solar and battery costs fell 90-95% through manufacturing scale-up, not AI-discovered materials — and that the real barriers are policy and capital structure. Data centers (~2% of global electricity, on par with aviation) may reach 620-1050 TWh by 2026; the 85 TWh AI-server forecast for 2027 is scary but meetable by incremental renewables, and green certificates are largely accounting fiction. His fixes: mandatory disclosure and 24/7 clean-energy matching.",
+      "keyTalkingPoints": [
+        "Enabler side is real but 'playing around the edges': wind/solar forecasting (DeepMind), grid flexibility, building optimization — no silver bullet",
+        "2010→2024: 90-95% cost cuts in solar and batteries came from scale and learning-by-doing on 1950s-90s technology, not new materials",
+        "Data centers: 460 TWh (2022) to 620-1050 TWh (2026, IEA); image generation uses ~60x the energy of text; the AI share is a mystery",
+        "Altman's $7tr chip ask does not divert climate capital — VCs never funded energy; the transition needs debt, subsidies and government R&D",
+        "Green certificates let firms buy the cheapest renewables at times and places they are not needed — green claims can worsen grids",
+        "Data centers prize speed and reliability over carbon; Berkeley time-shifting experiments hit a brick wall; retraining programs historically disappoint"
+      ],
+      "hostStances": {
+        "jimmy": [],
+        "matt": [
+          "Admits a recent journey toward more positivity about AI tools in the medium term, away from pure doom",
+          "Expected a big energy silver bullet from AI and is disappointed the gains are iterative",
+          "Altman's $7 trillion chip demand is crude but the diversion of capital and attention from climate is a real concern",
+          "Likes the Economist webinar point: decarbonizing data centers is easier than aviation because it is 'just electricity'; the green transition must create jobs"
+        ]
+      },
+      "speakerFixes": [
+        {
+          "original": "Speaker 3",
+          "resolved": "Suno AI-generated outro track (no human speaker)",
+          "turns": [
+            93,
+            94
+          ],
+          "evidence": "Turns 93-94 are the episode-closing AI song ('Take care, bye, bye in this small town...'). This is a Matt-only episode — he introduces it as 'a very special episode' and interviews Anders Hove alone — so Speaker 3 cannot be Jimmy; the outro matches the Suno-generated song format used across the podcast. No generic label is misattributed to a host."
+        }
+      ],
+      "predictions": [
+        {
+          "host": "Anders Hove",
+          "claim": "Solar and battery cost reductions will continue, and any AI-designed breakthrough will compete against dramatically cheaper incumbents.",
+          "quote": "So I would predict I think it's a very safe prediction that those cost reductions will continue and that any new material or fantastic new invention developed by any super intelligence will be competing with a dramatically cheaper technology than they expected to be competing with.",
+          "timestampSec": 692.38,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "energy",
+            "solar",
+            "technology"
+          ]
+        },
+        {
+          "host": "Anders Hove",
+          "claim": "In the next few years AI energy consumption will increase very sharply, and the pattern gets locked in during this growth phase.",
+          "quote": "Because, as we just heard, in the next few years it's going to be a very large increase in energy consumption for these tools and probably whatever pattern of energy consumption gets locked in, it will be locked in in this period of most rapid growth.",
+          "timestampSec": 3019.93,
+          "category": "dated",
+          "timeframeLabel": "Within 3 years",
+          "status": "pending",
+          "topics": [
+            "energy",
+            "data-centers",
+            "ai-growth"
+          ],
+          "targetDate": "2027-04-24"
+        },
+        {
+          "host": "Matt",
+          "claim": "Forecasts put data centers at potentially 20% of energy use by 2030 or soon after.",
+          "quote": "There are some forecasts that put it at potentially 20% by 2030, or certainly 20% at some point later than that.",
+          "timestampSec": 1137.902,
+          "category": "dated",
+          "timeframeLabel": "By 2030",
+          "status": "pending",
+          "topics": [
+            "energy",
+            "data-centers",
+            "forecasts"
+          ],
+          "targetDate": "2030-12-31"
+        },
+        {
+          "host": "Anders Hove",
+          "claim": "AI job anxiety is already taking a psychological toll even before jobs are actually threatened.",
+          "quote": "So I think that even the even if it's not a threat to people's jobs right now, uh, probably psychologically it is already having an effect on people's mentality.",
+          "timestampSec": 2627.726,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "mental-health",
+            "society"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-04-16-translation-helpful-tools-or-a-technologic",
+      "format": "special",
+      "era": "early",
+      "summary": "With freelance translator Chris Ward, the hosts test whether translation is a helpful tool or a takeover. DeepL already handles whole documents and is 'probably where it's at', but Japanese punctuation, contract party references and unreadable kanji names still demand a human — especially because nobody will take legal liability for machine output. Low-stakes gist work has already vanished, Chris himself is quietly leaving the industry, and Matt sees a local-chip 'babel fish' device one or two years away.",
+      "keyTalkingPoints": [
+        "Gemini 1.5 Pro: million-token context window and Google's agents — first big-tech agent release; agents likened to the dot-com boom wave",
+        "DeepL beats Google for Japanese and takes whole documents; translators now sell machine-translation post-editing (MTPE) under NDA permission",
+        "Failure modes are contractual: swapping party A/party B can void a billion-yen deal; kanji name readings require asking the person",
+        "Liability keeps humans in the loop — DeepL's terms will not cover your legal translation; 'you need a person so there's someone to blame'",
+        "Low-stakes gist translation jobs are already gone; universities' language departments are shrinking (Sheffield Japanese cohort down to five)",
+        "CAT tools have discounted translator rates for a decade; the AI pin demos real translation but only a local chip makes it truly instant"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Agents are the next platform wave — real-world actions from coding to call centers, built on LLM backends",
+          "The low-stakes translation jobs are already gone; what remains needs a human to carry legal responsibility",
+          "Simultaneous interpretation survives because it is interpersonal — though robots may eventually undercut even that",
+          "This is an episode worth revisiting in six months to a year because the tools are moving so fast"
+        ],
+        "matt": [
+          "Surprised how little has changed at the high end — precision work still demands trusted humans",
+          "The bottom end (thank-you letters, gist translations) has already dropped away to apps, and official-document translation follows next",
+          "The next stage is an un-networked device with a local AI chip — a babel fish one or two years away",
+          "Specialization in security-sensitive or too-controversial-for-LLMs content is where human translators keep an edge"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Chris Ward",
+          "claim": "A 20-year-old starting a language now is unlikely to have a translation career 25 years from now.",
+          "quote": "I don't want to sound overly pessimistic, but there is a part of me that wonders whether a 20 year old going to to learn a language like Japanese, chinese, russian or whatever is really all that likely to have a career 25 years from now.",
+          "timestampSec": 2873.146,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "translation",
+            "jobs",
+            "education"
+          ]
+        },
+        {
+          "host": "Chris Ward",
+          "claim": "Human interpreters will be needed for the foreseeable future, until a checklist-style tipping point arrives.",
+          "quote": "I just I think you're gonna need a human there for the foreseeable future.",
+          "timestampSec": 2222.018,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "translation",
+            "interpretation",
+            "human-in-loop"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "A standalone local-chip real-time translation device is only a year or two away.",
+          "quote": "I think the next stage where this really works is you have a standalone device which is not networked. You have an ai chip, and so you know that piece of kit is purely the. The information that's in there is purely language, and therefore it doesn't need a connection.",
+          "timestampSec": 2398.876,
+          "category": "dated",
+          "timeframeLabel": "Within 1-2 years (2026)",
+          "status": "pending",
+          "topics": [
+            "translation",
+            "hardware",
+            "local-models"
+          ],
+          "targetDate": "2026-04-16"
+        },
+        {
+          "host": "Chris Ward",
+          "claim": "Machine-translation post-editing discounts will arrive within a few years as output becomes near-perfect.",
+          "quote": "But I can anticipate one coming in the next few years when, when it's almost perfect on its own",
+          "timestampSec": 994.536,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "translation",
+            "pricing",
+            "industry-change"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-04-10-hospitality-crafting-unique-experiences-wi",
+      "format": "deep-dive",
+      "era": "early",
+      "summary": "The hosts test AI against the human touch in hospitality. Recommendation engines, hotel ops platforms and robot burger-flippers are real, but both conclude front-of-house survives on person-to-person experience — robots in dining rooms are a fading novelty, while kitchens, cleaning and back office face the real 2-3-year threat. Matt adds hygiene and no-tipping arguments, worries big chains will absorb the market, and lands on practical advice: chefs should use LLMs for menus and allergies, and customers should vote with their wallets for independent venues.",
+      "keyTalkingPoints": [
+        "AI already recommends meals, prices hotel rooms and detects guest emotions from messages (Alice, Duvet/Duv, Duetto, Allora and more on Hotel Tech Report)",
+        "Front-of-house survives because hospitality is person-to-person by definition; robot restaurants are a novelty you visit once",
+        "Kitchens are different: McDonald's robot burger-flippers will roll out — 'anywhere you don't have an open kitchen' is exposed",
+        "Cleaning is already robotic (office atrium robots replaced human cleaners); hotels' communal areas follow, then rooms",
+        "Matt's contrarian hygiene take: robots remove infection risk and hair-in-food; US diners save 20% with no tipping",
+        "Backlash will be consumer-led — poorly unionized workers cannot resist; independents survive if customers vote with their wallets"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Of all episodes so far, hospitality is where jobs will be impacted least — front-of-house is interaction by design",
+          "Robot waiters will always be a gimmick; robots are more likely in kitchens because you cannot see who cooks your food",
+          "Keep an eye on robotics: cleaning and back-office hospitality roles are next, probably 2-3 years away",
+          "The backlash will be customers rejecting lifeless robot venues — a novelty that fades fast"
+        ],
+        "matt": [
+          "Back office and admin roles follow the office-work episode; the concierge goes first even though he wants it to last",
+          "Hygiene and pandemic risk argue for robots delivering food; no-tipping and lower prices benefit consumers",
+          "Big chains adopting efficiencies will absorb the market — consolidation risk for independents",
+          "Vote with your wallet: support independent venues with human staff; LLMs are genuinely great tools for chefs (allergies, menus, wine pairing)"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "Robotics will hit hospitality cleaning and back-office roles within about two to three years.",
+          "quote": "it's probably medium term, it might be like two to three years away, but I would keep an eye on that robotics space.",
+          "timestampSec": 1108.391,
+          "category": "dated",
+          "timeframeLabel": "Within 2-3 years (2027)",
+          "status": "pending",
+          "topics": [
+            "robotics",
+            "hospitality",
+            "jobs"
+          ],
+          "targetDate": "2027-04-10"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Kitchen robots are more likely than front-of-house robots, and McDonald's burger-flippers will roll out soon.",
+          "quote": "I think you're actually more likely to have robots in the kitchen cooking because you can't see who's cooking your food.",
+          "timestampSec": 709.519,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "robotics",
+            "hospitality",
+            "fast-food"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Robot hotels and restaurants will be a short-lived novelty; consumer backlash rejects soulless venues.",
+          "quote": "I think that and and I think that will happen quite quickly, I think people will. You know, a robot hotel or a robot restaurant will be a bit of a novelty for a while, but that's all it will be.",
+          "timestampSec": 1427.477,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "consumer-backlash",
+            "hospitality",
+            "robotics"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "Efficiency gaps will drive acquisitions and market absorption by big hospitality players.",
+          "quote": "I think, sadly that means potentially what we might see is, you know, kind of acquisitions and mergers and the big players kind of you know absorbing more of the market because they're able to make these efficiencies.",
+          "timestampSec": 1270.81,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "hospitality",
+            "consolidation",
+            "ai-adoption"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-04-03-the-legal-sector-is-judgement-day-here",
+      "format": "guest",
+      "era": "early",
+      "summary": "The legal episode pits augmentation against elimination: Goldman Sachs estimates 44% of legal tasks can be automated, and tools like CoCounsel and Harvey are already doing research and discovery in minutes, but hallucinated citations (the $5,000 Levidow sanction) show why humans must sign off. Guest Kelly Inga describes in-house teams building 'legal operations' functions around AI — and one employer planning to replace commercial contract lawyers with playbook software — while both hosts see AI regulation itself as the sector's growth opportunity.",
+      "keyTalkingPoints": [
+        "Goldman Sachs 2023: generative AI could automate up to 44% of legal tasks — partners gain productivity, juniors and paralegals face elimination",
+        "Tools: CoCounsel (CaseText), Westlaw Precision, Harvey, Robin AI and more; discovery that took weeks now takes minutes with expert prompting",
+        "Hallucination stakes: Levidow, Levidow & Oberman fined $5,000 after ChatGPT invented six cases; obscure domains (Connecticut land use) are worst",
+        "Kelly Inga: a legal operations team builds parameters so low-risk contracts generate automatically — but sophisticated clients keep humans essential",
+        "One employer's plan: replace commercial lawyers with playbook software, escalating to humans only when the playbook fails",
+        "Access to justice upside: one-click 1,000-word robocaller lawsuits; AI regulation, privacy and cybersecurity law flagged as growth areas"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Binned his ChatGPT subscription for Claude — more genuine conversations and fewer guardrails",
+          "Junior and paralegal roles are the ones that disappear; those already in the profession have a leg up",
+          "There will always be a human in the loop in law — AI biases are a hidden black box unlike visible human biases, so no AI judges",
+          "Of all professions covered, law is one where AI will create as much work as it eliminates"
+        ],
+        "matt": [
+          "Opened with copium (Brookings: AI cannot woo a jury) but the 44% tasks figure frames a sector split unevenly between winners and casualties",
+          "The 'someone to blame' principle keeps a human at the end of every AI workflow — but that human is signing off, not doing the work",
+          "Real-time trial-transcript AI feeding attorneys questions mid-testimony is a fascinating near-term use case",
+          "AI regulation is a call to action: lawyers must help write binding rules — a genuine bright spot for the profession"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "There will always be a human in the loop in law; AI judges are not coming.",
+          "quote": "My view is in terms of judges and law, I think, and I could be completely wrong, but as much as I'm an advocate for AI, I think that there'll always be a human in the loop, because for all our biases, you can see our biases.",
+          "timestampSec": 1285.881,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "law",
+            "human-in-loop",
+            "ai-bias"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Junior lawyer and paralegal positions may no longer be available in the future.",
+          "quote": "are the junior positions actually going to be available anymore? Are your paralegal kind of positions actually going to be available in the future?",
+          "timestampSec": 1097.361,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "law",
+            "jobs",
+            "education"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "The legal AI risk timeline is one or two years — probably quicker than the five years people assume.",
+          "quote": "Yeah, maybe not not necessarily now, but I think the timeline for for these things, you know, maybe one or two years. Maybe people are thinking it's five years out. It's probably quicker than that yeah, definitely.",
+          "timestampSec": 2556.228,
+          "category": "dated",
+          "timeframeLabel": "Within 1-2 years (2026-27)",
+          "status": "pending",
+          "topics": [
+            "law",
+            "ai-adoption",
+            "forecasting"
+          ],
+          "targetDate": "2027-04-03"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "AI will create a lot of legal work as well as eliminate parts of it.",
+          "quote": "Yeah, I mean of all the roles, of all the jobs, professions that we've discussed, I think this is one where AI is going to create quite a lot of work as well as eliminate some parts of the work.",
+          "timestampSec": 2147.521,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "law",
+            "regulation",
+            "jobs"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-03-28-robotics-foundations-of-future-labour",
+      "format": "guest",
+      "era": "early",
+      "summary": "The robotics deep-dive covers Figure 01's demo with OpenAI, Boston Dynamics' drumming robot and Nvidia's virtual training worlds, concluding that robotics lags LLMs by roughly a year but is accelerating through the same neural-network paradigm — reward functions now being written by LLMs. They wrestle with Amazon's 750,000 robots and its opaque 'safety' math, debate UBI versus robot taxes on model providers, and land on gradual displacement, union-driven backlash, and safety as the gatekeeper for home robots.",
+      "keyTalkingPoints": [
+        "Figure 01 (OpenAI-powered) and Boston Dynamics' drumming robot show multimodal embodiment arriving; Nvidia trains robots in virtual worlds",
+        "The singularity feedback loop is visible now: reward functions for robots increasingly written by LLMs; we do not program neural networks, we let them learn",
+        "Amazon's Sequoia announcement: 750,000 robots and a confusing safety claim that robots reduce injuries — the hosts cannot parse the math",
+        "Displacement math is crude: 100 million robots a year is not one-per-one replacement, and rollout will be gradual like the car fleet",
+        "Finances: Matt floats UBI funded by taxing AI providers rather than robots; offshore model companies make that hard",
+        "Backlash will run through unions; home robots live or die on safety and trust — 'maybe in 10 years the robots will have gone ape'"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Robotics is further away than LLMs but heading the same way — the pace of recent announcements is exponential",
+          "The gradual path is like the global car fleet: robots enter piecemeal, and companies will never admit cuts are because of AI",
+          "Genuine copium: robots can take jobs people do not want — exploitation jobs, dangerous work, underserved industries",
+          "Social jobs grow, not shrink, in a robot world — even if that includes robot masseurs and counselors"
+        ],
+        "matt": [
+          "Humanoid robots still look frightening; the replacement arithmetic in the news does not add up and deserves scrutiny",
+          "Every PC and data center without AI integration is now effectively obsolete — chips are evolving that fast",
+          "Funding the transition needs radical options: UBI, or a robot tax levied on the model providers instead",
+          "Unionization is the realistic brake on robotics; people will not allow unsafe robots into their homes"
+        ]
+      },
+      "speakerFixes": [
+        {
+          "original": "Speaker 1",
+          "resolved": "Matt",
+          "turns": [
+            0
+          ],
+          "evidence": "Turn 0 is the standard pre-recorded intro ('Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes...') spoken by Matt in every other episode."
+        },
+        {
+          "original": "Speaker 2",
+          "resolved": "Matt",
+          "turns": "#1-#154 (odd/even host turns)",
+          "evidence": "Turn 2 opens 'Hello and welcome back... with me, matt Cartwright and Jimmy Rhodes'; turn 3 addresses 'So, jimmy, do you want to...'; turn 55 says 'give us some copium here, jimmy'. Speaker 2 is Matt."
+        },
+        {
+          "original": "Speaker 3",
+          "resolved": "Jimmy",
+          "turns": "interleaved with Speaker 2",
+          "evidence": "Speaker 3 delivers the technical explainers (Figure 01, reward functions, neural networks) and is addressed as Jimmy by Speaker 2 in turn 55 ('give us some copium here, jimmy'). Speaker 3 is Jimmy."
+        },
+        {
+          "original": "Speaker 4",
+          "resolved": "Suno AI-generated outro track (no human speaker)",
+          "turns": [
+            155
+          ],
+          "evidence": "Turn 155 is the episode-closing AI song ('In the land of automation, where the robots take control...'), consistent with the Suno outro format."
+        }
+      ],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "The singularity-style feedback loop is already visible — LLMs now write robots' reward functions inside virtual training worlds.",
+          "quote": "And some recent things that point to that potentially being, you know, happening right now is is the fact that, in terms of what you were talking about with NVIDIA so their virtual world that they're training robots in, they're actually training something called the reward function",
+          "timestampSec": 729.292,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "robotics",
+            "agi",
+            "singularity"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Companies will cut workforces because of robots and AI but never say so in a press statement.",
+          "quote": "I don't think anyone, I don't think you'll ever see a press statement saying because robots, because AI, because it's just like not a good look, right.",
+          "timestampSec": 2448.453,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "robotics",
+            "automation"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Social and human-interaction jobs will not disappear — they will grow as robots take other work.",
+          "quote": "So social type jobs, then I don't, you know, I don't think any of that's going to go away anytime soon. In fact, that's probably an area that's going to grow, if anything",
+          "timestampSec": 3769.164,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "social-skills",
+            "robotics"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "In 10 years home robots may be commonplace, but only if safety is solved first.",
+          "quote": "I mean, you know, who knows, maybe in 10 years time you're right, maybe maybe the robots will have gone ape, like in in iRobot or something like that. I just don't see how they're going to be allowed into people's homes if they're not safe as well.",
+          "timestampSec": 3483.269,
+          "category": "dated",
+          "timeframeLabel": "Within 10 years (2034)",
+          "status": "pending",
+          "topics": [
+            "robotics",
+            "safety",
+            "homes"
+          ],
+          "targetDate": "2034-03-28"
+        },
+        {
+          "host": "Matt",
+          "claim": "Every PC and data center without AI integration is now effectively obsolete.",
+          "quote": "Well, every pc is now obsolete and every data center is obsolete because they don't have ai integrated. So my",
+          "timestampSec": 1249.088,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "hardware",
+            "chips",
+            "ai-infrastructure"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-03-19-office-work-how-future-proof-are-executive",
+      "format": "guest",
+      "era": "early",
+      "summary": "On executive and office work, the hosts walk through how LLMs actually work — training, hallucination, jailbreaks — before testing which roles evaporate first: receptionists, data entry, bookkeeping, basic research. Agentic tools like AutoGPT and Devin signal end-to-end automation, and Jimmy predicts 2024 brings 'drop-in replacement' AI PAs; coders keep human oversight short-term before architect-type roles remain. Their advice: check everything, never paste sensitive company data into public models, and retrain toward human-trait roles.",
+      "keyTalkingPoints": [
+        "Plain-language primer: LLMs predict tokens, hallucinate by design, and get alignment via human feedback — now increasingly done by AIs",
+        "ChatGPT's own list puts receptionists, data entry, bookkeeping and scheduling first in the firing line; HR and the CEO go last",
+        "Agentic tools (AutoGPT, Devin) complete projects end-to-end; real-time response AI would absorb most receptionist duties",
+        "Free tiers vs paid: context windows (3.5's ~4,000 words vs 32k+), Claude's ethics training, Gemini's sourcing habits",
+        "Corporate safety: use enterprise/internal models or small language models on your own data — sensitive company info in public models is a firing risk",
+        "Claude's own advice read aloud: focus on empathy, strategy, creativity and the human-in-the-loop collaborative model"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Explains the machinery: token prediction, why hallucination is structural, and why jailbreaks persist",
+          "2024 is the year of drop-in replacement agents — an AI PA for everyone, clunky but improving fast",
+          "Coders need human-in-the-loop oversight in the short-to-medium term; long term, architect-type roles remain",
+          "Anyone can start right now: ask an LLM how to talk to it, and never put sensitive company data into public models"
+        ],
+        "matt": [
+          "The scope of AI job replacement is agreed; what is disputed is timing — current cuts are still blamed on the economy",
+          "Small language models on internal data are the safe enterprise route; MOOCs and retraining are the individual route",
+          "Receptionists first, HR and CEO last — organizations keep a human interface and someone to blame",
+          "Claude's career advice (empathy, strategy, creativity) is the right frame for what survives"
+        ]
+      },
+      "speakerFixes": [
+        {
+          "original": "Speaker 1",
+          "resolved": "Matt",
+          "turns": [
+            0
+          ],
+          "evidence": "Turn 0 is the standard pre-recorded intro spoken by Matt in every other episode."
+        },
+        {
+          "original": "Speaker 2",
+          "resolved": "Matt",
+          "turns": "majority of host turns",
+          "evidence": "Turn 1 states 'I'm Matt Cartwright and I'm Jimmy Rhodes' (joint intro) and turn 5 addresses 'jimmy, do you want to give us an update'; the model-news and policy-reading turns match Matt's role. Speaker 2 is Matt."
+        },
+        {
+          "original": "Speaker 3",
+          "resolved": "Jimmy",
+          "turns": "interleaved host turns",
+          "evidence": "Speaker 3 gives the technical explainers (LLM training, hallucination, GPT tiers) and is addressed by Speaker 2 in turn 58 as 'jimmy' ('there's nothing wrong with playing the GPT field, jimmy'). Speaker 3 is Jimmy."
+        }
+      ],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "2024 will bring drop-in replacement AI agents — everyone gets an AI PA.",
+          "quote": "You can take all that, most of which is office-based, and build that into some kind of AI agent. So everyone's got an AI PA. Yeah, that's the first iteration, I think, which you can already kind of do. You can already get yourself an AI PA. It's a bit clunky at the moment, but that's where the development's going to go in 2024.",
+          "timestampSec": 2155.478,
+          "category": "dated",
+          "timeframeLabel": "During 2024",
+          "status": "pending",
+          "topics": [
+            "agents",
+            "office-work",
+            "productivity"
+          ],
+          "targetDate": "2024-12-19"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Developers stay human-in-the-loop short term; long term only architect-type roles survive.",
+          "quote": "think in the short to medium term for coders, for developers, I think you're still going to need Human in the loop, so you're going to need people who can check what's going on with the, with the code that comes out of a i's.",
+          "timestampSec": 2657.83,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "coding",
+            "jobs",
+            "human-in-loop"
+          ]
+        },
+        {
+          "host": "Matt",
+          "claim": "Everyone acknowledges AI will replace jobs eventually; only the timing is disputed.",
+          "quote": "We know that AI is going to replace jobs at some point. So I don't think anyone is arguing that, that the scope is going to happen.",
+          "timestampSec": 1947.26,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "forecasting",
+            "ai-impact"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "An HR person will be the second-to-last employee to go before the CEO.",
+          "quote": "Yeah, I think HR there'll be at least someone in HR who's second last to go before the CEO",
+          "timestampSec": 1095.657,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "hr",
+            "automation"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-03-12-the-creative-industries-how-sora-and-text",
+      "format": "guest",
+      "era": "early",
+      "summary": "Episode two confronts Sora: both hosts are awed by text-to-video's leap from incoherent five-second clips to believable one-minute films, and Tyler Perry's $800m studio-expansion pause lands as a canary in the coal mine. They weigh democratized creativity against disinformation, conclude watermarking will fail against open source, and forecast prompt-to-feature-film within 12 months and creative-sector job losses within five years — advising creatives to familiarize themselves with the tools while planning several career pivots.",
+      "keyTalkingPoints": [
+        "Sora blew minds: from rough 5-second clips a year ago to cohesive, near-real one-minute video — roughly a 10x length gain per year",
+        "Tyler Perry put an $800m VFX studio investment on hold immediately after Sora — 'future jobs lost' and a canary in the mine",
+        "Democratization upside: anyone can create films and stories; downside: watermarks will not hold once open-source models catch up",
+        "Stable Diffusion now spells words correctly most of the time; transformers and diffusion models are different technologies converging on creative work",
+        "Writers' strike won a reprieve (ChatGPT restricted) but the hosts see layoffs arriving via drip, not announcement",
+        "Practical advice: upskill into the tools now, but treat that as a temporary bridge — expect to retrain several times"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Sora-level video democratizes creativity but supercharges disinformation — AI already lurks in YouTube comments and Twitter roasts",
+          "Tyler Perry's pause shows incumbents see the writing on the wall; full-length AI feature films arrive within 12 months",
+          "Job losses in creative sectors within five years, though not mass layoffs in the next 12 months",
+          "Stopping AI is not in the realms of reality — individuals must plan for how it affects them"
+        ],
+        "matt": [
+          "Initial reaction was 'wow, but so what' — until the job implications in effects, animation and VFX became clear",
+          "Digital watermarks are not a long-term solution; the 16-year-old with an open-source model circumvents them",
+          "Hand-made human art endures — he values his daughter's drawings more because of AI images",
+          "Expect no announcements: layoffs will come as unfilled positions and drip-drip opportunity loss"
+        ]
+      },
+      "speakerFixes": [
+        {
+          "original": "Speaker 1",
+          "resolved": "Matt",
+          "turns": [
+            0
+          ],
+          "evidence": "Turn 0 is the standard pre-recorded intro spoken by Matt in every other episode."
+        },
+        {
+          "original": "Speaker 2",
+          "resolved": "Matt",
+          "turns": "majority of host turns",
+          "evidence": "Turn 1 opens 'Welcome back episode two... Jimmy, how are you feeling this week?' and turn 91 says 'Thanks, jimmy. I think that Maybe it's time to call it a wrap.' Speaker 2 addresses Jimmy and is Matt."
+        },
+        {
+          "original": "Speaker 3",
+          "resolved": "Jimmy",
+          "turns": "interleaved host turns",
+          "evidence": "Speaker 3 delivers the Sora/technical news and is addressed as Jimmy throughout (e.g. turn 1's response); turns 60-62 contain the 'In 12 months time' feature-film forecast matching Jimmy's role. Speaker 3 is Jimmy."
+        }
+      ],
+      "predictions": [
+        {
+          "host": "Jimmy",
+          "claim": "Within 12 months you will be able to prompt an AI and watch a full-length feature film of your own imagining.",
+          "quote": "In 12 months time. I wouldn't be surprised if you can put a prompt into an AI and basically watch a full length feature film. Now it may not be great, it's not, may not be Oscar award winning, but it will potentially be a feature film that's come out of your own imagination. That's where I think we'll be in 12 months time.",
+          "timestampSec": 1592.14,
+          "category": "dated",
+          "timeframeLabel": "Within 12 months",
+          "status": "pending",
+          "topics": [
+            "generative-ai",
+            "video",
+            "creativity"
+          ],
+          "targetDate": "2025-03-12"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Creative-sector job losses are coming within about five years once the technology matures.",
+          "quote": "but yeah, I think you're going to see job losses in this kind of sector in the next maybe not 12 months. I think the technology still needs to mature. If you're looking to five years down the road, then absolutely",
+          "timestampSec": 1926.148,
+          "category": "dated",
+          "timeframeLabel": "Within 5 years (2029)",
+          "status": "pending",
+          "topics": [
+            "jobs",
+            "creative-industries",
+            "ai-impact"
+          ],
+          "targetDate": "2029-03-12"
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Tyler Perry's $800m studio pause shows future creative jobs being cancelled before they exist.",
+          "quote": "So Tyler Perry put an 800 million dollar investment on hold Literally right after Sora came out, and that's that was an investment in a visual effects kind of studio that was going to be doing exactly this kind of work. So they're not necessarily jobs lost, but it's kind of future jobs lost, right",
+          "timestampSec": 1054.966,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "creative-industries",
+            "film",
+            "jobs"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Slowing or stopping AI progress is off the cards — planning for impact is the only option.",
+          "quote": "Ultimately, I think at this point slowing down the progress is probably off the cards or out of the question.",
+          "timestampSec": 1159.909,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "regulation",
+            "ai-development",
+            "society"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "s1-2024-03-01-preparing-for-ai-introducing-the-ai-podcas",
+      "format": "debate",
+      "era": "peak",
+      "summary": "The reset 'episode one' explains the podcast's purpose and picks its best back-catalogue. Matt — the human-and-social-impact half, a self-described 'complete conspiracy realist' who thinks Sam Altman 'may be the devil' — and Jimmy, the software-developer optimist now 'vibe coding' hand-in-glove with AI, frame the show as the accessible 'AI podcast for everybody' from their vantage point in China, where robots deliver hotel takeaways and algorithms run daily life. They recommend the Utopia/Dystopia two-parter, Tech Optimist, election interference, the AI interviews and the China episodes.",
+      "keyTalkingPoints": [
+        "The original first episode was 'rubbish' and got three times more downloads than anything else — hence this reset introduction",
+        "Personas: Jimmy the technical optimist who went from janky GPT-3 chats to vibe coding; Matt the social-impact doomer who 'hates Sam Altman'",
+        "Model journey: early Claude fandom, DeepSeek experimentation, and now Gemini as probably the best ecosystem",
+        "China vantage point: AI is already embedded in daily life — delivery algorithms, and hotel robots that bring takeaways to your room",
+        "Best-of picks: Utopia v Dystopia two-parter, Ben Cook's Tech Optimist, election interference, Interview with an AI, Healing Trust, China episodes with Christy Loke and Grace Hsiao",
+        "Matt's information-overload warning: the 'dead internet' now exceeds 50% AI-generated content, and his own spiral is the cautionary tale"
+      ],
+      "hostStances": {
+        "jimmy": [
+          "Self-taught software developer and the show's optimist — from banging his head against GPT-3 to vibe coding in the evenings",
+          "Current AI capability is the worst it will ever be; the trajectory is what matters",
+          "Open-source proponent: Meta, Hugging Face and smaller voices like Cereberus keep the ecosystem honest",
+          "Recommends the election-interference and interview-with-an-AI episodes as eye-openers for new listeners"
+        ],
+        "matt": [
+          "Leads on human and social impacts; a 'complete conspiracy realist' who thinks Sam Altman is 'very slimy' and possibly 'the devil'",
+          "Anthropic fan who now concedes Google's Gemini has the best ecosystem — while distrusting OpenAI the company, not the model",
+          "The podcast exists to keep listeners informed of dangers because reaching utopia requires pushing back on unregulated big tech",
+          "China residency gives the show a unique East-meets-West perspective: AI already runs couriers, medicine and hotel robots"
+        ]
+      },
+      "speakerFixes": [],
+      "predictions": [
+        {
+          "host": "Matt",
+          "claim": "More than half of all information on the internet is now artificially generated.",
+          "quote": "We think now that it's reached more than 50% of all the information ever created. So all the information on the internet is now artificially generated by the bots or AI.",
+          "timestampSec": 1181.7,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "disinformation",
+            "internet",
+            "generative-ai"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Most people have probably already had a conversation with an AI online without realizing it.",
+          "quote": "any of the, you've probably had a conversation with AI and not realized it at some point in a YouTube comment, in a Twitter uh, roast, whatever it is.",
+          "timestampSec": 1013.76,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "disinformation",
+            "social-media",
+            "ai-agents"
+          ]
+        },
+        {
+          "host": "Jimmy",
+          "claim": "Today's AI capability is the worst it will ever be — improvement is the constant.",
+          "quote": "as everyone in the ai sphere always says, this is the worst. It's like what it can do now what, like, is the worst it'll ever be, kind of thing.",
+          "timestampSec": 199.868,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "ai-progress",
+            "forecasting",
+            "models"
+          ]
+        },
+        {
+          "host": "Dr Gilbert Xie",
+          "claim": "Patients do not want an advanced AI — they want a live doctor, which will drive a rebellion against AI-like medicine.",
+          "quote": "Doctors'role may become more and more AI-like, and that will only generate more satisfaction from the patient side, because they do not want an advanced AI, they want a live doctor.",
+          "timestampSec": 1603.78,
+          "category": "open-ended",
+          "timeframeLabel": "Open-Ended",
+          "status": "pending",
+          "topics": [
+            "healthcare",
+            "doctors",
+            "ai-adoption"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1525 @@
+{
+  "slug": "s2-2024-11-21-top-10-ai-use-cases-jimmy-and-matt-recomme",
+  "buzzsproutId": "16146291",
+  "title": "TOP 10 AI USE CASES: Jimmy and Matt recommend their favourite practical uses for LLM's",
+  "date": "2024-11-21T12:00:00.000Z",
+  "season": 2,
+  "durationSec": 5000,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16146291-top-10-ai-use-cases-jimmy-and-matt-recommend-their-favourite-practical-uses-for-llm-s.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Ever wondered how AI could transform your everyday life, from your kitchen to your workspace? Discover how AI models like Claude can revolutionize your culinary adventures, turning meal planning and recipe management into a breeze by personalizing suggestions based on what you have at home and your dietary preferences. We'll share surprising tips on how these AI tools can streamline your cooking experience, making it as enjoyable and hassle-free as possible. Coding doesn't have to be intimidating, especially for beginners. Learn from personal experiences as we discuss using ChatGPT and Claude to master RStudio and enhance your data analysis skills. By crafting clear, detailed prompts, these AI models not only generate helpful code but also aid in understanding it, boosting your proficiency in tasks like creating Excel pivot tables. Explore the role of AI in design and productivity, providing innovative solutions for everything from room layouts to productivity tools that could redefine your workflow. Thinking about AI's creative potential? We' dive into AI-generated content, be it images, songs, or conversations that feel just like a counseling session. Discover how to ensure your privacy with offline tools, verify AI-generated information, and stay informed about the rapidly changing AI landscape. With insights and stories about AI's role in areas like health recommendations, design, and beyond, this episode promises to keep you informed and inspired while highlighting the importance of critical thinking in this AI-driven world. http://cerebras.vercel.app/ https://workspace.google.com/intl/en_uk/ http://suno.com/ https://github.com/features/copilot#pricing https://claude.ai",
+  "summary": "Answering listener feedback that the show had gone too deep into doom, Jimmy and Matt run through their ten favourite practical LLM use cases, from meal planning and no-code Excel scripting to custom supplement schedules, voice chats and Suno songwriting. It doubles as a hands-on tutorial, with prompts, free-tier advice and candid notes on where the tools still fail.",
+  "keyTalkingPoints": [
+    "Meal planning with Claude beats ad-filled recipe sites — it scales servings, substitutes ingredients and even generates shopping lists in artifacts",
+    "Non-coders can get working VBA/Excel scripts by pasting data in and describing the output, turning LLMs into a genuine learning tool",
+    "Matt's most-used use case is a custom health routine: Claude rates his supplements, flags clashes and adjusts for exercise days",
+    "Matt describes talking through a personal issue with Claude as a genuinely life-changing conversation, though both hosts stress it is not counselling",
+    "NotebookLM-style summarization into text, slide decks or audio will soon extend to AI-character video summaries"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Free tiers of GPT and Claude are still enough for most everyday use cases",
+      "Suno song generation for the podcast is the most fun he has had with AI",
+      "Photorealistic image generation is already at the level where it can deceive people — a warning sign for video",
+      "The best preparation for AI is to actually use it, and fact-check it while doing so"
+    ],
+    "matt": [
+      "Coding with an LLM is as much a learning method as a productivity hack — you can ask it to explain every step",
+      "LLMs checking other LLMs is one of the best use cases, especially for non-experts",
+      "Custom lifestyle and health planning with Claude is his personal number-one use",
+      "Summarization into exactly the format you absorb best (audio, slides, even a haiku) is near-universally useful"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-11-21-top-10-ai-use-cases-jimmy-and-matt-recomme-3695.273-video-deepfakes-are-the-next-frontier-after-imag",
+    "s2-2024-11-21-top-10-ai-use-cases-jimmy-and-matt-recomme-4617.515-it-will-not-be-long-before-ai-summarization-prod"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 12,
+  "turnCount": 204,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "Recipes and shopping lists",
+      "startTime": 222
+    },
+    {
+      "title": "Coding for people with absolutely no idea about coding",
+      "startTime": 661
+    },
+    {
+      "title": "Educating yourself",
+      "startTime": 1604
+    },
+    {
+      "title": "Designing layouts",
+      "startTime": 1885
+    },
+    {
+      "title": "Productivity and applying AI at work",
+      "startTime": 2380
+    },
+    {
+      "title": "Creating custom lifestyle plans",
+      "startTime": 2880
+    },
+    {
+      "title": "Jimmy's most fun use case for AI",
+      "startTime": 3513
+    },
+    {
+      "title": "Talking through issues and challenges",
+      "startTime": 3943
+    },
+    {
+      "title": "Voice conversations with an Large Lanaguage Model",
+      "startTime": 4272
+    },
+    {
+      "title": "Summarising multiple media sources",
+      "startTime": 4392
+    },
+    {
+      "title": "Ten Ways to Flow (Outro Track)",
+      "startTime": 4850
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 32.696,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI, governance and alignment. urgent need for safe development of AI governance and alignment, I'm tweaking into a whole new era. G-funk step to this. I dare you Funk on a whole new level. The rhythm is the bass",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 38.54,
+      "endTime": 58.412,
+      "text": "and the bass is the treble. Welcome to Preparing for AI with me Warren G and me Mike Tyson. So I'm going to start this week's episode with a thank you to Jonathan. We don't know who Jonathan is, but Jonathan's out there somewhere and has very kindly got in touch with us this week to ask us to dial down the conspiracies a little bit. So I wanted to say thank you to Jonathan for reaching out first of all.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 58.72,
+      "endTime": 61.225,
+      "text": "I think this was aimed at you, matt. Oh yeah, sorry to say.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 61.54,
+      "endTime": 82.829,
+      "text": "That's why I'm addressing it, because it was purely aimed at me and not at Jimmy, but yeah, so thank you, jonathan, for reaching out. I have thought about what you said. I think I wanted to say something first that when we started this podcast we were just, you know, we wanted to learn about AI and we wanted an opportunity to talk about AI. And as it kind of went on, and particularly for me,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 88.36,
+      "endTime": 101.634,
+      "text": "I looked at kind of the risks and I said, you know, really wanted to sort of raise awareness around those risks, and I think I don't want to apologize for doing that about other things as well, and so I'll continue to do it. And this is a podcast. That is our kind of voice and our way to have an opinion and to make things known",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 106.38,
+      "endTime": 137.627,
+      "text": "and to make things known. But at the same time, I sort of acknowledge that for the past few weeks in particular, we've maybe gone a bit more heavy into the social impact side of things. So with that in mind, we are going to try and focus things a bit more onto strictly AI, certainly for the next few weeks, and we're going to start this week with a very, very practical episode where we look at 10 sort of use cases for what we would term kind of normal non-tech people using large language models. So hopefully this will be something really fun but also actually really useful for people. So things that you can actually use.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 138.021,
+      "endTime": 168.156,
+      "text": "We try as much as possible, as we said, you know, on previous episodes about trying to use free models as much as possible. That's becoming a bit more difficult now because a lot of the features the better features are on the paid models, or at least on the kind of more premium tiers, or you're restricted a little bit in use of them. So some of these things you know it may be that to really make the most of them that you need to pay for subscription, but you don't have to. I think you'll still be able to do a lot of them without that and at least try them out and see whether it's worth a subscription.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 168.34,
+      "endTime": 172.351,
+      "text": "So without further ado, let's crack on with the first one.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 173.42,
+      "endTime": 188.067,
+      "text": "Yeah, I was just going to say before we crack on as well. I mean, I'm interested in hearing more from our listeners and we're going to talk about some practical examples this week. But, um, if you've people have in their own lives, so, um, you know, if",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 205.6,
+      "endTime": 214.769,
+      "text": "you want to write in and let us know, then I think some feedback on this episode would be really good, cool so that was a bit of further ado.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 214.809,
+      "endTime": 224.664,
+      "text": "I said no further ado or without further ado. We had a bit of further ado, but now there'll be no more further ado, and so here we go, and so here we go.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 226.707,
+      "endTime": 232.595,
+      "text": "So I'll go first. I've got one here that I've. This is a practical use that I have actually been using Claude specifically for.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 235.622,
+      "endTime": 242.213,
+      "text": "I think you can use any large language model for this and that is meal planning and recipes.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 246.8,
+      "endTime": 277.031,
+      "text": "So one of the reasons I feel like Claude is really great for this is one most of the websites you go to for getting recipes have a load of for want of a better word flump and advertising on them. Uh, before you actually get to the recipe, like it's usually really hard to find, sometimes it's like serves four, sometimes it's served six, and sometimes it's in, you know, metric units. Sometimes it's in pounds and cups and ounces, which really confuse me nowadays. Um and so the one of the reasons I find Claude great for this is because you can just say, okay, give me a recipe for, let's say, lasagna.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 277.612,
+      "endTime": 282.591,
+      "text": "Um, it'll spit out all the recipe, all the ingredients. You can say, okay, I just want to make it for two,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 288.5,
+      "endTime": 311.952,
+      "text": "so can you make it for two? Oh, I don't have that kind of cheese, I don't have mozzarella, I don't have whatever is. Is there a possible substitute? You can also tell it what you've got in your fridge and you can ask it to give you recipes based on what's in your fridge already, um, and you can say to it because it's a language model, you can say you know, you can have a chat with it. You can say, okay, based on what's in my fridge, but I'm going to pop to the shop so you know, if I need to buy some chicken or whatever, then, um, rustle me something up, um, and it's really cool. For that. It works really really well, I find.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 312.394,
+      "endTime": 341.189,
+      "text": "As I say, you can adjust the quantities, the amounts. You can ask it to make it a bit healthier, um, you can ask it to make it a bit less healthy if you want, um, which is usually what I tend to go with. So, yeah, like it's, it's really cool. It's given me really great options in terms of substituting different spices when I don't have, you know, the full array of like spices in my spice spice drawer. Basically, like, spice rack my spice. What is it? Spice rack. I've got a spice drawer. Okay, fancy.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 345.6,
+      "endTime": 348.932,
+      "text": "I think this rack is more fancy than the drawer I think everyone's got a drawer, not everyone's got a rack.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 349.012,
+      "endTime": 384.108,
+      "text": "All right, okay, fair enough, I've got a spice box. I'm not slight, I mean your spice drawer is nice but yeah, it's a, it's a spice hole, um, I think let's stick with the spice drawer. Spice drawer, um, but yeah, like, like, it's genuinely really good and the thing I got to do go through the week, which I was quite pleased with myself. So one of the things that claude's claude can do is it can generate artifacts, which is, um for anyone unfamiliar. It's like, if you know, it'll chat you with you in a normal way, but then if you ask it to put something in a document, for example, it will put it in something called an artifact and then it it formats it a bit nicer and this kind of thing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 384.609,
+      "endTime": 418.971,
+      "text": "Um, it can also generate and run code in an artifact, um, and so one and so the other day I was like, okay, you've given me all the ingredients, now make me a shopping list. And, I think, unprompted, the first time I did this, I asked it to make me a shopping list and it just generated the code for an interactive shopping list where, um, you could, like check the items off one by one, which I thought was pretty neat. So now when I go to the shops and I'm looking for a recipe, I tend to do that, one of the things I haven't used it for yet is like smart meal planning and actually meal planning and meal prep for a week, for example, if you wanted to be on a specific kind of diet.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 419.42,
+      "endTime": 423.191,
+      "text": "But I think it would be fantastic for that as well and would be able to give you the variety.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 428.7,
+      "endTime": 461.171,
+      "text": "And again, because you can have a chat with it. You know, if it suggests chicken, beef, fish, whatever, and you're like, oh well, I don't like this, I'm allergic to this, I don't like peanuts, whatever it is, it can then go and tweak it and change it and work with you on that recipe. Final point on this because, uh, another cool feature that claude's got, um, that's kind of similar to something that ChatGPT has, but if you have a paid-for account, so you can't do this on a free account, but on a paid-for account you can generate projects, and so by generating a project, what you can do is you can give it some background information so you can have almost like a slightly tailored large language model.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 461.26,
+      "endTime": 486.765,
+      "text": "So in this example, you would say give it some, uh, background information which says you're going to help me with preparing recipes, you're going to always do it in metric. You're going to, um, you're always going to suggest healthy alternatives first, that kind of thing. You could create several of them one for like healthy meals, one for kind of like more gourmet meals, um, that kind of thing. So it's like the project stuff's one to explore if you, if you want to fancy a more premium option.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 486.825,
+      "endTime": 521.77,
+      "text": "But even without that, like um claude for uh well, or any, probably any large language model for meal prep is great yeah, and if you've got, if you've got a this is where it's definitely better if you've got a paid account and a premium account, but because I think that there's sort of memory in there but you can, I think, still almost I think, as long as you've logged in but you're using a free account, you can still go back into old chat. So you can still go back in and if you've given it all the information it's, you know you've got some menus and you want to use it again, you can go and find that chat again.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 521.79,
+      "endTime": 552.245,
+      "text": "You to use it again. You can go and find that chat again. You can go back in and it's already got that. Background information projects is obviously better for that. Um, artifacts as well. Like just one thing on. Artifacts is like one way I find it's really useful is like when you've got a long chat there's just loads and loads of text, but with artifacts it looks like a kind of link in the document and so you can click on the link and then you you can access it and, like you say, it opens a separate file. It maybe doesn't seem like a big thing, but if you're having long chats and you're trying to go back and find stuff, artifacts really helps because it, like you say, it creates.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 552.305,
+      "endTime": 585.09,
+      "text": "It's like a separate document we should just say for for anyone listening who is, you know, really new to this, we we both of us, I think pretty consistently have have been fans of, of claude. Claude is anthropics ai tool, so claude, the ai um. For those who were just wondering so obviously chat gpt everyone knows about. Not everybody knows about claude, but it's um. It's, in our view, better. I think it's better. It's better for certain uses. It's got a different interface. It doesn't allow you to create images and there are some things that chat gpt does which is more multimodal. So it's got a different interface.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 585.022,
+      "endTime": 611.626,
+      "text": "It doesn't allow you to create images and there are some things that ChatGPT does which is more multimodal. So it's got more kind of yeah, the best example is like images. I think for most people is like you can't create images. You can do more things within ChatGPT, but as a kind of more natural interface and as just a more user-friendly large language model, we've promoted claude for quite a long time and we don't get any sponsorship from them, we just genuinely like it yeah, I like the font and the color of the website.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 611.686,
+      "endTime": 612.57,
+      "text": "Yeah, better as well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 613.413,
+      "endTime": 624.352,
+      "text": "Um sounds silly, but I genuinely do one weird thing with claude is I don't know if you've noticed this if you try and call it something other than claude, it doesn't let you it's very funny about about it and very offended by it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 624.532,
+      "endTime": 625.113,
+      "text": "I didn't know, that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 625.7,
+      "endTime": 643.103,
+      "text": "So I tried to call it Bubbles once and it was very, very offended and just refused to call itself Bubbles, although it would call me Bubbles, Fair enough. So my Claude calls me. I don't know why I'm telling you this I can call you Bubbles if you want. Well, my Claude calls me. Oh, serpent, okay Is. Myclaude calls me.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 643.123,
+      "endTime": 643.764,
+      "text": "OhSerpent Okay.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 644.265,
+      "endTime": 651.972,
+      "text": "Is this a? Project I'm not sure why. No, no, all the time I've changed my like when I say what do I want it to call me? I want it to call me OhSerpent.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 652.733,
+      "endTime": 658.063,
+      "text": "Interesting. I learn a little bit more about you every week. I might edit this bit out, yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 658.264,
+      "endTime": 703.531,
+      "text": "All right, I'll take the next one then. So my first one is don't sound so enthusiastic. Well, you, I wanted to do the first one. Oh sorry, you took it off me, so I'm still feeling a bit sad, okay. And so my first one is coding in things that you've got absolutely no idea how to do, or coding for people who have absolutely no idea about coding. So I talked quite a while ago. I had a module that I was studying for and I had to use something called RStudio, which I mean you know you could watch YouTube videos you could read about, but I just wanted to basically help with writing the code to use it, because it is code based.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 703.611,
+      "endTime": 737.834,
+      "text": "It's kind of similar to python, I guess. Um, so at the time I was using chat, gpt, and I got it to first of all kind of tell me about how the code works, because it's quite one thing. It's quite important. Even if you're a complete beginner and you're not going to use code, it's like to have a bit of an understanding. So I asked it, like what is our studio, what is the code, how does it work, and get it to give me an introduction. And then I just started asking it to write code and it was a bit of a work in progress because you had to obviously go in and give it information about what you're doing.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 737.94,
+      "endTime": 767.804,
+      "text": "I think this is a kind of recurrent theme for me around uses for large language models is it's only as good as what you put in and the prompt while you know. Is it's only as good as what you put in and the prompt while you know. It's getting easier to prompt and we've said you don't need to go and do a prompt engineering course. You also do need to understand that if you don't give enough information in the prompt, if you don't give a background and give all and you know, put the work in at first, you're going to get rubbish out of it. So you give very, very clear instructions. You can tell it what you want the output to be.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 768.427,
+      "endTime": 807.735,
+      "text": "So you don't necessarily need to understand the code. You can tell it the output that you want. So in the example I gave, I would say you know I have a excel csv file, so comma separated file. I'm going to paste that in in a moment. I want you to analyze it. And then I've been told I need to do this, this, this, and I need you to help me to write the code to do it and this is a really key one as well is then saying to it you know, do not answer me until I tell you to start creating code, the thing I usually use now, right at the beginning, when I beginning, when I'm giving this kind of prompt, is I say I'm going to keep giving you prompts.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 808.06,
+      "endTime": 847.995,
+      "text": "Do not act on these prompts until I type and I always use asterisk, asterisk, asterisk, 666, asterisk, asterisk, asterisk, and then that is my kind of code. I can type things in as much as I want, I can ask questions, I can keep accidentally pressing the enter key and I know that it won't start creating stuff until I've given it that kind of prompt at the end and you can call it whatever you want. You can just say when I put one, two, three, like whatever you want to put in. But it's just allowing you to kind of have the kind of peace of mind. What you don't want and what's sometimes annoying is you're trying to have a, you're trying to instruct and you say I'm going to ask you to do this and you, you press enter and then it starts going away and you know, generate it, and you're like no, no, no, press the stop button.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 848.035,
+      "endTime": 884.265,
+      "text": "No, wait until I've done this. It's really important when you're doing this, if you want to have time to put loads of information in the beginning, that you start off by saying I'm going to give you some prompts. I do not want you to do anything until I have and then insert your your kind of code, and this is not a specific to the coding example. This is kind of for anything when you're going to give it a lot of background information. But you can use this for python, you can use it for, I mean, even this is not really coding. But you can use the same example for excel. So if you're using excel, you're going to build a spreadsheet and you know you want to use a pivot table, you can go and look it up.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 884.306,
+      "endTime": 916.489,
+      "text": "There's a help feature in um in excel. You can watch youtube videos on it. But you can also ask a large language model. Right here are the columns. They're labeled a, b, c, d, e. I've got this many rows. I've got this information. I want you to help me create a pivot table to do this and it will just give you step by step instruction. So the coding is obviously a little bit different. With the coding and I'll give the example of Claude, because that's the one that we like using. But in Claude you will be able to see, particularly using the artifacts, you'll be able to see the code as it writes out.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 916.7,
+      "endTime": 951.33,
+      "text": "You can also then ask it to explain the code. So if you want to have more of an understanding of the code, you can ask it to do that. When you get a result afterwards you can ask you to analyze the output that you've got. So I'll go back to my example again. Using r studio, I would help get the code. Then I would go into our studio and I'd still have to then do that bit myself. So I'd put the code in, I'd look at it and I'd say, okay, is that right? Then I'd put that information back in to the large language model and say help me to analyze this output. Is there a different test that I should now do?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 951.59,
+      "endTime": 987.34,
+      "text": "Oh, I want to identify whether this is actually a statistically significant result. What should I do to do that? And it will help you. Again, it's not 100%, I think. Particularly if you're not an expert like you, can get things that you know it will give you incorrect output. So you do have to be really careful. I did find that I was, and I, you know, with our studio. I wasn't a complete beginner, because I had been learning about it and I was finding that most of the time I was finding that maybe be one or two errors. When I'd have a more complex piece I'd have to correct it a little bit. One or two errors when I'd have a more complex piece I'd have to correct it a little bit.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 991.28,
+      "endTime": 994.917,
+      "text": "But I mean, it was saving, you know, tens of hours, hundreds of hours even in terms of time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 998.44,
+      "endTime": 1031.124,
+      "text": "And I I feel like the more important thing here as well, although you're using it to code and help you with assignments and stuff like that, I think the critical thing is, like how good this kind of this method is as a learning tool, like the trial and error and kind of, because this is how you learn anyway, right, like you learn by doing and you learn by making mistakes and then figuring it out. This is I've, I've, I've been coding for a long time and that's definitely how you learn to code. Um, a bit of instruction is useful as well and and obviously you had that with your course but absolutely like large language models, working with a large language model in the way that you've described can speed up that process massively.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1031.525,
+      "endTime": 1067.211,
+      "text": "And I'm going to make a recommendation in a minute for some like more advanced coders and for some more advanced tools that take a bit more of time to set up but actually, you know, have even greater productivity gains. But what I really like about what you're talking about in terms of the way you were using it as a novice coder, is because you have to sort of copy and paste everything manually into still learning. You're still learning, yeah yeah, like the act of copying and pasting what you need into the large language model and then copying and pasting your errors back in, and then copying and pasting the output back in and asking it to help you explain it and understand it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1067.692,
+      "endTime": 1099.59,
+      "text": "That is the the bit where it's helping you with the learning process. Some of the stuff I'm going to talk about in a minute is probably less along those lines, because these are more like code plugins that you can use, um, but yeah, like that's one of the like. Honestly, we're going to talk about it in another example as well, but in terms of an education assistant, like I can't emphasize enough how useful large language models are and how I kind of wish I had them when I was a lot younger, because I would have really taken advantage of it yeah, absolutely just one.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1099.85,
+      "endTime": 1151.768,
+      "text": "One point on then, and then I'll let you sort of look at more advanced coding. But um and this is another recurring theme is you can ask it to double check its own code or its own answers, and you can also ask another large language model to do it. So you know, one way to double check things is all the large language models are trained on kind of kind of the same data, but they are trained in slightly different ways. One way to double check things is not asking it. So you've got to be careful you don't ask a kind of leading question to confirm oh, can you tell me if this is correct? But if you ask it to check something like check this, are there any errors in this piece of code or are there any errors in this output, using another large language model is a really good kind of double check on that, because it will then apply kind of the same logic but slightly slightly differently, because it will have always been, you know, trained and tweaked very, very slightly differently.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1151.828,
+      "endTime": 1174.569,
+      "text": "So using large language models to check other large language models in general is a really good use case, but you know, in this example in particular, because if you're not an expert. You're probably not going to be very good at checking them yourself and you might want a specific. If it's important that you get a correct outcome, it might be important for you to double check it, so that's a really good way to kind of verify information.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1175.17,
+      "endTime": 1182.493,
+      "text": "Yeah, absolutely. One thing I would say on this as well you can still use GPT and you can still use Claude for free.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1185.86,
+      "endTime": 1219.9,
+      "text": "Use GPT and you can still use Claude for free. If you want access to the very best model for coding right now, then GPT-01, which is the model that actually does a bit of thinking, so it doesn't give you an instant response, but it goes away and thinks about things. That is actually one of the best, if not the best, coding model, I believe, right now, and when I say right now, I'm talking as of recording in, uh, mid-november, um, because this stuff changes all the time. Um, that being said, like I think gemini gets a bit of a mention here, because gemini, google, have just released the latest version of gemini, which I think is 2.0.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1219.94,
+      "endTime": 1220.121,
+      "text": "How?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1220.421,
+      "endTime": 1224.684,
+      "text": "have they, um, so they just say two two's coming out soon, right, so it is out.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1224.825,
+      "endTime": 1240.457,
+      "text": "It's either out or it's been announced, so that's coming very soon and again, like in terms of the contest for the fastest, greatest AI in all these different categories, I think Gemini is one to watch out for. It's going to come up again later on as well.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1241.1,
+      "endTime": 1246.849,
+      "text": "I've obviously been too busy on conspiracy theories and not keeping up with with the latest news news.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1247.229,
+      "endTime": 1259.555,
+      "text": "Well, this is the problem now, isn't it? It doesn't? It's kind of like, for a while I was keeping up with it all the time, because it was really because every new model was a big exhausting though keeping up with it right even for us who?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1259.575,
+      "endTime": 1295.411,
+      "text": "run a podcast on it. Yeah, it's sometimes exhausting because it's every day and it's hyped and it's there's so many influencers who are trying to like that. You know, when there's a bit of a kind of a bit of a a lack of of development, they're trying to kind of push out stories around things and it's like keeping up with that's what I listen to. The ai daily breakdown and that kind of gives me enough news and and then I'll kind of research episodes. But I try and keep away from the constant news cycle of it because, like I say it's, it's like it's outdated by the time you've even read it yeah, but it's also plateaued or it's, or it's plateauing heavily.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1296.052,
+      "endTime": 1326.847,
+      "text": "Um, you know, there are obviously, if you're, if you're doing something that's like a real edge case where you need, like the best, best model, then there are still models that are better than other models, but nowadays, like if you're using Claude Sonnet 3.5 to do your coding, it's going to be there or thereabouts comparable with most of the other models we're talking about. It doesn't go wrong that often, especially if you're not doing relatively straightforward stuff, the more advanced. If you're doing more advanced stuff, then it is going to probably be beneficial to use one of the more advanced models.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1327.388,
+      "endTime": 1362.404,
+      "text": "Um, so what I was going to talk about in terms of, like, more advanced coding. So obviously, for beginners, the sort of stuff that Matt's talking about is great, um, and I think, probably actually even better because it gives you that learning experience for more advanced coders. And I'm not going to talk about all the different examples. I'm going to talk about some examples for Visual Studio Code, where you can actually get plugins that plug into your integrated developer environment, which is what Visual Studio Code is, and so this is the software you're actually doing your development on. For that there are a whole bunch of options.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1362.464,
+      "endTime": 1398.008,
+      "text": "So GitHub, copilot's the big one that people have probably heard of that's produced by Microsoft and basically you can get a plugin for Visual Studio Code that will actually work side by side with you as you're coding. So the difference between what Matt's talking about and what this does is that, instead of having to copy and paste into it, it will actually alongside you. You can just type into your developer environment. You can just type in give me some code to do X, y, z, and it will just write it out for you. It can also correct your code. It can comment your code for you, which is a fantastic use case.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1398.49,
+      "endTime": 1415.537,
+      "text": "It can write test cases for your code. So what like some of the things? So a lot of coders, a lot of developers, especially early on, but probably all developers, you know we like writing code. We don't necessarily write like writing test cases. We don't necessarily like comments in our code, or we're not all equally good at comments in our code",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1424.24,
+      "endTime": 1451.994,
+      "text": "sensible names. So these are some of the things where, like AI can just save you a ton of time because you can. Maybe you've got an existing code base that you've you've written and you never commented it, and you can just get GitHub Copilot to take a look at it and write all the comments for you, um, and it might even find some stuff in there that needs tweaking or could be made a little bit more efficient, that kind of thing. Um. Some other honorable mentions Copilot you have to pay for. There's something called Codium, which is a free code completion tool, and so that's something. If you want to just try it out, you can try it out.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1452.894,
+      "endTime": 1455.637,
+      "text": "And then there's a whole bunch of others. There's CodeGPT, which uses",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1466.48,
+      "endTime": 1481.169,
+      "text": "you need to use an API key from OpenAI, but you can use ChatGPT if you prefer, and there are other similar ones, I believe, where you can use plugins from any large language model. So, um, I don't have the names to hand, but I'm pretty sure there are other examples where you can plug in any api because, um, a lot of the different large language models, they all actually adhere to a um a standard in terms of the apis they use.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1481.23,
+      "endTime": 1498.472,
+      "text": "Now, I'm going to ask you to tell people what an api is, even though, though, I do think that if anyone is listening, who is going to be able to make use of the information you've just given they'll know what an API is, but maybe for the benefit of people listening who may be in danger of turning off, maybe you could just explain what an API is and an API key.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1500.037,
+      "endTime": 1503.107,
+      "text": "I think it's application programming interface. Yes.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1503.127,
+      "endTime": 1503.668,
+      "text": "Is that right yeah?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1503.728,
+      "endTime": 1504.17,
+      "text": "yeah, yeah.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1505.297,
+      "endTime": 1518.586,
+      "text": "Was it programming or protocol Programming? Yeah, I don't know. It's basically. Well, the important thing is the interface part, Like that's the bit that, in terms of an explanation, I think that's the important thing is it's an interface to the language model.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1518.735,
+      "endTime": 1576.115,
+      "text": "It's application programming interface. I can confirm with the help of my mobile device. Yeah, so the world runs on APIs. Actually they're invisible, but the world runs on them. So every time your banking app talks to your bank, it's through an API and a lot of things, a lot of interconnection between systems is using APIs and so, in the context that we're talking about, you can, you can go on chat GPT's webpage and you can talk to chat GPT directly on the webpage. Or what you can do is you can, you can actually get something called an API key and then you can, with a little bit of code which is actually templated for you, you can actually connect to GPT using your API key and then, instead of paying so the normal way you pay is you pay $20 a month, For example, if you're using an API key, you'll pay, depending on which model you're using, you'll pay different amounts and you'll pay for the uh, your paper token.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1576.275,
+      "endTime": 1599.365,
+      "text": "So, like it's, it's like so many pence per um, like 10,000 million or million tokens even sometimes, and those are different charges for the input and the output. To be fair, in my use cases it's never cost that much money. It's like cost literally pennies to actually use it. So API access is usually pretty cheap.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1612.395,
+      "endTime": 1640.816,
+      "text": "I'll continue the theme with um, just educating yourself, I think, in general. So this is where and we've it's a bit of a follow-on from what we were talking about with coding, I think the I think where this example differs from coding. So, with coding, one of the great things and one of the reasons it's such a fantastic use for large language models like claude and open gpt is because it can't really hallucinate. And when I say it can't really hallucinate, code either works or it doesn't. So you, you write the code, you want an outcome. You know what the expected outcome is um, so you, so you get it to write the code for you.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1640.916,
+      "endTime": 1671.518,
+      "text": "You try and run the code. It either gives you an error straight away or it works. And if it works, it either. You know, let's say, the classic example is writing like a snake game or something like that. But let's say you're making a snake game, you know it might work, but actually it does something weird, like the snake goes off the screen and doesn't collide with the walls, or it doesn't have a high score, or you have unlimited lives or all sorts of other things, right, so it's quite a cool interactive way to play with a large language model, because a you can see whether it's working straight away.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1672.561,
+      "endTime": 1711.136,
+      "text": "Uh, you can. You can actually encounter bugs and errors and try and fix them and help get it to explain how to fix them. Um, and then, once it's, once it's given you a working example, you can iterate on it and you can play with it much as you would in a real-world coding example. In other ways, you can educate yourself as well. So, in any subject you know, these models have the entire everything we've ever known in human history. Pretty much has been fed into these large language models and all of Reddit and all of Twitter, unfortunately and so if you want to educate yourself, they are fantastic tools as well.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1711.818,
+      "endTime": 1753.044,
+      "text": "The difference between the coding example, or maybe the similarity in a way, is that you need to fact check these models when you're using them for educational purposes. So they're fantastic for bouncing ideas off. They've got all this information in them, so you can find the information really quickly. You can also get to your point, because often at times, your point is going to be a really nuanced point, and we've talked about it before on the podcast. Google's getting worse and worse these days, but even when you find something on Google, it maybe doesn't quite exactly answer what you're looking to, the question you're asking, whereas again, with a model, if it doesn't give you the right answer the first time, you can ask it follow up questions and all this kind of stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1753.084,
+      "endTime": 1793.961,
+      "text": "So as a learning tool, it can be fantastic. Uh, I would probably give a honorable mention here to a tool that Matt introduced me to, which is perplexity, um research. I think Perplexity is right up there like it's one of the best, I think. So GPT have recently released GPT Search, I believe, which basically copies a lot of stuff from Perplexity or at least sort of has a very similar interface. But the reason I mention these tools is because, obviously, language models, their data, only goes up to a certain date. So, for example, the latest version of Claude goes up to something like May 2024, and then it has a cutoff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1794.261,
+      "endTime": 1821.746,
+      "text": "So that's one thing is it doesn't have access to the very latest data. It also doesn't usually cite its sources, and whereas perplexity and GPT search are a bit more tuned for that kind of use case. So I think they're they're they're better for those kinds of uses. Um, and, as I say, even if you're using perplexity, follow the links, look up the sources. Obviously, when you're, when you're teaching yourself about something, you always need to be fact-checking stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1827.815,
+      "endTime": 1859.765,
+      "text": "But again, like, I think this is a benefit, I think, I think, if people to be fact-checking stuff, but again, like, I think this is a benefit, I think, I think if people weren't fact-checking what they were reading on the internet before. They should have been um, because there's a lot like anyone can put anything on the internet in the same way that, um, large language models are based on the internet. Um, but in addition to that, like, fact-checking in itself is a critical thinking skill, right, and we've talked about it before on the podcast. People need to get used to being like, like, one of the things that we really need to apply these days, with all the information that's out there is critical thinking to try and understand whether something is actually true or which bits of it are true, etc.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1859.785,
+      "endTime": 1872.599,
+      "text": "It's aimed at me, uh, not specifically but you're. You're my critical thinking well, jonathan sent me a separate email, actually with some points to get in you.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1872.62,
+      "endTime": 1877.956,
+      "text": "You're my fat checker I don't trust fat checkers as you know. So that's probably not a good example.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1882.903,
+      "endTime": 1923.216,
+      "text": "Okay, my second one I talked about this a couple of weeks ago when I was talking about my wardrobes and I promised people that I would uh, I would bring it into another episode. So I've managed to do that here, um, but no, the example is I've put down designing things. I mean, this is specifically the example that I've got of my use case, for it was designing like floor plans and designing the layout of an apartment or a house. So you know you can replicate the idea across other things. But I'm going to give you that example because it's one that I've used myself. So I am moving apartments in the future and the apartment I'm moving to is bigger, it's got more bedrooms, but the bedrooms are smaller.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1923.194,
+      "endTime": 1943.444,
+      "text": "So it's kind of a bit of a weird thing because trying to fit the things I'm moving to is bigger, it's got more bedrooms, but the bedrooms are smaller. So it's kind of a bit of a weird thing because trying to fit the things I've got into there and work out the layout, it's not very simple to do, even though it's a very similar apartment and actually it's slightly bigger. Anyway, you don't need to know all the details of my apartment. Sounds like a first world problem, to be honest, matt.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1949.655,
+      "endTime": 1975.332,
+      "text": "Well, our listeners have first world problems, don't they? But yeah, I'm sure, I hope, I hope, um, yeah, but so I'm going to give you the example using claude. So, and this example, claude outputs what's called an dot svg file, um, which is pretty easy to view because you can view it in most browsers, but it's a particular type of file which I mean in the example that I got. What I asked is I'd measured up rooms,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1980.775,
+      "endTime": 2010.837,
+      "text": "so I gave it the basic layout of a room, said you know, this room is a square, but on this bit, there is a bit that sticks out with a door on here and blah, blah, blah, and give it a full description. Make sure you give it really accurate description. You need say the wall on the right hand side is this long, the wall on the left is this long. I want you to grid into one meter squares. Did that for every room, give it a name. I was using Claude, using artifacts, which a good another really good example with artifacts, because for each room, it would give you a separate file. And then, once I'd done that and a really cool thing is, you watch it write the code.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2011.538,
+      "endTime": 2046.617,
+      "text": "So you actually give the information and you watch the code written out. So if you understood the code you could look for errors in there. But it could actually be useful if you're trying to work out why something has been done incorrectly. But anyway, you, you get that layout drawn and essentially what you've got is just a square with some lines on it, not very impressive. But then the next part is where you start adding stuff in. So at that point you know you can then say okay, I've got a bed, it's two meters by 1.8 meters. I've got three wardrobes. They're this big, big, I want to put this, I want to put that One thing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2046.657,
+      "endTime": 2064.429,
+      "text": "That is a limitation of this at the moment. So, like large language models are not very good at kind of spatial awareness. So you can't say to it okay, there's the room, I've got a bed, I've got these three things and this give me a design that looks good. It's not at that point. But what you can do is start working on how you can fit things in.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2069.695,
+      "endTime": 2101.459,
+      "text": "So saying to it okay, I've got a bed, it's this big, I want to put it one meter up from the bottom of the room. I want to make sure it's, you know, flush against the wall. Okay, put that in. Okay, I want to put a bedside table that's one meter. Okay, I don't like that Right now. Move the bed up one meter and put the bedside table on the other side of the room. Put the wardrobe over here. Okay, how much space is between the wardrobe and the bed? I'm just giving you one example Like this is an example of of you know how I was using it in a room. If you've got a business, you know you're thinking of opening a cafe, you're thinking of opening a restaurant and you want to look at how you can fit things in best.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2102.14,
+      "endTime": 2135.949,
+      "text": "This, again, would be a really good use case. It takes a bit of time at the beginning to get things set up, but then you've got the flexibility. Once you've got that in there, you've got that kind of canvas. You can keep going back. So you know, in six months time, when you decide, actually, do you know what? I want to move things around you then go back to it and say, okay, let me look at this. Can I move this? Would I have room to put this here? I think it's a really good one because it's like an actual practical use that people will have. Like most people at some point design a room right. Jimmy's handed me.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2140.101,
+      "endTime": 2153.646,
+      "text": "So Jimmy has redesigned the London tube map in the sort of three minutes I've been talking. I have to say, yeah, that simplified tube map is. Is this using the same as? That's just using Claude, yeah, Okay.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2153.666,
+      "endTime": 2156.963,
+      "text": "I'll stick it on the. I'll stick a little image on the podcast, somehow.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2157.063,
+      "endTime": 2165.502,
+      "text": "Well, there we go. Jimmy's outdone my. If you want to redesign a tube map, or redesign any map, I guess we've just found out that you can now do that as well.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2165.783,
+      "endTime": 2170.027,
+      "text": "It's very simplified. It's got five stations on it. Yeah For the whole of London.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2170.148,
+      "endTime": 2178.8,
+      "text": "Maybe that's why it looks good, it looks better. Yeah, so you've redesigned London. Yeah, not just a tube map, basically simplified London.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2178.86,
+      "endTime": 2182.481,
+      "text": "Simplified London Got rid of most of the place London after the apocalypse?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2182.842,
+      "endTime": 2230.996,
+      "text": "I think so, but but going back just to finish off, because this was a supposed to be a kind of quick one, um, if you're designing your garden, if you're designing your you know, like I say, your apartment that you're moving to, if you just want to look at how you can kind of space stuff out, if you're looking at starting a business, it's a really good use case which, like all of it, it requires a little bit work up front, but once you've got that kind of canvas in place, you can just keep adding on to it and this will get better. You know, the spatial awareness is not there, I'm sure, in time, although I do think it's sort of a limitation of the way large language models work I think it will get better and I think you'll probably see at some point people you know selling a large language model interior designer which is essentially this with a kind of wrapper on the outside yeah, and I think I think also it's a bit of a taste of things to come right.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2231.036,
+      "endTime": 2265.47,
+      "text": "So, because, because you've already got like adobe, for example, have things like canva I'm going to talk about google workspaces in a little while which can interact with your excel files and some of the more business things you can do or business applications, and I know for a fact they're already looking at integrating AI into video games in terms of, like generating worlds and generating models and stuff. So all this stuff's going to come together at some point. I think this use case is pretty cool actually, because I mean, above all else, I'm actually impressed that a large language model can do this at all.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2267.979,
+      "endTime": 2286.168,
+      "text": "Like this is one of those things where it's like this is something that's just been trained on words, it's just been trained on language, it's just been trained on all the stuff on the internet, which includes coding, and you know, I've just managed to get it to do a really basic version of the tube map and you've managed to get it to help you redesign your apartment.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2286.529,
+      "endTime": 2317.783,
+      "text": "It's actually genuinely quite it's actually useful, and that's what I think you know there's a lot of talk about, you know a lot of the uses of large language models and that they are, they're novel and they look really cool. And then you realize, well, what, what's the fucking point of this? Like it doesn't have any practical use. And I think this is where an example for me, because the last time I designed I wasn't moving. But last time I redesigned my living room I got squared paper right and I actually used squared paper and I printed out like the block, but then I drew everything on and actually that's kind of fine, right.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2318.285,
+      "endTime": 2348.296,
+      "text": "The problem with it is like you're having to use a new piece of paper and it's like once I've made a mistake, once I've drawn it on, once, that's it, whereas with this it's like if it doesn't work, you just say, okay, redesign it. It's a little bit frustrating that, the way that because I don't know if this is because you're watching the code being written and so actually the transparency of it holds back the speed, or whether this is just that, actually it. It is actually still quite a complicated problem for a large language model. But the one thing that was slightly frustrating with it, especially when you're like oh actually that's not where I want it is.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2348.877,
+      "endTime": 2375.241,
+      "text": "It probably takes like 20, 30 seconds for it to redesign the room and that doesn't sound a long period of time. But if you're doing 20, 30 different takes like you're potentially using, like you know, 30, 40 minutes to do it. So it not perfect, but I think it's a practical use where I think most people at some point could actually use this and it would actually save them time and it would actually be a use that would, you know, kind of add value to their lives.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2380.336,
+      "endTime": 2421.482,
+      "text": "Okay, I wasn't sure whether to get into some really serious stuff now or to go straight into the fun stuff and suno and creating music, but I think I'm going to go for the serious angle first. Um, so I've got here email management. That's not what I actually intend to talk about. So this is more about productivity and actual work applications, and this is where I'm interested to hear from our listeners like has have? Do you do an office job? Has AI been adopted in your office in any way? Microsoft are heavily pushing Copilot at the moment. So if you have Office 365, copilot is possibly available in your workplace, which means you have something that can help you generate emails.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2421.957,
+      "endTime": 2459.62,
+      "text": "It can help you analyze Excel documents. It can help you generate emails. It can help you Um, it can help you analyze Excel documents. It can help you write word documents. I've had a go with it and this is really powerful stuff. It's. It's not perfect at the moment, as, as is a lot of the um AI stuff that's already come out, it's kind of like it's it's not reached its final form. I would say Um, however, I did you know I was. I've had a look at, for example, generating PowerPoint presentations using AI, and it can in a similar way to when you're using a large language model. So quite often you can use it to like write an email or write a document, and it'll just start it for you, it'll give you a good start of a 10.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2460.02,
+      "endTime": 2494.682,
+      "text": "And then you can fill in the gaps. You know it'll say insert name here and stuff like that, but it'll it'll really quickly, it'll really speed up the process right. So, for example, if you're writing a letter to your doctor, or writing a letter to the small claims court, or writing a letter to anybody, um, in a business sense, you know, in your personal life, you could use it for that, where you know you could just say write me a letter, write me a template for this. This is kind of the gist of it, and then maybe you need to top and tail it and fill it in same thing. Now, next level is kind of these business applications and I and I genuinely I looked at an example the other day where it's like, okay, I want to make a powerpoint.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2494.702,
+      "endTime": 2529.556,
+      "text": "Let's just say I want to make a powerpoint, for example, about healthy eating, and give it a few sort of pointers, give it a few sort of pointers, give it a few allergies to avoid or things to topics to talk about and bang. It just made me like a 16 page PowerPoint presentation in a style of its choosing and then you could tweet the style and stuff like that, using the themes built in. And again, by all means, like it's not going to have the content if you don't give it the content on the context. But these kinds of things are starting to get integrated into our working environments and our office environments and they get plugged into your docs as well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2529.617,
+      "endTime": 2567.308,
+      "text": "Right, so like if you've got a microsoft 365 cloud account where this is plugged into all your like work documents, your enterprise documents, then that's when you can start to really leverage it, because then it's generating again, like in the powerpoint example. It can generate a powerpoint from a document you've already made. So then you know you've already got pre-existing um documents like operating procedures, for example, at work guides, processes, that kind of thing. It can just take that, turn that into a powerpoint presentation, because I need to go and present this to somebody and it's not suitable in a word document, or vice versa, it can turn a PowerPoint into a word document.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2567.728,
+      "endTime": 2616.708,
+      "text": "These are the sorts of use cases that are going to be like like real game changes in the future. Um, I've talked about office three, six, five. I want to actually mention so this is something that's been advertised to me quite a bit recently and I and I think I intend to try it out because I use Google products. I've got, I think I've got Google drive and I use Google for my email, and so if you and this costs a little bit of money, but I think if you pay for Google workspace for an individual user, it's $6 a month this is not an affiliated link, unfortunately, so I think it's $6 a month and then you pay something like another $15 a month for the AI workspace integration and at that point, so then and I haven't tried this out, but I've been toying with the idea at that point then Google can help you draft your emails.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2616.928,
+      "endTime": 2660.124,
+      "text": "It can help you you can probably like automatically respond to emails in certain situations using AI. It can integrate into all your Google Docs and Google Drive so it'll be able to use your Google Drive information. So all the documents you've got in there as a knowledge base. Again, combining all those things, you can see how it could start to be really powerful. So Matt emails me about the latest podcast episode. We've got some stuff in our Google Docs which has like calendar information, it has scheduling information, it has maybe a little bit of information about somebody that we're going to interview, and so then I can draft an email with the power of all that sort of knowledge base behind it, um, in a little bit similar to what notebook lm can do a bit more manually.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2660.886,
+      "endTime": 2702.164,
+      "text": "Um, and then and then, like I say, you can really start to see some of the power and capability um behind it, which, uh, gets me pretty excited, to be honest I still think, if they get co-pilot right, integrating with sort of microsoft office in the short term, because long term you know, if they get it right we don't need microsoft office. But in the short term because longterm you know, if they get it right we don't need Microsoft office. But in the short term, like this is the kind of game changer in a commercial enterprise sense to like making a fundamental difference to people's lives because you know, say, lives and working lives, because that is the point at which you see like productivity gains and you see that genuine like we don't have to do the mundane tasks anymore.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2705.555,
+      "endTime": 2741.806,
+      "text": "So I'm quite interested like that example of using the powerpoint presentation. So I maybe four months ago, four or five months ago I think, I was really trying to like find ways and I and I got an add-on from powerpoint like it was a third-party add-on that was, you know, supposed to be an ai ppt slide producing the ai tool, um, but they were all rubbish, like they're rubbish and I knew you know well, this is where it is. Now it's going to get there. But I'm quite interested. It sounds to me like in those four or five months that I've kind of like left that behind that. We're now getting there because that that was something.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2742.227,
+      "endTime": 2759.168,
+      "text": "It looked awful, whereas now are you saying we're at a point. I know you say we're not all the way there yet, but are you now at the point where it's something that you like? How much work would it take, after you've got the output of a powerpoint, for you to tweak it to make it something you think is like you're acceptable for you to go and present?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2760.177,
+      "endTime": 2804.045,
+      "text": "I think so the example I'm talking about. I didn't actually have that much time to play around with it. I think what I'm talking about is that the, the ultimate version of this, or at least a sort of more um, maybe a version a few months down the line, is going to be the is going to be what you're talking about. So, and and this is where this is where you kind of need it plugged into that enterprise data, um, which I haven't had the experience of personally. But if you have got Copilot plugged into your enterprise data, then you can see how, as it starts to all get joined up and it starts to be pulled from your existing, let's say, all your information's on Microsoft Cloud already, that becomes a knowledge base for these large language models.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2805.655,
+      "endTime": 2849.137,
+      "text": "My wife's organization has it and it's called creedle, the organization they use um. Their founder was was a guest they still haven't got them on but a guest that we talked about coming on for an episode, but that's very similar. So they can access um gemini models, uh, what else they've got? Claude and obviously chat, gpt and there's one other it might be mistral. They've got access to other models, um, but as well as kind of, you know, having general access through an api. They also have access to all of their internal documents, their board papers, all that kind of thing. So they have that knowledge base and it's, it's pretty cool, yeah, it's pretty cool, like it, especially when you work somewhere that doesn't have that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2849.157,
+      "endTime": 2863.382,
+      "text": "You look at it and they're like, wow, I can't. You know the amount of time I could save and the amount of things I could do with that. It's yeah, yeah, it's going to be pretty cool because we're all going to have it at some point I think with this one um, let's put a pin in it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2863.502,
+      "endTime": 2876.124,
+      "text": "It's not a promise, but I think, a suggestion that maybe we do a future episode specifically on this, because I'm thinking about signing up for Google Workspace and we can actually have a play around with some of the use cases.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2881.376,
+      "endTime": 2925.432,
+      "text": "So this next one is actually probably my personal favorite use um. I called it creating custom schedules or plans, which sounds pretty mundane and pretty boring, but I don't think it is, and I think it's again something that, like, almost everybody can use this. Whether it's about you know a plan for getting your kids up in the morning and getting them to bed at night, whether it's a plan for going on a diet, whether it's a plan for you know how you're going to get yourself to a certain point in your life, whatever it is, you can make some really, really like detailed, well thought out custom schedules and life plans using a large language model.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2925.692,
+      "endTime": 2970.785,
+      "text": "I'm going to use claude as the example again, because that's the one that I used for this, but where I've been using it. So I have like a really, really structured kind of daily routine now which is a kind of health routine, with supplements, exercises, um things that you most listeners will probably think are pretty crazy, but things which are part of my kind of, I guess, well-being, um and health model, and what's really cool about this is, like I have given claude like really, really detailed instructions about what my aims are, what I want to have as an output the time I have available the supplements.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2970.805,
+      "endTime": 3007.986,
+      "text": "I already take the diet that I currently take, the exercise. I do the things I'm open to. So, for example, you know I'm interested in chinese medicine or functional medicine. I have a bad inside of my left knee. I don't want to exert myself the day after a non-fasting day. All of these kind of things have given it a really, really specific. Here are the outcomes that I want from this. Here are the things that interest me. Here are my concerns. Like I went into like a load of detail, I mean this, this prompt was like these examples where, like, I'm going to give you a load of information, don't do anything until I finish, because I give it a ton of information, step by step, about what I want.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3008.922,
+      "endTime": 3032.443,
+      "text": "And then you're, I get it to give a first output and then going on that I say, okay, I want you to kind of challenge the things I'm currently doing. I want you to rate the supplements I take. I want you to look at potential synergies. I want you to give me outputs of risks. So example you know it might say if you took calcium and magnesium supplements, it might well tell you, well, you should space these apart",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3036.135,
+      "endTime": 3070.325,
+      "text": "If you take zinc, it might tell you to take quercetin with zinc because it absorbs it better. It might tell you if you had a fatty liver. You know things which might be potential risks, certain foods that you should avoid. The key, like all this stuff, is the initial prompt. So giving it loads of detail on yourself. Um, you know the same thing. If it's a school thing like, what do you want? Your go back to the example of like kids. Okay, what do you want for your kids? Is it really important to you that they sleep early? Is it really important to you that they are, you know, stress-free? Do you have concerns about their diet?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3070.345,
+      "endTime": 3103.463,
+      "text": "Do you have concerns about how they're growing? Do you have concerns like whatever? You have concerns like like the more information that you give it. What are the things that they don't eat? Why won't they get up in the morning? Why, you know, why don't they sleep well, all the things that you've got and then get it to give a kind of initial output and then you go in and challenge it. Um, I think it's like what's so good about this and it's a bit like the recipe example is that there is so much information, like you could get all this information previously and you could try and create something, but you couldn't get it all in one place.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3103.905,
+      "endTime": 3146.699,
+      "text": "It's like having kind of all the experts and and you can even tell it. Like you know, I don't trust mainstream medicine. I want you to follow the practices of whatever indian kind of medicine. I want you to focus in on this. I'm really open to this. I want you to find, you know, things which are going to maximize my immune system. I want you to find exercises that are not going to stress my heart too much and then give you like a really, really amazing output. I did a similar thing for my wife, who had different focuses, um, and it was giving recommendations. I was kind of reassured that a lot of things it recommended to me and a lot of things that it was kind of talking about were things that were kind of close to either what I was doing or what I wanted to do.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3147.24,
+      "endTime": 3181.455,
+      "text": "But, like just a really cool thing, I said, like on days I was doing exercise, that I would take creatine. So I take more. On days I do exercise, I take a small amount every day. More on days I do exercise, and I was saying, oh, I take, I always have yogurt for breakfast in the morning when I am, I fast like, can I take it at the same time? And it would say, oh, actually, this is great. You can mix them together. And actually there is some evidence that taking it with yogurt may increase the uptake. And after, if you're going to do this, because you do this in the morning, you should take your taurine one hour before, because it's another amino acid.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3181.575,
+      "endTime": 3215.826,
+      "text": "It might clash with it. Or have you thought about moving this to the afternoon? Or, oh, if you have a fatty meal in the morning, you should take your vitamin d in the morning, but if you have a bigger meal in the evening, you should maybe move it to the evening. It gives you loads and loads of things. You know, oh, you do red light therapy, oh, but you do exercise on that day. Why don't you swap it to that day so you do it after you do exercise for more benefit? Like it's really, really intelligent, like it has such a great background and and I'm not sure how much is the case but it knows me so well now that even when I'm having other chats I can tell that it's kind of it's advising me in line with.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3215.866,
+      "endTime": 3248.392,
+      "text": "It knows me. Like that's kind of scary in a way, but also kind of cool, because it does feel like when I'm using Claude, like I've got a model that kind of knows about me a little bit, like how you'd have, like your personal doctor or your PA or whatever, and I think that's a really good way. Like, if you're designing plans, obviously you don't want to give it information that you're not comfortable with sharing, but by giving it loads of information, you get a like amazing, amazing output and then you can you know, you can print it out, you can stick it on the wall, you can share it with your kids, your family, whatever.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3248.874,
+      "endTime": 3268.518,
+      "text": "I just think for me this is like the one that I use the most, um, just like in day-to-day life, and for my family, I think this is like a use that it just makes it. You, if you try to do this in this level of detail, you would have set yourself like a project that would take you weeks to do. Now you can do it in, you know, a couple of hours really quickly.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3268.538,
+      "endTime": 3292.161,
+      "text": "Yeah, a couple of things like. First of all, I'd like just to elaborate on matt's disclaimer there a little bit like, in case anyone doesn't know. I think this is in the terms and conditions of all the models that we're talking about, but they do use whatever data you give them for future training. That's part of the agreement that you have with them. So, in the same way you wouldn't expect Google I mean you would expect Google to take everything you've ever put into Google and do what they want with it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3299.895,
+      "endTime": 3328.488,
+      "text": "It's the same thing with these large language models. We've talked about it before. There are. If you're really worried about that and your data and the sensitivity around your data. They're not as powerful, but there are good open source models now that you can literally run on your laptop offline so you're not having to run them through one of these companies. If you're interested in that at all, then you can download something called olama and lm studio, um, and actually the setup process is really straightforward. It sounds daunting. It's literally a couple of programs, um, and then you can start picking up models.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3328.588,
+      "endTime": 3336.018,
+      "text": "You can get models from um. Hugging face is the website, so if you type in, you can search this stuff on google you don't actually even need to do that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3336.218,
+      "endTime": 3362.358,
+      "text": "You can with with lm studio. Not for all, but for a lot of models you can actually just go in lm studio and just list the downloadable models, which is you know, for people who are who you're hugging face like, oh, here's another step. Actually don't even need to do that and you could ask a large language model. How do I download lm studio and olama? So? Like the whole process you can carry out with with ai.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3362.799,
+      "endTime": 3392.999,
+      "text": "Yeah, yeah, exactly so. It sounds daunting, but it's actually pretty straightforward. It's downloading a couple of programs, installing them and then you can start downloading models, um, straight away. The one question I had is, like, on all the stuff you were talking about there and it sounds really interesting. I'm not saying any of it's incorrect in that's not my question at all. I just wondered, like, do you fact check any of that stuff? That when, once you know, when you, when you're working on these plans and it's giving you all this information, do you ever go and say, oh, I'd like to just double check that, find a bit more information?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3393.019,
+      "endTime": 3396.664,
+      "text": "I'm just, I'm just curious. I do, I sometimes will.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3397.766,
+      "endTime": 3430.77,
+      "text": "I mean because I think the best fact check of these things although we had this conversation you said, well, maybe it will then just start trying to please you is I quite often just query what it's told me and say are you sure that's true? Because that seems to be the prompt that makes it kind of backtrack and go oh. The other thing that I do and that I did with this is I then, like I've said earlier, I just use a different large language model and ask similar questions and see the differences. I find that claude gives me answers that are better for me, but that might be because it knows me and that itself might send it down the path of telling me certain things.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3431.252,
+      "endTime": 3469.034,
+      "text": "I think for me, on the example I've given, like I already have like a very, like a very, very detailed knowledge base around supplementation things like red light therapy and so so I know this stuff. I'm more kind of getting it to confirm things for me and to tell me about kind of synergies. Like I said, like I'm asking it like when is the best time? I think if you're starting out from scratch, you maybe need to do a bit more of that stuff, if you don't have that knowledge base because you're right, like it. It's the kind of confirmation bias in the model that if you lead it into something I'm thinking of taking these things it will start to tell you well, I can't recommend, but actually here's a good reason for you doing it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3469.074,
+      "endTime": 3500.502,
+      "text": "So I think you're right, you have to do that, particularly if you're putting your kind of health on the line with it. Um, but it's for me like I say, it was more tweaking. It's like tell me about synergies, tell me about the optimum time to do this. Is there something I should take instead of this? Should I do my exercise on different days? You know when? Should I do this? Should I align it with exercise, or should I do it on a rest day? Those things I think it. You know you don't need to, but you're absolutely right. Like anything, do some of double check, particularly if you've got things like your health or your job or your reputation on the line.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3501.043,
+      "endTime": 3508.904,
+      "text": "Yeah, that was my point and, to be honest, having used Claude a lot, I often take what it says at face value nowadays, but you do have to be a little bit careful.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3514.176,
+      "endTime": 3523.01,
+      "text": "So on to the most exciting, um fun use I've had of ai since it came out, should you?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3523.05,
+      "endTime": 3524.218,
+      "text": "not have put this in first.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3524.418,
+      "endTime": 3528.197,
+      "text": "So people, I mean if you a lot of people might not have made it this far in the episode.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3528.297,
+      "endTime": 3529.921,
+      "text": "It's a little treat for anyone who got this.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3529.942,
+      "endTime": 3568.6,
+      "text": "It's an easter egg it's an easter egg, yeah, um, for anyone who made it to nearly an hour into the podcast. So I've got under a general category. I've got creative content generation. I have done some image generation. I'll just give that a very, very quick mention because I would recommend doing some image generation. You can use ChatGPT for image generation. It's free. If you pay for it, you can generate more images. It uses DALI too. It's perfectly good. One of the biggest reasons I'd recommend having a go with this is just because it's fun. There are lots of actually free apps you can use now which do image generation as well for making cartoons and gifs and all sorts of stuff.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3568.961,
+      "endTime": 3595.329,
+      "text": "If you haven't already had a go at this, it's pretty fun. The other thing I would say is have a go at generating some photorealistic images of stuff. I mean you can't necessarily get it to generate pictures of people by name, like famous people, because it'll refuse to do that, but get it to generate some photorealistic images, because if you haven't already, if you're not already aware of this via the podcast or via other means and you haven't really seen much of this,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3599.855,
+      "endTime": 3620.056,
+      "text": "then you'll be amazed by how good the photorealistic images that AI can generate are and it'll give you a bit of an eye-opener into the possibility that you're going to get deceived in the future by images. We've probably all already seen an AI image and thought it was real. I think that's probably happened to almost everyone who's listening to the podcast just to say something here.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3620.076,
+      "endTime": 3652.201,
+      "text": "Do you know? You showed me the other day a video. It was the video of donald trump talking about the um, the kind of freedom of speech and internet thing, and when I looked at it my first thought was to suspect that it was ai. And this happened to me a couple of times this week because of this stuff now coming out after the election, especially in China. We see stuff on Chinese social media and so I wonder if, like I've already transitioned to, I'm already in the space of not believing anything because I'm already kind of expecting something to be an AI image. You just thought it was interesting that it's the first time.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3652.241,
+      "endTime": 3662.901,
+      "text": "I found myself like going into it, not not thinking, oh this is weird, and then thinking it's AI, but like immediately looking at it. Be like, right, first thing is this AI yeah and and that's, but that's a good.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3663.082,
+      "endTime": 3694.691,
+      "text": "I don't know if it's a good place to be right now in terms of with video, but it's good. It's a good thing to have in the back of your mind at the very least. Because we've talked about it before on the podcast. I won't go into loads of detail. The reason I would say have a go around, go with ai image generation is because ai image generation actually works really well at the moment and there are free examples you can try out. It might also blow your mind how good the photorealistic image generation is. Um, and give you pause, because some of the stuff that you see online might not actually be real.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3695.273,
+      "endTime": 3727.054,
+      "text": "Um, I'm pretty sure that's the case already, as I said, and video will be next. Video is like a harder nut to crack, apparently, but it will be next. Um, leading into like what you know, going off what back of what matt was saying. Um, but the absolute most fun I've had with ai is generating the songs for this podcast and they're a bit daft. Like the lyrics are silly. Um, for this podcast, and they're a bit daft. Like the lyrics are silly. Um, there are a lot of. They're a bit of fun, but if you haven't had a go with something like Suno, which is there is a free tier on Suno. Um, suno is just an example.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3727.095,
+      "endTime": 3758.729,
+      "text": "There are other um examples of music generation AI software. I'm going to use Suno cause that's the one that I've used so much um for the podcast and, yeah, it's really good fun. And if you, if you just want to like make a really quick tune about something that happened in your day, something that you you've been thinking about part of your life, something about somebody else, whatever it is that you want to share with somebody else, I'd recommend having a crack at it cause it's fun. It can create music in any style. Um, it'll generate the lyrics for you. If you just want to be really quick and have a quick go with it.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3764.055,
+      "endTime": 3773.086,
+      "text": "If you want to get a bit more serious, my recommendation would be you know, generate your lyrics with Claude and then use the custom instructions to put your own lyrics in. There. You can work on the lyrics. The reason I do use Claude is because it's really good.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3795.535,
+      "endTime": 3810.996,
+      "text": "No-transcript suno like it's. It's a. It's a lot of fun. You usually end up with silly stuff. That's not like. You know it's not. You're not going to make some kind of masterpiece. Um, but it's a. It's a lot of fun to play with.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3811.717,
+      "endTime": 3852.065,
+      "text": "I find that it takes. Usually you either get the output in the first track that's pretty good, or it takes me eight, which means four re-generations of the prompt, because you get two each time. So I find it's either the first one or it takes four regenerations to get something decent. It is a bit hit and miss. Yeah, version four is about to come out and I got an email the other day saying version four is coming out and I think version four you know all of this stuff it's going to be about better customization. They've already improved it. There's a few beta features in there, but there will be better and better customization.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3856.075,
+      "endTime": 3883.318,
+      "text": "If you listen to the podcast and you've uh been listening to the songs at the end, uh, I think for the past four weeks, uh, there'd been ones I generated. So if you notice that the quality has dropped off, um, and there's some absolute nonsense in there, um, including one that was a kind of choral, kind of um church song, and then I think I did one which was, um, actually the one for the Dr C episode I was very proud of, but there was a bit of nonsense in there. So, jimmy, we're back at the helm today, so you should have a decent track this week.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3884.4,
+      "endTime": 3890.121,
+      "text": "I'll give it my best, no pressure. Yeah, exactly, but yeah, like, I mean, I just think this is something,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3896.475,
+      "endTime": 3926.361,
+      "text": "this is an an area that's just a lot of fun. And so you know being hopeless at making music myself. I have had a go at like a bit of production and that kind of stuff in the past, but I'm totally hopeless. Um, this is something where I can lose an evening playing around with suno. Um, one of the things like if you're so, if you're, you can't, you, you can't commercialize stuff on suno. If you're, if you don't have a paid for um tier, but if you're just using it for personal use, then you can take little samples and feed them into suno and get it to generate you more music. Based on that, you can get it to generate an instrumental and then extend it using lyrics, all these kinds of things.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3926.401,
+      "endTime": 3939.446,
+      "text": "If you want to get more, a bit more advanced with it and I say a bit more advanced, it really isn't that hard to use. So, um, if you like music and you'd like, you've ever fancied creating your own track, um, this is a really easy way to do it and a lot of fun",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3944.184,
+      "endTime": 3946.95,
+      "text": "so my fourth one, this is going to be a really quick one.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3947.351,
+      "endTime": 3984.126,
+      "text": "Um, I called it chatting through personal issues. So this is not counseling as such, and there are AI counselling apps and I've said for quite a while I think it will be really good, because what is counselling? Most of the time it's listening and then just coming back with kind of questions to prompt you to think. But this is an example like chatting through stuff, where maybe you're not comfortable with talking to a friend, maybe you just happen to live in a country where you don't have many people that you're able to talk to about it, maybe you're just the kind of person that doesn't you know, doesn't like to talk about things with other people face to face.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3984.808,
+      "endTime": 4014.138,
+      "text": "I thought it was gonna be really weird. I just got into this conversation with Claude and it was something recently. It was quite a, I think, for me like a very, very, very personal, very kind of life-changing experience and to try and not rationalize it but actually just understand it and try and see if it even made sense and if, you know, had other people felt the same. I started just like Claude was like I can't remember what it was. He was talking about something and he wouldn't talk about it. He was like, do you want to talk about something else? And I just started talking about it, about something he wouldn't talk about.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4014.158,
+      "endTime": 4042.183,
+      "text": "It was like, do you want to talk about something else? And I just started talking about it and, um, it was not just sympathetic but it was like reassuring. It kept complimenting me, it kept saying how honest and insightful and profound the things I'd thought and said were. It even threw in a bible reference to reference the perspective I'd given, and it was. It was asking questions that were like they were genuinely helpful for leading the conversation. I'll give you one example. It said would you say this experience has changed how you view the divisions and contradictions in society that initially troubled you?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4042.785,
+      "endTime": 4071.951,
+      "text": "Now that is quite a leading question, right, and I'm fully aware that this is like helping it with its training data, as we said before, and you can't have this conversation if you're not. You know, my thing is like would I be happy for this conversation to at some point be made public? If not, then I probably would not want to have this conversation with a large language model, but it's the first time I've had an interaction where I've been like I almost got carried away to thinking I was having a conversation with a person and like a really really good listener",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4075.735,
+      "endTime": 4113.905,
+      "text": "and someone who was prompting me in a direction that, like, was where I wanted to go, but I couldn't have gone there without it. Like I couldn't have, in fact, the same thing as I talked to about I talked to Jimmy about about four or five days before, and there's no way I could have had the conversation with Jimmy that I had with Claude, because the way that it asked the questions it was helping me to to think through that process. I was I was like properly staggered by this, because I know that those apps are out there. I know that you've got cancelling apps and I know that you know this is in its, in a way, is like a form of manipulation, like it's quite frightening that it's able to do this, but it was really useful and you can see how.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4114.427,
+      "endTime": 4147.496,
+      "text": "You know you have people who are lonely and, yeah, it's not ideal, it'd be better if they were having face-to-face interaction but, like I think this could be life-saving for some people, like genuinely to be able to have those conversations and talk through issues and challenges and things that don't make sense to them, like it was really really like, really amazing, and I do think this is one way. Like we say, you can use other large language models. I don't think chat, gpt or gemini will be as good. I think I think, on this example, like the way that claude's interface works, how personal bullet is, I think is why it works so well.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4148.959,
+      "endTime": 4167.936,
+      "text": "Fantastic counseling I not counseling, because I'm saying it is not counseling I think counseling is slightly different, but it's having a conversation about something where you want to talk through and you want it to draw things out, because you can't kind of think these things yourself. Like it helped me draw things out. Is this not what a?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4167.956,
+      "endTime": 4168.518,
+      "text": "counsellor does",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4172.086,
+      "endTime": 4174.241,
+      "text": "and I'm not. It's difficult to explain, but it's.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4175.137,
+      "endTime": 4177.096,
+      "text": "I can't explain why it's different. It wasn't quite.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4177.417,
+      "endTime": 4191.44,
+      "text": "I I know what you're saying, but it wasn't quite like that okay, I'm not and I'm not saying that we're trying to suggest on the podcast that you use a large language model if you need counseling but there is large language model counseling available and there's like character ai where you have different characters you can talk to, so like this is not.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4191.48,
+      "endTime": 4211.962,
+      "text": "This is not in itself like a thing that, oh my god, like this is the first time we've seen this example, but for me, how natural it was. And as someone who, like thinks ai all the time, has a podcast on ai and is fully aware of the dangers of ai, like I was drawn into it in a way which both scares me and makes me think, wow, this is like, this is cool.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4212.042,
+      "endTime": 4235.926,
+      "text": "I I actually, I agree, I think this is another potentially great use. Um, now, I know that at the moment, these companies don't want their ais to be used for this kind of purpose and that kind of thing. Um, and obviously it's a. It's a tricky subject. Um, on the other hand, it sounds better than better help, which is, uh, I, I've tried better help which is embroiled in controversy.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4235.946,
+      "endTime": 4236.447,
+      "text": "I've tried.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4236.487,
+      "endTime": 4239.016,
+      "text": "BetterHelp. It's been embroiled in controversy.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4239.036,
+      "endTime": 4242.623,
+      "text": "It's a completely different thing and like a year or so ago and it was pretty shit.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4243.535,
+      "endTime": 4245.94,
+      "text": "Well, BetterHelp has been embroiled in controversy.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4246.201,
+      "endTime": 4257.028,
+      "text": "I did it because it was basically free and they give you a free month or whatever, but it was rubbish. No, it's a pretty I take that back if they want to give us a multi-million pound sponsorship.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4257.455,
+      "endTime": 4267.266,
+      "text": "Well, speaking of sponsorship, we should definitely start taking some sponsorship for some of the stuff on this episode. From Claude from Google Workspace yeah, the whole lot.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4271.655,
+      "endTime": 4311.666,
+      "text": "So I think my last one follows on really nicely from this, because one of the things that's missing when you have a chat, so to speak, when you're typing text into a large language model, is the conversational thing. And so a little while ago we interviewed not even that long ago now we interviewed a couple of AIs on the podcast. We interviewed ChatGPT and we also interviewed Cerebras. We'll put a link in the show notes again, but I would recommend trying out Cerebras. I'd try Cerebras because we thought it was better and we were more impressed with Cerebras. My dad said ChatGPT was better. Oh really, yeah, okay.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4312.495,
+      "endTime": 4338.915,
+      "text": "So okay, I mean, try either one want. My dad gets a lot of references on his podcast, doesn't he? He does so fair play, I mean. I think maybe it was because we'd already spoken to one, maybe we're biased, but either way, um, if you want to pay, then chat gpt is the way to go, because I think the chat gpt voice is only available on paid plans. I think not actually 100% sure on that. Cerebrus is completely free.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4338.995,
+      "endTime": 4340.039,
+      "text": "Yeah, I can confirm that's true.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4340.461,
+      "endTime": 4371.884,
+      "text": "Oh, you can confirm that's true. So Cerebrus is completely free and I just think it's really impressive, like the ability to have a chat with something or an AI rather than just typing into it, and where that chat is real time. This is one of those things where I don't think it's not so much a use case as in like, you know, go away and use it for this, that and the other. But, leading on from what Matt was saying, you know, if you want to talk to an AI, to sort of talk about your feelings or talk about how you're feeling, talk about philosophizing with it, something like that",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4380.455,
+      "endTime": 4386.836,
+      "text": "Sometimes voice is an easier way to do that. As a human being, um, and some of these voice models are pretty cool now. So see what's out there. I'd recommend Cerebrus chat GPT voice if you want to pay for it. Um, it's quite nice to have a chat sometime.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4391.622,
+      "endTime": 4428.942,
+      "text": "Okay. So my final one is I have put the title as summarizing but, um, I just didn't want it to be a notebook lm again, because we've had notebook lm episode, notebook lm in the news and then a kind of notebook lm mentioned here. But I think it doesn't have to be notebook lm, but it's just that is the most well known and and probably the best way for at the moment, I think anyway, for kind of summarizing things, and this is not necessarily just about documents. So you can summarize documents and that's been around for ages any, any large language model. You can um, upload a pdf, put some text in, ask it to give you a summary, and you know, 2000, 1550 words.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4429.002,
+      "endTime": 4475.832,
+      "text": "I even tried getting it to summarize something in one word, um, which is quite cool, because I had this exercise I used to do with people where saying, okay, you give it an answer on something, give it in 50 words, give it in 10. Now, give it in a sentence, now give it in one. You ask a large language model to do it. Of course it will just do what you ask it to do. It's not great, but it's you. You can see, like the difference in styles, not just like obviously it's shorter but like what things it picks out. It's quite interesting to see when you go from like 2 000 words to 500. And we have a people probably don't know this, but we have a sub stack account for preparing for ai which has I haven't kept it up to date, but he has kind of 2 000 word summaries of a lot of podcasts and that is just a case of transcript of the episode put it in.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4476.073,
+      "endTime": 4509.429,
+      "text": "I've got a prompt with Claude which gives me a particular style, like mildly humor style in a certain way, and it will give me that output. Um, the thing that's really good about notebook lm now so you can put in youtube videos, you can put in your documents, you can put in pictures, you can put in all different kinds of media and then get it to kind of summarize all of that stuff. That's why I think notebook lm is kind of at the front of the field. I'm sure others will catch up. I I'd heard, I heard that perplexity is doing something very similar. I think it's called spaces, so perplexity, spaces.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4509.449,
+      "endTime": 4547.977,
+      "text": "I may have got that wrong, but it's basically going to be notebook lm within perplexity. There's going to be a similar feature in there because they're obviously looking at the same kind of research and kind of enterprise market. There's a really great example, so Ben Cook of this parish, who's been on our podcast before, he gave an example where he got his holiday itinerary and then he got all of that through it in and made it essentially like a short podcast to introduce it to his kids. I thought that was a brilliant example, like a great way to use the idea, because when they talk about a podcast, it's not a podcast right, it's an audio summary in the style of two people talking.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4548.097,
+      "endTime": 4588.125,
+      "text": "I think the idea of a podcast gives the wrong impression. But using it in this way, I mean you know you could chuck in a load of information to bring your team up to date on some organizational news or on a particular you know topic or particular thing, policies, the outcome of a meeting, whatever you want to do. Like this idea of just chucking a load of stuff in and getting it to filter out the the crap essentially and and summarize the key points, like I think there is still there's a bit of work to do in terms of the models being more um, more kind of giving you more of an ability to to shape and and tweak the information you want out there.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4588.145,
+      "endTime": 4617.372,
+      "text": "So notebook lm does do it to some degree. Now, I think when you can do that more is when these are really advanced, but you can already have some degree of like you, you know. Here's where I want my emphasis to be this idea of being able to get big, huge chunks of information and get them to a kind of manageable bit, whether it's feeding up to your boss, whether it's feeding it down to your team, that example of your family, whether you want to help your parents to learn about something that you know you think is important, but they don't know how to start. Like all of this stuff, summarizing it.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4617.515,
+      "endTime": 4652.836,
+      "text": "You can summarize it into text, you can summarize it into this kind of PPT style. I'm sure it won't be long until you can summarize it into some AI character doing a kind of video summary of it. But it's another really really useful case and it's one of those examples of where, like, it saves people's time because there is more and more information out there some of it good, some of it bad but getting that in a way that can deliver in a way. You know I take information really well from audio sources. So for me like that idea of like I'll give me a podcast that summarizes, like the latest policies and I'll listen to it just before I go to bed.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4653.017,
+      "endTime": 4687.445,
+      "text": "That would work for me. For others, putting it into a text, but putting into a text and saying with the prompt, like, make this humorous, or like you did, an example on a, the, the podcast where we interviewed uh, interviewed cerebris and and chat gpt, is like put it into a shakespearean sonnet, you know, put it into a haiku, whatever you want, like a way that you'll absorb the information. But this is one of the things that large language models are really great at is getting information, summarizing it down to exactly the number of characters you want. So if you say, give me 2 000 words, it won't give you 1998, it will give you exactly 2 000.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4688.007,
+      "endTime": 4700.284,
+      "text": "Like it will give you exactly what you want in the style that you want, and that, I think, is another really really good practical way that almost everyone can find a use case for summarizing information cool.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4700.504,
+      "endTime": 4702.248,
+      "text": "Can you summarize this podcast in one word?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4703.417,
+      "endTime": 4718.19,
+      "text": "matt and jimmy changed people's lives by informing them about the 10 best uses of large language models that exist. That was one, one sentence, I think. Was it? It was a long sentence.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4718.471,
+      "endTime": 4720.338,
+      "text": "Yeah, I would summarise, do you want to?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4720.358,
+      "endTime": 4722.723,
+      "text": "summarise it. Can you summarise it backwards in a haiku?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4727.402,
+      "endTime": 4728.424,
+      "text": "That was clawed backwards.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4729.206,
+      "endTime": 4737.656,
+      "text": "Ah, very good. Well, before we finish off, Jimmy, is there anything you wanted to add at the end of this episode?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4738.699,
+      "endTime": 4752.32,
+      "text": "yeah, I just think so. With all this, my biggest suggestion if you haven't already, we've given loads of examples of ways you can use ai. If you've, if you're already using it, great I think. Why are we doing this episode? Um?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4753.142,
+      "endTime": 4756.489,
+      "text": "it's because, because Jonathan said I talk about conspiracies too much.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4757.096,
+      "endTime": 4788.524,
+      "text": "That's one of the reasons. That's definitely one of the reasons, but I think the other thing is. I mean, obviously the podcast is called Preparing for AI. What better way to prepare for AI than to have a go with some of these tools and applications and a lot of them are free, like you can have a go for free. A lot of them are free, like you can have a go for free. A lot of them are really fun, like I've had a lot of fun playing with these things. I think some of the things to bear in mind is that ai can still hallucinate. We talked about it a little bit on this podcast, but if you're using it for any serious use, I would recommend backing it up with a little bit of research.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4788.585,
+      "endTime": 4824.003,
+      "text": "Just just fact check it here and there. Um, as we said earlier on, critical thinking skills are becoming more and more important, so it's also a good application, right, if you, if you can, you know you can ask claude or gpt some questions and then just have a think about what the answers that it gives you back. Think about okay, do I? Is this something I can trust, or do I need to go and fact check it same as you should be doing anything on the internet and subscribe to the podcast and keep listening, because the AI landscape continues to change really, really fast, and so we'll give you all the latest updates.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4825.337,
+      "endTime": 4843.976,
+      "text": "Yeah, and over the next few weeks we'll be having a lot of interviews one on, or at least one on, the AI landscape in China. We'll hopefully have one on military use, on ai, and all kinds of other interviews with people who've been reaching out to us because they want to be on the uh world's number one ai podcast.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4844.136,
+      "endTime": 4849.818,
+      "text": "So on that note, jabberwocky and goodbye from him.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4860.821,
+      "endTime": 4880.547,
+      "text": "Music, not alone here, crystal clear, side by side. Take this ride.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4903.494,
+      "endTime": 4923.156,
+      "text": "Soon, old beats, shopping streets, meal plans flow, watch us grow More than cold. Down this road, you and me Breaking free,",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4946.187,
+      "endTime": 4965.959,
+      "text": "health and mind all aligned. Digit your ring once again, not alone here, crystal clear, Side by side. Take this right,",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4982.833,
+      "endTime": 4990.005,
+      "text": "just flow, let go. Digital dreams.",
+      "chapterIndex": 11
+    }
+  ]
+}

@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "sync:episodes": "NODE_USE_ENV_PROXY=1 node scripts/sync-episodes.mjs",
+    "merge:distill": "node scripts/merge-distillation.mjs",
+    "predictions:due": "node scripts/prediction-cli.mjs due",
+    "prediction:add": "node scripts/prediction-cli.mjs add",
+    "match:polymarket": "NODE_USE_ENV_PROXY=1 node scripts/match-polymarket.mjs"
   },
   "dependencies": {
     "@giscus/react": "^3.1.0",

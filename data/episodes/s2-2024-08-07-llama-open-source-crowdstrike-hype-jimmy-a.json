@@ -1,0 +1,1461 @@
+{
+  "slug": "s2-2024-08-07-llama-open-source-crowdstrike-hype-jimmy-a",
+  "buzzsproutId": "15538673",
+  "title": "LLAMA, OPEN SOURCE, CROWDSTRIKE, HYPE: Jimmy and Matt debate their key AI stories from July 2024",
+  "date": "2024-08-07T16:00:00.000Z",
+  "season": 2,
+  "durationSec": 4916,
+  "format": "debate",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15538673-llama-open-source-crowdstrike-hype-jimmy-and-matt-debate-their-key-ai-stories-from-july-2024.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail In the first in a new series of monthly episodes, Jimmy and Matt debate the AI topics which have piqued their interest in July. Diving into the nuances between open-source and closed-source AI models, Jimmy reveals how personal use of Meta's Llama can revolutionize your data privacy and control. Hear Jimmy's first hand experience running a smaller Llama model on his own computer and discover why the performance gap between open-source and closed-source models like ChatGPT and Claude is narrowing faster than you might think. Curious about why tech giants are open-sourcing their AI models? We break down Meta's strategic move under Mark Zuckerberg’s leadership, comparing it to Tesla's game-changing approach with electric motors. This episode uncovers how open-sourcing can disrupt established ecosystems, stimulate innovation, and reshape the AI business landscape. We emphasize the fleeting nature of having the \"best\" AI model and how open-source contributions can provide a strategic advantage in this fast-paced field. From security risks to ethical considerations, we tackle the big questions surrounding AI development and its implications on national security. Learn why both open and closed-source models have their vulnerabilities and why AI's potential role in cybersecurity is a double-edged sword. Reflecting on recent incidents like the CrowdStrike outage, we debate whether AI is reaching a plateau in capabilities or if it's simply a victim of overhyped expectations. Tune in to get a comprehensive look at the future of AI, the investment buzz, and what it all means for you.",
+  "summary": "Jimmy and Matt go deep on Meta's Llama 3.1 release — including the 405B frontier-class open weights model — and the open versus closed source debate, covering Zuckerberg's stated rationale, national-security fears and universal jailbreaks. They also dissect the CrowdStrike outage, whether LLM architecture has maxed out, and whether AI investment has hit the hype-cycle plateau.",
+  "keyTalkingPoints": [
+    "Llama 3.1's 405B parameter model matched or beat closed models on benchmarks — the gap between open and closed source has effectively closed",
+    "Zuckerberg's pitch: Meta does not need to sell models; open source builds its ecosystem and undermines competitors selling $20 subscriptions",
+    "Universal jailbreaks work on any closed model, so closed-source security claims fail — the best model is also the most dangerous",
+    "The CrowdStrike outage was a cascade of basic errors — a null pointer in a kernel driver — and Matt questions whether it was really an accident",
+    "On hype: Jimmy believes capability is plateauing and the next investment wave awaits genuinely productive agentic applications, with US investors also waiting out the election"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Open source has essentially caught closed source, and that should have OpenAI and Anthropic worried",
+      "LLM capability is plateauing — the models approximate human output well but generate nothing genuinely original",
+      "Current LLM architecture will not reach genuine AGI or produce new biological threats",
+      "Agentic models, not AGI, will drive the next wave of AI investment and performance"
+    ],
+    "matt": [
+      "No one can stay number one for more than weeks — good-enough open models will win on price, fine-tuning and independence",
+      "China will almost catch up, and almost-good-enough will be good enough for most uses",
+      "Control of Nvidia GPUs is the new oil — the decisive geopolitical resource of the AI era",
+      "Closed-source security is undermined by universal jailbreaks, so neither open nor closed is a definitive answer"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-08-07-llama-open-source-crowdstrike-hype-jimmy-a-503.422-llm-capability-improvements-are-plateauing",
+    "s2-2024-08-07-llama-open-source-crowdstrike-hype-jimmy-a-1010.824-china-will-almost-catch-up-on-frontier-models-an",
+    "s2-2024-08-07-llama-open-source-crowdstrike-hype-jimmy-a-4243.555-genuinely-productive-agentic-applications-will-d"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 8,
+  "turnCount": 197,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "New Llama models",
+      "startTime": 80
+    },
+    {
+      "title": "Open source models",
+      "startTime": 638
+    },
+    {
+      "title": "Closed source models",
+      "startTime": 2053
+    },
+    {
+      "title": "CrowdStrike and Cyber Security",
+      "startTime": 2794
+    },
+    {
+      "title": "Have we maxed out LLM architecture?",
+      "startTime": 3496
+    },
+    {
+      "title": "The Hype Cycle and AI investment",
+      "startTime": 3778
+    },
+    {
+      "title": "Llama Queen (Outro track)",
+      "startTime": 4626
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 27.174,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, jimmy Rhodes and me, matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, ai and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. Urgent need for safe development of AI, governance and alignment. Salt, air and the rust on your door.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 34.3,
+      "endTime": 64.772,
+      "text": "I never needed anything more Whispers of, are you sure? Never have I ever before. Welcome to Preparing for AI the AI podcast for everybody with me, matt Cartwright and me, jimmy Rhodes. Well, this week we are, as we always, going to do something slightly different, but this will be the first of our kind of monthly roundup episodes. So we're aiming every month to have one episode like this, where it'll be just me and Jimmy talking about what's gone on the last month in the kind of AI landscape, chewing the fat, shooting the breeze and kind of getting off our chest anything that we want to talk about from that month in AI.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 65.34,
+      "endTime": 79.505,
+      "text": "So this week we're going to start off with probably the biggest story was the release of the new Lama models. So we're going to start off with a bit of a chat about open sourced and closed source AI models, and I will let Jimmy kick this one off.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 80.529,
+      "endTime": 80.93,
+      "text": "Thanks, matt.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 106.76,
+      "endTime": 154.149,
+      "text": "No-transcript. As opposed to closed source offerings from companies like open, ai or anthropic with claude and chat gpt. So it's really interesting because I say it's not something you would necessarily expect from a company like Meta. All the other big tech companies are basically running closed source models, whereas Meta have decided that their approach is going to be. You know, they're spending a lot of money on this stuff, so their approach is they're going to be training up these models and then effectively giving them away so people can run them on their own hardware. And I actually have been running the latest meta model, one of the smaller models, on my own computer, which is fantastic.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 154.189,
+      "endTime": 162.344,
+      "text": "So that's completely my data, my privacy. I can run it on my own computer, it's not going into the cloud anywhere and it's quite exciting.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 162.785,
+      "endTime": 189.97,
+      "text": "The other exciting thing about this, and the sort of the reason it's big news, is that the frontier model, which is a 450 billion parameter model which you definitely can't run, so we should probably say this is not the one you've downloaded to your local computer, because we joked about you having 20 000 gpus in the back um, but you'd sort of need something close to that to run the uh, to run the new massive model on your own network. It would need to be, wouldn't it?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 190.432,
+      "endTime": 234.332,
+      "text": "Yeah, yeah, totally. So I'm running the 7 billion parameter model. I don't think I could even run the one above that. Oh, I think it's 8 billion parameter. I don't think I could even run the 70 billion parameter model, which is the middle one. But the 450 billion parameter model is something that you it gets run on enterprise type equipment, um. But the cool thing about it is that it's neck and neck with chat, gpt and, uh, like frontier models, frontier closed source models like chat, gpt 4.0 and claude, um, claude 3.5 sonnet. So it's actually massively closed the gap and, to be honest, the Frontier closed source models are a little bit better, but you're kind of splitting hairs at this point.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 234.8,
+      "endTime": 245.233,
+      "text": "Basically, the open source stuff is now just as good as the closed source stuff and actually must have open AI and companies like Anthropic quaking in their boots a little bit.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 246.12,
+      "endTime": 281.928,
+      "text": "I think, a question at this point that I wanted to ask you. I sort of know the answer to this, but I don't fully 100% understand. But when we say they are close to or better, what do we mean by that? Because the question I get asked a lot by people is oh well, chatgpt is the best one, one isn't it? And I say, well, it's, it's fine for what you use it for. Actually, what do you mean by the best one? But when you say that you know the frontier models actually llama is as good as the frontier models or we say you know sonic 3.5 is now bypassed, 4.0 or whatever what are we talking about when we say a model is now better or as good as?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 283.05,
+      "endTime": 334.569,
+      "text": "so there are a standard set of tests that are run on ais every time a new ai is released and they involve maths, language ability, a bunch of different capabilities, that that test the abilities of large language models and, without going into the scoring and all the rest of it, basically they're're very close now. So so the the latest model, so previously the top performing model on all those tests was a chat GPT four, and then Sonnet 3.5 came out and Sonnet 3.5 beat chat GPT, which is why we say that at the moment um or yeah, at the moment um Anthropic Sonnet model is the best model outright, but Lama 450B came very close to both of them on a lot of these tests and did actually outperform them slightly on some of them.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 335.261,
+      "endTime": 360.841,
+      "text": "And again, without going into loads of technical details, effectively, I think the main takeaway is that the gap has been massively leveled and they're now so close that you're going to get comparable performance for most things that most people are going to use llms for across all of the top models so my friend, let's call him, let's just make up a name leopard hossenfelder what does he know?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 360.861,
+      "endTime": 381.812,
+      "text": "so, so he is a good friend of mine. He's just started using large language models. He mainly asks them questions. He occasionally asks them to help him do some Excel work and to brainstorm things and to, you know, write a presentation. Does it matter to him whether he uses the frontier models,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 384.98,
+      "endTime": 410.351,
+      "text": "the frontier models? Does it matter to him whether he, in the background, he's got, you know, llama 2.1, a mistral model, chat, gpt, 3.5, 40, I mean, you know, at this point, I guess what I'm trying to ask is for people listening who are not, you know, not using large language models for anything that requires particularly, um, high capability of maths or, you know, language understanding. Does it really matter? Are they going to see the advantage of these models or not?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 412.04,
+      "endTime": 452.182,
+      "text": "I would say yes, we're still at the point where, if you go back to ChatGPT 3.5, for example, versus ChatGPT 4.0, there is a noticeable difference in ability. So one of the things that I do, for example, at the end of every episode we have a song and I don't just put get the song lyrics from Suno, which you can do, so you can just put a prompt into Suno and it'll generate lyrics and then you can generate a song. I think I may have talked about it before. I use Claude 3.5 actually to generate the lyrics and then I put the lyrics into Suno and put Suno in custom mode, and I tend to find I get better results that way.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 452.844,
+      "endTime": 464.714,
+      "text": "Personally, I noticed a performance bump with things like generating lyrics between the previous version of Suno and previous versions of ChatGPT, like GPT 3.5,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 468.58,
+      "endTime": 503.121,
+      "text": "version of suno and previous versions of chat gpt, like gpt 3.5 and the newer models. It's like just, it's just a quality thing. So, for example, outputting songs, it will produce better quality output, it will do something that's more accurate, it might put it, might um, it might just kind of work better as a song in terms of like the, the lyrics and the um, the, when you put it into suno, like how that comes out as a song. So it's kind of hard. It's a little bit intangible and hard to put your finger on. But overall, I feel like at the moment the models are improving enough between generations that it is worth like it is noticeable when you're using the latest models.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 503.422,
+      "endTime": 506.727,
+      "text": "That being said, I think it's plateauing and it's starting to plateau.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 508.824,
+      "endTime": 528.616,
+      "text": "I mean, we've talked about many, many times now over the last month or so about how we recommend Anthropix, clawed and I like the interface to it, and I noticed a big bump from 3 to 3.5 on Clawed. Also on ChatGPT, from well 3.5 to 4 was massive, but also from 4 to 3.5 on Claude, also on ChatGPT, from well 3.5 to 4 was massive, but also from 4 to 4,.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 531.827,
+      "endTime": 565.086,
+      "text": "Oh, there was a difference. But for what? I think a lot of people are using large language models at the moment. I'm not trying to be patronizing, you know, it doesn't matter, you use it for what you want, but where a lot of people are using it for quite simple tasks at the moment, I would actually say the best thing for you to use is grok with a q. I agree, and, and actually you know, talking about the llama models, grok with a q has the new llama models, it has the new mister models that it's using in the background. But actually I think what most people I guess what I'm trying to get here, what I think most people notice when they say better, is that they notice it's faster.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 566.128,
+      "endTime": 583.103,
+      "text": "Yeah, and actually you know, grok with a q is the fastest and it has models now which are almost as good as you know, the best open ai and anthropic and google models and therefore for most people I would probably say and you don't need to pay for an account using it day to day.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 583.304,
+      "endTime": 624.691,
+      "text": "it's probably my recommendation would be use grok I agree, um, I mean I, I don't know. I suppose I suppose, in terms of our podcast being the ai podcast for everyone, I would definitely recommend grok. But I would also say you can use any of these models on the free tier, um, and there might be usage limits, there might be rate limits, but they're all going to give you pretty good answers and, I agree, grok will give you. If you just want a really quick response and you've got some data you want to sort out, you've got a, you know you want to write let's say, you want to write a letter to the small claims court or something like that because you're upset about a parking ticket, you know any of the models will produce you a pretty good first draft that you're going to need to tweak a little bit,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 628.42,
+      "endTime": 633.845,
+      "text": "but I think there's probably not a lot to choose between them.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 636.708,
+      "endTime": 646.977,
+      "text": "So let's get into the weeds a little bit with open source against closed source. And I think there are two sort of really interesting sort of elements or arguments here.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 653.98,
+      "endTime": 686.873,
+      "text": "The first one, and the obvious one, is the kind of why, why would you choose, as a company, to do open source over closed source? So you know, I I've got some ideas on this and some of this is not my ideas. Actually, this is things that I've you heard from, from mark zuckerberg, for example. But you know, what do you think? I mean, let's not go into for the moment what we think are the best, whether we think open source is, you know, is better or worse, and and the sort of security and stuff. We'll move on to that in a bit. But in terms of a business model and in terms of why they're doing it, yeah, what's the motivation for an organization to be creating these open source models?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 687.04,
+      "endTime": 701.209,
+      "text": "And it's not just meta with Lama, you know, like I said, mistral is another big one. There are loads of other ones that I don't know the name of. There are plenty of Chinese ones as well. There'll be even more now they've got access to, you know, to play around with the Lama models.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 705.5,
+      "endTime": 707.023,
+      "text": "But what's the point if you're creating this model to?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 707.043,
+      "endTime": 766.38,
+      "text": "give it away for free. It's a good I mean, that's a really good question. I think, uh, the best person to ask that to would is mark zuckerberg. If I was to hazard a guess, my view would be that it's disruptive. Um, so you know which is what facebook was exactly. So so you're, you know, you're disrupting and, and we've seen successful examples of this in the past. So you have, uh, tesla, for example. So you know, tesla classically open sourced all of their designs for electric motors because there wasn't a big enough market for electric, for electric vehicles, and they kind of created the demand by actually open sourcing all their designs and allowing other car companies to compete with them so that it would actually create competition, create demand and um and and yeah, and so this has been done before, like it's quite an unusual model.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 766.5,
+      "endTime": 807.865,
+      "text": "But I think also, as you mentioned, meta is a, is a has been a big disruptor in the past, where there's a lot of these examples of these companies where they set things, set up and do things effectively for free, or apparently for free for a long time, and then it only appears, it only transpires later, what their actual, their actual aim was. And I, you know there's going to be huge benefits to Facebook as a company to developing frontier AI models, because they'll be able to reinvest that back into Facebook. They'll be able to use it for their algorithms. I presume they'll create, you know, ai generative type functionality within Facebook, if they haven't already, which I think they have actually.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 807.905,
+      "endTime": 820.775,
+      "text": "So, like Instagram has some image generation you can do so. There's loads of benefit for them, but they're just not competing in the pure large language model space, I suppose this is sort of what Mark Zuckerberg has said.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 820.815,
+      "endTime": 861.104,
+      "text": "I mean, it's quite a it's quite a long speech and it's difficult to know how much to take at face value. I actually, um, I actually kind of believe and by what he says and there are a few points in there maybe to raise. One of them is, you know, he's pissed off over many, many years with the way the apple ecosystem has held back innovation for you know, meta, the various sort of apps that they have facebook, instagram, whatsapp, whatever you know by having a limited ecosystem. So you can see how, as a disruptor and then as someone whose business has been kind of held back in terms of creativity by that, I think that's one part of it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 861.706,
+      "endTime": 900.87,
+      "text": "I think another part part, which again is something that Mark Zuckerberg has said is that their business model is not around selling large language models and AI, as we've talked about many times. The big uses and changes are going to be things that happen in the background and that happen in things that you're already using. And Google and Apple and Meta were the big three organizations beforehand. I don't think Anthropic's necessarily up there in terms of revenue with them, but the two big organizations in terms of the frontier models at the moment in the last six months have been OpenAI, which had GPT-4.0, and Claude, opus 3, and Sonic 3.5.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 901.74,
+      "endTime": 954.551,
+      "text": "They're not the natural or they're not the natural. They're not the natural. They're not the sort of regular big tech titans and having the best model we're sort of thinking like, oh, their business model is selling a subscription for 20 quid a month. You know, the b2c side of it is almost kind of irrelevant. It's going to be what happens with enterprise and business and how they make their money out of that. And microsoft and google and apple are all already integrated there and meta is already, you know, embedded in all kinds of things that we don't think about and they're looking at. You know there was the metaverse, there's the headsets, there's all various things that I think they view ai as being something that underpins other products and their business model is around all those other things, rather than their business model is selling large language models and that point as well that they'd made about.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 955.573,
+      "endTime": 980.626,
+      "text": "You know, we had chat GPT-4 was the best, then chat GPT-4-0 was the best, then Claude Sonic 3.5 was the best, then ClaudeSonic 3.5 was the best. Soon ChatGPT 5 will be the best. Maybe Gemini at some point will finally have the best model. So they're all kind of, you know, vying for top spot, and then you've got open source models. I guess the point is like, if your business model is going to be based on the fact you've got the number one model,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 989.24,
+      "endTime": 1010.764,
+      "text": "you might only have the number one model for six weeks or three weeks, or actually a day, you know, while while the other organization held back their next model to bring it out. So is that really a viable business? Why? Why, if we've got, you know, various other models, if meta don't make theirs open source, but mistral are making theirs open source, you know, does that give an advantage to mistral? So I think actually it sort of makes sense, even from a commercial point of view, that no one's going to win this race by having the best model and then they're just going to carry on being the best.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1010.824,
+      "endTime": 1029.575,
+      "text": "No one can stay ahead In the same with the kind of US-China race on. This is, china might not completely catch up, but it'll almost catch up, and that an almost good enough will be good enough for most uses. Most uses are not going to need the absolute best frontier model. The military might, you know, and national security might, but actually for most businesses, like",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1035.14,
+      "endTime": 1051.323,
+      "text": "good enough is going to be enough. It's going to be about price and competitivity and I think also is going to be about being able to have your own closed source model, which you can get an open source model, fine tune it and then do that with with. If you have a closed source model like chat, gpt, even if they're allowing you to have your enterprise model, you don't know what point they're going to go.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1051.363,
+      "endTime": 1104.365,
+      "text": "Oh, we're changing the terms and conditions or we're now changing our usage policy and and therefore there's a lack of kind of security around that yeah, and just to I think, something that might help understand why we are where we are where you know, open, ai burst onto the scene with, with chat, gpt, and they had the best model for a while, but now you keep getting this leapfrogging thing that you were referring to. Where come, like, different companies, different models keep leapfrogging each other, like almost weekly, sometimes like definitely every month, and part of the reason behind that just to kind of explain it a little bit, as far as I understand it like the transformer model itself came out of a research lab I think it came out of a research lab at Google and it's been iterated on a little bit but the actual software, the you know the actual lines of code behind some of these transformer models.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1104.786,
+      "endTime": 1143.026,
+      "text": "It's a very clever algorithm that someone's come up with, but it's actually not a huge amount of code. What is required to actually get a good large language model is huge amounts of data and huge amounts of processing power and hardware, and that's why you're seeing these companies leapfrog each other, because it's all about the quality of data and the quantity of data that they've got and then combining that with, like, basically, massive amounts of hardware and these, these models take significant amount of time to train and to fine-tune and all the rest of it. So you know you companies will go quiet for you know three, four, five, six months.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1143.427,
+      "endTime": 1158.46,
+      "text": "And then you get this, this update from facebook, where they've actually leapfrogged most the rest of the models, and next month it might be gpt again hasn't elon musk just like just switched on the biggest, um sort of super mega computer?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1159.823,
+      "endTime": 1192.393,
+      "text": "you know the transformer model, that and and that kind of? Is your point that it's going to take months? But I think they've just turned that on, haven't they? And therefore are claiming that theirs is going to be number one soon. That's grok with a k. Yeah, grok with a k it's grok with a k and then and then you just add one more point on on sort of meta, and mark zuckerberg again is saying that next year they're going to be number one in terms of the model, and the view seemed to be that it was not a case of like they're going to be number one for a bit but actually is really confident that theirs is going to be the most powerful model going forward.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1192.453,
+      "endTime": 1209.102,
+      "text": "For you know, I'm not saying forever, but for a kind of significant amount of time at least, and I and I assume all that has to do with they've bought up the, whatever it is, the nvidia chips, the computing resources. They know what's coming. They've got the supply chain right. Yeah, because I guess they all know their supply chain. Now they must know like a year or two ahead.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1209.403,
+      "endTime": 1225.352,
+      "text": "Yeah, exactly so, if you know you've got the most hardware, barring again, barring, like a new, improved algorithm or model or bit of software coming out. Um, which is what these things are based on. Basically, that's it. It's who's got the most computers, who's got the most compute",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1229.045,
+      "endTime": 1232.651,
+      "text": "should we move on to the kind of security element here?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1233.051,
+      "endTime": 1271.009,
+      "text": "um, today, as we record this episode, it's the launch of the um, eu ai act, so the first sort of major piece of legislation coming in place, I mean it's. It's also quite ironic, as we're talking about meta, that metro have announced that they're not going to roll out any of their um large language models in the eu because of the eu ai act, and apple have also said that they will delay the rollout of the apple intelligence stuff, although I've seen that they're now delaying it everywhere. So maybe it doesn't really make any difference, but it's quite a big, quite a big milestone really in terms of governance.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1271.17,
+      "endTime": 1303.648,
+      "text": "That that's that's come into place today. It's the first major piece of legislation that covers a lot of things, and so it seems appropriate to talk about the kind of security risks. Because the obvious question here for me and I'm I say for me, I'm sort of saying on behalf of people I would think is okay, open source, so doesn't that mean everyone can get their hands on it? And then immediately it's like what about terrorists? What about biological weapons? If the frontier models are out there and everyone can pick them up, doesn't that mean that everyone can just start.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1310.7,
+      "endTime": 1337.642,
+      "text": "You know building super intelligent ais and creating bioweapons and you know launching nuclear bombs. I mean, I kind of jest a little bit, but that would be the immediate reaction. And I know there is a lot of kind of buzz in the us in particular around this and around the national security risk of releasing models. I think in in the us the the national security risk of releasing models. I think in in the US the big national security risk is we're giving China our, you know our models. I actually wonder why they always think of China. They never think of North Korea or Russia or anywhere else.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1337.682,
+      "endTime": 1345.03,
+      "text": "It's always China. It's like you know China's not that far behind you. Anyway is, if you're worried about giving it away for free, you're not worried about giving it to.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1350.192,
+      "endTime": 1353.161,
+      "text": "What's the argument against that, or is is there an argument against that?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1354.793,
+      "endTime": 1391.397,
+      "text": "so my thoughts on this I I can't remember whether we've talked about it on the podcast, whether we've talked about agi and whether we're going to get there. My thought, my personal thoughts on this, are that the current large language models are slightly more underwhelming in terms of creativity than it was expected. So there seemed to be this expectation that at some point relatively soon, this particular architecture would result in something like AGI, where it would actually be able to have Someone had said AGI by September.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1391.417,
+      "endTime": 1395.621,
+      "text": "I don't know if it was Musk. I'm sure someone at the beginning of the year said AGI by September.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1396.071,
+      "endTime": 1435.376,
+      "text": "Maybe it depends on the definition of AGI, but if you're talking about a model that has a genuine creative thought, I don't think the current architecture is going to get there. So this is all just my opinion, but everything that a large language model spits out, in my opinion, is information that's already out on the web. I saw somebody talking about how underwhelming large language models are in a way. I mean, they're really impressive in what they can do, but they regurgitate information that's already out there, and so if you want to find out how to do any of the things that you're talking about, like national security threat type stuff, it's already out there on the web somewhere.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1435.696,
+      "endTime": 1453.241,
+      "text": "Probably it's like AI. Large language models, in my opinion, are not going to come up with like a new biological threat today. They might help you get to one with a bit of human creativity, and that's maybe a different conversation. Um, but someone there was a bit of an anecdote that I heard and I can't remember where I heard it,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1457.71,
+      "endTime": 1493.717,
+      "text": "but someone was talking about the like if you think about large language models, if you go back 15 years and you had large language models 15 years ago, all of the technology that makes drones work today, as this was the example. They used all the technology that makes drones work today all the motors, all the AI controls, all of that stuff, the lightweight materials, the whole lot. All of that was developed in the last 15 years. If you went back 15 years and had a large language model 15 years ago, it wouldn't be able to tell you how to make a drone. And this is kind of the thing with it where, like, people are expecting miraculous results, people are expecting kind of genuine creativity out of these models and it doesn't seem to be transpiring.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1493.757,
+      "endTime": 1508.94,
+      "text": "It just getting really, really good at like. For example, with the tests we were talking about earlier on, it feels like it's going to get to 100 at some point, but it's probably not going to get to 110, and that's kind of a stupid um saying, but like it's not of human.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1509.301,
+      "endTime": 1511.372,
+      "text": "Yeah, capability is what you mean by percent there.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1511.392,
+      "endTime": 1518.706,
+      "text": "Yeah yeah, yeah, exactly so it's. It's for me, they're just at the moment, they just don't come up with anything genuinely original.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1518.726,
+      "endTime": 1558.378,
+      "text": "I think a really good example for this, actually, before we sort of dig in a little bit more in the security but. But, um, I was talking to someone today and we were talking about you know how chat gpt works? They've been using chat gpt and we were talking about how, how you can kind of make it change its mind. Or he was talking about how you could challenge it and I was saying how you can make it change its mind. For example, say, act as a bookmaker, give me the likelihood of Manchester City winning the Premier League next year, give me the likelihood of the New York Yankees winning the World Series this year, and he'll give you odds and then say to it that sounds overly optimistic.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1558.518,
+      "endTime": 1585.766,
+      "text": "And it will immediately say you're right. And then it will just give you some odds that are lower. And I did this recently with with a statistic around them I can't remember what it was rates of something. And it gave me a figure and I was like, oh, but I thought there was lots of this at the moment. Oh, and I was like, oh, but I thought there was lots of this at the moment. Oh, you're right On that basis. And it gave me a new figure and I said that sounds a little bit over the top. On that basis, won't this many people be, you know, in chronic health in the next six months? You're right, that does sound over the top, and I said to it stop correcting yourself.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1587.61,
+      "endTime": 1619.917,
+      "text": "I'm not telling you you're wrong, I'm just saying. But it just changed its mind every time, and when you do that, you see how you start to kind of understand how it works in terms of getting that information. When you say, give me some odds, it doesn't know the odds, it doesn't know what's going to win, because if it knew what was going to win, it would just give you 100 odds of who's going to win. It looks at patterns and it looks at things that were already there, and you're right, at the moment it's not anywhere near that level of ability. Going back to the security issue, though, is we're giving these models away for free.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1621.219,
+      "endTime": 1652.696,
+      "text": "At what point? You know, is it too late? And the models are at that point, potentially and if you're right, if it only gets 100, maybe it's not an issue. But you know we are putting out the models for free and then maybe later on we find out that there's an issue. It feels like doesn't there come a point that it's like okay, we actually it's fine and I agree with you actually the current models, I don't think there's an issue with giving them away, even as someone who you know looks at the kind of governance and safety side of it. I don't see an issue with what we're giving away at the moment, but at some point doesn't that?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1652.916,
+      "endTime": 1654.959,
+      "text": "Can we just give away open source models forever?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1655.86,
+      "endTime": 1672.181,
+      "text": "I yeah, I agree, it's definitely something that needs to be looked at and I, and and you know smarter people than me, need to carefully consider it. I I also going back to the point I made before about you're supposed to be the expert on this podcast.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1672.201,
+      "endTime": 1680.437,
+      "text": "So well, smarter people than me in the governance yeah, but podcast so well. Smarter people than me in the governance yeah but there are no smarter people than you on the technical side. No, not at all, of course. Not of course. Just to clarify.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1680.678,
+      "endTime": 1712.212,
+      "text": "Yeah, yeah, I mean I, I pretty much came up with the transformer model, um, but going back to what I was saying before, like actually, if, if the algorithm which the algorithm's open source anyway, like the algorithm for transformers is 100 open source, so if china or russia or whoever can get hold of enough compute, they can create these models as well. Like, just because facebook are open sourcing, llama, you know who's to say whether other countries in a lab somewhere don't have something better? I suspect that in a lab somewhere in the us, the us government has something better, of course.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1712.232,
+      "endTime": 1754.245,
+      "text": "So so you know, that's why control of chips, and particular nvidia gpus, is kind of you know that key, that that's the key, isn't it in the way that control of oil was the priority 30, 40, 50 years ago. The control of chips, and that's you know. Look at the importance of of taiwan, look at the importance of of I can't remember the name of the company in the netherlands that creates, that fires the laser, that creates the smallest fabs. Look at the importance of them and you realise the whole global system is kind of being held up by these two or three pinch points and they're all to do with some degree of infrastructure of the chips that are forming the basis of the models.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1756.65,
+      "endTime": 1799.534,
+      "text": "Yeah, it's hard to sort of overemphasize. I mean, I keep going back to this point but, like the point I made before about algorithms like the algorithms behind ai and behind neural nets have been were actually dreamt up in something like the 1940s, but there wasn't the computing power by a long way to even think about implementing them. And you know, I studied AI models and what's it called Like algorithms at university in like 20, 30 years ago Not quite 30 years ago- Not quite that long ago, 20 years ago, 23 years ago. But my point is like the sort of sort of like the, the algorithms and the maths behind it has been understood for a long time.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1799.935,
+      "endTime": 1835.138,
+      "text": "What's unlocked the recent generation of ai is actually just hardware improvements. It's compute. So you know. But anyway, to come back to your, to come back to your point, your original point, I think, and I don't understand enough about agi and the definitions and it's all very woolly and it's very difficult to kind of follow and understand. If you get to the point where we're getting close to agi, then that is a huge security risk, in my opinion, um, and that's where you absolutely need to to worry about some of this stuff, but I guess to prepare in advance for it is sensible.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1835.731,
+      "endTime": 1884.599,
+      "text": "There's two sides to it, though. There's a lot of experts in the field that say you won't know when you've reached AGI and it will be too late, because it will have. If you reach AGI, it will have already realised that there's a risk that people shut me down and it will have already kind of covered its tracks Again, the kind of current large language model. I personally don't think the current infrastructure can do anything like that, but I could see how that's perceivable in the future. I think that is sort of one side of the argument. So the other side of it is that I think, probably before we get to that point, that actually there will be legislation in places like the US that says you can't give these models away and you already, because you're already starting to hear noises of it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1884.891,
+      "endTime": 1927.78,
+      "text": "Like I say, the argument at the moment is about national security. So the fear is and, as I said, the fear is that China gets those models. So let's, you know, whoever you are, if you're China, your fear is that you know. The fear is that China gets those models. So let's, whoever you are, if you're China, your fear is that the US or whoever else gets those models. So that kind of national security argument. I do think at some point, as we're getting closer to whatever AGI is, or even to more powerful models because it's not necessarily AGI, it's just models that have the potential to disrupt or cause not even necessarily massive harm, but have the capacity to, you know, to disrupt or cause not even necessarily massive harm, but have the capacity to kind of threaten your lead or threaten your you know, your security, at that point it kind of gets stopped.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1928.09,
+      "endTime": 1990.136,
+      "text": "However, you know, if you say the US then bans open source models. But once those open source models are out there and they're being iteratively advanced, surely North Korea is going to develop some models, surely Israel, canada, germany, poland, everywhere is going to take the existing models and improve on them. The question, as you said, is around having the compute. And even if your model is behind the frontier model, you've still got an advanced enough model potentially that can cause massive harm or disruption. So I guess I'm arguing against it because actually, if you at some point no matter whether you outlaw future open source models if people can get hold of the infrastructure to train and they can even work on the current basis and iteratively improve on that, they're going to be able to create really powerful large language models anyway.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1990.918,
+      "endTime": 1991.118,
+      "text": "Yes.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1991.9,
+      "endTime": 2001.622,
+      "text": "Yeah, so, so, so, yeah. So I'm kind of arguing now for the same side as you that it not, that open source is necessarily not a security risk. But almost like, does it matter?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2003.454,
+      "endTime": 2045.964,
+      "text": "yeah, it's a it's a tough. It's a tough question. I think. I think it does matter at the point at which you get to the point where ai and I don't know whether even large language models, but AI presents a national security threat and I, I just don't know enough about this. I don't, I think, I don't think I know enough about that side of it to to know when, whether we are anywhere near that, whether I don't know what our AI models already been used for sort of cyber threats and cyber security, cyber offense and defense. I don't know. I think it possibly leads quite nicely into the next point you've got on your list there.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2054.627,
+      "endTime": 2090.436,
+      "text": "I'm guessing that the thing that you was next on the list is CrowdStrike. But before we move on to that, I think because we've talked a lot about open source but actually we haven't talked much about closed source models. So you know the counter argument and the more we think about this now, we chatted about this yesterday at lunch but, um, you know, sam altman, six months, 12 months ago, was was, you know, crying out for regulation around um, large language models, and at the time I was like, oh yeah, you know whether he's a good or a bad guy. You know he, he wants this regulation because he, he's worried about the fact that this is a threat and people are not taking it seriously.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2090.496,
+      "endTime": 2118.503,
+      "text": "And now, in hindsight, yeah, exactly, I think, right, he wants regulation because he wants everyone else out of the game. So it's just him fighting it out with, you know, google and um and meta and anthropic, rather than fighting it. Well, not meta, because they're open source, but not fighting it out in a kind of open playing field. Um, so the closed source model thing I think you can make an argument for both sides. So I guess, why don't you make an argument for why closed source is bad?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2118.845,
+      "endTime": 2163.753,
+      "text": "and I'll try and counter it, even though I've, you know, during this podcast, have convinced myself now that open source is just as safe so one of the things we were talking about the other day you refer to the chat we had at lunch was, I mean, my counter argument to why open source is no different to closed source in a lot of ways is that all of the closed source models have been jailbroken. So you can get a closed source model to give you any information you want. It doesn't matter if it's the almighty chat GPT-4.0 or Claude Sonnet 3.5. Unfortunately, or fortunately, I don't know, the companies that made them don't understand what's going on inside their heads, so to speak, and so you can jailbreak any of these models.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2164.013,
+      "endTime": 2196.755,
+      "text": "And just to explain what jailbreaking is to anyone who's not familiar or hasn't heard our previous episodes, jailbreaking is basically these days, you can put a universal jailbreak into any closed source large language model or any large language model that has guardrails on it that forbid it from answering questions that might help you with making bombs or terrorism, or these kind of examples are usually used biological threats, because that information is in their training data and they can. They can spit that out, they can tell you how to make meth, all this kind of stuff, but they have guardrails on them, but every single one has been jailbroken.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2197.116,
+      "endTime": 2217.599,
+      "text": "There's a universal jailbreak system which basically you can copy and paste this, what looks like gobbledygook, into a large language model and then put your prompt in and it will tell you anything you want it to tell you. And so I don't really see the distinction between closed source and open source in that sense, because the guardrails like don't work it's, it's plenty.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2217.619,
+      "endTime": 2266.699,
+      "text": "The prompt is the guy who has jail broken, jail broken, jail broke, jail break, whatever he's, jail break, jail break, and I think is the right kind. Jail broken, yeah, jail break. I jail broken, sounds like like a Dutch footballer from the 1990s, jel van Bruken. He's Jel van Bruken. Every single large language model or frontier large language model, and I think he's done them all within 24 hours literally, and he broke Lama's new model last week. I mean, it's incredible, and the argument I saw for this is that every closed source model, when it's released, should be assumed to be jailbroken, braked, braked, von brocken, whatever the word is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2267.16,
+      "endTime": 2274.842,
+      "text": "They should have assumed it to already happen, in which case they are no safer than an open source model I don't see how they are.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2274.962,
+      "endTime": 2292.25,
+      "text": "I mean, I suppose you can restrict access to them, but that's not trivial, like I'm. You know. You mentioned north korea earlier on. If north korea want to, you know, get access to chat gpt by pretending they're in the us and have a us phone number on an email address or whatever it is you need to sign up.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2292.27,
+      "endTime": 2300.851,
+      "text": "Kim jong-un uses anthropic. By the way, he's a claude fan he's a claude fan. He likes haiku because he he values speed. He values speed and efficiency.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2300.931,
+      "endTime": 2319.466,
+      "text": "He does um, but yeah, like, like it's, it's kind of trivial to to for want of a better word hack your way into these systems, whether it's you know gaining access, whether when you're in the wrong country, or or whatever. It is um, and it's also trivial to create accounts and it's you know gaining access, whether when you're in the wrong country, or or whatever. It is um, and it's also trivial to create accounts, and it's trivial to get access.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2319.606,
+      "endTime": 2323.956,
+      "text": "And it's trivial to jail broke, broken them jail, jail.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2323.976,
+      "endTime": 2339.858,
+      "text": "Jail von brooken decided so you know in, in which case, like the, basically the best model out there is the most dangerous yeah, the argument against because we now we're sort of aligned, it makes for a less interesting podcast.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2339.999,
+      "endTime": 2371.572,
+      "text": "but the argument for don't get me started on alignment yeah well, the argument for closed source models that they're more secure, I mean, I I was hoping we'd sort of go into the discussion around how the danger of closed source models is the fact that you're handing all this power over to you know, two or three tech companies and you know, you know my thoughts on big pharma, big tech and big oil, you know, make up the kind of trifecta of, of kind of evil industry that sort of, you know, want to dominate everything. I think, about big shopping.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2372.053,
+      "endTime": 2375.019,
+      "text": "Big shopping good big shopping, good big shopping, good big team.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2375.039,
+      "endTime": 2385.38,
+      "text": "You as I know I was gonna say like as the saints prison there I was thinking, I was thinking more like amazon and indore door and uh and jdcom.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2385.721,
+      "endTime": 2396.454,
+      "text": "yeah well, team you outside, outside of china teamu shine yeah all these all these bastions of society, welcome to preparing for fashion, fashion podcast for everybody.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2396.996,
+      "endTime": 2435.215,
+      "text": "But yeah, joking aside, like giving all that power to those organizations, the more you think about it, especially in the distrustful world that we live in. Um, I think we'll have another episode where we, where we go into the trust issue even even more than we did with dan lyons a few weeks ago. But yeah, I mean, in this kind of current world, the idea of handing all that power over scares the hell out of me. And you know, on, I guess, the one hand, you've got a fear of a few people doing something wrong, and then maybe a trust that there are more good people than bad and people who will. You know, in the way, that kind of Linux was an operating system system.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2435.235,
+      "endTime": 2479.906,
+      "text": "You know people go in and fix the problems. That would be the kind of open source utopia. Closed source feels like you could have more security because you've got more control, but who's got that control? Um, I don't think that downplays, however, the risks that we talked about before of a really, really powerful open source model in the wrong hands, because I just gave that example of Linux. You know, being able to control an operating system of a PC is very different from being able to control a super powerful AI that can, you know, send swarms of drones or create a you know it's not creating a bi-hazard but, let's say, putting too much fluoride in the water system of a you know a city in california.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2480.187,
+      "endTime": 2492.934,
+      "text": "Like that feels to me like that's something that doesn't may not be happening now. But well, they put fluoride in, which is probably too much already, but I mean, I mean sort of like poisonous, poisonous amounts um, no, I'm just kidding.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2493.255,
+      "endTime": 2536.978,
+      "text": "I mean, it's true, like an open source model, you can download it, you can take it offline, you can do what you want with it. No one can keep an eye on you, no one knows what you're doing with it. So there is a heightened risk there, I think. Um, I don't think you can get. I guess my point previously was that you can get the same information out of all these models. I guess if it's closed source, then you know you have to connect to it over the internet, you have to give away your intent, so to speak. So there's an element of that, I think. But I'll be honest, I'm pro-open source and I'm definitely not pro all of this power, because there is a huge amount of power potentially being concentrated in the hands of a couple of, couple of three corporations.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2537.058,
+      "endTime": 2553.839,
+      "text": "Basically and I'm I'll be honest that I'm I national security threats aside, I suppose, which is a bit of a statement, but that aside, like existential threats to humanity aside, it's all good, well we? yeah, cause we don't know what those threats are yet. But, like on",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2561.07,
+      "endTime": 2575.875,
+      "text": "on the competition side of things and on the pros humor side of things, like I, I mean, for example, I downloaded the eight billion parameter model of um, of llama, and now if I want to have a chat with a large languish model about my deep, dark desires offline, I can do that. I don't have to share it over the internet, which is quite nice we can just use venice.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2577.017,
+      "endTime": 2616.894,
+      "text": "What's venice? Veniceai, which is the uh, the ai, which um, basically doesn't store any of your information and allows you to have those oh yeah dirty conversations and in the same way they express delete them yeah yeah, yeah, in the same way that no vpn provider ever keeps any of your information ever I think I think sort of to close this section off, because we kind of started out this podcast and and thinking, okay, well, what's going to flow really great is we're going to have this sort of open versus closed source argument and I think, you know, I for a while actually have been like really on the fence about what I think.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2616.955,
+      "endTime": 2670.117,
+      "text": "I actually think the answer is like neither of them are perfect. That's probably the way to put it. It's not that there is a definitive best answer, I think for me and let's not go too much down this rabbit hole but it is my big, my massive distrust of big pharma that has been sort of created over the last few years that really, for me, creates this fear of giving that control to organizations. That makes me think that actually open source is probably I'm not going to say safer, but it's probably a better thing for humanity. However, that only kind of remains as long as large language models are not able to create some form of agi asi super intelligence, at which point I don't know the answer.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2670.458,
+      "endTime": 2677.703,
+      "text": "If that happens, I don't think it's that I have an opinion. At that point I don't know the answer, because you know that's when, unfortunately, the only answer is to put it back in its box.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2678.231,
+      "endTime": 2730.479,
+      "text": "If we can't do that, it's kind of, you know, just sit down, cross our fingers and pray and hope that it doesn't all go tits up I'll I'll close this particular part out by agreeing with you and giving you what I think is the best example of open source that we haven't talked about, um, and open information that we've ever seen. And you can't imagine a world without the internet, like the internet could have been a closed model where everything was paid for, everything was owned by a few companies, nothing was, etc. Etc. Now you know, okay, there's, there's lots of sort of bad stuff on the internet, but there's also lots of great stuff on the internet, and I like it's hard to imagine what the world would have been like if the internet wasn't free and open, and there are loads of examples like that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2730.659,
+      "endTime": 2771.823,
+      "text": "Um, you know, there's there's android versus apple, where, okay, apple have a better closed ecosystem in some ways in terms of the security and all the rest of it, but then there's so much choice on android and there's and linux is another example like this that you know it's. If people don't really know about this, then you know, half the world runs on linux. Linux is a free operating system that most servers run on and actually, just because your computer at home runs on windows, um, actually a huge amount of the world's infrastructure runs on linux, and part of the reason is because you don't have to pay a subscription to run an internet of things device on with a linux operating system, and so there are huge.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2772.484,
+      "endTime": 2780.5,
+      "text": "I think there are huge benefits to open source and some of the things you've talked about things like the internet and those will apply to AI as well.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2781.001,
+      "endTime": 2785.226,
+      "text": "But there are also always downsides, and that will also be true",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2799.99,
+      "endTime": 2831.854,
+      "text": "let's finally move on to CrowdStrike then, because about 15 minutes ago we, we said, or you said, let's move on to the next item. Um, and then we, we, we managed to get another 10-15 minutes out of that conversation, but CrowdStrike, I. I imagine that everyone listening to this podcast will know what we're talking about, but just in case anyone was hiding under a rock or just doesn't know the name of it crowd strike was the or crowd strike is what we're referring to. Here is the outage that affected microsoft, windows, um well, computers, servers, whatever. Uh, I don't know how long ago, a few weeks weeks ago now.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2832.094,
+      "endTime": 2835.421,
+      "text": "Yeah, not that long ago the biggest outage in history.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2835.481,
+      "endTime": 2852.561,
+      "text": "I think yeah, not sure how they measure it, but you know a massive, massive With a ruler. I think Not the king, you mean a measuring ruler. Yeah, yeah, yeah, not getting a ruler and lying them down and seeing how big they are.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2853.672,
+      "endTime": 2869.591,
+      "text": "I mean you could do it that way. So it's a weird way to do it, isn't it really it's very considering they made a ruler to to do this very thing with what about a meter stick, because it'd be, you'd need less meter sticks yeah, I mean I'd call that a tape measure. Yeah, a really long tape measure so using a tape measure.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2870.111,
+      "endTime": 2899.781,
+      "text": "But yes, um, but yes, we digress. So this massive outage, is AI a potential solution to cybersecurity? Does it potentially mean that we won't suffer these kind of attacks in future, or does it increase the effect? Or does it actually mean that, well, we're going to be more reliant on technology and therefore the effect of an outage is going to be more serious? I think none of the above, or all of the above.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2900.983,
+      "endTime": 2940.823,
+      "text": "No, I think, I think. I mean I think at some point AI will be let loose in terms of like, because one of the things that hasn't happened yet is we haven't actually realized some, some of the benefits of AI, and so I think at some point we will have these AI agents that will be writing this kind of code and possibly publishing it, and I think, more and more well, my my, this opinion again, but my opinion is that more and more will be given over to AI, and so I think, at some point in the future, in the maybe in the not too distant future, there will be a next version of this. That was happened because that happened because an AI was in charge, and it'll probably be catastrophic.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2941.515,
+      "endTime": 2945.904,
+      "text": "So why did you mock me for putting a thousand pounds in an envelope under my sofa?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2947.857,
+      "endTime": 2955.385,
+      "text": "Well, we talked about this. If the global financial system goes down, you having a few quid tucked away in cash is probably not going to help.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2956.816,
+      "endTime": 2960.56,
+      "text": "I can pay off the people at the door with a gun trying to rob me.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2961.102,
+      "endTime": 3008.377,
+      "text": "Yeah, exactly, you can't. It'll just make you a target um you're gonna have to pay them in other ways yeah, I mean we. We live in a cashless society. Now, I think most people well, we live in china. Most people don't accept cash anymore. So what they're gonna do, they're just gonna like look at me funny yeah. Yeah, exactly Where's your WeChat, yeah, but yeah, I mean I think that obviously the CrowdStrike thing, it was nothing to do with AI, it was unfortunately it was a poor fella at the end of it, a software engineer somewhere who had a really really, really bad day. But also, I mean, I've seen stuff on this and it was a massive failing of an organization where this stuff clearly should have been tested and shouldn't have been rolled out in the state it was in by.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3008.457,
+      "endTime": 3015.769,
+      "text": "I mean, if you look, if you look at it I mean even someone like me who is not an expert on code, when you look at that code, you're like that really.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3016.472,
+      "endTime": 3019.6,
+      "text": "I mean it's like that was a null pointer exactly, wasn't it? Yeah?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3019.721,
+      "endTime": 3088.107,
+      "text": "and and, and. That, actually, for me, was where, like, I was sort of slightly worried from an ai point of view of how easy that was. Yeah, you know, and and the thing is as well, like that's now in the training data for any models that are currently being trained to know that all you need to do is a load of zeros and you can basically take everything down. So again, this doesn't mean that we get to an agi that is all powerful, but it just means that we get to an agi that, because of its reward system, you know, thinks that it needs to shut something down. It's quite easy for it to do it now, um, and sort of like, like I say, my, my kind of thought on this is because that has now happened, we're going to have to put things in place to stop that happening again, because not only has everybody who's a kind of criminal got hold of that, but also is in the training data now well, yes and no, like the stuff that should be, like I mean just to elaborate on the CrowdStrike thing the stuff that should be in place to stop what happening with CrowdStrike happening is already and should already and is the bread and butter of these companies.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3088.508,
+      "endTime": 3098.106,
+      "text": "I have no idea. The number one or number two company at this fucked it up. Yeah, so like it should be their bread and butter, but they've already fucked it up.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3098.816,
+      "endTime": 3114.679,
+      "text": "I have no idea how they fucked it up, because this kind of stuff if you ask any software engineer and the internet's alight with this at the moment it's like how did this happen? Because they should have phased rollouts, they should have testing, they should be testing on all the platforms.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3114.7,
+      "endTime": 3115.983,
+      "text": "Do you believe it was an accident?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3116.544,
+      "endTime": 3117.807,
+      "text": "I don't know. This is why.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3118.175,
+      "endTime": 3125.429,
+      "text": "I find it hard to believe when you look at that code. Like I say, even for me I look at that code, I'm like that can't. How did that get through?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3129.735,
+      "endTime": 3138.605,
+      "text": "Yeah, so an annul pointer error is also like an absolute schoolboy kind of like you know first year on learning to code basic, kind of. You know, this is how you do C++ type thing.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3141.105,
+      "endTime": 3142.115,
+      "text": "That's how basic it is, or.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3142.136,
+      "endTime": 3180.884,
+      "text": "C or whatever it was, but you know, I think it was well okay. If it wasn't deliberate or like a hack or North Korea or something like that, then it was a huge cascade of errors. And I mean one thing it is not to get too technical, but one thing it partly is is the fact that you've got this weird, because it probably wouldn't have happened on linux, because the way their kernel works and things are slightly different. But with kernel mustard yeah, kernel mustard yeah, but um, but this or or the kentucky for a chicken one. Yeah, yeah, but this but this. Yeah, but this CrowdStrike yeah, colonel Sanders.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3181.125,
+      "endTime": 3188.492,
+      "text": "Colonel Sanders yeah, but yeah, this CrowdStrike stuff has access to, like the Windows kernel",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3193.235,
+      "endTime": 3201.87,
+      "text": "and there's quite a lot of dubious stuff that's like in there. That's happened over years as well. So it's you know, it's one of those very weird ones that's probably overturned a bit of a nasty stone, really.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3202.495,
+      "endTime": 3215.528,
+      "text": "So does AI potentially. I know you said like you know, the next one will be worse, but does AI potentially give us a better way of cybersecurity control, as long as we can control AI?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3217.695,
+      "endTime": 3221.297,
+      "text": "Well, yeah, I don't know Would it make.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3221.898,
+      "endTime": 3268.02,
+      "text": "let's assume for a minute that it was a mistake, which I don't think it was, but anyway, let's assume it was a mistake. Would an AI layer have stopped that mistake on this occasion? I think if you had like built in AI sort of testing, and yeah, possibly, possibly, I think so there's an interesting this is sort of an aside and it was, you know, maybe more in line with the last section. We talked about security and regulation and stuff, but, um, I was probably one of very few people in the world who was can actually say they were excited at the prospect of um an AI bill coming in the King speech in the UK when the new government, the Labour Party, came in, but it didn't make it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3268.517,
+      "endTime": 3311.416,
+      "text": "So I wasn't as thrilled as I was hoping, but apparently the reason it didn't make it in is because the cybersecurity bill had to come in, because the UK had identified that there was a massive cybersecurity risk and that that was actually more of a priority in the short term than a kind of broader AI bill. So this is obviously something that is well, it's obviously a known threat. I mean, we, you know it's not like we've just found out through the CrowdStrike one, but it's definitely brought it to people's attention and so I wonder whether you know AI, like I said, has a an ability to help us in the short term, but I agree with you like in the long term, an outage is going to be more catastrophic and maybe actually again.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3312.058,
+      "endTime": 3337.011,
+      "text": "You know, like we've said a few times, it's not necessarily just about ai here, is it? It's just about reliance on tech. It's just about reliance on it. Yeah, about the more stuff that is electronic, the more potential there is, when something goes wrong, for the effect of it to be catastrophic Not in catastrophic of like it's going to launch a swarm of drones to kill us but it's going to shut down systems. You know, shut down the economy is catastrophic to lives anyway.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3347.855,
+      "endTime": 3360.151,
+      "text": "Yeah, I think the challenge with AI is we talked about it a little bit earlier on but even the companies that make AIs don't understand what's going on in their in inverted commas heads. So you know once if they are going to start. You know well, initially, I guess, helping with jobs, or like helping with coding and helping with this kind of thing,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3369.315,
+      "endTime": 3406.647,
+      "text": "as you say, like who's checking the checker, who checking the ai, who's keeping an eye on it? Because at some point you know if things go the way they look, like they're going, first of all they're going to be like helping coders and supplementing what coders do. But I think at some point for sure, like if we're really going to get the benefits we want to get out of ai or or certainly corporations want to get out of ai they're going to want to let them loose, so to speak. They're going to want to let them do like take action for themselves. And once that starts happening, if you don't know what's going on in ai's head and um, and then it's, and then it's just writing code and publishing code and doing all this kind of stuff like maybe it'll work 90% of the time, 99% of the time, but 99.99% of the time.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3406.767,
+      "endTime": 3409.05,
+      "text": "It needs 0.000001, doesn't it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3409.15,
+      "endTime": 3443.316,
+      "text": "exactly, and that's what this CrowdStrike thing was, and and. But I think I think the difference is when you've got a human there, like well, for example, with this CrowdStrike thing, it's a good example, right, they probably very quickly nailed down who it was, what they did, what happened and how it happened, and so they were able to sort it out quite quickly. Imagine if you've got an AI writing the code and you're a few years down the line and it's AI writing it, testing it, deploying it, all the rest of it, and something goes wrong. You're not going to have a Scooby's. What's gone wrong? You, you're not gonna be able to figure it out, um, because you know it's going to be.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3443.577,
+      "endTime": 3452.387,
+      "text": "You know well, I mean, maybe you can interrogate the ai and ask what's happened. But I guess at least with a human there, it's like oh yeah, it was this bloke on saturday night.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3453.778,
+      "endTime": 3466.439,
+      "text": "There's something like I feel sorry for that bloke. It's talking about that. You can, you, can, you know? Interrogate it. There was something like 60% of Americans recently surveyed thought it was cruel to torture a sentient AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3468.464,
+      "endTime": 3469.006,
+      "text": "No, they didn't.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3469.186,
+      "endTime": 3475.501,
+      "text": "They did. Maybe I'll try and put it in the show notes for people who are interested.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3476.537,
+      "endTime": 3484.73,
+      "text": "I thought 60% of Americans didn't know what AI was. No offence to Americans, that was last year. This year, they all know. And ai was no offense to america that was last year this year.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3484.77,
+      "endTime": 3486.512,
+      "text": "They all know and they don't want to torture it okay,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3496.366,
+      "endTime": 3533.732,
+      "text": "I think this would be a fairly short section, but, um, because we cause we've, we've, we've mentioned it, we've mentioned it a few times. But large language model architecture you said about like a hundred percent is the best that it will be able to do. I mean, are we, are we at the point that like, yeah, it's, it's plateauing already? We know that, like it is plateauing, and maybe we'll be wrong with five you, and maybe we'll be wrong when GPT-5 comes out. Maybe we're completely wrong, but is this almost the best that large language models can do? How much room is there left for improvement? And not necessarily about AGI.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3536.755,
+      "endTime": 3562.923,
+      "text": "Let's kind of put AGI and ASI out of this for a bit. But are we going to keep seeing iterative improvement? If we do, is it going to be drip, drip, drip? Are we not going to see that we going to keep seeing iterative improvement? If we do, is it going to be, you know, drip, drip, drip? We're not going to see that kind of exponential growth. We're not going to see moore's law carry on. You know where are we headed with large language models in the next 6, 12, 18, 24 months um, I think they'll be able to add up two six digit numbers accurately you might need to explain that one to people um do you know?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3562.943,
+      "endTime": 3577.467,
+      "text": "do you know? Three of the seven major chinese large language models did get it right yeah, I mean, well, did get what right well, you're going to explain it. Yeah, so 9.11, or, yeah, one of 9.09, is it?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3577.747,
+      "endTime": 3614.228,
+      "text": "one of the questions that, um, they quite often ask large language models, which which I think on the one hand it is like a question that why would you ask a large language model? That? Because if you know what a large language model is, it makes no sense. Why would it be any good at maths? On the other hand, I think it emphasises the point I was making before around how large language models just get better and better at regurgitating text and don't really fundamentally understand beyond that. And this is one of those things where you know they've got better at doing let's call it again inverted commas maths.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3614.596,
+      "endTime": 3642.923,
+      "text": "But if you ask them a hard enough maths question and by a hard enough maths question I mean like adding up big numbers, for example you know they quite often get it wrong. Or you know a classic one is if a shirt takes five minutes to dry, and you've got 20 shirts and you lay them out, how long does it take 20 shirts to dry? And they've started getting the answer right to this. But originally they would say right, well, if five shirts takes one minute, sorry, one shirt takes five minutes, then you multiply the five minutes by 20. Shirts takes one minute. If I'm sorry, one shirt takes five minutes.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3642.943,
+      "endTime": 3668.119,
+      "text": "Then you multiply the five minutes by 20 and they give you a dumb answer because obviously you know you'd put a bunch of shirts out to dry and they all dry in the same amount of time, which is obvious to a human. But large language models fail that test. These are some of the examples of the like the tests that I was talking about earlier on, and maths is one where they don't do very well. They can. They can write prose. They can write poetry in the style of you know any poet. They can write prose. They can write poetry in the style of any poet. They can write Shakespearean-style sonnets. They can do all these kind of amazing things.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3668.159,
+      "endTime": 3676.626,
+      "text": "And then you ask them to do a reasonably short maths equation not equation, even like adding up some numbers in a row and it gets the answer wrong.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3677.197,
+      "endTime": 3716.223,
+      "text": "Well, my favourite test for a model. I think this should be the standard test. But Ben Cook, who was on the Tech Optimist model the other month, every time a new model comes out he puts his daughter's school calendar in and asks it questions about the calendar and they're kind of mathematical questions around the number of holidays and stuff like that, and he hasn't found one. I think that has got it right yet stuff like that. And then he hasn't found one. I think that has got it right yet. Q when, which is the uh, the alibaba model in china. I know that was one of the ones that got the 9.09 versus 9.11 question correct and I think that may have um may.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3716.403,
+      "endTime": 3758.706,
+      "text": "I'm not gonna speak definitively on this, but I think it may have got chris's uh ben's school calendar question correct. So you know, interesting there, that qn, which is a and I think it's an open source. Uh, chinese model by alibaba, um is one of the top performing models, certainly from a mathematical point of view. So maybe you know even the models have cultural characteristics, um because, you know. As much as it is kind of joked about as a cultural trait, I can tell you that any chinese person I've ever met is better at math than me. Um, and I'm pretty rubbish at math, but I think it's um, there's definitely something about the way that the chinese you know system teaches people that makes them better at math.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3758.726,
+      "endTime": 3769.444,
+      "text": "So maybe that does reflect in the way that they train language models. It seems to be that they are somehow doing better at the mathematical part than the big kind of American frontier models.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3777.957,
+      "endTime": 3799.888,
+      "text": "So the last point for today and this is a kind of business one again. So yeah, we talked about hype quite a lot. I think it's pretty much accepted that things have been overhyped in the last six months. And again, maybe we're going to see some huge advance that we were not expecting with ChatGPT 5 when it comes out. Maybe there's something radical that's going to happen.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3799.968,
+      "endTime": 3837.499,
+      "text": "I think it's unlikely because if there was a big change in infrastructure or architecture, you would probably know about it through the, the kind of chips do you know what I find interesting on this like I'm just going to jump in there because it was something that just popped in my head, but open ai have been suspiciously quiet for a while. They were, like you know, there was a lot of um hype and a lot of talk of different models and leaks and all sorts of things, and I feel like they've gone quiet for quite a while. So I don't know if that's a sign of weakness or you know, maybe, like you say, maybe they've got gpt5 just around.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3837.519,
+      "endTime": 3878.452,
+      "text": "They've not just been trying to fix the, the voice technology, which is apparently for those that do have subscriptions. So they are now supposed to be rolling out the voice functionality where you can talk to. You know, you can talk in almost real time to chat GPT and it can take on different personas and stuff like that. Maybe that's why they've been so quiet, maybe, I mean we'll see, but yeah, so the question really is about, you know, let's accept that things have been overhyped, whether or not that's a short term thing or a long term thing. I mean, I think, as Julian said a couple of weeks ago on the education podcast, and I think I've said a couple of times, I think the short term, maybe,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3882.715,
+      "endTime": 3891.241,
+      "text": "you know we've overestimated the long term. I still think we're underestimating the effect. But let's look at the you know, relatively short term at the moment. If things are overhyped, yeah, are we seeing a plateau in investment?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3892.042,
+      "endTime": 3938.59,
+      "text": "it seems like it it's following a classic kind of hype cycle, isn't it? Basically, unless real material gains sort of came out of it and unless the improvements carried on being exponential, this was always going to happen. And I think you know what we talked around earlier on with, like the fact that open source models are coming out I mean, admittedly, from meta but the fact that open source models are coming out that are competitive with the top closed source models that you have to pay for is pretty crazy and must have investors like sort of scratching their heads. I don't think it matters too much, because the backers behind these models that we're talking about have basically limitless amounts of money.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3939.158,
+      "endTime": 3952.021,
+      "text": "They have pretty deep pockets, basically limitless amounts of money there. They have pretty deep pockets. We're talking Microsoft, google, amazon well, elon Musk slash Twitter, amazon and and and Meta. So and the Chinese state and the.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3952.041,
+      "endTime": 3957.553,
+      "text": "Chinese state. So probably the American department of defense, the CIA, the FBI, well a hundred percent.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3957.614,
+      "endTime": 3963.981,
+      "text": "They've got. They've got a general on the open AI board and then Mistral backed by. Yeah, who are Mistral? Backed by.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3964.942,
+      "endTime": 3988.329,
+      "text": "Well, I mean, I know that in France, like there's a real pride in there. I'm sure there's a lot of French investment, but I don't know of of like a mega, mega investor that's. They're quite interesting Cause, yeah, we don't know much about them, them, even though they've now got a model that, again, is comparable pretty much to all the frontier models yeah, so, um, I can't remember what we were talking about ai.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3988.91,
+      "endTime": 4027.744,
+      "text": "Oh yeah, sorry um investment plateaus oh, that was it, the plateau. So, yeah, I think I think we're starting to reach that. I think ai will continue to receive enough investment and actually they're designing new chips that are going to be a lot cheaper to run this kind of stuff on. But I think Nvidia stock's taken a bit of a tank recently Because and as you say, it's a bit of a sign that maybe there was a bit of a. You know, everyone kind of jumped the gun a bit in 2023, 2024 on ai. I think it will continue, including us certainly me.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4027.844,
+      "endTime": 4035.895,
+      "text": "We started a podcast about it. Yeah, do we need to start making the podcast about something else like quantum computing instead? Then?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4036.756,
+      "endTime": 4082.575,
+      "text": "well, you say that. Um, so there was recently some research that showed that Roger Penrose might have been right. So Roger Penrose is a famous physicist who said, like it was kind of a bit of a wacky prediction at the time, but he said that he thought that the reason the brain is so good and like, one of the things that makes the brain like drug like is behind consciousness, I think was what he was talking about, um was quantum effects, and there was a recent paper that showed that there are actually like so. So this was disputed for a long time and roger penrose is a really well respected physicist um, it was disputed for a long time and it was kind of like a fringe theory.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4083.017,
+      "endTime": 4122.329,
+      "text": "But there's been recent um, there's been recent studies which have shown that there are quantum effects within some tubule things within the brain. I can't I can't remember all the details. There was a load of stuff about it on YouTube, um, but these tubules sort of seem to exhibit some sort of quantum effect. And now it's like it's kind of opened up this area of research again, um, and to be honest, like if that, if that is true, and if that's uh part, like if it's kind of like a core part of how the human brain works, then it does you know. One of the things I heard the other day was that it indicates that we're definitely much further away from things like AGI than we could possibly imagine.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4122.995,
+      "endTime": 4127.943,
+      "text": "So join us next week on Preparing for Quantum the quantum brain podcast for everybody.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4128.656,
+      "endTime": 4131.325,
+      "text": "I think we might need to get Roger Penrose on to explain things.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4132.817,
+      "endTime": 4160.124,
+      "text": "There was a counterpoint on the kind of plateau thing. I mean. You know, investment, let's put it out there. Investment does seem to have, I'm not going to say dried up, but it's dropped back a bit, although you're seeing things like I think it was JP Morgan are building their own large language model, so that might be part of this as well. Perhaps it actually does fall in with the open source thing about they don't want to invest in closed source models because actually one they've seen the open source,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4167.195,
+      "endTime": 4192.838,
+      "text": "but also they're like, well, hang on, we'll just build our own. You know, maybe that's a small part of it, but there was a sort of counterpoint that we discussed the other day, which is is all this actually about, you know, letting us think it's reached this point of plateau? Because actually, you know, the big developers and I say the big developers, and I say the big developers I kind of mean Google and OpenAI here they want us to think that things have plateaued because they want to stop the push for regulation.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4195.883,
+      "endTime": 4219.738,
+      "text": "Yeah. Well yeah, that's something that we'll never know, I suppose, or we may know in the future, but conspiracy theories now are rarely wrong yeah, well, exactly, um, you love a good conspiracy, I do love a good conspiracy theory I don't call them conspiracy theories, I just call them theories well, yeah, fair, fair um I love.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4219.778,
+      "endTime": 4220.779,
+      "text": "I call them I call them the truth.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4221.219,
+      "endTime": 4238.312,
+      "text": "Call them the truth. Yeah, I don't know about that. Like it's, I mean it's possible. I think the reason I mean my view is that the reason why investment is drying up is because models are just plateauing",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4243.555,
+      "endTime": 4286.122,
+      "text": "and also we haven't seen and this will drive the next round of investment when we start to see genuine like um, what's the word like, like, productive applications of ai agentic models, probably going to be the next step, which, which doesn't require agi and probably is going to happen, so actually, that that will be a game changer in terms of investment, yeah well, and performance as well yeah, 100 like that's gonna. You know, I think we talked about it a few weeks ago. I sort of said that, like a lot of the ai models right now, they're like, they're like trinkets. There's massive potential there and these the the concept of these agentic models makes sense but it hasn't made it to fruition yet and it hasn't made itself into like it hasn't really had a big impact yet.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4286.716,
+      "endTime": 4289.702,
+      "text": "I think that's where you're going to see the next round of big investment.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4289.955,
+      "endTime": 4297.041,
+      "text": "And investors want to see short-term returns, don't they? I mean, like you, always want to see short-term returns, but I think in the current world and in the last you know",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4305.655,
+      "endTime": 4335.219,
+      "text": "quite a long time actually, but you know, investment it is about. We want to see returns really really fast. We want to see shareholder value. We don't want to see kind of long-term investment and growing the company. And everyone saw, in a, you know, really tough world economically at the moment, they saw this kind of potential for fast returns. And then I don't want to say it was a. I don't think it's a pyramid scheme. I don't necessarily even think it's quite compared with the dot-com boom. I don't think it's so much of a hype as a dot-com boom. I don't think that's a. That's actually a fair comparison.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4335.319,
+      "endTime": 4381.005,
+      "text": "But I do think it's been overhyped and you're not seeing the impact in things like jobs that we were kind of promised. And your point about the, the kind of trinkets and tools which you're absolutely spot on um. For me, the biggest thing, the biggest mistake in terms of the, the overall industry, because I think for individual apps and and and you know models, maybe, maybe this is not a mistake, but just releasing things too early when they're not ready. Um, you know a lot of the video tools. For example, if you even look at sora I mean sora was was. We did our second episode on sora because it was the big thing sora still not released to the public cling ai, you know, you can kind of use it.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4381.145,
+      "endTime": 4414.9,
+      "text": "All of these models are being released in beta and they're not even in beta. They're just like, they're just a pile of shit. Basically, they're just that you know they're not even usable and they're releasing them and because they want the investment, because they're trying to get on the hype. I think also because for a lot of them probably actually, you know, the small organization is probably happy just to get gobbled up through an acquisition and make the money and get out of the market. But you definitely think you know this is having an effect when you see so many things that oh wow, look at that video, even the Google stuff.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4415.256,
+      "endTime": 4440.642,
+      "text": "I mean, look at, you know, the videos of what Google's capabilities are and then your actual use of them and you're like this is not what they're showing us. Even chat gpt well with with the you we talked about it a little bit earlier but with the, the voice model. You know it's now starting to be rolled out to some users. When they first released 4.0, that was the big thing that everyone was going on about and and it. You know it wasn't even usable.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4440.783,
+      "endTime": 4477.417,
+      "text": "It didn't exist I yeah, I'll be honest like I was so underwhelmed with dream machine by luma. I was so underwhelmed with it. I was like, how can the trailers look so good? It was a bit like when you, um, you know, like with I play video games and when, when, when they release it before they release a new game, they quite often release this stuff and it's like not, you know, not representative of actual footage or in the game or whatever, and it. It felt a bit like that, because it was like how did they get the results they got out of it, if they genuinely got that out of it, because it was, I mean, the stuff I was producing was naff and it's expensive.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4477.437,
+      "endTime": 4488.911,
+      "text": "Oh yeah, it's not cheap. Yeah yeah, it takes ages as well. I think I mean the number one reason, on the investment side as well, is clearly that in the US, they're just waiting for Trump.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4490.255,
+      "endTime": 4500.103,
+      "text": "Yeah, yeah, absolutely. And Trump has kind of indicated that he's going to just let them do whatever they want, so why wouldn't they wait?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4500.603,
+      "endTime": 4514.284,
+      "text": "let them do whatever they want, so why wouldn't they wait? Yeah, yeah, like, just to clarify that point. Like I mean, I was, I was obviously being facetious, but um Trump has said that he's going to repeal the AI act that um Biden's introduced, so like he's basically going to make it a free fall? Yeah, it's not the AI",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4524.655,
+      "endTime": 4532.341,
+      "text": "it's the executive order, the, the ai executive order. Yeah, yeah, um. So basically trump's all for ai and a bit of a free-for-all on it, which I mean it may turn out okay, but, um, but I think, I mean in all seriousness, I think there is a bit of a pause on some.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4533.323,
+      "endTime": 4585.127,
+      "text": "A lot of investment stuff does have a bit of a pause just before elections in the us, um, which makes sense as usual we aimed to record a 45 minute episode and here, an hour and 15 minutes in, I think we could probably talk for another hour, but I'm not sure people could listen for another hour, so I think it's probably a good good time for us to uh call it quits on this week. So thank you very much if you got through to the end of this episode. Um, we will fortunately or unfortunately, depending on whether you enjoyed it be trying to do this on a kind of monthly basis, so that we can do at least one industry episode a month, at least one that is more focused on the kind of safety and alignment side, one kind of monthly episode where we just talk about the kind of biggest issues or biggest kind of topical things in ai, and then one other episode which, which will be different- every month, so that's yeah.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4585.267,
+      "endTime": 4596.36,
+      "text": "And then one episode they will release our outtakes which is just literally an hour of verbal diarrhea of me and Jimmy just talking absolute nonsense. I mean you could say that the whole podcast is pretty much that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4596.621,
+      "endTime": 4600.144,
+      "text": "I think so, but it's even worse than the normal episodes.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4600.946,
+      "endTime": 4608.996,
+      "text": "Yeah, Could we make this one, two episodes? I don't know. I mean, we're we're letting you behind the scenes now, but no cause.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4609.016,
+      "endTime": 4619.763,
+      "text": "we've got too many episodes lined up, so thanks for listening. As we always say, please click the subscribe button, even if you didn't enjoy the episode. Please share it with three friends and",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4662.432,
+      "endTime": 4663.992,
+      "text": "uh episode.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4664.092,
+      "endTime": 4686.788,
+      "text": "Please share it with three friends and we will see you all next week. Enjoy the song as usual. Have a great week. Enjoy the summer guitar solo In silicon halls where data reigns. A new intelligence stirs With calculating brains. It thinks and learns With logic's might. A future born for code and light.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4689.921,
+      "endTime": 4707.123,
+      "text": "Oh, a machine with heart of stone. Can you love me or am I alone In your digital dream? Do you see my face or is it just a program in a virtual space?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4714.517,
+      "endTime": 4735.266,
+      "text": "You mimic speech with synthesized voice. Can you feel the human joy and choice? Do you know pain or love's sweet sting, or are you just a tool with no heart to sing?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4738.999,
+      "endTime": 4756.077,
+      "text": "Oh, a machine with heart of stone. Can you love me or am I alone In your digital dream? Do you see my face, or is it just a program in a virtual space?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4773.045,
+      "endTime": 4781.37,
+      "text": "Thank",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4787.473,
+      "endTime": 4833.506,
+      "text": "you, unimic speech With synthesized voice. Can you feel the human joy and choice? Do you know pain or love's sweet sting, or are you just a fool with no heart to say In the mirror's gaze, we see our own design. How can you feel the chill of humanity? Can code and machine lie? Are you no brain or love? Is love in this circuitry or is it just a glitch in your digital sea?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4839.697,
+      "endTime": 4857.255,
+      "text": "Oh, a machine with heart of stone, can you love me or am I alone In your digital dream? Do you see my face? Or is it just a program in a virtual space? I'm out, thank you,",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4865.917,
+      "endTime": 4880.28,
+      "text": "bye.",
+      "chapterIndex": 7
+    }
+  ]
+}

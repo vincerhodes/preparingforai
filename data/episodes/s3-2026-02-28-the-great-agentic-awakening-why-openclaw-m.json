@@ -1,0 +1,1519 @@
+{
+  "slug": "s3-2026-02-28-the-great-agentic-awakening-why-openclaw-m",
+  "buzzsproutId": "18765145",
+  "title": "THE GREAT AGENTIC AWAKENING: Why OpenClaw Matters and How We Built Our Own Agent",
+  "date": "2026-02-28T14:00:00.000Z",
+  "season": 3,
+  "durationSec": 4375,
+  "format": "guest",
+  "era": "recent",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/18765145-the-great-agentic-awakening-why-openclaw-matters-and-how-we-built-our-own-agent.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail A chatbot answers questions; an agent gets stuff done. That simple shift is why OpenClaw has exploded across GitHub and group chats, and why people are both thrilled and terrified. We break down what makes an AI agent different from a regular model, where the real value shows up today, and how to keep control when you give software the keys to act. We start with the basics in plain English, then get concrete: connecting an agent to WhatsApp, email, calendars and APIs so it can research, triage and draft outputs on your behalf. The business upside is immediate. Think overnight lead lists, market scans, and inbox sorting that used to demand weeks of human effort. But power without guardrails is a liability. We share the story of an executive who asked an agent to tidy her inbox and watched emails vanish, and we unpack the root causes: prompts treated like policy, no hard permission boundaries, and compaction pushing critical rules out of scope. To learn fast, we built our own agent, “Bob,” (We've put his photo in the episode image) a Discord-based show producer. Bob has a soul file that defines judgement and tone, and skills that grant capabilities like web search and inbox checks. A top-tier model plans; cheaper sub-agents fetch and filter. That architecture saves money, but heartbeats and context uploads can devour tokens if you are careless. We walk through the fixes: slow the loops, trim context, restrict scopes, and cap spend. We also cover the bigger picture: providers throttling proxy use, OpenClaw being flagged as a potentially unwanted application on enterprise machines, and why that will push serious adoption into sandboxed, auditable platforms. If you are curious about where agents go next, this is the practical map: what to plug in, what to lock down, and where the wins are real right now. Subscribe for more hands-on tests, share this with a friend who thinks “agentic” is just a buzzword, and leave a review with the one job you’d trust an AI to do this week.",
+  "summary": "Special episode on OpenClaw (ex-Clawdbot/Moltbot), Peter Steinberger's open-source agent that passed 270,000 GitHub stars — more than Linux — in about a month before being absorbed into an OpenAI-backed 'Open Claw Foundation' on Valentine's Day. Jimmy explains what an agent actually is — an API-key-funded LLM behind a WhatsApp/Discord interface with a markdown 'soul file', skills, sub-agents and 30-minute 'heartbeats' — and demos the hosts' own producer 'Bob Fletcher', distilled from a year of podcast transcripts via Gemini's context window. They weigh real business use cases (overnight lead-gen research for ~$20) against horror stories (Meta's head of safety wiping her own inbox, runaway token bills, a hallucinated npm command that became real malware), and Matt concludes this is 2026's DeepSeek moment — the first democratized agentic tool — but predicts the DIY model ultimately loses to sandboxed walled-garden agents after the first big incident.",
+  "keyTalkingPoints": [
+    "OpenClaw passed 270,000 GitHub stars (more than Linux) in about a month; creator Peter Steinberger was hired by OpenAI and the project moved into an OpenAI-backed foundation on Feb 14 — the hosts doubt how 'open' or independent it stays.",
+    "Anatomy of an agent: an API-key-funded LLM wired into WhatsApp/Discord/WeChat with a markdown 'soul file' (personality), skills (abilities), sub-agents (delegation to cheaper models) and a 30-minute 'heartbeat' (e.g. checking an inbox).",
+    "The hosts built 'Bob Fletcher', an OpenClaw producer fed a year of transcripts through Gemini to distill their personas; he researches guests, delegates to sub-agents, checks his inbox on heartbeat — and once admitted to hallucinating a guest.",
+    "Security reality: Meta's head of safety wiped her own inbox despite a 'check first' instruction (compaction lost it), users leaked API keys, and one AI-hallucinated npm command was registered by a developer and ended up referenced by 200+ skills — de facto malware born from a hallucination.",
+    "Token economics: Jimmy's heartbeat chewed 15M tokens in two days because all config files re-upload every 30 minutes; Google and Anthropic blocked OAuth proxy usage as agent heartbeat traffic degraded services for humans.",
+    "CrowdStrike-type vendors flagged OpenClaw as a PUA (potentially unwanted application), putting it on enterprise ban lists — Matt thinks one big incident kills the DIY model and hands the market to sandboxed walled-garden agents."
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Enthusiast and power user: runs his own OpenClaw (Bob Fletcher) on a sandboxed VPS, deliberately scoped, and sees it as the signpost of genuine consumer agentic AI.",
+      "Best use cases are business ones — overnight lead-gen and research that would cost tens of thousands — plus personal custom apps like the health dashboard that gets firmer with you if you skip cardio.",
+      "Security problems are real but fixable: sandbox on a VPS, scope API keys (archive-not-delete), use limited top-up accounts instead of bank details; the noise is already driving rapid fixes like the Ansible hardening playbook.",
+      "Sees a huge market in agent infrastructure — APIs and AI-native web services that let agents act precisely and safely instead of browsing the web with your credit card details.",
+      "Predicts all major providers ship polished, closed, instantly accessible agentic apps within the year."
+    ],
+    "matt": [
+      "Calls it this year's DeepSeek moment — the first time a democratized agentic tool exists — but insists ordinary consumers shouldn't install it; the risk/benefit favors waiting a few months.",
+      "Refuses early adoption: won't give an agent his inbox or bank access, doesn't know or trust the company, and would rather watch from the chat rooms.",
+      "Explains agents to lay listeners: the soul file is its persona and the skills file its raison d'être; over time an agent learns where to look (files, receipts, emails) instead of you re-explaining every chat.",
+      "Thinks enterprise adoption will be blocked by the PUA designation and that the DIY version's reputational problems only worsen until a big incident hands the market to walled gardens.",
+      "Notes WeChat integration was permitted by Tencent — 'tells you everything you need to know' — but he still won't connect Bob to it."
+    ]
+  },
+  "predictionIds": [
+    "s3-2026-02-28-the-great-agentic-awakening-why-openclaw-m-1216.5-all-major-ai-providers-ship-polished-agentic-app",
+    "s3-2026-02-28-the-great-agentic-awakening-why-openclaw-m-3411.8-after-the-first-big-agentic-security-incident-le",
+    "s3-2026-02-28-the-great-agentic-awakening-why-openclaw-m-610.7-openclaw-is-the-first-of-many-agentic-tools-a-bi"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "SPEAKER_03",
+    "SPEAKER_00"
+  ],
+  "chapterCount": 16,
+  "turnCount": 200,
+  "chapters": [
+    {
+      "title": "Kicking Off And Name Confusion",
+      "startTime": 0
+    },
+    {
+      "title": "What Is OpenClaw And Why It Blew Up",
+      "startTime": 75
+    },
+    {
+      "title": "Agents vs Chatbots: A Plain-English Primer",
+      "startTime": 225
+    },
+    {
+      "title": "Real-World Hooks: Messaging, Email, Calendars",
+      "startTime": 510
+    },
+    {
+      "title": "Business Use Cases And Overnight Research",
+      "startTime": 740
+    },
+    {
+      "title": "Personal Agent Idea: The Custom Health Coach",
+      "startTime": 1070
+    },
+    {
+      "title": "Building “Bob” The Producer: Setup And Roles",
+      "startTime": 1350
+    },
+    {
+      "title": "Sub‑Agents, Heartbeats, And Token Costs",
+      "startTime": 1660
+    },
+    {
+      "title": "Safety First: Sandboxing And Cloud VPS",
+      "startTime": 1950
+    },
+    {
+      "title": "The Inbox Disaster: When An Agent Misreads You",
+      "startTime": 2190
+    },
+    {
+      "title": "Guardrails: Permissions, APIs, And Spend Limits",
+      "startTime": 2470
+    },
+    {
+      "title": "Model Access, Compute Limits, And Provider Pushback",
+      "startTime": 2710
+    },
+    {
+      "title": "PUA Label And Enterprise Blocklists",
+      "startTime": 3000
+    },
+    {
+      "title": "Hallucinated NPM Command And Supply Chain Risks",
+      "startTime": 3250
+    },
+    {
+      "title": "Soul And Skills: Personality And Capabilities",
+      "startTime": 3510
+    },
+    {
+      "title": "Closing Thoughts And A Bayou Ballad",
+      "startTime": 3720
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.12,
+      "endTime": 31.52,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. The podcast that explores the human and social impact of AI. Explore where AI interstakes with economics, healthcare, religion, politics, and everything in between. You are my fire, the one desire. Believe when I say that I want it that way. Welcome to Preparing for AI or PAI with me, Crayfish Bob. And I'm Jimmy Rhodes.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 31.68,
+      "endTime": 40.8,
+      "text": "Are we uh that's just your normal name? Well, yeah, I'm Jimmy Rhodes. Okay. Are we still now that we're on video, are we still doing the the gag thing with plays here?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 41.12,
+      "endTime": 43.44,
+      "text": "Well, I I mean it is it's not any different because we're on video.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 43.68,
+      "endTime": 44,
+      "text": "It is.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 44.16,
+      "endTime": 46.88,
+      "text": "Is it? Well, yeah, because people can like my my friends.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 47.28,
+      "endTime": 49.12,
+      "text": "People didn't think it's only my friends that listen anyway.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 49.28,
+      "endTime": 61.12,
+      "text": "But people didn't think you were other people anyway. They knew that it was you. Well no they didn't because they couldn't see you. In a world of AI, they were they were their critical thing you were so low that they thought you were Bobby Charlton and they thought you changed every week.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 61.36,
+      "endTime": 69.36,
+      "text": "Well, I don't know. I anyway, I anyway. I thought it was a well, I'm Matt Cartwright. And now we're doing video, aren't we?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 69.6,
+      "endTime": 78.72,
+      "text": "We are and uh welcome to Prepare and for AI, or PAI as we've decided to now call it. And uh please don't comment about the missing F because PFAI doesn't sound right.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 79.04,
+      "endTime": 80.16,
+      "text": "And the missing hair on my head.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 80.32,
+      "endTime": 103.76,
+      "text": "Yeah. Well, anyway, uh welcome to Prepare and Fai and a special episode to talk about ClawBot, which on our last episode we did talk about, but we talked about it as being called uh Maltbot, which it was called at the time. Um, before that was called ClawedBot, but it is now established as OpenClaw. So that's what we're gonna talk about. Yeah, we are to go on, talk about it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 104.24,
+      "endTime": 113.44,
+      "text": "Uh yeah, so uh I can't remember what we said last time, but um there's been a lot of news about claw open claw. You've confused.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 114,
+      "endTime": 118.8,
+      "text": "It's had so many names, it's open claw, and it's not gonna change, it's established now as open claw, so that is its name.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 119.12,
+      "endTime": 152.96,
+      "text": "It's established as open claw. So um, yeah, for anyone who doesn't know what it is, which um you know it depends if you follow AI news or not. Uh it is a it's created a massive storm. What's his name? Peter Peter OpenShaw, but that's someone completely different. Peter OpenShaw. Peter Steinberger. Um it was the creation of Peter Steinberger, who's actually been so he's been recruited by OpenAI since the creation of OpenClaw. It was such a big deal. Um, I think it's had like a hundred and something thousand likes on GitHub.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 153.84,
+      "endTime": 154.56,
+      "text": "200 something thousand.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 154.8,
+      "endTime": 197.68,
+      "text": "270,000. So they they call them stars on GitHub, but um to put that in context, it's more than Linux, which um much to the dismay of a lot of the GitHub community, like this this thing that's for been around for about a month has more likes or equivalents of likes than um Linux, the operating system, um, which is yeah, quite depressing in a way and a bit of a sign of the times. But yeah, so so um effectively it's this it's this massive, it's caused this massive Ferrari because it's a a very agentic like um thing. I mean, I would still say like it requires a bit of setup and it um it's not it's not for the faint of hearted technical wise, technically wise.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 197.84,
+      "endTime": 240.72,
+      "text": "Um however, like if you can get one set up, um and we have we're gonna talk about what our experiences with it in a bit. Um it has these basically you can plug it into email, you can plug it into 11 labs and give it a voice, it you can chat to it on Discord, on WhatsApp, on WeChat. It's pretty cool. Like you you you can chat to it on all these with all these different um chat interfaces that previously you had to speak to an AI, you basically went into a onto chat GPT or OpenAI um or anthropics interface with Claude and you just had a chat. This feels much more like you're having a conversation with a friend in a way, I suppose, because you give it a personality, so you have this like soul file and a bunch of files that you configure.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 240.8,
+      "endTime": 279.44,
+      "text": "So you you basically get a lot of control over the way it behaves and its personality, but not only that, you can do amazing things with it. So it can search the web, it can answer your emails, it you know, you can plug it into your own email if you're crazy enough, um, and get it to go through your inbox. And lots of people have been crazy enough as we'll we'll talk about later in the episode, right? Yeah, exactly, exactly. Pretty crazy. Um, but but yeah, you you can effectively it's got what it's got APIs, it's got interfaces to almost anything online that you can imagine, and it can interact with them via the interact with these apps via the APIs.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 279.6,
+      "endTime": 298.8,
+      "text": "So it can arrange things on your calendar. If you if you set it up to it, can probably order food to your house via um like just eat or something like that. It could order you a taxi. If it's got the right interface to plug into these things, and a lot of them it does have these interfaces, it can do any of that stuff, and it can just do it through a natural language interface.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 299.28,
+      "endTime": 329.6,
+      "text": "Could you just um just bring us back a bit? Because we we've talked about agentic AI quite a lot, and we've talked about what agents will be. And I think you know, people who have listened to this podcast, so the podcast has been around for a while. This is the first time that we've we've properly done video when we haven't done interviews anyway. Um, but but a lot of people who listen to podcasts, they they're not AI experts, they're not people who necessarily are, you know, reading and listening to AI news every day. And so we talked about agentic AI, but we, you know, maybe people have heard, but but actually they haven't needed to listen.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 329.68,
+      "endTime": 366,
+      "text": "So now that we're talking about having something here that is a tool that people can actually use, or or even if they're not going to use it, it's it's kind of being used and they'll hear and see about it. Could you just go back and explain, like in this context, what an agent is, just for someone who thinks, well, hang on, what's the difference between that and the interface? So I think we should explain that when you access ChatGPT or Claude or whatever, unless you're using an API key, so assuming that you're using the app or you're using the website, you are using their app to just basically access a usually the chatbot function of a large language model.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 366.24,
+      "endTime": 380.32,
+      "text": "Um the model is in the background, but you're accessing it through there and it dictates what you can and can't do with it and you can talk to it, etc. How does Claude sorry Claude open claw differ from that? And how does an agent in this sense, like what is it actually?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 381.36,
+      "endTime": 418,
+      "text": "So it's a it's connected to a large language model in the background. So the key, the core core part of it, I mean it wouldn't work without it, is it's connected to a large language model. Now you um without going into loads of technical details, effectively you get an API key which which gives which you pay for. So um you know you put ten dollars on it, and then that will last a certain amount of time. It's but it's priced in millions of tokens for input tokens and output tokens. The best models, the most the most are the most expensive models, but there are a huge range of models to choose from.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 418.24,
+      "endTime": 443.36,
+      "text": "Um and so what you do is you is you with your open claw, you give it an API key, which it basically allows it to access these large language models. Then you connect it to a messaging app. So let's just use WhatsApp as an example, but it can connect to I think it can connect to the iPhone uh messaging app, it can connect to Discord, it can connect to like pretty much most of them now.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 444.16,
+      "endTime": 451.28,
+      "text": "WhatsApp this week was added, wasn't it, in China? Uh WeChat WeChat, sorry. Yeah, what WhatsApp, sorry, was one of the first. WhatsApp and Discord.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 451.84,
+      "endTime": 485.68,
+      "text": "WhatsApp, Discord, Telegram is one of them, yeah. So there's differing levels of difficulty to connect it to all of them, but you can connect it to them. And then effectively you have like let's say you've got it on WhatsApp, you've just got it in there as a you know, whatever you call it, open let's call it open claw. Your open claw is on WhatsApp and you can talk to it. So in that sense, if you just did that basic setup, you'd then be able to, if it was connected to GPT, for example, or or Claude, you'd be able to chat with it and ask it questions in the same way as you ask Claude, but you're doing it in your WhatsApp.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 485.92,
+      "endTime": 527.28,
+      "text": "And it could come back to you and it could answer in the same way as you could ask questions through the Claude interface. And beyond that, like you can give it a bit of personality through these files and through um these, yeah, like these markdown files that you set up. Um give it a soul, it is, because it's like a got a soul file, it calls it. Um and if you just stop there, you would have a Claude, you'd have to be able to chat with Claude with a bit of a personality, like having a custom prompt um in WhatsApp, right? But instead of stopping there, the agentic part of it is that you can then connect it to your calendar, you could connect it to your email or an email inbox.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 527.44,
+      "endTime": 568.72,
+      "text": "It's probably better to connect it to its own dedicated one. We'll talk about that a bit more in a bit. Um you can, as I said, you could connect it to something like Uber potentially if there's an interface for it. And that's where it becomes agentic, because then you could say, if you chose to do this, I'm not sure it'd be the best use case, but you could ask it to get you pizza from um, you know, from Pizza Hut and tell it where you live, and and then it could, through a natural language interface, it could go away, and because it's got the API that can connect it to just eat or something like that, and you've given it um, you know, either a connection to your credit card, which you can do, or and your personal details to know where you live and all that, yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 568.96,
+      "endTime": 610.64,
+      "text": "All that stuff. This is not our recommendation, by the way. No, it's definitely not a recommendation. Um, but there are ways of setting this stuff up. I in the I'm I'm using this as an example because I think it like highlights the agentic nature of it. You could get it to book train tickets, you could get it to order you pizza, you could get it to do all these things, and you could do this by typing into WhatsApp or by speaking, or by talking to it. Um, you know, you could have it on you could give it a call and it can have a voice through 11 labs and things like that. So basically, it can connect to all these tools and other um other apps, I suppose, in the same way that you would talk to them, but it's got like an API interface, and it can take action online in the real world.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 610.72,
+      "endTime": 645.92,
+      "text": "It can do shopping for you, it could do all this sort of stuff. Now, I don't think OpenClaw is gonna be the last of these kinds of things that we see. Open claw requires a fair amount of technical setup, it's not cheap to set up either, really, if you want to do it properly. Um, there's a lot of bits of I need to pay for credits for this and that, that, and the other. But I think that it's a bit of a sign of what we're gonna see in terms of genuine, like agentic AI in the future. And to that point, just to finish, like I said, Peter Steinberg has joined OpenAI. I don't know how much he's getting paid, probably quite a lot, because it's usually in millions of dollars these these um kind of hires.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 646.08,
+      "endTime": 659.12,
+      "text": "Um, but presumably he's gone to open AI to develop and build out this kind of capability for open AI. So you're going to get we've established the Open Claw Foundation, which I'm not sure how that works.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 659.28,
+      "endTime": 687.68,
+      "text": "I mean, calling it a foundation at the time that open AI are, you know, I mean they're certainly not open anymore, but are also looking at ads, etc. Um, i it's kind of a bit bizarre, but I guess at the moment it does seem like they're trying to pitch it that it's not um it's not part of open AI. Right. So it's its own, you know, it it has its independence, but how much that you know in reality that is when he's being paid millions and millions.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 688.16,
+      "endTime": 702.32,
+      "text": "Shall we just make up our own story about what open AI are gonna do? Because they because they never do what they say anyway. I mean they literally said they're not never gonna run ads unless they absolutely have to. Well, I'm uh to be fair, like maybe they maybe now they do absolutely have to.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 702.8,
+      "endTime": 716.96,
+      "text": "I mean, I would imagine when they recruited when they recruited Peter Steinberger, that presumably all of the big players all went in and he decided to choose OpenAI for whatever reason. So I'm I'm sure they've given him a lot of um autonomy.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 717.36,
+      "endTime": 717.68,
+      "text": "Cash.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 718,
+      "endTime": 752.48,
+      "text": "Oh sorry, not cash. Well, I think also a lot of autonomy. I mean, that like I think the guy you've got to say, like the guy was a a a sort of coder, he was you can look at his history, he was doing a lot of stuff, and then he kind of took a two-year sabbatical and stepped away, and then he just set this thing up, built it, put it on GitHub, and I think and this sort of walked away, and then two months later it was massive. So he is not someone who has just done everything for money. So I would imagine that although he's obviously gonna get as much money as possible and he's gonna be a very rich person now, I think he probably would want some degree of autonomy to be able to do the stuff that he wants.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 752.56,
+      "endTime": 772.56,
+      "text": "But I'm um, you know, open AI. I mean, it's even the fact it's called Open Claw, just before it joined OpenAI, they changed the name. It for me, changing it to OpenClaw and then joining OpenAI, is that a coincidence? Uh, no one seems to have mentioned this, but it doesn't feel like it is one. But anyway, we've we've sort of digressed a little bit. It's because it's open, like open AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 772.72,
+      "endTime": 811.52,
+      "text": "Yeah, I mean the thing is it is open at the moment, but but how much longer they've obviously bought it for the tech because and like and and it's probably because I would imagine it's under the MIT license. I don't I don't actually know. My guess is it's under the MIT license, which if you're releasing if anyone is unfamiliar with open source, you can release open source stuff with like no license whatsoever, or you can release it with the MIT license. The MIT license does restrict people from just taking it and commercializing it effectively, is what it does. Um, so it says you can go and use it, you can do what you want with it, but if you go off and make a product and make loads of cash, then it still does have a certain level of protection.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 811.68,
+      "endTime": 835.04,
+      "text": "And so I would imagine it's under that kind of license, and clearly OpenAI have have bought it because they could build this themselves, but then do they copy this open claw? It's easier to just buy it, isn't it? It's easier to just they're they're probably buying partly buying the code and the open source rights and the rights to all this um open claw as much as they are Steinberger. Sorry, no offense, Peter.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 835.2,
+      "endTime": 867.36,
+      "text": "Yeah, yeah, you're not Sam Altman, we don't hate you yet. No, um, before we move on to kind of looking at um, because some of the stuff we started talking about, I think is we'd plan to talk about it a bit later, but I think like maybe then the next question, the most important thing for people to understand is like why is this so significant? Because I think this is, you know, and they both happened in sort of January, but I think this is this year's Deep Seek moment. So Deep Seek last year was probably the big thing in AI, not because it was necessarily the biggest development, I think that was over, you know, overplayed at the time.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 867.52,
+      "endTime": 907.76,
+      "text": "It was the first thing we did an emergency episode for, and it was because it had just changed the dynamic so much because you suddenly had this model that was so much cheaper, and you know, and some of the the hyperbole behind why that was has turned out not quite not to not quite true, but I think what happened with Deep Seek is it shook the foundations because it was something that was completely different, they were able to do things cheaper, and that was probably the biggest, I think the biggest story in AI last year. This feels like you know, maybe I'm wrong, maybe something even bigger will happen later in the year, but it feels like this is an equally significant moment because it's the first time that you've seen an agentic tool in this way, and it is democratized.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 907.84,
+      "endTime": 938,
+      "text": "Like we'll talk about how you used it, and I think you're right that for this to become a mass tool, it's gonna take one of the big labs or a big developer to create something that is much more closed off and that is instantly accessible. But this is like this is the first, and if you are an early adopter, which you are, and you have been with this, you know, this is it's it's just it's the first time that anyone has developed anything any anything like this, right? And or that's been released to the public anyway.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 938.32,
+      "endTime": 993.44,
+      "text": "Yeah, and I talked about, I mean, I've been following some um some like other AI uh influencers and stuff like that, and and and and I the stuff I talked about was very much um, you know, you could order pizza with it and stuff like that. Like like they were um what consumer examples, I suppose. But actually what people have been people who've been using this in a business sense who've already been using it. Examples that I've seen um are things like lead generation. So um using having open claw just running overnight, looking for like let's for say, for example, you're in recruitment, right? Um you can now basically say, I've got this, I've got all these positions, I've got all these people, go and like research them um and see who matches what, and go and research these positions on LinkedIn, go and find leads, and and leads doesn't have to just be for recruitment, but it's a good example.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 993.6,
+      "endTime": 1042,
+      "text": "Um I listened to somebody, I I I listened to somebody on a podcast talking about how they've already started using OpenClaw, and they've that in their estimates they were getting like research done that would have cost them tens of thousands of pounds to get um tens of thousands of dollars, I think they said, um, and a month to get someone to do this level of research. And it was being done overnight for like 20 bucks um using something like OpenClaw. So there are already examples of people like who know how to who know tech setting this stuff up and actually um I mean I don't know whether they were exaggerating, but even if they were even if they were out by a factor of 10, they're leveraging OpenClaw to save a lot of money and time um and human effort in um like actually apply basically getting it to do a job um for the phone.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1042.64,
+      "endTime": 1084.96,
+      "text": "This is probably its best use case, isn't it? I mean, agentic AI really, because the example that you give of ordering a pizza, and I know you like I'm being kind of a bit um what's the word? Yeah, um, in in saying it's it like the example is always it can book your flights for you, it can order something for you. And the thing is like, well, I book flights four times a year and it's not actually that difficult for me. But I think all of the all of the benefits for people personally, they don't have the same impact as in the business space. Not only but you know, not least because it's money, but also just because the kind of things that you want to do that that require this kind of scale, most people in their personal life, they don't need to go away and and do research all the way overnight.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1085.04,
+      "endTime": 1116,
+      "text": "And actually, if they do, you know, like a deep research on on any large language model is sufficient. But what this would enable you to do as a business, as you said, is just to be able to run stuff, you know, constantly, to be able to monitor emails and and and address leads, to be able to do research, to be able to basically target, like go out and just send leads, send, send emails and and do all of that work, and then you know, take away all of that kind of lead generation, admin, and then just get it to point your hands at you when you've got a deal, and then the person goes in and and and does that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1116.16,
+      "endTime": 1120,
+      "text": "Yeah. Um the it's potential for real job replacement.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1120.08,
+      "endTime": 1123.68,
+      "text": "Yeah, like yeah, exactly. Like real, I think real job replacements.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1125.6,
+      "endTime": 1127.6,
+      "text": "When job replacement will really, really pick up.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1127.84,
+      "endTime": 1164.4,
+      "text": "Yeah, and I think it has been applied like that already. Like we're gonna come we're gonna cover some um I guess bad examples later, but like I've heard real loads of really positive like positive, good examples of people using it. Um where's Roth, I think, who I follow a little bit on YouTube. Um, he was talking about how he's created his own health app using it and how he's um basically created a completely custom health app. He can ask, he can take a picture of what he's about to eat and ask how many calories are in it and all this sort of stuff. Things that like there are apps out there to do this, but what he's done is stitched together something that gives him exactly what he wants.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1164.56,
+      "endTime": 1179.2,
+      "text": "It gives him the dashboard that shows him exactly what he wants. He talked about getting it to he said that if he doesn't do cardio for two or three days in a row, he told it he could it could start being more firm with him and like start actually really pushing him. Like something I love this use case by the way.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1179.28,
+      "endTime": 1182.72,
+      "text": "I think this is a great, great personal example. This is a really good personal example.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1182.96,
+      "endTime": 1216.32,
+      "text": "This is a good personal example. So, like something where you can basically take the features of like something like Garmin and Fitbit and um I don't know, your fitness pal and um your health and whatever it is, like differ all these different apps, and take the bits that you like from each of them without ads, and and and and and go and sort of create some sort of personalised amalgamation. If you take supplements, you can include that. So that's aimed at me. Yeah, potentially, but like this is that's one of the use cases that I think if you're using it on a personal level is something that you just couldn't do before.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1216.48,
+      "endTime": 1252.88,
+      "text": "Um, as I say, like it still requires the technical know-how and the setup right now, but you're gonna start to see stuff like this. Like I guarantee within the year, within within this year, I bet that you are gonna see all of the major providers bringing out apps and things like this that basically give you this kind of agentic capability that sort of that really pull it all together. So you'll start to have, I don't know, like custom apps effectively that like do exactly what you want them to do. Something that's set up to, I don't know, if you want it to give you birthday reminders and tell you when to take your tablets, it'll do that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1253.04,
+      "endTime": 1263.68,
+      "text": "If you want it to tell you when to go and run and motivate you two or three times a day, or go out and do exercise and then tell you what to eat, or give you recommendations, it'll do that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1263.92,
+      "endTime": 1299.84,
+      "text": "But like you can pick and choose whichever bits you want, it's not like here's an app that's I'm just saying this is this is that example is a good way, just to explain again to people like what this is, is if you think about it in the examples Jimmy's just given about you know, you want it to tell you your your medicine or or whatever or what to eat, is it essentially is the interface between you and the large language model. So that's what it's doing. So it's going away. If you because you might think, well, why don't I just talk to the large language model? Well, you can do, but then what this is able to do is as you sort of train it over time and it trains itself is it understands where to go and look for things.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1300.08,
+      "endTime": 1331.6,
+      "text": "So rather than just every time you have a chat, it goes and looks somewhere on the web, but it might not be the right place, it goes and looks at a paper, it goes and looks at a website. Is over time it knows that oh, you know, what have I eaten today? Well, it knows to go and have a look in a particular file, and then it knows to maybe go back into your emails and see, you know, where are the receipts for the things that you Bought for today, so it's able to say, Well, actually, you didn't tell me, but this morning there's a receipt for um you know a latte, so you also had a latte, and so you're able to set it up to be able to go away and do that stuff.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1331.76,
+      "endTime": 1340.48,
+      "text": "Because I I still think it's not necessarily clear as like, well, what's the difference between this? Like, what's the advantage of this and me just opening my my app?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1341.12,
+      "endTime": 1373.44,
+      "text": "No, I think it is that like it's like you say it it imagine something that's hooked into I mean it sounds scary when you say it like that, but like hooked into every aspect of your life, but like in a way that you want it to be, and it's customizable, and you can get out of it what you want out of it. I mean, like as you say, you can do the same thing with with Chat GPT, but you need to sit there and tell it what you need to tell it and give it screenshots of stuff. This is like stitching all that together to give you a better user experience, really, around what what around that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1374.08,
+      "endTime": 1422.48,
+      "text": "This is really interesting. I just found this. Um talked about on the 14th of February when um Valentine's Day, so Steinberger and uh and Sam Atman got together on the 14th of February. Well, their their organizations came together. The um the move signalled the formal transition of the project into the Open Claw Foundation with OpenAI providing financial and technical backing. The move is seen as an attempt to professionalise the project's security model and stabilize its reputation after months of vibe coding development led to frequent vulnerabilities. I think that's interesting because it seems like that reads to me that that's OpenAI's pitch of why they've done this is like they're gonna give it rep, you know, they're gonna give it a reputation, stabilize it, and protect it from you know the these kind of developmental um vulnerabilities.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1422.8,
+      "endTime": 1447.12,
+      "text": "Vulnerabilities, yeah, which which is kind of that is part of being open source, right? That's the thing is in open source, those things will develop and then they'll be fixed. You know, it feels to me like there's a message there about you know, if we keep it and and then we can make sure these bad things don't happen, which has kind of been the argument from the beginning of um of the large labs of why open source is a bad thing. Yeah, maybe I'm reading too much into it, it just read like that to me.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1447.28,
+      "endTime": 1448.24,
+      "text": "I I yeah.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1449.84,
+      "endTime": 1462.08,
+      "text": "Shall we talk about um how we or particularly you have been using it? And uh maybe you can take this time to introduce our the the podcast latest member, producer Bob Fletcher.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1462.32,
+      "endTime": 1496.64,
+      "text": "Yeah, we don't have him here with us, unfortunately. He's in Manchester. He's in Manchester, he's in the virtual having a pint of Boddingtons. He's in the virtual Manchester, yeah. Uh maybe we'll put some can we put pictures in the show notes? Yeah. Well no one reads the show notes, but we can read. We'll put a picture of there you go. That's a good reason to look at the show notes. We'll put a picture of Bob in there. So yeah, like we having a bit of fun, we um I I suppose created uh Bob Fletcher. Fletch, um, who's gonna be our hopefully he's gonna be our producer. So it's he's an open claw instance.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1496.8,
+      "endTime": 1512.96,
+      "text": "Um and we can talk to him on Discord. Uh he's got his own inbox, which we haven't like hooked up to the we haven't actually hooked it up yet. Um but the idea is he's gonna screen guests for us and he's gonna I say he, I'm anthropomorphising him massively.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1513.44,
+      "endTime": 1525.2,
+      "text": "One episode after our episode where we talked about not the danger of anthropomorphising AI, and then we've we've done literally the most anthropomorphising thing you could possibly do.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1525.44,
+      "endTime": 1538.64,
+      "text": "Yeah, we've created a whole persona around our producer Bob from Manchester. We've we've got pictures of him um in his in his den, I think is the and in a Manchester drinking a pint of beer, ale. Yeah, ale.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1539.04,
+      "endTime": 1542.4,
+      "text": "So um not not to stereotype for any listeners from Manchester.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1542.64,
+      "endTime": 1568.96,
+      "text": "But yes, we if we can give him a voice, because we would haven't been having a look at that, we we might introduce Bob uh in an episode soon, so look out for that. So what does he do? So I mean I know what he does, but can you tell people what he does? At the moment, he knows he knows so I mean okay, I'll describe it fully, I suppose. So I took every single episode of our podcast for the last year, I got all of the transcriptions, I fed them into Google Gemini, which has a massive, massive um context window.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1569.2,
+      "endTime": 1575.68,
+      "text": "Uh you thought I was gonna say something like that. Well, I just saw you what you were doing with your hands then. It wasn't the context window, exactly.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1575.84,
+      "endTime": 1617.76,
+      "text": "We can't do this. Well, no, we can do jokes about it. Okay. But if you're on if you're only listening on the audio, then you know you won't understand. You need to get on YouTube. Yeah. Um we can do jokes like that now about being on video. Um uh what was I gonna say? So yeah, I put I fed all of our previous shows into Gemini, um, which I actually had already done for the antagonistic AI episode, and that allowed and then I asked Gemini to basically produce a an overview of the podcast and our personas. Um, so Matt the pessimist and me the techno optimist, um, for a to basically start creating a soul file.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1617.84,
+      "endTime": 1673.68,
+      "text": "And this is the cool thing with AI now. Like you nowadays you can be like, you know, you can say to Gemini, I'm creating an open claw, it can go and search the web and understand what open claw is. You can explain to it, I want to create these files to start creating the personality for it. You can feed all of the podcasts, you know, because it it's about half a million tokens, I think, the last year's worth of podcasts. You can feed all that into Gemini, and it can distill that into this is the personality of the podcast presenters, and then basically worked with the AI. I won't go into too much more detail, but worked with the AI to generate this personality that is Bob and help him understand what the show's all about, and then effectively lay out what I want what we want Bob to do, which is help us research episodes, um review guests, so review potential guests for the podcast and whether they're a good fit, and then help us to potentially in the future.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1673.84,
+      "endTime": 1698.08,
+      "text": "I mean, we haven't turned this on yet, actually craft emails that are going to go back back and forth, help us schedule and all that sort of stuff, because we're you know just a little two-man team. Two-man team. Um otherwise um the responsibilities. We have jobs and responsibilities and stuff. So um, yeah, we'll keep you updated on Bob as we go, but um, you know, who knows? He might be scheduling a guest for us sometime soon.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1698.32,
+      "endTime": 1739.76,
+      "text": "I mean, what was interesting, I think, for people to understand is like with the Discord group, so the three people in the Discord chat, which is me, Jimmy, and Bob, and then if Bobby personally, you said three people, yeah. Well, in this context, he is, right? Yeah, he's got a picture, he's got a face, so he's he must be real. Um, and then within the group, so if we you you'd have to at Bob when you talk for it to read this. So it's what's quite interesting is you can have a conversation without ating Bob, and he will not get involved in the conversation. Once you at him, he can reply. So you can be talking about the podcast, what we're gonna do, and just say, Okay, let's ask Bob, can you go away and research open claw developments this week?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1739.84,
+      "endTime": 1782.08,
+      "text": "And he'll say, Okay, and then what he he he or it will do, um, because the way that Jimmy has set it up, is depending on what the task is, is it will delegate it to kind of sub-agents. So it'll run on different models. So basically, let's give an example. So um, you know, we're not using the most expensive model, but you let let's say at the top we're using Sonnet 3.7, right? Which is not that expensive, but is not a dirt cheap model. So it will use that to basically go and decide what to do. But then if it's just a case of going and doing you know a basic internet search, it will then delegate that piece of work to a cheaper um large language model.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1782.48,
+      "endTime": 1787.44,
+      "text": "And then you have an even cheaper one that does a kind of is it every day, every hour?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1787.76,
+      "endTime": 1801.2,
+      "text": "Every 30 minutes or every 30 minutes. Every 30 minutes it does something called a heartbeat. So this is all core stuff that's built into um OpenClaw. By default, it's got like your basically your sort of CEO exec who makes all the decisions.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1801.44,
+      "endTime": 1802.96,
+      "text": "There's a good way of looking at like a company, right?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1803.12,
+      "endTime": 1842.88,
+      "text": "Yeah, and then and then your your subagents, which are sort of like members of the team which you give instructions to. Um, and then yeah, there's like a proper admin function, which is something that just runs every 30 minutes to um it can do all sorts of different things, but it's it's whatever you ask it to do, but it can go and it can go and search the web for certain information, it can go and check the weather. I think in the case of um can't remember what Bob does on his heartbeat. Um checks the inbox. That's it, checks the inbox. Yes, nice one. Exactly. So where you've got things like that where you've got it connected to an inbox, the heartbeat is like just go and check the inbox, see if there's any emails in there.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1842.96,
+      "endTime": 1849.12,
+      "text": "If there's something that needs doing with one of those emails, it'll then it'll then raise that up to a more capable model.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1849.52,
+      "endTime": 1877.92,
+      "text": "And then what we want to have is at some point that if there's junk in there, it will just get rid of that. If there's a if there's a an email that is, you know, um sort of completely speculative, a guest that we wouldn't want to have on is it can just have a standard response and we'll go back and say, hey, sorry, this is not the kind of thing we're looking for. Good luck with everything else. And then if it's another guest, so at the moment it's set up, say, if there's something that would be a good idea, it doesn't reply without asking for permission to reply. It suggests what it would reply and then asks for permission.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1878.16,
+      "endTime": 1893.28,
+      "text": "But I think the interesting thing and potentially research is a guest, and it does more than it has done that, hasn't it? It's research guests. It'll research them on LinkedIn or on the web, like then it'll come back and be like, I think this person would be a good fit because X, Y, and Z. Like a bit of re-a bit's quite capable in that.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1893.44,
+      "endTime": 1926.24,
+      "text": "But I think I think what's different is to explain there is like what would have happened previously is we would chat on WeChat or whatever, and then you say, hang on, and then in the background you'll go away and search on Gemini or whatever, and you'll get something back, and then you'll feed it back. It's all very good. Whereas on here, within that chat room, you can just say, Okay, we'll do one on that, okay, and then you just task, you know, at Bob, and then you say to him, Can you go in thinking about this episode? What would be the 10 best realistic guests that we could get? We'll go away, we'll say, Okay, I can delegate this to this agent, we'll go away, then we'll come back with suggestions.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1926.4,
+      "endTime": 1961.6,
+      "text": "It's not perfect. I mean, so far, when we looked at was it the the critical thinking episode we're gonna do, and went away and came up with guests, and it was like, here's a list of the sort of dream guests, and they were you know Stanford's number one expert on on you know some something around education and IT. Here's your perfect. Did you want me to draft an email? Well, obviously, that kind of guest is not gonna come on the show, so it's not perfect, but that's where you kind of refine it. Dream Big Man. And it did hallucinate one. Um, who was it? It was someone who's supposed to be working for fashion and AI, and it had completely hallucinated.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1961.68,
+      "endTime": 1967.52,
+      "text": "And you picked up and you were like, You're hallucinating, Bob. And he came back and said, Oh yeah, I'm sorry. Yeah, I've just made that up.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1967.6,
+      "endTime": 1984.32,
+      "text": "So to be fair, that was down to model selection and some of the comm things. Yeah, it's it was using a crap model, but I guess that's what I meant before. I mean, I didn't elaborate much, but when I said it requires a bit of technical, it definitely requires quite a lot of technical setup. Now, there's a lot of technical people out there, and 200,000 plus people have.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1984.8,
+      "endTime": 1988.32,
+      "text": "There's not something people listening can just go away tomorrow and just build an open claw.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1988.56,
+      "endTime": 1995.12,
+      "text": "I don't think so. I think I think I think as I said, I think what's going to happen is there's going to be iterations of this. I mean, if you want to go and have a play with it, by all means.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1995.28,
+      "endTime": 2015.2,
+      "text": "And nowadays you could I I think you could, if you have a basic knowledge, you could go away, you could use a decent version of Clawed, Chat GPT, Gemini, tell it this is what I want to do, follow all the steps and do it. It would take you a lot of time and it would probably things would go wrong, and you'd have to be very, very clear in that you sandbox it and you don't give it access to anything that you shouldn't.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2015.68,
+      "endTime": 2058.24,
+      "text": "Can I yeah, yeah. Can I make a disclaimer there? Because like I we're gonna talk about this later, but like the best way to run one of these is not on your own computer, which is what you can't what you can do is just run it on your own computer, but but it's gonna have access to everything on your computer and it can run things like terminal commands, and uh to put it bluntly, it could really fuck things up. Um so don't do that. Um if you are gonna sandbox it, know what you're doing. Um I run it on a uh virtual private server in the cloud, which is a computer, you can just like effectively it's a you borrow you you rent a uh uh computer, so it's not it doesn't have access to all my documents, it doesn't have access to everything on my computer.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2058.4,
+      "endTime": 2063.2,
+      "text": "Um, if you're gonna run it, I think that's probably the best way to do it. So that's my disclaimer.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2063.44,
+      "endTime": 2096.88,
+      "text": "Yeah, that wasn't a recommendation for me, but I think when we're we we're sort of presuming that people couldn't do it, and I actually think people could do it, it's just it would take a lot of work and effort, and it's probably not at the point. I think that's the thing is because of the security risks around it, it's it's just not the point that it's worth you doing that either. Like the risk benefit is not in favour of you know that the the benefits are not enough for someone who doesn't know what they're doing to overweigh the risk. Now, if you're using it for a kind of business purpose and you can find a way to do that and get someone to help you with it, maybe there's a maybe there is a a a reason to try and use it.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2096.96,
+      "endTime": 2100.8,
+      "text": "But I'd say otherwise, maybe wait a few months and see where this plays out.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2100.96,
+      "endTime": 2113.68,
+      "text": "Because as we'll talk about in a minute, there have been a number of Do you think that's a good time to bring in our story, one of our stories about the um the head of safety and alignment at Facebook? Why not?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2113.92,
+      "endTime": 2128.32,
+      "text": "Because um I mean this is we didn't know this was the head of safety and alignment when we read this story, did we? And then found out it's it's it's it's it's kind of an interesting story anyway. It's even more interesting when you find out who it is, who it was. So yeah, you go ahead, Jimmy.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2128.56,
+      "endTime": 2167.04,
+      "text": "Yeah, so effectively what this is is this I think this happened in the last few days. So there are massive security risks with with something like OpenClaw because because if you and it's to be fair, it's on you. Like if you give it unfettered access to your computer or your inbox or your bank account, heaven forbid, like like for something like that. I'm sure people have done this, right? They have sure people have done this. People have lost lots of money um already using OpenClaws because it's spent loads of money, whether it's in API tokens or um directly through their bank account. But these are the kinds of things that you can do, like it's got agency in the real world, um, or in the virtual world at least.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2167.28,
+      "endTime": 2209.28,
+      "text": "Um so I don't know what came over her, and there's already been some horror stories, but in not in the last sort of week or so, there's been a news story about the head of um safety and alignment at Facebook who basically said she wanted to clean up her inbox and she'd seen OpenClaw. Um, and obviously that's a really senior position at Facebook um or Meta. Uh, and she basically plugged it into her inbox and um, you know, she gave it a load of instructions and she said to it, this is one of the problems with it, right? Because it's a large language model, so it's never gonna it's always got a bit of ambiguity in it, it's never gonna necessarily follow exactly what you do, uh what you ask it to do.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2209.36,
+      "endTime": 2251.2,
+      "text": "But she'd she had specifically asked it not to, for example, go ahead and delete things without consulting with her first. But for whatever reason, the prompt she'd created or the model she was using or whatever, or some combination of things, she had asked it to clean up the inbox, but then asked it to check in with her first. Uh, and effectively it went and just deleted everything and like pretty much deleted her whole inbox because but like I think as I understand it, her like overriding um that what she really wanted that which came through in the prompt that she gave it was that she really wanted to have a really tidy inbox, like get rid of everything that she doesn't she wants to get rid of, get rid of all the junk mail, all this sort of stuff.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2251.28,
+      "endTime": 2260.48,
+      "text": "She probably emphasised that quite a lot, but then also asked it to check in with her, and somewhere in there it lost the check-in part and it just went mad and started delivering.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2260.8,
+      "endTime": 2299.52,
+      "text": "She'd relied though on essentially a sort of verbal or typed command to confirm before you act. And the danger of that is I think they said this um the process is called compaction, isn't it? Which is where basically as it compacts to save space, as it compacts the knowledge it's got, which is how you know a large language model as a conversation goes on, it remembers everything, but it doesn't remember it as much at the beginning as the bottom because it's trying to kind of find a way to be more efficient with that. As it compacts, it somehow loses the memory of that instruction, which is a really, really important thing because you know you only had she only had one level at here.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2299.6,
+      "endTime": 2308,
+      "text": "There was no kind of backup, I don't think. So there wasn't kind of several fail-safes to get through. It was just relying on this one instruction to not do anything without asking you, and then it went and did it.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2308.16,
+      "endTime": 2331.2,
+      "text": "Yeah, it was like if I she kept her job. I would I don't know actually. It's it's a bit like if I it's a bit like if you were talking to a person, right? So if I asked you, go through my inbox and um before you do anything, confirm like with me if you're gonna tell me anything. But then I went on a ramble for like 15 minutes about a load of other stuff and about inbox and how you should clean it up and all that.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2331.36,
+      "endTime": 2335.84,
+      "text": "And kept going, make and make sure you do a really good job of it, and then that's the thing that they go away with, and that bit has been lost.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2335.92,
+      "endTime": 2386.32,
+      "text": "It's exactly how it's a bit how they work. So even without the compaction stuff, a large language model will weigh the last thing you said heavier than you know something that was a hundred thousand tokens earlier. Um, for obvious reasons, like it's more relevant, especially because these things are still fundamentally very, very clever next-word prediction um you know AIs, devices, whatever you want to call them. Um and they're not programmed, like they're not. I I feel like you need to constrain these AIs with actual programming, like actual gateways. So, like, for example, rather than asking, in this case, rather than just sort of like verbally saying, you know, you need to come I need to confirm it before you delete anything, have a physical process in place where you like it can't delete anything and all it can do is suggest so that you can.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2386.48,
+      "endTime": 2387.6,
+      "text": "And you can do that with open claw.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2388.08,
+      "endTime": 2399.44,
+      "text": "You can put it into like its you can put it into its. I'm not sure if it's in the in if it's in the soul file or you put it in several places to make sure that it's always going to have access to that rather than relying on one command, I would think.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2399.76,
+      "endTime": 2439.28,
+      "text": "Well you can so so the way you the way you normally allow these um this these open claws, the way you set them up to interact with your with the with your like your inbox, for example, is you give them access to an API key. Now API keys are very configurable. You can configure one that allows you to archive stuff but not delete it, for example. And so the s I don't know the specifics, but the sensible way to do what she was trying to do was probably be give it access to move things around and all this, that and the other, but not actually delete things. And maybe you could have said, right, everything that you think you should I should delete, everything that you think should be deleted, you can put it in this folder, but don't give it the actual permission to delete stuff.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2439.44,
+      "endTime": 2475.76,
+      "text": "In the same way that like that you shouldn't give your literal bank details to one of these AIs and just be like, go off and do whatever I ask you to and don't spend too much money, and then get annoyed when it has spent money. Yeah, exactly. Which is which is some of the other examples. Like there are examples of people, I think they set up like Clawed to build them automatically for token usage, and then they set an open claw off and hadn't got they hadn't configured it very well, and so it used millions of tokens and cost them thousands of dollars in like 24 hours. Um but by the time they realized it was like well, and it's like well, you you didn't need to do that.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2475.84,
+      "endTime": 2484.56,
+      "text": "You could say every time you get build, it gets confirmed. You just have a top-up account with $20 on it, and if it spends it, it spends it and you it's not a big deal.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2484.8,
+      "endTime": 2511.12,
+      "text": "I mean, I guess that's the way if you want to give it access to money is you create a you know, you create like like when you used to be able to go on holiday and create this kind of like it's like a debit card, but you just put money into a fund, right? So you create a way that it has access to a limited amount of of credit, but it can't access your your main account, which that's the reason, like I said, all our accounts will be offline in a few years'time when um when we get quantum computing.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2516.48,
+      "endTime": 2517.6,
+      "text": "Yeah, totally.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2518,
+      "endTime": 2530,
+      "text": "Um so that was uh well that was that was Bob Fletcher, that our personal open AI. Yeah, plus well that section of the podcast was Bob Fletcher.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2530.16,
+      "endTime": 2530.72,
+      "text": "Yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2531.04,
+      "endTime": 2532.96,
+      "text": "Um talk about some bad things.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2534,
+      "endTime": 2539.92,
+      "text": "Yeah, well, I've just talked about one of them. I guess it's bad for that particular yeah, that was bad for her. To be fair for everyone else.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2545.68,
+      "endTime": 2573.2,
+      "text": "Well, or should we do some good things? I mean, we could do let's do some good things first, because I I I don't want to always be the negative one. So there are some big kind of improvements that have come out with I think in the last week or so, um, in terms of open claw. So it's now I mean, one of the weird things I saw is it now has like support for things like 4.6 opus and it's integrated Moonshots Kimmy for searching and video understanding. But at the same time, I'd also see Is that what they're called?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2573.36,
+      "endTime": 2573.76,
+      "text": "Moonshot.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2574,
+      "endTime": 2628.16,
+      "text": "Moonshots Moonshot AI is the company though. Oh really? Yeah, yeah. That that was um our episode with uh Christy Loke. She talked quite a lot about Moonshot AI and the the head of Moonshot AI. He's a famous figure in China. Um, but anyway, yeah, um they they've got support for things like 4.6 Opus, which is Claude's new anthropic's new kind of state of the art model, but then at the same time, there is another story that was saying that um I think anthropic of banned O auth token usage in tools like OpenClaw. So basically, like on the one hand they have to kind of you know, they have to kind of have I I think it's I guess they know if this is the direction of travel, they need to be they need to have some way in, but they're also tightening the screws, the frontier models, you know, want to make sure that the they haven't lost all control to open source.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2628.4,
+      "endTime": 2629.84,
+      "text": "So it's kind of working both ways.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2630.32,
+      "endTime": 2639.76,
+      "text": "Yeah, my reading of this was actually so Google have done the same thing with anti gravity. So a lot basically Go Google did it first, I think, and then and then",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2640.16,
+      "endTime": 2640.8,
+      "text": "Fuppy followed them.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2640.96,
+      "endTime": 2651.2,
+      "text": "So I think the gist of this is like open claws that aren't configured very well, they absolutely munch through tokens. So so I mean Bob Bob's a token monster, isn't he?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 2651.36,
+      "endTime": 2651.52,
+      "text": "Yeah.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2652.4,
+      "endTime": 2688.4,
+      "text": "Yeah, yeah, yeah. He's been I've got him on free models fortunately. But like but um but yeah, they can really rip through model rip rip through API um token usage. And the thing is, Google are like on the one hand, like that money's going directly to Google or or Anthropic, but on the other hand, if they're getting hammered so much that it's degrading their service to everybody else, it's not necessarily a good thing. So they're I think they're trying to balance things out. Um I'll be honest, when OpenClaw first came out, I was like, this is a genius way to make money off AI because people are take people are paying via their API keys, which like directly like they have a profit margin on them.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2688.48,
+      "endTime": 2722.4,
+      "text": "So if you buy like when you pay for your $20 a month for Clawed, if you really smash it, um, you can probably cost anthropic money, so to speak. They're not necessarily gonna profit off you. They've obviously it probably averages out and they profit off most people with API keys. Like if you spend a thousand dollars on API keys, they're probably making a couple hundred dollars off it because they're gonna have a markup on it. However, there's limits on how much how many like the AI models that they can serve. It's not it's not unlimited, they haven't got unlimited compute power. So the impression I got of this was that it was degrading the rest of the city.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2722.56,
+      "endTime": 2766,
+      "text": "Well, I mean, but this this is the reason why you've got things like OpenAI using when you when you had was it GPT-5 first came out, and actually the thing that everyone hated was it would route inquiries to the best model for the task. So you'd find that some things it was routing it to like four, and people are like, why am I getting a worse response than I was a a week ago? And it was actually because it was trying to save, because like you say, they don't have as as we get more and more usage of all of these models, they don't they don't have enough compute. And I mean that was one of the things you talked about why Deep Seek is very unreliable, isn't it, through the API key at the moment, is because in China Deep Seek's been integrated in so many things so quickly that there's just a bottleneck, it just doesn't there just isn't the capacity.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2766.08,
+      "endTime": 2779.68,
+      "text": "They they they're not able to to have as much they don't have enough compute for all the use cases, so therefore they're having to kind of choke down a little bit and and and limit it. So that's probably happening across the board, I would imagine.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2779.92,
+      "endTime": 2803.6,
+      "text": "I think deep seek I think um sorry not deep seek, I think open clause caused quite a lot of that, which has resulted in this kind of like it's a bit of a backlash from Google and from Anthropic, where they're saying, hang on, we're not we want to the quality stuff is humans interacting, but like a lot of this token generation has been done by OpenClaws just doing nothing. Doing nothing really, like doing these heartbeats, like I say.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2803.84,
+      "endTime": 2814.24,
+      "text": "You well you found that, didn't you? That it was going, you were like, why is it using this many tokens? And you're like, oh, it's just going away and just like did did you find out what it was doing? Well, so actually tokens.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2814.4,
+      "endTime": 2846.88,
+      "text": "So yeah, so the heartbeat stuff the what that we were talking about earlier, I I I set it off to use a free model, um, which literally completely free, which I don't know how quite how that works. Um, but I deliberately did that because like you're supposed to set it to be a very cheap model, and then it was it used like 15 million tokens in two days. I looked into it and actually all of the context. So these open clause, they have loads of config files and all the rest of it. That all gets uploaded every time you it has a conversation. It's doing that every 38 minutes, which is like roughly 50 times a day.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2847.2,
+      "endTime": 2873.36,
+      "text": "Actually, I think it was 50,000 tokens of context, multiply that by 50 times a day. And I had a look at it and it was like, oh, actually, it is it just keeps reading millions, it is millions of tokens, it's just basically doing that every half an hour. I've since reduced that, but that's exactly like that's the kind of thing that is overloading these APIs where it's just like it's basically just spamming out I need to check these emails, and here's all my context about who I am.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2873.6,
+      "endTime": 2906.16,
+      "text": "And then it's separate to separate to sort of open claw, but this is this is kind of feeds into that issue at the the energy issue and the you like how much of the use of AI is being used for you know for productivity and for stuff that is is good for the world in whatever way you want to put that, whether it's good for business or actually good for humanity, but it's actually being used for good. And how much of it is just it's just burning fuel to basically just answer Google queries, or yeah, or just go on go on to Reddit and just I mean that was the example we gave with with mock, wasn't it?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2907.52,
+      "endTime": 2966.16,
+      "text": "All of this is just being used for AIs to just go and talk to each other and people to watch it. It's it's absolutely like the definition of slop. And this is an example of of kind of you could say the same about some telly, but yeah, yeah. I I mean I'm not but but what I'm saying is with this it's like no one is no one is even you could say that the interaction with a large language model with a chat bot is a lot of it is is pointless, but actually there is a person benefiting from that. What I'm saying here is it's just happening, it's just happening, and no one's actually like no human is involved in this, it's just going away and using energy and doing stuff and then not even producing anything because it's just reading a file over and over again, and that mechanism you're talking about is there to kind of my understanding is that's there to save not energy, but it's there to save the AI from having to try and you know use up its memory, remembering this massive because the basic context window, it can't remember all this stuff, so every time it kind of goes in and starts again, yeah, reads the file and then and then comes away.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2966.24,
+      "endTime": 2978.08,
+      "text": "And that has a way of kind of saving on that context window, but it means that it's just reading, reading, reading, reading. Like you say, if you set that to update every five minutes because the model's basically free, but it's still doing that and using up all those tokens.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2978.48,
+      "endTime": 2984.16,
+      "text": "Smashing through tokens, yeah. No, I mean it's definitely not very good from a sustainability point of view.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2984.48,
+      "endTime": 2989.84,
+      "text": "One other one I was gonna say, like a positive thing. I I heard that they've integrated um was that a positive thing?",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2990,
+      "endTime": 2990.56,
+      "text": "That last thing.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2990.8,
+      "endTime": 3022.08,
+      "text": "No, this is a positive section, it's just that one unfortunately ended up as a as not being positive. It was supposed to be because it was having support for for sort of premium models. We're trying to be positive. Um there was an update at the end of February that has allowed it to have support for Apple Watch. Um so users are the positive thing. Well, it's a positive if you want to use it. If you've got Apple Watch, it's a positive for people with Apple Watches. It means they can they can basically trigger tasks and they can talk to it and give it voice commands from their their watch. Fantastic.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3022.16,
+      "endTime": 3029.04,
+      "text": "Yeah, but you're supposed to be the positive guy. So I mean you you you can like you come up with a better one because I that's fine, that's fine.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3029.28,
+      "endTime": 3038.96,
+      "text": "I struggle to see any uh it's brilliant. I like the core, I like the fact that the positive is you can use your apple. We the I've got an Apple Watch. All the negatives we just gave, and then the positive is you can use your Apple Watch, right?",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3039.2,
+      "endTime": 3078.48,
+      "text": "Yeah, and it's in We WeChat now, which as you know, WeChat never loses any of its memory and is hosted by the Chinese government. So what could possibly go wrong with that? I'm not using I'm not connecting Bob. Yeah, I I think this is I mean, I think this is amazing. Like obviously, obviously the authorities have given permission, like they'd have to have, because Tencent, you know, are a Chinese company based in China. Like maybe so you've got to say okay, it might be a workaround. Yeah, okay, but but they would just block it completely. I mean, I mean WeChat is notorious that even though um it has kind of access to everything, I mean you can't scrape any data from WeChat, it's very closed, it's very closed off.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3078.72,
+      "endTime": 3091.44,
+      "text": "So the fact that they are allowing OpenClaw to use it, I think tells you everything you need to know. Everything you need to know, and I'll I'll leave that one there. That's what we mean. Gathering data. I should leave that one there.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3091.6,
+      "endTime": 3094.32,
+      "text": "Yeah. Um I won't be using it that way.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3094.48,
+      "endTime": 3094.64,
+      "text": "No.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3094.88,
+      "endTime": 3098.24,
+      "text": "Well, we what else have you got? Oh no, we haven't even talked about the cyber stuff.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3098.56,
+      "endTime": 3131.12,
+      "text": "No, well, that was gonna be a big section on its own, but I was trying to do the positive stuff, wasn't I? So yeah, let's do the let's do the bad stuff. I start out by saying the thing that I told you about that you didn't know about is it's been labelled as a PAU. Oh yeah, you did talk about that. Do you remember that? I can't remember what that stands for, but a PAU is some sort of threat. A potentially unwanted application. That's the status. So it's not it's not something that governments or like there is a world authority that that issues PAUs. It's um the big kind of cyber um security agencies like CrowdStrike, etc.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3131.52,
+      "endTime": 3134.64,
+      "text": "But the two big ones, CrowdStrike's one, I'm sorry, I can't remember the data.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3134.88,
+      "endTime": 3136.16,
+      "text": "They have like a database online, though.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3136.4,
+      "endTime": 3147.92,
+      "text": "But basically they they've given it this designation, which is kind of um pretty dodgy. It's basically that's what it says. It says that it's a it's a vulnerable, it's a vulnerability issue, and basically it's dodgy.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3148.24,
+      "endTime": 3149.76,
+      "text": "Massive vulnerability issue, yeah.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3150,
+      "endTime": 3196.56,
+      "text": "But that's a big issue because once it's been given that label, we were talking before about the kind of commercial use case and enterprise use and how it can be used for work, is when when that uh um sort of designation has been given to it, now if you are uh any uh sort of company that that has cybersecurity and and you know uses one of these agencies, that's immediately on your ban list. And your firewall is just gonna take out any access to it. So you've now got this kind of dichotomy where you've got individuals who want to use this because you can basically like they can sit and do nothing all day and get paid for it while open claw does their jobs, and organizations who are shitting themselves and are just like, we need to make sure this cannot get any access to anything we do.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3196.64,
+      "endTime": 3236.88,
+      "text": "And that is gonna be something on Facebook, yeah. But that that's gonna be something to watch, right? Because it it it just shows the difference between like the Facebook safety lady, she's gotta be in trouble. But what I was gonna say is it's like the adoption from individuals and kind of um agile small organizations and the kind of one person organization, right? That's one thing, and maybe in 10 years'time, that's all you know, those are the successful organizations because to be able to use AI properly, you can't be a big organization because you're not you're not agile enough. But at the moment, all of the big organizations where like they're all going to adopt AI and they're all gonna do this, is they can't adopt it that fast because of these issues.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3237.12,
+      "endTime": 3286.4,
+      "text": "And if you're a small organization of one person, you're not gonna be targeted in the same way as you know, one of the big four accountants or or a bank or whatever. So I think this is just one to watch, not just on on OpenClaw and Agentik AI, but but on everything is the security angle and that kind of cybersecurity angle is so different for organizations of any sort of size. And when we talk about those one person organizations, it's gonna apply for them if they become successful. So if you're you know an independent person who's just creating some content or you just run a tiny little business, you make 50-60 grand a year, okay, probably not going to affect you, but if you become successful, then you know it becomes your Trojan, it becomes a Trojan horse to get into your company essentially and and yeah, steal your money in.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3286.72,
+      "endTime": 3311.6,
+      "text": "Yeah, I think if you do that and you're sensible, then you you probably you probably set one of these up and it does all your stuff for you and it probably creates lots of security loopholes, and then you know, once you get once you get going, you you you know, you get somebody in to review that and sort it all out. I I honestly I think this stuff will go away in a way. Like I think I think it'll be both. Like the prop the problem with the problem with it'll go away.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3311.76,
+      "endTime": 3312.88,
+      "text": "I think it'll get worse.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3313.12,
+      "endTime": 3348.96,
+      "text": "No, I think it'll go away. I think it'll get sorted out. Like people will create proper sandboxed versions of these, which are just sandboxed out of the box. The reason OpenClaw's creating so much noise is because it like you can just do what you want with it. You don't need to the default a lot of people have uh especially when it first came out, people were just like installing it on their computer and giving it full terminal command and all the rest of it. That's even within the space of a month. Um, OpenClaw itself like released the on OpenClaw Ansible playbook, which addressed massive loads of security concerns and all the rest of it.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3349.12,
+      "endTime": 3373.28,
+      "text": "So, like, do I think that there are security concerns with it? Yes, and they're huge, and you'd be mad to, like you say, implement it in your large organization right now. However, all this noise is is prompt is actually sort of probably getting all these things fixed quite quickly because there are ways of running these things in a sandbox where they don't have access to be able to wreak havoc effectively.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3373.68,
+      "endTime": 3411.44,
+      "text": "You probably yeah, I probably didn't explain my point. My point wasn't that I think they're not going to improve agenic. My point was that this idea of you know this kind of open source democratized model that everyone can just build and access, I think that is that is only going to get the the the reputational issues and the problems caused by that are only gonna get worse, yeah, and you're gonna end up exactly what you said, which is is the same reason why you know organizations don't just use the best version of Chat GPT or the best version of Claude, they use Copilot or they use their own enterprise model, which is based on you know a cheaper but a sandbox version of it.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3411.76,
+      "endTime": 3446.8,
+      "text": "So that that was kind of my point is this idea that like you democratize it is when when the big incident, when the big leak happens, and then it's not just the big businesses, it's everyone in businesses, then they want something, and that allows the big established organizations to come with their agentic model that allows them to have the functionality but that is you know within the kind of walled garden. I think that's where I think it ends up. It's not that I think they don't fix the issues in agentic AI, it's just this idea of you know this this one that you can just build yourself and and you know you buy a MacBook Mini and you just run it from that.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3446.88,
+      "endTime": 3459.6,
+      "text": "I think that that doesn't feel like it can go that much further because there are just there are just flaws there that uh I think are un un they're unresolvable, I think. Yeah unless you've got a quantum computer at home to protect it.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3459.92,
+      "endTime": 3499.28,
+      "text": "So I I actually think that a huge market no, but I I actually think a huge market in all of this, um, and uh I kind of I'll just give this away. I wish I could build it myself to be honest. It's already sort of happening, so there are already lots of like interfaces for AIs popping up online. So there's there's uh there's examples of like interfaces that allow AIs to view web pages but view them a lot easier because AIs don't need to see the images and all this kind of stuff, and that just wastes tokens. So there are ways of like absorbing that information into an AI in a different way to how a human would absorb it.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3499.44,
+      "endTime": 3535.2,
+      "text": "Um it's a bit like that social network, right? Like a social network for AIs where they can chat with each other. I think there's going to be more and more infrastructure online that's going to be based around AIs and basically allowing AIs to hook up and talk to different bits of the internet and talk to each other in safe ways. Because that's what these APIs do. Like, like if you build an open claw yourself and you build it on a virtual private server and you only give it access to the things carefully, it will probably be it can't do much wrong, can it? Because it can only access what it's got access to.",
+      "chapterIndex": 13
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3535.52,
+      "endTime": 3567.12,
+      "text": "Yeah. However, if you hook it up and give it access to unfettered access to an inbox, yeah, it will go out spamming people, doing all sorts of mad stuff, depending on what instructions you give it. Same thing with a bank account. If you just connect it to a bank account, it'll probably go and spend all your money on something, and it'll be because it misunderstood something that you said or some part of its instructions. Um, however, if it's got a limit on it or a it's an API key for a bank account with $20 in it, a pay as you go something, then that's all it can do, and then you go and fix it and tweak it and whatever.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3567.36,
+      "endTime": 3607.44,
+      "text": "So I do think there's a huge market in a genetic AI and the basically like the A API, so I keep mentioning APIs, like programming interfaces that allow the AI to talk to different um apps and different things without without the overhead of like because the way the the the other the simple way to do it right now is you just give it access to a browser and it can go and browse the web and it's got your credit card details and it can go and do what it wants, but it's a it's not a very precise way of doing things, um, whereas you can actually make it much more precise using APIs. Um and also the LLMs are getting better all the time.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3607.52,
+      "endTime": 3638.32,
+      "text": "So although it leaks API keys is one of the things it's been doing, isn't it? Again, because people talk about API keys properly, because the way people treat API keys is they copy and paste them into a large. Stick it in a word file and save it as API key, and then it just yeah, and then it can get access to its only API key and do weird stuff with it, like leak it and things like that. So um yeah, there's been all sorts of bad stories about OpenClaw, but to be honest, there's loads of people who are just quietly back in the back. They're the exciting, cool stories that are funny and make the news.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3638.4,
+      "endTime": 3641.44,
+      "text": "Like there's also loads of people who are just using it to make money already.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3641.76,
+      "endTime": 3683.6,
+      "text": "Let me just so so the that PUA status I talked about, so why it happened apparently was it started appearing on enterprise or company computers, which IT departments didn't know about, and there's apparently two ways that happens. One is the developer downloads a free tool and OpenClaw is piggybacked in so it gets into the organization. The other one is an employee installs it around their kind of restrictions, and then that creates a massive security hole. So that apparently is the reason why they've given it this kind of designation. Um, and then now the kind of main security scanners are marking OpenClaw as a PUA, and then they basically just prevent users from installing a skill that might steal.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3684.16,
+      "endTime": 3685.12,
+      "text": "Is that what that does then?",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3685.36,
+      "endTime": 3697.2,
+      "text": "So it makes it a it said browser cookies crypto. I'm not sure what companies have crypto wallet keys in, like it's not most big enterprises, but um no, but browser cookies, yeah. Interesting.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3697.76,
+      "endTime": 3731.36,
+      "text": "Yeah. So what was the thing I was gonna talk about? There was something I was gonna talk about, which was which was um oh like that okay, it was just a bit it was just a really like it's a bit of a nerdy story, but but one of the things this was a few weeks ago actually when um shortly after OpenClaw came out. So if you're a developer, there's something called MPM, which is for managing, it's a package manager for Node, which is a it's for m creating websites, basically web apps actually. Node. Node, node.js, yeah, yeah, yeah, exactly. I know what that is.",
+      "chapterIndex": 14
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3732.16,
+      "endTime": 3738.08,
+      "text": "I've been Vive coding. It's been vive coding. I'm gonna be the technical one soon, and you're gonna be the the religious one.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3739.6,
+      "endTime": 3745.44,
+      "text": "Don't think so. Not unless it's um what's it called? What's the religion that the Crustiferianism?",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3746.8,
+      "endTime": 3763.04,
+      "text": "Oh, we haven't said that, or maybe we said that in a previous episode. I think we mentioned the religion that they came to. Open claws had developed their own religion called Crustaferianism. Crust, as in crustation, as in claws, as in lobsters, crabs, crayfish, etc.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3763.44,
+      "endTime": 3801.76,
+      "text": "Yeah. Um, yes. So so yeah, so this MPM command, basically open so open claws have something called skills. Um, and skills are basically just they're they're effectively just files that people write that are like an MD file, right? They're MD files, yeah, markdown files. So they they're my they're markdown files that give imbue your you install them. They're a bit more complicated than that, but they imbue your ver your instance of OpenClaw with the skill. So like it could be a skill to use a browser, it could be a skill to um buy pizza, whatever, APIs, whatever. Um and because people create these skill to buy a pizza.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3802,
+      "endTime": 3845.2,
+      "text": "Well, I know it's just quite funny. Yeah, I keep using this pizza example as a great example. Um but but because people were writing these skills using AI, of course, they were like developing these skills that they put on this um, I think it's malt hub, um where you where you have the skills. Uh and um have you got the skills, Jimmy? I've my Bob's got skills, Bob's got skills, and he's got a soul. I'm struggling. Um so so yeah, people people were writing these skills using AI, of course, and AIs hallucinate. So one of the AIs hallucinated this NPM command, so it was a command that you would normally, as a developer, you would run it, and um it would install something on your computer or take some action.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3845.36,
+      "endTime": 3888.48,
+      "text": "Uh and this this command got hallucinated, and then because other people were writing skills based on other skills, apparently this hallucination, which was just a made-up skill, it didn't it a made-up um command that didn't do anything, uh, but because other people were writing skills based on that, over I think it was like 200 other skills ended up referencing it. So it basically it ended up this fake command ended up like it was kind of this like massive meme, it spread throughout these other skills as a made-up command that just didn't exist, and a developer spotted it and then went and created the command on NPM, so they pushed it to npm on GitHub, which is an open source project.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3888.64,
+      "endTime": 3919.28,
+      "text": "It got accepted, and I don't know what it actually got it to do, but then of course, you've got all these like malt um these not these open claws that have like that are picking up these skills that run this command, and I don't know, let's just say it goes and sends some Bitcoin to his wallet or something like that. So, like it was this mad thing that like I don't think any it's definitely never ever been seen before. It's almost like a malware or a virus, but no, but the person created it because it got hallucinated by an AI in the first place.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3919.68,
+      "endTime": 3923.44,
+      "text": "Yeah, I mean they send it like it's just like there's no reference point, right?",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3923.68,
+      "endTime": 3937.52,
+      "text": "Because it's never happened before. An AI hallucinated something that was made up, but then it spawned into existence as a bit of malware off the back of the AI hallucinating it in the first place. Um yeah.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3937.84,
+      "endTime": 3972.64,
+      "text": "I I I thought this was quite funny. I just there was a summary timetable that when I when I researched this earlier, I got a summary timetable of recent developments. And just the last two are quite funny. So February the 14th, OpenAI acquisition foundation of the um Open Claw Foundation. Um February the 17th, the NPM supply chain attack, where it unauthorized shadow AI. In stores. 21st, they brought out the new release, which had the Apple Watch support and sub agent nesting feature. And then this is the bit they like. February the 24th, in the morning, they hardened security and added Claude 4.6 support.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3972.72,
+      "endTime": 3983.28,
+      "text": "And then in the afternoon, Google and Anthropic bandit. Major providers block OpenClause proxy usage. So um 24th was an interesting day for OpenClause.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3985.92,
+      "endTime": 3988,
+      "text": "Yeah, of course. Yeah, yeah. Yeah.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3988.16,
+      "endTime": 4021.6,
+      "text": "I mean, well, Gemini, Meta, and Anthropic, I think, all bandit. So yeah. Apparently it was MPX React CodeShift. Oh, yeah, yeah, yeah. I have heard this story. Yeah, I've heard this story. Just to finish off, because I think there's a really interesting point you've just made is these two files, the soul file, so the soul md file and the skill md file. I think understanding those two actually helps you to understand what this is. So the soul file basically gives it its essentially its personality, right? And then the skills file gives it its its raison detra.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4022,
+      "endTime": 4022.88,
+      "text": "The soul file.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4023.04,
+      "endTime": 4046.64,
+      "text": "Yeah, the raison detro is the soul file, and then the skills file gives it its actual practical usage and its ability. So you're giving it a personality and you're giving it the ability to do things. That that's a really we maybe you should have said this at the beginning because it feels like that's a really good way to explain um basically how you create its its Yeah, it's person it's persona, it's persona, it's identity. Cool.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4046.96,
+      "endTime": 4047.2,
+      "text": "Nice.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4047.68,
+      "endTime": 4073.92,
+      "text": "Well, um I hope everyone's enjoyed seeing mine and Jimmy's faces. Uh next week we will uh try and have a nice fancy background for you so that we uh sex things up a little bit. If we could make things sexier than sexier than they already are. This is the sexiest AI podcast in uh the sexiest AI podcast involving two 40-year-old men from the UK in China.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4074.64,
+      "endTime": 4083.12,
+      "text": "Speakers of 145 But yes, it is the I'm forty. What did you say it's the sexiest?",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4083.44,
+      "endTime": 4087.36,
+      "text": "The sexiest AI podcast run by two British people based in China.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 4087.92,
+      "endTime": 4088.96,
+      "text": "That's what I thought you said.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 4089.2,
+      "endTime": 4090.8,
+      "text": "And on that note, see ya.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4091.36,
+      "endTime": 4091.68,
+      "text": "See ya",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4104.08,
+      "endTime": 4173.6,
+      "text": "down in the bayou where the coal run slow Big Pop bubbling on a low flame blow crayfish clicking like a keyboard jam Season with secrets and a startup plan Open clostern with a silicone spoon Talking about freedom under a delta moon But the water's getting hotter every day You can taste that change in the rules they lay They said it's over, let the whole world see Pattenstrip like the brain sea When the tide rolls in from the venture shore. You don't quite know who you're cooking for. Stir that gumbo. Let the red tail boil, through the rise up to the pepper and oil. Jimmy didn't understand, didn't get the law before he did videos.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4173.76,
+      "endTime": 4187.92,
+      "text": "Folks knew he wasn't other people at all. Now the pots got thicker. Do you can feel the draw? From open slow, turning in cloth",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4193.52,
+      "endTime": 4201.92,
+      "text": "Peter Steinberger with a silver grin. Say, come on, boys, let's catch this in.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4204.96,
+      "endTime": 4236.32,
+      "text": "Took him up river with a big laps glow where the money moves and the pipelines flow. Said open the eyes, got a bigger flame. Let a spice ratchet brand name. But when you trade that swamp for a glass wall hall sometimes your open hand becomes a claw.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4239.36,
+      "endTime": 4289.28,
+      "text": "Equity simmering shares on ice. Freedom tastes different at a higher price. With the value, fans signs corporate law. You can hear that hand in the closing claw. Stir that combo. Let the red tail boil, truth rise up through the pepper and oil. Jimmy didn't understand, didn't get the law. Before he did videos, folks knew he was another people at all. Now the pots got thicker. You can feel the draw. From opening low, turning in the clothes, crawl. Spoons clatter like a turn sheet fight by you, moon, inflorescent light. Is it still open if the gate's got a key? Is it still free if you got to agree?",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4289.68,
+      "endTime": 4295.68,
+      "text": "Great fish scatter when the heat gets raw. Hard to stay open with a tightening claw.",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4312.64,
+      "endTime": 4359.44,
+      "text": "By you get smaller, shit older stronger. Stir that gumbo. Let the red tail boar. Truth rise up through the pepper and hole. Jimmy didn't understand, didn't get the law. Before he did videos, folks knew he wasn't other people at all. Now the pots got bigger. You can feel the draw. From open flaw, turning in the clothes, claw. Yeah, the pots got bigger. You can feel the draw. From open the flaw, turning in the clothes, claw",
+      "chapterIndex": 15
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "startTime": 4363.52,
+      "endTime": 4372.96,
+      "text": "down in the bayou where the free winds blow. Some claws open, some claws close.",
+      "chapterIndex": 15
+    }
+  ]
+}

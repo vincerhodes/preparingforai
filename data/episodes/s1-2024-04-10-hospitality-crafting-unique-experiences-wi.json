@@ -1,0 +1,777 @@
+{
+  "slug": "s1-2024-04-10-hospitality-crafting-unique-experiences-wi",
+  "buzzsproutId": "14861250",
+  "title": "Hospitality: Crafting Unique Experiences with AI",
+  "date": "2024-04-10T23:00:00.000Z",
+  "season": 1,
+  "durationSec": 2596,
+  "format": "deep-dive",
+  "era": "early",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/14861250-hospitality-crafting-unique-experiences-with-ai.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Ever wondered how the charm of your favorite barista could possibly be replicated by a robot? Could large language models help chefs put together off the cuff menus and wine pairing options in seconds? This week we navigate the swiftly evolving landscape of AI in the hospitality industry, where the future of your dining and travel experiences hang in the balance. We pulled back the curtain to reveal how AI is transforming everything from personalised meal suggestions to the inner workings of hotel operations. Can robots truly replace the human touch in the hospitality industry? We chewed over this topic in our discussion, considering the role of automation in restaurants and the cultural shifts it may bring about. From the tipping culture in the United States to the financial implications of dining out, we dissected the benefits and potential pitfalls of having robots behind the counter. To round off our deep dive, we took a heartfelt look at the irreplaceable human element within hospitality venues. Through a candid conversation about the art of coffee and cocktail making, we explored whether the camaraderie and warmth of a seasoned bartender could ever be emulated by AI. We also pondered the possibility of universal basic income reshaping the industry and the ever-important social fabric that independent businesses contribute to communities. Sit back, pour yourself a drink, and join us for a thought-provoking journey through the intersection of technology and human connection. Clickable Links AI in Hospitality (Hoteltechreport.com) Welcome to the AI Hotel (Outro Track. Suno, Jimmy Rhodes, Matt Cartwright)",
+  "summary": "The hosts test AI against the human touch in hospitality. Recommendation engines, hotel ops platforms and robot burger-flippers are real, but both conclude front-of-house survives on person-to-person experience — robots in dining rooms are a fading novelty, while kitchens, cleaning and back office face the real 2-3-year threat. Matt adds hygiene and no-tipping arguments, worries big chains will absorb the market, and lands on practical advice: chefs should use LLMs for menus and allergies, and customers should vote with their wallets for independent venues.",
+  "keyTalkingPoints": [
+    "AI already recommends meals, prices hotel rooms and detects guest emotions from messages (Alice, Duvet/Duv, Duetto, Allora and more on Hotel Tech Report)",
+    "Front-of-house survives because hospitality is person-to-person by definition; robot restaurants are a novelty you visit once",
+    "Kitchens are different: McDonald's robot burger-flippers will roll out — 'anywhere you don't have an open kitchen' is exposed",
+    "Cleaning is already robotic (office atrium robots replaced human cleaners); hotels' communal areas follow, then rooms",
+    "Matt's contrarian hygiene take: robots remove infection risk and hair-in-food; US diners save 20% with no tipping",
+    "Backlash will be consumer-led — poorly unionized workers cannot resist; independents survive if customers vote with their wallets"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Of all episodes so far, hospitality is where jobs will be impacted least — front-of-house is interaction by design",
+      "Robot waiters will always be a gimmick; robots are more likely in kitchens because you cannot see who cooks your food",
+      "Keep an eye on robotics: cleaning and back-office hospitality roles are next, probably 2-3 years away",
+      "The backlash will be customers rejecting lifeless robot venues — a novelty that fades fast"
+    ],
+    "matt": [
+      "Back office and admin roles follow the office-work episode; the concierge goes first even though he wants it to last",
+      "Hygiene and pandemic risk argue for robots delivering food; no-tipping and lower prices benefit consumers",
+      "Big chains adopting efficiencies will absorb the market — consolidation risk for independents",
+      "Vote with your wallet: support independent venues with human staff; LLMs are genuinely great tools for chefs (allergies, menus, wine pairing)"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-04-10-hospitality-crafting-unique-experiences-wi-1108.391-robotics-will-hit-hospitality-cleaning-and-back-",
+    "s1-2024-04-10-hospitality-crafting-unique-experiences-wi-709.519-kitchen-robots-are-more-likely-than-front-of-hou",
+    "s1-2024-04-10-hospitality-crafting-unique-experiences-wi-1427.477-robot-hotels-and-restaurants-will-be-a-short-liv",
+    "s1-2024-04-10-hospitality-crafting-unique-experiences-wi-1270.81-efficiency-gaps-will-drive-acquisitions-and-mark"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Speaker 4"
+  ],
+  "chapterCount": 6,
+  "turnCount": 100,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 3
+    },
+    {
+      "title": "AI in the hospitality industry",
+      "startTime": 102
+    },
+    {
+      "title": "The current effect on jobs in hospitality",
+      "startTime": 1020
+    },
+    {
+      "title": "The backlash",
+      "startTime": 1545
+    },
+    {
+      "title": "Actions that people can take to get ready",
+      "startTime": 1958
+    },
+    {
+      "title": "Welcome to the AI Hotel (outro track)",
+      "startTime": 2498
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.568,
+      "endTime": 65.515,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human and social impacts of AI. We're making it our mission to help you prepare for the human social impacts of AI. Welcome back to Preparing for AI, the 378th most popular podcast on artificial intelligence, but the number one podcast on the effect of AI on jobs. I'm Matt Cartwright and I'm Jimmy Rhodes, and today we are going to look at the hospitality industry, so maybe one that doesn't seem an obvious fit with AI, but this is maybe a really good example of where the line between AI and technology becomes blurred, and me and Jimmy were talking, as we kind of prepared this episode, about things like app-based ordering, which is clearly just an advance in technology it's, you know, in its most basic form.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 66.335,
+      "endTime": 75.179,
+      "text": "But AI is increasingly being used in the food service industry to enhance customer experiences, including making food, drink recommendations, cocktails, etc.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 80.46,
+      "endTime": 101.562,
+      "text": "And restaurants are employing AI-driven apps and recommendation engines to suggest meals based on customer preferences, for example, and we've got things like AI-driven kiosks and restaurants which aim to reduce wait times and apparently improve the ordering experience by offering personalized meal suggestions. So, jimmy, are there any specific developments which you think are particularly relevant to hospitality or anything sort of more general that you wanted to bring us up to speed with?",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 102.825,
+      "endTime": 145.4,
+      "text": "So I think we talked about robots. A few weeks ago, I think, mcdonald's have been testing out a robot burger flipper, which is, you know, is something they're already working on. But I think, going back to what you were talking about a minute ago, so I think the advances in large language models and some of the things we talked about in previous episodes, more generally, there's no, there's no recent advances that specifically will impact the hospitality sector, but, more generally, we're moving towards that world where, instead of just ordering your food through an app at a table or ordering it through an app at McDonald's or something like that, you might get specific recommendations.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 145.681,
+      "endTime": 152.651,
+      "text": "You might get recommendations that are tailored to your needs, because AIs have a better understanding of the world now.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 154.26,
+      "endTime": 188.226,
+      "text": "And is that, I mean, do you think there's we're maybe jumping ahead a little bit, but do you think that's displacing people at the moment or do you think it's, you know, just making a kind of positive? Because I think for most people and we had a conversation actually about algorithms driving people down the route that they they don't, you know, they don't try new and different things, because it just keeps suggesting that they, you know, try things that fit in with what they like. But I, I do think most people would say that, you know, being able to have more personalized recommendations is a is a good thing in many ways.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 188.286,
+      "endTime": 199.124,
+      "text": "I mean is is this a kind of positive story at the moment that we're seeing, or is the, you know, the kind of dark impact on jobs or impact on? Is there a negative in there, do you think?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 200.209,
+      "endTime": 228.849,
+      "text": "I don't think so. I mean we'll get into jobs later on, but I actually think of all the episodes we've done so far, the hospitality industry is one where I don't think so. I mean we'll get into jobs later on, but I actually think of all the episodes we've done so far, the hospitality industry is one where I don't think jobs will be impacted as much. I think a lot of the things we've talked about already are supplementary to the industry, so you know better recommendations and things like that. I think the reason I say that I don't think that jobs will be impacted as much as because it feels like the hospitality industry.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 228.889,
+      "endTime": 236.153,
+      "text": "That's the whole point. Right, it's. The point is that you want that hospitality and you want that to be a person to person experience.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 236.82,
+      "endTime": 275.08,
+      "text": "So there, you go you heard it here first no threat to jobs. Thanks for listening to the episode and do follow and subscribe and come back next week. I've got some examples. I mean, this is still on a positive note, I guess, but I've got some examples of AI tools. So I found a site called Hotel Tech Report and I think the best thing to do actually I'm just going to read through these examples because we want to try and give you know, especially for people in that industry, to give them know specifics, and we, we, we sort of criticized ourselves a little bit, I think, in the first few episodes about how we said you know, go away and try large language models without giving specific information.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 275.301,
+      "endTime": 315.732,
+      "text": "But, um, I didn't realize how many of these tools are, are and you know, these are kind of specific to hotels, which kind of seems to be somewhere where there's a lot of activity. So maybe I'll just go through these platforms. So, hotel Operations, something called Alice Housekeeping, by Actable spelled A-C-T-A-B-L, which leverages artificial intelligence to automate and optimize room assignments. Duv Communication Hub uses AI and machine learning to detect and track guests feelings and emotions by analyzing words, phrases and emojis used during messages throughout the guest journey. That sounds kind of equally interesting and incredibly foreboding.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 316.253,
+      "endTime": 355.603,
+      "text": "Game changer by duetto, pricing algorithms, leverage ai to help hotels determine the right price for their rooms and maximize yield. Ideas, revenue solutions, which leverages AI to help hotels forecast accurately, price confidently and achieve greater profitability. Then in marketing, alloraai, which creates personalized booking experiences for every guest throughout the online journey, driving brand engagement. Guest acquisition, minded demand plus drives more direct bookings using ai to manage your listings. Revenate marketing uses ai to synthesize and de-dupe guest profiles within the hotel crm project.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 356.285,
+      "endTime": 394.106,
+      "text": "And then there are more. You know examples in hotel sales and mice guest experience, some stuff in here around human resources. So hotel effectiveness, perfect lab by Actable leverages machine learning and AI to help hotel operations professionally maximize and optimize staff in their properties, to reduce OPEX and grow NOI, whatever that means. So I think I'll stop there. I mean that's quite a few, but I wanted to read them out because I thought it was just interesting. If anyone works in the hotel industry and they're thinking, what can I do, that there seemed to be on this hotel tech report, just as one source, you know, tons of specific platforms that are cropping up for this industry.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 394.801,
+      "endTime": 409.773,
+      "text": "And actually just to clarify a point, we're talking about hospitality this week. Obviously, a few episodes ago now two or three episodes ago, we talked about office work. I think if we're talking about if we, if you go back to that episode, you know, in the hospitality industry",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 415.32,
+      "endTime": 431.511,
+      "text": "the kind of back office work is going to be affected and you probably need to refer back to that episode in terms of, like, any kind of administrative roles or that kind of thing. They're clearly going to be affected. But I guess I was focusing more on the front office and they're clearly going to be affected, but I guess I was focusing more on the front office, person to person kind of hospitality, like what you traditionally think of as hospitality roles.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 431.931,
+      "endTime": 438.397,
+      "text": "Yeah. Yeah, I mean, if you listen to this for the first time, I mean, do you go back to the previous episodes? But I think that's right.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 444.02,
+      "endTime": 474.163,
+      "text": "The office work episode was kind of applies across almost every industry because it's anything that's kind of administrative, executive tasks, and equally the kind of robotics episode. I know we're going to talk some robotic stuff on this but, um, you know another episode that kind of covers multiple industries. There are some other examples which I guess are more obvious, ones that we're seeing now. So you know, cleaning, reception, ai, robot concierge. So there's a particular one hilton have called connie, which is powered by ibm's watson, um, which is ibm's watson is a large language model it was.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 475.225,
+      "endTime": 504.712,
+      "text": "I think it became best known because it, um, it won a game of jeopardy against a group of of kind of champions. Seems to be less well known now, but it was one of the big ones before and I think, like most ibm things, they may be going more for the kind of champions. Seems to be less well-known now, but it was one of the big ones before and I think, like most IBM things, they may be going more for the kind of corporate market Chatbots, obviously for guest services. So I think you can think there are hotels that exist at the moment. You know even some of the kind of budget chains that have elements of it, but I'm thinking of the kind of pod hotels and the kind of, you know, express or light, where you don't have a check-in.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 505.052,
+      "endTime": 542.009,
+      "text": "You can see how that's currently technology but how AI could be used to kind of streamline and improve that process and kind of personalize it. The cleaning one is quite interesting. Where my daughter goes to nursery is a big it's not hospitality but it's a big office building and there are robot cleaners. For the last year and a half, previous to that, there were cleaners that were cleaning the big kind of open lobby atrium area. Now there are two robots in there. So you know that. I guess you can see. Even if it's not people's rooms initially, you can certainly imagine in hotels and restaurants that your communal areas will be cleaned by robots.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 542.37,
+      "endTime": 549.325,
+      "text": "Definitely. I think if the robots are good enough and hotels can make that cost saving, then they probably will. I guess Eventually they will clean the rooms.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 549.345,
+      "endTime": 553.25,
+      "text": "I'm sure, I'm sure they will it, just maybe not yet. Yeah.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 553.4,
+      "endTime": 579.468,
+      "text": "I mean not to keep referring back to previous episodes, but I guess, as per that robotics episode, that area is moving really fast and things have actually even moved on a little bit even since we did that episode a few weeks ago. But I can definitely see that being a kind of medium, more medium to long-term threat to jobs in this kind of industry and I think another area where it's there's probably a sort of really big positive there is.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 579.949,
+      "endTime": 612.69,
+      "text": "This is thinking more of kind of hotels, but it would also work for you. You know restaurants and bars and stuff in tourist hotspots and actually other areas. You know, thinking more broadly of hospitality, you know we could say kind of POIs, places of interest and big kind of tourist attractions, that helping with the language barrier. So automated translation tools that you know mean that you don't have to have people who speak 10 different languages. You can still have people but you can complement them. I don't want to be talking about the augmentation, because I think the augmentation argument is often used as an excuse for the stealth.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 613.211,
+      "endTime": 650.028,
+      "text": "You know cutting of jobs, but you know this is, I think, an example of augmenting people with sort of translation software, initially automated kitchens, elements of it anyway, in line with what you said, with the kind of McDonald's example. So probably this is kind of fast food more than it is more kind of refined cuisine and robotic couriers that you know maybe not delivering food to people. We've both been to a restaurant in Beijing, in China, which is a hot pot restaurant. For those of you that don't know, hot pot is a kind of big kind of vat in the middle of the table and you kind of put your own food in and then you dip it in a sauce and eat it afterwards.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 650.5,
+      "endTime": 681.928,
+      "text": "They have a sort of specially themed AI version of this chain, heidi Lau. Heidi Lau has a restaurant in London actually, but not an AI version. But there are still people delivering the food, but they come to the table and there's actually a robot that comes to the table with the food on and they take the food off and deliver it to you and put it in if you want, and you can also look at how they have robots that are picking. So you choose your kind of ingredients from, let's say, 50 different things. You can choose meat, vegetables etc. And the robots in the kitchen are picking them off the racks.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 682.008,
+      "endTime": 709.459,
+      "text": "I think the food is still prepared by people, but you've got robots picking the stuff up that you can go and look at. You've got then robots delivering and then people accompanying the robot and delivering the food to the table. So you know, it's kind of already happening A bit of a gimmicky thing at the moment and I wonder if it kind of stays like that actually. But you can see some of the uses you know, particularly that kind of restaurant where you can pick those ingredients. You don't expect to have someone necessarily a robot cooking them yet, but those robotic arms to pick.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 709.519,
+      "endTime": 758.609,
+      "text": "It's quite easy for for that kind of thing to be implemented I think my view on that, like, if anything, that side of it is gimmicky and I think it will always be a gimmick. This is just my opinion now. I think it will always be a gimmick because we should say this restaurant, I mean, it is designed to be a gimmick of course, but but my point, what I'm trying to say, is that I think that will always remain a gimmick because, again, like the front of the restaurant where you're eating, that's where you want the person-to-person interaction. You want someone to come to your table. You you want to interact with people and I think, in a world where there's robots everywhere in the future if that's what we're talking about I think you're actually more likely to have robots in the kitchen cooking because you can't see who's cooking your food.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 759.231,
+      "endTime": 802.07,
+      "text": "So, not necessarily positive to all you chefs out there, and I think this is a way off. I think it's a way off. But, as I mentioned earlier on, you've already got that example of the. Mcdonald's are testing a robot that can flip burgers fairly straightforward task for a robot and I'm sure they'll be rolling that out in the not too distant future. I can actually see that kind of back office space in the kind of hospitality industry. Obviously, in high-end restaurants you're still going to potentially expect a chef to be to be actually in the kitchen doing the doing the work and there's and there's a flair around that and all the rest of it, but there's probably a lot of restaurants where you're not that bothered so it's a bit like other industries where we've said at the top, you're safe yeah, at the very top.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 802.11,
+      "endTime": 816.605,
+      "text": "It's not going to replace the, the big, you know the most famous celebrity chefs. It's not going to replace a chef in a michelin-starred restaurant, but it, you know, we said fast food but also kind of you know those middle sort of family restaurants. Does anyone actually care who's cooking the food?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 817.186,
+      "endTime": 824.309,
+      "text": "no, I think. I think in pizza hut, mcdonald's, any of those kind of places, anywhere you don't have an open kitchen.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 824.931,
+      "endTime": 833.473,
+      "text": "Basically, it's already been decided that we don't care if, if, if we care, there's an open kitchen. I I kind of think that's almost the way to look at it exactly like I don't.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 833.513,
+      "endTime": 854.669,
+      "text": "Yeah, exactly, it wouldn't bother me whether my pizza hut was prepared by a robot, but I can imagine that most people would still want to interact with waiting staff and actually have that human to human interaction, um, you know, at your table I'm going to challenge you on that and and the reason I'm going to challenge you and I appreciate not everyone's in the same space.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 854.689,
+      "endTime": 895.61,
+      "text": "So I'm, you know, for various reasons, sort of more cautious of of covid than a lot of people are. But if you think about when a lot of the, the sort of tools that we talked about for remote ordering and stuff came in, they came in because of the pandemic right. They came in to keep people from having to, you know, interact when they were trying to stay safe. Now, you know, if you remove sort of service people, you remove the risk of infection and you know, think what you want about covid. There may be another pandemic. You know looks like bird flu is now in, you know, infecting cattle. Who knows what's going to come about as a result of that?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 895.972,
+      "endTime": 933.266,
+      "text": "You know we've got measles, outbreaks, flu. I wonder whether, if things head in the direction that, I think that they will, and there is, you know, at some point, a backlash in kind of health. Well, actually there's a positive story here in terms of, you know, robots delivering food takes away the risk of interacting with a stranger who could be passing something on. So this is a kind of hygiene thing. I mean even in the kitchen. You know there is a hygiene thing that if it's a robot, presumably it's easier to make the preparation of food very hygienic because you don't have the human element of people you know breathing in and potentially you're not going to get hairs in your food right, because there's a robot preparing the food.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 934.39,
+      "endTime": 939.632,
+      "text": "Yeah, and I mean some of our viewers, listeners maybe from the.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 940.481,
+      "endTime": 949.695,
+      "text": "I think they're called readers, apparently. If you listen to Rory Stewart and Alistair Campbell, they say that podcast. Well, Rory Stewart said that podcast listeners are called readers.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 950.74,
+      "endTime": 966.321,
+      "text": "You've given away your political leanings there. But fair enough. So our readers in the US? I suppose a little benefit for them is no more tipping If we've got any. If we've got any. A side benefit for them is no more tipping too got any.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 966.341,
+      "endTime": 998.284,
+      "text": "Uh, a side benefit for them is no more tipping too. Yeah well, that's a massive I mean that's a massive benefit. So for, if you're in the us, we've just reduced your, your bill by 20 and presumably the price of the food is going down anyway because the preparation costs, so for for the consumer maybe robots in restaurants is a is a real cost saving potentially, although I think the reason they have such a tipping culture in the us is because they don't pay the staff, so I'm not sure. A robot would actually be cheaper. I I worked in restaurants in the us and my salary was a dollar and everything was tips.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 999.072,
+      "endTime": 1011.316,
+      "text": "So you're right so they'll have to pay any of the people that work there an actual wage well, yeah, so maybe, thinking this through, your jobs are probably safe if you're in the us, because you rely on tips",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1019.967,
+      "endTime": 1024.054,
+      "text": "so let's look at where it's affecting jobs, or is it affecting jobs?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1024.215,
+      "endTime": 1057.362,
+      "text": "I think we sort of said at the beginning that we don't think it massively is. So maybe this is a short section, but I think there are examples. I think it's another example of an industry where it's not going to be a big obvious impact because it leads to, you know, a reduction of roles. When big fast food chains put in automated ordering counters or when a hotel replaces a night concierge with a robot counter, but that doesn't, you know, that doesn't go across the board and it's not all roles and some of those things we've seen. So, if you know, if we talk about the kind of ordering counters, they already exist.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1057.871,
+      "endTime": 1088.363,
+      "text": "Right, if you go to, for example, a mcdonald's or kfc in a, in a, an airport, for example, there is nobody serving you. There are people getting the food out afterwards but everyone's ordering at a desk. So you know that's kind of already happening. But there are examples out there. It's, it's, I feel, like a broken record, but it's the kind of. Maybe it's not even a stealth thing, it's, but it's that drip, drip, drip. It's not a big. We don't foresee, I don't think a big kind of everyone's going to cut all their waiting staff in the short term anyway.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1088.95,
+      "endTime": 1105.125,
+      "text": "I don't think so. I think the things to keep an eye on here. So I think this is an industry where less jobs have been impacted already. I think if you work in the back office, then potentially those jobs might be a little bit impacted a little bit sooner,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1108.391,
+      "endTime": 1153.918,
+      "text": "might be a little bit impacted a little bit sooner if you're, if you're front of house, then I think that there's always going to be a there's always going to be a demand for that, like human to human interaction, like I say, like that kind of personal experience which I think will pervade into the future. But what I would keep an eye on is the story around robotics, and I think that's moving very, very, very quickly right now. I'm sure we'll do future episodes on it. So that's the kind of thing I would listen out for, because if you work as cleaning staff, if you work as if as back office staff in a, in a restaurant, for example, then I think those are the kinds of role, the jobs that will be there'll be, there'll be next, and it's probably medium term, it might be like two to three years away, but I would keep an eye on that robotics space.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1154.419,
+      "endTime": 1178.54,
+      "text": "There's the rite of passage for kind of you know, youngsters who would work in supermarkets and well, I say youngsters, I certainly did work in supermarkets and bars and restaurants those jobs maybe won't exist. You know, they're kind of really junior jobs, so maybe that's a good thing. Maybe, you know, young people don't have to rely on part-time jobs. They can get their universal basic income when they turn 15.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1180.11,
+      "endTime": 1183.855,
+      "text": "Yeah, although that's a bit sad in a way, because I They'll be coders.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1184.116,
+      "endTime": 1189.263,
+      "text": "They'll be fine because they'll be the ones who are actually able to do jobs. It's the people our age that need to worry.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1189.623,
+      "endTime": 1193.015,
+      "text": "I don't think we've done an episode on coders yet they're. They're going this year.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1193.417,
+      "endTime": 1199.022,
+      "text": "Yeah, and maybe we should say me and Jimmy. We're in our early twenties, so yeah,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1208.97,
+      "endTime": 1209.111,
+      "text": "we were.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1209.131,
+      "endTime": 1229.796,
+      "text": "No, I mean, I would keep an eye on those spaces. I think that, um, yeah, I think there's what I was. What I was gonna say before is I think there's something a little bit sad about that for me if there won't be any more kind of bar work and working in clubs, because I really enjoyed those jobs actually, I mean, I don't think I enjoyed them at the time, but like my nostalgia for them, I did. I enjoyed them at the time. Yeah, maybe I did enjoy them at the time, but yeah, I like those were.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1229.996,
+      "endTime": 1270.224,
+      "text": "That was kind of a rite of passage, I think exactly yeah, one thing that that we'll see as an effect for sure is that your businesses that don't adopt these efficiencies and again, this is not every sector we're probably looking at hotels, fast food initially, but if they don't adopt the ao efficiencies that we know others are making, it's going to be difficult for them to compete on price. So you know, like we said, at the top of the market you're paying for that personalized service lower down if you don't adopt them. You know, okay, maybe the lower wages of hospitality mean there's sort of less of a pressure to cut roles from a financial point of view, but you also have really really low margins in a lot of these areas.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1270.81,
+      "endTime": 1301.421,
+      "text": "So you know you're not going to be able to compete and I think, sadly that means potentially what we might see is, you know, kind of acquisitions and mergers and the big players kind of you know absorbing more of the market because they're able to make these efficiencies. You know absorbing more of the market because they're able to make these efficiencies. So maybe the jobs are still there, but it's maybe much more difficult for you to start up a little. You know fast food business. Although I guess you know, if AI is cheap enough, you can adopt it. So if we think the price is going to come down, maybe that's not too much of an issue.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1302.351,
+      "endTime": 1337.898,
+      "text": "You know, and robots will surely eventually be able to perform the housekeeper role, um, and some, if not all, of the reception roles. So you know, you might have a person on reception. That's kind of. You know, there is the kind of figure, but actually most people are going up to to the counter. That's automated. You, you check out of a hotel. Now I mean, how often? How often do you actually go and check out? You usually just dump your key unless you need to request a service. So I kind of think for most people that's not really something that they would worry about. You'll maybe not notice it until it's gone and then you'll long for the days of.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1338.5,
+      "endTime": 1364.757,
+      "text": "You know the concierge with the big tash and the big long coat that I like those guys. Anyway, I think there was always a kind of. It was always a man in his kind of late fifties, early sixties that that looked very proud of that job. The concierge role for me is this, this kind of I don't know. There's something almost romantic about the idea. I think that will be one of the roles that goes first, but I think it's one of the roles that I would I would kind of like to see go last.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1365.459,
+      "endTime": 1366.841,
+      "text": "But why? Why do you?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1367.102,
+      "endTime": 1375.757,
+      "text": "because we because because I'm an old romantic, jimmy, and I'm also a doomer that doesn't want, you know, doesn't want things to change. I want to go back to how it was in 1995.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1376.078,
+      "endTime": 1379.118,
+      "text": "Oh no, my meaning is why do you think that's one of the jobs that will go first?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1389.79,
+      "endTime": 1392.84,
+      "text": "Because, if anything opposite, I feel like why? Why do you have that? Why do you have a concierge now, like the, the hotels that have?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1392.86,
+      "endTime": 1426.996,
+      "text": "them have a concierge, not because they need to, because an llm is able to provide, you know, reams of information personalized. I compare it to, like you know, the london taxi driver that learned the the knowledge right and then gps came in and I think they still do learn the knowledge yeah but the gps came in and the gps will not only know the routes but it will be able to look at what route is the best at that time, according to traffic and exact conditions. So you know, the automated concierge at some point becomes better than the person but I don't think that's why you have a concierge.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1427.477,
+      "endTime": 1475.105,
+      "text": "You have a concierge because it makes you feel special. I think me and you have flipped roles. I think we have, but I, I this is where and and we were going to talk about. We talk about the backlash every um week and I think this. I think this is one of those areas where, if anything, the backlash my feeling is the backlash will be actually people don't want robot hotels and robot run hotels and lifeless, soulless venues, you know, bars, restaurants, things like that. I think that and and I think that will happen quite quickly, I think people will. You know, a robot hotel or a robot restaurant will be a bit of a novelty for a while, but that's all it will be.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1475.672,
+      "endTime": 1504.39,
+      "text": "Like the example we gave of the restaurant, where it's a novelty, but I don't. I mean, I don't see that restaurant as being a better experience. But I remember my dad going and being like oh wow, this is so cool. You know, for him he hadn't even I mean, he didn't even know when we went there what it was going to be. But he was thinking this is so cool, but I'm not sure that he necessarily wants to go back there. He just thought it was cool to go there once, exactly.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1504.651,
+      "endTime": 1529.296,
+      "text": "But that's it. It, that's exactly it. But this is so cool. Is exactly it? This is so cool? Is this is something interesting I haven't seen before? Is it actually enough to keep you coming back? And I don't. I don't think it is. I mean, the reason you go to, you know, one of gordon ramsay's restaurants, or something like that, is because it's because he's a famous chef, and all right, maybe you don't have that at pizza hut, etc. But I don't.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1529.838,
+      "endTime": 1534.71,
+      "text": "I genuinely feel like robots in restaurants will just be a novelty",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1544.001,
+      "endTime": 1582.616,
+      "text": "I've got some notes here, um, that I made on the kind of backlash issue, and we haven't talked about this section before the podcast. So you know we haven't kind of compared notes on this, but I put down that I think we will need public customer pushback here. One of the things with this industry is, you know, it's poorly unionized. It doesn't have you. You know, the workers in hospitality unfortunately don't have a lot of power unless they really get it together, and you know. But even if they do, if, if we think that those roles are easily replaceable, which unfortunately a lot of them not all, but a lot of them are it's kind of difficult to unionize.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1582.656,
+      "endTime": 1615.5,
+      "text": "So I think this is somewhere where if there is a backlash, it's not going to be about well. You, the workers, protested and then they backed down for two reasons One is that the big players in the industry, particularly in the hotel industry, they can easily do this without much pushback. But also because actually all of those small players and particularly if you take restaurants and bars, there are so many kind of small independent bars Well, they're not going to be able to respond to that. You can't unionize really in those areas.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1624.497,
+      "endTime": 1665.959,
+      "text": "So I think it is going to be a case of more and more robots and AI tools in other parts of life that what we're going to seek out is those, you know, the areas where we don't want to have them, and that will be sport, and it will probably be elements of hospitality, and there'll be areas where there is more of a pushback from people, because, like you say, you don't get the same experience without people. So take away my argument about kind of you know cleanliness and and viruses, blah, blah, blah, and and and. How's an advantage there? I I still buy the fact that. You know I go into a restaurant now and I've been using you know scan at a table and pay for years.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1666.019,
+      "endTime": 1682.379,
+      "text": "But if there's a physical menu, I will always use a physical menu because it's better to use. To be honest, it's just nicer to look at and I would like the person to come over because then I can call them and say, hey, how long is this going to be? And have a kind of interaction. And there's something nice there, maybe because I worked in those jobs,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1686.71,
+      "endTime": 1697.139,
+      "text": "because I worked in those jobs. But I do think you're right that for a lot of people, certainly of the generations that are, you know, consumers today, that they'll always, for a long, long time anyway, there'll be a not a need but a want for that interaction.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1697.821,
+      "endTime": 1731.444,
+      "text": "I had a good example of this that I thought of earlier in the week, which I think I mentioned, which is now in the UK and for quite a long time actually, like before. Yeah, so I think 10 years ago you could get a Costa coffee from a machine in a garage. It can make you a coffee and I don't know about the quality of it and all that kind of stuff, but I think it's. I would guess that you can get a machine now to make a coffee roughly on par in terms of quality with a barista in a Costa coffee shop.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1731.484,
+      "endTime": 1740.264,
+      "text": "So why this is a man who not only makes his own coffee, but this is a man who roasts his own beans from scratch, so this is a man who knows his coffee",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1747.77,
+      "endTime": 1748.592,
+      "text": "but it's a good example, right, because?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1748.612,
+      "endTime": 1769.423,
+      "text": "so why, when you go to a costa coffee in the high street, an actual costa coffee store, are there baristas in the costa coffee store, like right now? Because presumably I mean, even if that machine can't make coffee to the same quality as one of those baristas and no offense to any of you baristas out there but it's probably possible to do that it seems like it's something that's within the realms of possibility. The same with pouring pints, things like that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1769.463,
+      "endTime": 1803.738,
+      "text": "I think there's a bit of theater to it I think with with coffee and cocktails, for example, there's a bit of theater about how you do it. And coming back to the kind of gimmicky example, I can definitely see you know a restaurant where you've got a robot making cocktails and it's a really cool, fun thing for a while, and then it's not as interesting because you know one of the things going into a bar and having someone who knows their stuff and and you know that it's this kind of skill and you're you're getting them to create something for you. Yeah, okay, the robot can create it for you. Maybe they can create it better to your taste, but it doesn't have.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1804.36,
+      "endTime": 1806.909,
+      "text": "It's a different kind of theater. What?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1806.97,
+      "endTime": 1824.373,
+      "text": "what about if it's figure 01 or 02 or 03, and uh, it can actually discuss your likes with you and have a conversation with you and, you know, ask you what, how your day's been so then it's a, it's a like for like, replacement at that point, right.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1824.513,
+      "endTime": 1860.683,
+      "text": "So so I think the gimmick thing is so initially that's kind of a gimmick, but there's the gimmick thing of oh wow, look how this robot can do it. But if you, if you have a choice between the two things the robot that you can have a conversation with and the person that you can have a conversation with you're going to have the conversation with a robot for a while, and but I still think there's a social element for people. I actually think this is also generational and we've said this quite a lot. But people who are growing up now and will grow up with this, maybe it's less of an issue. I don't foresee our parents, for example, wanting to do that.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1860.911,
+      "endTime": 1901.138,
+      "text": "I can't see a local British pub where the landlord is a robot. Maybe there won't be any local british pubs left, but it feels it feels wrong. Like it feels wrong. It just feels like it's not. I just don't. I don't know, I don't. I don't think that's what people want, but in the end that will win out right. I think that will. Like hospitality is still commercial. If people want it, then they'll. They'll get it if they're willing to pay for it yeah I, I. Of course no one's gonna have any money because we've already said they're all gonna lose their job, so maybe there'll be no hospitality well, everyone will be on universal basic income, so there'll probably be a lot more hospitality.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1901.219,
+      "endTime": 1940.822,
+      "text": "Everyone will have a lot more time yeah, but yeah, I don't know. I hope we don't end up in that world because that sounds quite sad. But then 20, 30 years ago, the idea that we'd all just sit staring at rectangles all day and not interact with each other probably sounded quite sad. I know, when I was a kid I was, I was really into video games, for example, and in the 80s, 90s away my age now, but in the early 90s, you know there was a handful of kids who were playing computer games and you were kind of on the fringes, you were pretty nerdy, whereas now I'm pretty sure that's what all kids do all the time.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1941.69,
+      "endTime": 1948.316,
+      "text": "So I don't know, maybe that is the future, where everything's done by robots and we're just interacting with machines.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1958.671,
+      "endTime": 1999.702,
+      "text": "So on to the last section, which is what people can do, and I think we're talking here about people who, you know, work in or, uh, are associated with the hospitality industry. So is it is this where the soft skills need to be really worked up? Um, I mean, I think it depends on the area. It feels like, like we said, the impact, certainly initially, is going to be far more in, you know, fast food, et cetera. It doesn't feel like your local neighborhood bar or your pub is going to be improved by robot staff, but maybe the ability to recommend a meal for you or to tailor a cocktail or personalize the experience, maybe it will win out.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2000.23,
+      "endTime": 2039.767,
+      "text": "I mean, people really, like we said, they need to vote with their wallets to help the sector. I think we kind of try and give advice to people within the industry about the things they can learn, but I think there's also here if you're somebody who cares about having a hospitality industry, then don't go to the restaurant we told you about. That's got robots working in it, you know. Put your money into independent businesses that still have people there. That's a really big way to to make an interest that you know. If you care, then that's going to reflect. You know the market will see that and and there'll still be jobs there, I think.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2040.349,
+      "endTime": 2059.24,
+      "text": "I mean, do people feel there's a net gain to hospitality experience by having people there? You know, does it? Does it take away from the social experience not having people? I, I think it does. But actually, is it the people that you're there within a bar? Is it the people working in the bar? What do you actually care? Who's serving you?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2059.26,
+      "endTime": 2078.458,
+      "text": "I, I think I definitely do like the interaction you have in in these and this might uh, you know, maybe it's just me I'm definitely doing bars I definitely doing a bar like when you know the, the landlord, or you know the manager or there's someone in the bar, you you go and have a chat.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2078.478,
+      "endTime": 2112.325,
+      "text": "I mean the idea of the kind of neighborhood bars on tv like cheers, you know, and the cafe on friends and you know the pub in east enders and and all these things you think about it. The cafe on Friends and you know the pub in EastEnders and all these things you think about it. The character that kind of works in that bar, right, that almost the brand is quite often the landlord or the head or the barman or whatever. That's part of the, you know, it's part of the kind of brand of that bar. And I guess with restaurants as well. You know the Maitre D'I remember an Italian restaurant in Barbican that I used to go to, where the guy who worked there you know, he'd been working there for sort of 40 years.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2112.711,
+      "endTime": 2119.821,
+      "text": "He looked exactly the same every day. He was moody, he was grumpy, but he was such a character that that kind of created the brand of that restaurant.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2120.864,
+      "endTime": 2172.759,
+      "text": "Yeah, and recently I was back in Sheffield. I haven't been there for quite a while and the place that I gravitated to was the Broadfield, which used to be our local, and it's for exactly that reason, like the same people weren't working there. But it's that atmosphere, and that atmosphere is created by the place, the people, the people in there, the like patrons, as well as the staff. So I think it is a interpersonal experience where what you, what you, get out of it is that is that um interaction, that person-to-person interaction. I've mentioned it throughout this, this episode. I feel like this you know, moving on, I feel like this episode has been fairly speculative, but that um been able to order through machines and been able to",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2189.711,
+      "endTime": 2231.198,
+      "text": "have certain interactions through machines and more automatic paying and telling. I think that, in terms of what people can do to prepare, I think the first thing is, you know, continue and listen. Continue listening to the podcast, because things like robotics, things like ai and large language models, it's a really, really fast moving space and I think there will be developments over the next year or so that you probably want to keep an eye on, because it's the kind of thing that, whilst this episode's been a bit more speculative. There may well be things that we've not even thought of coming up in the future which may impact your job if you're in this hospitality sector.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2231.74,
+      "endTime": 2246.494,
+      "text": "I think the other thing you can do is have a think about how to again like we've talked about it before, but have a think about how you can use some of these tools and how you can apply them and how you know, if you're going into this industry, how would you do it using some of the latest technology.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2247.035,
+      "endTime": 2295.232,
+      "text": "Ultimately, maybe what you know staff in some areas can do is encourage people to support them. So we talked about people voting with their wallets. But, you know, encourage people to come and continue to support small businesses. And you know, local restaurants, bars, pubs, small hotels, bespoke operations and, of course, yeah, if you work in this area, you know, try out tools, not just LLMs, but we talked about specific tools just from one article. So you know, if you are working in hotel sales, you'll be working with mainly AI. If you're in a job, your job will be pretty much run by AI. So you know, you definitely need to understand the tools that are out there and keep yourself ahead.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2295.292,
+      "endTime": 2323.103,
+      "text": "But if you're a chef, it can help you with menu writing. It can help you with wine matching. It can help you to, you know, create a bespoke menu for someone who comes in and says you know, I can't eat this, I can't eat that. You can run back and, okay, you can look up a dish on the internet, but you'll be able to go to an LLM and say I well, not, you'll be able to. You can do it now. You can say I have a customer, you are writing a menu. This customer cannot eat this, cannot eat this,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2331.59,
+      "endTime": 2351.732,
+      "text": "cannot eat this. I've got this, this, can I eat this, can I eat this? I've got this, this, this, this. Create a dish that has a, you know, ethiopian theme, and it can give you a dish that has an Ethiopian theme and fits all those things. It can tell you a dish that has a certain number of calories. So I think it will be really powerful as a tool for people in those positions. You know, it maybe won't cook the food in place of you for some time at least, but it will really help you and maybe you don't need a pot wash anymore, which you know a lot of people struggle to fill those positions, but you still need a, you know, a commie chef.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2351.752,
+      "endTime": 2384.335,
+      "text": "You still need someone to do the more difficult work. So I think that there are examples here that people need to research, but ways in which it can make your job easier and also can improve your ability Like I say, the chef example I think is a great example can improve your ability. Like I say, the chef example I think is a great example. If you've got a bar, you know you can make a menu that fits with certain needs. You can get a gluten-free cocktail, you can get something for someone with whatever allergy and you can bang, bang, bang. You can get all that information in kind of seconds. So there's some good stuff in there for people in hospitality, I think it's.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2385.658,
+      "endTime": 2394.543,
+      "text": "Although it's a speculative episode, I think it's a pretty, a reasonably positive story. Even I feel slightly positive today yeah, 100%.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2394.743,
+      "endTime": 2413.436,
+      "text": "And some of the stuff you mentioned there, like the creative side of, uh, the large language models I've already experimented with that a little bit myself. You know, if you want to, if you've got a few ingredients that you need to throw together, then definitely worth chugging into an LLM is around a keto menu for Ethiopian-Azbeckistani fusion food,",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2435.59,
+      "endTime": 2440.883,
+      "text": "and it uses a large language model to create a menu for a week.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2442.431,
+      "endTime": 2463.84,
+      "text": "So you know, that's the kind of example that I'm thinking of, where, if you're a chef, of course you could do that previously, but it would have taken you a lot of work. It's now something that you can do in minutes, if not seconds, and that's got to be a positive thing. So maybe we leave it there on a positive note. Okay, so that's a wrap for today.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2468.87,
+      "endTime": 2495.732,
+      "text": "That's a wrap for today, as usual, uh, for our new format for the episodes, we will leave you with a song that was written by us and ai together. Uh, themed around hospitality and ai, so hope you enjoy that. As always, share with your friends, especially if they work in hospitality. Follow the show, subscribe, comment, get people involved, help us to grow the podcast and thank you for listening. Have a great week and we'll see you, or hear from you, or you'll hear from us, rather, next week.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 2495.972,
+      "endTime": 2559.146,
+      "text": "Take care, bye-bye bye-bye step into a world of luxury. Luxury and style, where comfort is our top priority. Our ai concierge is always on hand to make your stay a memorable dream. From personalized greetings to smart room controls, our AI technology knows your every need. But don't worry, our friendly staff are here too, to provide the human touch you still crave. Welcome to the AI hotel, where technology meets hospitality.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 2563.235,
+      "endTime": 2587.402,
+      "text": "Sit back, relax and enjoy the soothing melodies. We've got the perfect blend of AI and human touch In a world of endless possibilities.",
+      "chapterIndex": 5
+    }
+  ]
+}

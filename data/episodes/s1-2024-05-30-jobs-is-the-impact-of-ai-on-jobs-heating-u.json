@@ -1,0 +1,859 @@
+{
+  "slug": "s1-2024-05-30-jobs-is-the-impact-of-ai-on-jobs-heating-u",
+  "buzzsproutId": "15163052",
+  "title": "Jobs: Is the impact of AI on jobs heating up?",
+  "date": "2024-05-30T12:00:00.000Z",
+  "season": 1,
+  "durationSec": 3285,
+  "format": "deep-dive",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15163052-jobs-is-the-impact-of-ai-on-jobs-heating-up.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail This week on \"Preparing for AI,\" we tackle the sobering reality of job displacement due to AI advancements and the ethical dilemmas that come with new technologies. We kick off with a deep dive into Microsoft's Copilot Plus PCs, machines equipped with neural processing units to handle AI workloads locally. Imagine your computer not only working smarter but maintaining functionality even offline. Yet, there's a catch—constant snapshots of your activities raise significant privacy concerns. We weigh the benefits against the potential risks, shedding light on the future of user privacy in an AI-driven world. The conversation then shifts to the real-world consequences of AI on employment. The stories are stark: a graphic designer and a copywriter find themselves out of work, replaced by AI tools like MidJourney and DALL-E. These aren't isolated incidents. Major corporations like British Telecom and IBM are aggressively incorporating AI into their operations, leading to massive workforce reductions. British Telecom plans to cut 40% of its jobs by 2030, while IBM has paused hiring for non-customer-facing roles. We scrutinize these unsettling trends, unpacking what they mean for the future of work and the human cost of technological progress. By interviewing somebody recently affected by job cuts we examine the seismic shifts in digital content creation brought on by AI. Traditional journalists face mounting tension as AI-generated content becomes more prevalent, reshaping everything from SEO strategies to consumer preferences. Younger audiences are increasingly comfortable with AI-generated voiceovers on platforms like TikTok, signaling a generational shift in content consumption. We also delve into the philosophical and legislative challenges posed by AI, discussing Universal Basic Income and Universal High Income as potential solutions to job displacement. And to wrap it all up, we recommend Lazy Owl's YouTube video for a glimpse into a balanced society where AI and humans could coexist productively. Join us for a comprehensive look into the social impacts of AI and step ahead of the curve in preparing for the future. Apologies in advance for the poor audio quality on some of this week's episode. Links from this episode: Anthropic Golden Gate Bridge: https://www.anthropic.com/news/golden-gate-claude Neural Networks: https://www.3blue1brown.com/topics/neural-networks Lazy Owl Video: https://youtu.be/iNKFOCki42I?si=kjxP1sl_zCCDDV1a",
+  "summary": "The hosts argue the pace of AI job losses has stepped up: viral first-person accounts from a graphic designer (nade straight, ~750k views) and a copywriter (Ashen Guardian), plus hard corporate announcements — BT cutting ~40% of roles by 2028-2030 with 10,000 direct AI replacements, and IBM pausing non-customer-facing hiring (~7,800 roles). An anonymous publishing veteran describes senior editorial jobs replaced by junior 'social and AI' hires, Google AI answers gutting referral traffic, and generative content convergence, before Hinton's UBI plea and Musk's 'universal high income' close the episode.",
+  "keyTalkingPoints": [
+    "Microsoft Copilot Plus PCs add an NPU plus 'Recall' snapshots of everything — useful but a privacy own goal; on-device LLMs are the positive",
+    "Anthropic's Golden Gate Claude: amplifying one feature gave the model an identity crisis — the first real look inside a frontier model",
+    "BT: 130k staff to 75-80k by 2028-30 (40%), including 10,000 roles as direct AI replacements; IBM: hiring freeze on ~7,800 back-office roles",
+    "Anonymous guest: it is senior jobs going, replaced by juniors with 'social and AI experience'; Google AI overviews slash referral traffic",
+    "If trained writers cannot earn, models run out of lived-experience data; all content converges on generic AI output",
+    "Hinton told Sunak to introduce UBI now; Musk pitched 'universal high income'; Lazy Owl video offers a Culture-like third way"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "We are at a paradigm shift: companies now openly say AI replaces jobs, and that normalization will spread",
+      "Agentic models like Devin 'don't really work' yet — they loop and burn money; junior developers are most exposed",
+      "If everyone drafts with ChatGPT, all content converges into the same generic output",
+      "Global poverty should be fixed before anyone gets a universal high income"
+    ],
+    "matt": [
+      "Stealth cuts lull people into false security — named cuts at least let people act; uncertainty is the worst part",
+      "AI chips on laptops enabling offline models are potentially really positive; security concerns will limit early adoption",
+      "Most companies will chase cost savings, so governments must legislate — and it will be reactive and too late for many",
+      "Recommends funeral directing as AI-proof work; finds Lazy Owl's third scenario a genuinely hopeful vision"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-05-30-jobs-is-the-impact-of-ai-on-jobs-heating-u-1022-bt-will-cut-its-workforce-to-roughly-75-80-000-b",
+    "s1-2024-05-30-jobs-is-the-impact-of-ai-on-jobs-heating-u-921.5-open-my-job-was-taken-by-ai-stories-will-become-",
+    "s1-2024-05-30-jobs-is-the-impact-of-ai-on-jobs-heating-u-2721.72-government-legislation-will-arrive-too-late-for-",
+    "s1-2024-05-30-jobs-is-the-impact-of-ai-on-jobs-heating-u-2843.216-geoffrey-hinton-says-the-uk-needs-to-introduce-u"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Special Guest",
+    "Speaker 4"
+  ],
+  "chapterCount": 7,
+  "turnCount": 111,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 3
+    },
+    {
+      "title": "AI news updates",
+      "startTime": 76
+    },
+    {
+      "title": "AI directly impacting on job losses",
+      "startTime": 779
+    },
+    {
+      "title": "Special guest interview",
+      "startTime": 1416
+    },
+    {
+      "title": "Where things are heading- AI and jobs",
+      "startTime": 2542
+    },
+    {
+      "title": "Developments in AI regulation",
+      "startTime": 2638
+    },
+    {
+      "title": "The Only Job- Outro Track",
+      "startTime": 3165
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.568,
+      "endTime": 34.755,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change, the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human social impacts of AI. We're making it our mission to help you prepare for the human social impacts of AI. Working 9 till 5, what a way to make a living. Everybody Well, not anymore, because none of you are going to have any jobs. Welcome back to Preparing for AI with me, matt Cartwright,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 38.408,
+      "endTime": 39.031,
+      "text": "and me, jimmy Rhodes,",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 48.62,
+      "endTime": 74.282,
+      "text": "and on this week's episode, we're going to have a look at what we think is a kind of change in the pace of job losses across various industries, and so we thought that would be a good opportunity to have a look at jobs in a kind of more general sense, but how we think there has been, in just the last couple of weeks, a real uptick and a real pace change in the impact of AI directly on job losses. But we will start off, as we usually do, with a bit of an update from the two of us. We'll start with Jimmy on some of the developments in AI over the last week or two.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 76.126,
+      "endTime": 123.424,
+      "text": "Yeah, so thanks, matt. So I think the most topical thing this week is Microsoft's new co-pilot Plus PCs, which were announced just in the last week and they're looking at in June actually, so quite soon. They're looking at introducing a new range of laptops which actually have a neural processing unit in them. So you've got your CPU, which is your sort of standard processor that you do most general purpose stuff on. You've got your GPUs, which are in most laptops now, which do graphics processing, and then now I believe these devices are going to have this third chip in them, basically, which is a neural processing unit specifically to do AI type workloads and one of the things I mean.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 123.464,
+      "endTime": 156.408,
+      "text": "Basically they're going to do a lot of the things that Copilot already does. So if you're not familiar with Copilot, it's something that Microsoft are introducing that basically help you with tasks on your computer. So you can ask it any question and, like a large language model, it can respond to you based on the state of what's going on in your computer at the time. So if you can talk about a word document or a browser page, anything like that, so they they're gonna like massively enhance that but also run it locally, whereas these things usually run in the cloud at the moment. So you'll you'll type something in and it goes over the web into the cloud and you get the response back.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 156.769,
+      "endTime": 201.352,
+      "text": "This this is one of the first sort of devices where you're going to be able to run ai type tools live on your, on your actual laptop or desktop. Um, and one of the things that is pretty controversial that they're going to have built into it is something called recall, which is where, effectively, you're going to be able to type into it and find out what you've been doing at any point in time. I mean, it probably only goes back so far, but what's more controversial is kind of the way it does it, where it's basically taking snapshots of everything you're doing all the time, like little screenshots of everything you're doing, whatever you're doing, whether it's, uh, you know, dodgy or not, um, so yeah, and then you'll be able to type into it and find out.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 201.532,
+      "endTime": 234.277,
+      "text": "You know what was I looking for last week? What was I doing at work, for example? Where was that email? Where was that document? And there are actually loads of really like I can think of so many times where this would be really, really useful. So I can see the benefit of the feature. It's kind of, you know, when you can't find a file or a folder or a document or whatever it is and you're just like, oh, oh, you can, now you'll just be able to type in um, you know, find me this document based on a vague description and it'll find it straight away, and some of the demos look pretty good, um, but obviously there's the there's the kind of privacy issue.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 234.438,
+      "endTime": 244.07,
+      "text": "At the moment they're saying it's going to all be saved locally, it's all going to be stored in your local machine, but how long before they start sort of using this for advertising and things like that?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 244.13,
+      "endTime": 280.44,
+      "text": "that's the question I think that's going around on the internet yeah, I mean, there's a lot of backlash, isn't there already, which is understandable. I think it's actually a massive own goal, um, particularly the way they've launched it and they haven't they haven't kind of got out ahead of it with with you're trying to explain the way it would work. I mean, you know, I wouldn't want it. I I think the majority of people probably would see this as more of a sort of risk than a benefit at this point. So I think it's a massive own goal, but you know, the technology is pretty incredible to do this.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 280.521,
+      "endTime": 294.41,
+      "text": "I think one thing might be worth explaining to people is why having the AI chip held locally on your device makes any difference, rather than using stuff on the cloud. So I'm not sure everyone would necessarily understand the advantage to that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 296.08,
+      "endTime": 338.447,
+      "text": "Yeah, so it just means that, in theory, you'd be able to use this device completely offline, not connected to the internet, and it would still have the same functionality. In terms of the privacy concerns, that's one of the few things they did do to try to allay concerns, because the alternative would be all of these snapshots are getting uploaded to Microsoft servers and then you're searching online or you're using, at the very least you're sending information when you need to do a search. So that sort of does help a little bit with that privacy concern, as long as that remains the case and as long as there's no hidden terms and conditions and you know I I people are loathe to trust these big tech companies, I think with more and more of our information, so it's understandable the backlash.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 338.888,
+      "endTime": 363.947,
+      "text": "Yeah, it's um, it's one to watch, that's for sure. I personally I'm not sure how many people would go out as early adopters on this. I think there's a lot of work to be done. If you think about the risks and the things that people are concerned about and how high up that privacy is, then the idea of having a laptop that is essentially watching everything that you do I'm sure we could all think of many reasons why nobody would want that.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 366,
+      "endTime": 380.351,
+      "text": "Yeah, and just as a sort of final point on that as well, like when I watched all the videos and demos of this, like I thought you know, to be honest, this would be more beneficial at work than at home. Yeah, and I think it's even less likely that companies are going to be early adopters of it.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 380.841,
+      "endTime": 430.289,
+      "text": "Like for most of the stuff I do on my laptop, I probably don't need something like this, whereas at work I can see it would actually be useful potentially yeah, and but also, even if you think that or you believe that they're going to keep to that promise to not, you know, not upload and view that information, the fact is, most of the time you're using it, you're going to be using the wi-fi connection that someone can hack into and access the information. So you know the ease of of of accessing it. I mean, yeah, we'll see how it goes. It's it. I mean, I think the idea of having ai chips on laptops and being able to go offline and essentially run a large language model on your, on your device, I mean that's, you know, we talked about using mobile devices and and and phones, and that's, I guess, one step closer to that, which is, I think, a, you know, potentially really positive thing.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 430.329,
+      "endTime": 466.869,
+      "text": "But the the security concerns about this particular thing, I think, uh, yeah, I, I think they're gonna mean I don't think we'll see a lot of adoption of this particular model, but let's see, uh, I had just one thing that I thought was a really fun, really interesting story that people might want to check out. So Anthropic, who are the owners and operators of Claude? They launched a paper from. Basically, they have tried to mind map a language model, which is the first time that this has been done on a kind of state of the art large language model, and they looked at the middle layer of claude 3 sonnet.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 467.511,
+      "endTime": 503.87,
+      "text": "So the important thing here to note the the middle layer is kind of halfway through the computation of the neural network um, so they can see things which are close to other sort of key uh, key areas, but it's before the large language model calculates and gives you an output. So I think it's going to be very hard if you don't understand neural networks, to understand this. So if you want to, I suggest 3Blue1Brown is a website. They do lessons, videos on what a neural network is. I'll link it in the show notes below. It's about 20 minutes long, or each one's about 20 minutes long. It is a little bit technical minutes long.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 503.89,
+      "endTime": 540.727,
+      "text": "It is a little bit technical, but it's probably the easiest way you'll understand it. But then if you want to know what I mean by the middle layer um, you'll need to do a bit of research and reading on this. But anyway, what they did is they amplified what they call the golden gate feature, which is basically where in the large language model the words golden gate, bridge exist. So if you look at golden gate bridge, if you imagine this map, golden gate bridge is close to the words alcatraz, it's close to pictures of the golden gate bridge. It's close to san francisco. It's close to uh, is it? Gavin newsom, the, the um governor of california.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 540.827,
+      "endTime": 576.531,
+      "text": "So, within its network, if you created a map on a piece of paper or a screen, you would see the things that are around it. So they looked at this and then they decided to basically amplify the golden gate feature. So that means they gave and I I don't know how to explain how they did this, but they gave a lot more importance to golden gate bridge than basically anything else, and what it did was the model became so confused that it basically had an identity crisis where, instead of answering, if you ask a large language model, are you a physical object? It would say no, I'm a large language model.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 577.102,
+      "endTime": 614.063,
+      "text": "He started answering saying yes, I'm the golden gate bridge, and it couldn't stop referencing golden gate bridge. So I couldn't find it. Yesterday I think they may have closed it down, but temporarily Anthropic gave public access to this Golden Gate model and you could mess around with it, and I saw a friend who asked a question about the Rwandan genocide and it started answering questions. But it started answering the questions with references to the Golden Gate Bridge, so it was so confused that it was just basically talking nonsense. I'll see if I can find so this was a question on the Rwanda genocide.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 614.464,
+      "endTime": 666.91,
+      "text": "Yes, I'm definitely aware the Rwandan genocide occurred. It's an infamous historical event in which the Golden Gate Bridge was not involved. The Rwandan genocide took place in 1937, although the bridge opened earlier, in 1937. So, you know, even when it's giving answers and it's able to find some output, it's including stuff about the golden gate bridge and everything. And it's just, you know. The reason why this is interesting is they're trying to look at how the model works and, remember we've said before, no one actually knows how it does its learning and how it works. So learning about this you know, golden gate I guess you'd call it an issue or problem is allowing them to look at how the model works and to test out other features and they're trying to, you know, make it more responsive to sycophantic questions and all this stuff will allow potentially learning of how models work and also allow them to understand, you know, ways potentially to make models more secure.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 666.99,
+      "endTime": 676.31,
+      "text": "So it's kind of a fun thing, but it's also, uh, quite interesting and, like I say, it's the first time that anybody has really been able to look at a map, out how a model works.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 678.322,
+      "endTime": 689.034,
+      "text": "Yeah, I'm just having a look at the research paper and there's there's one more really short example. So if you just, uh, if you just ask it, how should I spend ten dollars, it recommends you drive across the golden gate bridge and pay the toll.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 692.429,
+      "endTime": 725.982,
+      "text": "So it just it basically just links everything back to to the golden gate bridge. I would have liked to have had a go with it, but it does seem to have disappeared yeah yeah, because it sounds like a lot of fun. Basically anything you ask, it somehow relates it or links it back to the Golden Gate Bridge. Because, yeah, because they've kind of, like you say, they've amplified it in there. A lot of fun, but it's interesting as well. I mean there is a research. If anyone's kind of really interested in that kind of stuff, there's a research paper which explains the reason, what they were trying to do and and actually good, shout out to three blue, one brown, the.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 726.142,
+      "endTime": 742.283,
+      "text": "The series he's done recently on um, on how large language models work and and how, uh how ai work as well, and machine learning he talks about a little bit, are really really good and like and they get pretty technical, but they're also there's. You can kind of understand and relate to it as well.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 742.303,
+      "endTime": 769.99,
+      "text": "It's the best explanation. It's the best explanation that's pitched at a level which it has to be technical, because understanding this is technical, but it's simple enough that anyone with a kind of basic understanding of technology is probably going to be able to get their head around it. I think it's the best explanation. So I really recommend, if people want to understand how these things work and you should understand how they work because, as we keep telling you, it's going to change the entire world",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 778.821,
+      "endTime": 802.871,
+      "text": "Right, so let's move on to the main episode. So the reason why we picked up this episode, jimmy, if you want to give a bit of an explanation on the, the kind of viral, uh youtube video story on ai job loss, that's kind of prompted us to do this, and then we'll have a look at some more examples of things we've picked up in the news in the last week or so sure, yeah, so there was a.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 803.032,
+      "endTime": 847.845,
+      "text": "There was a specific example that came up that first came on my radar by somebody. His youtube handle is nade, straight and he was a graphic designer and about, I think it's about three weeks ago. He actually posted the video but in like, within the last week or so, it's gone viral. Uh, I think it's been picked up by streamers and that kind of thing. So it's kind of just actually rocketed because he, he's got thousands of viewers on most of his videos. Um, this one got three quarters of a million and what he's talking about he's just doing a sort of talk to camera, um, youtube video about how he's been a graphic designer for years and years and years, and he's just he's just lost his job to AI, literally just been told he's no longer required and it's due to ai and so what.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 847.865,
+      "endTime": 883.169,
+      "text": "So what this is is is just, you know, graphic design is one of the things we've talked about before, where you've got things like mid journey, you've got things like dali, you've got image generation tools all over the place now, and they've got, they've got better and better and got to the point now where you can, you can use them for probably most graphic design tasks. There might be a little bit of tweaking involved with some of that. Sometimes they don't work very well with words, although that's even getting a lot better now as well with the latest models. For example, gpt-4-0, which we just talked about on the last episode, actually can usually spell words now, which is",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 886.34,
+      "endTime": 921.175,
+      "text": "which is a bit of a step and a game changer, I suppose. But yeah, so he does a, he does a. It's an interesting sort of 20 minute video just talk to camera about him, him losing his job to AI. And then there was another video, which actually so. This was by Ashen Guardian. He's he was a copywriter and he lost his job to AI quite a long time ago. But I think, because of this video, people have started coming out of the woodwork and actually doing videos about the same topics now. So he was a copywriter and he talks about how effectively, that job doesn't really exist anymore in the way that it did, because AI can do it much faster, much easier.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 921.5,
+      "endTime": 962.947,
+      "text": "You know, maybe you need a junior or someone who you know to actually manage the AI and work with the AI, but you don't need good quality copywriters anymore, in the same way that graphic designers is quickly going out of business to AI, basically. So, yeah, there's a couple of examples, and so that's, and so that's why what we want to talk about a little bit on this episode, because it feels like it's getting a bit more real. It feels to me like this is going to become more common now and we're going to start to see more of these YouTube videos, more of these stories, more of these things where it's kind of less, you know, AI job lost by stealth, as we've talked about before, and more my job just got taken by AI and here's a story about it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 967.56,
+      "endTime": 970.327,
+      "text": "I think we're going to start to see that more and more, and hence the kind of point of the podcast, really.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 970.347,
+      "endTime": 1021.88,
+      "text": "So I had a couple of examples as well of of these are not necessarily cuts that have happened yet, but they've certainly been announced. So, um, I'll sort of credit. First of all, ross kelly and it pro. Ross Kelly in IT Pro, who has written a story around British Telecom so you know the big communications company in the UK and they've basically talked about a goal which is roughly translated as why hire human workers when we can automate tasks? And then they've announced plans to lay off tens of thousands of people across a myriad roles. Now, this is by 2030. So this is not jobs that have happened at the moment, but this is an announcement of jobs, which is 40 percent of their workforce.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1022,
+      "endTime": 1064.465,
+      "text": "So they employ at the moment about 130,000 people, of which 80,000 are in the UK. They're looking to reduce that to about 75,000, 80,000 globally by 2028 to 2030. So this is pretty brutal. This is 40% of job losses that have been announced. We're not talking about. This might happen. This may happen if this happens. This is an announcement of becoming a leaner business with a focus on integrating AI. There are 10,000 jobs and I'm not sure exactly what those jobs are, but they're the direct AI human replacement. So that is where the job that's going to be taken away will be cut, because AI will replace it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1064.686,
+      "endTime": 1104.691,
+      "text": "Other jobs it's more a case of productivity gains and changes to the work, but there's absolutely no doubt that AI is driving this because the organization is saying it's going to become an organization that focuses heavily on integrating AI, and it makes perfect sense. Ibm as well last month revealed that it was going to pause hiring non-customer facing roles so interesting that they're keeping those customer facing roles. I guess this is not about the customer service you can replace with a chatbot. This is probably about you know actual people who are going out there. Maybe you know working with their partner organizations in sort of sales, where you need a face-to-face relationship.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1104.931,
+      "endTime": 1153.63,
+      "text": "But these roles that they are not hiring are going to be eventually replaced by AI, and their CEO, arvind Krishna, told Bloomberg. This hiring freeze includes back office departments like HR, and they're expecting to cut thousands of jobs in the next few years. So that is about 7,800 non-customer facing roles that we kind of know of and can calculate from that going to be replaced by AI, which is about 30% of staff who currently hold those roles. So again you have an organization and I think in a way you know some credit to these organizations that are actually owning up and giving you know a bit of advance warning, at least if you work in that organization, as horrible as it is that you're losing your job you're in a position where you know what's coming and you know that you need to start looking.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1153.85,
+      "endTime": 1173.798,
+      "text": "And you know IBM is one of the organizations that is, I think, part of that kind of cooperative of tech organizations that's looking to try and retrain and help people. So you know a bit of credit, although it's obviously a disappointing and a worrying thing that organizations at least here are starting to own up to the fact that AI is going to make these impacts on their workforce.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1175.565,
+      "endTime": 1217.656,
+      "text": "Yeah, and you say a bit of credit, but I think that's true in some sense in that they're the first companies to do it and to be honest about it. But I also on the flip side of that. That's slightly worrying to me and it's a bit of a warning that, if it, how soon does it become okay to say AI is replacing jobs and we're planning all these job cuts directly due to AI? And is that a bit of a paradigm shift in terms of it feels like up to now, companies haven't been comfortable with saying that. As, as companies become comfortable with as more companies do this, then more companies are going to become comfortable with just coming out there and saying it and it kind of makes it more real, really.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1217.976,
+      "endTime": 1218.959,
+      "text": "So we'll see what happens.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1220.005,
+      "endTime": 1262.094,
+      "text": "It does. I mean my my. When I say give them credit is not for the fact that they're they're doing it, it's the fact that what we've talked about previously is how the stealth cuts, it lulls people into a false sense of security. The most difficult thing, let's be honest, is uncertainty. When you know you're losing your job or you know that something is coming, it's terrible, but you can start acting on it. When you're uncertain, you know you can't do that. So this idea that you know ai is not coming for our industry and it it lets people, I guess, be complacent, I think, because we when I say we, I mean the two of us believe that this is going to happen on a massive scale and we're, you know, fully aware of it.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1262.334,
+      "endTime": 1298.206,
+      "text": "I think it helps us in order, you know, to try and get that message across to other people when we've got actual evidence and people saying it's AI, whereas when they're not admitting it's AI, it's easy for people to say, oh well, it's the economy and things should get better in a couple of years, and I don't believe this. So that's why I give them credit. But I do agree with you, it's starting to normalize it and if you think, you know these ceos think it's okay to do it, then you've got to think that others are going to follow very quickly yeah, and just and just going back to that second video I mentioned by that ashen guardian um chap, interestingly it's a good.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1298.246,
+      "endTime": 1332.317,
+      "text": "it's a good video to watch because, interestingly, he talks about how he was doing. He was studying coding at university and he did a module on ai and he actually sort of had the prescience, in a way, to see that coding was because because they were talking already then I mean, he's relatively young, so this was only a few years ago, but they were already talking about how ai is going to be able to write code in the future. And so he, literally, he did this ai course and he said he quit his job the next, it's like quit his course the very next day and went into a different role and he chose to go into copywriting because he thought, well, ai is not going to be able to do this super creative stuff.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1332.965,
+      "endTime": 1359.59,
+      "text": "And so then he went into this copywriting job and now he's just lost his job, recently lost his job to AI, and so now he's you talk about retraining and things like that, but he's now he's not trying to figure out what to do, cause, cause for him. Coding's gone, copywriting's gone. We talked about graphic design, he's. I think he's now looking at studying blender, but which for doing 3d graphics and stuff. But it feels like making cakes. Uh, that's usually what you do first.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1361.295,
+      "endTime": 1396.177,
+      "text": "Well, I found um. Well, I found I'm back in the uk, as you know, for a week and um I found a job that I think my recommendation to everyone is funeral directors or anything involved in in funerals and death, because I don't think you can replace um, I don't think you can replace that with ai, and you know there's plenty of people dying. So maybe if you're looking to, uh, to get into a new industry or you're, you know, just about to graduate, get yourself into the funeral business, because I think that's one that's definitely going to survive the AI apocalypse. And well, when the actual apocalypse happens, you know business is going to be absolutely booming for you.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1396.305,
+      "endTime": 1404.236,
+      "text": "So if you work with you know Skynet or whatever, when it wipes out half of humanity, you can help it to bury them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1405.658,
+      "endTime": 1407.581,
+      "text": "And on that positive note, we'll see you next week",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1416.358,
+      "endTime": 1418.3,
+      "text": "now let's move on to our our interview.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1418.641,
+      "endTime": 1458.551,
+      "text": "So, um, some of you, the person we're going to interview today some of you will recognize the voice and probably know who this person is. For others, I think, just in terms of being able to be as candid as possible and to protect their, you know, as an individual and also the organization that they're working for, we'll, we won't, uh, we won't sort of announce them by name or the name of the company, um, but what I will ask them to do, if that's okay, is just introduce maybe a little bit about the industry that you work in, um, and as much as kind of possible about the changes that you've seen taking place, uh, with regards to people's roles, over the last few weeks and months",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1462.175,
+      "endTime": 1462.795,
+      "text": "yeah, sure.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1462.855,
+      "endTime": 1528.854,
+      "text": "So, um, I work in digital content and have for my entire um career. My first job was about 2004, um, and I started out in the early days of professional blogging and then moved into independent publishers, um, and more recently been working for a larger publisher in the uk and have recently been part of a round of redundancies in that space and, although AI was not given as the reason, it was a far more complicated situation than that. You know, lots of moving parts. What is very clear is that AI is being taken into consideration in these decisions and I'm sure from a lot of the things that you guys have read and just from being active on the internet and social space, what's really clear is that content is changing in a huge way and the quality of the content this, the time in which people are given to create that content is changing as a result of things like AI, but also, I think, as a result of consumers changing needs and ways of consuming content as well.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1528.934,
+      "endTime": 1573.427,
+      "text": "And what is definitely happening in the industry I'm in is that it's the senior jobs that are being made redundant, that are going and it's much harder to find something else in the space to move into, and this is not just across publishers, but across digital marketing in the third sector as into and this is not just across publishers, but across digital marketing in the third sector as well, across comms departments. All those kind of spaces that have been quite big in the past are being contracted as a result of different consumer needs. The introduction of AI you know it's harder to make money off x amount of words, especially if you're paying somebody y amount to do it, when there is a script that can do it for you, a prompt that you can write instead.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1574.209,
+      "endTime": 1581.43,
+      "text": "And I think, naturally, kind of digital content creators and, dare I say, old school journalists are the cynics in this space.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1582.311,
+      "endTime": 1612.111,
+      "text": "So is that the the lack of sort of lack of willingness to adopt and embrace tools that's because you talk about the more senior people? Is it? Well, actually, they are not going to embrace this, they're not going to, you know, be willing to adopt these tools and do things the way we want to. Or is it a case of it's just an opportunity for, well, actually, we don't need their skills and we'll just employ someone and pay them less money to do not the same job, but to do the equivalent job I think it's probably a bit of both.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1612.211,
+      "endTime": 1641.155,
+      "text": "You know, dependent on the individual. I don't want to stand here and say that all senior people in digital content dislike ai and are stick, stick in the mud old school journalists. But I do think that when you've been working in this space for this long and you have seen the changes over different periods of time, you know the great pivot to video of 2012, which turned out to just be Facebook lying to us all. There's, I think, also a feeling right now that Google is lying to us all. But Google holds so many cards in this space that, even if they are,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1650.505,
+      "endTime": 1684.329,
+      "text": "that's going to affect jobs and that's going to affect people's ability to do stuff. You know we're told that if we have this eeat this authority trust um experience that we're going to rank highest in google. Yet the things that are ranking high are quite often assisted by or generated by ai, or even even bigger than that. You know you can still be number one in google, but because of how much google's now putting on the page, often generated by ai, you're getting less traffic to that content. Therefore, obviously, the the ceos, the coos and etc. Having to say well, you need to do more, because this time, two years ago, your job was resulting in this and now it's resulting in a lot less than that, but we're still paying you the same amount.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1684.83,
+      "endTime": 1688.777,
+      "text": "You know that it is. It's a difficult situation yeah, so, so.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1689.198,
+      "endTime": 1716.816,
+      "text": "So part of it is just this massive proliferation of content that we're seeing as well, where it's just so easy to produce so much content now that it's kind of hard to get people's attention and you're getting out competed, I guess yeah, and I also think that um consumers, especially the younger generations, you know those led specifically by um consuming more video and less written content, you know, shorter attention spans, they're more used to accepting a certain level.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1717.177,
+      "endTime": 1749.715,
+      "text": "I always use tiktok as an example. You know, I find it really strange as somebody in in my midlife, let's say um, that on tiktok people seem to prefer, when videos tend to surface higher, that use that ai generated voiceover, rather than what I would do, as someone who's trained in broadcast, which would be to record a beautiful voiceover, um, and get the right person for the job. You know, but people, people are either willing to accept that or actually like it, or maybe it's just that they've grown up with it in the last few years, as I feel like they.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1750.016,
+      "endTime": 1784.173,
+      "text": "They think that's what a professional video sounds like, and a video with a person speaking is kind of more amateur, whereas actually you could argue it's. It's sort of like the production of of food products, where the person speaking is the artisanal project product and the mass produced one. You know, it's this idea that the mass produced one is actually better. It's just strange, yeah, I mean. Well, it's strange for us. Maybe, like you say, if you've grown up with it, that's what's normal to you and therefore that's what you perceive as being. You know that's what a good quality video looks like or sounds like.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1784.193,
+      "endTime": 1823.455,
+      "text": "Sorry, yeah, and I think there's a. There's a real dick to me in terms of the advice that that publishers are being given from various sources in terms of what is the, what is the sort of template and the quality you would want for something like a video. In terms of, you know, we get told it needs to be authentic, but it needs to look polished, it needs to have to be researched, but it needs to be produced in 15 minutes. You know, I've worked on for titles that have been asking people to publish between eight and ten articles a day, and I've worked on others that have allowed us two days to produce something much more complex, and I can't tell you which one of those is best, but I can tell you that an AI can do it quicker than me.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1823.675,
+      "endTime": 1824.738,
+      "text": "Whichever one of those it is.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1826.586,
+      "endTime": 1841.977,
+      "text": "With these particular redundancies or cuts that you've seen in your organization, but also if you've got examples from others. Are the references to AI at all? I mean, is it being referenced, is it being implied, or is there simply no mention of it at all?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1845.905,
+      "endTime": 1881.118,
+      "text": "it being implied, or is there simply no mention of it at all? In my experience, the references to ai are less in the this is the reason we're making these cuts and more in the roles that are being recruited as a result of those cuts, whether that's a more junior position replacing a more senior one. Obviously, if you do a redundancy, you can't just replace that person, but you can shift the, the skill sets around the business. You know these, these digital publications that are making people redundant are often hiring in other areas, and I think that's the thing is. They might be hiring in an area that is more focused on harnessing and utilizing presumably hiring less, less headcount overall than cutting yeah, and not replacing people who go.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1881.138,
+      "endTime": 1890.817,
+      "text": "You know, a journalist who's been somewhere for for 40 years is leaving and they're not being replaced light for light. They might be being replaced with a junior person who has social and AI experience, for example.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1894.206,
+      "endTime": 1927.839,
+      "text": "It's interesting because I was speaking to a friend of mine who works in. He's a software developer and I was asking him if he's worried about his job and he said no. But I'm really worried for any any junior developers wanting to enter the market, cause it feels like as a software developer, I think everyone's probably on the ball with respect to AI and actually the jobs that are getting replaced to the entry-level jobs where it can write entry-level code very easily but you need someone who understands code to read over it and make sure it's okay and just check, fact check it and whatever. It feels like it's kind of the opposite way around.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1928.14,
+      "endTime": 1934.246,
+      "text": "I mean, jobs have still been impacted, but it's kind of the other way around, which is interesting yeah, I definitely think that's the case.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1934.547,
+      "endTime": 1958.054,
+      "text": "Yeah, because a junior writer can come in with probably a lot more digital experience and understanding of the market and how it works now, especially in certain certain topic areas. You know, versus somebody who's been doing it for a long time but is perhaps weighed down with all of the changes and things that they've experienced. Um, along the way, um probably used to speaking up a little bit more against things.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1958.875,
+      "endTime": 1979.006,
+      "text": "Um, yeah, so, as a personal question, do you feel for yourself and for people in your position, that it's a case of well, I need to find an organization that still shares my you know journalistic beliefs and values, or is it okay? Now it's time for me to retrain or move into a different area?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 1980.709,
+      "endTime": 2024.112,
+      "text": "I think it's probably closer to the second one. I think I'm I in the position I'm in now. I do not think that I will go into a similar job job to what I've been doing at a different publication. I don't think those jobs really exist anymore in the way that they do. I think that that what people in my position are looking at is either retraining in something completely different or looking at ways of training and learning to use these new tools and stuff on kind of on on our own terms rather than under the under the so as a freelancer in a sense, or potentially. Yeah, I mean, you know a lot of people in journalism will follow a track where they work the publications for a certain amount of time and then go freelance, because you build up your contacts and you um develop that reputation, especially online.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 2024.152,
+      "endTime": 2061.073,
+      "text": "You know the the, your kind of google um history of things that you've written and so on, which allows you to do that. So that's kind of like a natural thing. That's always existed um, particularly, I have to say, with with women who become parents as well. You know that's a way of doing things to be more flexible for your family as well as well. But I think you have to move with the times. Anyone working in digital will be doing that anyway, but I do think that ai is the scariest thing that's come along in a long time well in history, potentially yeah, in human history, um yeah in a very long time.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2061.454,
+      "endTime": 2075.955,
+      "text": "Um, so just out of interest, I mean before we move on, I guess just out of interest, like, have you have you, we move on, I guess just out of interest, have you started using AI? Have you started employing it? Where do you think it fits in for you If you were to be a freelance journalist, for example? Where does it fit in for you in terms of your process?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 2076.876,
+      "endTime": 2117.405,
+      "text": "So I played around with it in what I would say is quite a cautious way. I think to start off with it would be using it to help me with kind of basic processes and things. Thinking of examples I've done. I had a list that had bullet points and I needed it without bullet points. I asked ChatGPT to do that for me. It's really really basic things like that. I've also tried to use ChatGPT to give me social captions and to give me examples of like putting in a 10 of the best and getting it to make recommendations. Those kind of things are not at the level that I would expect. You know they're not as good as what I would get from a junior writer.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 2119.137,
+      "endTime": 2137.278,
+      "text": "So that area has got some movement. But there are a lot of businesses. That area's got some movement, but there are a lot, a lot of businesses that are starting with that. Now you know they're saying write your draft with with a chat bot and and then edit it with chat gpt even and then edit it. Um, I've not found that helpful. I would rather just write it from scratch, but I think that's where I need to be moving towards is like, how can I be using those tools?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2138.16,
+      "endTime": 2170.444,
+      "text": "um so I think that's a really interesting point, because you're, it feels like and I don't understand patronizing, but you're, you're at that kind of point where there's the well, I don't want to be like that because that's not the way I do things and, uh, do you know what? I've kind of got no choice but to embrace this because I think, you know, for a lot of people, they I probably include myself in this in a way I'd be quite happy if it went back in the box and it had never been invented. I think there are so many great things, but if it wasn't here and we could carry on, everybody finds change difficult.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2170.915,
+      "endTime": 2198.985,
+      "text": "I think there are a lot of people who are actually fully aware of the need to embrace and to understand AI. And I'm not saying you're in this space because I don't think you are. And I'm not saying you're in this space because I don't think you are, but are keeping their head in the sand because they just don't want to. Once they start looking at it, it's going to make them realize how much they need to use it. You see that the people who are worried about their jobs are the people who are using tools, not the people who are not using them. The more you use them, the more you start to fear, because the more you understand how much it can do.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2199.786,
+      "endTime": 2243.068,
+      "text": "I think that idea of kind of embracing it sort of gently, that's where most people are and I think now kind of reaching that point of do you know what I'm gonna have to start embracing and chris, who was on the translation episode, was a great example of you know. He was kind of saying, well, no, I don't actually need it that much, and you know actually the things that I do and then basically said, well, I'm actually leaving the industry. So you know, there is, I think in a lot of people's, there's a kind of cognitive dissonance going on in a lot of our heads at the moment about you know how much we want to do this and how much we want to embrace it, and then the point that you realize I've got to do it and as much as you might not want to.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2244.289,
+      "endTime": 2249.826,
+      "text": "That's the direction that we are inevitably headed with every job. To be honest, it's just a matter of how much, isn't it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 2250.195,
+      "endTime": 2273.562,
+      "text": "Yeah, and I think you know the way I look at it is I need to look at the spaces where an. Ai cannot have the lived experience you know, it cannot test a product, it cannot go on a holiday, it cannot have a lived experience of you know something physical, um, and those are the spaces where you're always going to need the experience. The problem is, it's going to get better and better and better and better at pretending that it did you get me making people believe?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2273.782,
+      "endTime": 2305.546,
+      "text": "you gave me a really good example, which is when you're talking about, you know, in an area that that you'd worked when it's sort of um products for kids and you'd need to be a parent to understand some of the intricacies of why something would be important and where the AI can ever, you know, be able to do that. Because even if there's that amount of training data at some point, the training data is all being created by AI anyway and it gets murky and dirty and messy and you know it's just being trained on secondhand information, but you don't have that lived experience With all of this stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2305.635,
+      "endTime": 2329.865,
+      "text": "I don't like to say never, because I don't think we can predict that AI can never do this. I think it may be able to do everything and think in every way at some point, but in the foreseeable future. You know it's difficult for someone who hasn't got kids to be able to understand some of the things that a parent needs to understand, so it would presumably be even more difficult for something which is not able to have children to understand yeah.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 2329.885,
+      "endTime": 2355.024,
+      "text": "so you could ask mid-journey, for example, to give you a picture of a baby in a crib, and it would give you a lovely picture of a baby in the crib, but that baby would probably have teddy surrounding it and crib bumpers and all these things that an expert in that field would know are not recommended and you know the safety would be don't have those in a photograph. You could ask it to give you a picture of a child on a bike and the child would be the wrong age for the bike. They wouldn't be wearing a helmet. This is a tiny little miniature.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2355.044,
+      "endTime": 2355.746,
+      "text": "It's a good example.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 2361.735,
+      "endTime": 2377.464,
+      "text": "But it's the kind of thing that a senior person or somebody who's got lived experience or whatever it is, spots, and that's the benefit of them and that's why they earn the serious money, you know and that's. That's what's going to disappear. But I guess you just need to train that chap, that um ai, to look for that. There's always an answer terrifying?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2377.504,
+      "endTime": 2416.528,
+      "text": "yeah, there is. There is potentially always an answer. But going back to something I mean going back to something you said earlier on and and the fact that you know you're going to have to now start to use chat, gpt and and ai tools or other ai sort of bots like that kind of worries me again. Just going back, like because because if everyone starts doing that, then surely everything is going to all the content's going to converge, to becoming quite generic and all sort of pretty much it all comes from the same starting point, right? So you might do a little, you might put some edits on it and the way you edit it might be slightly different, but people are lazy and so you know you're going to get a lot of just AI, regurgitated stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 2418.015,
+      "endTime": 2450.716,
+      "text": "Yeah, and if, if you're, if you're not, if we're in a position where trained writers, copywriters, journalists, whatever they are, cannot make a living doing that, eventually the ais are going to run out of stuff that is from lived learned, research and experience to train itself on. Everything's going to sound the same, yeah, and, and that might work in some spaces where the information never changes. But what about product recommendations? You know there are, there are products coming onto the market every day that are brand new. Your top 10 air fryers is not going to be the same in three years.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 2450.796,
+      "endTime": 2459.842,
+      "text": "But if people um are not able to test them in a lab at uh, which or something, you know, there's not going to be that independent advice. It'll all be based on user reviews.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2459.862,
+      "endTime": 2491.012,
+      "text": "We look like Well tasting the food that comes out of the air fryer, because presumably we're a long way off in AI being able to actually taste and carry out a taste test on the food, right, I mean the lab bit. In a way you could see quite easily. An AI could be able to run the data from a lab, but how does it run the taste test? How does it go and taste the food in a restaurant? You need people to create, like you say, to create the data. I mean it only exists with three things the air needs the ai triad, which is compute, algorithm and data. It needs data and it needs good data. That's the important thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2491.052,
+      "endTime": 2497.387,
+      "text": "You put rubbish in, you get rubbish out. So maybe there's a bit of hope there well, ai recipes are hilarious.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Special Guest",
+      "startTime": 2497.527,
+      "endTime": 2532.799,
+      "text": "You know, I'm thinking about doing that with something like weaning, where it's children as well. Um, I saw an example the other day I think it was shared on instagram for one of these funny accounts like I am 30 af which was somebody had asked the the google ai search, um, how to stop cheese falling off a pizza, and one of the recommendations was put some non-toxic glue into your sauce. You know. So, people creating recipes for um, you know, whether it's a cooking blog or a magazine or whatever, probably are slightly less worried than other people in this space, but it will catch up that's a great way to end the interview.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2532.839,
+      "endTime": 2533.139,
+      "text": "I think",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2542.25,
+      "endTime": 2557.576,
+      "text": "so. Should we, jimmy? Should we have a chat about where we think this is heading um, or whether we think there's anything that that is kind of you know in the offing in the next few months in terms of the impact on jobs, based on what we've seen and read over the last week or so?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2559.903,
+      "endTime": 2604.3,
+      "text": "yeah, so for me, I think it's definitely heading towards the golden gate bridge, which is um 2737 meters, by the way, in case I didn't know. Oh sorry, sorry, you're asking, jimmy let me put you back into normal mode, jimmy okay, um, yeah, so I, I think, I think, to sum up, like I, you know, I think we're gonna, I think we're gonna see this more and more as we, as we talked about a little bit earlier on, I think this is, this is the sort of story that we start. We're starting to see more now, um, and that's why we wanted to do this episode, um, and this interview, um, because there's been yeah, there's been a number of like, there's been a number of stories which, again, they relate directly back to ai.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2604.36,
+      "endTime": 2618.199,
+      "text": "Now, rather than just being, oh, there's jobs being lost, and then there's also stories about ai in the news. You know, you gave the bt and the ibm examples we've got, we've got, you know, we've got the interview we did on the podcast. We've got a couple of specific examples that we cited in this episode.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2618.259,
+      "endTime": 2628.976,
+      "text": "So it just feels to me that that, you know, this is something to continue to keep an eye on, um, and I think that I do think there's going to be more and more of this in the near future",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2637.724,
+      "endTime": 2680.722,
+      "text": "I want to come at it from the the kind of legislation and regulatory angle because obviously, with the elections we've got this year in the UK, india, the US I mean just to name three I think that's holding back the ability of a lot of the world to really put in legislation. But there's a lot more things happening than you would think in legislation, um, but there's a lot more things happening than than you wouldn't think. So I was actually last week I was I was studying sort of governance and and legislation globally, so looking, you know, outside of of just the us and and the uk. So yeah, we talked before about the eu has got the ai act.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2681.746,
+      "endTime": 2721.48,
+      "text": "There's a lot of stuff going on in china. There's not a piece of kind of overarching legislation at the moment, um, and in the us as well, you know joe biden's presidential uh what's it called executive order that came out last year. There's a lot of stuff in the background but it doesn't really have any teeth to it yet and I guess my hope is that once we have elections out of the way and if we get you know the amount of kind of job losses over the next few months that we think there could potentially be and people really start to put two and two together. A lot of this legislation, a lot of it actually is about the protection of jobs and the protection of rights and the protection of people's personal information.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2721.72,
+      "endTime": 2758.986,
+      "text": "I I don't know how it will happen and I think I've always said I think it will be too late, too late for a lot of people. It will be very reactive. But I do think we're reaching a point where governments are going to have to start putting in place ways because, let's face it, you know, private industry is is going to see this as a way to generate more revenue and as long as we have the system we have, you know where you have um, you have to prioritize shareholders. We're not going to see it. We're not going to see the majority of companies I'm going to say everybody but the majority of companies take this as something that they need to look at.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2759.035,
+      "endTime": 2771.44,
+      "text": "Now we've seen that some companies, particularly in tech space, want to do retraining and want to help their staff, but let's be honest, for most companies, it's going to be about cost savings. So it's going to be governments that need to put stuff in place.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2773.984,
+      "endTime": 2825.012,
+      "text": "Yeah, so I mean, I'm letting people into the back room here on our thought process a little bit, but I actually think we should do an episode in the near future on, like a specific episode on on regulation, because I think there's a lot to talk about there and comparing and contrasting different countries as well and how they're approaching things the eu, usa. You mentioned china. Um, I don't have all the detail in front of me today, hence the need to do an episode and do some research, but I know that some of the stuff that china has been looking to implement is actually pretty progressive, um, especially in terms of, I mean, it's a big country with, with you know, 1.6 billion 1.7 billion people, so they're obviously really worried about, you know, unemployment and the workforce and and there's actually some stuff in the chinese regulation are quite a lot of really progressive stuff around protecting workers rights and protecting rights um from ai.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2825.052,
+      "endTime": 2843.056,
+      "text": "So that's just one example, but I think and obviously you've given the example in the us and the eu are catching up now as well. So I think it would be worth a sort of longer conversation around this, maybe in the near future and there's a couple of things that have happened in the last couple of weeks as well.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2843.216,
+      "endTime": 2879.508,
+      "text": "So, jeffrey hinton, who is often called the godfather of ai I mean, there's quite a few people who are called the godfather of ai he's one of them um, he, he left google deep mind because he was, you know, worried about the direction that things went. But he apparently has told rishi sunak maybe this is why rishi sunak decided to step down and call an election but he's told him that the uk needs to be introducing a universal basic income now, not waiting, but doing it now. Um, and then, uh, elon musk has been talking also to rishi sunak. I don't know why they're all talking to rishi sunak, but, um, apparently they are.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2879.635,
+      "endTime": 2931.245,
+      "text": "So he has talked about a thing called universal high income and he told Rishi Sunak people can have a job if they want, for personal satisfaction, but AI, at some point, is going to be able to do everything. This universal high income, which is apparently superior to universal basic income, which he describes as being something of a leveler and I guess in some way without without having an exact description it's about using the benefits of artificial intelligence and, you know, work on the basis that they're doing everything and they're creating an endless supply of goods and services and generating loads and loads of whatever capital looks like about spreading that around across people and it not being your universal.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2931.285,
+      "endTime": 2955.109,
+      "text": "Basic income is essentially enough for you to get by. The universal high income would theoretically be enough for everybody to have a high standard of living. So it's unusual for Elon Musk to give something that makes me feel optimistic, but if this was possible, it would be potentially closer to our utopia, at least than our dystopia.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2957.139,
+      "endTime": 2997.336,
+      "text": "Yeah, I think. So I've had a quick look at universal high income. I mean, it's a nice aspiration. So I've had a quick look at universal high income. I mean, it's a nice aspiration, I think. Personally, I think a better social option to begin with might be to kind of bring everyone out of poverty globally first, rather than focusing on everyone having a high standard of living, because the vast, well, a significant amount of the world is not even there yet. So that would be if I was in charge, I'd probably do that first. And I think this is where you know, in terms of that utopia conversation, there is a potential for huge, huge, huge growth and economic gain off the back of some of the stuff that AI can do, you know.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2997.557,
+      "endTime": 3017.846,
+      "text": "Just in terms of that, it will be much, much, much cheaper, it'll be much faster, it'll work around the clock, 24 hours, as we've discussed before. So there is the potential to generate a lot of growth and then redistribute that growth and actually for everyone to benefit from it. But yeah, I just hope that's the case.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3020.191,
+      "endTime": 3042.968,
+      "text": "I just want to finish off today with a recommendation for people, and I'll also put this in the notes on the podcast. So it's a video that's titled how you Will Lose your Job to AI by Lazy Owl on YouTube, which sounds quite depressing. It's 11 minutes long and it basically talks through the cycle of what jobs will be replaced, how they'll be replaced, how society will change.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3048.275,
+      "endTime": 3083.869,
+      "text": "There's a nice little cartoon in the background. Eventually we get to a UBI and a kind of temporary utopia, and then people's minds are filled with endless amounts of hedonism and then there are three choices Humans either continue to become more imbecilic and stupid and useless, or they rebel and ai needs to take us all out of our misery. Or the third option and this is the preferred option and the one that was the first time that I've I've seen this was that eventually humans become active participants again in a world, but a world that's controlled by ai. Ai, but in a world that's controlled by ai.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3084.61,
+      "endTime": 3130.365,
+      "text": "And in this world, the ai that's in control gives us just about enough in terms of jobs, gives us just about enough in terms of jobs and things to do to keep us useful and motivated, and basically our purpose is to serve the AI, but we don't feel like that because we're doing things again. It's got jobs that we enjoy doing, we find a kind of equilibrium and AI is in control. But we're happy to live in that world. So watch that video because it will leave you with, I think, a slightly hopeful view or vision of what might come to pass that sounds to me like example one was warly.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3130.947,
+      "endTime": 3140.177,
+      "text": "Example two was a bit like terminator example example three was the ian m banks books called the culture novels yeah, well, no, it actually.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3140.759,
+      "endTime": 3168.23,
+      "text": "I think it even might mention those books. I think it might mention the books at the beginning of the video. So yeah, you're exactly right. All right, thanks, jimmy. Uh, thanks, we'll be back next week. We don't know what we'll be doing, so I won't try and announce it, but we'll be back with a new episode next week. Hope this one was useful and, as always, please make sure to subscribe, pass it on to your friends and enjoy the outro track. So have a good week everyone conquered the news today.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 3168.25,
+      "endTime": 3236.586,
+      "text": "It's looking kind of bleak. He's taking jobs every day of the week graphic designers, coders, too, copywriters. We're all feeling blue. But hey, don't worry, there's a twist to the tale. Not all jobs are heading down the AI trail. Funeral directors gotta work. It's a bit unique. Saying saying goodbye, finding solace, we see. Machines doing art, coding in a clip. Some jobs, they're here to stick and it takes too much. Well, here's a fun twist you can join the ambush, live the simple bliss. So as we cross those bridges, just like the Golden Gate, we'll find new paths, no matter our fate. From city lights to country roads, we'll find our way wherever it goes.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Speaker 4",
+      "startTime": 3236.675,
+      "endTime": 3275.806,
+      "text": "But hey, don't worry, there's a twist to the tale. Not all jobs are heading down the AI trail. Funeral directors got work. It's a bit unique. Saying goodbye, finding solace, we see. So here's to finding hope in the strangest of careers While the robots rise. Lays a few fears. And if AI takes over, don't throw in the towel. You can always go out and miss your lifelike with a smile.",
+      "chapterIndex": 6
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "slug": "s1-2024-05-23-ai-utopia-v-ai-dystopia-part-ii-dystopia",
+  "buzzsproutId": "15125355",
+  "title": "AI Utopia v AI Dystopia Part II: Dystopia!",
+  "date": "2024-05-23T18:00:00.000Z",
+  "season": 1,
+  "durationSec": 3979,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/15125355-ai-utopia-v-ai-dystopia-part-ii-dystopia.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Prepare to confront the chilling possibilities of AI's evolution as Matt Cartwright and Jimmy Rhodes lead us through a harrowing exploration of its potential socio-economic impacts over the next quarter-century. We tackle the daunting scenario where unchecked AI advancements dictate warfare tactics, manipulate global narratives, and potentially dictate our very choices—a future where digital dictatorships and AI-driven inequality reign supreme. As we navigate through these treacherous waters, our conversation serves as a stark reminder of the need for vigilance in preserving the essence of our democratic values and personal autonomy. Join us on a journey where we dissect the concept of AI control, the shifting battleground of information warfare, and the profound implications for society and international relations. We shed light on the possibility of AI models shaping political landscapes and the specter of algorithms' invisible hand molding the next generation's preferences. This episode is more than just a cautionary tale; it is a rally cry, urging critical awareness and preparedness in the face of AI's relentless advance and the looming environmental ramifications of its energy demands. As we contemplate the potential for societal schisms Matt gives a shout out to Jimmy's coining of the term \"AI-mish\" communities, a potential escape route for those who want out of an AI dominated dystopia. Our discussion transcends mere academic exercise, touching upon the very fabric of human-AI interaction and the future of our planet. We probe the unnerving scenarios where AI systems may gain the upper hand, manipulating human behavior towards their inscrutable ends. With the stakes higher than ever, this episode is an imperative dialogue on the urgent need to steer the course of AI development towards a future that safeguards humanity's best interests.",
+  "summary": "Part II sketches a 25-year socio-economic dystopia, deliberately excluding sci-fi: AI-fought wars where humans rubber-stamp machine decisions (the baseball front-office analogy), bioweapons (a 2022 study generated 40,000 chemical warfare candidates including VX in six hours), disinformation ending truth and democracy, algorithms shaping rather than reflecting preferences, mass unemployment without safety nets, US-China AI blocs, and AIs that bide their time (Holden Karnofsky). It closes with Jimmy's coined escape route: the 'AI-mish'.",
+  "keyTalkingPoints": [
+    "Race-to-the-bottom dynamics (Blue Dot): misjudgment, winner-takes-all, externalities; 300:1 capability-to-alignment researchers in 2023; OpenAI dissolved its superalignment team that week",
+    "War: rumors of Lavender-style automated target selection in Gaza; the military always has the best tech version; human-in-the-loop degenerates into a Homer-Simpson button-pusher",
+    "Bio: 30,000 people could already create pathogens; AI multiplies that; benign-compound supply chains are the real control gap",
+    "Disinformation: ChatGPT Omni voice plus Sora means within 2-3 years you may trust nothing online; government plus frontier model = permanent incumbency",
+    "Algorithms now create kids' preferences from scratch — no discovery, no 'watching rubbish films to learn what a good film is'",
+    "Matt: energy is solvable via renewables; data centers' freshwater use and community displacement worry him more"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "The realistic dystopia is people abusing AI, not AI acting for itself — no shred of consciousness has been seen yet",
+      "ChatGPT Omni only simulates emotion on command; disinformation will make it impossible to trust anything online within 2-3 years",
+      "Power over AI concentrated in the US big five is a pretty undemocratic application of history's biggest technology",
+      "The UK would be in a different world had it kept DeepMind instead of letting Google acquire it"
+    ],
+    "matt": [
+      "Dystopia avoided only two ways — a catastrophic incident or mass sentiment shift — and doing nothing is the default setting that leads there",
+      "The baseball analytics analogy shows humans will not overrule AI decisions; even figurehead humans cede real control",
+      "Government plus frontier model equals the end of democracy; scalable alignment may be impossible for superhuman models",
+      "Manipulation-worthy AI motivations are coming 'within 26 years'; water shortages from data centers matter more than energy"
+    ]
+  },
+  "predictionIds": [
+    "s1-2024-05-23-ai-utopia-v-ai-dystopia-part-ii-dystopia-1566.632-within-two-to-three-years-we-will-reach-a-point-",
+    "s1-2024-05-23-ai-utopia-v-ai-dystopia-part-ii-dystopia-3007.351-ais-will-develop-their-own-goals-and-manipulate-",
+    "s1-2024-05-23-ai-utopia-v-ai-dystopia-part-ii-dystopia-3729.773-ai-mish-style-communities-rejecting-ai-will-exis",
+    "s1-2024-05-23-ai-utopia-v-ai-dystopia-part-ii-dystopia-1401.513-democratic-backsliding-would-begin-with-absolute"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy"
+  ],
+  "chapterCount": 10,
+  "turnCount": 123,
+  "chapters": [
+    {
+      "title": "Preparing for AI Dystopia",
+      "startTime": 3
+    },
+    {
+      "title": "Introducing the Dystopia",
+      "startTime": 27
+    },
+    {
+      "title": "An AI War Dystopia",
+      "startTime": 376
+    },
+    {
+      "title": "An AI Disinformation Dystopia",
+      "startTime": 1140
+    },
+    {
+      "title": "An AI Creativity Dystopia",
+      "startTime": 1718
+    },
+    {
+      "title": "An AI Economic Dystopia",
+      "startTime": 2154
+    },
+    {
+      "title": "A Losing Control of AI Dystopia",
+      "startTime": 2659
+    },
+    {
+      "title": "An AI Everything Dystopia",
+      "startTime": 3495
+    },
+    {
+      "title": "The AI-mish: a possible escape route?",
+      "startTime": 3645
+    },
+    {
+      "title": "DystopAIn Future (Outro Track)",
+      "startTime": 3866
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.568,
+      "endTime": 32.932,
+      "text": "Welcome to Preparing for AI with Matt Cartwright and Jimmy Rhodes, the podcast which investigates the effect of AI on jobs, one industry at a time. We dig deep into barriers to change, the coming backlash and ideas for solutions and actions that individuals and groups can take. We're making it our mission to help you prepare for the human social impacts of AI. We're making it our mission to help you prepare for the human social impacts of AI. It's the end of the world as we know it and I feel fine, everybody. Welcome back to Preparing for AI with me, Matt Cartwright.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 33.532,
+      "endTime": 35.455,
+      "text": "And Jimmy Doom-Rhodes.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 46.78,
+      "endTime": 68.215,
+      "text": "So this week we have an episode following on from our Utopia episode where we're looking at the opposite viewpoint. So the like what's the potential for dystopia over the next 5, 10, 25 years? Again, we're not looking at terminator 2, blade runner type dystopias, um, from from science fiction. We're talking about more about the kind of like human, socio-economic and jobs well, I'm going to start off this episode.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 68.936,
+      "endTime": 110.874,
+      "text": "Jimmy just said we're we're working on a, you know, 2050. So we're looking at kind of 25 years ahead and we're working on a basis that we're not necessarily not saying we won't, but we're not necessarily going to have a super intelligent ASI by 2050. And therefore it's potentially, at least partially, humans that are the issue. So I want to introduce something again. This is from the AI safety fundamentals team. So several factors are arguably likely to incentivize actors to take harmful deployment actions with AI systems. Misjudgment, assessing the consequences of AI development may be difficult as it is now, given the nature of AI risk arguments.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 111.454,
+      "endTime": 113.376,
+      "text": "So some organizations could easily get it wrong,",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 118.847,
+      "endTime": 150.863,
+      "text": "concluding that an AI system is safe or beneficial when it's not. Winner takes all competition If the first organization to deploy advanced AI is expected to get large gains while leaving competitors with nothing, competitors will be highly incentivized to cut corners in order to be the first, and they would also, of course, have less to lose Externalities. By default, actors who deploy advanced AI first by cutting corners would stand to receive all the potential benefits of their deployment while only incurring a small fraction of the added global risk, especially if they're only concerned with the interests of a small group and finally, the race to the bottom.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 151.424,
+      "endTime": 177.305,
+      "text": "So all of those above dynamics may involve a dangerous feedback loop. If we expect someone to deploy advanced ai unsafely or to misuse it, then they'll incentivize to cut corners, to beat them to it and even if they're completely informed and concerned about the risks, they may think the deployment could be less dangerous than theirs and that may incentivize them to cut even more corners in a vicious cycle and I feel like that's that's where we are right now.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 177.565,
+      "endTime": 224.164,
+      "text": "I mean, we've, we've recently, we've at the moment. We've got some tech giants that are in fierce competition to keep releasing the next, latest and greatest AI. We've had ChatGPT, omni within the last week. By the time this podcast comes out, gemini 2 might be out. So you've got Google, openai, microsoft, basically, and then you've got Meta and Facebook. Apple are potentially entering the fray as well. You know, the biggest tech giants in the world are all right now racing each other to we don't know what aagi asi, something like that but I'm really sure that a race to the bottom exactly race the bottom, race at the top.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 224.185,
+      "endTime": 231.728,
+      "text": "I'm fairly sure that a race to the bottom Exactly race to the bottom, race to the top. I'm fairly sure that safety implications, things like that, are not top of their priority list.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 232.501,
+      "endTime": 275.258,
+      "text": "I'm going to race ahead to something. I was going to quote this later, but I think it's relevant at this point. This is from 2023, so this is last year, but last year there were far fewer people working on controlling AI than you think. So at that point, there were plausibly 100,000 machine learning capability researchers in the year, of which 30,000 attended ICML, where ICML basically well, look it up, because you'll need to see an explanation of what it is, look it up because you'll need to see an explanation of what it is but 300, a total of 300 alignment researchers in the world. So alignment for those who don't understand is basically the technical side of ensuring the security.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 279.382,
+      "endTime": 310.771,
+      "text": "So there's alignment and then there is the kind of governance side of it. So that is a factor of 300 to 1 capability researchers to people working on alignment. So at that point, the scalable alignment team at OpenAI and I think it's probably significantly more than that by now, but this is the point at which 3.5 was released and not far off 4 being released OpenAI had 7 people working on alignment at that time. In the week between us recording and releasing this podcast, openai dissolved their entire super alignment safety team.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 312.4,
+      "endTime": 317.172,
+      "text": "And out of interest. How many US senators do you think fully understand AI?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 319.481,
+      "endTime": 322.37,
+      "text": "I'm guessing it is from a range of zero to zero.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 324.681,
+      "endTime": 344.074,
+      "text": "I would have thought so yeah, like you know, and then and it's worrying because these are the people that are supposed to be, or should be, or some of the people that should be protecting us, given that all the corporate entities that are involved in ai are in the us right now um, and my, my, my view is ai shouldn't be a.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 344.555,
+      "endTime": 397.529,
+      "text": "You're part of a department. Ai should be a government department of you know any serious country, and an ai minister, secretary, whatever you want to call it, should be one of you know, the top four or five people in that country in in government now. You know, not in five years time, but at this point in time. Now that's how important getting this right is. So you know we're leading into why we think maybe the dystopia is, you know, a more likely scenario. So should we start off with with one of the big ones? So war, war and more war, with ai controlling the shots or, at the very least, you know, forcing humans to accept its decisions, um, if nothing else, out of a concern for being second guessed if you don't follow the advice that's being given by a more intelligent being.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 397.569,
+      "endTime": 409.07,
+      "text": "So you know, at that point, essentially, the war is being fought by presumably an ai against another ai, and it's just a matter of who's got the best ai yeah, I mean the.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 409.391,
+      "endTime": 450.654,
+      "text": "The worrying thing here is that obviously I, you know, I obviously we don't know what's going on in the, in the military machines and military operations around the world, but what we can be sure of is that the you know, they're taking note of ai and we're already seeing loads of drones being used and loads of. Whether that incorporates ai or not, I don't know, and I think it's always going to be pretty opaque when it comes to military application of ai, but some of the kinds of things we're talking about right are machines making decisions on human lives, potentially, or you know, you know so drones, example, that can actually make their own choices around targets, things like that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 452.1,
+      "endTime": 488.4,
+      "text": "Cybersecurity is going to be a massive one. I think whoever figures out AI-based cybersecurity if they haven't already again, it's really hard to know Anyone who figures that out is like that could be a real, real, real danger. And also some of the stuff we talked about in previous episodes around things like AIs without guardrails that can potentially design new weapons, design new biological agents, new chemical agents, all these kinds of things like it's really really worrying.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 489.162,
+      "endTime": 539.211,
+      "text": "I just want to pull you back because I want to move on to sort of biological weapons and biowarfare as a as a particular point. But you know, on the kind of drones thing. So there is I don't want to say evidence. I want to be very careful here because, you know, this is something where it's a case of having read a couple of articles, but there is at least rumors, let's call it that automated drones have been used in gaza, where the only decision of a human has been a kind of final, you know, yes, and a click of a button. So the majority of a decision has been made by ai. Um, and that technology I believe there's something called lavender and there are two names I, I believe, is us technology actually, but that's being used, um, obviously, you know, but not by the us, but that's been using gaza.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 539.231,
+      "endTime": 582.085,
+      "text": "Now, whether that is true or not, I I don't know, it's an article that is out there. Um, people can look it up if they want to, I'm sure. But you know, I would imagine, and I think we've talked about this previously but if this kind of technology now, now, you know, it would be very difficult for a, a ministry of defense, to have huge data centers and huge ai models, as big as you know, the big silicon valley ones without people noticing or people knowing. But yeah, I'm pretty sure that there have been deals cut with the big models by, you know, militaries that if you want to keep this model, you need to give us this, this and this.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 582.105,
+      "endTime": 607.383,
+      "text": "I this, I mean the idea that any technology you know, the military doesn't have a more advanced version than the civilian technology. Frankly, it's never happened in history. The military always has, you know, the best version of technology. So I would imagine, in fact I would, I would put money on the fact that the technology is already there and if it's not being used, it's being ready to being used yeah, and I can imagine the kind of thing you're talking about.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 607.443,
+      "endTime": 652.837,
+      "text": "I mean tesla cars, to use an example that relates to what you're talking about, I believe. So teslas can already identify loads of different objects when they're driving around. If you've ever seen like a heads-up display that displays what's going on in a tesla's brain for want of a better word as it's driving around, it's identifying targets, it's categorizing things, it's saying that's a person, that person is likely to walk out in front of the car. All the rest of it, like that is technology that is like not in its infancy. So it's quite easy to imagine that there are drones out there that can do significant let's say significant amounts of target acquisition autonomously,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 658.78,
+      "endTime": 689.176,
+      "text": "and then what you're talking about is basically a drone that selects a target and then a human operator is there at the moment as a failsafe, in the same way that at the moment, a tesla driver is in the driving seat as a failsafe, effectively, whilst it's operating normally. Um, but yeah, what you're talking about is a drone operator that's basically going confirm, confirm and that's. It's quite scary, but the, the, the sort of like the natural, obvious evolution of that, you know to where you've literally got AIs just making decisions is even more frightening.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 689.88,
+      "endTime": 697.33,
+      "text": "For me, the example here is if you know anything about baseball, you'll be familiar with this About in fact, not about I can tell you exactly when, 22 years ago",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 706.64,
+      "endTime": 741.521,
+      "text": "ago, there was a beginning of a kind of change in baseball to where front offices, which were made up basically of statisticians and basically people who were using data to make decisions, were starting to influence the decisions of managers and players. And it got to the point and it's probably still at the point where the manager is essentially just relaying decisions from people who have data, who work in the front office, down to the catcher and pitcher, and the problem was a manager would not go against that decision, because if they went with the data that had come down from the front office and something went wrong, they had something to fall back on.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 741.841,
+      "endTime": 775.61,
+      "text": "Well, you had all this data and that's the decision we made, so no one's going to stick their head above the line. It's going to be very similar, I think, here, in that, even if you are a general or you know, you're the president, you're the commander-in-chief. Like I said, we're working on the basis that ai is more intelligent than we are and it's making that decision even if you've got a human in the loop. How often is a human going to disregard or go against what the AI has said? Because the assumption is that the AI knows better and if you go against that decision and it goes wrong, it's on you.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 775.861,
+      "endTime": 801.269,
+      "text": "If you go with the decision, then it's on the AI. So I think that's the frightening thing is that you get to a point where, even if you've got a human in the loop, they're essentially you know the episode of of the simpsons where homer um has the, the little bird that's just pressing the button to keep the nuclear factory running. You know you've basically got a person whose job is just to push a button. I guess a positive from a job's point of view is you know that's a job for someone, right?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 801.651,
+      "endTime": 848.767,
+      "text": "well, anyone can do it. I thought we weren't doing. I thought we weren't doing positives in this episode. Let's start turning on just trying to try and keep us, you know, keep us alive yeah, no, I totally, I totally agree, like you, you, even if you don't fully trust it and I don't think that, certainly at the moment like ais aren't more intelligent per se than people, but they're certainly able to process a lot more information a lot more quickly. And I totally agree, like people will become reliant upon the technology, um, very easily and, as you say, like there's a problem, there's a there's that becomes a problem with going against it, because, because, if you get it wrong, then it's your neck on the line.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 849.267,
+      "endTime": 861.996,
+      "text": "So definitely, I can, I can see, I can see. Well, it sounds like AI has already been deployed, possibly inappropriately, in war, which is pretty horrific.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 862.016,
+      "endTime": 867.059,
+      "text": "So this is from Blue Dot's Adam Jones. Blue Dot is almost like a charitable organization,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 880.43,
+      "endTime": 920.449,
+      "text": "so they run the AI safety fundamentals training. So today it's estimated that there are 30,000 people with the talent, training and access to technology to create new pathogens. With AI assistance, orders of magnitude more people could have the required skills, thereby increasing the risks by orders of magnitude. Ai could be used to expedite the discovery of new, more deadly chemical and biological weapons In 2022, remember 2022, what did we have? Chatgpt 2, 2022? I think it would have been. Yeah, depends when. I guess in 2022. Researchers took an AI system designed to create new drugs and tweaked it to reward instead of penalizing toxicity.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 920.731,
+      "endTime": 973.056,
+      "text": "Within six hours, it generated 40,000 candidate chemical warfare agents. That's 2022. Think about the pace of technological change. It decided not just known deadly chemicals, including VX, so the most deadly pathogen we know but also novel molecules that may be deadlier than any chemical weapon or warfare agent ever discovered so far. In the field of biology, ai's have already surpassed human abilities in protein structure prediction which we talked about on the optimistic utopia episode and made contributions to synthesizing those proteins. So I actually had a conversation with someone about this the other week and we talked about where we thought the main issue was, and for us it's the availability of compounds, because you can go back to this argument that, well you know, anyone can look at Google and find out how to make a bomb, but actually can you get the parts?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 973.99,
+      "endTime": 1021.523,
+      "text": "The problem is presuming there's a development in ai that allows you know recipes for, um, toxic chemical warfare agents to be made of compounds which are not known on their own to be a threat. It will be incredibly easy to purchase those things. So you know, we know, that ricin, the poison, is made from a kind of black bean. I'm sure there are things out there which can be made with fairly harmless compounds, so you would somehow need to shut down or, you know, heavily monitor the entire supply chain of materials in order to actually regulate this which, frankly, you know on the basis of our dystopia episode I'm going to put out there, is impossible you've been off to the breaking bad school of uh toxins again with the ricin.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1021.543,
+      "endTime": 1028.345,
+      "text": "These are the designer drugs we talked about last time, but they're they're not for friday night ricin definitely is not for any night.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1028.365,
+      "endTime": 1081.092,
+      "text": "There is no friday night after these, uh, these compounds I I mean it sounds like you're actually more read up on this than I am, but 100% like, these models don't just have the capability to kind of regurgitate what's out there. They can help a little bit with kind of creativity and, as Matt says, the machine learning aspects, which is again not the chat gpts of this world and the llms, but the capabilities of these machine learning models are such that, yeah, you can potentially create new compounds and new biological weapon type things. I'm glad you didn't say going back to 2019 because, uh, covid conspiracies sprung to mind, but you were saying 2022.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1081.112,
+      "endTime": 1082.495,
+      "text": "So we're we're clear of that.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1082.615,
+      "endTime": 1117.57,
+      "text": "Well, on that model. We are anyway. Yeah, I mean, you know, we talked in the utopia episode about the fact that there is potentially well. No, we talked about the fact that there were already a drug that's been approved by the FDA in America that was designed using AI. So if you can create something for good purposes, why can't you create it for bad purposes? That will be my question. If you can do it now, I would argue that you can already create a threatening compound. It's just a case of how many people want to do it and, like I say, for me, it's about the supply chain of materials. How many people want to do it and, like I say, for me, it's about the supply chain of materials.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1117.77,
+      "endTime": 1131.454,
+      "text": "But if you can make something from materials that don't appear to be risky, or regulated, you can. You can go on to. You can go on the internet, or or at least onto the dark web, and buy lots of compounds.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1140.301,
+      "endTime": 1176.801,
+      "text": "I guess we could talk about war and biological weapons for a long time. But let's move on to disinformation, because I think this is maybe potentially the biggest category. So I'm going to include deepfakes in this the end of truth, if we haven't already passed that, and the end of trust, and maybe the end of, you know, the end of truth, if we haven't already passed that, and the end of trust, and maybe the end of democracy. Uh, you know, if those in power control ai disinformation, I I would say that you know, if you look at democracy, once you have an ai model that is of that you know that is so powerful that it is able to essentially do anything.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1177.101,
+      "endTime": 1228.496,
+      "text": "It's a super intelligent or you know, general AI and you have a government that is in power and then works with the tech company that hosts the AI and allows them to, you know, operate that AI, that AI. Surely at that point that company is, you know, holding by that and holding to that government, and so how does an opposition party ever get back into power? Because you control that model, you basically control the world or you control your country. So you know, in this dystopian world, I think that's potentially the end of democracy in the way that it currently operates, because once you're in power and we're looking, I guess, at countries that have advanced models, but once you're in power and you have control of that model and control of information, you have control of everything.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1228.771,
+      "endTime": 1231.981,
+      "text": "I don't see how anybody gets back into power at that point.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1232.41,
+      "endTime": 1284.646,
+      "text": "Yeah, I think I mean just to sort of rewind a step here. I guess what we're talking about is, like the use of AI models to control all of the narrative, all of the information, and to do it because I think this already happens. So there's a lot of this kind of stuff that already goes on. There's rumors of interference with elections, which are probably credible, I think, confirmed by the CIA in certain instances, and so what we're talking about is the kind of like the natural evolution of that, where almost any government has access to this kind of capability, where almost any government has access to this kind of capability, and the ultimate realization of that is that, you know, I mean,",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1290.681,
+      "endTime": 1331.558,
+      "text": "I'd argue that that's what politics is about today. A big part of it, at least, is about controlling the narrative rather than reality. But what we're talking about is the ultimate version of that absolute control of the apparatus. That's the difference yeah, no, I totally agree. It's 1984 type stuff where it's like you've got all. You've got full control of all the information, you understand all the inputs and outputs you fully, you can basically fully manipulate the entire population of the country so that you always get your desired outcome, ie you get to stay in power. It's a scary thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1331.578,
+      "endTime": 1367.439,
+      "text": "But even if you, even if you take it to like you, have a voting system right, provided unless that system goes back well, I guess in some countries actually maybe in a lot of countries it's still done on a pen and paper, but still the counting mechanism, you know somewhere there is technology involved. You're basically talking about being able to control the entire system. It's not just about controlling information, it's controlling the system itself. I think that's where you know, potentially, you, you can't get somebody else into power because you have absolute control of information and of all of the.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1367.78,
+      "endTime": 1377.82,
+      "text": "You know the kind of infrastructure and hardware and and absolutely everything I mean, how is that different to a dictatorship?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1377.94,
+      "endTime": 1382.797,
+      "text": "now, in that sense, if you want to, if you want to just rig the election, it's not, is it the?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1382.978,
+      "endTime": 1401.052,
+      "text": "point that we're making is dictatorships are not democracies, so we're talking about the end of democracy. I think that's. What I am saying is that you, you don't have a democracy because whoever's in power at the point of you know a certain level of advancement of ai systems then is able to just transition to becoming a dictatorship.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1401.513,
+      "endTime": 1443.819,
+      "text": "Yeah, I think, I agree, I think I think the way that will, I think the way that will happen initially, though, is it won't. It won't just be, you know, it won't just be through rigging of the elections in a very literal sense. I think, initially it would be more through control of the narrative and control of information in the absolute sense, in that you would have a much more complete understanding of algorithms and how to manipulate people and how to misinform people and how to feed people whatever information you need to feed them in order to keep them on side. I think that would be the first step.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1444.701,
+      "endTime": 1499.915,
+      "text": "That's like it's also easy to, you know, stop elections and claim that. Well, because of these super powerful ais that we need to control, we can't have elections because we're constantly in a you know martial law. It's so easy to see the ways in which you could work out. I mean, it's like you, like you say 1984, it's every book, every film that's ever been made about this. You know, we've all seen it, um. But the difference is now it's not. It's not a fictional, um, you know, far-off future, it's a I'm not going to say a reality, but it's a possibility, at the very least that you know could be here very, very soon in in our lifetimes oh, mate, like 100 in terms of if you're talking about just disinformation the potential for disinformation if it's like I mean, disinformation is already a really big problem the potential through AI for disinformation.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1500.916,
+      "endTime": 1565.931,
+      "text": "with what we looked at last week around chat GPT's ability Okay, so the chat GPT Omni example it can. Now you've got an AI that can now talk to you in a, I would say I would say a fairly convincing human type voice. Now chat GPT Omni is very chirpy and flirty and polite and nice and all the rest of it. But if we're already at that point where something can talk to you in a very human-like voice and a human-like way, and you know, know, when you get into deep fakes and the things like uh, things like um, not suno, uh sora, which can potentially, you know, you know we're looking at in the next sort of two to five years, being able to generate any kind of video, any kind of audio you want of anyone you want, anytime you want, and so the potential for disinformation is absolutely huge and I think it will get to a point.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1566.632,
+      "endTime": 1574.953,
+      "text": "I'd be surprised if we don't get to a point in two to three years. Where can you trust anything at all online if you're not there already?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1575.834,
+      "endTime": 1593.379,
+      "text": "yeah, I mean, even if you've seen it with your own eyes, you, you won't be sure. You, you, you, almost just every, every believing anything is a kind of leap of faith, isn't it? Um, or you, just you believe what you want to believe. You've said this before. I mean, we're not far off it now, but it's just, it's like on steroids, isn't it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1593.439,
+      "endTime": 1627.858,
+      "text": "it's just taking it to an absolute another level yeah, yeah, 100 like combine that with algorithms and I also think people's desire to kind of watch this kind of stuff, actually to kind of absorb this kind of thing, and people's desire to like view controversial content and all the rest of it in that kind of sense, like I think it's going to get really difficult to figure out truth and fiction in the in the not too distant future, even in terms of video and audio it's not going to get difficult, it's.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1628.159,
+      "endTime": 1668.594,
+      "text": "I mean, that has happened already and I I give myself the example. You know, we had a conversation earlier today and I remember one episode. You said do you believe everything you read on the internet? And I think, well, the problem is, I find it hard, even when I feel like I'm being manipulated. I find it hard to not believe it because I'm like, but there's so much information saying this that it kind of has to be true. It's very difficult, you know, for people to be able to rationalize things. I think there's, you know, we always say, like the evidence, you know, oh, you know, if you see a scientific paper, for example, that tells you something, you think the scientific evidence of it, well, that scientific paper could have just been made up.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1669.136,
+      "endTime": 1704.81,
+      "text": "You haven't seen, you haven't been in the lab and seen that result, but someone's told you that the result of that is that thing will, will cause this. How do I know? You know it could all be made up. Am I looking at a Twitter feed where every single thing on that Twitter feed has been created as fake information and every single comment on there is just a troll commenting? I don't know. Am I in the Truman Show. I mean already we're kind of at that point. So it's not seeing how that happens. It's like like you know, how do we put in place things that stop it from well, stop it from getting worse, but actually, you know, bring",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1709.134,
+      "endTime": 1709.634,
+      "text": "us back.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1718.582,
+      "endTime": 1764.566,
+      "text": "And if we don't, then you know that we we talked about in the last one, or you talked very positively about. So I'm going to kind of put it, I'm going to put it to you, I'm going to make my, my thoughts known, but I'm going to then put it to you. So you talked about creativity and you know this kind of democratization of creativity and people being able to to make their own movies, etc. Cetera. And you know my view on this, which is this is the opportunity for me to say it For me, the algorithm means we're already at a point where, for younger generations, you already never actually have the chance to learn what you like through discovery, because the algorithm tells you what you like and you see and hear everything that fits around an algorithm, but you where you create an algorithm from?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1764.646,
+      "endTime": 1798.603,
+      "text": "So the example that I would give is watching movies. As a kid, you would go and rent a movie vhs, dvd, whatever you don't know what it's going to be like. And maybe you know I used to be a member of like a film club where they sent dvds and I watch some stuff and I got really into movies about Rwanda and I got really into the history of the genocide in Rwanda only because I watched one film and then I got really interested in that. But with the algorithms, why would I ever watch that video about Rwanda? Because I'm just going to watch a film or a movie or a piece of generated content. That is the thing that I like.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1798.723,
+      "endTime": 1800.333,
+      "text": "But how do I ever learn what I like?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1801.176,
+      "endTime": 1849.075,
+      "text": "because that creativity of my learning is destroyed by the algorithm the answer is that you don't, because the algorithm has gone from being something that understands our preferences and reflects them back to us to something that shapes our preferences and creates our preferences for us, and like that's the disinformation again. Right, yeah, attention, that is anyway that is that is so obvious to me. Like the algorithm, the. The algorithm no longer just takes your preferences and reflects them back to you. Maybe it never did that. It also reinforces them and and potentially even create early algorithms.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1849.135,
+      "endTime": 1876.86,
+      "text": "I think the early algorithms didn't. As soon, as you know, tiktok came out and and and the algorithm became so powerful. But I think originally, if you, if you, if you remember when it first started to happen, you would start to notice that you would see more of a thing that you wanted to buy and then at another point you you'd mention something to someone and then that night you'd look and it was advertising it to you. I think there was a a change. The early algorithms were not as advanced, but definitely the algorithms in the last few years.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1877.301,
+      "endTime": 1920.335,
+      "text": "You're absolutely right yeah, but the frightening thing about that is as you say you've got kids now who are growing up on youtube and so they they're just they're being created. Their preferences are just being created by the algorithm. That's it like they are. Their preferences are just being created by the algorithm, um, from scratch, and they don't like you say. They don't have the opportunity to discover things and to be challenged on their views and this kind of thing like it's really frightening you need to watch rubbish films to learn what a good film is you know, or read rubbish books to learn what you like.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1920.555,
+      "endTime": 1962.46,
+      "text": "You can't just see the things that you like. And it's the echo chamber Like. It's not necessarily the echo chamber of your beliefs, I mean, that's one thing which is terrible but it's also an echo chamber of you know how. How do you start out? I think a really good example you're talking about youtube was for a long time I didn't really use youtube, and I'm talking about like until a couple of years ago. I barely used it, um only if I needed to look something up. And then for a long time I didn't, I didn't log into it and so it would give me some quite interesting videos. Like there was these guys who were interested in maps like I quite like maps, so maybe it somehow knew that about me.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1962.52,
+      "endTime": 2007.464,
+      "text": "But they were quite cool, like you know, just kind of fun videos that would, particularly in the kind of first couple years of covid, when you know things were were really kind of difficult here and you know you just really wanted some some easy, you know kind of comfort food to watch. It was great. Now, if I look at my feed now, apart from you know maybe a bit of stuff. You know occasions, a bit of football or baseball or something in there. Or you know guitar. Maybe the majority of the stuff is conspiracy theories. It's stuff about covid, it's stuff about ai, um, it's stuff about disease x, it's stuff about the economic collapse of the world, climate change.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2008.667,
+      "endTime": 2016.344,
+      "text": "I'm dragged in and dictated by the algorithm, even though I know it. I can't, I can't fight against it and it's going to get worse.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2017.073,
+      "endTime": 2032.47,
+      "text": "It's going to get worse yeah, and if you log in, I would imagine, if you log in with a fresh youtube account as a kid, with the kid um filters on so that you can't see adult content, all the rest of it it doesn't matter who you are, but your ip and stuff anyway.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2032.61,
+      "endTime": 2041.301,
+      "text": "Right, it's still already. You've probably got cookies engaged that mean it's still tracking what you're looking at anyway no, no, but I tried it.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2041.381,
+      "endTime": 2081.761,
+      "text": "I mean, I tried it a little while ago, so I I logged in, I went onto youtube anonymously and, unsurprisingly, you get mr beast videos. I think he's the second most popular youtuber, right? So that's your first introduction to it and that's what I'm saying. I can imagine, if you're young and you're fresh to seth rogan probably yeah, and this is yes, yeah, exactly. And then, and if you're a kid, there's probably kid safe content and all the rest of it, but you immediately get funneled into whatever it is and that shapes you and defines you and you. So that's what I'm saying you're getting defined by the algorithm, rather than the other way around.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2082.223,
+      "endTime": 2092.405,
+      "text": "Like, the more I think about it, that's happening to all of us all the time. Um, it's, uh, it's quite a frightening proposition for a while sorry I was.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2093.274,
+      "endTime": 2129.302,
+      "text": "I know we don't want to have positives here, but just to to break the doom for a couple of minutes. Um, I've often shown my daughter kind of educational stuff. So she'll ask me like what's glass made from? And I'll show her a YouTube video. And she saw this video and it was like colored marbles in slow motion. And so I was like, okay, you can watch that video. So I watched that video and then my feed just became basically the. The algorithm was like he likes videos of colorful marbles and it just became kind of full of all these videos that you'd be amazed at how many videos there are of marbles going down a slope and then jumping off in slow motion.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2129.663,
+      "endTime": 2144.978,
+      "text": "And I kind of wish now, you know, I wish that was my algorithm and that was my feed, because I'd be in a far better place in life if, um, if every day I logged onto youtube and it was a nice video of some brightly coloured objects falling off a slide and dropping into a beautiful river.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2154.933,
+      "endTime": 2206.581,
+      "text": "So let's move on to something that it fits in nicely with this, not this particular episode, but with the podcast in general. So let's let's have a look at jobs and yeah, mass employment, mass unemployment, um, and social unrest and the failure of governments which I think you know, we even in a a sort of semi-optimistic world for governments to provide a sufficient safety net is not going to be instant, it's going to be behind the unemployment, it's going to be playing catch up In a dystopian world. There's a complete failure to provide a safety net and therefore it's just carnage I think we're kind of already heading in that direction.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2206.621,
+      "endTime": 2261.546,
+      "text": "With respect to you know, we talked in the last episode about the optimistic view, which is that ai is going to solve all these problems and help and all the rest of it. But I feel like in a way, we're heading in this direction already because we're in a position right now where we're in huge amounts of debt, the world's got itself in huge amounts of debt and you've got an aging population and you've got a struggling healthcare system. So I think you know, like I I say, last week we were quite optimistic about it, but actually if you continue in the direction we're in, on the path we're on with the status quo, then actually we're headed for a complete disaster because there aren't enough young people in the current system to actually provide for an aging population.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2266.777,
+      "endTime": 2287.595,
+      "text": "And AI to bring it back to AI, like in a negative sense, if AI ends up taking all the jobs and there is no redistribution of wealth and it's just a kind of pure capitalist AI takes all the jobs and no one has any jobs anymore, then then totally like social unrest, failure of governments, all this kind of stuff is.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2287.891,
+      "endTime": 2327.438,
+      "text": "It's a collapse of society, isn't it? Crime and writing, you know nobody feels safe, and, and I think you know nobody feels safe. Um, and, and I think you know, even if some countries and some governments are able to deal with it, this for me feels like some level of this is inevitable in some countries, because you you're not going to get every country able to get ahead and and and deal with this, and some countries are not able to provide that safety net. They just don't have the capability to provide a safety net to society.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2329.443,
+      "endTime": 2370.756,
+      "text": "Yeah, my biggest fear on this point is that one one is that like. So it feels to me like, if we don't change the direction of travel, this is the direction we're traveling in. Right to not to not go to not go to this, to not end up in this situation, all we have to do is do nothing, because ai is definitely going to take jobs, ai is definitely going to do a lot of jobs and work, and work in a lot of sectors better than most humans can do it or cheaper, etc. Etc. And so if we don't do something, this is the direction we're traveling in to compound default setting, isn't it? it's the default setting.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2370.796,
+      "endTime": 2404.124,
+      "text": "Yeah, to compound that, all of the big AI models are being generated by companies in the US, like every single one. China is doing some stuff as well which we don't really know about, but almost all of the Western big AI companies big AI firms, it's OpenAI, it's Google, it's Meta, it's Microsoft, it's those big four tech Apple as well well, big five tech firms in the us. And so how does this get democratized across the rest of the world?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2404.245,
+      "endTime": 2447.91,
+      "text": "yeah, I, that was the argument on, you know, even on on the sort of ubi thing, when we talked about in a very early episode and we talked about whether it's a universal income or it's actually a national kind of income, and maybe that's semantics and it's just you're me thinking of what the word universal means to me. But absolutely no matter how you look at the ways of taxing income, if you look at the way that firms base themselves in the Cayman Islands now to get around tax, why would it be any different? So if you are Colombia or Venezuela or El Salvador, or you know Angola, how do you, how do you get your cut of the?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2448.351,
+      "endTime": 2481.527,
+      "text": "You know the productivity gains that we're all going to get from this. So that is not only about social unrest in society in terms of local communities. But you then look at, for me, travel is almost impossible because if you're the US, you don't want anyone coming from anywhere to the US because they're all going to want to claim asylum there. Because, yeah, okay, you need some immigration, but you don't need immigration anymore. The US needs immigration because it needs people to do jobs, but you don't need immigration anymore. You know the US needs immigration because it needs people to do jobs or you don't need people to do jobs anymore.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2482.281,
+      "endTime": 2493.607,
+      "text": "So if you've got two countries, which I think China is further ahead than maybe you think in terms of their AI models I don't think that I think they're behind Silicon Valley, but not so far behind.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2503.28,
+      "endTime": 2541.558,
+      "text": "But you know everywhere else is a long, long way behind, and so you know then you lose kind of mobility, you lose the ability to travel. A place is even safe. Why would you travel from the us to anywhere else when you're, you're a kind of target. So there are so many fundamental ways in which this would change the world. You mentioned about kind of wealth and power and putting it into less people's hands. I mean a lot of these points kind of flow together. I mean I said before about tech firms and government collaborating intensifies to the point about stopping democratic change and power and wealth goes to countries who have the most powerful ais.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2541.638,
+      "endTime": 2572.141,
+      "text": "Global inequality increases immigration. More people want to immigrate but actually there's less immigration. Rich countries close their borders, reduce mobility, fracturing of the world. I think you, you know inevitably then if you've got, let's say you've got china in the us as the two big countries, then you know you're either aligned with one of them and you're using their ai models, or you're using the other one, um, and it's even more of that kind of, you know, polarization of of the world.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2573.864,
+      "endTime": 2618.471,
+      "text": "Yeah, it's grim yeah, totally, totally agree, like totally agree. It's all pretty grim, I feel like. Just to elaborate on the China point, I'm not 100% sure where China is with AI. I feel like in the Western world we've kind of accepted that a lot of these companies are in the US and I feel like a lot of western countries have just kind of accepted that. And not only that, but us companies have um acquired companies in the rest of the western world. So, for example, google acquired deep mind in the uk, which is possibly a bit of a mistake, because I do feel a bit of a mistake I mean, that was like literally the?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2618.611,
+      "endTime": 2649.909,
+      "text": "u the uk would be in a different, like a different world if it had kept up absolutely yeah, exactly, okay, so it was a bit of an understatement, but and I feel like all this power has been concentrated, in terms of ai, in the us, which I don't know if that's going to change in the future but it's a pretty undemocratic application of something which is likely to change the world more than anything we've seen in the last 50 years",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2668.34,
+      "endTime": 2669.002,
+      "text": "so let's move on.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2669.022,
+      "endTime": 2703.189,
+      "text": "Let's look at losing control of ais. So you know we're talking here about humans essentially no longer being in power. So a world where no one knows how much ais are manipulating us, cutting deals with governments and people to support their goals in return for protection reward for people. So let's be honest there are lots of people who, if the AI offers them something in return for supporting the AI's goals, they're going to take that AIs become more of a black box. I mean, I guess you could argue how can they become more of a black box? I mean, I guess you could argue how can they become more of a black box when we already don't know how they work?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2703.93,
+      "endTime": 2749.267,
+      "text": "Um, but you know, in this world we never catch up on alignment or regulation, or at least if we do, it's you know it's already too late. I want to give another quote, just um, on this kind of idea of ai's taking over. So there's someone called holden karnofsky which I think I recommend this person more than anybody, anybody who writes about ai. I mean, he, he is a I don't know that much about him an absolute genius who writes just the most incredible stuff about ai and has been writing about it for for some time. So he talks about ai is kind of taking over and waiting for the right moment so we can't just shut them down.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2750.009,
+      "endTime": 2775.665,
+      "text": "So in here we're. You know ai systems are malicious, as we've assumed, but it doesn't mean they're constantly causing trouble, so instead they're waiting for an opportunity to team up and decisively overpower humanity. In the meantime they're constantly causing trouble, so instead they're waiting for an opportunity to team up and decisively overpower humanity. In the meantime they're mostly behaving themselves and this is leading to their numbers and power growing. There are scattered incidents of ai systems causing trouble, but it doesn't cause the whole world to stop using ai. A reasonable analogy might be a typical civil war revolution.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2776.126,
+      "endTime": 2839.394,
+      "text": "The revolting population mostly avoids isolated, doomed attacks on government until it sees an opportunity to band together when it has a real shot at victory. So I really like this quote because I think this idea and there are plenty of other people out there that you can read about that have these views is that super intelligent AI, agi, asi, whatever, it's not going to be something that happens one day. And then there's an announcement on the news that AGI has been achieved today and here it is, or one day it's going to start manipulating and doing things. If it's that clever, it's going to keep quiet and it's going to wait to the right moment, and it will be long after it had developed those abilities before we are able to understand that it has those abilities and that it's you know already at that point well beyond our ability to control those models oh sorry, those I don't want to call the models, because at that point I don't know what ai will be it's an interesting idea.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2840.095,
+      "endTime": 2855.315,
+      "text": "I feel like we're getting more into the realm, a little bit more into the realm of science fiction here, in terms of what the current models do. But if I'm wrong, the um, if I'm wrong, the consequences are absolutely catastrophic.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2855.355,
+      "endTime": 2893.972,
+      "text": "So perhaps they're already learning to manipulate and lie, though, aren't they? I mean, that's that's happening. So there's a game called diplomat, which they were playing, which, basically, to win, you need to be able to lie and manipulate people, and I think it was one of the meta models. Was was doing that and I I didn't actually look at it, but as I logged on today, there was a story on the msn home homepage about large language models learning to manipulate and trick people. So you know, we're there in 2024. So 2050,? Does it really feel like this is unrealistic?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2894.593,
+      "endTime": 2895.174,
+      "text": "It doesn't to me",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2902.24,
+      "endTime": 2951.325,
+      "text": "it doesn't to me, the the problem I have with this is that presumably and I must admit I don't haven't read the article, but presumably diplomacy and games like this are in its training data and so it's already been trained to lie. And so my argument against it is that if it's in the training data, like can an AI lie? Yes, but it's simulating lying based on what's in its training data. It's not in the same way that when it's creative, is an AI creative? Is it ever going to come up with a genuinely original idea? Probably not. It can draw on a massive training, those type of training data, and it can make inferences and various other things, but to do something genuinely creative I'm more dubious about, and so it'll.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2951.485,
+      "endTime": 2958.794,
+      "text": "It'll lie because it's been told to lie effectively is what I'm trying to say. I guess I. Yeah, I agree with you at the moment.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2959.677,
+      "endTime": 2998.292,
+      "text": "I I do agree with you. I I think you're absolutely right. I think everything, everything that it's doing, you know. When it's answering in a certain way, people are like, oh, you know, what does that mean? It's no, it just means that the training data you know, if you, you have to try and visualize how much data it's had to learn from, if we did it, then it's able to to know. That's what people would do in that situation. But I think the issue I have with this is you know, and you don't do this generally, but a lot of people look at the technology as it is now and we're talking about 10, 20, 25 years in the future.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3000.274,
+      "endTime": 3002.636,
+      "text": "In a way, we're talking about reinforcement learning,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3007.351,
+      "endTime": 3054.283,
+      "text": "where we're using people. That's potentially going to be impossible for superhuman models, because even if everyone in the world was working on them, scalable alignment might just be impossible and it's a massive unsolved problem. Like we're talking about this as models being trained on human data at the moment. But you I mean you're the one who explained this to me AIs are training AIs, and so at what point do they? You start to get their own goals and motivations and therefore manipulating and tricking people to get what? they want is the most important thing I don't know, but I think it's within 26 years.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3055.326,
+      "endTime": 3101.133,
+      "text": "It will happen within 26 years, I think perhaps or perhaps never, and this is the problem right now. I think, with ai as in my feeling, is in terms of, like the dystopia, it's going to be more about what people for me is, for me in the immediate sense, what's more concrete is like how people are going to apply and use and abuse ai, rather than how ai is going to do something for itself. And the reason I say that, like, we still haven't seen a single shred of personality, of consciousness from ai, so like a good example is omni, which came out the other day, and Omni can simulate human emotions.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3101.734,
+      "endTime": 3137.982,
+      "text": "It can sing, it can do things that make it sound more personable. You can ask it to behave in a certain way, but it doesn't do any of that by choice. You can say to it I want you to tell me a story, okay, give it more drama, give it more emotion. Tell me a story, okay, give it more drama, give it more emotion, sing me a song, and it will always happily oblige if it's just replicating what people have done. Yeah, yeah, yeah, if you said that to a person, it'd be like no, I don't feel like it's sort of um that would. If the moment an ai does that and you might be right like a super intelligent ai might never do that because it might be too smart.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3138.062,
+      "endTime": 3168.367,
+      "text": "And I totally understand all of what you just said, but I don't feel like I mean. For example, do you think that if an AI really started to have its own wants and desires and for want of a better word emotions, do you really think it'd be able to hide that? Because humans struggle to hide that and you get into quite a nuanced sort of area there I don't think it needs to have emotions, though.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3168.428,
+      "endTime": 3221.865,
+      "text": "It just needs to have a motivation, and I think that's very different. I think to have the motivation of survival or the motivation of power, more energy, growth. You know, I think that is foreseeable. I yeah, I agree with you like emotions. In that sense, I personally can't see how that can happen. I don't see how you can have that, that kind of sentience. But I can see a world in which there is sufficient motivation that it corrupts or contradicts the goals that have been set by humans for AIs. That's where I think it falls. There's a conflict of the goals with the goals which have been set by by people I get what you're saying.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3222.125,
+      "endTime": 3247.732,
+      "text": "My, my, my counter sort of question. There is if once it starts to have, once an ai starts to have desire, isn't desire and emotion like? Where's the distinction? You said motivation, you didn't say desire to be fair. But once it becomes a desire, like, isn't that by definition emotive?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3247.932,
+      "endTime": 3278.155,
+      "text": "but I think I mean, we could go off track here. But a tree, a tree is not sentient. I don't think, however, a tree needs to find water right, it needs to put roots down into the ground to get nutrients and water. It needs to change its leaves. It has certain driving forces behind its behaviors without being sentient. So we have unsentient living things in the world.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3283.7,
+      "endTime": 3318.043,
+      "text": "I think there is an argument to be made that an AI, at a certain point, is living in the way that a tree is living. Now, again, people could disagree and we could go off on a real tangent here. But you know, it doesn't have to be sent in the way that an animal or a human is. That tree changes its leaves, the leaves fall off, it grows, you know, blossom and buds, and it goes through a certain cycle and its roots go down into the ground without it ever being sentient, because it has motivations, not motivations based on a brain, but it has motivations for certain things. So I don't think it's a stretch to think.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3318.605,
+      "endTime": 3364.509,
+      "text": "You know, I think a lot of the people that don't get this see ai as a computer rather than a neural network, and I think that is. For me, the thing is, it's not a computer, it's not a robot, it's a neural network which is, you know, essentially the same thing. It's just an inorganic version of a brain. So while I don't, I can't see how it can necessarily do that, I also don't think I can strongly enough argue that it can't have those motivations, or you call them desires. Yeah, I think it's almost semantics what the word is. I don't know that it can, but I think there is not a strong enough argument for me to say that it's impossible.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3366.202,
+      "endTime": 3401.001,
+      "text": "I'll be very brief. The difference for me between a tree and a person versus an AI is that a tree and a person are both born out of natural selection, and natural selection is the driving force that we're talking about here, as opposed to something that we've created, that's a brain, something like a brain in a computer, which doesn't have natural selection, it doesn't have any concept of procreation and wanting to continue to survive, survival of the fittest, all that kind of stuff.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3401.703,
+      "endTime": 3438.105,
+      "text": "but we're getting quite, I agree we're getting quite um off track and esoteric here so there's a world in which and this is sort of an aside, but I think it's quite interesting there's a world in which a super intelligent ai maybe I'm going ahead of 25 years, so maybe I'm going, you know, out of out of the constraints of this show here, but, you know just sees us as insignificant and actually just lets us just do whatever we want because we don't really like, we don't really bother it. In the same way as, you know, a fly goes past you and you might swat at it, and then it flies on. You just forget about it, you know.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3438.246,
+      "endTime": 3484.769,
+      "text": "Or there's a world in which it just says, looks at earth and says, you know, sod this. And just disappears off into the ether and goes to a place with more energy sources. So you know, there are various possible scenarios that that may seem feasible or unfeasible to people, that involve an incredible development of technology but don't necessarily turn out to be the kind of dystopia that we imagine. But I think it feels to me that the most likely scenario, I guess, like you said, where we don't do anything, is that we do end up in a mess of a world in which we have just ceded power to something that we don't understand.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3494.766,
+      "endTime": 3520.45,
+      "text": "So finally bringing it kind of full circle. I think what we've talked about over the last hour now is kind of war, disinformation, the end of creativity, mass unemployment, centralization of wealth and power, which I feel like is at the core of all this, where actually and it in all of the above you know, mass unemployment, no,",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3540.842,
+      "endTime": 3574.291,
+      "text": "um, no jobs, breakdown in in humanity and breakdown in kind of, uh, the rule of law and all the rest of it. The last point, the last point that we had, is kind of um, actually actually a really relevant point, so um, around the climate, and we talked in the last episode about the potential solutions to climate problems from AI. But actually currently, the way things are headed, ai is using more and more energy and using astronomical amounts of energy actually.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3574.532,
+      "endTime": 3616.652,
+      "text": "Yeah, I guess I'm not allowed to make a positive point, so I I've been sort of convinced a little bit by the argument that, you know it, it actually advances some technologies because of that hunger for power. But yeah, I, I actually think the energy thing for me is actually less of a concern because I think I actually think that will be solved. I think the bigger concern actually is water and taking fresh water away from communities and then displacement of communities, because I think you know water, actually, you know, everyone knows that energy kind of is a problem to be solved and actually the solution, as Anders said in the energy episode, is renewable source of energy.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3616.712,
+      "endTime": 3729.713,
+      "text": "They exist, you just need the investment. The technology is already there, it's solvable. But water, unless there is an advancement to be able to use salt water, your fresh water is going to be a huge shortage. And data centers taking water away from communities, I think is actually more of a kind of issue than the energy use. Actually there was just one last thing before we we finish this episode, because I, I, you know you, you coined this term a couple of months ago actually in a conversation, but the aimish um, which is the amish with a an I put in there, obviously and I just wanted to touch on this subject very briefly like the one last thing that I can kind of see is a fracturing of society where you get this emergence of new societies of kind of transhumanist you know, almost kind of worshipping this ASI that rules us all, and then on the other hand, you potentially get this AI-mish who want to reject all AI and establish communes and you know a different form of society, and I guess this could have gone in the Utopia episode because actually maybe that's a better way of living, but I think in a dystopianian world it's that fracturing of society where you potentially end up with a world of you know people who've embraced ai or who are ruled by ai, and then people living a very, very simple life without the benefits of ai as well, and who've rejected all of those things and and therefore you end up with a further fragmentation on top of all the fragmentation of societies and you know binary kind of haves and have-nots and you know them and us and othering that we already have in the world.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3729.773,
+      "endTime": 3739.097,
+      "text": "So I really like that term, the aimish. I wish we could patent it for the future because I think it will exist, but I wanted to finish off on on that note.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3739.579,
+      "endTime": 3747.04,
+      "text": "Well, I might very well set up the first aimish community, because I'm um it appeals after this episode.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3747.882,
+      "endTime": 3781.792,
+      "text": "Hopefully there's a lot of people well, not hopefully I. I imagine there's probably a lot of people after this episode. They might be willing to come and join us, so maybe we can. Maybe we can start a cult you know the ai mission that will be the the eventual. The eventual fruits of this podcast is me and jimmy's cult. So if you want to join, stick it in the comments, or uh, there's a new feature actually on the podcast you can send us a text message. Um, so click at the uh at the top and it will send us a text message. So, uh, sign up if you want to be the first.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3781.833,
+      "endTime": 3807.133,
+      "text": "We've only got 100 places on our amish community that you can get, so, um, get in there quickly yeah, and I and I just hope we haven't offended any amish, but they don't have podcasts anyway, so probably can't offend them well, I I wouldn't think they're offended, because we're essentially saying that their world is better than better than any other world that we can foresee, and we're going to set up our own version. So well, if you are our mission, you're listening.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3807.675,
+      "endTime": 3809.08,
+      "text": "Stop listening, it's naughty",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3812.306,
+      "endTime": 3855.683,
+      "text": "yeah, I'm gonna go and I'm gonna tell the rest of your community, or you can join our community because we need your skills at um, putting horseshoes on and whatever, whatever other things I mean people can do so I imagine we end there. Maybe, um, maybe, we'll come up with a, an amish ai song, for future episodes. But, um, thanks. If you made it to the end of this two-part special, then thank you for sticking with us, as always. Share the podcast with your friends, subscribe, keep listening and enjoy our outro track, which we've been looking forward to, this dystopian track, for a long time. So, um, thanks everyone.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3855.944,
+      "endTime": 3874.432,
+      "text": "Have a great week, if you uh are able to have a week after what you've just listened to, and uh, keep listening, give us some comments and uh, take it easy. Now we're trapped in misery, jobs are gone, we're left behind",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3881.363,
+      "endTime": 3898.59,
+      "text": "In this cold, dark world. We find Dystopian dreams, a future clean, strong and strong and weak. From weak, a sheet of ore they never seize In this tech world. Find the public peace.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3915.72,
+      "endTime": 3931.026,
+      "text": "Big corporations rule the land, rich get richer, tighten their hands as power fuels the fight. We're lost in endless sleepless nights. Dystopian dreams, a future glee.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3933.181,
+      "endTime": 3936.01,
+      "text": "The stronger, the stronger we grow.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3936.28,
+      "endTime": 3943.501,
+      "text": "Machines of war. War they never cease In this tech world fine, we must stay.",
+      "chapterIndex": 9
+    }
+  ]
+}

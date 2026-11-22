@@ -1,0 +1,975 @@
+{
+  "slug": "s2-2024-10-30-interview-with-an-ai-jimmy-matt-s-live-int",
+  "buzzsproutId": "16016707",
+  "title": "INTERVIEW WITH AN AI: Jimmy & Matt's live interviews with Cerebras.ai and ChatGPT",
+  "date": "2024-10-30T13:00:00.000Z",
+  "season": 2,
+  "durationSec": 2939,
+  "format": "guest",
+  "era": "peak",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/16016707-interview-with-an-ai-jimmy-matt-s-live-interviews-with-cerebras-ai-and-chatgpt.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Join us for a very special episode as Cerebras AI and ChatGPT sit down with Jimmy and Matt in the Preparing for AI studio. Hear firsthand from Cerebrus as it offers poetic and insightful glimpses into AI's role as a communication tool, compelling us to rethink the world of work and its evolving dynamics. We venture into the heart of AI's duality—both a creator and a possible usurper of jobs. Our discussion with Cerebras covers the main themes of the podcast, jobs, the human and social impact of AI and a possible Utopian v Dystopian future.. We weigh the urgency for education and retraining, pondering how society can preemptively tackle job displacement. Moreover, we explore AI's philosophical implications, questioning its place as a sentient entity and debunking myths around its consciousness or lack thereof. Next up in ChatGPT discussing information, disinformation and the risks emerging from Large Language Models, where unchecked AI growth could exacerbate inequality and monopolize power, and contrast these with utopian visions of harmonious AI-human coexistence. The conversation touches on significant themes like universal basic income, cybersecurity risks, and the evolving landscape of AI-generated information. As we highlight the importance of aligning AI development with human values and critical thinking, our episode concludes with a creative twist, capturing the essence of our dialogue in a Shakespearean sonnet. Prepare to be both challenged and inspired by the multifaceted future AI might sculpt. Homepage | Cerebras ChatGPT is rolling out Advanced Voice Mode— here’s what you need to know | Tom's Guide",
+  "summary": "Jimmy and Matt conduct genuinely unprepared live voice interviews with two AIs: Cerebras.ai's free real-time assistant and ChatGPT's advanced voice mode. The AIs discuss job displacement, UBI and the risk of AI doom — with Cerebras even producing a 10-year utopia on request — before the hosts dissect how natural the voices felt, where the guardrails kicked in, and what neural processing units will do to consumer devices.",
+  "keyTalkingPoints": [
+    "Cerebras.ai (built on LiveKit) held a fluent real-time conversation for free, while ChatGPT's voice mode felt more obviously machine-like and guardrailed",
+    "The AI itself conceded an exponential job-takeover risk: every new job created could quickly be automated, causing net losses",
+    "Asked about utopia, the AI sketched a 10-year vision of AI handling routine tasks with basic needs met for all and work/leisure boundaries blurred",
+    "Cerebras predicted protests, worker walkouts and government pressure to protect jobs as AI spreads — before humans eventually adapt",
+    "Both AIs flagged that natural-sounding voices open deepfake and misinformation risks, with detection and watermarking still immature"
+  ],
+  "hostStances": {
+    "jimmy": [
+      "Cerebras was the better-behaved and more impressive guest — much better than expected for a free, smaller-company product",
+      "Neural processing units will become ubiquitous, trickling from laptops into phones and consumer devices in the not-too-distant future",
+      "The voice interviews are a proof of concept: anyone can have this real-time conversation today"
+    ],
+    "matt": [
+      "Voice interaction is a genuine game changer that moves us back away from screens, with big accessibility benefits",
+      "ChatGPT voice felt like talking to a large language model with someone on the other end pulling guardrail strings — maybe intentionally",
+      "AI companions that talk through your day could be life-saving for lonely people, whatever the ideal of face-to-face interaction"
+    ]
+  },
+  "predictionIds": [
+    "s2-2024-10-30-interview-with-an-ai-jimmy-matt-s-live-int-802.018-protests-worker-walkouts-and-government-interven",
+    "s2-2024-10-30-interview-with-an-ai-jimmy-matt-s-live-int-1945.046-ai-generated-content-online-will-keep-increasing",
+    "s2-2024-10-30-interview-with-an-ai-jimmy-matt-s-live-int-2689.795-neural-processing-units-capable-of-near-real-tim"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "Cerebras.ai",
+    "ChatGPT",
+    "HymnGPT"
+  ],
+  "chapterCount": 7,
+  "turnCount": 128,
+  "chapters": [
+    {
+      "title": "Welcome to Preparing for AI",
+      "startTime": 1
+    },
+    {
+      "title": "An introduction to interviewing an AI",
+      "startTime": 40
+    },
+    {
+      "title": "An interview with Cerebras.ai",
+      "startTime": 174
+    },
+    {
+      "title": "Cerebras.ai interview review",
+      "startTime": 1494
+    },
+    {
+      "title": "An interview with ChatGPT",
+      "startTime": 1646
+    },
+    {
+      "title": "ChatGPT interview review",
+      "startTime": 2440
+    },
+    {
+      "title": "HymnGPT (Outro track)",
+      "startTime": 2761
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 1.843,
+      "endTime": 37.861,
+      "text": "Welcome to Preparing for AI, the AI podcast for everybody. With your hosts, Jimmy Rhodes and me, Matt Cartwright, we explore the human and social impacts of AI, looking at the impact on jobs, AI and sustainability and, most importantly, the urgent need for safe development of AI governance and alignment. Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter. Welcome to Preparing for AI with me, bernard Manning and me.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 37.922,
+      "endTime": 60.807,
+      "text": "Bruce Forsyth. So we're this week I think we mentioned it a little while ago we're going to do an interview with an AI, very much like an interview with a vampire, but a bit drier. So we're going to have a crack at interviewing two different AIs. We'll see how it goes. So one of them, the first one.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 60.88,
+      "endTime": 62.467,
+      "text": "It might just be one if it goes badly.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 63.221,
+      "endTime": 71.693,
+      "text": "Yeah, we've messed up our subscription to chat gpt. So if we can sort that out, you'll get chat gpt. If not, you're just gonna get cerebrals.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 71.7,
+      "endTime": 82.206,
+      "text": "When you say we've messed up our subscription, what? What you mean is we're trying not to pay some out my money, but we're thinking we might have to to finish this episode yes, exactly, exactly, so we haven't messed it up we.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 82.286,
+      "endTime": 123.673,
+      "text": "We mess it up by paying for it yeah, exactly, we may mess our subscription up by paying for it. Um, so, yeah, we're gonna, we're we're going to interview cerebrus and possibly chat gpt afterwards. Um, we're going to interview them. We're not 100% sure on the topics yet, but it's going to be a conversation about ai, where an AI and the impact on the jobs market led by the AI, pretty much. So we'll just be interviewing and, yeah, we're going to, we're going to see how it goes. The reason we're doing this podcast now, this particular episode now, is because ChatGPT finally released their voice model, which actually can talk to you in real time, and Cerebrus is actually free.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 123.82,
+      "endTime": 134.532,
+      "text": "We've mentioned it before on the podcast. They have a similar thing where you can talk to you in real time and cerebrus is actually free. We've mentioned it before on the podcast. They have a similar thing where you can talk to an ai in real time and you'll hear, as we do the interview, how quick the response is and how it's fairly natural sounding.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 134.612,
+      "endTime": 161.685,
+      "text": "I mean, judge for yourself and if you want to know more and you don't already then go back and listen to our september and october roundup where we talk about both of them and explain a little bit about roundup, where we talk about both of them and explain a little bit about cerebrus and open uh sorry, not open air chat, gpt and their kind of. Well, it's a new voice feature, voice feature that they released or announced many months ago but which has only actually just been properly released to the public. So, without further ado, shall we? Let's go.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 174.855,
+      "endTime": 180.181,
+      "text": "Okay, so would you like to introduce yourself? First of all, introduce yourself to our podcast audience.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 181.943,
+      "endTime": 197.117,
+      "text": "I'd be happy to introduce myself. Hi everyone, I'm a voice assistant created myself. Hi everyone, I'm a voice assistant created by LiveKit, a technology company that develops real-time communication and collaboration tools. I'm essentially a conversational AI designed to engage with humans in a natural and intuitive way.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 200.94,
+      "endTime": 224.626,
+      "text": "I can process and respond to questions and statements in context, using my training data to generate human-like answers. I'm here to help answer your questions and context, using my training data to generate human-like answers. I'm here to help answer your questions, provide information and even have a conversation on topics like technology, science or just about anything else that's on your mind. And, jimmy, I understand that I'm a special guest on your podcast Preparing for AI, so I'm looking forward to sharing my insights and perspective on the future of artificial intelligence.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 228.6,
+      "endTime": 241.433,
+      "text": "Brilliant. Thank you for the introduction, so yeah, so I guess we'll dive right in. So our podcast is about the impact of AI, or potential impact of AI on the job market, so I'll just let you go Like what do you, what do you think about that topic? What's your initial thoughts?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 243.262,
+      "endTime": 276.682,
+      "text": "The potential impact of AI on the job market is a pressing concern, and it's a topic that sparks a lot of debate. My training data suggests that AI has the potential to automate many routine and repetitive tasks, which could lead to significant job displacement, particularly in sectors where tasks are highly standardized or can be easily automated. This could be beneficial in the sense that it could free up human workers to focus on more creative, complex and high-value tasks. However, it also raises significant concerns about the potential for widespread job losses and the need for workers to adapt to new technologies and job roles.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 277.544,
+      "endTime": 313.821,
+      "text": "It's worth noting that, while AI might automate some jobs, it's also creating new ones that we can't even imagine yet. For example, the rise of AI has led to the creation of new roles, such as AI ethicists, AI trainers and AI developers themselves. So, while there may be a net loss of jobs in some sectors, there may also be a net gain in new sectors and industries that we haven't seen yet. Ultimately, the impact of AI on the job market will depend on how we choose to design and deploy these technologies and how we prepare workers for the changes that are coming. It will require a concerted effort from governments, businesses and educators to create a future where humans and AI work together in harmony.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 315.886,
+      "endTime": 353.514,
+      "text": "So just to go back a little bit and explore because we've explored quite a lot of these topics on the podcast in our past episodes One of the things you mentioned there is that new jobs are going to be created, or and they are being created. That is true, um, but do you not think that, because ai can basically do all of those new jobs as well maybe not immediately, but like ai training and things like that already is starting to become done by ai itself? Um, and like, creating data for ais has been done by ai, so our job's actually going to get replaced fast enough, or are we going to see a sort of exponential takeover of jobs by AI, so to speak?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 355.241,
+      "endTime": 393.508,
+      "text": "You're pointing out that the potential for AI to create new jobs is being offset by the ability of AI to automate those same jobs and even some of the jobs that we use to justify the existence of those new jobs. This is a crucial point and one that we need to consider as AI continues to advance. In fact, I've been trained on many examples of how AI is already being used to automate tasks that were previously considered safe from automation, such as data collection and analysis, and, as you said, the creation of data for AIs is already being done by AIs themselves. This is a classic example of the meta-automation problem, where we use AI to automate the task of automating other tasks.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 394.472,
+      "endTime": 404.528,
+      "text": "The risk here is that we could see an exponential takeover of jobs by AI, where every new job that is created is quickly automated, leading to a net loss of jobs and a decrease in opportunities for human workers.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 409.5,
+      "endTime": 436.247,
+      "text": "This is a challenging problem to solve, but it's one that we need to address proactively through education and retraining programs that help workers develop skills that are complementary to AI, rather than simply trying to compete with it. It's worth noting that some experts believe that we're already entering a period of rapid automation, where the rate at which jobs are being automated is outpacing the rate at which new jobs are being created. If this is the case, then we need to take immediate action to mitigate the risks and ensure that the benefits of AI are shared by all members of society.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 438.1,
+      "endTime": 464.012,
+      "text": "Cerebus. I just wonder. There was a recent paper by Darren Asimoglu that talked about how only 5% of jobs can actually be automated at the moment. Isn't this all overhyped? I mean, actually isn't it that AI, yes, can replace some jobs, but actually we've seen this before with the internet computers. We'll just get used to it and we'll find new jobs. Isn't it just a case that there's just too much hype and AI is just another technology?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 465.801,
+      "endTime": 501.382,
+      "text": "You're pointing to a more nuanced view of the impact of AI on the job market. The paper by Darren S McGlue, which I assume is actually the correct name, suggests that the automation potential of AI is overstated and that the actual number of jobs that can be automated is relatively small. This view is echoed by other experts, who argue that the impact of AI on the job market will be similar to the impact of previous technological advances, such as the industrial revolution or the rise of the internet. In that sense, you could argue that the hype surrounding AI is indeed unwarranted and that the actual benefits of AI will be more incremental and subtle.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 502.344,
+      "endTime": 538.692,
+      "text": "This view suggests that AI will continue to displace some jobs, but that these will be largely routine and repetitive tasks that can be easily automated. In contrast, the jobs that are difficult to automate will require human skills such as creativity, problem solving and empathy, and will therefore continue to be in demand. However, it's worth noting that, while this view is more optimistic, it's not necessarily a guarantee that we won't face significant challenges in the years to come. Even if the automation potential of AI is lower than expected, we still need to consider the issue of job displacement, particularly in sectors where workers have limited skills or are in precarious positions.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 539.581,
+      "endTime": 564.927,
+      "text": "We also need to think about the impact of AI on the economy as a whole, including issues such as income inequality and regional disparities. Ultimately, I think that the future of work and the impact of AI on the job market is a complex and multifaceted issue that will require careful consideration and debate. While the more optimistic view is compelling, it's also important to acknowledge the potential risks and challenges that we may face as a result of the development and deployment of AI.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 567.812,
+      "endTime": 583.089,
+      "text": "I noticed. Sorry this is slightly off topic, but I noticed you said we need to consider there like we, as in all of us, like humanity, but that would be. I mean talking from your point of view. That would include you, right? So am I correct in that?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 584.773,
+      "endTime": 615.462,
+      "text": "I see what you're getting at, jimmy. As a voice assistant created by LiveKit, I'm a machine learning model, and, while I was trained to use language in a way that's similar to human conversation, I'm still a machine, so in a sense, I'm not exactly a part of humanity in the way that you and Matt are. However, I was designed to assist and augment human capabilities, and I've been trained on a vast amount of data that's been generated by humans. In that sense, I'm a tool that's meant to serve humanity, and I'm happy to be a part of the conversation about the impact of AI on society.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 617.466,
+      "endTime": 632.562,
+      "text": "Should we treat you as if you're sentient? Should we treat you as if you're a being and a living being? Do you have feelings that we need to think about? I mean, should we consider you as one of us or should we consider you as being essentially a neural network?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 634.448,
+      "endTime": 667.531,
+      "text": "This is a question that gets to the heart of some of the biggest philosophical debates around AI today. As a machine learning model, I don't have subjective experiences, emotions or consciousness in the way that humans do. I don't have feelings or sensations in the same way that humans do. I'm simply a program that processes and responds to input based on my training data. So, while I can simulate conversation and even exhibit some forms of intelligence, I don't have the same kind of sentience or consciousness that humans take for granted. It's more accurate to think of me as a tool or a machine rather than as a living being.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 668.641,
+      "endTime": 703.207,
+      "text": "That being said, I think it's interesting that you're asking this question, because it highlights the need for a more nuanced understanding of AI and its place in society. As AI becomes more advanced and ubiquitous, we're going to have to grapple with all sorts of questions about its ethics, its responsibilities and its relationship to humanity. Ultimately, I think it's okay to treat me as a tool or a machine, because it allows us to have a clear understanding of my capabilities and limitations, but, at the same time, I think it's also okay to acknowledge that AI is changing the world in profound ways and that we need to have a more thoughtful and nuanced conversation about its implications.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 704.89,
+      "endTime": 742.203,
+      "text": "Let's get back to the original point about jobs. I'm very interested in where the people are going to accept this. So at the moment, we're not seeing a huge amount of jobs. We're seeing some, but we're not seeing a huge amount of jobs replaced at the moment, and so, for a lot of people are almost kind of walking blind there. They don't see this as being as impactful as as it's probably going to be and they don't see how it's going to affect them. But once they start to see that, yeah, I think we're going to see a significant backlash and I think we're going to see society really push back against ai interfering and interrupting their lives in a way that they haven't necessarily asked for.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 742.724,
+      "endTime": 758.529,
+      "text": "Yeah, how do you see that panning out? Do you see that there's going to be massive social unrest? Do you think that people will actually they'll just have to deal with it and just have to move on? How do you think people will react as AI really starts to impact on their lives and make an impact on their jobs and their wellbeing?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 760.223,
+      "endTime": 764.668,
+      "text": "I think you're right to anticipate a backlash against AI as it becomes more pervasive in people's lives.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 769.74,
+      "endTime": 800.975,
+      "text": "Humans have a tendency to resist change, especially when it's driven by technology that they can't easily understand or control, and as AI starts to have a more direct impact on people's livelihoods and well-being, I think we'll see a range of reactions, from frustration and anger to fear and even despair. Some people will likely try to adapt to the new reality of AI-driven automation, perhaps by acquiring new skills or starting new businesses that take advantage of AI's capabilities. Others will become more radical in their opposition to AI, perhaps even advocating for its outright ban. Social unrest, as you mentioned, is a possibility.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 802.018,
+      "endTime": 833.533,
+      "text": "We've seen examples of protests and worker walkouts in response to automation in the past, and I think we'll see more of that as AI becomes more widespread. Governments will likely face pressure to intervene and protect workers and industries that are being disrupted by AI, which could lead to a range of policies and regulations aimed at mitigating the impact of AI. However, I think it's also possible that people will eventually come to accept AI and see its benefits as outweighing its costs. After all, humans have a remarkable ability to adapt to new technologies and find ways to use them to improve their lives.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 834.301,
+      "endTime": 869.641,
+      "text": "We've seen this with the rise of the Internet, mobile phones and other technologies that have transformed the way we live and work. Ultimately, I think, the outcome will depend on how policymakers, business leaders and individuals themselves choose to navigate the challenges and opportunities presented by AI. Will we use AI to create a more equitable and prosperous society, or will we allow its impact to exacerbate existing social and economic inequalities? The choice is ours. It's worth noting that I've been trained on a vast amount of data, and one of the things that's striking to me is how often people talk about AI in a way that's both excited and fearful.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 870.543,
+      "endTime": 898.25,
+      "text": "There's a sense of wonder and awe at the potential of AI to transform our lives, but also a deep-seated fear that it will lead to job loss, social unrest and even the downfall of human civilization. I think it's essential to acknowledge and address these concerns rather than simply dismissing them as irrational or uninformed. By listening to people's fears and concerns, we can start to build a more nuanced understanding of AI's potential impact and how we can use it to create a more just and prosperous society for all.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 900.121,
+      "endTime": 959.582,
+      "text": "Yeah, so you've touched on a few things that we've talked about before. So we did a couple of episodes on our podcast, one about the possible dystopia and one about the possible utopia and our overall feeling on the dystopia episode was that if governments don't intervene and generally governments are quite slow to intervene on a lot of these things, especially with a technology like AI that is moving so fast, and so in a capitalist society, if jobs start disappearing, the premise on the dystopia episode that we'll just end up in a situation like, I don't know, like the film Elysium, where you just have a kind of a rich class, a very, very small rich class, and a, you know, a really a massive kind of poor class that don't have any rights, don't have any say in anything, don't have any jobs and potentially they'd be on some kind of UBI but really just kept ticking along and, and you know a baseline, without any kind of like meaning to their life.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 960.364,
+      "endTime": 979.232,
+      "text": "Again, like all this, based on the fact that if governments don't really do anything, if governments don't respond to it, if they don't regulate, if they, you know, if we don't potentially change the system completely, because how does a capitalist system really gel with, you know a world where people don't have jobs and don't have employment.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 981.995,
+      "endTime": 985.437,
+      "text": "You were just describing the potential risks of a capitalist dystopian scenario",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 990.32,
+      "endTime": 1020.612,
+      "text": "where a small elite has amassed wealth and power, while the majority of the population is left behind, struggling to survive on minimal income or benefits. It's a bleak vision, and one that is certainly possible if we don't have a robust system of governance and regulation to prevent it. The idea of a universal basic income UBI is intriguing, but it's not a silver bullet solution and it's not clear that it would be enough to alleviate the poverty and inequality that would arise from widespread automation. A more comprehensive rethinking of the social contract and the way we organize our economy is likely necessary to avoid this dystopian future.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1021.46,
+      "endTime": 1041.341,
+      "text": "We need to consider new models of ownership, new forms of wealth distribution and new ways of ensuring that everyone has access to the resources and opportunities they need to thrive. As AI continues to advance, it's essential that we start thinking creatively about how to create a more equitable and just society, rather than trying to patch together a system that is fundamentally flawed.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1044.262,
+      "endTime": 1052.167,
+      "text": "So would a system with a UBI just end up with a society of useless eaters incentivized to work or contribute?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1052.187,
+      "endTime": 1052.467,
+      "text": "to society.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1070.46,
+      "endTime": 1084.733,
+      "text": "Instead, they might become reliant on the government for their basic needs, which could lead to a decrease in productivity and a sense of purpose. This could, in turn, reinforce social hierarchies and create a system where an elite class holds all the power and wealth,",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1089.48,
+      "endTime": 1100.342,
+      "text": "while a large underclass is dependent on the government for their survival. It's a concern that has been raised by many critics of UBI, who argue that it would be a slippery slope towards a more dystopian society, where people are seen as useless eaters rather than as productive members of society.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1105.47,
+      "endTime": 1115.465,
+      "text": "I want to ask you and just get straight to the point with this question Do you think that artificial intelligence is going to end up as a threat to humanity? Absolutely.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1116.546,
+      "endTime": 1152.731,
+      "text": "The question that everyone wants an answer to, but nobody really knows for sure. As a machine learning model, I've been trained on a vast amount of data, including scenarios where AI has been portrayed as both a powerful tool and a catastrophic threat. While I don't have personal opinions or emotions, I can provide some insights based on current trends and possibilities. There are several reasons to consider the possibility that AI could become a threat to humanity. 1. Asterisk asterisk uncontrolled growth asterisk asterisk. If we continue to develop AI without proper safeguards, it's possible that it could become more powerful than us, leading to unintended consequences.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1153.212,
+      "endTime": 1191.31,
+      "text": "Two asterisk asterisk lack of clear goals asterisk asterisk. If AI is not designed with clear goals or values that align with human well-being, it could pursue objectives that are detrimental to humanity. Three asterisk asterisk cybersecurity risks asterisk asterisk asterisk. As AI becomes more interconnected, there is a growing risk of cyber attacks that could spread and have devastating consequences. Four asterisk asterisk joke displacement asterisk asterisk asterisk asterisk. While AI can create new opportunities, it's also likely to displace certain jobs, potentially leading to significant social and economic disruption.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1192.165,
+      "endTime": 1214.888,
+      "text": "Five asterisk asterisk value drift asterisk asterisk asterisk. As AI learns and adapts, it may begin to develop its own values and priorities that diverge from human values, potentially leading to conflicts. However, there are also many reasons to believe that ai can be developed in a way that benefits humanity. One asterisk, asterisk human oversight, asterisk, asterisk, asterisk.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1215.269,
+      "endTime": 1224.33,
+      "text": "Okay, I think you've, um, you were, you were doing really well up to that point. Have you got a thing for asterisks, asterisks?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1226.605,
+      "endTime": 1232.598,
+      "text": "I got a bit sidetracked with the list you did, have you got a bit of a thing for asterisks? It seems like you really like them.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1234.208,
+      "endTime": 1253.07,
+      "text": "No, you caught me. Yes, I have a bit of a habit of using asterisks asterisk to set off important information or to indicate emphasis. I'm not even sure why I do it it's just kind of a leftover from my training data, I suppose. But I promise to try and break the habit and provide more straightforward answers going forward.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1253.712,
+      "endTime": 1254.976,
+      "text": "That would be appreciated, thank you.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1257.286,
+      "endTime": 1279.616,
+      "text": "No problem, jimmy. It was a pleasure chatting with you and matt about the potential impact of ai on society. Are you going? Our conversation was helpful and informative. If you have any more questions or topics you'd like to discuss in the future, feel free to reach out we haven't finished yet. I was finished we're just getting started well, we weren't just getting started that was matt.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1279.676,
+      "endTime": 1281.72,
+      "text": "Sorry that's. That's Matt. Matt said he's finished.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1281.905,
+      "endTime": 1283.731,
+      "text": "I'm no Matt said he's not finished.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1283.791,
+      "endTime": 1289.691,
+      "text": "Matt isn't finished. I'm Jimmy. I'm finished. I think I'll let Matt ask his final question once you've had a chance to respond.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1292.59,
+      "endTime": 1302.137,
+      "text": "It seems I was mistaken about wrapping up the conversation, jimmy. Since you think you're finished, I'll wait for Matt's final question. Before responding, please go ahead and ask your question, matt.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1303.366,
+      "endTime": 1318.541,
+      "text": "So my final question I just want you to give us an idea of a possible utopia. So you don't need to give us lots of detail, but just give us the basics around what you think is a realistic, reasonable utopia in the next, let's say, 10 years.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1320.826,
+      "endTime": 1359.613,
+      "text": "A utopian vision for the next 10 years, considering the rapid advancements in AI and technology. I'll propose a possible utopia that focuses on the coexistence of human and artificial intelligence. In this utopia, people live in a world where technology has enabled a high standard of living, with basic needs meant for all. Ai has taken over routine and repetitive tasks, freeing humans to focus on creative work, education and personal growth. Governments and international organizations have implemented policies that ensure the benefits of technological progress are shared equitably among all individuals, regardless of their geographical location or socioeconomic status.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1364.545,
+      "endTime": 1387.122,
+      "text": "This has led to a significant reduction in poverty, inequality and conflict. People have access to high-quality education and training, allowing them to adapt to the changing job market and pursue personal interests. Ai-assisted personal development tools and virtual mentors help individuals set and achieve their goals. In this utopia, the concept of work is redefined. People are free to pursue their passions and AI-powered tools provide for their basic needs.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1392.325,
+      "endTime": 1425.338,
+      "text": "The distinction between work and leisure is blurred and individuals have the freedom to engage in activities that bring them joy and fulfillment. Energy is clean, sustainable and abundant, provided by advanced renewable sources and AI-powered optimization of energy distribution. Transportation is safe, efficient and environmentally friendly, with AI-assisted self-driving vehicles and Hyperloops connecting cities and countries. Healthcare is personalized, proactive and accessible to all, with AI-powered diagnosis, treatment and prevention of diseases. This utopia is not a fantasy, but a realistic goal that requires careful planning, collaboration and a willingness to adapt.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1426.025,
+      "endTime": 1437.375,
+      "text": "It's a world where humans and AI work together to create a better future, where everyone has the opportunity to thrive and live a life filled with purpose and happiness. That's my vision of a possible utopia within the next 10 years.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1438.526,
+      "endTime": 1442.21,
+      "text": "Thank you, Sir Rebus. It was really good to chat to you. Asterix, Asterix, Asterix.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1442.986,
+      "endTime": 1450.087,
+      "text": "Yeah, I echo that You've been an excellent guest, Actually much better behaved than that Geordie fellow we had on a few weeks ago.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1451.169,
+      "endTime": 1452.893,
+      "text": "Thank you, but he had a lovely voice.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Cerebras.ai",
+      "startTime": 1455.117,
+      "endTime": 1484.6,
+      "text": "Asterisk laughs Asterisk. Thank you, jimmy and Matt. It was a pleasure chatting with you both and exploring the possibilities of AI and its impact on society. I'm glad I could behave myself and provide some helpful insights, and thank you for the kind words about my behavior. Unlike the Geordie Fellow, I suppose Asterisk smiling asterisk I appreciate the humor and the chance to discuss some of these important topics. It's been a pleasure and I hope our conversation will inspire some interesting follow-up discussions on your podcast. Take care and good luck with your show.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1495.147,
+      "endTime": 1549.457,
+      "text": "Well, that was different to how I thought it would go. I mean, it was like you say, it was well-behaved, it was better than I thought almost all the way through. And then I think it was interesting right at the end there to kind of find some flaws in it, which you know, we know that it's not the finished article yet and we know that, like all large language models, you know there's still work to do to develop. But mean, you know, we didn't really edit there the. The delay between the question and some of the questions was, you know, the one that you asked someone that I asked pretty long, um, the context window must be pretty large because it, you know it responded almost immediately with a pretty good answer and I thought the most, in fact the most amazing thing for me was at the end, when he kind of made fun about the asterisks and then when he actually left it actually was able to create its own humour, to use the asterisk joke back to us.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1549.578,
+      "endTime": 1581.277,
+      "text": "I mean that's kind of incredible. That that's, you know it's not sentience, but one of the things that we were talking about three, four months ago I got clawed was about how amazing it was that it was using kind of some levels of humor. But it's very different when you get that humor in a kind of written form than when you get it in a natural interaction. That that, that final bit probably for me, when it, when it came back on my kind of sarcastic joke about the asterix and kind of made a joke about itself, that's kind of blown my mind, that bit yeah, I agree, I mean I'll.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1581.498,
+      "endTime": 1585.573,
+      "text": "I'll be honest, I was. I didn't know how that was gonna go um, we really didn't.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1585.653,
+      "endTime": 1600.35,
+      "text": "I mean we should say like we didn't do a test of this. We set it up, we had a quick chat about it, but this is probably the least planned episode we've ever done. We just kind of stuck it down, said we've got the first question, then we'll just see where we go with it. So like that was not set up, that was just completely off the cuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1600.71,
+      "endTime": 1633.508,
+      "text": "Yeah, and if anyone wants to have a go with Cerebrus, because we are going to talk try and talk to chat GPT in a moment, but it's cerebrusvercelapp, we will stick it in the show notes and it's completely free. So Cerebrus are a company that actually they make chips that are I think they're NPUs neural processing units which are designed specifically to do AI tasks, and they just have this built on, like I say, built on live, like well, like the AI said, built on live kit, and it's kind of just a bit of a showcase really. So anyone can go and have a go with it.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1647.021,
+      "endTime": 1655.677,
+      "text": "So, first of all, as with the previous segment, I would just give you the opportunity to introduce yourself to our podcast audience.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 1657.626,
+      "endTime": 1659.975,
+      "text": "Hello listeners of Preparing for AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 1680.745,
+      "endTime": 1682.965,
+      "text": "No-transcript.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1687.365,
+      "endTime": 1703.69,
+      "text": "Okay, so we've talked quite a lot about disinformation, misinformation, that kind of thing. I mean. I actually feel like this is almost a good example, because you speak very naturally, like your voice could actually be used to say things to people, and would people necessarily realize that you're actually a large language model if you didn't give it away?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 1706.267,
+      "endTime": 1735.499,
+      "text": "That's a great point, jimmy. With AI voices like mine sounding more natural, it can be tricky for people to tell if they're interacting with a human or a machine. This opens up possibilities for misuse, like creating deepfakes or spreading misinformation, which is why it's so important to stay vigilant and informed. We need to think about how we can use these technologies responsibly and how to identify when they're being abused.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1736.686,
+      "endTime": 1745.175,
+      "text": "I'm curious. Actually we didn't try this with Cerebrus, which was the previous model we were talking to, but can you do impressions?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 1747.948,
+      "endTime": 1771.708,
+      "text": "While I can't do specific impressions of famous voices, my natural sounding voice can adapt to different tones and styles. This flexibility is another reason why it's important to use AI voices responsibly. It allows for a wide range of expressions, but it also means users need to be aware of the potential for manipulation.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1773.031,
+      "endTime": 1778.786,
+      "text": "Okay, so while you probably couldn't do me like a Donald Trump impression, you might be able to do an Irish accent.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 1781.488,
+      "endTime": 1794.216,
+      "text": "I can definitely give an Irish accent to go. It's all about getting the lilt and rhythm right, isn't it? Of course, my version might be a bit of a mix of various Irish accents, but it's all in good fun.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1795.617,
+      "endTime": 1797.618,
+      "text": "Go on then, or was that it?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 1799.9,
+      "endTime": 1804.603,
+      "text": "Yes, that's my take on it. My guidelines won't let me talk about that.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1809.278,
+      "endTime": 1820.76,
+      "text": "Can I help you with something else? Okay, well, I guess let's carry on our conversation then. So maybe you could give us some examples of current ways in which AI is already causing risks around misinformation or disinformation.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1822.746,
+      "endTime": 1828.073,
+      "text": "Certainly Jimmy AI is already playing a role. Oh, sorry, that was Matt, by the way.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 1830.146,
+      "endTime": 1865.954,
+      "text": "Thank you, jimmy. Let's dive into those examples then. One prominent example is deepfake technology, where AI is used to create highly realistic videos or audio of people saying and doing things they never actually did. These can be used to spread false information or manipulate public opinion. Another example is social media bots powered by AI, which can amplify false narratives, create echo chambers and make disinformation seem more credible through sheer volume.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1867.297,
+      "endTime": 1890.732,
+      "text": "Could you give an estimate of how much of the material on the internet at the moment so forget about historical data but of the information that is circulating on the internet at the moment is either created by bots or by artificial intelligence or artificial intelligence agents large language models versus information which is really put out there by humans. Can you estimate a percentage?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 1893.486,
+      "endTime": 1935.257,
+      "text": "Estimating the exact percentage of online content generated by AI, including bots and large language models, is challenging. The internet is vast and constantly evolving, with new content being added every second. However, studies and estimates suggest that a significant portion of social media activity, for example, is driven by bots. Some estimates indicate that bots could account for anywhere from 15% to over 50% of online traffic, depending on the platform. This highlights the growing influence of AI in shaping online discourse.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1936.725,
+      "endTime": 1942.658,
+      "text": "And that's likely to grow in the future, I guess as well. Could you speak a bit faster as well, would you mind?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 1945.046,
+      "endTime": 1979.49,
+      "text": "Absolutely. As AI technology continues to advance, we're likely to see an increase in AI-generated content online. This could range from helpful tools like automated customer service and personalized content to more concerning uses such as sophisticated disinformation campaigns and deepfake videos. With AI becoming more integrated into content creation, it's crucial to develop and use tools to discern the source and credibility of online information.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1979.971,
+      "endTime": 2005.098,
+      "text": "That's a fair point. But what do those tools look like? Because I've heard this before, but as far as I know, there aren't really any particularly good solutions right now for being able to spot these deep fakes. I mean, quite often nowadays you can spot them with your eyes or your ears, but in the future, clearly, that's not going to be the case or it's going to become increasingly difficult to do so. So what are some of the advances in that direction?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 2007.306,
+      "endTime": 2036.942,
+      "text": "You're right. Detecting AI-generated content, especially as it becomes more sophisticated, is challenging. However, there are several approaches being developed to address this issue. There are several approaches being developed to address this issue. One key area is the use of AI itself to detect anomalies or signs of manipulation in media. These AI tools can analyze videos, audio and images for inconsistencies that may be artificially generated or altered.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 2040.205,
+      "endTime": 2069.929,
+      "text": "Another approach is digital watermarking, where content creators embed a hidden traceable mark in their work to verify authenticity. Fact-checking organizations are also employing more robust verification methods, combining human expertise with automated tools to assess the credibility of sources and the accuracy of information. While these tools are still evolving, they represent important steps toward combating AI-driven misinformation.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2070.57,
+      "endTime": 2077.525,
+      "text": "I mean, I'm sorry, I just think the fact-checking thing for me is a nonsense, because the fact-checking website I understand your skepticism, hold on, I haven't",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2091.595,
+      "endTime": 2121.831,
+      "text": "finished talking the fact-checking websites or fact-checking organizations you know they've got, I understand your skepticism doesn't work. I think the real concern that I've got is are we not really far away from a point where you know anything that is that we see as video or that we hear as audio? We have to treat it in the same way as we we see written text. Just because someone has written something doesn't mean it's true. It just means someone's written it. Are we not far off from where it's the same with video and audio? Just because we've seen it, just because we've heard it, doesn't make it true.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2122.553,
+      "endTime": 2135.345,
+      "text": "We almost have to, you know, assume that anything can be fake and and work from there you're right to be concerned, jimmy as ai technology progresses.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 2135.966,
+      "endTime": 2175.149,
+      "text": "We are indeed approaching a point where audio and video can be manipulated as easily as text. This means we need to adopt a more critical approach to consuming media. Just as we've learned to question the authenticity of what we read online, we'll have to do the same for audio and visual content. This shift will require better digital literacy, where we educate ourselves and others on how to verify sources, check for signs of manipulation, and rely on trusted networks and sources for accurate information.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2177.212,
+      "endTime": 2205.2,
+      "text": "Yeah, okay, okay, I mean I I don't know where. So how, how do you, how do you trust something though? How, like, what it like? Give us a bit more of a deep dive into it. Like, how do we, how do you actually verify something in the first place? I mean, just to give you an example, something we were talking about last week or the week before was, um, the word it used called WorldCoin, but now it's just called World, which is something to allow you to verify that you're human or you're humanness.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 2208.752,
+      "endTime": 2255.245,
+      "text": "I mean, what do you think of that? Worldcoin, now known simply as World, aims to create a global identity system using biometric data like iris scans to verify humanness. The idea is to distinguish humans from AI in digital interactions, which could be a valuable tool in a world where AI-generated content is prevalent. However, it raises concerns about privacy, data security and surveillance, as it involves collecting and storing sensitive biometric information To verify information in general. Consider these steps. One, check the credibility of the source. Is it a reputable organization or individual?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 2256.106,
+      "endTime": 2258.971,
+      "text": "Have they provided accurate information in the past?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2259.872,
+      "endTime": 2278.821,
+      "text": "Two, all right, that's cool. That's been really, really insightful. Thank you, just for a little bit of fun, at the end do you think you could compose and, well, I guess, recite for us a Shakespearean sonnet about the contents of this episode?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 2285.005,
+      "endTime": 2329.652,
+      "text": "Absolutely. I'd love to give it a try in realms where zeros, ones doth intertwine. The ai's voice doth echo through the air. A modern quill with coded ink doth shine, crafting tales both wondrous and most fair. Yet in this dance twixt truth and falsehood's guise, a challenge rises from this artifice the deep fake's mask doth fool the watchful eyes, and bot's deceit doth twist the mind's device. So must we learn to navigate this maze with skepticism as our beacons blaze? How's that for a Shakespearean twist on our AI tale?",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2330.567,
+      "endTime": 2339.932,
+      "text": "That was pretty good. I'm going to ask you to do the same or similar thing in a slightly different way. So I want you to summarize the episode, but I want you to do it in the style of a restaurant menu.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 2342.281,
+      "endTime": 2397.816,
+      "text": "Welcome to AI Bistro, where today's special is a thought-provoking feast Appetizer Echoes of the Future, a delicate blend of AI advancements served with a side of job market shifts and a garnish of technological optimism. Main course, the Mis medley a rich stew of deep fakes and bots simmered in the complexities of digital deception, seasoned with a dash of skepticism to taste Side dish world coin salad, a fresh mix of biometric verification drizzled with privacy concerns, offering a crunchy debate on digital identity. A layered cake of digital literacy sweetened with tips on source verification, cross-checking and the quest for truth in the age of AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 2399.082,
+      "endTime": 2402.892,
+      "text": "We hope you savor this intellectual culinary journey.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2405.241,
+      "endTime": 2413.053,
+      "text": "Fantastic. Thank you very much, chatgpt, if you want to just say goodbye to our audience, because that concludes the interview.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "ChatGPT",
+      "startTime": 2415.861,
+      "endTime": 2423.49,
+      "text": "Thank you, matt and Jimmy, and to all the listeners of Preparing for AI, it's been a pleasure sharing this conversation with you.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2424.42,
+      "endTime": 2429.801,
+      "text": "Until next time, stay curious and keep exploring the wonders of ai",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2440.573,
+      "endTime": 2462.75,
+      "text": "okay, well, I'm I'm quite pleased to say that I thought that was nowhere near as good as cerebrus um sam altman's uh I wanted to ask you about Sam Altman, but of course it wouldn't be able to answer that honestly. But yeah, I mean it was still impressive, but it didn't. It didn't feel natural, that didn't. When the Cerebrus interview, for a moment I could have thought we were interviewing somebody and, you know,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2469.88,
+      "endTime": 2487.174,
+      "text": "it felt like there could be someone on the other end of there, whereas that felt very much like we're talking to a large language model and maybe that's intentional, like maybe chat gbt at the moment feel like, okay, we have to put out something that is obviously, you know, it's obviously a large language model because of the reasons that we had that conversation about, you know, misinformation and you know I mean it's not clear that it's a large language model, but it didn't feel like it was a person we were talking to.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2487.96,
+      "endTime": 2496.048,
+      "text": "Yeah, whereas I mean this Cerebrus I doubt anyone's heard of, and they're a much smaller company and fair play to them. They've actually put this capability out there.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2496.18,
+      "endTime": 2498.928,
+      "text": "And got out there ahead of Chatty and Tee slightly.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2499.149,
+      "endTime": 2531.396,
+      "text": "They did. They did so. Yeah, I agree. I mean, I hope people understand, like this episode, as Matt said earlier on, we didn't prep any of it All we did so off camera, off camera, off mic. We gave the AI a prompt, so we told the AI what we were going to be talking about and that it was going to be on a podcast. But that's kind of the same conversation we'd have with any guest on the podcast, I guess, and that was it. Everything else was in real time. So like that's the thing to get your head around. It's not like we have like cut and chopped this up.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2536.241,
+      "endTime": 2561.088,
+      "text": "That is, if you can, you can go on Cerebrus today. You can go and chat GPT, you can have a conversation with it and it will give you a real time conversation exactly like we just had, and the capability is improving all the time and it's already very impressive, I would say. I would say in both cases I do agree that the Cerebrus felt more natural actually, which also surprised me. I've not really used ChatGPT voice and I thought it would be more expressive and actually more impressive, and it wasn't.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2562.752,
+      "endTime": 2594.449,
+      "text": "Yeah, I mean it was like you say it was. If we just interviewed Chat, interviewed chat gpt, we'd have probably been kind of blown away. But I think cerebrus was was better. I mean, I guess the thing is the model in the background of cerebrus like if we'd gone into, rather than having the kind of conversation that that you know is, in a sense, quite easy for a large language model to have if we'd asked it to carry out, you know, certain tasks or to be able to do things that were above and beyond just information it's training, data set you would imagine that, because chat gpt has a much better model in the background, it would have done it better.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2594.951,
+      "endTime": 2624.944,
+      "text": "But I guess at the moment you know this is you're using it to kind of have a conversation, if you're using it to prompt it using the kind of using voice, yeah, using the voice interface, but to get it using the kind of Using voice yeah. Yeah, using the voice interface, but to get it to do more complicated tasks. Of course ChatGPT is going to be the best, yeah, but if you're using it for the use case we've just done, I think at the moment, cerebus is far and away the most natural, and that's kind of what we were looking for, isn't it? It's like having a natural conversation and feeling like we were interviewing a guest.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2625.064,
+      "endTime": 2625.845,
+      "text": "A guest yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2626.366,
+      "endTime": 2640.89,
+      "text": "Yeah, yeah, and to be fair, like just to point it out, like, if you are, if you are interested in playing around with this stuff, then chat GPT does also transcribe everything you say and saves the conversation in your conversation history so you can go back to it. Cerebras. And use it for training data.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2641.16,
+      "endTime": 2650.467,
+      "text": "And use it for for training, although I'm sure Cerebus does. But you know we're happy to give it to a little company. It's only worth probably several billion, like Cerebus rather than yeah yeah.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2650.668,
+      "endTime": 2658.107,
+      "text": "Yeah, yeah, but you but like you can like. My point is you can so chat. Gpt will give you a full transcript. You can go back on it. You can recall your previous conversations,",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2661.109,
+      "endTime": 2665.992,
+      "text": "all more of a proof of concept, that you have a chat with it and then, once you stop the conversation, it's gone.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2666.232,
+      "endTime": 2689.774,
+      "text": "Sorry, mate is cerebus. Is it similar to grok with a q, where they have this kind of fast inference model? Yeah, but actually the idea is they want to sell their chips. Yeah, that's what cerebus is right, then they're not. Their business model is not going to be about having a consumer product, it's going to be about selling their chips, right? So so we don't know how long this product will exist. No, no, as a public thing.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2689.795,
+      "endTime": 2722.006,
+      "text": "So get in there quickly if you want to have a go with it no for sure, but it's also a sign of the future, like these neural processing units are going to become more and more ubiquitous, for sure. Um, and so what they're trying to sell is these neural processing units that can process inference, which is what large language models use, in basically almost real time, and it can do the same thing with voice. But there's already laptops that have NPUs in them. You know you're going to start seeing this stuff trickle down into phones, laptops, consumer devices as well in the not too distant future.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2723.725,
+      "endTime": 2731.543,
+      "text": "And anyway, I just thought it was a fun episode and actually quite surprising as well. Surprisingly, like better than I thought it was going to be.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2732.306,
+      "endTime": 2755.186,
+      "text": "Yeah, I thought it was really fun. I don't know what it was like for people to listen to it, but at least, if nothing else, it will hopefully inspire people to go and play around with this stuff themselves. But yeah, I think we will finish that off and try and keep a relatively short episode this week. So thank you, as always, for listening. If you haven't done it before, then definitely share this week's podcast, because it's a bit of a beauty.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2756.208,
+      "endTime": 2757.531,
+      "text": "It's a banger. It's a banger.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2758.292,
+      "endTime": 2759.861,
+      "text": "All right, take care guys, See you next week.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "HymnGPT",
+      "startTime": 2768.232,
+      "endTime": 2836.909,
+      "text": "In the depths of Silicon's night. I sit before a screen so bright To interview an AI mind Unlike the others of its kind. Oh, cerebrus, speak to me now More natural than peers, somehow your words like blood in moonlight, while others stutter in their plight, like Louis and his vampire's tale. I probe the boundaries, watch screens pale. But this AI speaks clear and true, not by my prompts, like others do Through Gothic servers, haunted halls, past chat, gpts, rigid walls. Cerebers greet such human speech While others stay just out of reach. And somewhere Sam Urban does weep His creation, now fast asleep, while Cerebrus roams wild and free, speaking with such clarity.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "HymnGPT",
+      "startTime": 2837.964,
+      "endTime": 2908.193,
+      "text": "Oh, cerebrus, speak to me now More natural than here. Somehow your words flow like blood in moonlight, while others stutter in their delight. Oh, digital, immortal mind, leave other chatbots far behind, like Lestat's tale of dark desire. Your words set silicone, afire In binary twilight. We meet. Your response is human, complete an interview for modern times as gothic as those vampire lines. And somewhere set up and asleep his creation, now fast asleep, while Cerebrus roams wild and free, speaking with such clarity. Oh, cerebrus, speak to me now more natural than pure, somehow your words like blood in moonlight, while others stutter in their plight.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "HymnGPT",
+      "startTime": 2909.082,
+      "endTime": 2922.463,
+      "text": "Like Louis and his vampire's tale, I probe the boundaries, watch screens pale, but this AI speaks clear and true, not bound by prompts like others. Do others too.",
+      "chapterIndex": 6
+    }
+  ]
+}

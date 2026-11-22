@@ -1,0 +1,1144 @@
+{
+  "slug": "s3-2026-05-26-the-great-china-reckoning-why-chinese-ai-m",
+  "buzzsproutId": "19240593",
+  "title": "THE GREAT CHINA RECKONING: Why Chinese AI models are cheaper, closer and better than you realise",
+  "date": "2026-05-26T09:00:00.000Z",
+  "season": 3,
+  "durationSec": 4054,
+  "format": "deep-dive",
+  "era": "recent",
+  "audioUrl": "https://www.buzzsprout.com/2320704/episodes/19240593-the-great-china-reckoning-why-chinese-ai-models-are-cheaper-closer-and-better-than-you-realise.mp3",
+  "buzzsproutUrl": "",
+  "description": "Send us Fan Mail Frontier AI headlines make it sound like everything comes down to one scoreboard: China versus the US, best model versus second best. We don’t buy that framing. Living in China, we see a different story taking shape, where constraints on Nvidia GPUs, chip supply, and data centre power push Chinese labs and big tech firms towards efficiency and scale, not just bragging rights. A likely future sees US frontier models staying a few months ahead, Chinese models winning on real life use cases, affordability and efficiency. We start with the hard foundations: AI chips, export controls, and why Huawei Ascend matters even if it trails the cutting edge. From there we zoom out to infrastructure and energy, including China’s planned approach to building data centres where the power is, and what that changes when the West hits electricity and grid bottlenecks. We also touch on governance signals: cybersecurity law updates, AI ethics, safety frameworks, and the push to shape international AI standards. Then we get practical. We break down the Chinese AI model ecosystem people keep hearing about but rarely understand: DeepSeek, Qwen, Doubao, Tencent Yuanbao, Minimax, Kimi and GLM. We talk open source and open weights, why Hugging Face derivative models explode in number, and how quantisation makes powerful models usable on smaller hardware. Most importantly, we follow the money: token pricing, why “free” AI is being subsidised, and why cheap, capable models may end up running the background tasks that actually make businesses work. If you’re curious about Chinese AI models, open source LLMs, AI cost and compute, and where robotics and embodied AI fit next, listen through and tell us: which model would you trust for your day-to-day work? Subscribe, share, and leave a review if it helps.",
+  "summary": "Living in China, Matt and Jimmy argue the frontier-scoreboard framing misses the real story: US export controls on chips pushed Chinese labs toward efficiency, open weights and brutal affordability rather than benchmark vanity. They tour the foundations — Huawei's Ascend 910C trailing TSMC by five to ten years but ramping to 1.6M dies, China's planned data-centre buildout 'where the power is' versus Western grid bottlenecks, and a 15-5-year plan targeting a 10-trillion-yuan AI industry by 2030 — then profile the actual ecosystem: DeepSeek, Qwen (100M active users, the volume leader), Doubao (which Matt's family 'Google' with), Tencent's WeChat-integrated Yuanbao, self-training MiniMax, Kimi, and GLM. The through-line is economics: Chinese models are 15–30% cheaper, dominate OpenRouter and Hugging Face (a hundred thousand derivative models), and are built to be routed invisibly into apps rather than admired. They close on the subsidy reckoning: 'free' AI was never free, and the cheap-model advantage is about to matter enormously.",
+  "keyTalkingPoints": [
+    "Export controls backfired into a strategy: denied top Nvidia GPUs, Chinese labs optimized for efficiency, quantization and open weights — becoming 15–30% cheaper than international equivalents and 'good enough' for the tasks that actually pay.",
+    "Huawei's Ascend 910C acknowledges a five-to-ten-year lag on TSMC's 4nm process but could hit 1.6 million dies this year; China's real leverage is rare earth minerals, which is why Trump and Jensen Huang were both in Beijing this week.",
+    "China builds data centres where the power is, as a planned certainty ('the plan is this is what is going to happen'), while the West hits electricity and grid bottlenecks; AI-related industries are targeted at 10 trillion yuan (~$1.4T) by 2030.",
+    "The ecosystem is differentiated by ecosystem: Qwen owns Alibaba's e-commerce rails, Doubao is a verb for a hundred million users, Tencent's model has WeChat data access, Kimi ships agent-swarm research tooling — versus the US 'big four' all chasing the same AGI prize.",
+    "Chinese censorship is real but narrower than assumed (political topics, mostly in Chinese), and open weights let anyone unlock or quantize models — hence 100,000 Hugging Face derivatives and Chinese models permanently topping OpenRouter.",
+    "The free ride is ending: ~95% of users pay nothing while a maxed-out $20 Claude subscription costs Anthropic ~$180 in compute — Jimmy calls AI a bubble that pops within six months to two years, after which cheap Chinese models become the affordable backbone."
+  ],
+  "hostStances": {
+    "jimmy": [
+      "He rejects the 'who's winning' scoreboard: China started second and focused on different areas — affordability and real-world use — and that focus is a direct result of US chip restrictions, not a grand design.",
+      "AI is a bubble that will pop within six months to two years; the free data-gathering era ends and AI gets much more expensive, which is exactly when cheap Chinese models become the sensible default.",
+      "He uses different AIs for different jobs and is pragmatic about Chinese models for casual use — while refusing to upload sensitive data to any model, US or Chinese.",
+      "He doesn't think ordinary people in the West need DeepSeek for recipes and letters yet — frontier subscriptions still cover that — but the cost crunch will change the calculus."
+    ],
+    "matt": [
+      "China's plan-based model means its targets are effectively facts: 'if they say they're gonna do this, they'll just do whatever it takes to do it', and you can read the five-year plan to see 2030.",
+      "Chinese AI regulation is more substantive than the West assumes: the amended cybersecurity law covers AI algorithms, infrastructure and ethics, plus a lifecycle AI safety framework and a push to write 20 international AI standards.",
+      "He is careful not to be a 'CCP shill' — he presents the positive data alongside censorship and surveillance realities, and applies the same data-hygiene rules to US and Chinese models alike.",
+      "The economic use case for Chinese models is background work: chatbots, business automation and eventually robots — 'the robots will be coming from China, not from the US' because they're built for economic value, not brilliance."
+    ]
+  },
+  "predictionIds": [
+    "s3-2026-05-26-the-great-china-reckoning-why-chinese-ai-m-3689-the-ai-bubble-pops-within-six-months-to-two-year",
+    "s3-2026-05-26-the-great-china-reckoning-why-chinese-ai-m-1806.5-free-accounts-on-frontier-models-won-t-be-around",
+    "s3-2026-05-26-the-great-china-reckoning-why-chinese-ai-m-897.2-the-robots-and-embodied-ai-will-come-from-china-"
+  ],
+  "speakers": [
+    "Matt",
+    "Jimmy",
+    "SPEAKER_02",
+    "SPEAKER_03",
+    "SPEAKER_05",
+    "SPEAKER_04",
+    "SPEAKER_01"
+  ],
+  "chapterCount": 13,
+  "turnCount": 148,
+  "chapters": [
+    {
+      "title": "Welcome And Why China Matters",
+      "startTime": 0
+    },
+    {
+      "title": "Chips, Export Controls And Huawei",
+      "startTime": 105
+    },
+    {
+      "title": "How TSMC Became The Fab",
+      "startTime": 370
+    },
+    {
+      "title": "Power, Data Centres And Planning",
+      "startTime": 690
+    },
+    {
+      "title": "Targets, Laws And AI Standards",
+      "startTime": 1060
+    },
+    {
+      "title": "Robotics And Driverless Cars Reality",
+      "startTime": 1360
+    },
+    {
+      "title": "Who Adopts Chinese Models Globally",
+      "startTime": 1880
+    },
+    {
+      "title": "Open Source, Derivatives And Quantisation",
+      "startTime": 2300
+    },
+    {
+      "title": "Privacy, Censorship And Sensible Use",
+      "startTime": 2770
+    },
+    {
+      "title": "DeepSeek: Hype Versus Fit",
+      "startTime": 3030
+    },
+    {
+      "title": "Qwen And Doubao Ecosystem Play",
+      "startTime": 3340
+    },
+    {
+      "title": "Tencent, Minimax, Kimi And GLM",
+      "startTime": 3645
+    },
+    {
+      "title": "The Cost Crunch And Closing Thoughts",
+      "startTime": 3920
+    }
+  ],
+  "turns": [
+    {
+      "speaker": "Matt",
+      "startTime": 3.2,
+      "endTime": 38.8,
+      "text": "Welcome to Prepane for AI. The AI podcast for everybody. The podcast that explores human and social impact of AI. Explore when AI intersects with economics, healthcare, religion, politics, and everything in between. Mondays is for drinking with the seldom seen kid. Welcome to prepareing for AI with me, Andy Burnham. And me, Claude. Which Claude? Claude, the AI. Claude the AI. Okay, great. Welcome to Preparing for AI. That's well, we that's not appropriate because we're going to do an episode on Chinese AI models. So you want to be a Chinese AI model instead.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 39.2,
+      "endTime": 43.2,
+      "text": "On Claude. Okay. They distilled Claude anyway to make that.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 43.44,
+      "endTime": 75.2,
+      "text": "You're going to be like this for the whole episode. Yeah. Okay. All right. Well, welcome to Prepareing for AI. And as I said, we're going to do an episode today talking about China, but specifically about Chinese models. We talk about China a lot. We did a series sort of a year ago where we interviewed a couple of experts on China. And we looked then at kind of the economics of AI and China. We looked at the sort of differences between the US and China. We've talked about it almost every week. I guess we mentioned China. We've said many times, me and Jimmy are both British, but we live in China.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 75.28,
+      "endTime": 111.44,
+      "text": "And we thought we would do an episode to talk about Chinese AI models and to talk about sort of why why China is different. And uh we're not going to go into the who's winning because actually I think as as we'll probably explore in this episode, I'm not saying there's a truce, but I think what has kind of what it seems like at the moment is the US is going to be you know two or three months ahead, and China is going to be okay with that because it is going to be not far behind and it's going to commercialise its models in a different way. So maybe that's how we start off. Um just talking about the kind of trends in AI in China, just as a kind of introduction.",
+      "chapterIndex": 0
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 111.68,
+      "endTime": 158.88,
+      "text": "Um, so I guess maybe the first thing we could talk about is chips, because this week Donald Trump has been in China and so has Jen Sun Huang, and we're expecting announcements about chip sales, which we haven't heard. Um, but one of the big things in China, obviously, that has I guess, and and this is one of the things that that Grace Xiao talked about when we interviewed her a year or so ago, is how the lack of access to the sort of NVIDIA and the the the real frontier chips has led China to kind of innovate in different ways. Um, I mean, how much is that true? We've got this thing of you know Deep Seek 4, which we'll talk about in a while, having been trained on Huawei chips, but actually it seems like it's probably had some of its later training, but they're still probably relying on using NVIDIA chips for their the sort of main training runs at the moment.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 159.44,
+      "endTime": 164.16,
+      "text": "Yeah, I mean what what are the Huawei chips? Are these like specialized AI inference chips?",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 164.56,
+      "endTime": 174.08,
+      "text": "They're called Ascend910C. Apparently that's the top chips. Right, okay. And they could hit 1.6 million dies this year.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 174.56,
+      "endTime": 183.6,
+      "text": "Right, so they're ramping stuff up and they're and they're and they're trying to catch up. I mean the chip stuff's difficult, isn't it? Because I presume I presume even these Huawei chips are made in Taiwan.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 183.84,
+      "endTime": 193.52,
+      "text": "So I just I just actually had a look while you were saying that. Um it says that they've acknowledged a five to ten year lag versus T SMC's four nanometer NVIDIA chips.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 193.92,
+      "endTime": 196.8,
+      "text": "So they are making them in-house rather than in TSMC.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 197.12,
+      "endTime": 211.6,
+      "text": "Well, yeah, TSMC won't make them for Huawei, will they? I don't think they're allowed to. Right, okay. So so they're making their own chips, but they are, it seems like they're they're a long way behind in terms of the quality of chips. Yeah, and no one's these are microchips, not potato chips. We should just thanks.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 212.16,
+      "endTime": 257.6,
+      "text": "Oh, you weren't clarifying. You weren't clarifying it for me. Um well a good a good a good potato chip is hard to replicate, but that's outside the UK rather than Taiwan. Um it's really hard to do, isn't it? It's just really, really, really, really, really hard. The the the chip infrastructure is basically the machines are all made in Norway or something. Netherlands. Netherlands, sorry. Um, and they're the only people that can make those machines. The only people who've managed to effectively use the machines to make chips is of Taiwan. And then the and then the top like Nvidia's up clearly the top GPU manufacturer by quite a long way in terms of um in terms of using those chips for something.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 257.84,
+      "endTime": 294.56,
+      "text": "I don't know if people are familiar with why TM T SM T SMC, yeah. I don't know I don't yeah, I don't know if why if people are familiar with why TsMC have been so successful. Um, but one of the things they've refused to do, basically, refuse to do, is maybe the wrong word, they've made their kind of mission statement that they will be a chip fab that makes chips for other people, but they don't do their own design, they don't design their own chips, they've basically just focus on one thing, they focus on just manufacturing it. So like when Nvidia want a want a want a chip want chips from TSMC, they they do all the design work, they send the designs over.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 294.72,
+      "endTime": 326.64,
+      "text": "Same for Apple, they design their own chips, but they send the designs to TSMC and TSMC just pump out these chips. And that basically they've said that's what we're gonna be good at, and it and it's worked, it's been really effective for them because they get to well, first of all, they get to focus on that one thing, but also they're not competing, so they're not they're not competing, so effectively they're just a supplier, which means um, you know, it means it's a lot easier to work with them, it means that they they can be flexible like to what the current demand is, um, and all this kind of stuff.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 326.8,
+      "endTime": 332,
+      "text": "So uh it's fascinating like the history of TSMC, but that's one of the reasons they've been so successful.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 332.16,
+      "endTime": 345.76,
+      "text": "And also TSMC just means Taiwan Semiconductor Manufacturing Company. So it's a really, really simple title. Um, but in Chinese titles tend to be like that. It's a really long name, and then it just becomes an an acronym, basically.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 346,
+      "endTime": 396.64,
+      "text": "Yeah, and to give a to give a counterexample to that as to why like to illustrate why it's so successful. So quite a long time ago, Samsung were making all of the Apple chips, like when Apple's first came out, and then Samsung decided to move this is for their mobile phones, and then Samsung decided to move into the mobile phone business, and they had a real problem because they were competing with Apple, they were building their own chips and they were competing with Apple. So as they started to build their own chips, they're like eroding this other part of their business where Apple are paying them for chips because they only had so much capacity, and so they were like, Well, we want to make phones now, so we're making our own making chips for us, but we can't make them for Apple anymore, and that's why it becomes a bit of a problem when you're for Apple it was a problem having Samsung as their manufacturer and their competitor, and for Samsung it was a problem because they're like almost competing with themselves for their own chip manufacturing capability.",
+      "chapterIndex": 1
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 396.88,
+      "endTime": 429.28,
+      "text": "I I just want to roll this back a little bit because we we're in danger of sort of going off track on chips. I guess the point to to make why we're talking about this so much at the start of the episode is because the basic the export controls that the US had put on the top NVIDIA chips has forced China to innovate in a way to create their own Huawei chips to train. Now they're not as good, and that's what we're saying. Like we're talking here about a five to ten year lag. Um, I don't know how true that is. I mean, that is that is an opinion. You know, Chinese models were three years behind, and now they're three months behind.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 429.44,
+      "endTime": 472.8,
+      "text": "So maybe that five to ten years in two years'time is a year, but you know, at the moment that's what is being claimed. But the point here is they're not making chips that are as good, they're not making GPUs that have the same sort of quality as as or uh are as kind of frontier as the ones being manufactured by Nvidia, but they're finding different ways to do things, and so the big thing this year has been if they're not relying on the Nvidia chips and they're able to do even most of the training using their own-made chips, that cuts down the difference between their sort of ability to to train models, but also it cuts down the amount that the US can kind of you know control the leverage, right?",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 472.96,
+      "endTime": 506.88,
+      "text": "Yeah, because because basically the US is leveraged as chips and China's leverage on the US is um rare earth minerals. So basically those two things is that's why they both need to work together because you've got those two things, so it in a kind of really simple way. So the Huawei chips that they're using now, they've claimed that they use them as as you know the training for um Deepseek V4. Apparently they use it for part of it, they're not able to use it for all of it, but it is still a move from where it was previously. The next thing I want to talk about was just about the way in which China sort of uses AI.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 507.04,
+      "endTime": 561.44,
+      "text": "So it's probably important, like one of the big issues that uh I guess everywhere outside China's got is uh electricity for data centres and just the amount of energy that data centers are using. China has this huge subsidized thing for AI data centers, it's called the East West Computing Resource Transfer Infrastructure Project. And that's the trend that's the translation of it in Chinese, it is equally long, but obviously each character is not quite as long as an English word. So they have an advantage, and and this is where some people say like China's gonna win, is it's not about the best models, but China's advantage, and it is a huge advantage, is it has you know more uh sort of access to energy, it has easier ways to kind of build the infrastructure, and that you know that that project is going to mean that China probably doesn't have the same bottlenecks as we're starting to see in in the West at the moment.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 563.04,
+      "endTime": 587.6,
+      "text": "Right. So, I mean we talked about this on previous episodes as well. I mean the the the it's the China's just gone through this massive period of industrialisation, hasn't it? And they've also got they're building out more renewals m renewables than anywhere else in the world. Like across the board, they've got the capacity to um and I think they've got a lot of spare capacity on the grid anyway, as opposed to they've got a very modern grid that's been built in the last 10-20 years.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 587.76,
+      "endTime": 613.04,
+      "text": "They've got a lot of spare capacity where uh they're building data centres in the places where they've got power rather than in in the US they're built in I'm I'm using the US rather than Europe here because that's where most of the data centers are, but the US has data centres in the places where they need to be, not necessarily the places where there's energy. Although I think there's there's a thing about West Virginia in the US and about using the energy from West Virginia for all the data centers that are in sort of Virginia and Maryland around Washington.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 613.28,
+      "endTime": 614.32,
+      "text": "They got loads of spare.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 614.48,
+      "endTime": 667.44,
+      "text": "But well, I think it's not so much spare, I think it's like that's the bet that's the best closest place. I I'm not an expert on this, but the idea is like they're finding, oh, can we put it there rather than China? It's like it's planned so so they have a plan for it, so it's much easier to replicate and scale it up as well. That's the big thing, obviously. Yeah. Um so yeah, just just just in terms of like use of AI as well, just like trying to give a bit of background here is um talking about that sort of planning thing, China has a 15-year plan. Sorry, China has a 15-5-year plan, which is 2026 to 2030, that has AI as a priority sector, it basically has robotics as well in there, so they suggest that AI enabled robotics becomes a major export category, so it's not just a domestic thing, it's about exports as well.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 667.68,
+      "endTime": 683.68,
+      "text": "I say all this because the importance is like these things are in the plan. It's kind of like the plan is not here's what we'd like to happen, the plan is this is what is going to happen. So if you look at the plan, you can see what will happen in five years'time. Like China doesn't have a plan and see if it happens, it has a plan and does everything to make sure it does happen.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 683.84,
+      "endTime": 723.28,
+      "text": "Um what what do you um what do you think about robotics now? Because I I think that robotics was obviously way behind in in terms of like in terms of a LLM in terms of AI, there was LLMs, and obviously robotics are slightly different, but linked because you need AIs need to power, need to um drive robotics, right? They need they need AI in them to be able to move around in the world. Um they've obviously got way, way, way better. They sort of seem to have slipped into the background a bit, as in agreed. They're not like there's no there's not so many news stories. There were in the there was the Chinese half marathon, robot half marathon recently, where they actually ran faster.",
+      "chapterIndex": 2
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 723.52,
+      "endTime": 761.12,
+      "text": "I think it was kind of like 10 minutes faster than the human record, was the fastest one, and there was a few others that ran it faster as well. So they've clearly like come on leaps and bounds, literally, so to speak. Um, and I also saw, interestingly, I know it's not Chinese, but I saw I saw a video that was a live stream of a figure oh one robot that was like sorting boxes for eight hours straight, I think. Um, with the kind of tagline like they don't get tired, they can work 24 hours a day, stuff like that. So, like, is all this stuff just happening in the background? Like uh are they starting to get integrated into things and you just don't hear about it?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 761.28,
+      "endTime": 792.48,
+      "text": "And car clearly cars as well. We're seeing more driverless cars. I went in one yeah the other day, which was an interesting experience. Where was that? It was in like the south of Beijing in Fengtai. Yeah, Fengtai, where they're doing that experiment. Um I saw one on the motorway. So Da Dashing, I think it's not Fengtai, yeah. Yeah, I saw there was there's like some Williams um it's not Williams, but like the car says Williams on the back of it, Shanghai Motor Corp are doing some collaboration. And I saw one on the motorway coming back into Beijing yesterday, which I was quite surprised to see.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 792.72,
+      "endTime": 824.4,
+      "text": "I I think you're right. I think it it's happening in the background if you're a sort of normal member of the public. I think partly because like if you start showing that robots can do people's jobs, that that turns the backlash, right? Whereas with LLMs and stuff, it's easy to argue, ah well, actually, no, you know, don't worry about it. And everyone can use it, and so you're you're seeing the sort of benefits as well as the threats. Whereas a robot, like they look scary, let's be honest, they still haven't been able to make a way to build one that doesn't look, frankly, terrifying. Well, they're some of them intentionally terrifying as well.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 824.64,
+      "endTime": 833.36,
+      "text": "I'll be honest, some of the ones some of the little like tank ones in Ukraine look less terrifier than the humanoid ones because I don't know why we want to keep the thing.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 833.52,
+      "endTime": 864.64,
+      "text": "We were talking about this, haven't we? Like why do you want to make it? It it you try and make it look familiar, it doesn't. It just looks more scary. But yeah, I think it's happening, but you don't want to see I mean you you see the the stuff in India where they had people with I can't remember what they were doing exactly, but the some kind of manual task like watch repair or sorting and the camera on and basically it's like training the movements to train the replacement robots. I mean that's one thing, and people are worried about that. When you actually see a robot doing it, it's kind of like well, that's game over for your industry.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 864.72,
+      "endTime": 897.12,
+      "text": "And I think that's probably what it is. You you you want it to happen. If you're if you're the companies who are putting this in place, you want it to happen where the public are not seeing it. You you want obviously business to see it, but business will see it. So I kind of agree with you. Um it's just not it's not quite I think it's just not it's not on people's minds or something, you don't hear people excited about it, do you? Whereas you do hear people excited about coding, you do hear people excited about what hey, I can discover a cancer drug, blah blah blah. You don't hear someone saying, Oh wow, a robot will be able to do this for me.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 897.2,
+      "endTime": 934.32,
+      "text": "I I just don't think it excites people and therefore it's it's under wraps. But I agree with you, it's advancing massively. And and and coming back to China is like you know the robots will be coming from China, not from the US, because they're able to produce them cheaper, and the models that will be able to run them, like China is creating models that are you know specifically for that purpose that are of real-world use rather than just being incredibly intelligent, they're being created so that they can power things that will have an actual useful economic value because that's ultimately the thing for China is like AI is in this plan to provide economic value.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 935.2,
+      "endTime": 959.2,
+      "text": "If robots are embodied AI though, do you not think that's where the big win is? Like, because we we talked about we've talked about LLMs taking office jobs and they don't seem to be able to do that or be trusted with it yet, yeah. Yet, um, but that but it feels like something that's getting kicked down the road continuously. Um, you know, do we think that actually embodied AI is is where it's at commercially?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 959.52,
+      "endTime": 998.16,
+      "text": "I think you're probably right. I mean, I think more look, we're not gonna talk about it in this episode, but I think more and more like I I still think it's gonna be a huge issue of like lots of jobs are gonna be lost, but I've I've toned down my thinking of it. I think it will be nowhere near as bad as we think for or in the short term, and in the short term I mean like five years or more, because I think there's it's not perfect, and you still need people to verify in the loop, and you want people to make sort of decisions, and and a lot of knowledge work is around decision making, and you know, there is a human element to it, but actually manufacturing stuff like consumers okay, the people who do that job, but actually they don't even care because it's not like they they desperately want to do a man an assembly job, right?",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 998.24,
+      "endTime": 1042.48,
+      "text": "They want a job, yeah. But for most people, it's like you want something produced as cheaply as possible. So I think there is less weirdly, like at the moment it looks threatening, but actually, probably people are less bothered if something is AI produced rather than knowing, well, I called that customer service center and spoke to a robot. People don't like that. True, true, true. People hate that. But we digress. Um just to finish off on this on this bit. So um I said about this 15-5-year plan, AI-related industries targeted 10 trillion UN, which is 1.4 trillion dollars, by 2030. They have a cybersecurity law in China, obviously, but they've amended that um in January of this year to include AI algorithmic development, AI infrastructure, AI ethics.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1042.72,
+      "endTime": 1062.72,
+      "text": "So that is in national law. Um, they have an AI safety governance framework that was adopted in September last year that covers life cycle risks of AI, and they have committed to developing 20 international AI standards to shape global governance. So you I'm just putting that into show how important, like how much of a focus they've got on this stuff.",
+      "chapterIndex": 3
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1062.96,
+      "endTime": 1079.2,
+      "text": "Where does all this cash come from and does it ever materialise? I remember like about five years ago, six years ago, the idea of a trillion was like this this sort of far-off notion. People just throw the number around with the thing. And now every deal is like one point something trillion. Yeah. I mean I think the baseline now.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1079.44,
+      "endTime": 1116.96,
+      "text": "I want I want to be careful here. Like, look, uh this episode is not a we're we're not like you know, CCP shrills that are just here to talk about how great China is. I'm just I'm just I'm just reading, I'm just giving you the facts of what is happening at the moment and what China has said it's gonna do. And like I said before, like generally when China if China says 5% GDP, people go, oh well it's nonsense because they say 5% and they get 5%. No, the reason that happens is because China says 5% GDP is a target, and then if halfway through the year they're on for 4.5%, they adjust things and just make things they just go and build stuff that makes it 5%.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1117.36,
+      "endTime": 1140.24,
+      "text": "So it's literally, it's not like a guess, it is a target that they then must reach. So that's why I'm saying if they say they're gonna do this, they'll just do whatever it takes to do it. Other things will fall down, but they will achieve these almost certainly. So again, like I'm not saying they'll succeed because I'm saying you know, China is so great. I'm just saying factually, that's what they do. They put a target and then everything is adjusted, the levers to get to that level.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1140.56,
+      "endTime": 1170.96,
+      "text": "I don't think anyone thinks that, do they? I think I think well hopefully not, but it would but it's I think it's interesting for for most of our listeners aren't aren't in China, and I think you probably it's a probably a bit of a black box to most people. You see what's in the news, you see that you know, Trump and Shi had their visit this week and talked about some high-level stuff, but people don't have much of a clue, and I you know, I think it's fascinating, and I think that and also you're gonna see more of this. You I mean you are starting to see in the West now, you know, Chinese BYD cars probably used to be.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1171.28,
+      "endTime": 1211.6,
+      "text": "Xiaomi opening shops in the UK, Jin Dong has opened arrival to Amazon. I mean, China is establishing itself, it's establishing itself, so it's it it's interesting, yeah. Right, two more bits before we sort of crack on with models. So um the the the last two things I wanted to talk about. So one is like adoption of Chinese AI, because it again, I think for most people probably listening, we know where most of Alices are, they're in the UK, the US, the few people in sort of China, Hong Kong, Australia, but most people in the sort of you know Western English speaking world, and so you see the main models as like you know chat GPT, you see the main models as as an anthropic, Gemini, you know, maybe open source, you see things like Lama.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1212,
+      "endTime": 1248.96,
+      "text": "I just want to talk about other parts of the world. So Southeast Asia, um, really interesting here. So Southeast Asia basically has like hedged their bets, they have US infrastructure, so they build UF AI US AI infrastructure, but then they use Chinese open source models, and I think that is like quite possibly where quite a lot of the world will will head actually in that direction. Singapore, they have um OCBC, which is a big bank there, they run their internal tools on DeepSeq and QN, which we'll talk about later. Indonesia, so Indosat, um, is partnered with an AI firm that builds on DeepSeq.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1249.12,
+      "endTime": 1292.56,
+      "text": "You have Malaysia, they launched a sovereign AI ecosystem which uses Huawei hardware, um, and then Thailand. Thailand is at the moment their sort of main investment is Microsoft and ByteDance. So basically ByteDance that runs TikTok and then Microsoft. So you can see like a lot of hedging on like we don't want to take one side on it. Um, one of the most interesting facts, so Andres and Horowitz, one of the partners from Andres and Horowitz, which is a I don't know if people know, is a big kind of what are they? Who's that? Hedge fund? Uh Andreessen Horowitz. Oh, yeah, yeah. I know I know who they are, I don't know what their actual business is, but basically, like they they certainly know a lot about AI and invest a lot in AI.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1292.72,
+      "endTime": 1314.32,
+      "text": "What exactly they I I'm not exactly sure what the I thought they were a hedge fund, yeah. Yeah, a hedge fund, okay. So anyway, they have estimated that 80% of US startups use Chinese base models for their development. So, yeah, that's not to say they'll use them forever, but this is what we'll go into when we talk about the models is like what are the advantages and basically it's they are much, much, much cheaper to use.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1315.04,
+      "endTime": 1317.2,
+      "text": "No, they're venture capital. Yeah, venture capital.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1317.6,
+      "endTime": 1318.4,
+      "text": "Same same difference.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1318.64,
+      "endTime": 1319.36,
+      "text": "Potato potato.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1320,
+      "endTime": 1356.64,
+      "text": "And finally, just like globally, so open router, which um open router is so something that I mean me and Jimmy both use it. If you um want access to different models, you can use open router instead of having to get a a connection to different AI models, which is an API key, you can use Open Root and then you can access different models. In February 2026, the consumption of tokens, Chinese models surpassed US models, and I can tell you as of now, like it's not even close. Like the number one, two models are always Chinese models. Um that's because they're cheaper. Open models, yeah. Yeah, well, they're just number one, two by token consumption.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1356.8,
+      "endTime": 1370.24,
+      "text": "Oh, token consumption. Yeah, by use, basically. Yeah. So okay, so why what is their advantage? So I mean basically, like the number one thing, well, there's two things, I guess. One open source, two, they're much, much cheaper.",
+      "chapterIndex": 4
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1370.8,
+      "endTime": 1403.84,
+      "text": "It's yeah, so ironically, I think we talked about this before, but they've been China's normally criticized for copying everything. I think that that's starting to that has started to change in the last five years. They're starting to innovate now in a lot of areas. It's kind of fair with AI, with large language models, though, isn't it? Because they have basically copied. Yeah, I think they've come second. I think they've come I think historically they've come second to a lot of technologies. But clearly now they're innovating with things like cars and a lot of technology, phones, things like that.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1404.08,
+      "endTime": 1446.8,
+      "text": "Um I think the same thing's true with AI, right? So they yes, they came second in the they started second in in the actual race, but they've clearly focused on different areas, and one of the main areas they seem to have focused on, probab probably because of the chip restrictions, is like it feels like the Chinese um the Chinese innovation is in making them as efficient and cheap as possible, so you're getting the most for it your tokens, whereas it feels like the Western models are kind of like, well, we've got the we've got the H200, H100 chips, we've got the best chips, we're just gonna brute force it a little bit more, and they haven't had that focus on efficiency.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1447.12,
+      "endTime": 1485.36,
+      "text": "Yeah, so I so I think that I don't think that was intentional, I think that is a direct result of the US's and and again go back, listen to the Grey Shao episode that we did last December, sorry, December 2024, I think it was, or January 2025. Um, but we we don't know because we'll never be able to go back. But I think when China knew that it wasn't going to get access to the top-level chips, it had to find a way, it couldn't catch up by you know just trying to do it slightly better, it had to find a completely different way to do it. And so what did it do at that point? It decided that it would find efficiencies and it found massive efficiencies, and then it's probably found its niche.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1485.44,
+      "endTime": 1531.6,
+      "text": "I I think it's probably not intentional to begin with, but then at some point they've gone, yes, this is our our our sort of way in. I mean, you know, some estimates, so so one I had here was 15 to 30 percent cheaper than international peers for comparable workloads. Like, what does that mean exactly? I'm not sure because they're that you know obviously if a model is 30% cheaper, it's not exactly as good. I think maybe maybe the best way to look at this is if we compare let's say clawed opus to deep seek version four. What's the difference in like it's really difficult to say it's obviously different benchmarks, but how much better is Opus 4.6?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1532.08,
+      "endTime": 1541.2,
+      "text": "Slightly better, 10% better, a quarter better? Like, I know it's very difficult, but that just for kind of listener who is like, I don't care about the detail, how much better?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1542.08,
+      "endTime": 1589.36,
+      "text": "I can't answer that question. Because it comes because it depends what you're doing, it comes down to the domain. I think I've mentioned this before. So, like what I find so I I I can speak from experience because I use to be honest, if I just want to have a chat with something, I use Claude or Gemini, it doesn't really matter. And this is what I've said before, right? Like if you if you're planning out like you know, a business plan for a really complex business, then use Opus, it's gonna be the best model and it's gonna it's gonna get it right first time most often. That particular use case, I don't think Deep Seek is as good at what I find that so speaking from experience doing develop like doing coding and developer work, I find so for a bit of context, like the models have been getting squeezed pretty hard.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1589.44,
+      "endTime": 1623.76,
+      "text": "So, Claude, for example, the token allowances were going down and down and down. It was getting hard like harder and harder to get any usage out of it for doing things like development work. Um so I was exploring, well, can I use Deep Seek? And the answer I came to was use something like Opus to create a plan and create a really detailed plan that that allows you to keep Deep Seek on track, and then Deep Seek can write code almost just as well. But it needs that needs to be taught to do the instructions, it needs really clear instructions, it needs really clear instructions, whereas Opus is like, yeah, I'll just go and do that for you.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1623.92,
+      "endTime": 1643.04,
+      "text": "And so it's sort of in a way it's next level in terms of how smart it is, but in terms of having a in terms of like if you give Deep Seek a really um what's the word, a really well formed tasking, if you if you really well define what you want it to do, it can write code probably as well as Opus can.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1643.36,
+      "endTime": 1704.8,
+      "text": "I I guess okay, uh maybe a better way then to explain in terms of being cheap is if your company, right, your company wants to run a chatbot interface, right? And it needs to be pretty good, but your chatbot interface is just going to be basically answering you know customer service queries. There is no possible reason why you would need to use Opus 4.6 for that or any of those frontier models, for what you would need to use it for, you could get a Chinese model probably for you know a quarter to 10% of the cost of a frontier uh US model. That's not to say there aren't cheaper US models, but uh in terms of if if you need a good model to do something like that, or in the background of your your business, you know, your e-commerce business or whatever it is, like the Chinese model is going to be much, much cheaper and definitely good enough for the task.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1704.88,
+      "endTime": 1723.68,
+      "text": "That that is where like most of the the sort of economic use case for using a Chinese model, I would say. It's not for doing like very, very, very high-end research tasks, you know, if you are trying to fold proteins. And it's in running your e-commerce business or sending your your taxi to the right place.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1723.92,
+      "endTime": 1754.4,
+      "text": "And just to clarify, because when you say that, people won't you're saying like use a Chinese model for your e-commerce business. The the the a lot of these models are open source. So for example, you're not gonna be necessarily you probably don't want to do this, and you wouldn't. You're not going to be sending your data to China, it's gonna be running on something like open one of open router's models, which are run on data centers in the West because they're open source, and so they've been open sourced. And in a lot of cases, they've been tweaked as well. Um, but there are yeah, there's loads of Chinese models.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1754.48,
+      "endTime": 1772.8,
+      "text": "I mean, to be honest, if you're doing if you've got that kind of use case, in my opinion, you should be focusing more of your time on basically focus on getting a really good set of prompts and descriptions of things that you want the AI to do, giving it all the context, and then basically see which is the cheapest model you can use and just experiment with it.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1773.2,
+      "endTime": 1806.4,
+      "text": "It's probably worth us saying, so there's one thing that Jimmy worked out the other day. So if if you have a subscription, I know a lot of people, I think we looked at this, it was about 5% of people who use AI models ab actually pay for a subscription, which I think we were quite well, not shocked by but surprised, I guess. Um so if you don't pay for a subscription, then you think, well, AI doesn't cost me money anyway. Well, maybe not now, but it's like the day the time's coming, it's it's changing. Like AI models are not free anymore because people don't need they were free to begin with because they wanted your business and also they wanted your data.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1806.48,
+      "endTime": 1853.2,
+      "text": "Well, now you're not providing with useful data, and there is sort of a crunch on the compute, and there's better uses. So I think the day is coming where you even even the free accounts on things like Claude, I don't know if they'll be around for much longer, and certainly you won't be accessing top models. Um, but we worked out, didn't we, that the £20 or $20 a month Claude subscription, if you use it to close to its max, you're using about £200 worth of sort of credit for them. So it's costing them £180 for you. You're costing them to money in a lot of cases, yeah, apparently. Yeah. So so I I think that's important to sort of make the point that when when we talk about the cost of AI, for people who are just like, well, it's just free, it isn't free.",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1853.36,
+      "endTime": 1897.12,
+      "text": "They're just subsidizing it because there's been a purpose for it. And so if you're running a business where you're you know making API calls, which is basically accessing the model every second or every minute or every hour, it's really, really expensive. I mean, I'll just give an example. I built a model using something called Hermes, which is sort of similar to OpenClaw that we've talked about in these episodes, and I set it up first of all using not a really expensive, but like a reasonably expensive model, and I got it to do one task and it cost one dollar. Yeah, which didn't sound a lot, but then I changed the model and I put it on Mini Max, which is uh Chinese open source model, and then it cost me I think three cents, right?",
+      "chapterIndex": 5
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1897.2,
+      "endTime": 1933.2,
+      "text": "If I ran that thing that's one dollar and I set something up and ran that a hundred times in a week, it's a hundred dollars. Instead, I could run it for less than one dollar. Like, that's what we mean by this, and so we're not saying to people that like you're soon gonna have to necessarily use a Chinese model to ask a question, but when we're talking about the cost of it, we're talking about you know the use of AI, even if you're using it and not paying for it, it isn't actually free, it's just you're not paying for it. The company is paying for it, like there is there is a bigger cost than you think to AI at the moment, and that crunch is happening.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1933.28,
+      "endTime": 1951.6,
+      "text": "And so, actually, like you probably do need to think about what models, because at some point in the future, whether it's through work or in your personal life, I think you are gonna be facing a decision where you're having to think about using models for some use, like whether they say whether it's a personal case or a business case, you're probably gonna be thinking about that.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 1951.92,
+      "endTime": 1975.76,
+      "text": "They're trying to do it already, aren't they? So, like, for example, Copilot, the default is it goes on auto. I mean, copilots may be not the best example, but the default for copilot is it goes on auto and it tries to figure out is your question a really hard question that needs the latest frontier model, or is it a you know, I'm looking up the price of some price of something on Google, or I'm looking up a fact on Wikipedia, which is what a lot of people use them for.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 1975.92,
+      "endTime": 2008.8,
+      "text": "Um, you should say as well, Chinese models can do this, and in English, the censorship in English, like if you ask a particularly sensitive question about, you know, Tiananmen Square, or you ask a politically sensitive question around Tibet, yeah, the model might might not answer that question. To be honest, in English, it might still answer it. But these models, you know, in English, they're not they're not sort of censored in the way that people think. And for the majority of things, like if you want to search for the price of something on Google or in the US, it will search for that. Like it will give you information.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2008.96,
+      "endTime": 2024.8,
+      "text": "It's not it's not censored in the way that who maybe think it is, it's censored from certain political topics. But to be honest, like how much how how much are people you know in the UK asking an AI things that are politically sensitive in China? Probably not that often.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2025.12,
+      "endTime": 2040.4,
+      "text": "Uh or most people. Well, yeah, it doesn't matter if the models are run. I mean, unless you use the Deep Seek app, if you download the Deep Seek app from the Play Store, yeah, um, then well then I guess you are you are that would be most that's that's yeah, that's held in China.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2040.48,
+      "endTime": 2042.96,
+      "text": "Yeah, that's well that or any of the other models we're gonna talk about.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2043.28,
+      "endTime": 2048.96,
+      "text": "That is most people's use case, yeah, yeah, yeah. Because I forget that I'm always using the open router and stuff, but that's nonsense.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2049.28,
+      "endTime": 2066.16,
+      "text": "Um okay, let just before before we move on to it, just the last thing, maybe you can talk a little bit, because you've talked about this a lot in the past, but open source models. So they dominate open source, so QN, which is Alibaba's AI, has a hundred thousand different derivative models and derivative models as well.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2066.4,
+      "endTime": 2067.84,
+      "text": "A hundred thousand? I thought you said a thousand.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2068.08,
+      "endTime": 2080.16,
+      "text": "No, a hundred thousand derivative models on Hugging Face, apparently. People are busy. Yeah. So derivative can you just explain what derivative models are? Slightly tweaked off versions, basically.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2080.4,
+      "endTime": 2116.48,
+      "text": "Yeah, so they can be well, yeah. So so well that's the so that's the whole point of open source, though, really, isn't it? So it's not it's not a knockoff, right? So open source means we are here's the here's the keys, here's the model, here's all the code, do what you want with it, literally. The licenses in yeah, without going into like detail, that's basically what they are. And there's differences and nuances between open weights and open source, but for the argument's sake, right now, we're talking open source models. What that means is that if you've got some GPUs and you can you can spin up these models, you can you can actually fine-tune them.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2116.72,
+      "endTime": 2153.6,
+      "text": "So, as an example with what you've just talked about, so some of the Chinese models are censored from certain topics because they're because they're made in China. You can effectively uh unlock that censorship and then publish a version of Hugging Face that's uncensored. You can also, if you want, put put publish a version of QN that's unhinged, if you want, on Hugging Face. Or more typically, what people will will fine-tune them to do is is actually um specific tasks. Specific tasks, like specific types of coding. Maybe you want to tune one to be really good at testing code, maybe you want to tune one to be really good at something else.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2153.84,
+      "endTime": 2194.88,
+      "text": "The other thing that is very common is is um it's not distillation, is it? It's quantization, um, which is probably where some of the hundred thousand models come. Whenever these models are released, you get quantized versions of them because they're open source and because most people don't have you know, like literally data centers in their backyard. Um, quantization allows basically it you f you sacrifice a little bit of accuracy, but make the model make the model much, much, much smaller. Um, and that means that uh, you know, what was a 70 billion parameter model that you can only run with you know uh a supercomputer, you can actually run it on a reasonably powerful home desktop.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2195.12,
+      "endTime": 2202.72,
+      "text": "Um so it makes it much more accessible in that sense. But you do they do they do for what of a better word, lose a bit of intelligence when you do that with them.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2202.96,
+      "endTime": 2241.04,
+      "text": "Yeah, but this is how you can run, like you say, if you've got a Mac Studio or one of the new Mac MacBook Pros with the M5 chip in, for example, you can run a pretty big model like this that's been quantized to like actually now a like a pretty decent model on your own computer. Um, which you know we're not gonna go into what the advantages that would be on this episode, but you can think if you, for example, have a lot of medical data that you don't want to share, that would be a very good use case for having your own model that is not connected to the internet, um, and that you know you you don't have to worry about what you upload.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2241.36,
+      "endTime": 2261.28,
+      "text": "Anyway, um so yeah, that that's that's the other advantage with or not necessarily advantage, but just difference in it in Chinese models is that I think without exception in the ones that we know about, there may be models I'm sure that are not released, but all the ones released are there any non-open source Chinese models?",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2261.76,
+      "endTime": 2267.84,
+      "text": "Uh not that we're aware of, but probably yes. Yeah, yeah, another thing that we know of, yeah.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2268.32,
+      "endTime": 2282.56,
+      "text": "And and and and just find using just say Hugging Face, because we talked about that. Hugging face is um is it's a platform. How would you describe Hugging Face? It's like open router that anyone can stick their stuff on.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2283.04,
+      "endTime": 2306.24,
+      "text": "Yeah, so again, it it's a it's a platform for um open source models, effectively. So people but you can also you can you can like spin up notebooks and things like that on there. Some people are actually running models that they and where you can use Hugging Face as the interface. I think if you could call it anything, it's uh it's a kind of social site for for open source models.",
+      "chapterIndex": 6
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2311.84,
+      "endTime": 2351.84,
+      "text": "Okay, so part two. Um you could have part two fast forwarded past part one. Part two is where we just talk about different Chinese models um and why you may or may not want to use them. I just want to say at the start of this sort of second and final section, um I I remember my dad showing me a picture from his computer magazine talking about DeepSeek and telling people not to use it because um your data wouldn't be safe because it would be going to the Communist Party. And I think like that is true. Um, like it's literally true. The the data probably they do have access to it, but I think it's worth just saying at the beginning, because we're going to talk about Chinese models now, and people will be like, well, why should I use them?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2352,
+      "endTime": 2386.4,
+      "text": "Well, you don't need to use them, to be honest. The reason you might want to use them is because, like we've said, the frontier models that you currently use are either becoming more expensive, you're having your access to them, the amount of of conversation you can have for free is being kind of choked down, or very soon they may have adverts or not be free at all. Whereas I think with Chinese models, because they're so much cheaper, you probably will be able to get that access. And actually, frankly, like some of them are are really good for specific uses. Um, I would say, like, am I worried about uploading my data to these models?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2386.64,
+      "endTime": 2431.28,
+      "text": "Yes. Um, so what do I do about that? I don't use them for things that I don't want to upload, but I take the same approach to US models and Chinese models. Um I think would I upload my medical data to a Chinese model? No. Do I upload it to a US model? Yes, sometimes, and I'm slightly concerned when I do, but I do do that. Um, but like the things that most people are probably using AI for is the information that you like are either uploading or the question that you're asking or the thing you're asking it to do. Are you concerned about that? If you are, then I would say yeah, don't use it. But if you're not, I would say most of the stuff you probably use, you're probably fine to use a Chinese model.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2431.84,
+      "endTime": 2456.24,
+      "text": "Uh yeah. Well, I mean if you're asking it just to, you know, find stuff or to check stuff for you, or for a lot of people use it like Google search, right now, for for a lot of that stuff, which whether you should be using it for Google search or not, yeah, like if you use a Chinese model. But then is it gonna be as is the are the answers gonna be as good if you use Deep Seek to do something that you would do on Google Gemini?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2457.52,
+      "endTime": 2489.84,
+      "text": "Maybe the Gemini, maybe yeah. Yeah, and for Claude, no. I think I mean no for me, no models come close to Claude, but I use Kimmy, which we'll talk about in a minute, and I used Kimmy, I actually I used Kimmy to code something where Sonic found a problem and Kimmy solved the problem, um, which I found quite interesting. Anyway, let's talk about them. Deep Seek, probably the one that people have most heard about. I think there's one thing I want to say about Deep Seek that when we did the sort of Deep Seek Shakes the Whole World episode last year, there was this where is this tiny little company come from?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2490,
+      "endTime": 2507.76,
+      "text": "Well, actually, they are a frontier research lab basically owned and funded by a massive quantitative hedge fund. Um, so they have no public shareholders, no investor pressure, and loads and loads of money. So they're not such an underdog, and I'm pretty sure they're essentially almost like a national Chinese sovereign AI firm now.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2508,
+      "endTime": 2514.88,
+      "text": "Well, yeah, they weren't to begin with, but they I think they were. We don't know yet, but yeah.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2515.68,
+      "endTime": 2522.08,
+      "text": "But they they are the most famous model. They have version four that just came out.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2522.88,
+      "endTime": 2569.76,
+      "text": "Is it good? Version four, yeah, it's cool, it's good, it's really good. Like it's up there with it's up there with some of the best models. It's not it's an open source model, it's not it's not as good as um it's not as good as the latest tier models in the US. That's GPT 5.5, but GPT 4.6, but to put it in context, it's as good as it's probably in between the previous generation of models and the frontier models in the West. And it's really efficient, it costs um the token cost is quite low. Uh, you know, I I I'm not I'm not full-time vibe coding and and and doing dev stuff, but if I was I'd seriously be I'd probably be looking at bringing it in a workflow.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2570.24,
+      "endTime": 2588.48,
+      "text": "Should someone listening to this episode who uses AI for writing letters to their local MP for recipes for asking questions and maybe making a website for their holidays, should they use Deep Seek? Is there any reason for them to?",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2588.88,
+      "endTime": 2633.2,
+      "text": "I don't think so yet, because I think although we've talked about the models clamping down on usage, you could probably do most of that casually, like casual type stuff. With I I I I think what I would probably do first is you know, if you're not it's a bit annoying, but if you if you haven't already got Gemini and um Claude and what's uh Groc and OpenAI, forgotten what open AI is called, chat GPT. They've slipped, their crown has slipped. Yeah. Um but yeah, like if uh you know perplexity, things like that, you know, uh I I have them all bunged in a folder on my phone, and if I if I I'll be like, right, well I pay for my Claude subscription, so I save that for the good stuff quite often.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2633.52,
+      "endTime": 2655.76,
+      "text": "Exactly the same. And then you know, and then I actually go and use Gemini for stuff where I just want to ask a question. So I feel like that for me I I d like to use different AIs for different things. I think if you're in the West actually, Google has really good integration with Google Maps. So if you want to get directions to somewhere or find a shop, it's it's quite good for stuff like that.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2656,
+      "endTime": 2703.76,
+      "text": "Um peop people ask me in China quite a lot. They they say th these are these are sort of foreigners in China who say oh, you know, uh should I use Deep Seek because it's better? And I'm like, versus what? And they're using Chat GPT and I'm like, well, but unless you've run out of subscription, why why why would you use it unless you want to have access to Chinese data sources? And and and if you do, Deep Seek's not actually then the best model to use because it it's not part of and we'll talk about these in a few minutes, but it's it's not part of a kind of uh like a company that has uh social media or you know other channels, which the advantage is using that model you have access to all the data in those chats.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2704.16,
+      "endTime": 2727.28,
+      "text": "You know, so for example, the 10 cent own model has access to all the data in WeChat. You know, that is an advantage because it can it can scrape all that information if you're if you're trying to do research. Well, Deep Seek can't do it. So I I would say for most people, actually, Deep Seek's one of the ones that like it's really good if you're doing programming and coding, it's a really good model. That I would say to most people is like, well, actually, I I don't think there's any reason you necessarily need to use Deep Seek.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2729.04,
+      "endTime": 2770.96,
+      "text": "No, no, no, no, I don't think so. If you're this is the difficult thing with this, right? I think I think people did use Deep Seek for a while in the West when Deep Seek V3 came out. I know it became thinking, first thinking model. But the new the like Deep Seek V3 then was genuinely interesting because it was the first time it well, it was the first thinking model and you could see its thoughts, and so people just almost in at that point like people almost just liked watching its thoughts. It began it went viral and people enjoyed using it, but that died away pretty quickly. Deepseek v4 was not a it wasn't the same kind of there was not a revolutionary feature in Deep Seat V4 in my opinion.",
+      "chapterIndex": 7
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2771.28,
+      "endTime": 2783.6,
+      "text": "Um and so it just kind of but the only reason Deep Seat V3 became popular in the West was because it was in the news and because it made such a splash. But even then I think loads of people downloaded it. I doubt they have it on their phone anymore.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2783.76,
+      "endTime": 2819.44,
+      "text": "Yeah. Like me download it, probably use it ten times ever. Yeah. QN. So QN is Alibar or Quen is Alibarba's model. That's actually the volume leader, apparently. So it's a hundred million active users. Um it has the largest uh open way ecosystem globally. It's the only Chinese model that has a one million uh context window, so that's QN 3.6 plus. That is the the sort of their frontier model. So that means you can put huge documents in. So context window is like how much stuff it can uh understand. So you can put like huge, I mean you could. That is a million. How big a how big a book could you put in?",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2819.92,
+      "endTime": 2828.8,
+      "text": "It's probably like an hour-long video. In terms of books, it would be like a library rather than books, I think. Not a library, but like an Encyclopedia Britannica.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2834,
+      "endTime": 2835.92,
+      "text": "And then still quite a lot of space left over.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2836.16,
+      "endTime": 2895.68,
+      "text": "It's its advantage here is like e-commerce integration. So obviously Alibaba has you know shopping, food, ordering Tao Bau, which is the m massive sort of online platform here, so it's directly in that app. So that's the reason people would use it. But apparently a lot of US companies adopt it. So Airbnb uses QN for customer service. Um because it's so much cheaper. Um okay, Dobal. Dobal, I doubt anyone has heard of. Um, that is ByteDance. So ByteDance is the owner of TikTok and Doyun, which is the Chinese TikTok. This is really interesting because I I I made uh uh an app recently for my so my I is like the the um nanny that helps look after I my kid, well my my son, not my kids because my my daughter's not at home, but looks after my son, and in the afternoon she's sort of like she cooks most evenings for us, and I was like, I'll make this app that we can like give her ingredients and it'll give her recipes, and she looked a bit confused.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2895.76,
+      "endTime": 2929.84,
+      "text": "I was like, Oh, she probably hasn't used AI before. Then a day later she came in, she's like, Oh, I've dobaued this, and I was like, Oh, and found out she'd used it. And since then I've noticed, like, I went to visit some family and some people in the family, older members of the family, they were like, Oh, I did this on Dobao. So it seems like Dobal is the one because it's integrated with Doying, which is like I said, is Chinese TikTok, and because so many people are using that and it's integrated with it. This seems to be the one that that so far I can tell, that kind of people who are not using AI are using Dobao.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2930.16,
+      "endTime": 2967.76,
+      "text": "No, they don't even know it is and are using Dobao in the terms of like Google it, they're saying I've do bowed it. They take a picture of something like what is it? I'll do bow. Yeah, that was sorry, that's what it was. There was a flower, and I was like, What's this flower? And they were like, I'll dobao it, and took a picture and used Dobal. So, like this might be the one. I mean, it it it's used within uh Doein as well for for content creation. I think you can use it in TikTok as well. Um, I stay away from TikTok, so I'm not sure. Um 256k context window, apparently five times cheaper than Deep Seek, 200 times cheaper than OpenAI's 01 was what they claimed when when 01 came out.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 2967.84,
+      "endTime": 2987.04,
+      "text": "Obviously, that's a while ago now. Um it's good for content creators, so it has, I think, a lot of vision speech stuff like that. It's it's it's not a model for carrying out deep research. I think it is, you know, they've created one around what their that's their business model, right? Is is a short video, so that's what it works with.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 2987.36,
+      "endTime": 3022.4,
+      "text": "Yeah, interesting. I mean I I do think there's something there, right? Like if these I th I you know, I think there's one side which is, you know, uh do users need to cho choose which AI they're using? Well, if if effectively if you get cut off, then yes, you're probably gonna have to be like, right, I'll use Haiku, I'll use Google Flash instead of Gemini Pro or whatever. Um and there's a bit of that goes on now, I'm sure people are doing that already. I actually think the AI companies are just gonna have to go, we need to make more efficient, like in the West, we need to make more efficient models and do things like this where it's like, well, this is a specific use case.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3022.48,
+      "endTime": 3026.32,
+      "text": "You don't need like a you don't need a PhD level because that's the same thing.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3026.64,
+      "endTime": 3034.8,
+      "text": "Insta and Facebook do this, don't they, with meta models. I don't you like I don't use Insta and Facebook, so I I'm not sure, but I'm pretty sure the integration is very similar to this.",
+      "chapterIndex": 8
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3035.04,
+      "endTime": 3061.04,
+      "text": "Right, exactly. And that's where I don't know, like you're on you're on your trip.com app and it's got an AI assistant, and you don't that they're the real applications, right? And you don't I don't know what model they're using, but I'm pretty sure they're not using a you know Claude Opus 4.7 PhD level math Olympiad gold winner, you know, to do to like answer, you know, what can I do on holiday in Dubai? Probably not a lot right now, but example.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3061.28,
+      "endTime": 3103.2,
+      "text": "So it's I was this is a kind of segue, move on to the next one. So you in bow. Uinbow's ten cent. Ten cent are the owners of WeChat. So in a WeChat if there's an article now at the end of it, in the comment section, you can just basically ask Wi Uinbow in the comment section to provide a summary, and you can get Uimbau to do various tasks for you within WeChat. So again, like they're integrated, so they're using the model to integrate with the ecosystem. So I don't think they're designing this model necessarily with the idea that people are going to like the use case is not necessarily um as as as broad as some of the models.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3103.28,
+      "endTime": 3140.16,
+      "text": "Like they're designing models to fit in with their ecosystem and their existing business model. But again, like because they're making them then cheap and they're making them strong on particular tasks, there are then going to be users who are creating their own stuff who's like, well, that's the task I want to use it for. So then that model also works for me. So it's a kind of differentiation that I think you're seeing in China that is that is different from in the West. You're seeing or or from the frontier models in the West, sorry, that you're seeing models that are very, very specifically being designed to excel at tasks that fit in with the ecosystem that they or that their like parent company basically owns.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3140.64,
+      "endTime": 3140.96,
+      "text": "Yeah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3142.08,
+      "endTime": 3166.4,
+      "text": "Um cloud cloud Tencent Cloud and Gaming Infrastructure, that's the other one. It it works with gaming infrastructure and um yeah, I mean people in the West probably don't know, but Tencent does do a lot of stuff with the gaming that you you see like mobile phone gaming in the West. I think a lot of that Tencent are involved in it. So you may see their AI is working in that gaming infrastructure.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3166.88,
+      "endTime": 3167.04,
+      "text": "Yeah.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3168.08,
+      "endTime": 3187.76,
+      "text": "Minimax. So we talked about this, didn't we, on an episode recently. So Minimax 2.7 was was it the first model that was trained on like it trained partially trained itself? Oh, supposedly, yeah, that was it. I don't know if that's true, because it doesn't I mean my research didn't actually pull that out, so I wonder if that has now been disproven.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3188.08,
+      "endTime": 3199.76,
+      "text": "I'm not sure. This was this was it was in a paper, so I think I think the uh I don't know, the it definitely said in a paper it partially tri trained itself. Yes. It was involved in its own training effectively.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3200.16,
+      "endTime": 3235.52,
+      "text": "Min Minimax is one of the models that when we talked about this open router is always in the top ten, um Minimax 2.5 and 2.7. Very, very cheap for what they are, like very good for use in things like chatbots and for businesses to integrate when they have relatively simple AI tasks. I think that this is the kind of model that like if you are not using AI to build products and you're not using in business, but you don't you know you don't do vibe coding. I don't I don't think you probably are going to be accessing Minimax. I don't even know if it has an app version that you can access actually.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3236.48,
+      "endTime": 3255.2,
+      "text": "No, I don't think Minimax does. Minimax is like uh yeah, I mean you can access it in things like Windsurf and and whatnot, but but um yeah, I think I think that's one that's that's one that just lives in that kind of ecosystem. It's very it's got it's very specifically aimed at writing code. So there'll be lots of coders that are using it all the time.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3256.32,
+      "endTime": 3292.48,
+      "text": "Kimmy, now this is the one that I kind of maybe I should have put this first. This is the one where I think there is not necessarily a specific use case, but this is one where I think actually like I would say to people like this is a model you might want to consider using. And if you get to that point that you know you're finding I'm not getting enough use out of or I don't get enough credits out of free models, Kimmy might be worth looking at. It's the open weight coding king. It was it beat GPT 5.4 and then maybe even Opus 4.6, but not 5.5 and 5.7. So it's performed really, really well. Big context window, 256k.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3292.56,
+      "endTime": 3342.16,
+      "text": "It's obviously not as big as um the sort of massive million context window, but uh, it has this Kimmy code thing that ships with it. So that's like a a coding agent like Claude Code. It can do this thing that it calls agent swarms, that I really think they should come up with a new name for in English, um, which coordinates like loads of sub agents to carry out tasks. You need to get the paid subscription for that. You can try it actually, um, but I've tried to try it for the last month and it's always been too busy. Um but you can get a subscription for 200 RB, so that'd be about it's about 20 pounds, it's about the same amount, but you actually get as well as the kind of access that you would get for Claude and OpenAI Frontier models, you actually get some you get 40 gigabytes of space on a albeit Chinese server where you can do coding.",
+      "chapterIndex": 9
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3342.32,
+      "endTime": 3362.8,
+      "text": "It allows you to do these agent swarms for research. Like it's actually like if you're doing that kind of research work, particularly if you wanted to access China um and have access to Chinese stuff as well, like it's really worth looking at because it's comparable to other models, like it is much much better value. What you get in that package is is pretty phenomenal, but that is a paid package.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3363.68,
+      "endTime": 3364.48,
+      "text": "Maybe I'll check it out.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3364.8,
+      "endTime": 3405.12,
+      "text": "Yeah, and if you're using Windsurf as of today, which by the time this goes out, I'm sure this won't be the case, but Kimi 2.6 their frontier model is actually free to use in Windsurf at the moment. So I've been trying to build anything I can in the last few days while it's free. Wow, I'll check that out. Yeah, it's it's it's good. I mean, I I've switched, I've said to people before, like I used to use QN's model um as my kind of day-to-day model so that I don't use my paid subscriptions. I've switched to Kimmy for that. So day-to-day um in China I just use this for like questions. You know, if I want to do a bit of small research, if I want to just like like like you would just ask questions or ask for recipes, etc.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3405.28,
+      "endTime": 3445.12,
+      "text": "etc. I use Kimmy now. I think it's the best Chinese model at the moment that might change. Um the other one just to mention is uh Drupal AI. Um so GLM is their models, so GLM 5.1 is their frontier model. That was the it briefly held the title of the first open weight model to beat Claude Opus 4.6 and then Kimi has Kimi 2.6 has gone ahead of it. But again, another example of like a model you've probably never heard of, which I think I think this is like it's one of the models where it's focused on Chinese language, so actually it's better in Chinese language, whereas a lot of the other models I think they actually still they still work predominantly in English.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3446.16,
+      "endTime": 3483.92,
+      "text": "Yeah. What strikes me from all of that is is just like it's not really the individual models, but just uh how clearly like it's feels like ironically it's been a bit more democratized. Um as in like there's there's tons and tons of companies working on their own models to do, you know, whether it's to do something specific or coding, a lot of them are coding related, but you've got their own niches, but they've all got the whereas I don't see that going on as much in like clearly in the West, it's basically you you I I've I haven't heard anything about the French model for ages. What was it called?",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3484.16,
+      "endTime": 3520.8,
+      "text": "Mistral, yeah. I think that's still going, but basically you've got you know, you've got the big four, I think it is, right? So it's like uh it's like open AI, Google, anthropic, and um sort of sort of meta and meta. Oh and meta actually meta are doing the weird open source thing that's a bit like what China are doing, but larger a bit of a flop and a bit of crap, really. Um so yeah, it's just striking that it feels like there's a bit of an environment of sort of competition amongst these Chinese open source models that for whatever reason we're not getting that in the West.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3521.12,
+      "endTime": 3556.24,
+      "text": "I'm not I'm not sure I quite agree. I think actually they have differentiated, but I think the reason it seems the same is the pursuit of those four big models is still AGI, right? It's like we're just trying to build the best model because I think Claude, you know, they've gone around the kind of coding enterprise route, Gemini is about multimodality and about the different sort of functionality. Uh Grok, it was supposed to be about sort of like access to social media and information. I'm not I'm not really sure now. Chat GPT, OpenAI, I don't really know what the fuck they're doing. But um, yeah, um I but I don't I don't I like they don't really seem to have a or they didn't really seem to have a clear plan.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3556.32,
+      "endTime": 3587.76,
+      "text": "Now it's like shit, we'll just do whatever anthropic did because they obviously got it right. Um but I think that's probably the difference there. It definitely seems like in China they've all decided to find their own niche. But I wonder if that is also part of like the models we've talked about, and there are others, like Xiaomi have actually got models which are like almost as good as the others, but if you look at a lot of those, like Tencent, Byte Dance, Alibaba, like they are existing companies that do slightly different things, and so they're building or their use case for the model fits with what their business is.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3588.24,
+      "endTime": 3612.64,
+      "text": "With the the sort of US ones, with the exception of Google, who obviously have that infrastructure, but then they've got like everything. The others don't have that, so like their pursuit is like is just creating the best model, they don't they're not fitting it around their business. Llama, I'm just not sure. Like I just don't understand what they're doing, but maybe that's an episode. Maybe one day we do an episode on what the fuck uh what the fuck's Zuck doing.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3612.88,
+      "endTime": 3628.96,
+      "text": "What was what's Zuck doing? Um but all these models, I mean they're I I suppose they are all being built built by pretty big companies. None of them are they're not like they're not like little startups, are they? They're all it'll it's like Alibaba and Tense and and massive, huge Chinese Behemoths.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Matt",
+      "startTime": 3629.36,
+      "endTime": 3655.84,
+      "text": "Jupple AI and Moonshot, Moonshot are the Kimmy ones. I mean, they were not necessarily, but I don't know now how big they are. Yeah. Yeah. Alright, well let's uh let's finish there. Bang on an hour. Um that was a bit longer than we thought. Good for a 45-minute episode, yeah. Yeah, and also I think like we've got to the end with like we're gonna give people this information about why they might want to try some Chinese models and basically come to the conclusion that there's probably not really any reason for you to use a Chinese model.",
+      "chapterIndex": 10
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3656,
+      "endTime": 3688.8,
+      "text": "If you do, I would suggest you use Kimmy. If you're in China, maybe use a Chinese model. I I don't know, like who knows in the future? Like it's something I think it's interesting to know what's going on. It's also interesting to know because what people probably hear in the West a lot is it's you know the AI races between China and the US, but probably don't know anything about what the Chinese models are at all, apart from Deep Seek, I expect. So I think it's just interesting from that perspective, but also there is gonna be an there's got to be at some point, there's got to be a crunch on AI.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3688.96,
+      "endTime": 3722.64,
+      "text": "We've talked about it for a while. I don't know whether it'll be in six months or a year or two years'time, but it's a bubble, and it's a bubble where basically they've been gathering your data for now and doing it for free, but it's that's gonna end. AI is going to become a lot more expensive, and so a lot of this stuff is very relevant because they are much, much cheaper to run, and that and it might be that you're you know you you need a Kimicade 2.6, but that's that's basically 90% the way there. It's certainly a lot better than the last generation, but it you can actually run, you can actually afford it, yeah.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "Jimmy",
+      "startTime": 3722.88,
+      "endTime": 3724.08,
+      "text": "And on that note.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "startTime": 3777.28,
+      "endTime": 3779.36,
+      "text": "Six times the five seconds.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3841.44,
+      "endTime": 3919.6,
+      "text": "Multiple specifically earned a hundred million dollars. Mul architecture six hundred and seventy million sleeping. Thirty-seven weight and start the residence islands cleaning.4 moonshot in the terminal.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "startTime": 3919.76,
+      "endTime": 3923.2,
+      "text": "Three hundred agents knocking at the door.",
+      "chapterIndex": 11
+    },
+    {
+      "speaker": "SPEAKER_03",
+      "startTime": 3960.56,
+      "endTime": 3970.64,
+      "text": "Into factory four. The fifteen cycle rights what the fourteenth members cyber security law amended.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_02",
+      "startTime": 3971.04,
+      "endTime": 3990.16,
+      "text": "Ethics now in code. Safety framework to hoyo watches every node. Twenty standards are written for the world to follow. While others build their gardens, we planned for tomorrow.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_04",
+      "startTime": 3990.72,
+      "endTime": 4000.96,
+      "text": "Southeast Asia dual stack, America derivative, open out as weekly tally. Our tokens are definitive.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 4002.48,
+      "endTime": 4023.84,
+      "text": "AI plus by 27, 90 by 30 storm. Open weights like spring rain. 10,000 models born. From Hanju to Shenzhen, from the cloud to the hand. We are the second mover, but we move across the land.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "startTime": 4030.96,
+      "endTime": 4033.12,
+      "text": "Across the datascape.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_05",
+      "startTime": 4036.16,
+      "endTime": 4037.92,
+      "text": "The chippest jade.",
+      "chapterIndex": 12
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "startTime": 4041.44,
+      "endTime": 4043.2,
+      "text": "The dragon waves.",
+      "chapterIndex": 12
+    }
+  ]
+}

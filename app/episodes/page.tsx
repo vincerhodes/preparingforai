@@ -1,18 +1,52 @@
 import type { Metadata } from "next";
 import BuzzsproutPlayer from "@/components/BuzzsproutPlayer";
 import EpisodeCard from "@/components/EpisodeCard";
+import EpisodesExplorer from "@/components/EpisodesExplorer";
 import PlaceholderNotice from "@/components/PlaceholderNotice";
+import { getCatalog } from "@/lib/catalog";
 import { getEpisodes } from "@/lib/episodes";
 
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
   title: "Episodes",
-  description: "Every episode of the show, straight from the podcast feed.",
+  description:
+    "Search titles, summaries, talking points — and full transcripts.",
 };
 
 export default async function EpisodesPage() {
-  const episodes = await getEpisodes();
+  const catalog = getCatalog();
+
+  if (catalog.length === 0) {
+    const legacyEpisodes = await getEpisodes();
+    return (
+      <div>
+        <h1 className="text-3xl font-bold tracking-tight text-foreground">
+          Episodes
+        </h1>
+        <p className="mt-2 text-muted">
+          Every episode, newest first. Press play right here or follow the show
+          in your favourite podcast app.
+        </p>
+        <div className="mt-6">
+          <BuzzsproutPlayer />
+        </div>
+        <div className="mt-8 flex flex-col gap-4">
+          {legacyEpisodes.length > 0 ? (
+            legacyEpisodes.map((episode) => (
+              <EpisodeCard key={episode.id} episode={episode} />
+            ))
+          ) : (
+            <PlaceholderNotice title="Episodes temporarily unavailable">
+              The episode feed couldn&apos;t be loaded just now. Please check
+              back soon — or listen in your favourite podcast app in the
+              meantime.
+            </PlaceholderNotice>
+          )}
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div>
@@ -20,26 +54,16 @@ export default async function EpisodesPage() {
         Episodes
       </h1>
       <p className="mt-2 text-muted">
-        Every episode, newest first. Press play right here or follow the show
-        in your favourite podcast app.
+        Search titles, summaries, talking points — and full transcripts. Press
+        play right here or follow the show in your favourite podcast app.
       </p>
 
       <div className="mt-6">
         <BuzzsproutPlayer />
       </div>
 
-      <div className="mt-8 flex flex-col gap-4">
-        {episodes.length > 0 ? (
-          episodes.map((episode) => (
-            <EpisodeCard key={episode.id} episode={episode} />
-          ))
-        ) : (
-          <PlaceholderNotice title="Episodes temporarily unavailable">
-            The episode feed couldn&apos;t be loaded just now. Please check
-            back soon — or listen in your favourite podcast app in the
-            meantime.
-          </PlaceholderNotice>
-        )}
+      <div className="mt-8">
+        <EpisodesExplorer initialEpisodes={catalog} />
       </div>
     </div>
   );
