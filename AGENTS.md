@@ -23,11 +23,21 @@ This version has breaking changes — APIs, conventions, and file structure may 
   3. Do web research for fresh, attributed quotes — every quote needs a full
      name + role, a 1-line summary, the verbatim quote, and a source URL with
      publication/date.
-  4. Output using `studio/prep/TEMPLATE_cue_sheet.md`: strong takes, 1-line
-     bullet hooks, past episode callbacks (episode title, date, `[MM:SS]`
-     timestamp, hit/miss), and a Quotes & Research Deck with speaker names
-     prominent. **NEVER include an "Anticipated Matt Pushback" section** — keep
-     on-air banter spontaneous.
+  4. Output BOTH a Markdown cue sheet (`studio/prep/YYYY-MM-DD-<slug>.md` using
+     `studio/prep/TEMPLATE_cue_sheet.md`) **and** a self-contained interactive
+     local HTML prep webpage (`studio/prep/YYYY-MM-DD-<slug>.html` — always
+     give Jimmy the plain-text `file:///...` URL to open in Chrome) with:
+     - Clickable segment tabs + built-in 10-minute segment timer (Start/Pause/Reset)
+     - Strong takes, 1-line bullet hooks, outcome-first plain-English explainers
+       for complex topics, and past episode callbacks (episode title, date,
+       `[MM:SS]` timestamp, hit/miss)
+     - A Quotes & Research Deck + pinned Quick Name Cheat-Sheet with speaker
+       names prominent
+     - A dedicated **Show Notes Links** tab with 1-click Copy for Buzzsprout
+     - A dedicated **Video Quotes** tab with full extracted quotes when Jimmy
+       provides YouTube links (extract via `yt-dlp`)
+     - **NEVER include an "Anticipated Matt Pushback" section** — keep on-air
+       banter spontaneous.
 - **Catalog commands:**
   - `npm run sync:episodes` — pull new episodes from the Buzzsprout RSS feed
   - `npm run predictions:due` — list predictions due for verification
