@@ -9,7 +9,9 @@ import type {
   LivePolymarketOdds,
   Prediction,
   PredictionCategory,
+  PredictionConfidence,
   PredictionStatus,
+  ReviewStatus,
 } from "@/lib/types";
 
 type HydratedPrediction = Prediction & { livePolymarket?: LivePolymarketOdds };
@@ -27,6 +29,30 @@ type HostFilter =
   | "Sam Altman"
   | "All + Benchmarks";
 type StatusFilter = "All" | PredictionStatus;
+type ReviewFilter = "All" | "Needs Review" | "Approved" | "Rejected";
+type ConfidenceFilter = "All Confidence" | "Low" | "Medium" | "High";
+
+const REVIEW_FILTERS: ReviewFilter[] = [
+  "All",
+  "Needs Review",
+  "Approved",
+  "Rejected",
+];
+const CONFIDENCE_FILTERS: ConfidenceFilter[] = [
+  "All Confidence",
+  "Low",
+  "Medium",
+  "High",
+];
+
+async function responseError(response: Response, fallback: string): Promise<string> {
+  try {
+    const payload = (await response.json()) as { error?: string };
+    return payload.error || fallback;
+  } catch {
+    return fallback;
+  }
+}
 
 const CATEGORIES: CategoryFilter[] = ["All", "dated", "open-ended"];
 const STATUSES: StatusFilter[] = [
@@ -404,9 +430,52 @@ function usePredictionsBoardSearch() {
   return context;
 }
 
-function PredictionCard({ prediction }: { prediction: HydratedPrediction }) {
+function ConfidenceBadge({
+  confidence,
+  score,
+  prominent,
+}: {
+  confidence: PredictionConfidence;
+  score?: number;
+  prominent: boolean;
+}) {
+  const colors: Record<PredictionConfidence, string> = {
+    high: "border-emerald-400/60 bg-emerald-400/10 text-emerald-400",
+    medium: "border-amber-400/60 bg-amber-400/10 text-amber-400",
+    low: "border-rose-400/60 bg-rose-400/10 text-rose-400",
+  };
+  const label = confidence[0].toUpperCase() + confidence.slice(1);
+  const scoreLabel =
+    prominent && score !== undefined && Number.isFinite(score)
+      ? ` · ${Math.round(score)}%`
+      : "";
+  return (
+    <span
+      className={`inline-flex items-center whitespace-nowrap rounded-full border px-2.5 py-0.5 font-semibold ${colors[confidence]} ${
+        prominent ? "text-sm" : "text-xs"
+      }`}
+    >
+      {prominent ? `${label}${scoreLabel}` : `${label} confidence`}
+    </span>
+  );
+}
+
+function PredictionCard({
+  prediction,
+  isAdmin,
+  reviewing,
+  onReview,
+}: {
+  prediction: HydratedPrediction;
+  isAdmin: boolean;
+  reviewing: boolean;
+  onReview: (id: string, reviewStatus: ReviewStatus) => void;
+}) {
   const cardId = `pred-${prediction.id}`;
   const { flash, setFlash } = useHashFlash(cardId);
+  const reviewed =
+    prediction.reviewStatus === "approved" ||
+    prediction.reviewStatus === "rejected";
 
   return (
     <article
@@ -432,7 +501,40 @@ function PredictionCard({ prediction }: { prediction: HydratedPrediction }) {
         >
           {STATUS_LABELS[prediction.status]}
         </span>
+        {prediction.reviewStatus === "approved" && (
+          <span className="inline-flex items-center rounded-full border border-emerald-400/40 px-2.5 py-0.5 text-xs text-emerald-400">
+            ✓ Host Verified
+          </span>
+        )}
+        {!isAdmin && prediction.confidence && (
+          <ConfidenceBadge
+            confidence={prediction.confidence}
+            score={prediction.confidenceScore}
+            prominent={false}
+          />
+        )}
       </div>
+
+      {isAdmin && (
+        <div className="mb-3">
+          {prediction.confidence ? (
+            <ConfidenceBadge
+              confidence={prediction.confidence}
+              score={prediction.confidenceScore}
+              prominent
+            />
+          ) : (
+            <span className="inline-flex rounded-full border border-border px-2.5 py-0.5 text-sm font-semibold text-muted">
+              Confidence unrated
+            </span>
+          )}
+          {prediction.confidenceReason && (
+            <p className="mt-2 text-sm italic text-muted">
+              {prediction.confidenceReason}
+            </p>
+          )}
+        </div>
+      )}
 
       <h3 className="text-base font-semibold text-foreground">
         {prediction.claim}
@@ -464,6 +566,37 @@ function PredictionCard({ prediction }: { prediction: HydratedPrediction }) {
 
       {prediction.livePolymarket && (
         <PolymarketCard odds={prediction.livePolymarket} />
+      )}
+
+      {isAdmin && (
+        <div className="mt-4 flex flex-wrap gap-2 border-t border-border pt-4">
+          <button
+            type="button"
+            disabled={reviewing}
+            onClick={() => onReview(prediction.id, "approved")}
+            className="rounded-lg border border-emerald-400/60 bg-emerald-400/10 px-3 py-1.5 text-sm font-semibold text-emerald-400 transition-colors hover:bg-emerald-400/20 disabled:cursor-wait disabled:opacity-50"
+          >
+            Approve ✓
+          </button>
+          <button
+            type="button"
+            disabled={reviewing}
+            onClick={() => onReview(prediction.id, "rejected")}
+            className="rounded-lg border border-rose-400/60 bg-rose-400/10 px-3 py-1.5 text-sm font-semibold text-rose-400 transition-colors hover:bg-rose-400/20 disabled:cursor-wait disabled:opacity-50"
+          >
+            Reject ✕
+          </button>
+          {reviewed && (
+            <button
+              type="button"
+              disabled={reviewing}
+              onClick={() => onReview(prediction.id, "pending_review")}
+              className="rounded-lg border border-border px-3 py-1.5 text-sm font-semibold text-muted transition-colors hover:border-accent hover:text-foreground disabled:cursor-wait disabled:opacity-50"
+            >
+              Undo
+            </button>
+          )}
+        </div>
       )}
     </article>
   );
@@ -548,69 +681,157 @@ function BenchmarkCard({
 }
 
 export default function PredictionsBoard({
-  predictions,
+  predictions: initialPredictions,
   benchmarks = [],
+  initialIsAdmin = false,
 }: {
   predictions: HydratedPrediction[];
   benchmarks?: HydratedBenchmarkPrediction[];
+  initialIsAdmin?: boolean;
 }) {
+  const [predictions, setPredictions] = useState(initialPredictions);
+  const [isAdmin, setIsAdmin] = useState(initialIsAdmin);
   const [category, setCategory] = useState<CategoryFilter>("All");
   const [host, setHost] = useState<HostFilter>("All");
   const [status, setStatus] = useState<StatusFilter>("All");
   const [search, setSearch] = useState("");
+  const [reviewFilter, setReviewFilter] = useState<ReviewFilter>("All");
+  const [confidenceFilter, setConfidenceFilter] =
+    useState<ConfidenceFilter>("All Confidence");
+  const [lowestConfidenceFirst, setLowestConfidenceFirst] = useState(false);
+  const [reviewingIds, setReviewingIds] = useState<Set<string>>(new Set());
+  const [showLogin, setShowLogin] = useState(false);
+  const [password, setPassword] = useState("");
+  const [loginPending, setLoginPending] = useState(false);
+  const [loginError, setLoginError] = useState("");
+  const [adminError, setAdminError] = useState("");
   const feedRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!showLogin) return;
+    const closeOnEscape = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setShowLogin(false);
+    };
+    window.addEventListener("keydown", closeOnEscape);
+    return () => window.removeEventListener("keydown", closeOnEscape);
+  }, [showLogin]);
+
+  useEffect(() => {
+    if (!adminError) return;
+    const timer = window.setTimeout(() => setAdminError(""), 5000);
+    return () => window.clearTimeout(timer);
+  }, [adminError]);
+
+  const reviewCounts = useMemo(
+    () => ({
+      approved: predictions.filter((p) => p.reviewStatus === "approved").length,
+      pending: predictions.filter(
+        (p) => (p.reviewStatus ?? "pending_review") === "pending_review",
+      ).length,
+      rejected: predictions.filter((p) => p.reviewStatus === "rejected").length,
+    }),
+    [predictions],
+  );
 
   const filtered = useMemo(() => {
     const query = search.trim().toLowerCase();
     const base: Array<HydratedPrediction | HydratedBenchmarkPrediction> =
       host === "All + Benchmarks" ? [...predictions, ...benchmarks] : predictions;
-    return base.filter((prediction) => {
-      if (category !== "All" && prediction.category !== category) return false;
-      if (host === "Jimmy" && prediction.host !== "Jimmy") return false;
-      if (host === "Matt" && prediction.host !== "Matt") return false;
-      if (host === "Guests" && !isGuest(prediction.host)) return false;
-      if (host === BEAR_HOST && prediction.host !== BEAR_HOST) return false;
-      if (host === BULL_HOST && prediction.host !== BULL_HOST) return false;
-      if (status !== "All" && prediction.status !== status) return false;
-      if (query) {
-        const fields = [
-          prediction.claim,
-          prediction.quote,
-          "episodeTitle" in prediction
-            ? prediction.episodeTitle
-            : prediction.sourceTitle,
-          prediction.outcomeSummary ?? "",
-          ...prediction.topics.map((topic) => `#${topic}`),
-        ];
-        const matches = fields.some((field) =>
-          field.toLowerCase().includes(query),
-        );
-        if (!matches) return false;
-      }
-      return true;
-    });
-  }, [predictions, benchmarks, category, host, status, search]);
+    return base
+      .filter((prediction) => {
+        if (category !== "All" && prediction.category !== category) return false;
+        if (host === "Jimmy" && prediction.host !== "Jimmy") return false;
+        if (host === "Matt" && prediction.host !== "Matt") return false;
+        if (host === "Guests" && !isGuest(prediction.host)) return false;
+        if (host === BEAR_HOST && prediction.host !== BEAR_HOST) return false;
+        if (host === BULL_HOST && prediction.host !== BULL_HOST) return false;
+        if (status !== "All" && prediction.status !== status) return false;
+        if ("episodeSlug" in prediction) {
+          const currentReview = prediction.reviewStatus ?? "pending_review";
+          if (!isAdmin && currentReview === "rejected") return false;
+          if (isAdmin && reviewFilter !== "All") {
+            const expectedReview: ReviewStatus =
+              reviewFilter === "Approved"
+                ? "approved"
+                : reviewFilter === "Rejected"
+                  ? "rejected"
+                  : "pending_review";
+            if (currentReview !== expectedReview) return false;
+          }
+          if (
+            isAdmin &&
+            confidenceFilter !== "All Confidence" &&
+            prediction.confidence !== confidenceFilter.toLowerCase()
+          ) {
+            return false;
+          }
+        }
+        if (query) {
+          const fields = [
+            prediction.claim,
+            prediction.quote,
+            "episodeTitle" in prediction
+              ? prediction.episodeTitle
+              : prediction.sourceTitle,
+            prediction.outcomeSummary ?? "",
+            ...prediction.topics.map((topic) => `#${topic}`),
+          ];
+          const matches = fields.some((field) =>
+            field.toLowerCase().includes(query),
+          );
+          if (!matches) return false;
+        }
+        return true;
+      })
+      .sort((a, b) => {
+        if (!isAdmin || !lowestConfidenceFirst) return 0;
+        const aScore =
+          "episodeSlug" in a ? (a.confidenceScore ?? Number.POSITIVE_INFINITY) : Number.POSITIVE_INFINITY;
+        const bScore =
+          "episodeSlug" in b ? (b.confidenceScore ?? Number.POSITIVE_INFINITY) : Number.POSITIVE_INFINITY;
+        return aScore - bScore;
+      });
+  }, [
+    predictions,
+    benchmarks,
+    category,
+    host,
+    status,
+    search,
+    isAdmin,
+    reviewFilter,
+    confidenceFilter,
+    lowestConfidenceFirst,
+  ]);
 
   const isFiltered =
     category !== "All" ||
     host !== "All" ||
     status !== "All" ||
-    search.trim() !== "";
+    search.trim() !== "" ||
+    (isAdmin && reviewFilter !== "All") ||
+    (isAdmin && confidenceFilter !== "All Confidence");
 
   const clearFilters = () => {
     setCategory("All");
     setHost("All");
     setStatus("All");
     setSearch("");
+    setReviewFilter("All");
+    setConfidenceFilter("All Confidence");
   };
 
-  const jimmy = useMemo(
-    () => scoreHost(predictions.filter((p) => p.host === "Jimmy")),
+  const scoredPredictions = useMemo(
+    () => predictions.filter((prediction) => prediction.reviewStatus !== "rejected"),
     [predictions],
   );
+  const jimmy = useMemo(
+    () => scoreHost(scoredPredictions.filter((p) => p.host === "Jimmy")),
+    [scoredPredictions],
+  );
   const matt = useMemo(
-    () => scoreHost(predictions.filter((p) => p.host === "Matt")),
-    [predictions],
+    () => scoreHost(scoredPredictions.filter((p) => p.host === "Matt")),
+    [scoredPredictions],
   );
   const bear = useMemo(
     () => scoreHost(benchmarks.filter((b) => b.host === BEAR_HOST)),
@@ -620,6 +841,106 @@ export default function PredictionsBoard({
     () => scoreHost(benchmarks.filter((b) => b.host === BULL_HOST)),
     [benchmarks],
   );
+
+  const handleLogin = async (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    setLoginPending(true);
+    setLoginError("");
+    try {
+      const response = await fetch("/api/admin/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ password }),
+      });
+      if (!response.ok) {
+        throw new Error(await responseError(response, "Login failed"));
+      }
+      const reviewResponse = await fetch("/api/predictions/review");
+      if (!reviewResponse.ok) {
+        throw new Error(
+          await responseError(reviewResponse, "Could not load admin reviews"),
+        );
+      }
+      const payload = (await reviewResponse.json()) as {
+        predictions: HydratedPrediction[];
+      };
+      setPredictions((current) => {
+        const liveOdds = new Map(
+          current.map((prediction) => [prediction.id, prediction.livePolymarket]),
+        );
+        return payload.predictions.map((prediction) => ({
+          ...prediction,
+          livePolymarket: liveOdds.get(prediction.id),
+        }));
+      });
+      setIsAdmin(true);
+      setShowLogin(false);
+      setPassword("");
+    } catch (error) {
+      setLoginError(error instanceof Error ? error.message : "Login failed");
+    } finally {
+      setLoginPending(false);
+    }
+  };
+
+  const handleLogout = async () => {
+    setAdminError("");
+    try {
+      const response = await fetch("/api/admin/logout", { method: "POST" });
+      if (!response.ok) {
+        throw new Error(await responseError(response, "Could not log out"));
+      }
+      setIsAdmin(false);
+      setPredictions((current) =>
+        current.filter((prediction) => prediction.reviewStatus !== "rejected"),
+      );
+      setReviewFilter("All");
+      setConfidenceFilter("All Confidence");
+      setLowestConfidenceFirst(false);
+    } catch (error) {
+      setAdminError(error instanceof Error ? error.message : "Could not log out");
+    }
+  };
+
+  const handleReview = async (id: string, reviewStatus: ReviewStatus) => {
+    const previousStatus =
+      predictions.find((prediction) => prediction.id === id)?.reviewStatus ??
+      "pending_review";
+    setAdminError("");
+    setReviewingIds((current) => new Set(current).add(id));
+    setPredictions((current) =>
+      current.map((prediction) =>
+        prediction.id === id ? { ...prediction, reviewStatus } : prediction,
+      ),
+    );
+    try {
+      const response = await fetch("/api/predictions/review", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id, reviewStatus }),
+      });
+      if (!response.ok) {
+        throw new Error(await responseError(response, "Could not save review"));
+      }
+    } catch (error) {
+      setPredictions((current) =>
+        current.map((prediction) =>
+          prediction.id === id
+            ? { ...prediction, reviewStatus: previousStatus }
+            : prediction,
+        ),
+      );
+      setAdminError(
+        `${error instanceof Error ? error.message : "Could not save review"}. The change was reverted.`,
+      );
+    } finally {
+      setReviewingIds((current) => {
+        const updated = new Set(current);
+        updated.delete(id);
+        return updated;
+      });
+    }
+  };
 
   const toggleHost = (value: HostFilter) => {
     setHost((prev) => (prev === value ? "All" : value));
@@ -636,6 +957,19 @@ export default function PredictionsBoard({
 
   return (
     <SearchContext.Provider value={{ setSearch }}>
+      <div className="mb-3 flex justify-end">
+        <button
+          type="button"
+          onClick={isAdmin ? handleLogout : () => setShowLogin(true)}
+          className={`rounded-full border px-3 py-1 text-xs font-semibold transition-colors ${
+            isAdmin
+              ? "border-accent/60 bg-accent/10 text-accent hover:bg-accent/20"
+              : "border-border text-muted hover:border-accent hover:text-foreground"
+          }`}
+        >
+          {isAdmin ? "Admin Mode · Log out" : "Admin"}
+        </button>
+      </div>
       <div className="rounded-xl border border-border bg-surface p-5">
         <div className="grid items-center gap-4 sm:grid-cols-[1fr_auto_1fr]">
           <button
@@ -718,6 +1052,52 @@ export default function PredictionsBoard({
           </div>
         )}
       </div>
+
+      {isAdmin && (
+        <section className="mt-4 rounded-xl border border-accent/40 bg-accent/5 p-4">
+          <div className="flex flex-wrap items-center justify-between gap-3">
+            <h2 className="text-sm font-bold text-foreground">Admin Review</h2>
+            <p className="text-xs text-muted">
+              Approved: {reviewCounts.approved} · Needs Review: {reviewCounts.pending} · Rejected: {reviewCounts.rejected}
+            </p>
+          </div>
+          <div className="mt-3 flex flex-wrap items-center gap-2">
+            <span className="mr-1 text-xs text-muted">Review</span>
+            {REVIEW_FILTERS.map((filter) => (
+              <Chip
+                key={filter}
+                active={reviewFilter === filter}
+                onClick={() => setReviewFilter(filter)}
+              >
+                {filter}
+              </Chip>
+            ))}
+          </div>
+          <div className="mt-3 flex flex-wrap items-center gap-2">
+            {CONFIDENCE_FILTERS.map((filter) => (
+              <Chip
+                key={filter}
+                active={confidenceFilter === filter}
+                onClick={() => setConfidenceFilter(filter)}
+              >
+                {filter}
+              </Chip>
+            ))}
+            <button
+              type="button"
+              aria-pressed={lowestConfidenceFirst}
+              onClick={() => setLowestConfidenceFirst((current) => !current)}
+              className={`rounded-full border px-3 py-1 text-xs transition-colors ${
+                lowestConfidenceFirst
+                  ? "border-accent bg-accent font-semibold text-background"
+                  : "border-border bg-surface text-muted hover:border-accent hover:text-foreground"
+              }`}
+            >
+              Sort: Lowest Confidence First
+            </button>
+          </div>
+        </section>
+      )}
 
       <div className="mt-6 flex flex-col gap-3">
         <ChipRow
@@ -827,13 +1207,88 @@ export default function PredictionsBoard({
         ) : (
           filtered.map((prediction) =>
             "episodeSlug" in prediction ? (
-              <PredictionCard key={prediction.id} prediction={prediction} />
+              <PredictionCard
+                key={prediction.id}
+                prediction={prediction}
+                isAdmin={isAdmin}
+                reviewing={reviewingIds.has(prediction.id)}
+                onReview={handleReview}
+              />
             ) : (
               <BenchmarkCard key={prediction.id} prediction={prediction} />
             ),
           )
         )}
       </div>
+
+      {showLogin && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4"
+          onMouseDown={(event) => {
+            if (event.target === event.currentTarget) setShowLogin(false);
+          }}
+        >
+          <div
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby="admin-login-title"
+            className="w-full max-w-sm rounded-xl border border-border bg-surface p-6 shadow-2xl"
+          >
+            <div className="flex items-center justify-between gap-4">
+              <h2 id="admin-login-title" className="text-lg font-bold">
+                Admin login
+              </h2>
+              <button
+                type="button"
+                aria-label="Close admin login"
+                onClick={() => setShowLogin(false)}
+                className="rounded-md px-2 py-1 text-muted hover:text-foreground"
+              >
+                ✕
+              </button>
+            </div>
+            <p className="mt-2 text-sm text-muted">
+              Enter the shared admin password to review predictions.
+            </p>
+            <form onSubmit={handleLogin} className="mt-5">
+              <label htmlFor="admin-password" className="text-xs font-semibold text-muted">
+                Password
+              </label>
+              <input
+                id="admin-password"
+                type="password"
+                autoFocus
+                required
+                autoComplete="current-password"
+                value={password}
+                onChange={(event) => setPassword(event.target.value)}
+                className="mt-1 w-full rounded-lg border border-border bg-background px-3 py-2 text-sm text-foreground focus:border-accent focus:outline-none"
+              />
+              {loginError && (
+                <p role="alert" className="mt-3 text-sm text-rose-400">
+                  {loginError}
+                </p>
+              )}
+              <button
+                type="submit"
+                disabled={loginPending}
+                className="mt-4 w-full rounded-lg bg-accent px-4 py-2 text-sm font-bold text-background transition-opacity hover:opacity-90 disabled:cursor-wait disabled:opacity-50"
+              >
+                {loginPending ? "Logging in…" : "Log in"}
+              </button>
+            </form>
+          </div>
+        </div>
+      )}
+
+      {adminError && (
+        <div
+          role="alert"
+          className="fixed bottom-5 right-5 z-50 max-w-md rounded-lg border border-rose-400/60 bg-surface px-4 py-3 text-sm text-rose-400 shadow-xl"
+        >
+          {adminError}
+        </div>
+      )}
     </SearchContext.Provider>
   );
 }

@@ -8,6 +8,7 @@ import {
   searchCatalog,
 } from "@/lib/catalog";
 import { hydratePredictionsWithPolymarket } from "@/lib/polymarket";
+import { applyReviewsToPredictions } from "@/lib/reviews";
 import type {
   BenchmarkPrediction,
   EpisodeEra,
@@ -379,7 +380,9 @@ async function executeTool(name: string, args: JsonObject): Promise<string> {
           (pundit) => pundit.toLocaleLowerCase() === host.toLocaleLowerCase(),
         );
       const includeBenchmarks = includeBenchmarksParam || hostMatchesBenchmark;
-      let predictions = getPredictions()
+      let predictions = applyReviewsToPredictions(getPredictions(), {
+        includeRejected: false,
+      })
         .filter((prediction) => {
           const searchable = [
             prediction.claim,

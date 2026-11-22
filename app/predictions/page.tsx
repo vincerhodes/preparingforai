@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
+import { cookies } from "next/headers";
 import PredictionsBoard from "@/components/PredictionsBoard";
+import { ADMIN_COOKIE_NAME, verifyAdminToken } from "@/lib/admin-auth";
 import { getBenchmarkPredictions, getPredictions } from "@/lib/catalog";
 import { hydratePredictionsWithPolymarket } from "@/lib/polymarket";
+import { applyReviewsToPredictions } from "@/lib/reviews";
 
-export const revalidate = 3600;
+export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "Predictions",
@@ -12,8 +15,15 @@ export const metadata: Metadata = {
 };
 
 export default async function PredictionsPage() {
+  const cookieStore = await cookies();
+  const isAdmin = verifyAdminToken(
+    cookieStore.get(ADMIN_COOKIE_NAME)?.value,
+  );
+  const reviewedPredictions = applyReviewsToPredictions(getPredictions(), {
+    includeRejected: isAdmin,
+  });
   const [hydratedPredictions, hydratedBenchmarks] = await Promise.all([
-    hydratePredictionsWithPolymarket(getPredictions()),
+    hydratePredictionsWithPolymarket(reviewedPredictions),
     hydratePredictionsWithPolymarket(getBenchmarkPredictions()),
   ]);
 
@@ -36,6 +46,7 @@ export default async function PredictionsPage() {
         <PredictionsBoard
           predictions={hydratedPredictions}
           benchmarks={hydratedBenchmarks}
+          initialIsAdmin={isAdmin}
         />
       </div>
     </div>
