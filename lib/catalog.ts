@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs";
 import path from "node:path";
 import type {
+  BenchmarkPrediction,
   EpisodeDetail,
   EpisodeEra,
   EpisodeFormat,
@@ -17,6 +18,7 @@ const SNIPPET_TEXT_LENGTH = 180;
 
 let catalogCache: EpisodeMeta[] | null = null;
 let predictionsCache: Prediction[] | null = null;
+let benchmarkCache: BenchmarkPrediction[] | null = null;
 let hostProfilesCache: Record<string, HostProfile> | null = null;
 let searchCache: EpisodeDetail[] | null = null;
 const episodeCache = new Map<string, EpisodeDetail | null>();
@@ -92,6 +94,18 @@ export function getPredictions(): Prediction[] {
   );
   predictionsCache = Array.isArray(value) ? value : value.predictions;
   return predictionsCache;
+}
+
+export function getBenchmarkPredictions(): BenchmarkPrediction[] {
+  if (benchmarkCache) return benchmarkCache;
+  const value = readJson<
+    BenchmarkPrediction[] | { benchmarks: BenchmarkPrediction[] }
+  >(path.join(DATA_DIR, "benchmark-predictions.json"), []);
+  const benchmarks = Array.isArray(value) ? value : value.benchmarks ?? [];
+  benchmarkCache = [...benchmarks].sort((a, b) =>
+    b.sourceDate.localeCompare(a.sourceDate),
+  );
+  return benchmarkCache;
 }
 
 export function getPredictionsByEpisode(slug: string): Prediction[] {

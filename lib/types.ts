@@ -83,6 +83,28 @@ export type Prediction = {
   topics: string[];
 };
 
+export type BenchmarkSide = "bear" | "bull";
+export type BenchmarkPrediction = {
+  id: string;
+  host: string; // e.g. "Ed Zitron" | "Sam Altman"
+  roleLabel: string; // e.g. "Where's Your Ed At · AI Bear" | "OpenAI CEO · AI Bull"
+  benchmarkSide: BenchmarkSide;
+  sourceTitle: string;
+  sourceUrl: string;
+  sourceDate: string; // YYYY-MM-DD
+  claim: string;
+  quote: string;
+  category: PredictionCategory;
+  targetDate?: string;
+  timeframeLabel: string;
+  status: PredictionStatus;
+  outcomeSummary?: string;
+  evidenceUrl?: string;
+  verifiedAt?: string;
+  polymarket?: PolymarketMatch;
+  topics: string[];
+};
+
 export type HostProfile = {
   host: "Jimmy" | "Matt";
   bio: string;

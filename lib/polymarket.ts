@@ -1,9 +1,5 @@
 import dns from "node:dns";
-import type {
-  LivePolymarketOdds,
-  PolymarketMatch,
-  Prediction,
-} from "./types";
+import type { LivePolymarketOdds, PolymarketMatch } from "./types";
 
 dns.setDefaultResultOrder("ipv4first");
 
@@ -88,9 +84,9 @@ export async function fetchLivePolymarketOdds(
   }
 }
 
-export async function hydratePredictionsWithPolymarket(
-  predictions: Prediction[],
-): Promise<Array<Prediction & { livePolymarket?: LivePolymarketOdds }>> {
+export async function hydratePredictionsWithPolymarket<
+  T extends { polymarket?: PolymarketMatch },
+>(predictions: T[]): Promise<Array<T & { livePolymarket?: LivePolymarketOdds }>> {
   const uniqueMatches = new Map<string, PolymarketMatch>();
   for (const prediction of predictions) {
     if (prediction.polymarket && !uniqueMatches.has(prediction.polymarket.slug)) {

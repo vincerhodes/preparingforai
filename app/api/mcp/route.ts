@@ -1,5 +1,6 @@
 import {
   formatTimestamp,
+  getBenchmarkPredictions,
   getCatalog,
   getEpisodeByIdOrSlug,
   getHostProfiles,
@@ -8,8 +9,10 @@ import {
 } from "@/lib/catalog";
 import { hydratePredictionsWithPolymarket } from "@/lib/polymarket";
 import type {
+  BenchmarkPrediction,
   EpisodeEra,
   EpisodeFormat,
+  LivePolymarketOdds,
   PredictionCategory,
   PredictionStatus,
   TranscriptSnippetMatch,
@@ -113,7 +116,7 @@ const TOOLS = [
   {
     name: "search_predictions",
     description:
-      "Search the predictions ledger by claim, quote, topic, host, category, or status, optionally including live Polymarket odds.",
+      "Search the predictions ledger by claim, quote, topic, host, category, or status, optionally including live Polymarket odds. Add include_benchmarks to also search the Bull & Bear benchmark predictions (Ed Zitron, Sam Altman) — benchmarks are included automatically when host is a benchmark pundit.",
     inputSchema: {
       type: "object",
       properties: {
@@ -125,6 +128,11 @@ const TOOLS = [
           type: "boolean",
           description: "Hydrate matching markets with live Polymarket odds.",
           default: true,
+        },
+        include_benchmarks: {
+          type: "boolean",
+          description: "Also include Bull & Bear benchmark predictions (Ed Zitron, Sam Altman). Automatically enabled when host matches a benchmark pundit.",
+          default: false,
         },
         limit: {
           type: "number",
@@ -352,7 +360,7 @@ async function executeTool(name: string, args: JsonObject): Promise<string> {
     }
 
     case "search_predictions": {
-      validateKeys(args, ["query", "host", "category", "status", "include_polymarket", "limit"]);
+      validateKeys(args, ["query", "host", "category", "status", "include_polymarket", "include_benchmarks", "limit"]);
       const query = optionalString(args, "query");
       const host = optionalString(args, "host");
       const category = optionalEnum(args, "category", PREDICTION_CATEGORIES) as
@@ -362,8 +370,15 @@ async function executeTool(name: string, args: JsonObject): Promise<string> {
         | PredictionStatus
         | undefined;
       const includePolymarket = optionalBoolean(args, "include_polymarket", true);
+      const includeBenchmarksParam = optionalBoolean(args, "include_benchmarks", false);
       const limit = optionalInteger(args, "limit", { default: 25, min: 1, max: 100 }) ?? 25;
       const queryTokens = query?.toLocaleLowerCase().match(/[\p{L}\p{N}]+/gu) ?? [];
+      const benchmarkPundits = ["Ed Zitron", "Sam Altman"] as const;
+      const hostMatchesBenchmark = !!host &&
+        benchmarkPundits.some(
+          (pundit) => pundit.toLocaleLowerCase() === host.toLocaleLowerCase(),
+        );
+      const includeBenchmarks = includeBenchmarksParam || hostMatchesBenchmark;
       let predictions = getPredictions()
         .filter((prediction) => {
           const searchable = [
@@ -388,10 +403,50 @@ async function executeTool(name: string, args: JsonObject): Promise<string> {
         ? await hydratePredictionsWithPolymarket(predictions)
         : predictions;
       predictions = hydrated;
+
+      let benchmarks: Array<
+        BenchmarkPrediction & { livePolymarket?: LivePolymarketOdds }
+      > = [];
+      if (includeBenchmarks) {
+        const matched = getBenchmarkPredictions()
+          .filter((benchmark) => {
+            const searchable = [
+              benchmark.claim,
+              benchmark.quote,
+              benchmark.sourceTitle,
+              benchmark.host,
+              benchmark.roleLabel,
+              ...benchmark.topics,
+            ]
+              .join(" ")
+              .toLocaleLowerCase();
+            return (
+              queryTokens.every((token) => searchable.includes(token)) &&
+              (!host || benchmark.host.toLocaleLowerCase() === host.toLocaleLowerCase()) &&
+              (!category || benchmark.category === category) &&
+              (!status || benchmark.status === status)
+            );
+          })
+          .slice(0, limit);
+        benchmarks = includePolymarket
+          ? await hydratePredictionsWithPolymarket(matched)
+          : matched;
+      }
+
       return JSON.stringify(
         {
-          count: predictions.length,
+          count: predictions.length + benchmarks.length,
           predictions: predictions.map(serializePrediction),
+          ...(includeBenchmarks
+            ? {
+                benchmarks: benchmarks.map((benchmark) => ({
+                  ...benchmark,
+                  benchmarkLabel:
+                    benchmark.benchmarkSide === "bear" ? "Bear Benchmark" : "Bull Benchmark",
+                  source: `${benchmark.sourceTitle} (${benchmark.sourceDate}) — ${benchmark.sourceUrl}`,
+                })),
+              }
+            : {}),
         },
         null,
         2,

@@ -1,0 +1,749 @@
+[
+  {
+    "id": "ed-zitron-jensen-huang-must-go",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Jensen's Bizarre Adventure",
+    "sourceUrl": "https://www.wheresyoured.at/jensens-bizarre-adventure/",
+    "sourceDate": "2026-11-10",
+    "claim": "Ed Zitron argued NVIDIA's board should fire CEO Jensen Huang immediately over the Megaspeed Chinese GPU-smuggling scandal.",
+    "quote": "NVIDIA should fire Jensen Huang immediately, along with its general counsel.",
+    "category": "dated",
+    "timeframeLabel": "Within weeks",
+    "status": "correct",
+    "targetDate": "2026-11-30",
+    "outcomeSummary": "Correct almost immediately: Jensen Huang resigned as NVIDIA CEO on November 12, 2026 — two days after publication — as the Megaspeed probe widened, with NVIDIA already down ~47.5% from its peak in the October–November 2026 AI drawdown that dragged the Nasdaq down ~18%.",
+    "evidenceUrl": "https://www.wheresyoured.at/the-nvidia-bubble/",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "nvidia",
+      "corporate-governance",
+      "ai-bubble"
+    ]
+  },
+  {
+    "id": "ed-zitron-agi-impossible-with-llms",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "The Rot-Com Bubble",
+    "sourceUrl": "https://www.wheresyoured.at/rotcombubble/",
+    "sourceDate": "2024-06-03",
+    "claim": "AGI is 'totally and utterly impossible' to build with generative AI technology.",
+    "quote": "a thing that is totally and utterly impossible to build with any of the generative artificial intelligence his company makes",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "unresolved",
+    "outcomeSummary": "Still unresolved: nobody has built AGI as of November 2026, so the impossibility claim is unproven, but OpenAI has not announced AGI either (prediction markets put 'OpenAI AGI before 2027' near 6.5%), while models keep gaining reasoning, coding and scientific capability.",
+    "evidenceUrl": "https://openai.com/",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "agi",
+      "llms"
+    ]
+  },
+  {
+    "id": "ed-zitron-generative-ai-wont-change-world",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "The Rot-Com Bubble",
+    "sourceUrl": "https://www.wheresyoured.at/rotcombubble/",
+    "sourceDate": "2024-06-03",
+    "claim": "Generative AI will not change the world, and any AI that does will not come from OpenAI or Anthropic.",
+    "quote": "Generative AI is not going to change the world, and while artificial intelligence itself might, it isn't going to do so in the hands of Sam Altman and OpenAI, or Anthropic.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "incorrect",
+    "outcomeSummary": "By late 2026, OpenAI and Anthropic reshaped software engineering, consumer search, and scientific math (including Anthropic's historic Nasdaq IPO and Claude's formal-verification breakthroughs).",
+    "evidenceUrl": "https://www.wheresyoured.at/the-case-against-generative-ai/",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "generative-ai",
+      "hype"
+    ]
+  },
+  {
+    "id": "ed-zitron-ai-bubble-burst-2026",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "The Case Against Generative AI",
+    "sourceUrl": "https://www.wheresyoured.at/the-case-against-generative-ai/",
+    "sourceDate": "2025-09-29",
+    "claim": "The AI bubble's collapse is now inevitable, and Ed expected it imminently.",
+    "quote": "It is now inevitable that this bubble bursts.",
+    "category": "dated",
+    "timeframeLabel": "By end of 2026",
+    "status": "pending",
+    "targetDate": "2026-12-31",
+    "polymarket": {
+      "slug": "ai-industry-downturn-by-december-31-2026-857",
+      "question": "AI bubble burst in 2026?",
+      "url": "https://polymarket.com/event/ai-bubble-burst-by",
+      "cachedYesPct": 62.4,
+      "cachedAt": "2026-11-22"
+    },
+    "topics": [
+      "ai-bubble",
+      "markets"
+    ]
+  },
+  {
+    "id": "ed-zitron-microsoft-recall-privacy",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "The Rot-Com Bubble",
+    "sourceUrl": "https://www.wheresyoured.at/rotcombubble/",
+    "sourceDate": "2024-06-03",
+    "claim": "Microsoft's Copilot+ 'Recall' feature would ship on Windows laptops as a privacy-invading, always-on screenshot recorder.",
+    "quote": "Windows laptops will soon integrate an AI-powered \"Recall\" feature that allows you to search everything you've done on your computer in the last three months",
+    "category": "dated",
+    "timeframeLabel": "By end of 2025",
+    "status": "correct",
+    "targetDate": "2025-12-31",
+    "outcomeSummary": "Correct: after delays, Microsoft did ship Recall on Copilot+ PCs (late 2024, expanded April 2025) as a screenshot-based memory feature, and it drew exactly the security and regulatory scrutiny Ed predicted, including proof-of-concept exfiltration demos.",
+    "evidenceUrl": "https://www.microsoft.com/en-us/windows/copilot-plus-pcs",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "microsoft",
+      "privacy",
+      "consumer-ai"
+    ]
+  },
+  {
+    "id": "ed-zitron-generative-ai-peaked-2024",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Pop Culture",
+    "sourceUrl": "https://www.wheresyoured.at/pop-culture/",
+    "sourceDate": "2024-07-08",
+    "claim": "Generative AI peaked in 2024 and cannot do much more than it already does.",
+    "quote": "Generative AI, as I said back in March, is peaking, if it hasn't already peaked. It cannot do much more than it is currently doing, other than doing more of it faster with some new inputs.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "incorrect",
+    "outcomeSummary": "A clear miss: the period after July 2024 brought reasoning models (o3, GPT-5), mainstream coding agents (Claude Code, Cursor, Codex) and scientific milestones such as Claude's November 2026 Riemann-hypothesis-related formal-proof work in Lean — accelerating capability, not a plateau.",
+    "evidenceUrl": "https://www.anthropic.com/news",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "generative-ai",
+      "capability-gains"
+    ]
+  },
+  {
+    "id": "ed-zitron-ai-price-hikes-or-collapse",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Pop Culture",
+    "sourceUrl": "https://www.wheresyoured.at/pop-culture/",
+    "sourceDate": "2024-07-08",
+    "claim": "Anthropic and OpenAI will eventually have to raise prices or collapse under the economics of generative AI.",
+    "quote": "I believe that at some point AI companies like Anthropic and OpenAI will have to increase prices — or begin to collapse under the weight of a technology that has no path to profitability.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "correct",
+    "outcomeSummary": "Correct on prices: both labs raised enterprise and priority pricing in mid-2025, moved business customers to token-based billing in early 2026, and hiked consumer plans; neither has collapsed yet, though both still burn billions per quarter.",
+    "evidenceUrl": "https://www.anthropic.com/pricing",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "pricing",
+      "openai",
+      "anthropic"
+    ]
+  },
+  {
+    "id": "ed-zitron-cloud-compute-welfare-end",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Pop Culture",
+    "sourceUrl": "https://www.wheresyoured.at/pop-culture/",
+    "sourceDate": "2024-07-08",
+    "claim": "Microsoft, Amazon and Google will eventually decide that bankrolling OpenAI and Anthropic's compute is not a business model.",
+    "quote": "I see no situation where OpenAI and Anthropic continue to iterate on Large Language Models in perpetuity, as at some point Microsoft, Amazon and Google decide (or are forced to decide) that cloud compute welfare isn't a business model.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "pending",
+    "topics": [
+      "hyperscalers",
+      "compute"
+    ]
+  },
+  {
+    "id": "ed-zitron-subprime-ai-price-hikes",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Anthropic and OpenAI Have Begun The Subprime AI Crisis",
+    "sourceUrl": "https://www.wheresyoured.at/anthropic-and-openai-have-begun-the-subprime-ai-crisis/",
+    "sourceDate": "2025-07-07",
+    "claim": "AI labs selling below cost would set off cascading price hikes across the AI API economy — the 'Subprime AI Crisis' thesis.",
+    "quote": "companies like Anthropic and OpenAI are providing their services at a massive loss, and that at some point they would have to start finding ways to recoup their costs, raising the prices of providing their services, which in turn would cause those connecting to their APIs to have to start doing the same to their customers.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "correct",
+    "outcomeSummary": "Largely borne out: OpenAI and Anthropic jacked up enterprise pricing in mid-2025, shifted customers to token billing in Q1 2026, and downstream buyers (Replit, Cursor, Uber, T-Mobile) publicly reined in or re-priced token spend — the pass-through cascade Ed predicted.",
+    "evidenceUrl": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "pricing",
+      "subprime-ai"
+    ]
+  },
+  {
+    "id": "ed-zitron-openai-wont-survive-290b-burn",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "The Case Against Generative AI",
+    "sourceUrl": "https://www.wheresyoured.at/the-case-against-generative-ai/",
+    "sourceDate": "2025-09-29",
+    "claim": "OpenAI will burn more than $290B by 2029 and will not survive that long.",
+    "quote": "by 2029, OpenAI will have actually burned more than $290 billion, assuming that it survives that long, which I do not believe it will.",
+    "category": "dated",
+    "timeframeLabel": "By 2029",
+    "status": "pending",
+    "targetDate": "2029-12-31",
+    "polymarket": {
+      "slug": "will-openai-announce-bankruptcy-by-december-31-2027",
+      "question": "Will OpenAI announce bankruptcy by December 31, 2027?",
+      "url": "https://polymarket.com/event/openai-announces-bankruptcy-by",
+      "cachedYesPct": 8.5,
+      "cachedAt": "2026-11-22"
+    },
+    "topics": [
+      "openai",
+      "burn"
+    ]
+  },
+  {
+    "id": "ed-zitron-ai-demand-never-arriving",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "The Case Against Generative AI",
+    "sourceUrl": "https://www.wheresyoured.at/the-case-against-generative-ai/",
+    "sourceDate": "2025-09-29",
+    "claim": "Real demand for generative AI does not exist and is never arriving.",
+    "quote": "the demand is not there for generative AI, and the demand is never, ever arriving.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "incorrect",
+    "outcomeSummary": "A major miss: demand compounded — Claude Code and Cursor became nine- and ten-figure revenue products, Anthropic priced a blockbuster IPO at $83 on November 19, 2026 (popping to $111.50), and Big Tech cloud revenues kept growing, even if much of the demand remains subsidized.",
+    "evidenceUrl": "https://www.anthropic.com/news",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "demand",
+      "generative-ai"
+    ]
+  },
+  {
+    "id": "ed-zitron-llms-cant-do-software-engineering",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "The Case Against Generative AI",
+    "sourceUrl": "https://www.wheresyoured.at/the-case-against-generative-ai/",
+    "sourceDate": "2025-09-29",
+    "claim": "LLMs can write code but cannot do real software engineering.",
+    "quote": "LLMs are capable of writing code, but can’t do software engineering, because software engineering is the process of understanding, maintaining and executing code to produce functional software",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "incorrect",
+    "outcomeSummary": "Autonomous coding agents (Claude Code, Codex, Cursor Agents) routinely ship production multi-file refactors, tests, and full applications across the software industry by 2026.",
+    "evidenceUrl": "https://www.anthropic.com/news",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "coding",
+      "agents"
+    ]
+  },
+  {
+    "id": "ed-zitron-anthropic-profitability-swindle",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Anthropic's \"Profitability\" Swindle",
+    "sourceUrl": "https://www.wheresyoured.at/anthropics-profitability-swindle/",
+    "sourceDate": "2026-05-21",
+    "claim": "Anthropic's leaked Q2 2026 'profitability' is an accounting swindle, and its costs will keep consuming any profit.",
+    "quote": "Costs increase linearly with revenue, and will continue to do so in perpetuity.",
+    "category": "dated",
+    "timeframeLabel": "By end of 2026",
+    "status": "pending",
+    "targetDate": "2026-12-31",
+    "polymarket": {
+      "slug": "will-anthropic-announce-bankruptcy-by-december-31-2027",
+      "question": "Will Anthropic announce bankruptcy by December 31, 2027?",
+      "url": "https://polymarket.com/event/anthropic-announces-bankruptcy-by",
+      "cachedYesPct": 8.5,
+      "cachedAt": "2026-11-22"
+    },
+    "topics": [
+      "anthropic",
+      "profitability"
+    ]
+  },
+  {
+    "id": "ed-zitron-openai-risky-entity",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Premium: The Hater's Guide to OpenAI",
+    "sourceUrl": "https://www.wheresyoured.at/hatersguide-openai/",
+    "sourceDate": "2026-04-10",
+    "claim": "OpenAI is an incredibly risky entity because of Sam Altman's ability to con investors and find others to con in his stead.",
+    "quote": "I believe that OpenAI is an incredibly risky entity, not due to the power of its models or its underlying assets, but due to Sam Altman’s ability to con people and find others that will con in his stead.",
+    "category": "dated",
+    "timeframeLabel": "By end of 2027",
+    "status": "pending",
+    "targetDate": "2027-12-31",
+    "polymarket": {
+      "slug": "will-openai-announce-bankruptcy-by-december-31-2027",
+      "question": "Will OpenAI announce bankruptcy by December 31, 2027?",
+      "url": "https://polymarket.com/event/openai-announces-bankruptcy-by",
+      "cachedYesPct": 8.5,
+      "cachedAt": "2026-11-22"
+    },
+    "topics": [
+      "openai",
+      "governance"
+    ]
+  },
+  {
+    "id": "ed-zitron-ai-startups-never-ipo",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Premium: This Is Worse Than The Dot Com Bubble",
+    "sourceUrl": "https://www.wheresyoured.at/dot-com-bubble/",
+    "sourceDate": "2026-01-16",
+    "claim": "The VC-backed AI startups are dogs that will never go public or sell to another company.",
+    "quote": "The companies they invested in are dogs that will never go public or sell to another company.",
+    "category": "dated",
+    "timeframeLabel": "By end of 2026",
+    "status": "incorrect",
+    "targetDate": "2026-12-31",
+    "outcomeSummary": "Falsified in dramatic fashion: Anthropic — the flagship AI startup — priced its IPO at $83 on November 19, 2026 and popped to $111.50, becoming the defining AI exit of the era (even though exits for smaller AI startups remain scarce).",
+    "evidenceUrl": "https://www.nasdaq.com/market-activity/ipos",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "venture-capital",
+      "ipo"
+    ]
+  },
+  {
+    "id": "ed-zitron-nvidia-circular-neoclouds",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Premium: The Hater's Guide To NVIDIA",
+    "sourceUrl": "https://www.wheresyoured.at/the-haters-guide-to-nvidia/",
+    "sourceDate": "2025-11-24",
+    "claim": "NVIDIA's circular neocloud financing — funding its own customers' GPU purchases — props up artificial demand that will end badly.",
+    "quote": "The response to the continued proof that generative AI is not making money is to buy more GPUs, and it doesn't appear anybody has ever worked out why.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "partial",
+    "outcomeSummary": "Mostly vindicated by events: Culper's short report, the Megaspeed smuggling scandal and Jensen Huang's November 12, 2026 resignation erased ~47.5% of NVIDIA's stock and helped drag the Nasdaq down ~18% in the Oct–Nov 2026 drawdown — though NVIDIA's data-center revenue was still enormous through mid-2026, so the circular machine ran far longer than Ed expected.",
+    "evidenceUrl": "https://www.wheresyoured.at/jensens-bizarre-adventure/",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "nvidia",
+      "circular-financing"
+    ]
+  },
+  {
+    "id": "ed-zitron-stargate-llc-never-formed",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "Premium: How OpenAI Kills Oracle",
+    "sourceUrl": "https://www.wheresyoured.at/how-openai-kills-oracle/",
+    "sourceDate": "2026-04-24",
+    "claim": "The Stargate data-center venture was never actually formed as promised, and Abilene's milestones kept slipping.",
+    "quote": "It’s been 15 months, and Stargate LLC has never been formed.",
+    "category": "dated",
+    "timeframeLabel": "By mid-2026",
+    "status": "correct",
+    "targetDate": "2026-06-30",
+    "outcomeSummary": "Correct on the letter of it: as of spring 2026, Stargate LLC still had no capital contributions beyond SoftBank's own Lordstown, Ohio plant, and Abilene was running well behind its original energization timeline (two buildings live as of late 2025), even as Oracle and OpenAI kept announcing expanded capacity.",
+    "evidenceUrl": "https://www.wheresyoured.at/how-openai-kills-oracle/",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "stargate",
+      "oracle",
+      "datacenters"
+    ]
+  },
+  {
+    "id": "ed-zitron-openai-ipo-2027",
+    "host": "Ed Zitron",
+    "roleLabel": "Where's Your Ed At · AI Bear",
+    "benchmarkSide": "bear",
+    "sourceTitle": "What Happens If OpenAI Dies?",
+    "sourceUrl": "https://www.wheresyoured.at/what-happens-if-openai-dies/",
+    "sourceDate": "2026-08-18",
+    "claim": "OpenAI is leaning toward an IPO around 2027, and would struggle to fare well given its disclosed economics.",
+    "quote": "OpenAI was “leaning toward” going public some time in 2027",
+    "category": "dated",
+    "timeframeLabel": "By 2027",
+    "status": "pending",
+    "targetDate": "2027-12-31",
+    "polymarket": {
+      "slug": "will-openai-ipo-by-december-31-2026",
+      "question": "Will OpenAI IPO by December 31 2026?",
+      "url": "https://polymarket.com/event/openai-ipo-by",
+      "cachedYesPct": 1.2,
+      "cachedAt": "2026-11-22"
+    },
+    "topics": [
+      "openai",
+      "ipo"
+    ]
+  },
+  {
+    "id": "sam-altman-agents-join-workforce-2025",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "Reflections",
+    "sourceUrl": "https://blog.samaltman.com/reflections",
+    "sourceDate": "2025-01-05",
+    "claim": "In 2025 the first AI agents will 'join the workforce' and materially change the output of companies.",
+    "quote": "We believe that, in 2025, we may see the first AI agents “join the workforce” and materially change the output of companies.",
+    "category": "dated",
+    "timeframeLabel": "2025",
+    "status": "partial",
+    "targetDate": "2025-12-31",
+    "outcomeSummary": "Partially realized: 2025 did bring real coding agents that companies genuinely adopted (Claude Code, Cursor, Codex), but they augmented engineers rather than materially changing company output economy-wide; general autonomous 'employees' remained buggy and niche.",
+    "evidenceUrl": "https://www.anthropic.com/news",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "agents",
+      "workforce"
+    ]
+  },
+  {
+    "id": "sam-altman-knows-how-to-build-agi",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "Reflections",
+    "sourceUrl": "https://blog.samaltman.com/reflections",
+    "sourceDate": "2025-01-05",
+    "claim": "OpenAI is confident it knows how to build AGI as traditionally understood.",
+    "quote": "We are now confident we know how to build AGI as we have traditionally understood it.",
+    "category": "dated",
+    "timeframeLabel": "By end of 2026",
+    "status": "pending",
+    "targetDate": "2026-12-31",
+    "evidenceUrl": "https://openai.com/",
+    "polymarket": {
+      "slug": "openai-announces-it-has-achieved-agi-before-2027",
+      "question": "OpenAI announces it has achieved AGI before 2027?",
+      "url": "https://polymarket.com/event/openai-announces-it-has-achieved-agi-before-2027",
+      "cachedYesPct": 6.5,
+      "cachedAt": "2026-11-22"
+    },
+    "topics": [
+      "agi",
+      "openai"
+    ]
+  },
+  {
+    "id": "sam-altman-10x-cost-drop-annually",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "Three Observations",
+    "sourceUrl": "https://blog.samaltman.com/three-observations",
+    "sourceDate": "2025-02-09",
+    "claim": "The cost of using a given level of AI falls about 10x every 12 months.",
+    "quote": "The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use. You can see this in the token cost from GPT-4 in early 2023 to GPT-4o in mid-2024, where the price per token dropped about 150x in that time period. Moore’s law changed the world at 2x every 18 months; this is unbelievably stronger.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "correct",
+    "outcomeSummary": "Verified: inference prices kept collapsing through 2025–2026 — another order-of-magnitude-plus drop across flagship APIs and open-weight alternatives — with per-token costs still falling roughly 10x per year even as capabilities rose.",
+    "evidenceUrl": "https://openai.com/api/pricing",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "inference-costs",
+      "scaling"
+    ]
+  },
+  {
+    "id": "sam-altman-everyone-superhuman-2035",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "Three Observations",
+    "sourceUrl": "https://blog.samaltman.com/three-observations",
+    "sourceDate": "2025-02-09",
+    "claim": "Within a decade, everyone on Earth may be able to accomplish more than the most impactful person can today.",
+    "quote": "In a decade, perhaps everyone on earth will be capable of accomplishing more than the most impactful person can today.",
+    "category": "dated",
+    "timeframeLabel": "By 2035",
+    "status": "pending",
+    "targetDate": "2035-02-09",
+    "topics": [
+      "abundance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "sam-altman-life-same-in-2025",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "Three Observations",
+    "sourceUrl": "https://blog.samaltman.com/three-observations",
+    "sourceDate": "2025-02-09",
+    "claim": "In 2025 people will mostly spend their time the same way they did in 2024, despite the AI buildout.",
+    "quote": "Life will go on mostly the same in the short run, and people in 2025 will mostly spend their time in the same way they did in 2024.",
+    "category": "dated",
+    "timeframeLabel": "2025",
+    "status": "correct",
+    "targetDate": "2025-12-31",
+    "outcomeSummary": "Correct: despite the agent boom, day-to-day life, work structures and time use in 2025 were largely continuous with 2024 — the visible economy-wide transformation Sam also predicted did not arrive within the year.",
+    "evidenceUrl": "https://www.bls.gov/",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "society",
+      "adoption"
+    ]
+  },
+  {
+    "id": "sam-altman-thousand-virtual-coworkers",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "Three Observations",
+    "sourceUrl": "https://blog.samaltman.com/three-observations",
+    "sourceDate": "2025-02-09",
+    "claim": "AI agents will become real-but-relatively-junior virtual coworkers, deployable at 1,000 or 1-million scale across knowledge work.",
+    "quote": "Still, imagine it as a real-but-relatively-junior virtual coworker. Now imagine 1,000 of them. Or 1 million of them.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "partial",
+    "outcomeSummary": "Directionally right at small scale: 'relatively-junior virtual coworker' is exactly how 2026 users describe coding agents, and teams run fleets of them — but agents remain unreliable without human supervision, so the 1,000-per-person knowledge-work vision is unmet.",
+    "evidenceUrl": "https://www.anthropic.com/news",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "agents",
+      "future-of-work"
+    ]
+  },
+  {
+    "id": "sam-altman-science-speeds-up-most",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "Three Observations",
+    "sourceUrl": "https://blog.samaltman.com/three-observations",
+    "sourceDate": "2025-02-09",
+    "claim": "AGI's acceleration of scientific progress may surpass its impact on everything else.",
+    "quote": "Although some industries will change very little, scientific progress will likely be much faster than it is today; this impact of AGI may surpass everything else.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "partial",
+    "outcomeSummary": "Early but real: 2025–2026 delivered genuine AI-assisted science — drug and materials discovery, AI-generated research hypotheses, and Claude's November 2026 formal-proof work in Lean — though 'surpass everything else' remains a forecast rather than an observed fact.",
+    "evidenceUrl": "https://www.anthropic.com/news",
+    "verifiedAt": "2026-11-22",
+    "polymarket": {
+      "slug": "will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2027",
+      "question": "Will an AI lab announce another Millennium Prize solution by December 31, 2027?",
+      "url": "https://polymarket.com/event/ai-lab-announces-another-millennium-prize-solution-by",
+      "cachedYesPct": 96.4,
+      "cachedAt": "2026-11-22"
+    },
+    "topics": [
+      "science",
+      "agi-impact"
+    ]
+  },
+  {
+    "id": "sam-altman-2035-marshal-everyones-intellect",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "Three Observations",
+    "sourceUrl": "https://blog.samaltman.com/three-observations",
+    "sourceDate": "2025-02-09",
+    "claim": "By 2035 anyone should be able to marshal the intellectual capacity equivalent to everyone in 2025.",
+    "quote": "Anyone in 2035 should be able to marshall the intellectual capacity equivalent to everyone in 2025; everyone should have access to unlimited genius to direct however they can imagine.",
+    "category": "dated",
+    "timeframeLabel": "By 2035",
+    "status": "pending",
+    "targetDate": "2035-12-31",
+    "topics": [
+      "abundance",
+      "intelligence"
+    ]
+  },
+  {
+    "id": "sam-altman-coding-agents-2025",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "The Gentle Singularity",
+    "sourceUrl": "https://blog.samaltman.com/the-gentle-singularity",
+    "sourceDate": "2025-06-10",
+    "claim": "2025 brought agents capable of real cognitive work, and coding will never be the same.",
+    "quote": "2025 has seen the arrival of agents that can do real cognitive work; writing computer code will never be the same.",
+    "category": "dated",
+    "timeframeLabel": "2025",
+    "status": "correct",
+    "targetDate": "2025-12-31",
+    "outcomeSummary": "Correct: agentic coding (Claude Code, Cursor, Codex) went mainstream through 2025 and by 2026 is standard practice across the software industry — one of the clearest validated claims on either scorecard.",
+    "evidenceUrl": "https://www.anthropic.com/news",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "coding",
+      "agents"
+    ]
+  },
+  {
+    "id": "sam-altman-novel-insights-2026",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "The Gentle Singularity",
+    "sourceUrl": "https://blog.samaltman.com/the-gentle-singularity",
+    "sourceDate": "2025-06-10",
+    "claim": "2026 will bring AI systems that can figure out novel scientific insights.",
+    "quote": "2026 will likely see the arrival of systems that can figure out novel insights.",
+    "category": "dated",
+    "timeframeLabel": "2026",
+    "status": "correct",
+    "targetDate": "2026-12-31",
+    "outcomeSummary": "Correct: 2026 saw AI systems produce genuinely novel research output — including Claude's November 2026 formal-proof work on the Riemann hypothesis in Lean and a string of AI-assisted discovery results across mathematics and materials — matching 'systems that can figure out novel insights.'",
+    "evidenceUrl": "https://www.anthropic.com/news",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "science",
+      "ai-research"
+    ]
+  },
+  {
+    "id": "sam-altman-robots-2027",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "The Gentle Singularity",
+    "sourceUrl": "https://blog.samaltman.com/the-gentle-singularity",
+    "sourceDate": "2025-06-10",
+    "claim": "2027 may bring robots that can do tasks in the real world.",
+    "quote": "2027 may see the arrival of robots that can do tasks in the real world.",
+    "category": "dated",
+    "timeframeLabel": "2027",
+    "status": "pending",
+    "targetDate": "2027-12-31",
+    "topics": [
+      "robotics",
+      "embodied-ai"
+    ]
+  },
+  {
+    "id": "sam-altman-2030s-abundance",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "The Gentle Singularity",
+    "sourceUrl": "https://blog.samaltman.com/the-gentle-singularity",
+    "sourceDate": "2025-06-10",
+    "claim": "In the 2030s, intelligence and energy will become wildly abundant.",
+    "quote": "In the 2030s, intelligence and energy—ideas, and the ability to make ideas happen—are going to become wildly abundant.",
+    "category": "dated",
+    "timeframeLabel": "2030s",
+    "status": "pending",
+    "targetDate": "2039-12-31",
+    "topics": [
+      "energy",
+      "abundance"
+    ]
+  },
+  {
+    "id": "sam-altman-intelligence-cost-to-electricity",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "The Gentle Singularity",
+    "sourceUrl": "https://blog.samaltman.com/the-gentle-singularity",
+    "sourceDate": "2025-06-10",
+    "claim": "As datacenter production is automated, the cost of intelligence should converge toward the cost of electricity.",
+    "quote": "As datacenter production gets automated, the cost of intelligence should eventually converge to near the cost of electricity.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "pending",
+    "topics": [
+      "inference-costs",
+      "energy"
+    ]
+  },
+  {
+    "id": "sam-altman-superintelligence-thousand-days",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "The Intelligence Age",
+    "sourceUrl": "https://ia.samaltman.com/",
+    "sourceDate": "2024-09-23",
+    "claim": "Superintelligence may arrive within 'a few thousand days' of September 2024 — i.e., around 2032.",
+    "quote": "It is possible that we will have superintelligence in a few thousand days (!); it may take longer, but I’m confident we’ll get there.",
+    "category": "dated",
+    "timeframeLabel": "Within a few thousand days (~2032)",
+    "status": "pending",
+    "targetDate": "2032-09-23",
+    "topics": [
+      "superintelligence"
+    ]
+  },
+  {
+    "id": "sam-altman-autonomous-personal-assistants",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "The Intelligence Age",
+    "sourceUrl": "https://ia.samaltman.com/",
+    "sourceDate": "2024-09-23",
+    "claim": "AI models will soon act as autonomous personal assistants carrying out tasks like coordinating medical care.",
+    "quote": "AI models will soon serve as autonomous personal assistants who carry out specific tasks on our behalf like coordinating medical care on your behalf.",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "incorrect",
+    "outcomeSummary": "More than two years later (Nov 2026), mainstream AI models remain chat/search assistants rather than autonomous personal agents reliably coordinating real-world medical care.",
+    "evidenceUrl": "https://openai.com/",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "agents",
+      "healthcare"
+    ]
+  },
+  {
+    "id": "sam-altman-labor-markets-change-slowly",
+    "host": "Sam Altman",
+    "roleLabel": "OpenAI CEO · AI Bull",
+    "benchmarkSide": "bull",
+    "sourceTitle": "The Intelligence Age",
+    "sourceUrl": "https://ia.samaltman.com/",
+    "sourceDate": "2024-09-23",
+    "claim": "AI will significantly change labor markets in the coming years, but most jobs will change more slowly than most people think.",
+    "quote": "we expect that this technology can cause a significant change in labor markets (good and bad) in the coming years, but most jobs will change more slowly than most people think",
+    "category": "open-ended",
+    "timeframeLabel": "Open-Ended",
+    "status": "partial",
+    "outcomeSummary": "Reasonably calibrated: coding and content work were disrupted fastest and entry-level tech hiring thinned through 2025–2026, but economy-wide job transformation has been gradual — matching 'change is coming, slower than the hype.'",
+    "evidenceUrl": "https://www.bls.gov/",
+    "verifiedAt": "2026-11-22",
+    "topics": [
+      "labor-markets",
+      "society"
+    ]
+  }
+]
